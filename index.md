@@ -35,6 +35,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 10 — A Carga](capitulos/capitulo-10.md) — Mário amarrado, levado como mercadoria.
 - [Capítulo 11 — Os Nômades](capitulos/capitulo-11.md) — Kate viaja com nômades; enfrenta Estruzzo.
 - [Capítulo 12 — A Jaula](capitulos/capitulo-12.md) — Mário na alcateia; Lakand pergunta sobre viver sem matar.
+- [Capítulo 13 — A Sala Secreta](capitulos/capitulo-13.md) — Conselho secreto falha; Nolan decide viajar.
 
 ## Visuais (Timelines)
 

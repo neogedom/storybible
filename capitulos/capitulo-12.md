@@ -27,18 +27,18 @@ escuras, entregam ao Rei.
 um cantil — pequenos gestos de humanidade.
 
 **Lakand** retorna da patrulha e assume a vigília. Percebe que Mário não
-tem "cheiro de deus". Pergunta: *"É verdade que um homem pode viver sem
-sujar as mãos de sangue?"* — primeiro fio de conexão entre eles.
+tem "cheiro de deus". Pergunta: _"É verdade que um homem pode viver sem
+sujar as mãos de sangue?"_ — primeiro fio de conexão entre eles.
 
 ## Personagens
 
-| Personagem | Papel |
-|---|---|
-| [Mário](/personagens/mario.md) | POV. Na jaula, ouve, observa, processa. |
-| [Charles](/personagens/charles.md) | Quer a recompensa. Provoca os jovens. |
-| [Decian](/personagens/decian.md) | Cura Mário. Pequenos gestos de cuidado. |
-| [Lakand](/personagens/lakand.md) | Vigia. Percebe a diferença de Mário. |
-| Kenod | Ancião da alcateia. Define o prazo. |
+| Personagem                         | Papel                                   |
+| ---------------------------------- | --------------------------------------- |
+| [Mário](/personagens/mario.md)     | POV. Na jaula, ouve, observa, processa. |
+| [Charles](/personagens/charles.md) | Quer a recompensa. Provoca os jovens.   |
+| [Decian](/personagens/decian.md)   | Cura Mário. Pequenos gestos de cuidado. |
+| [Lakand](/personagens/lakand.md)   | Vigia. Percebe a diferença de Mário.    |
+| Kenod                              | Ancião da alcateia. Define o prazo.     |
 
 ## Eventos-chave
 

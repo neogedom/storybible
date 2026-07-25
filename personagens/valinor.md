@@ -17,11 +17,10 @@ como homem.
 ## Arco
 
 - **Cap. 13**: Recusa Nolan no Conselho secreto. "O Rei é o Rei."
+  Tensão familiar: Nolan é genro, Valinor não escolhe entre juramento e família.
 - **Pós-cap. 25-28**: Descobre que Nolan quer o trono.
-- **Invasão de Alavria (final L1)**: Comanda a defesa da Metrópole. Morre
-  segurando uma posição crítica.
-- **Última fala a Nolan**: "A Casa Addorbek serviu à Coroa por três
-  gerações. Você quer ser a Coroa? Prove." — julgamento suspenso.
+- **Invasão de Alavria (final L1)**: Comanda a defesa. Morre em combate.
+- **Última fala**: Julgamento suspenso.
 
 ## Função Temática
 

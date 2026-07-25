@@ -93,9 +93,15 @@ são as premissas.
 
 ### Capítulo 9 — O Diário Perdido
 
-- Janta com Dagmar e Valinor — tenso, distraído
-- Layla entrega a Bíblia de Kraviam, não o diário
-- Nolan quer matá-la, mas não pode (se incriminaria)
+- Janta com Dagmar e Valinor; Layla entrega a Bíblia
+
+### Capítulo 13 — A Sala Secreta
+
+- Reúne o Conselho: Nuh, Valinor, Lupe'i, Koda
+- Reino falido. Nuh rejeita. Valinor recusa.
+- **A razão não basta** — momento de virada
+- Lupe'i revela: Souhma real está com os daërunmeges
+- Nolan decide: precisa chegar ao Souhma primeiro
 
 _Atualizado a cada INGEST de capítulo._
 

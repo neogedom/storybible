@@ -22,10 +22,10 @@ Evangelho autêntico — e vê Mário traí-lo.
 
 ## Arco
 
-- **L1**: Refúgio de hegralianos; torneios em Gus
-- **L2**: Percebe a contradição de Mário → funda rede de proteção →
-  conecta-se com Gunad → preso e torturado → libertado → vê Mário partir
-- **Conflito com Piet**: Piet quer convencer Mário; Lupe'i sabe que é inútil.
+- **L1**: Cap. 13: participa do Conselho secreto. Tragaz a informação do
+  Souhma real entre os daërunmeges.
+- **L2**: Percebe a contradição de Mário → funda o Remanescente
+- **Conflito com Piet**: Piet quer convencer; Lupe'i sabe que é inútil.
 
 ## Relações
 

@@ -44,10 +44,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - Roupas: trajes formais de jantar
 - **Óculos**: sim
-- Local: sala de jantar → jardins (casa de Nolan)
-- Expressão: tenso, furioso (contido)
-- Iluminação: luz de jantar → jardins com chafariz
-- Acessórios: Bíblia de Kraviam (recebida de Layla)
+- Local: casa de Nolan (jantar → jardins)
+- Expressão: tenso, furioso
+
+## Capítulo 13 — A Sala Secreta
+
+- Roupas: trajes formais de conselheiro
+- **Óculos**: sim
+- Local: sala secreta sob o palácio
+- Acessórios: Bíblia de Kraviam (usada como prova, rejeitada)
+- Expressão: tenso, depois quebrado — "a razão não basta"
+- Iluminação: candelabro único, penumbra
 
 ## Histórico por Capítulo
 

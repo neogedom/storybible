@@ -23,13 +23,12 @@ teológico**, não malícia.
 
 ## Arco
 
-- **Cap. 13**: Rejeita a Bíblia — não por cinismo, mas porque não a reconhece
-- **Final do L1**: Descobre que Genocydo cedeu a Mina aos Clãs de Sangue.
-  Choque teológico: Vonos não estava no controle. Some do palácio.
-- **Entre L1 e L2**: Bêbado anônimo numa taverna de beira de estrada.
-- **L2 (encontro com Remanescente)**: Reconhece os nomes — Abraão, Davi,
-  Jesus — e entende tarde demais. Não se converte. Apenas constata o erro.
-  Recusa o convite. "Já é tarde para começar a acreditar no deus certo."
+- **Cap. 13**: Rejeita a evidência da falência. Escolhe a apoteose.
+  "Não importa. O ouro é métrica para homens mortais."
+  Rejeita a Bíblia — não a reconhece.
+- **Final do L1**: Choque teológico: Vonos não estava no controle. Some.
+- **Entre L1 e L2**: Bêbado anônimo.
+- **L2**: Encontra o Remanescente. "Já é tarde."
 
 ## Relações
 
