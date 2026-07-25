@@ -80,10 +80,14 @@ mas também não consegue explicar.
 
 ### Capítulo 8 — A Caverna
 
-- Caça vampiros mortos com Lakand — frustração
-- Descobre que Charles foi para Opium atrás da recompensa
-- Devour também quer o Souhma
-- Relação física com Lakand (transacional)
+- Caça com Lakand; descobre que Charles foi para Opium
+
+### Capítulo 11 — Os Nômades
+
+- Viaja com nômades como disfarce para chegar a Devour
+- Lembra de Theodore (amor perdido) — ferida emocional
+- Tae-Tabor revela: Lakand salvou os nômades
+- Enfrenta Estruzzo — crava adaga no olho dele
 
 _Atualizado a cada INGEST de capítulo._
 

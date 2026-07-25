@@ -33,6 +33,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 8 — A Caverna](capitulos/capitulo-08.md) — Kate e Lakand; Charles foi para Opium.
 - [Capítulo 9 — O Diário Perdido](capitulos/capitulo-09.md) — Layla entrega a Bíblia a Nolan.
 - [Capítulo 10 — A Carga](capitulos/capitulo-10.md) — Mário amarrado, levado como mercadoria.
+- [Capítulo 11 — Os Nômades](capitulos/capitulo-11.md) — Kate viaja com nômades; enfrenta Estruzzo.
+- [Capítulo 12 — A Jaula](capitulos/capitulo-12.md) — Mário na alcateia; Lakand pergunta sobre viver sem matar.
 
 ## Visuais (Timelines)
 

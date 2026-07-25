@@ -62,12 +62,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Expressão: dor, pânico, choque
 
 ## Capítulo 10 — A Carga
-- Roupas: camiseta ensanguentada, **sapatos de um morto**
-- Ferimentos: ombro com atadura (curado por Decian)
-- Acessórios: corda de sisal nos pulsos
-- Expressão: choque, aceitação da nova realidade
-- Ambiente: torre ao amanhecer → partida pela floresta
-- Iluminação: sol nascendo, corpos de vampiros queimando
+- Roupas: camiseta ensanguentada, sapatos de morto
+- Ferimentos: ombro com atadura
+- Acessórios: corda de sisal
+- Expressão: choque, aceitação
+
+## Capítulo 12 — A Jaula
+- Roupas: camiseta suja de sangue e lama, sapatos de morto
+- Ferimentos: ombro em cicatrização (pasta de raiz negra)
+- Expressão: observador, processando, exausto
+- Ambiente: jaula de bambu, acampamento da alcateia, fogueiras
+- Iluminação: crepúsculo → noite de vigília
 
 ## Histórico por Capítulo
 

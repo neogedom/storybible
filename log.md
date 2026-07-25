@@ -53,5 +53,11 @@
 - **Ingestão**: Capítulo 10 — A Carga ingerido.
   Personagens atualizados: Mário (carga, curado), Charles (revelado), Decian (hesitação).
   Visuals atualizados: Mário (sapatos de morto, atadura).
+- **Ingestão**: Capítulo 11 — Os Nômades ingerido.
+  Personagens atualizados: Kate (Theodore, nômades, Estruzzo).
+  Visuals atualizados: Kate (adagas, sangue de Estruzzo).
+- **Ingestão**: Capítulo 12 — A Jaula ingerido.
+  Personagens atualizados: Mário (fala ornickenho), Lakand (primeiro diálogo), Decian (cuidado).
+  Visuals atualizados: Mário (jaula, fogueiras).
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.

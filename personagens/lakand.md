@@ -43,10 +43,23 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 - [Kate](/personagens/kate.md) — aliada. Lakand respeita Kate.
 - [Mário](/personagens/mario.md) — protegido indireto. Lakand ajuda por
   estar ao lado de Kate.
+- **Tae-Tabor** — amigo. Lakand salvou os nômades dele dos vampiros. Tem
+  uma dívida emocional com ele.
 - [Benjamim](/personagens/benjamim.md) — aliado futuro. No L2, Lakand se
   alia a Benjamim.
 
 ## Arco Narrativo
+
+### Capítulo 12 — A Jaula
+- Retorna da patrulha; assume vigília de Mário
+- Percebe que Mário não tem "cheiro de deus" — é vazio
+- Pergunta a Mário: "é verdade que um homem pode viver sem matar?"
+- Primeiro fio de conexão entre eles
+
+### Nota — Massacre dos Nômades
+- Tae-Tabor (amigo de Lakand) morrerá no massacre dos nômades
+- Quando Lakand souber, deve estar **em luto** — tristeza contida, não raiva explosiva
+- Essa perda deve pesar em suas decisões futuras
 ### Capítulo 8 — A Caverna
 - Caça com Kate em Saramant — vampiros mortos
 - Revela que Charles foi para Opium

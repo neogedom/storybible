@@ -36,12 +36,19 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Capítulo 8 — A Caverna
 
-- Roupas: farrapos (pouca roupa para mobilidade)
-- Acessórios: faca de caça, tocha
-- Sujeira: cinza, musgo azedo da caverna
-- Expressão: frustração, tédio, provocação
-- Iluminação: tocha, fogo da pira
-- Fundo: caverna em Saramant, musgo, ossos
+- Roupas: farrapos
+- Acessórios: faca, tocha
+- Sujeira: cinza, musgo
+- Expressão: frustração
+
+## Capítulo 11 — Os Nômades
+
+- Roupas: couro de caçadora, adagas
+- Acessórios: adagas no cinto, lâmina prateada
+- Sujeira: sangue de Estruzzo (amarelo/enxofre) na mão
+- Expressão: hostilidade, fúria, provocação
+- Iluminação: sol do descampado → fogueira → luar azulado
+- Fundo: acampamento nômade (tendas coloridas, mogno) → clareira noturna
 
 ## Histórico por Capítulo
 
