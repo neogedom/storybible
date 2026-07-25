@@ -44,11 +44,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## Capítulo 11 — Os Nômades
 
 - Roupas: couro de caçadora, adagas
-- Acessórios: adagas no cinto, lâmina prateada
-- Sujeira: sangue de Estruzzo (amarelo/enxofre) na mão
-- Expressão: hostilidade, fúria, provocação
-- Iluminação: sol do descampado → fogueira → luar azulado
-- Fundo: acampamento nômade (tendas coloridas, mogno) → clareira noturna
+- Acessórios: adagas, lâmina prateada
+- Sujeira: sangue de Estruzzo
+- Expressão: fúria
+
+## Capítulo 14 — O Encontro
+
+- Roupas: couro de caçadora, faca no colo
+- Acessórios: faca de caça
+- Expressão: alerta, desconfiança → choque (Mário) → prontidão (uivo)
+- Iluminação: noite azul suja, fogueira ao fundo
+- Fundo: clareira estreita entre barrancos, raízes expostas
 
 ## Histórico por Capítulo
 

@@ -62,5 +62,8 @@
 - **Ingestão**: Capítulo 13 — A Sala Secreta ingerido.
   Personagens atualizados: Nolan (a razão não basta), Nuh (apoteose), Valinor (recusa), Lupe'i (informante).
   Visuals atualizados: Nolan (sala secreta, candelabro).
+- **Ingestão**: Capítulo 14 — O Encontro ingerido.
+  Personagens atualizados: Kate (Mário surge, uivo de guerra).
+  Visuals atualizados: Kate (vigília, clareira noturna).
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.

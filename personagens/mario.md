@@ -80,9 +80,10 @@ o torna inescapável.
   em Ornick (duas luas). Consegue traduzir idiomas. É capturado.
 - **Cap. 7 — Os Lordes Defuntos**: Mário é apunhalado no ombro. Charles se revela.
 - **Cap. 10 — A Carga**: Mário curado, amarrado, levado como mercadoria.
-- **Cap. 12 — A Jaula**: Mário fala ornickenho pela 1ª vez (Voz).
-  Chega ao acampamento. Kenod define prazo. Lakand pergunta: "é verdade
-  que um homem pode viver sem matar?"
+- **Cap. 12 — A Jaula**: Mário fala ornickenho. Kenod define prazo.
+  Lakand pergunta sobre viver sem matar. **Mário foge na 3ª noite** —
+  quebra o bambu, usa cinzas para disfarçar o cheiro, Lakand ausente
+  (cúmplice?). Corre para a floresta.
 - **Debate (caps. 3-17)**: "Isso é real?" Mário questiona, resiste, aprende.
 - **Break Into 2 (caps. 18-19)**: Mário ressuscita Saboc. Aceita seu papel.
 - **Jogos (caps. 20-25)**: Milagres, evangelização, Mina de Quartzo.

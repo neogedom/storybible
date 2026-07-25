@@ -1,10 +1,10 @@
 ---
 type: Chapter
 title: "Capítulo 12 — A Jaula"
-description: "Mário chega ao acampamento dos daërunmeges. Kenod define o prazo. Lakand faz a primeira pergunta."
+description: "Mário chega ao acampamento dos daërunmeges. Kenod define o prazo. Lakand faz a primeira pergunta. Mário foge na 3ª noite."
 pov: [Mário]
 stc-beat: "Debate (~36-40%)"
-timeline: "2-3 dias após cap. 10"
+timeline: "3 dias — cap. 12 termina com a fuga de Mário"
 tags: [L1, mario, alcateia, kenod, lakand, decian, charles]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
@@ -60,6 +60,9 @@ sujar as mãos de sangue?"_ — primeiro fio de conexão entre eles.
   vendido. Tensão de tempo.
 - 🌱 **Mário fala ornickenho**: Dom da Voz. Primeira vez que estrangeiro
   e nativos se comunicam.
+- 🌱 **A fuga de Mário**: Ele escapa na 3ª noite — quebra o bambu mais
+  fino, usa cinzas para disfarçar o cheiro. Lakand propositalmente ausente
+  da vigília (silêncio cúmplice?).
 
 ## Conexões
 

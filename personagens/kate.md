@@ -84,10 +84,14 @@ mas também não consegue explicar.
 
 ### Capítulo 11 — Os Nômades
 
-- Viaja com nômades como disfarce para chegar a Devour
-- Lembra de Theodore (amor perdido) — ferida emocional
-- Tae-Tabor revela: Lakand salvou os nômades
-- Enfrenta Estruzzo — crava adaga no olho dele
+- Viaja com nômades. Enfrenta Estruzzo.
+
+### Capítulo 14 — O Encontro
+
+- Vigília noturna. Godi mudado após o ataque.
+- Tae-Tabor pergunta: "você vai ficar?"
+- **Mário surge na clareira** — primeiro contato visual
+- Uivo de guerra anuncia ataque iminente
 
 _Atualizado a cada INGEST de capítulo._
 
