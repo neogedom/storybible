@@ -43,7 +43,11 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 7. O Inquiridor do Sinal
 
-- **Plantio**: L1, Prólogo + Cap. 2
-- **Germinação**: L2 — Reaparece como força antagonista
+- **Plantio**: L1, Prólogo — Inquiridores mobilizados
+- **Plantio 2**: L1, Cap. 2 — Aparece fisicamente, atira em Mário
+- **Plantio 3**: L1, Caps. 3, 5, 6 — Mencionado como facção que compete por custódia
+- **Plantio 4**: L1, Cap. 17 — Intimação formal a Devour; diapasões na floresta
+- **Plantio 5**: L1, Cap. 18 — Devour aguarda escolta oficial dos Inquiridores
+- **Germinação**: L2 — Reaparece como força antagonista que tenta centralizar Mário para o culto de Vonos
 
 *Atualizar a cada INGEST de capítulo.*
