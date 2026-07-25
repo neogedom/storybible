@@ -61,7 +61,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Koda Deltëra](personagens/koda.md) — Mestre da Moeda, espião de Alavria.
 - [Edgard Lupe'i](personagens/lupei.md) — Hegraliano, fundador da Cidadela de Gus.
 - [Nuh d'Teraghar](personagens/nuh-dteraghar.md) — Sumo Sacerdote de Vonos.
-- [Inquiridor do Sinal](personagens/inquiridor.md) — Caçador do Estrangeiro, agente de Vonos.
+- [Inquiridores do Sinal](personagens/inquiridor.md) — Facção de Vonos que caça o Estrangeiro.
 - [Valinor Addorbek](personagens/valinor.md) — General dos Espadas da Lei.
 
 ## Temas

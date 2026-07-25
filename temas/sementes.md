@@ -50,4 +50,4 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Plantio 5**: L1, Cap. 18 — Devour aguarda escolta oficial dos Inquiridores
 - **Germinação**: L2 — Reaparece como força antagonista que tenta centralizar Mário para o culto de Vonos
 
-*Atualizar a cada INGEST de capítulo.*
+_Atualizar a cada INGEST de capítulo._
