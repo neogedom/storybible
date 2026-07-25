@@ -74,9 +74,11 @@ o torna inescapável.
   Na Terra, a Voz ordena que cure um moribundo — Mário **recusa** por medo do
   irracional. Primeiro teste de fé: falha.
 - **Cap. 2 — A Travessia**: Mário é sequestrado. A Voz ordena que suje as
-  mãos na lama — Mário obedece. **Primeira rendição**. O milagre da porta:
-  correntes caem. Mário chega a Ornick. O Inquiridor atira 3 vezes.
-  A obediência não trouxe segurança — trouxe sofrimento.
+  mãos na lama — Mário obedece. **Primeira rendição**. O milagre da porta.
+  Inquiridor atira 3 vezes.
+- **Cap. 4 — Opium**: Mário acorda **curado** dos 3 tiros. Descobre que está
+  em Ornick (duas luas). Consegue traduzir idiomas automaticamente.
+  É capturado por vampiros na Vila de Opium.
 - **Debate (caps. 3-17)**: "Isso é real?" Mário questiona, resiste, aprende.
 - **Break Into 2 (caps. 18-19)**: Mário ressuscita Saboc. Aceita seu papel.
 - **Jogos (caps. 20-25)**: Milagres, evangelização, Mina de Quartzo.

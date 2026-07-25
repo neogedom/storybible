@@ -49,6 +49,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Expressão: choque, dor, desespero
 - Iluminação: luminescência ametista, céu escuro com luas
 
+## Capítulo 4 — Opium
+- Roupas: trapos encardidos, pés descalços
+- Mãos: ainda com lama seca entre os dedos (prova do milagre)
+- Corpo: **curado** — sem cicatrizes dos tiros
+- Expressão: horror, choque cósmico (duas luas), medo
+- Ambiente: cabana rústica → povoado massacrado → torre octogonal
+- Iluminação: luz pálida de duas luas, azul mórbido
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

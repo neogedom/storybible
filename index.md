@@ -26,6 +26,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 1 — O Sonho](capitulos/capitulo-01.md) — Mário sonha com a guerra; na Terra, recusa fazer o milagre.
 - [Capítulo 2 — A Travessia](capitulos/capitulo-02.md) — Mário sequestrado, obedece à Voz pela 1ª vez, Inquiridor atira.
 - [Capítulo 3 — A Conspiração](capitulos/capitulo-03.md) — Koda revela ruína; Nolan aceita conspirar.
+- [Capítulo 4 — Opium](capitulos/capitulo-04.md) — Mário acorda curado em Ornick; vila massacrada; capturado.
 
 ## Visuais (Timelines)
 
@@ -42,6 +43,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 - [Metrópole](lugares/metropole.md) — Capital do Reino de Ornick, sede do Monólito da Verdade.
 - [Saramant](lugares/saramant.md) — Floresta ao redor da fortaleza de Devour, território de caça de Kate.
+- [Vila de Opium](lugares/opium.md) — Povoado massacrado, onde Mário acorda em Ornick.
 
 ## Conceitos
 

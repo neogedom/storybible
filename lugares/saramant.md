@@ -28,3 +28,4 @@ território onde Kate caça e onde Gaviorn'l a deixou anos atrás.
 ## Conexões
 
 - [Kate](/personagens/kate.md) — Caçadora em Saramant
+- [Vila de Opium](opium.md) — Povoado massacrado dentro de Saramant

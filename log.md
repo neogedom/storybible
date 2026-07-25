@@ -30,3 +30,11 @@
   Visuals atualizados: Nolan (cinzas, óculos, sorriso).
   Conceito atualizado: Segregação (autoria de Nolan).
   Semente: chá de cascas de olmo (Juleen) — morte de Dagmar.
+- **Ingestão**: Capítulo 4 — Opium ingerido. Resumo em capitulos/capitulo-04.md.
+  Personagem atualizado: Mário (curado, tradução automática, capturado).
+  Visuals atualizados: Mário (trapos, pés descalços, duas luas).
+  Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.
+- **Ingestão**: Capítulo 4 — Opium ingerido. Resumo em capitulos/capitulo-04.md.
+  Personagem atualizado: Mário (curado, tradução automática, capturado).
+  Visuals atualizados: Mário (trapos, pés descalços, duas luas).
+  Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.
