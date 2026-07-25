@@ -13,7 +13,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cabelo     | Preto, curto, desgrenhado           |
 | Pele       | Clara, pálida                       |
 | Roupas     | Camiseta urbana, calça jeans, tênis |
-| Acessórios | Nenhum                              |
+| Acessórios | **Óculos**                          |
 | Armas      | Nenhuma                             |
 | Cicatrizes | Nenhuma                             |
 | Expressão  | Medo, desespero                     |
@@ -24,8 +24,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Capítulo 1 — O Sonho
 
-- Roupas: mesmas da Terra, manchadas de sangue (sonho com Vicent)
-- Expressão: terror
+### Sonho (Ornick)
+- Roupas: mesmas da Terra (projeção onírica)
+- Expressão: terror, impotência
+- Ambiente: campo de batalha, castelo de quartzo em ruínas
+
+### Terra
+- Roupas: casaco urbano, jaqueta (igreja e rua)
+- **Óculos**: sim (caem no asfalto durante a agressão)
+- Sujeira: mãos manchadas de sangue do rapaz morto
+- Expressão: choque, culpa, desespero
+- Iluminação: luz amarela de poste, chuva
 
 ## Capítulo 2 — A Travessia
 

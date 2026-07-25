@@ -19,3 +19,7 @@
 - **Ingestão**: Temas — Timeline de Ornick, Mapa de Sementes Cross-Livro.
 - **Ingestão**: Lote final — Arcos por Livro, Esquema do L2, Riscos Estruturais,
   Dicionário Fonético. Todo o material do `.github/storybible/` foi ingerido.
+- **Ingestão**: Capítulo 1 — O Sonho ingerido. Resumo em capitulos/capitulo-01.md.
+  Personagem atualizado: Mário (primeiro teste de fé: falha).
+  Visuals atualizados: Mário (óculos confirmado, sangue nas mãos).
+  Semente: Vicent Tanässer (morto no sonho).

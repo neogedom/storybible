@@ -23,6 +23,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 ## Capítulos
 
 - [Capítulo 0 — Prólogo](capitulos/capitulo-00.md) — O oráculo de Vonos falha. Kate sente o vazamento em Saramant.
+- [Capítulo 1 — O Sonho](capitulos/capitulo-01.md) — Mário sonha com a guerra; na Terra, recusa fazer o milagre.
 
 ## Visuais (Timelines)
 

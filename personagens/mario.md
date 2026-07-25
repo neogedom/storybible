@@ -24,7 +24,7 @@ seguidores, mas suas ações (e os milagres que testemunha) atraem ambos.
 - **Olhos**: escuros (cor não especificada)
 - **Pele**: clara, pálida
 - **Estatura**: mediana, magro
-- **Traços fixos**: sem óculos, sem barba, postura de exaustão crônica
+- **Traços fixos**: **usa óculos** (cap. 1 confirma), sem barba, postura de exaustão crônica
 - **Mãos**: originalmente lisas de estudante; com o tempo, cortes, queimaduras e unhas quebradas
 
 Ver timeline visual completa em [visuais/mario.md](/visuais/mario.md).
@@ -70,6 +70,9 @@ o torna inescapável.
 
 - **Configuração (caps. 0-2)**: Mário na Terra. Sonho com Ornick. Garoto morre.
   Mário é levado.
+- **Cap. 1 — O Sonho**: Mário sonha com a guerra (Gabbriel mata Vicent).
+  Na Terra, a Voz ordena que cure um moribundo — Mário **recusa** por medo do
+  irracional. Primeiro teste de fé: falha.
 - **Debate (caps. 3-17)**: "Isso é real?" Mário questiona, resiste, aprende.
 - **Break Into 2 (caps. 18-19)**: Mário ressuscita Saboc. Aceita seu papel.
 - **Jogos (caps. 20-25)**: Milagres, evangelização, Mina de Quartzo.
@@ -94,5 +97,5 @@ _Registrar citações marcantes durante o INGEST dos capítulos._
 
 - **Permitido**: sujeira, sangue não gráfico, expressão de medo/desespero/esperança,
   bandagens, ferimentos implícitos
-- **Proibido**: óculos, barba, uniforme militar, armas, roupas de Ornick,
+- **Proibido**: barba, uniforme militar, armas, roupas de Ornick,
   gore explícito, itens modernos não estabelecidos
