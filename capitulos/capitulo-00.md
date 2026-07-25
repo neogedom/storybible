@@ -86,8 +86,4 @@ Metrópole — "como se algo estivesse vindo".
 
 ## Notas de INGEST
 
-- **Contradição detectada**: Nolan usa óculos na cena ("Nolan Guenayer
-  ajustou os óculos"), mas a ficha canônica de Nolan especifica
-  "**Sem óculos** (correção: a ficha anterior estava errada)". Isso precisa
-  ser resolvido: ou o capítulo está errado, ou a ficha está errada.
 - A brasa que Kate sente é Hícse — confirmar nomenclatura canônica.

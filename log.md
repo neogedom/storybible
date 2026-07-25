@@ -9,5 +9,5 @@
 - **Ingestão**: Capítulo 0 — Prólogo ingerido. Resumo em capitulos/capitulo-00.md.
   Personagens atualizados: Nolan, Kate, Genocydo, Benjamim.
   Visuais atualizados: Nolan, Kate, Genocydo, Benjamim.
-  **⚠️ LINT: Contradição detectada** — Nolan usa óculos no cap. 0,
-  mas a ficha canônica afirma "Sem óculos".
+- **LINT**: Contradição (Nolan × óculos) resolvida — ficha canônica corrigida,
+  Nolan usa óculos (canônico).

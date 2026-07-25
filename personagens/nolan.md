@@ -25,7 +25,7 @@ quanto mais tenta controlar, mais perde.
 - **Olhos**: escuros, penetrantes
 - **Pele**: limpa, sem imperfeições
 - **Estatura**: alta, postura ereta e rígida
-- **Traços fixos**: sem óculos, aparência aristocrática, expressão de frieza
+- **Traços fixos**: **usa óculos** (canônico, confirmado pelo cap. 0), aparência aristocrática, expressão de frieza
 - **Mãos**: dedos finos, fortes e imaculados
 
 Ver timeline visual completa em [visuais/nolan.md](/visuais/nolan.md).
@@ -74,11 +74,6 @@ são as premissas.
 - Recebe ordens de Genocydo para caçar o Souhma
 - Preocupado com ordem pública acima de tudo
 
-### Contradição Detectada
-- **Óculos**: O capítulo 0 descreve Nolan ajustando os óculos, mas a ficha
-  canônica afirma "Sem óculos (correção: a ficha anterior estava errada)".
-  Resolver: alinhar capítulo ou ficha.
-
 *Atualizado a cada INGEST de capítulo.*
 
 ## Citações
@@ -99,5 +94,5 @@ são as premissas.
 
 - **Permitido**: cansaço, desespero frio, fúria contida, variação de expressão
   (nunca aberta), roupas de viagem
-- **Proibido**: óculos, uniforme militar, desleixo extremo, sujeira excessiva
+- **Proibido**: uniforme militar, desleixo extremo, sujeira excessiva
   (Nolan é limpo mesmo em viagem), gore explícito, itens modernos
