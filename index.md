@@ -27,6 +27,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 2 — A Travessia](capitulos/capitulo-02.md) — Mário sequestrado, obedece à Voz pela 1ª vez, Inquiridor atira.
 - [Capítulo 3 — A Conspiração](capitulos/capitulo-03.md) — Koda revela ruína; Nolan aceita conspirar.
 - [Capítulo 4 — Opium](capitulos/capitulo-04.md) — Mário acorda curado em Ornick; vila massacrada; capturado.
+- [Capítulo 5 — A Selvagem](capitulos/capitulo-05.md) — Kate mata Tharin; Gaviorn'l avisa sobre o Rohdis.
 
 ## Visuais (Timelines)
 

@@ -1,15 +1,18 @@
 ---
 type: Character
 title: Kate
-description: Caçadora leviantar, protetora relutante de Mário. Vínculo ambíguo entre dever e escolha.
-tags: [protagonista, leviantar, cacadora, L1]
+description: Caçadora leviantar gnock (nascida sem poder), protetora relutante de Mário. Vínculo ambíguo entre dever e escolha.
+tags: [protagonista, leviantar, gnock, cacadora, L1]
 resource: https://github.com/neogedom/storybible/blob/main/personagens/kate.md
 timestamp: 2026-07-24T12:00:00-03:00
 ---
 
 ## Visão Geral
 
-Kate é uma caçadora leviantar de Saramant. Inicialmente encarregada de capturar
+Kate é uma caçadora leviantar **gnock** de Saramant — nasceu sem afinidade
+elemental, o que a torna única entre os leviantares. Essa ausência de magia
+no sangue é também sua maior arma: é imune às armas geométricas dos
+Inquiridores. Inicialmente encarregada de capturar
 Mário, ela desenvolve um vínculo ambíguo com ele — não romântico, não maternal,
 mas algo entre proteção, dívida e escolha própria.
 
@@ -24,6 +27,7 @@ universo e Nolan calcula variáveis, Kate age. Ela não tem tempo para filosofia
 - **Olhos**: escuros (não especificados de forma canônica)
 - **Pele**: clara
 - **Estatura**: média, atlética, proporcional e ágil
+- **Raça**: Leviantar **gnock** (sem afinidade elemental)
 - **Traços fixos**: sem óculos, postura dura, expressão fria
 
 Ver timeline visual completa em [visuais/kate.md](/visuais/kate.md).
@@ -66,12 +70,17 @@ mas também não consegue explicar.
 ### Capítulo 0 — Prólogo
 
 - Em Saramant, perto da fortaleza de Devour
-- Sente um vazamento/fúria que não é dela (Hícse?)
-- A palavra "Guerra" ocupa sua mente como uma sílaba que queima
-- Massacra 5 rampillas e um xamã que transformava humano
-- Liberta um camponês capturado
-- A violência acalma a brasa mas não a apaga
-- A brasa aponta para a direção da Metrópole
+- Sente o vazamento de Hícse
+- Massacra 5 rampillas e um xamã
+- A brasa aponta para a Metrópole
+
+### Capítulo 5 — A Selvagem
+
+- Mata Tharin (gornad de 3 chifres) em treino
+- Relembra: Benjamim Cressadar a treinou como arma de Terbs
+- É imune às armas dos Inquiridores (sem magia no sangue)
+- Gaviorn'l a avisa: espectros no Rohdis pararam
+- Algo grande está acontecendo — Kate anseia pela guerra
 
 _Atualizado a cada INGEST de capítulo._
 

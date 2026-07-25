@@ -34,7 +34,8 @@
   Personagem atualizado: Mário (curado, tradução automática, capturado).
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.
-- **Ingestão**: Capítulo 4 — Opium ingerido. Resumo em capitulos/capitulo-04.md.
-  Personagem atualizado: Mário (curado, tradução automática, capturado).
+- **Ingestão**: Capítulo 5 — A Selvagem ingerido. Resumo em capitulos/capitulo-05.md.
+  Personagens atualizados: Kate (arma de Terbs, frustração), Gaviorn'l (aviso do Rohdis).
+  Visuals atualizados: Kate (saia de couro, suor).
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.
