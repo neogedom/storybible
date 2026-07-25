@@ -75,6 +75,15 @@ são as premissas.
 - Recebe ordens de Genocydo para caçar o Souhma
 - Preocupado com ordem pública acima de tudo
 
+### Capítulo 3 — A Conspiração
+
+- Volta do tribunal após execuções (Gerikhad)
+- **Revela-se: Nolan idealizou a Segregação**, não Genocydo
+- Encontra Koda nas catacumbas; descobre que Genocydo drenou os cofres
+- Deduz que Benjamim Cressadar manipula Genocydo
+- Aceita a sugestão de conspiração de Koda
+- **Primeiro sorriso** — o cálculo político encontrou seu caminho
+
 _Atualizado a cada INGEST de capítulo._
 
 ## Citações

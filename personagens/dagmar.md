@@ -55,8 +55,8 @@ tem custo**, e o custo é ela.
 
 ## Arco Narrativo
 
-- **Configuração**: Esposa silenciosa na carruagem
-- **Crise**: Tapa de Nolan (cap. 16)
+- **Configuração**: Esposa silenciosa na carruagem- **Cap. 3**: Grávida de Saboc. Toma chá de cascas de olmo (dado por Juleen).
+  Nolan dá chocalho de madeira; escolhe nome masculino.- **Crise**: Tapa de Nolan (cap. 16)
 - **Morte**: Parto (cap. 18)
 
 _Atualizado a cada INGEST de capítulo._

@@ -14,10 +14,9 @@ A Segregação foi **idealizada por Nolan** (trauma pessoal: seu pai contraiu
 doença de uma prostituta humana nas cidades pré-Metrópole). Foi **implementada
 por Genocydo** como política de estado.
 
-Justificativa pública: humanos carregam bactéria contagiosa que ameaça
-leviantares. Esta crença é **falsa** — é manipulação política disfarçada de
-saúde pública.
-
+> **Nota do cap. 3**: Poucos sabem que Nolan é o arquiteto. O capítulo 3
+> revela que Nolan desenhou o Great Gateway e a estrutura de separação;
+> Genocydo apenas a sancionou publicamente.
 ## Consequências
 
 - Separação física entre humanos e leviantares no Reino

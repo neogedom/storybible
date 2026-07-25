@@ -25,6 +25,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Acessórios: lenço de seda (rinite)
 - Expressão: frieza calculista, irritação
 
+## Capítulo 3 — A Conspiração
+
+- Roupas: vestes cinzentas com cinzas de fogueiras (Gerikhad)
+- **Óculos**: sim (armação de ébano)
+- Cabelos: umedecidos (banhou-se após o tribunal)
+- Acessórios: chocalho de madeira para Saboc (no bolso)
+- Expressão: exausto, depois calculista; **sorri pela primeira vez**
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

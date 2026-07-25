@@ -23,8 +23,10 @@
   Personagem atualizado: Mário (primeiro teste de fé: falha).
   Visuals atualizados: Mário (óculos confirmado, sangue nas mãos).
   Semente: Vicent Tanässer (morto no sonho).
-- **Ingestão**: Capítulo 2 — A Travessia ingerido. Resumo em capitulos/capitulo-02.md.
-  Personagem atualizado: Mário (primeira rendição, 3 tiros).
-  Visuals atualizados: Mário (lama, sangue dos tiros).
-  Inquiridor: aparição do cap. 2 registrada.
-  Semente: "engravatado esquisito" — mistério de quem pagou o sequestro.
+- **Ingestão**: Capítulo 2 — A Travessia ingerido.
+- **Ingestão**: Capítulo 3 — A Conspiração ingerido. Resumo em capitulos/capitulo-03.md.
+  Personagens atualizados: Nolan (arquiteto da Segregação, conspira com Koda),
+  Dagmar (chá de olmo), Koda (primeira abordagem a Nolan).
+  Visuals atualizados: Nolan (cinzas, óculos, sorriso).
+  Conceito atualizado: Segregação (autoria de Nolan).
+  Semente: chá de cascas de olmo (Juleen) — morte de Dagmar.

@@ -27,9 +27,10 @@ Sua motivação é vingança pessoal contra Genocydo.
 
 ## Arco
 
-1. Cap. 6 e 13: Procura Nolan para conspirar contra Genocydo
-2. Teme por Jo-jo (refém alavriano)
-3. Traição descoberta por Gunad no L2
+1. Cap. 3: Revela os cofres drenados a Nolan. Sugere substituir o Rei.
+2. Cap. 6 e 13: Aprofunda a conspiração com Nolan
+3. Teme por Jo-jo (refém alavriano)
+4. Traição descoberta por Gunad no L2
 
 ## Relações
 
