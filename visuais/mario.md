@@ -51,11 +51,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Capítulo 4 — Opium
 - Roupas: trapos encardidos, pés descalços
-- Mãos: ainda com lama seca entre os dedos (prova do milagre)
-- Corpo: **curado** — sem cicatrizes dos tiros
-- Expressão: horror, choque cósmico (duas luas), medo
-- Ambiente: cabana rústica → povoado massacrado → torre octogonal
-- Iluminação: luz pálida de duas luas, azul mórbido
+- Mãos: lama seca entre os dedos
+- Corpo: curado dos tiros
+- Expressão: horror, choque cósmico, medo
+- Iluminação: luz pálida de duas luas
+
+## Capítulo 7 — Os Lordes Defuntos
+- Roupas: camiseta branca manchada de vermelho (sangue do ombro)
+- Ferimentos: apunhalado no ombro por Etwano, sangrando
+- Expressão: dor, pânico, choque (transformação do lobo)
+- Ambiente: saleta da torre, aparador, caldeirão
+- Iluminação: pouca luz, sombras
 
 ## Histórico por Capítulo
 

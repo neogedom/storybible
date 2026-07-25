@@ -41,5 +41,8 @@
   Personagens atualizados: Nolan (leu Llyfr, falhou com Genocydo), Genocydo (recusa).
   Visuals atualizados: Nolan (xadrez, casa de Koda).
   Sementes: luas azuis (Tristan e Nevëilla), Nolan leu Llyfr original.
+- **Ingestão**: Capítulo 7 — Os Lordes Defuntos ingerido. Resumo em capitulos/capitulo-07.md.
+  Personagens atualizados: Mário (apunhalado, testemunha transformação), Charles (revelação).
+  Visuals atualizados: Mário (ferimento no ombro, sangue).
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.

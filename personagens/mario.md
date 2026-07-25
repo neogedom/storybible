@@ -77,8 +77,10 @@ o torna inescapável.
   mãos na lama — Mário obedece. **Primeira rendição**. O milagre da porta.
   Inquiridor atira 3 vezes.
 - **Cap. 4 — Opium**: Mário acorda **curado** dos 3 tiros. Descobre que está
-  em Ornick (duas luas). Consegue traduzir idiomas automaticamente.
-  É capturado por vampiros na Vila de Opium.
+  em Ornick (duas luas). Consegue traduzir idiomas. É capturado.
+- **Cap. 7 — Os Lordes Defuntos**: Mário é apunhalado no ombro por Etwano.
+  Charles se revela como daërunmege e se transforma em lobo negro.
+  Primeira criatura sobrenatural que Mário vê em Ornick.
 - **Debate (caps. 3-17)**: "Isso é real?" Mário questiona, resiste, aprende.
 - **Break Into 2 (caps. 18-19)**: Mário ressuscita Saboc. Aceita seu papel.
 - **Jogos (caps. 20-25)**: Milagres, evangelização, Mina de Quartzo.
