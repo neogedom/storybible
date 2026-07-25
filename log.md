@@ -47,5 +47,8 @@
 - **Ingestão**: Capítulo 8 — A Caverna ingerido. Resumo em capitulos/capitulo-08.md.
   Personagens atualizados: Kate (frustração, Charles), Lakand (revelação).
   Visuals atualizados: Kate (caverna, farrapos).
+- **Ingestão**: Capítulo 9 — O Diário Perdido ingerido.
+  Personagens atualizados: Nolan (Bíblia de Kraviam), Layla (infiltrada, falha).
+  Visuals atualizados: Nolan (jantar, jardins).
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.

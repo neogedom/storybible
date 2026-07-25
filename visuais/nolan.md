@@ -37,9 +37,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - Roupas: trajes formais de conselheiro
 - **Óculos**: sim
-- Local: Castelo de Quartzo (manhã) → Casa de Koda (tarde)
-- Expressão: tenso, frustrado, calculista
-- Iluminação: luz matinal (castelo) → cortinas fechadas (casa de Koda)
+- Local: Castelo → Casa de Koda
+- Expressão: tenso, frustrado
+
+## Capítulo 9 — O Diário Perdido
+
+- Roupas: trajes formais de jantar
+- **Óculos**: sim
+- Local: sala de jantar → jardins (casa de Nolan)
+- Expressão: tenso, furioso (contido)
+- Iluminação: luz de jantar → jardins com chafariz
+- Acessórios: Bíblia de Kraviam (recebida de Layla)
 
 ## Histórico por Capítulo
 

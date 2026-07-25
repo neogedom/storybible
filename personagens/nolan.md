@@ -87,10 +87,15 @@ são as premissas.
 ### Capítulo 6 — O Jogo
 
 - Joga xadrez com Genocydo. Tenta dissuadi-lo de Cressadar.
-- Revela: **leu o Llyfr original** — sabe que Cressadar fabrica versículos
-- Genocydo recusa ouvi-lo. Nolan **falha**.
-- Considera matar Genocydo (machado na parede) → rejeita
-- Vai a Koda. Tem medo de Terbs ouvir a conspiração
+- Revela: leu o Llyfr original
+- Genocydo recusa. Nolan falha.
+- Vai a Koda.
+
+### Capítulo 9 — O Diário Perdido
+
+- Janta com Dagmar e Valinor — tenso, distraído
+- Layla entrega a Bíblia de Kraviam, não o diário
+- Nolan quer matá-la, mas não pode (se incriminaria)
 
 _Atualizado a cada INGEST de capítulo._
 

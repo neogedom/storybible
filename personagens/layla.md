@@ -46,7 +46,12 @@ Ver timeline visual completa em [visuais/layla.md](/visuais/layla.md).
 - [Nolan](/personagens/nolan.md) — contratante. Layla informa Nolan.
 
 ## Arco Narrativo
-
+### Capítulo 9 — O Diário Perdido
+- Infiltrada no Castelo de Quartzo como prostituta de Genocydo
+- Nolan a contratou para roubar o diário
+- Falhou: Genocydo não cede à bebida
+- Trouxe a Bíblia de Kraviam em vez do diário
+- Enfrenta Nolan com deboche — sabe que ele não pode matá-la
 _Atualizado a cada INGEST de capítulo._
 
 ---
