@@ -27,13 +27,13 @@ INGEST/QUERY/LINT para agentes de IA.
 
 ### Prompts para o Copilot
 
-| Prompt | Ação |
-|---|---|
-| "Iniciar revisão do capítulo X" | Ciclo qualidade (densidade → coerência → linguística) + audiochapter |
-| "Finalizar capítulo X" | INGEST na storybible + LINT automático |
-| "Lintar storybible" | Varredura completa de coerência |
-| "Query: [pergunta]" | Consulta com citações |
-| "Preparar capítulo X para Substack" | LINT visual + prompt de imagem + show notes |
+| Prompt                              | Ação                                                                 |
+| ----------------------------------- | -------------------------------------------------------------------- |
+| "Iniciar revisão do capítulo X"     | Ciclo qualidade (densidade → coerência → linguística) + audiochapter |
+| "Finalizar capítulo X"              | INGEST na storybible + LINT automático                               |
+| "Lintar storybible"                 | Varredura completa de coerência                                      |
+| "Query: [pergunta]"                 | Consulta com citações                                                |
+| "Preparar capítulo X para Substack" | LINT visual + prompt de imagem + show notes                          |
 
 ## Estrutura
 

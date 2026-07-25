@@ -55,4 +55,4 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 ---
 
-*Última atualização: 2026-07-24*
+_Última atualização: 2026-07-24_
