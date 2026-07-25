@@ -44,5 +44,8 @@
 - **Ingestão**: Capítulo 7 — Os Lordes Defuntos ingerido. Resumo em capitulos/capitulo-07.md.
   Personagens atualizados: Mário (apunhalado, testemunha transformação), Charles (revelação).
   Visuals atualizados: Mário (ferimento no ombro, sangue).
+- **Ingestão**: Capítulo 8 — A Caverna ingerido. Resumo em capitulos/capitulo-08.md.
+  Personagens atualizados: Kate (frustração, Charles), Lakand (revelação).
+  Visuals atualizados: Kate (caverna, farrapos).
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.

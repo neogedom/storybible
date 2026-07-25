@@ -76,11 +76,14 @@ mas também não consegue explicar.
 
 ### Capítulo 5 — A Selvagem
 
-- Mata Tharin (gornad de 3 chifres) em treino
-- Relembra: Benjamim Cressadar a treinou como arma de Terbs
-- É imune às armas dos Inquiridores (sem magia no sangue)
-- Gaviorn'l a avisa: espectros no Rohdis pararam
-- Algo grande está acontecendo — Kate anseia pela guerra
+- Mata Tharin; Gaviorn'l a avisa sobre o Rohdis
+
+### Capítulo 8 — A Caverna
+
+- Caça vampiros mortos com Lakand — frustração
+- Descobre que Charles foi para Opium atrás da recompensa
+- Devour também quer o Souhma
+- Relação física com Lakand (transacional)
 
 _Atualizado a cada INGEST de capítulo._
 

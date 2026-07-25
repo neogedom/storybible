@@ -29,7 +29,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 4 — Opium](capitulos/capitulo-04.md) — Mário acorda curado em Ornick; vila massacrada; capturado.
 - [Capítulo 5 — A Selvagem](capitulos/capitulo-05.md) — Kate mata Tharin; Gaviorn'l avisa sobre o Rohdis.
 - [Capítulo 6 — O Jogo](capitulos/capitulo-06.md) — Nolan e Genocydo no xadrez.
-- [Capítulo 7 — Os Lordes Defuntos](capitulos/capitulo-07.md) — Vampiros, Charles se revela, transformação em lobo.
+- [Capítulo 7 — Os Lordes Defuntos](capitulos/capitulo-07.md) — Charles se revela, transformação em lobo.
+- [Capítulo 8 — A Caverna](capitulos/capitulo-08.md) — Kate e Lakand; Charles foi para Opium.
 
 ## Visuais (Timelines)
 

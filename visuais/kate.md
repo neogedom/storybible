@@ -30,10 +30,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - Roupas: saia de retalhos de couro
 - Acessórios: faca de caça
-- Sujeira: suor do combate, sangue de Tharin
-- Expressão: frustração, tédio → choque (Gaviorn'l) → excitação (guerra)
-- Iluminação: luar azul das luas gêmeas (Tristan e Nevëilla)
-- Fundo: carvalho-negro, folhas de outono, cabana em Saramant
+- Sujeira: suor, sangue de Tharin
+- Expressão: frustração → choque → excitação
+- Iluminação: luar das luas gêmeas
+
+## Capítulo 8 — A Caverna
+
+- Roupas: farrapos (pouca roupa para mobilidade)
+- Acessórios: faca de caça, tocha
+- Sujeira: cinza, musgo azedo da caverna
+- Expressão: frustração, tédio, provocação
+- Iluminação: tocha, fogo da pira
+- Fundo: caverna em Saramant, musgo, ossos
 
 ## Histórico por Capítulo
 

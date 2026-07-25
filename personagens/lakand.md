@@ -47,7 +47,10 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
   alia a Benjamim.
 
 ## Arco Narrativo
-
+### Capítulo 8 — A Caverna
+- Caça com Kate em Saramant — vampiros mortos
+- Revela que Charles foi para Opium
+- Relação física com Kate
 _Atualizado a cada INGEST de capítulo._
 
 ---
