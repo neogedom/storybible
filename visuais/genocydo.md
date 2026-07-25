@@ -20,8 +20,10 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Capítulo 0 — Prólogo
 - Roupas: vestes reais brancas e ouro
-- No Castelo de Quartzo, oráculo falha
-- Expressão: choque, raiva
+- Local: Praça Central (Monólito da Verdade), não no castelo
+- Estado físico: doente (câncer na garganta), olhos febris, tossindo sangue
+- Expressão: choque, raiva, desespero, fragilidade
+- Acessórios: se apoia no ombro de Nolan
 
 ## Histórico por Capítulo
 

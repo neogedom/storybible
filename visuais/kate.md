@@ -19,9 +19,13 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Expressão | Fria, nojo, determinação |
 
 ## Capítulo 0 — Prólogo
-- Em Saramant, roupas de caçadora
-- Acende/usa uma pira pequena
-- Expressão: alerta, tensa
+- Roupas: couro remendado de caçadora, camadas
+- Acessórios: faca escura de caça (presente)
+- Sujeira: sangue de rampilla no rosto
+- Expressão: alerta, fúria contida, confusão ("Que merda foi essa?")
+- Estado: trêmula após o espasmo, a brasa no peito ainda latente
+- Iluminação: luar das luas gêmeas, fogueira
+- Fundo: floresta de Saramant, fortaleza de Devour ao fundo
 
 ## Histórico por Capítulo
 

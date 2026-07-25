@@ -22,7 +22,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 ## Capítulos
 
-<!-- Populado durante ingestão inicial -->
+- [Capítulo 0 — Prólogo](capitulos/capitulo-00.md) — O oráculo de Vonos falha. Kate sente o vazamento em Saramant.
 
 ## Visuais (Timelines)
 
@@ -37,7 +37,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 ## Lugares
 
-<!-- Populado durante ingestão inicial -->
+- [Metrópole](lugares/metropole.md) — Capital do Reino de Ornick, sede do Monólito da Verdade.
+- [Saramant](lugares/saramant.md) — Floresta ao redor da fortaleza de Devour, território de caça de Kate.
 
 ## Conceitos
 

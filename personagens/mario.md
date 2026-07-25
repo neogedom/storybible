@@ -10,7 +10,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## Visão Geral
 
 Mário é um humano comum do nosso mundo (Terra), trazido à força para Ornick
-como parte de um ritual que deu errado. Sem treinamento militar, sem conhecimento
+como parte de um plano para consertar uma experimento falho conduzido por um deus. Sem treinamento militar, sem conhecimento
 do mundo para onde foi levado, ele se torna o centro de uma profecia que não
 pediu — e de uma guerra que não entende.
 
@@ -31,10 +31,15 @@ Ver timeline visual completa em [visuais/mario.md](/visuais/mario.md).
 
 ## Personalidade
 
+- Raciocínio lógico-abdutivo afiado — sua **arma** no mundo de Ornick não é
+  força, mas a capacidade de montar o quebra-cabeça com poucas peças
+- Ótimo com argumentos — consegue virar uma discussão contra oponentes mais
+  poderosos porque encontra a falha na lógica deles
 - Medroso mas resiliente — age apesar do medo, não na ausência dele
 - Inteligente mas sem conhecimento do mundo — erra por ignorância, não por burrice
 - Busca desesperadamente um sentido para o que está acontecendo
-- Sua fé emerge da experiência, não da doutrina — ele não sabe o que crê até ser forçado a crer
+- Sua fé emerge da experiência, não da doutrina — ele não sabe o que crê até
+  ser forçado a crer
 
 ## Papel na História
 

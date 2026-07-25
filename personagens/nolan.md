@@ -68,6 +68,17 @@ são as premissas.
 
 ## Arco Narrativo
 
+### Capítulo 0 — Prólogo
+- Presente na falha do oráculo de Vonos
+- Cético em relação à interpretação profética de Benjamim
+- Recebe ordens de Genocydo para caçar o Souhma
+- Preocupado com ordem pública acima de tudo
+
+### Contradição Detectada
+- **Óculos**: O capítulo 0 descreve Nolan ajustando os óculos, mas a ficha
+  canônica afirma "Sem óculos (correção: a ficha anterior estava errada)".
+  Resolver: alinhar capítulo ou ficha.
+
 *Atualizado a cada INGEST de capítulo.*
 
 ## Citações

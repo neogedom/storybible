@@ -19,8 +19,10 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Expressão | Frieza, cansaço, desespero contido |
 
 ## Capítulo 0 — Prólogo
-- Roupas: trajes formais de conselheiro (insígnias de cargo)
-- Expressão: frieza calculista
+- ⚠️ **Óculos**: descrito usando óculos (CONTRADIÇÃO com ficha canônica)
+- Roupas: trajes formais de conselheiro, lenço de seda
+- Acessórios: lenço de seda (rinite)
+- Expressão: frieza calculista, irritação
 
 ## Histórico por Capítulo
 

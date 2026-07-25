@@ -19,9 +19,11 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Expressão | Astuta, manipuladora |
 
 ## Capítulo 0 — Prólogo
-- Roupas: vestes de feiticeiro de Plyshar
-- Ao lado de Genocydo durante falha do oráculo
-- Névoas escuras ao redor (fumaça viva)
+- Roupas: vestes púrpura de feiticeiro de Plyshar, mangas longas
+- Local: emerge de detrás de uma estátua de Vonos (sem cabeça)
+- Névoas escuras ao redor: fumaça viva que se arrasta entre as pedras
+- Mãos: ossudas, sempre escondidas nas mangas
+- Expressão: impassível, não surpreso
 
 ## Histórico por Capítulo
 
