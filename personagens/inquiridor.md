@@ -24,8 +24,6 @@ Reino e além.
 - **Armas de fogo** de tecnologia complexa ("câmara complexa, estampido elétrico")
 - **Diapasões de renanthao**: usados para triangular a assinatura de Mário
 - **Cicatrizes rituais** (o Inquiridor que atira em Mário no cap. 2 tem uma cicatriz no rosto)
-- **Mesmo timbre de voz** que a voz que Mário ouvia na Terra — estranhamento/eco sonoro
-  (não implica que o Inquiridor SEJA a Voz; é uma assinatura sônica do culto)
 
 ## Membros Conhecidos
 
@@ -41,16 +39,16 @@ longo da narrativa.
 
 ## Aparições Conhecidas
 
-| Capítulo | Evento |
-|---|---|
-| **Prólogo (cap. 0)** | Genocydo mobiliza os Inquiridores para todas as fronteiras |
-| **Cap. 2** | Um Inquiridor (individual) aparece fisicamente, atira em Mário na Terra |
-| **Cap. 3** | Koda menciona: Genocydo financia os Inquiridores com renanthao |
-| **Cap. 5** | Kate foi treinada para ser imune às armas geométricas deles |
-| **Cap. 6** | Nolan teme que os Inquiridores reivindiquem custódia |
-| **Cap. 12** | Mercenários temem que os Inquiridores cheguem primeiro |
-| **Cap. 17** | Intimação formal chega a Devour; diapasões na floresta |
-| **Cap. 18** | Devour segura Mário para a escolta oficial |
+| Capítulo             | Evento                                                                  |
+| -------------------- | ----------------------------------------------------------------------- |
+| **Prólogo (cap. 0)** | Genocydo mobiliza os Inquiridores para todas as fronteiras              |
+| **Cap. 2**           | Um Inquiridor (individual) aparece fisicamente, atira em Mário na Terra |
+| **Cap. 3**           | Koda menciona: Genocydo financia os Inquiridores com renanthao          |
+| **Cap. 5**           | Kate foi treinada para ser imune às armas geométricas deles             |
+| **Cap. 6**           | Nolan teme que os Inquiridores reivindiquem custódia                    |
+| **Cap. 12**          | Mercenários temem que os Inquiridores cheguem primeiro                  |
+| **Cap. 17**          | Intimação formal chega a Devour; diapasões na floresta                  |
+| **Cap. 18**          | Devour segura Mário para a escolta oficial                              |
 
 ## Arco Planejado
 

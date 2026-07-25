@@ -17,3 +17,5 @@
 - **Ingestão**: Personagens secundários — Devour, Koda, Charles, Decian,
   Gaviorn'l, Gunad, Lupe'i, Nuh d'Teraghar, Valinor.
 - **Ingestão**: Temas — Timeline de Ornick, Mapa de Sementes Cross-Livro.
+- **Ingestão**: Lote final — Arcos por Livro, Esquema do L2, Riscos Estruturais,
+  Dicionário Fonético. Todo o material do `.github/storybible/` foi ingerido.

@@ -50,6 +50,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [O Sinal de Vonos](conceitos/sinal-de-vonos.md) — O oráculo que auditava a realidade de Ornick.
 - [Segregação](conceitos/segregacao.md) — Política racial de Nolan e Genocydo.
 - [Glossário de Ornick](conceitos/glossario.md) — Termos, nomes e ortografia correta.
+- [Riscos Estruturais](conceitos/riscos-estruturais.md) — Três colisões e cinco riscos sistemáticos.
+- [Dicionário Fonético](conceitos/fonetica.md) — Guia de pronúncia para TTS.
 
 ## Personagens (Secundários)
 
@@ -70,6 +72,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Tom e Voz Narrativa](temas/tom-e-voz.md) — Diretrizes de tom, gênero e voz por POV.
 - [Timeline de Ornick](temas/timeline.md) — Linha do tempo dos eventos.
 - [Mapa de Sementes](temas/sementes.md) — Sementes plantadas no L1 para germinar no L2.
+- [Arcos por Livro](temas/arcos-por-livro.md) — Arcos dos personagens secundários por livro.
+- [Esquema do L2](temas/esquema-l2.md) — Outline completo do Livro 2 (A Queda da Coroa).
 
 ## Insights e Decisões
 
