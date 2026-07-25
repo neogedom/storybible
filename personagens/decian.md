@@ -16,12 +16,12 @@ massacre de Opium **sem matar ninguém** — curou os carrascos.
 
 ## Arco
 
-- **L1**: Cuida de Mário na jaula (cap. 12) → deserta de Charles (cap. 15)
-  → reencontra Mário em Gus (cap. 29)
-- **L2 (Remanescente)**: Percebe a corrupção de Mário antes de todos →
-  busca Gunad e Lupe'i
-- **Morte**: Silenciosa, durante a guerra civil — tratando feridos, mãos
-  sujas de pasta de raiz negra
+- **L1**: Cap. 10: cura Mário com pasta de ervas. Questiona Charles: "não
+  estamos agindo direito com a Mãe Mesmia". Hesita.
+  Cap. 12: cuida de Mário na jaula → cap. 15: deserta de Charles
+  → cap. 29: reencontra Mário em Gus
+- **L2 (Remanescente)**: Percebe a corrupção de Mário antes de todos
+- **Morte**: Tratando feridos na guerra civil
 
 ## Relações
 

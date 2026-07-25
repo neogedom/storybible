@@ -32,6 +32,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 7 — Os Lordes Defuntos](capitulos/capitulo-07.md) — Charles se revela, transformação em lobo.
 - [Capítulo 8 — A Caverna](capitulos/capitulo-08.md) — Kate e Lakand; Charles foi para Opium.
 - [Capítulo 9 — O Diário Perdido](capitulos/capitulo-09.md) — Layla entrega a Bíblia a Nolan.
+- [Capítulo 10 — A Carga](capitulos/capitulo-10.md) — Mário amarrado, levado como mercadoria.
 
 ## Visuais (Timelines)
 

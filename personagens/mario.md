@@ -78,9 +78,9 @@ o torna inescapável.
   Inquiridor atira 3 vezes.
 - **Cap. 4 — Opium**: Mário acorda **curado** dos 3 tiros. Descobre que está
   em Ornick (duas luas). Consegue traduzir idiomas. É capturado.
-- **Cap. 7 — Os Lordes Defuntos**: Mário é apunhalado no ombro por Etwano.
-  Charles se revela como daërunmege e se transforma em lobo negro.
-  Primeira criatura sobrenatural que Mário vê em Ornick.
+- **Cap. 7 — Os Lordes Defuntos**: Mário é apunhalado no ombro. Charles se revela.
+- **Cap. 10 — A Carga**: Mário é curado por Decian, amarrado e levado como
+  mercadoria. Descobre que Charles quer a recompensa pelo Souhma.
 - **Debate (caps. 3-17)**: "Isso é real?" Mário questiona, resiste, aprende.
 - **Break Into 2 (caps. 18-19)**: Mário ressuscita Saboc. Aceita seu papel.
 - **Jogos (caps. 20-25)**: Milagres, evangelização, Mina de Quartzo.

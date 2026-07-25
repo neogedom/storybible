@@ -50,5 +50,8 @@
 - **Ingestão**: Capítulo 9 — O Diário Perdido ingerido.
   Personagens atualizados: Nolan (Bíblia de Kraviam), Layla (infiltrada, falha).
   Visuals atualizados: Nolan (jantar, jardins).
+- **Ingestão**: Capítulo 10 — A Carga ingerido.
+  Personagens atualizados: Mário (carga, curado), Charles (revelado), Decian (hesitação).
+  Visuals atualizados: Mário (sapatos de morto, atadura).
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.
