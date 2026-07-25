@@ -1,0 +1,6 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian (opcional - manter se quiser compartilhar config)
+# .obsidian/
