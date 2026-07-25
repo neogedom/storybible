@@ -16,27 +16,30 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Tom Geral
 
-| Dimensão | Descrição |
-|---|---|
-| Intelectual | Personagens pensam antes de agir; diálogos carregam peso conceitual |
-| Ambíguo | Múltiplas leituras são esperadas; o livro não entrega respostas prontas |
-| Doloroso | Personagens pagam custo real; sofrimento estrutural, não decorativo |
-| Sóbrio | Sem floreio excessivo; descrição a serviço da emoção e do tema |
-| Teológico sem ser didático | Fé permeia o mundo sem ser sermão |
+| Dimensão                   | Descrição                                                               |
+| -------------------------- | ----------------------------------------------------------------------- |
+| Intelectual                | Personagens pensam antes de agir; diálogos carregam peso conceitual     |
+| Ambíguo                    | Múltiplas leituras são esperadas; o livro não entrega respostas prontas |
+| Doloroso                   | Personagens pagam custo real; sofrimento estrutural, não decorativo     |
+| Sóbrio                     | Sem floreio excessivo; descrição a serviço da emoção e do tema          |
+| Teológico sem ser didático | Fé permeia o mundo sem ser sermão                                       |
 
 ## Voz por POV
 
 ### Mário
+
 - **Voz**: Interior, conflituosa, teologicamente informada mas emocionalmente instável
 - **Ritmo**: Reflexivo com surtos de ação
 - **Risco**: Pode ficar passivo demais; compensar com intensidade interior
 
 ### Nolan
+
 - **Voz**: Formal, calculada, precisa
 - **Ritmo**: Controlado, estratégico; acelera em momentos de crise política
 - **Risco**: Leitor pode concordar demais com ele
 
 ### Kate
+
 - **Voz**: Direta, física, hostil quando vulnerável
 - **Ritmo**: Ação → reflexão breve → ação
 - **Risco**: Pode virar abstração; garantir fissuras emocionais

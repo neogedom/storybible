@@ -14,3 +14,6 @@
 - **Ingestão**: Material do `.github/storybible/` ingerido. Novos conceitos:
   cosmologia, Marduk, Vonos, Terbs, Hícse, Sinal, Segregação, Glossário.
   Novo tema: Tom e Voz Narrativa.
+- **Ingestão**: Personagens secundários — Devour, Koda, Charles, Decian,
+  Gaviorn'l, Gunad, Lupe'i, Nuh d'Teraghar, Valinor.
+- **Ingestão**: Temas — Timeline de Ornick, Mapa de Sementes Cross-Livro.

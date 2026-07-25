@@ -51,10 +51,24 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Segregação](conceitos/segregacao.md) — Política racial de Nolan e Genocydo.
 - [Glossário de Ornick](conceitos/glossario.md) — Termos, nomes e ortografia correta.
 
+## Personagens (Secundários)
+
+- [Charles](personagens/charles.md) — Lobisomem pragmático, caçador de Mário.
+- [Decian](personagens/decian.md) — Lobisomem curandeiro, sobrevivente de Opium.
+- [Devour](personagens/devour.md) — Lorde rampilla, governa a fortaleza de Devour.
+- [Gaviorn'l](personagens/gaviornl.md) — Gornad, selo vivo de Hícse, mentor de Kate.
+- [Gunad Deltëra](personagens/gunad.md) — Músico, líder do Remanescente no L2.
+- [Koda Deltëra](personagens/koda.md) — Mestre da Moeda, espião de Alavria.
+- [Edgard Lupe'i](personagens/lupei.md) — Hegraliano, fundador da Cidadela de Gus.
+- [Nuh d'Teraghar](personagens/nuh-dteraghar.md) — Sumo Sacerdote de Vonos.
+- [Valinor Addorbek](personagens/valinor.md) — General dos Espadas da Lei.
+
 ## Temas
 
 - [Arco STC](temas/arco-stc.md) — Progressão dos beats do Save The Cat! no Livro 1.
 - [Tom e Voz Narrativa](temas/tom-e-voz.md) — Diretrizes de tom, gênero e voz por POV.
+- [Timeline de Ornick](temas/timeline.md) — Linha do tempo dos eventos.
+- [Mapa de Sementes](temas/sementes.md) — Sementes plantadas no L1 para germinar no L2.
 
 ## Insights e Decisões
 

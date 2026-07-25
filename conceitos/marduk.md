@@ -33,6 +33,7 @@ Nunca pisou em Ornick. Enviou seu servo-chefe **Vonos** para executar o plano.
 ## Pistas Visíveis
 
 > Pistas visíveis apenas para leitores que conhecem o panteão mesopotâmico:
+>
 > - Os 50 nomes de Marduk
 > - A serpente alada como brasão
 > - A água como elemento do Sinal (Marduk era filho de Ea, deus das águas)
