@@ -42,7 +42,7 @@ longo da narrativa.
 | Capítulo             | Evento                                                                  |
 | -------------------- | ----------------------------------------------------------------------- |
 | **Prólogo (cap. 0)** | Genocydo mobiliza os Inquiridores para todas as fronteiras              |
-| **Cap. 2**           | Um Inquiridor (individual) aparece fisicamente, atira em Mário na Terra |
+| **Cap. 2**           | Um Inquiridor (individual) aparece em Ornick. Atira 3 vezes: clavícula, esterno, caixa torácica. Mário desaba |
 | **Cap. 3**           | Koda menciona: Genocydo financia os Inquiridores com renanthao          |
 | **Cap. 5**           | Kate foi treinada para ser imune às armas geométricas deles             |
 | **Cap. 6**           | Nolan teme que os Inquiridores reivindiquem custódia                    |

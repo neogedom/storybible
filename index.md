@@ -24,6 +24,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 - [Capítulo 0 — Prólogo](capitulos/capitulo-00.md) — O oráculo de Vonos falha. Kate sente o vazamento em Saramant.
 - [Capítulo 1 — O Sonho](capitulos/capitulo-01.md) — Mário sonha com a guerra; na Terra, recusa fazer o milagre.
+- [Capítulo 2 — A Travessia](capitulos/capitulo-02.md) — Mário sequestrado, obedece à Voz pela 1ª vez, Inquiridor atira.
 
 ## Visuais (Timelines)
 

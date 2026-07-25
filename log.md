@@ -23,3 +23,8 @@
   Personagem atualizado: Mário (primeiro teste de fé: falha).
   Visuals atualizados: Mário (óculos confirmado, sangue nas mãos).
   Semente: Vicent Tanässer (morto no sonho).
+- **Ingestão**: Capítulo 2 — A Travessia ingerido. Resumo em capitulos/capitulo-02.md.
+  Personagem atualizado: Mário (primeira rendição, 3 tiros).
+  Visuals atualizados: Mário (lama, sangue dos tiros).
+  Inquiridor: aparição do cap. 2 registrada.
+  Semente: "engravatado esquisito" — mistério de quem pagou o sequestro.

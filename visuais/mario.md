@@ -38,9 +38,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Capítulo 2 — A Travessia
 
-- Roupas: rasgadas na fuga, sujas de terra e sangue
-- Mãos: cortes recentes
-- Expressão: desespero
+### Terra (casa, van, cativeiro)
+- Roupas: casuais (jeans, camiseta — estudante em casa)
+- Acessórios: sem óculos (caíram durante o sequestro? ou sem tempo de pegar)
+- Sujeira: mãos enlameadas (obedeceu à Voz), cortes no queixo e mãos
+
+### Ornick (varanda)
+- Roupas: sujas de lama e sangue
+- Ferimentos: 3 tiros (clavícula, esterno, caixa torácica), sangue na boca
+- Expressão: choque, dor, desespero
+- Iluminação: luminescência ametista, céu escuro com luas
 
 ## Histórico por Capítulo
 
