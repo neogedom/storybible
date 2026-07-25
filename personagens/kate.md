@@ -88,10 +88,14 @@ mas também não consegue explicar.
 
 ### Capítulo 14 — O Encontro
 
-- Vigília noturna. Godi mudado após o ataque.
-- Tae-Tabor pergunta: "você vai ficar?"
-- **Mário surge na clareira** — primeiro contato visual
-- Uivo de guerra anuncia ataque iminente
+- Vigília noturna. Mário surge na clareira.
+
+### Capítulo 15 — A Queda
+
+- Mata o lobisomem que prendia Mário (corte na garganta)
+- Amarra Mário: "você trouxe isso. Mas também trouxe um prêmio."
+- Conduz Mário para longe do massacre
+- Rampillas recuam; lobisomens dispersam
 
 _Atualizado a cada INGEST de capítulo._
 

@@ -52,9 +52,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - Roupas: couro de caçadora, faca no colo
 - Acessórios: faca de caça
-- Expressão: alerta, desconfiança → choque (Mário) → prontidão (uivo)
-- Iluminação: noite azul suja, fogueira ao fundo
-- Fundo: clareira estreita entre barrancos, raízes expostas
+- Expressão: alerta, prontidão
+
+## Capítulo 15 — A Queda
+
+- Roupas: couro manchado de sangue (lobisomem e rampillas)
+- Acessórios: faca ensanguentada, corda (prende Mário)
+- Sujeira: sangue de lobisomem no antebraço
+- Expressão: frieza, cálculo, determinação
+- Iluminação: fogo, sombras dançando
+- Fundo: clareira com corpos, fogo, caos
 
 ## Histórico por Capítulo
 

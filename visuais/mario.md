@@ -68,11 +68,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Expressão: choque, aceitação
 
 ## Capítulo 12 — A Jaula
-- Roupas: camiseta suja de sangue e lama, sapatos de morto
-- Ferimentos: ombro em cicatrização (pasta de raiz negra)
-- Expressão: observador, processando, exausto
-- Ambiente: jaula de bambu, acampamento da alcateia, fogueiras
-- Iluminação: crepúsculo → noite de vigília
+- Roupas: camiseta suja, sapatos de morto
+- Ferimentos: ombro em cicatrização
+- Expressão: observador, exausto
+
+## Capítulo 15 — A Queda
+- Roupas: camiseta manchada de fuligem e sangue, suor
+- Ferimentos: ombro aberto (curativo desfeito na fuga), sangrando
+- Acessórios: pulsos amarrados (por Kate)
+- Expressão: choque, culpa esmagadora, paralisia
+- Ambiente: clareira destruída, corpos, fogo, rampillas recuando
+- Iluminação: fogo, noite
 
 ## Histórico por Capítulo
 

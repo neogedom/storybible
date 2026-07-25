@@ -36,7 +36,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 11 — Os Nômades](capitulos/capitulo-11.md) — Kate viaja com nômades; enfrenta Estruzzo.
 - [Capítulo 12 — A Jaula](capitulos/capitulo-12.md) — Mário na alcateia; Lakand pergunta sobre viver sem matar.
 - [Capítulo 13 — A Sala Secreta](capitulos/capitulo-13.md) — Conselho secreto falha.
-- [Capítulo 14 — O Encontro](capitulos/capitulo-14.md) — Kate vê Mário pela primeira vez; uivo de guerra.
+- [Capítulo 14 — O Encontro](capitulos/capitulo-14.md) — Kate vê Mário pela primeira vez.
+- [Capítulo 15 — A Queda](capitulos/capitulo-15.md) — Massacre no acampamento; Kate captura Mário.
 
 ## Visuais (Timelines)
 

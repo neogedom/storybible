@@ -65,5 +65,9 @@
 - **Ingestão**: Capítulo 14 — O Encontro ingerido.
   Personagens atualizados: Kate (Mário surge, uivo de guerra).
   Visuals atualizados: Kate (vigília, clareira noturna).
+- **Ingestão**: Capítulo 15 — A Queda ingerido.
+  Personagens atualizados: Mário (culpa, capturado), Kate (mata lobisomem, captura Mário).
+  Visuals atualizados: Mário (culpa, pulsos amarrados), Kate (sangue, corda).
+  Tae-Tabor morto.
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.
