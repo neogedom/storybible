@@ -28,6 +28,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 3 — A Conspiração](capitulos/capitulo-03.md) — Koda revela ruína; Nolan aceita conspirar.
 - [Capítulo 4 — Opium](capitulos/capitulo-04.md) — Mário acorda curado em Ornick; vila massacrada; capturado.
 - [Capítulo 5 — A Selvagem](capitulos/capitulo-05.md) — Kate mata Tharin; Gaviorn'l avisa sobre o Rohdis.
+- [Capítulo 6 — O Jogo](capitulos/capitulo-06.md) — Nolan e Genocydo no xadrez; Nolan descobre que Cressadar mente.
 
 ## Visuais (Timelines)
 

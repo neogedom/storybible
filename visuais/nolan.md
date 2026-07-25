@@ -33,6 +33,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Acessórios: chocalho de madeira para Saboc (no bolso)
 - Expressão: exausto, depois calculista; **sorri pela primeira vez**
 
+## Capítulo 6 — O Jogo
+
+- Roupas: trajes formais de conselheiro
+- **Óculos**: sim
+- Local: Castelo de Quartzo (manhã) → Casa de Koda (tarde)
+- Expressão: tenso, frustrado, calculista
+- Iluminação: luz matinal (castelo) → cortinas fechadas (casa de Koda)
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

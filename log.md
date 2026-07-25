@@ -37,5 +37,9 @@
 - **Ingestão**: Capítulo 5 — A Selvagem ingerido. Resumo em capitulos/capitulo-05.md.
   Personagens atualizados: Kate (arma de Terbs, frustração), Gaviorn'l (aviso do Rohdis).
   Visuals atualizados: Kate (saia de couro, suor).
+- **Ingestão**: Capítulo 6 — O Jogo ingerido. Resumo em capitulos/capitulo-06.md.
+  Personagens atualizados: Nolan (leu Llyfr, falhou com Genocydo), Genocydo (recusa).
+  Visuals atualizados: Nolan (xadrez, casa de Koda).
+  Sementes: luas azuis (Tristan e Nevëilla), Nolan leu Llyfr original.
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.

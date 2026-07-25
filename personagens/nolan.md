@@ -84,6 +84,14 @@ são as premissas.
 - Aceita a sugestão de conspiração de Koda
 - **Primeiro sorriso** — o cálculo político encontrou seu caminho
 
+### Capítulo 6 — O Jogo
+
+- Joga xadrez com Genocydo. Tenta dissuadi-lo de Cressadar.
+- Revela: **leu o Llyfr original** — sabe que Cressadar fabrica versículos
+- Genocydo recusa ouvi-lo. Nolan **falha**.
+- Considera matar Genocydo (machado na parede) → rejeita
+- Vai a Koda. Tem medo de Terbs ouvir a conspiração
+
 _Atualizado a cada INGEST de capítulo._
 
 ## Citações
