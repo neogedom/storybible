@@ -97,11 +97,14 @@ são as premissas.
 
 ### Capítulo 13 — A Sala Secreta
 
-- Reúne o Conselho: Nuh, Valinor, Lupe'i, Koda
-- Reino falido. Nuh rejeita. Valinor recusa.
-- **A razão não basta** — momento de virada
-- Lupe'i revela: Souhma real está com os daërunmeges
-- Nolan decide: precisa chegar ao Souhma primeiro
+- Conselho secreto. A razão não basta. Decide viajar.
+
+### Capítulo 16 — A Travessia
+
+- Cruza o Cran com Dagmar. Entra em Saramant.
+- Conflito explode com Dagmar sobre Layla.
+- **Dá um tapa em Dagmar** — reflexo, não planejado.
+- Não pede desculpas. Vergonha presa na garganta.
 
 _Atualizado a cada INGEST de capítulo._
 

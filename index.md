@@ -37,7 +37,9 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 12 — A Jaula](capitulos/capitulo-12.md) — Mário na alcateia; Lakand pergunta sobre viver sem matar.
 - [Capítulo 13 — A Sala Secreta](capitulos/capitulo-13.md) — Conselho secreto falha.
 - [Capítulo 14 — O Encontro](capitulos/capitulo-14.md) — Kate vê Mário pela primeira vez.
-- [Capítulo 15 — A Queda](capitulos/capitulo-15.md) — Massacre no acampamento; Kate captura Mário.
+- [Capítulo 15 — A Queda](capitulos/capitulo-15.md) — Massacre; Kate captura Mário.
+- [Capítulo 16 — A Travessia](capitulos/capitulo-16.md) — Nolan cruza o Cran; tapa em Dagmar.
+- [Capítulo 17 — Devour](capitulos/capitulo-17.md) — Kate e Mário capturados; Devour indeciso.
 
 ## Visuais (Timelines)
 

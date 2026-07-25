@@ -56,12 +56,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Capítulo 15 — A Queda
 
-- Roupas: couro manchado de sangue (lobisomem e rampillas)
-- Acessórios: faca ensanguentada, corda (prende Mário)
-- Sujeira: sangue de lobisomem no antebraço
-- Expressão: frieza, cálculo, determinação
-- Iluminação: fogo, sombras dançando
-- Fundo: clareira com corpos, fogo, caos
+- Roupas: couro manchado de sangue
+- Acessórios: faca, corda
+- Expressão: frieza, determinação
+
+## Capítulo 17 — Devour
+
+- Roupas: couro rasgado (luta com rampillas)
+- Acessórios: nenhum (desarmada na cela)
+- Ferimentos: **costelas quebradas** (golpe de rampilla)
+- Expressão: alerta, calculista, vulnerável (primeira vez)
+- Iluminação: tochas de óleo, sombras no salão
+- Fundo: fortaleza de Devour → cela úmida
 
 ## Histórico por Capítulo
 

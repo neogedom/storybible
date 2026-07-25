@@ -52,9 +52,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Roupas: trajes formais de conselheiro
 - **Óculos**: sim
 - Local: sala secreta sob o palácio
-- Acessórios: Bíblia de Kraviam (usada como prova, rejeitada)
-- Expressão: tenso, depois quebrado — "a razão não basta"
-- Iluminação: candelabro único, penumbra
+- Expressão: tenso, quebrado
+
+## Capítulo 16 — A Travessia
+
+- Roupas: roupas de viagem escuras, práticas
+- **Óculos**: sim
+- Acessórios: documentos de viagem
+- Expressão: tenso, silencioso, depois vergonha (pós-tapa)
+- Iluminação: sol da estrada → interior escuro da carruagem
+- Local: dentro da carruagem, Taverna do Porto Seco
 
 ## Histórico por Capítulo
 

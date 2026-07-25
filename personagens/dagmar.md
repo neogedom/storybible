@@ -38,9 +38,10 @@ Ver timeline visual completa em [visuais/dagmar.md](/visuais/dagmar.md).
 ## Papel na História
 
 1. Acompanha Nolan na viagem a Devour
-2. **Cap. 16**: Leva um tapa de Nolan — ponto de não retorno emocional
-3. **Cap. 18**: Morre no parto prematuro, induzido pelo estresse da viagem
-   e trauma do tapa
+2. **Cap. 16**: Confronta Nolan sobre Layla. Leva um tapa — ponto de não
+   retorno emocional.
+3. **Cap. 18**: Morre no parto — **causa: chá de cascas de olmo**
+   (abortivo) administrado por Juleen. O tapa não a mata; o veneno, sim.
 4. Seu bebê (Saboc) é ressuscitado por Mário no milagre do cap. 19
 
 Dagmar morre para que o milagre aconteça. Essa é a regra de ouro: **milagre

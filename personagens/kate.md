@@ -92,10 +92,14 @@ mas também não consegue explicar.
 
 ### Capítulo 15 — A Queda
 
-- Mata o lobisomem que prendia Mário (corte na garganta)
-- Amarra Mário: "você trouxe isso. Mas também trouxe um prêmio."
-- Conduz Mário para longe do massacre
-- Rampillas recuam; lobisomens dispersam
+- Mata o lobisomem, captura Mário.
+
+### Capítulo 17 — Devour
+
+- Foge com Mário pela floresta. Encontra diapasão dos Inquiridores.
+- Atacada por rampillas — **quebra costelas**.
+- Levada a Devour. Presa ao lado de Mário.
+- Se apresenta: "Kate." Primeiro diálogo real com Mário.
 
 _Atualizado a cada INGEST de capítulo._
 

@@ -47,7 +47,7 @@ longo da narrativa.
 | **Cap. 5**           | Kate foi treinada para ser imune às armas geométricas deles             |
 | **Cap. 6**           | Nolan teme que os Inquiridores reivindiquem custódia                    |
 | **Cap. 12**          | Mercenários temem que os Inquiridores cheguem primeiro                  |
-| **Cap. 17**          | Intimação formal chega a Devour; diapasões na floresta                  |
+| **Cap. 17**          | Intimação formal chega a Devour. Diapasão de renanthao cravado na floresta — triangulando a assinatura de Mário |
 | **Cap. 18**          | Devour segura Mário para a escolta oficial                              |
 
 ## Arco Planejado

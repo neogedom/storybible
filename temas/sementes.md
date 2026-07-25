@@ -38,7 +38,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 6. Juleen e a Morte de Dagmar
 
-- **Plantio**: L1, Caps. 28-30 — Morte de Dagmar; execução de Juleen
+- **Plantio**: L1, Cap. 3 — Juleen administra chá de cascas de olmo (abortivo)
+- **Plantio 2**: L1, Cap. 18/28 — Dagmar morre no parto (causa: veneno)
+- **Plantio 3**: L1, Cap. 30 — Nolan descobre, enforca Juleen
 - **Germinação**: L2 — Ódio racial de Nolan, agora pessoal
 
 ## 7. O Inquiridor do Sinal

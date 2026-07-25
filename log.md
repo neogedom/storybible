@@ -29,7 +29,7 @@
   Dagmar (chá de olmo), Koda (primeira abordagem a Nolan).
   Visuals atualizados: Nolan (cinzas, óculos, sorriso).
   Conceito atualizado: Segregação (autoria de Nolan).
-  Semente: chá de cascas de olmo (Juleen) — morte de Dagmar.
+  Semente: chá de cascas de olmo (Juleen) — **causa** da morte de Dagmar.
 - **Ingestão**: Capítulo 4 — Opium ingerido. Resumo em capitulos/capitulo-04.md.
   Personagem atualizado: Mário (curado, tradução automática, capturado).
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
@@ -69,5 +69,10 @@
   Personagens atualizados: Mário (culpa, capturado), Kate (mata lobisomem, captura Mário).
   Visuals atualizados: Mário (culpa, pulsos amarrados), Kate (sangue, corda).
   Tae-Tabor morto.
+- **Ingestão**: Capítulo 16 — A Travessia ingerido.
+- **Ingestão**: Capítulo 17 — Devour ingerido.
+  Personagens atualizados: Kate (costelas quebradas, 1º diálogo), Devour (intimação).
+  Visuals atualizados: Kate (cela, desarmada).
+  Inquiridores: intimação enviada a Devour.
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.
