@@ -42,11 +42,19 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 ## Conceitos
 
-<!-- Populado durante ingestão inicial -->
+- [Cosmologia de Ornick](conceitos/cosmologia.md) — Os três planos e a hierarquia divina.
+- [Marduk](conceitos/marduk.md) — Um dos 70, patrono de Babel, senhor ausente de Ornick.
+- [Vonos](conceitos/vonos.md) — Elohim da Verdade, servo-chefe rebelde contra Marduk.
+- [Terbs](conceitos/terbs.md) — Elohim da Corrupção/Apoteose.
+- [Hícse](conceitos/hicse.md) — Serva aprisionada dentro de Gaviorn'l, cujo vazamento Kate sente.
+- [O Sinal de Vonos](conceitos/sinal-de-vonos.md) — O oráculo que auditava a realidade de Ornick.
+- [Segregação](conceitos/segregacao.md) — Política racial de Nolan e Genocydo.
+- [Glossário de Ornick](conceitos/glossario.md) — Termos, nomes e ortografia correta.
 
 ## Temas
 
 - [Arco STC](temas/arco-stc.md) — Progressão dos beats do Save The Cat! no Livro 1.
+- [Tom e Voz Narrativa](temas/tom-e-voz.md) — Diretrizes de tom, gênero e voz por POV.
 
 ## Insights e Decisões
 

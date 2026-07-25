@@ -48,7 +48,7 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 
 ## Arco Narrativo
 
-*Atualizado a cada INGEST de capítulo.*
+_Atualizado a cada INGEST de capítulo._
 
 ---
 

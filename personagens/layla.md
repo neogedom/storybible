@@ -47,7 +47,7 @@ Ver timeline visual completa em [visuais/layla.md](/visuais/layla.md).
 
 ## Arco Narrativo
 
-*Atualizado a cada INGEST de capítulo.*
+_Atualizado a cada INGEST de capítulo._
 
 ---
 

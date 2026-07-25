@@ -11,3 +11,6 @@
   Visuais atualizados: Nolan, Kate, Genocydo, Benjamim.
 - **LINT**: Contradição (Nolan × óculos) resolvida — ficha canônica corrigida,
   Nolan usa óculos (canônico).
+- **Ingestão**: Material do `.github/storybible/` ingerido. Novos conceitos:
+  cosmologia, Marduk, Vonos, Terbs, Hícse, Sinal, Segregação, Glossário.
+  Novo tema: Tom e Voz Narrativa.

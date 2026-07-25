@@ -22,22 +22,26 @@ Usuário diz **"Finalizar capítulo X"** após o ciclo de revisão estar complet
 Para cada cena do capítulo, extrair:
 
 #### Personagens
+
 - [ ] Personagens presentes e seus estados físicos/emocionais
 - [ ] Decisões tomadas por cada personagem
 - [ ] Falas que revelam personalidade, conflito ou lore
 - [ ] Mudanças de papel ou posição na hierarquia
 
 #### Eventos
+
 - [ ] Eventos relevantes para a trama principal
 - [ ] Eventos que podem ser sementes para capítulos futuros
 - [ ] Mudanças de localização dos personagens
 
 #### Sementes plantadas
+
 - [ ] Informações reveladas que ainda não foram explicadas
 - [ ] Promessas narrativas (coisas que o leitor espera ver resolvidas)
 - [ ] Conexões com capítulos anteriores
 
 #### Avanço narrativo
+
 - [ ] Posição no beat do Save The Cat! (qual beat, % de avanço)
 - [ ] Progresso no arco de cada personagem presente
 
@@ -97,13 +101,13 @@ Para personagens que **não aparecem**, o registro visual recebe "não aparece".
 
 Automaticamente durante conversas no chat, quando o agente detecta:
 
-| Situação | O que salvar | Onde |
-|---|---|---|
-| Usuário diz "E se...", "que tal..." e a ideia é explorada | Ideia aprovada | `insights/` |
-| Usuário confirma "é, faz sentido", "vamos nessa" | Decisão confirmada | `decisoes/` |
-| Usuário diz "não, isso não funciona porque..." | Ideia rejeitada + motivo | `ideias-rejeitadas/` |
-| Conexão entre dois conceitos é descoberta | Atualizar páginas existentes | conceito afetado |
-| Semente narrativa identificada | Registrar semente | capítulo ou sementes pendentes |
+| Situação                                                  | O que salvar                 | Onde                           |
+| --------------------------------------------------------- | ---------------------------- | ------------------------------ |
+| Usuário diz "E se...", "que tal..." e a ideia é explorada | Ideia aprovada               | `insights/`                    |
+| Usuário confirma "é, faz sentido", "vamos nessa"          | Decisão confirmada           | `decisoes/`                    |
+| Usuário diz "não, isso não funciona porque..."            | Ideia rejeitada + motivo     | `ideias-rejeitadas/`           |
+| Conexão entre dois conceitos é descoberta                 | Atualizar páginas existentes | conceito afetado               |
+| Semente narrativa identificada                            | Registrar semente            | capítulo ou sementes pendentes |
 
 ### Regras
 

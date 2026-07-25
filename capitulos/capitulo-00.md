@@ -24,8 +24,8 @@ sangue, olhos febris). Ele exige que o ritual seja repetido, mas o
 tivesse sido cortada do outro lado".
 
 **Benjamim Cressadar** emerge das sombras e interpreta o silêncio como
-profecia: *"Quando o sinal cessar, o Souhma virá para julgar os deuses e
-coroar os homens"* (Llyfr). Nolan reage com ceticismo — vê um problema de
+profecia: _"Quando o sinal cessar, o Souhma virá para julgar os deuses e
+coroar os homens"_ (Llyfr). Nolan reage com ceticismo — vê um problema de
 ordem pública, não um milagre.
 
 Genocydo ordena a caça ao Souhma: recompensa aumentada, Inquiridores
@@ -35,7 +35,7 @@ mobilizados para todas as fronteiras.
 
 A centenas de quilômetros, na floresta de Saramant, **Kate** sente um
 espasmo violento — uma pressão que não é dela, uma fúria que queima como
-"brasa enterrada na cinza". A palavra *"Guerra"* ocupa sua mente.
+"brasa enterrada na cinza". A palavra _"Guerra"_ ocupa sua mente.
 
 Ela se dirige à fortaleza de **Devour**, onde encontra cinco rampillas e um
 xamã realizando um ritual de transformação: uma semente de resina sendo
@@ -47,12 +47,12 @@ Metrópole — "como se algo estivesse vindo".
 
 ## Personagens
 
-| Personagem | Papel no capítulo |
-|---|---|
-| [Nolan](/personagens/nolan.md) | POV. Observa a falha do oráculo, discute com Genocydo, recebe ordens. |
-| [Genocydo](/personagens/genocydo.md) | Rei doente. Ordena a caça ao Souhma. |
-| [Benjamim](/personagens/benjamim.md) | Manipulador. Interpreta o silêncio como profecia. |
-| [Kate](/personagens/kate.md) | POV. Sente o vazamento de Hícse, ataca os rampillas de Devour. |
+| Personagem                           | Papel no capítulo                                                     |
+| ------------------------------------ | --------------------------------------------------------------------- |
+| [Nolan](/personagens/nolan.md)       | POV. Observa a falha do oráculo, discute com Genocydo, recebe ordens. |
+| [Genocydo](/personagens/genocydo.md) | Rei doente. Ordena a caça ao Souhma.                                  |
+| [Benjamim](/personagens/benjamim.md) | Manipulador. Interpreta o silêncio como profecia.                     |
+| [Kate](/personagens/kate.md)         | POV. Sente o vazamento de Hícse, ataca os rampillas de Devour.        |
 
 ## Eventos-chave
 

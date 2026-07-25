@@ -69,16 +69,17 @@ são as premissas.
 ## Arco Narrativo
 
 ### Capítulo 0 — Prólogo
+
 - Presente na falha do oráculo de Vonos
 - Cético em relação à interpretação profética de Benjamim
 - Recebe ordens de Genocydo para caçar o Souhma
 - Preocupado com ordem pública acima de tudo
 
-*Atualizado a cada INGEST de capítulo.*
+_Atualizado a cada INGEST de capítulo._
 
 ## Citações
 
-*Registrar citações marcantes durante o INGEST dos capítulos.*
+_Registrar citações marcantes durante o INGEST dos capítulos._
 
 ---
 

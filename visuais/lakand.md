@@ -8,19 +8,20 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Estado Canônico (Linha de Base)
 
-| Atributo | Valor |
-|---|---|
-| Cabelo | Desgrenhado, escuro ou acinzentado |
-| Olhos | Intensos, animais |
-| Pele | Marcada por cicatrizes |
-| Roupas | Peles de animais, couro bruto |
-| Acessórios | Nenhum |
-| Armas | Garras, força bruta |
-| Cicatrizes | Múltiplas, visíveis |
-| Expressão | Predatória, alerta |
+| Atributo   | Valor                              |
+| ---------- | ---------------------------------- |
+| Cabelo     | Desgrenhado, escuro ou acinzentado |
+| Olhos      | Intensos, animais                  |
+| Pele       | Marcada por cicatrizes             |
+| Roupas     | Peles de animais, couro bruto      |
+| Acessórios | Nenhum                             |
+| Armas      | Garras, força bruta                |
+| Cicatrizes | Múltiplas, visíveis                |
+| Expressão  | Predatória, alerta                 |
 
 ## Capítulo 0 — Prólogo
-- *Não aparece*
+
+- _Não aparece_
 
 ## Histórico por Capítulo
 

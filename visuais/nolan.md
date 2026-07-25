@@ -8,17 +8,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Estado Canônico (Linha de Base)
 
-| Atributo | Valor |
-|---|---|
-| Cabelo | Grisalho, bem cortado |
-| Pele | Limpa, sem imperfeições |
-| Roupas | Túnica escura severa, robes formais |
+| Atributo   | Valor                                       |
+| ---------- | ------------------------------------------- |
+| Cabelo     | Grisalho, bem cortado                       |
+| Pele       | Limpa, sem imperfeições                     |
+| Roupas     | Túnica escura severa, robes formais         |
 | Acessórios | **Óculos**, documentos/livros, selo oficial |
-| Armas | Nenhuma (usa palavras) |
-| Cicatrizes | Nenhuma |
-| Expressão | Frieza, cansaço, desespero contido |
+| Armas      | Nenhuma (usa palavras)                      |
+| Cicatrizes | Nenhuma                                     |
+| Expressão  | Frieza, cansaço, desespero contido          |
 
 ## Capítulo 0 — Prólogo
+
 - **Óculos**: presente (canônico)
 - Roupas: trajes formais de conselheiro, lenço de seda
 - Acessórios: lenço de seda (rinite)

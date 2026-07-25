@@ -25,6 +25,7 @@ ordem do reino.
 ## História
 
 ### Capítulo 0
+
 - A Liturgia do Entardecer falha — o sinal de Vonos cessa
 - Genocydo ordena a caça ao Souhma da Praça Central
 - Benjamim Cressadar interpreta o silêncio como profecia
@@ -33,4 +34,4 @@ ordem do reino.
 
 - [Nolan](/personagens/nolan.md) — Juiz da Metrópole
 - [Genocydo](/personagens/genocydo.md) — Rei
-- [Benjamim](/personagens/benjamim.md) — Conselheiro
+- [Benjamim](/personagens/benjamim.md) — Infiltrado, manipula o Rei como "conselheiro espiritual"

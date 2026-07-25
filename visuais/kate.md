@@ -8,17 +8,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Estado Canônico (Linha de Base)
 
-| Atributo | Valor |
-|---|---|
-| Cabelo | Longo, escuro (comprimento persistente) |
-| Pele | Clara |
-| Roupas | Couro remendado de caçadora, camadas rasgadas |
-| Acessórios | Faca escura de caça, eventualmente tocha |
-| Armas | Faca de caça |
-| Cicatrizes | Nenhuma canônica definida |
-| Expressão | Fria, nojo, determinação |
+| Atributo   | Valor                                         |
+| ---------- | --------------------------------------------- |
+| Cabelo     | Longo, escuro (comprimento persistente)       |
+| Pele       | Clara                                         |
+| Roupas     | Couro remendado de caçadora, camadas rasgadas |
+| Acessórios | Faca escura de caça, eventualmente tocha      |
+| Armas      | Faca de caça                                  |
+| Cicatrizes | Nenhuma canônica definida                     |
+| Expressão  | Fria, nojo, determinação                      |
 
 ## Capítulo 0 — Prólogo
+
 - Roupas: couro remendado de caçadora, camadas
 - Acessórios: faca escura de caça (presente)
 - Sujeira: sangue de rampilla no rosto

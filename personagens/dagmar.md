@@ -59,7 +59,7 @@ tem custo**, e o custo é ela.
 - **Crise**: Tapa de Nolan (cap. 16)
 - **Morte**: Parto (cap. 18)
 
-*Atualizado a cada INGEST de capítulo.*
+_Atualizado a cada INGEST de capítulo._
 
 ---
 

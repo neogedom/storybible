@@ -23,11 +23,12 @@ que auditam o presente.
 
 ## Falha
 
-No Prólogo, o sinal cessa completamente. O Escriba-Mestre afirma: *"Não é
+No Prólogo, o sinal cessa completamente. O Escriba-Mestre afirma: _"Não é
 uma falha de rito. É como se... como se a conexão tivesse sido cortada do
-outro lado."*
+outro lado."_
 
 **Consequências:**
+
 - A Metrópole perde seu pilar de ordem (o medo da lei + certeza do sinal)
 - O povo preenche o vácuo com boato
 - Nolan teme revoltas antes do amanhecer

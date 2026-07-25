@@ -8,24 +8,27 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Estado Canônico (Linha de Base)
 
-| Atributo | Valor |
-|---|---|
-| Cabelo | Preto, curto, desgrenhado |
-| Pele | Clara, pálida |
-| Roupas | Camiseta urbana, calça jeans, tênis |
-| Acessórios | Nenhum |
-| Armas | Nenhuma |
-| Cicatrizes | Nenhuma |
-| Expressão | Medo, desespero |
+| Atributo   | Valor                               |
+| ---------- | ----------------------------------- |
+| Cabelo     | Preto, curto, desgrenhado           |
+| Pele       | Clara, pálida                       |
+| Roupas     | Camiseta urbana, calça jeans, tênis |
+| Acessórios | Nenhum                              |
+| Armas      | Nenhuma                             |
+| Cicatrizes | Nenhuma                             |
+| Expressão  | Medo, desespero                     |
 
 ## Capítulo 0 — Prólogo
-- *Não aparece*
+
+- _Não aparece_
 
 ## Capítulo 1 — O Sonho
+
 - Roupas: mesmas da Terra, manchadas de sangue (sonho com Vicent)
 - Expressão: terror
 
 ## Capítulo 2 — A Travessia
+
 - Roupas: rasgadas na fuga, sujas de terra e sangue
 - Mãos: cortes recentes
 - Expressão: desespero

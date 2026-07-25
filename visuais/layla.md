@@ -8,19 +8,20 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Estado Canônico (Linha de Base)
 
-| Atributo | Valor |
-|---|---|
-| Cabelo | Cachos castanhos volumosos |
-| Olhos | Âmbar (traço fixo) |
-| Pele | Bronzeada |
-| Roupas | Vestido curto, corpete amarrado, decote de renda |
-| Acessórios | Nenhum |
-| Armas | Nenhuma (usa informações) |
-| Cicatrizes | Nenhuma |
-| Expressão | Atrevida, debochada |
+| Atributo   | Valor                                            |
+| ---------- | ------------------------------------------------ |
+| Cabelo     | Cachos castanhos volumosos                       |
+| Olhos      | Âmbar (traço fixo)                               |
+| Pele       | Bronzeada                                        |
+| Roupas     | Vestido curto, corpete amarrado, decote de renda |
+| Acessórios | Nenhum                                           |
+| Armas      | Nenhuma (usa informações)                        |
+| Cicatrizes | Nenhuma                                          |
+| Expressão  | Atrevida, debochada                              |
 
 ## Capítulo 0 — Prólogo
-- *Não aparece*
+
+- _Não aparece_
 
 ## Histórico por Capítulo
 

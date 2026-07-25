@@ -20,6 +20,7 @@ território onde Kate caça e onde Gaviorn'l a deixou anos atrás.
 ## História
 
 ### Capítulo 0
+
 - Kate sente o vazamento de Hícse na floresta
 - Massacra 5 rampillas e um xamã de Devour perto da fortaleza
 - A brasa/fúria aponta para a Metrópole

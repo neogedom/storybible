@@ -96,15 +96,15 @@ Coroação feia. Pacto de Nolan com Terbs.
 
 ## Progressão por Capítulo
 
-| Capítulo | Beat STC | POV | Status |
-|---|---|---|---|
-| 0 | Imagem de Abertura | Nolan + Kate | ✅ Escrito |
-| 1 | Configuração | Mário | ✅ Escrito |
-| 2 | Configuração / Catalisador | Mário | ✅ Escrito |
-| 3 | Catalisador / Debate | — | ✅ Escrito |
-| 4-17 | Debate | — | ✅ Escrito |
-| 18-19 | Break Into 2 | Nolan (18) + Kate (19) | ✅ Escrito |
-| 20-25 | Jogos | — | 📝 A escrever |
-| 26-37 | Midpoint | — | 📝 A escrever |
+| Capítulo | Beat STC                   | POV                    | Status        |
+| -------- | -------------------------- | ---------------------- | ------------- |
+| 0        | Imagem de Abertura         | Nolan + Kate           | ✅ Escrito    |
+| 1        | Configuração               | Mário                  | ✅ Escrito    |
+| 2        | Configuração / Catalisador | Mário                  | ✅ Escrito    |
+| 3        | Catalisador / Debate       | —                      | ✅ Escrito    |
+| 4-17     | Debate                     | —                      | ✅ Escrito    |
+| 18-19    | Break Into 2               | Nolan (18) + Kate (19) | ✅ Escrito    |
+| 20-25    | Jogos                      | —                      | 📝 A escrever |
+| 26-37    | Midpoint                   | —                      | 📝 A escrever |
 
-*Atualizado a cada INGEST de capítulo.*
+_Atualizado a cada INGEST de capítulo._

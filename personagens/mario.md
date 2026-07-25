@@ -74,11 +74,11 @@ o torna inescapável.
 - **Break Into 2 (caps. 18-19)**: Mário ressuscita Saboc. Aceita seu papel.
 - **Jogos (caps. 20-25)**: Milagres, evangelização, Mina de Quartzo.
 
-*Atualizado a cada INGEST de capítulo.*
+_Atualizado a cada INGEST de capítulo._
 
 ## Citações
 
-*Registrar citações marcantes durante o INGEST dos capítulos.*
+_Registrar citações marcantes durante o INGEST dos capítulos._
 
 ---
 

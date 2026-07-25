@@ -64,6 +64,7 @@ mas também não consegue explicar.
 ## Arco Narrativo
 
 ### Capítulo 0 — Prólogo
+
 - Em Saramant, perto da fortaleza de Devour
 - Sente um vazamento/fúria que não é dela (Hícse?)
 - A palavra "Guerra" ocupa sua mente como uma sílaba que queima
@@ -72,11 +73,11 @@ mas também não consegue explicar.
 - A violência acalma a brasa mas não a apaga
 - A brasa aponta para a direção da Metrópole
 
-*Atualizado a cada INGEST de capítulo.*
+_Atualizado a cada INGEST de capítulo._
 
 ## Citações
 
-*Registrar citações marcantes durante o INGEST dos capítulos.*
+_Registrar citações marcantes durante o INGEST dos capítulos._
 
 ---
 

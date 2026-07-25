@@ -61,17 +61,18 @@ Ver timeline visual completa em [visuais/benjamim.md](/visuais/benjamim.md).
 - [Nolan](/personagens/nolan.md) — aliado/rival. Nolan despreça Benjamim mas
   aceita seu pacto.
 - [Kate](/personagens/kate.md) — inimiga. Benjamim a persegue.
-- [Terbs](*conceito externo*) — senhor. Benjamim serve a Terbs.
+- [Terbs](_conceito externo_) — senhor. Benjamim serve a Terbs.
 
 ## Arco Narrativo
 
 ### Capítulo 0 — Prólogo
+
 - Presente na falha do oráculo de Vonos
 - Interpreta o silêncio como profecia do Llyfr
 - Dá a Genocydo a interpretação que alimenta sua paranoia
 - "O oráculo não está mudo por capricho — está mudo para abrir caminho"
 
-*Atualizado a cada INGEST de capítulo.*
+_Atualizado a cada INGEST de capítulo._
 
 ---
 

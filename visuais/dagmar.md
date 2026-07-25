@@ -8,19 +8,20 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Estado Canônico (Linha de Base)
 
-| Atributo | Valor |
-|---|---|
-| Cabelo | Claro (louro/castanho-claro), preso ou solto |
-| Pele | Clara |
-| Roupas | Vestidos de viagem de corte nobre |
-| Acessórios | Nenhum |
-| Armas | Nenhuma |
-| Cicatrizes | Nenhuma |
-| Gravidez | Ventre proeminente (grávida de Saboc) |
-| Expressão | Mágoa, tensão |
+| Atributo   | Valor                                        |
+| ---------- | -------------------------------------------- |
+| Cabelo     | Claro (louro/castanho-claro), preso ou solto |
+| Pele       | Clara                                        |
+| Roupas     | Vestidos de viagem de corte nobre            |
+| Acessórios | Nenhum                                       |
+| Armas      | Nenhuma                                      |
+| Cicatrizes | Nenhuma                                      |
+| Gravidez   | Ventre proeminente (grávida de Saboc)        |
+| Expressão  | Mágoa, tensão                                |
 
 ## Capítulo 0 — Prólogo
-- *Não aparece*
+
+- _Não aparece_
 
 ## Histórico por Capítulo
 

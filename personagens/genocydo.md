@@ -57,13 +57,14 @@ Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
 ## Arco Narrativo
 
 ### Capítulo 0 — Prólogo
+
 - Doente (câncer na garganta), tosse com sangue, olhos febris
 - Presente na falha do oráculo de Vonos
 - Ordena a caça ao Souhma com recompensa aumentada
 - Mobiliza os Inquiridores do Sinal
 - Benjamin alimenta sua paranoia com a profecia do Llyfr
 
-*Atualizado a cada INGEST de capítulo.*
+_Atualizado a cada INGEST de capítulo._
 
 ---
 
