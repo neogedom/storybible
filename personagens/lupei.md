@@ -22,7 +22,7 @@ Evangelho autêntico — e vê Mário traí-lo.
 
 ## Arco
 
-- **L1**: Cap. 13: participa do Conselho secreto. Tragaz a informação do
+- **L1**: Cap. 13: participa do Conselho secreto. Traz a informação do
   Souhma real entre os daërunmeges.
 - **L2**: Percebe a contradição de Mário → funda o Remanescente
 - **Conflito com Piet**: Piet quer convencer; Lupe'i sabe que é inútil.
