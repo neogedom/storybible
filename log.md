@@ -1,5 +1,9 @@
 # Log de Atualizações
 
+## 2026-07-26
+
+- **Insight**: Recompensa de Genocydo atrai mercenários — registrado em `insights/recompensa-genocydo-atrai-mercenarios.md`. Justificativa para mercenários na Estalagem do Vau (cap. 18).
+
 ## 2026-07-24
 
 - **Inicialização**: Repositório criado na branch `feat/llm-wiki`.
