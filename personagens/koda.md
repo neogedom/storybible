@@ -17,7 +17,16 @@ família teve terras confiscadas na Guerra do Grifo, e ele nunca perdoou.
 ## Motivação Oculta
 
 Koda é um **espião de Alavria**. Quer o trono vazio para que Alavria invada.
-Sua motivação é vingança pessoal contra Genocydo.
+Sua motivação é vingança pessoal contra Genocydo (confisco das terras dos
+Deltëra na Guerra do Grifo).
+
+## Alavria
+
+Koda serve a **Alavria** (ver [Alavria](/lugares/alavria.md)), uma nação
+estrangeira cujo patrono divino é **Renath** (ver [Renath](/conceitos/renath.md)).
+Alavria foi colonizada por um povo do **Sucontinente**. O acordo de Koda com
+Alavria é garantido pelo refém **Joachin Deltëra**, seu filho, mantido em
+Alavria.
 
 ## Família
 
@@ -36,3 +45,5 @@ Sua motivação é vingança pessoal contra Genocydo.
 
 - [Nolan](/personagens/nolan.md) — Aliado na conspiração contra Genocydo
 - [Gunad](/personagens/gunad.md) — Filho que abdicou
+- [Alavria](/lugares/alavria.md) — Nação para quem espiona
+- [Renath](/conceitos/renath.md) — Patrono divino de Alavria

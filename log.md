@@ -3,6 +3,14 @@
 ## 2026-07-26
 
 - **Insight**: Recompensa de Genocydo atrai mercenários — registrado em `insights/recompensa-genocydo-atrai-mercenarios.md`. Justificativa para mercenários na Estalagem do Vau (cap. 18).
+- **Criação**: Ficha de [Alavria](lugares/alavria.md) — nação estrangeira, patrono Renath, colonizada por nação do Sucontinente. Invade a Metrópole no final do L1.
+- **Criação**: Ficha de [Renath](conceitos/renath.md) — elohim patrono de Alavria, servo comissionado de Marduk. Agenda imperial (anexar o Reino de Genocydo).
+- **Criação**: Insight [Nolan controla rampillas](insights/nolan-controla-rampillas.md) — após morte de Devour, Nolan descobre mecanismo de controle dos autômatos.
+- **Atualização**: `conceitos/glossario.md` — adicionado verbete "Alavria"; rampillas atualizados como autômatos sem emoção própria.
+- **Atualização**: `personagens/devour.md` — adicionada seção "Natureza dos Rampillas" (autômatos) e "Pós-Morte" (Nolan assume controle).
+- **Atualização**: `personagens/koda.md` — adicionada seção "Alavria" com detalhes sobre Renath, Sucontinente e refém Joachin.
+- **Atualização**: `temas/sementes.md` — adicionada semente #7: Nolan e o Controle dos Rampillas (plantio no L1, germinação no L2).
+- **Atualização**: `index.md` — adicionados links para Alavria e Renath.
 
 ## 2026-07-24
 

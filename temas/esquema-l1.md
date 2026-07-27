@@ -51,7 +51,7 @@ timestamp: 2026-07-25T12:00:00-03:00
 **Corrida por Mário vivo — três agendas concorrentes:**
 
 - **Nolan** quer Mário como **ferramenta de política pública** contra doenças. Seu sonho: uma Metrópole sem pragas, onde o Conselho não precise da Segregação porque Mário cura. Com Mário sob controle estatal, Nolan convence o Conselho e **toma o trono.**
-- **Vonos (via Inquiridores)** quer Mário **vivo** para **substituir Genocydo** como governante de Ornick. Se Genocydo falhou (apoteose farsa, Sinal cessou), Vonos precisa de outro terráqueo no trono. Mário é o candidato natural.
+- **Vonos (via Inquiridores)** quer Mário **vivo** para **substituir Genocydo** como governante do Reino de Genocydo. Se Genocydo falhou (apoteose farsa, Sinal cessou), Vonos precisa de outro terráqueo no trono. Mário é o candidato natural.
 - **Genocydo** quer Mário **morto ou neutralizado** — a existência de um Souhma real expõe a mentira da apoteose dele.
 
 ---
@@ -170,7 +170,7 @@ o **Reforço tático.** No silêncio da noite, Kate menciona casualmente informa
 
 o **O encontro com os Inquiridores.** Nolan chega ao local da emboscada. Os Inquiridores ainda estão lá, recolhendo os corpos dos companheiros que Kate abateu. **Mário escapou.**
 
-o **O confronto hierárquico.** Nolan exige informações. O líder dos Inquiridores recusa — eles respondem a Nuh d'Teraghar e a Vonos, não a Nolan. **Eles também querem Mário vivo.** Mas não como ferramenta de Estado — como **novo governante de Ornick**, ungido por Vonos no lugar do falido Genocydo.
+o **O confronto hierárquico.** Nolan exige informações. O líder dos Inquiridores recusa — eles respondem a Nuh d'Teraghar e a Vonos, não a Nolan. **Eles também querem Mário vivo.** Mas não como ferramenta de Estado — como **novo governante do Reino de Genocydo**, ungido por Vonos no lugar do falido Genocydo.
 
 o Nolan sente o poder escorrendo. Se os Inquiridores capturarem Mário primeiro, Vonos ganha um novo rei. E Nolan perde o trono **e** a chance de curar a Metrópole.
 

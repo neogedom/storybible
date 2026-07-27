@@ -43,7 +43,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Plantio 3**: L1, Cap. 30 — Nolan descobre, enforca Juleen
 - **Germinação**: L2 — Ódio racial de Nolan, agora pessoal
 
-## 7. O Inquiridor do Sinal
+## 7. Nolan e o Controle dos Rampillas
+
+- **Plantio**: L1, cap. 21 ou 25 (POV Nolan) — Nolan descobre o mecanismo de
+  controle dos rampillas após a morte de Devour. Pode ser ao tocar no trono
+  de ossos, encontrar a raiz-mestra no jardim secreto, ou descobrir um selo
+  de comando.
+- **Germinação**: L2 — Nolan comanda um exército de autômatos rampillas como
+  braço armado da Inquisição.
+- **Ironia**: Devour governava pela brutalidade; Nolan governa pela burocracia.
+  O mesmo castelo, os mesmos autômatos — mas agora com justificativa moral.
+
+## 8. O Inquiridor do Sinal
 
 - **Plantio**: L1, Prólogo — Inquiridores mobilizados
 - **Plantio 2**: L1, Cap. 2 — Aparece fisicamente, atira em Mário

@@ -1,14 +1,14 @@
 ---
 type: Location
 title: Metrópole
-description: Capital do Reino de Ornick, sede do Monólito da Verdade e do poder político leviantar.
+description: Capital do Reino de Genocydo, sede do Monólito da Verdade e do poder político leviantar.
 tags: [lugar, capital, reino, metropole]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
 
 # Metrópole
 
-A Metrópole é a capital do Reino de Ornick, centro do poder político e
+A Metrópole é a capital do Reino de Genocydo, centro do poder político e
 religioso da civilização leviantar. É cercada por muralhas imponentes e
 dominada pelo **Monólito da Verdade**, o oráculo de Vonos que sustenta a
 ordem do reino.

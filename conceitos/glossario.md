@@ -19,7 +19,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 | **Leviantares**         | Raça criada pelos elohins para estabilidade; longevos, racionais |
 | **Gnock**               | Leviantar atrófico nascido sem poder                             |
 | **Ornickenhos**         | Habitantes nativos de Ornick                                     |
-| **Rampillas**           | Hospedeiros transformados por semente de Devour                  |
+| **Rampillas**           | Hospedeiros transformados por semente de Devour. Autômatos sem emoção própria. Após a morte do lorde, podem ser controlados por quem detém o mecanismo de comando |
+| **Alavria**             | Nação estrangeira, patrono Renath, colonizada por nação do Sucontinente. Invade a Metrópole no final do L1 |
 | **Daërunmege**          | Lobisomem (termo técnico)                                        |
 | **Khainekravira**       | Vampiro (termo técnico)                                          |
 | **Whëdy**               | Curandeiras/profetas de Lunus                                    |
