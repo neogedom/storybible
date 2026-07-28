@@ -99,8 +99,13 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 - [Insights](insights/) — Ideias de brainstorming registradas automaticamente.
 - [Decisões](decisoes/) — Decisões formais tomadas ao longo do desenvolvimento.
+- [Regras de Áudio Minimax](decisoes/regras-audiochapter-acentuacao-ditongos.md) — Decisão sobre acentuação fonética de tritongos/ditongos e extração rigorosa de narração (2026-07-27).
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
+
+## Agentes (Workflow)
+
+- [Preparador de Áudio](../Livro/.github/agents/preparador-audio.agent.md) — Agente especializado em preparar scripts de narração Minimax.
 
 ---
 
-_Última atualização: 2026-07-26_
+_Última atualização: 2026-07-27_

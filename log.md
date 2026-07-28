@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-07-27
+
+- **Decisão**: Regras de acentuação fonética (tritongos/ditongos decrescentes) e extração rigorosa de narração para Minimax — registrada em `decisoes/regras-audiochapter-acentuacao-ditongos.md`.
+- **Atualização**: `Livro/.github/skills/preparar-audiochapter/SKILL.md` — reescrita completa: extração de narração com tabela de casos, acentuação de tritongos/ditongos decrescentes, regras de hífen, tags de tempo.
+- **Atualização**: `conceitos/fonetica.md` — adicionada seção "Acentuação Fonética de Tritongos e Ditongos Decrescentes" com tabela de substituição e regras de ouro.
+- **Criação**: `Livro/.github/agents/preparador-audio.agent.md` — agente especializado para pipeline de áudio Minimax.
+- **Atualização**: `Livro/.github/prompts/audiochapter.prompt.md` — referência atualizada para a skill e regras fonéticas.
+
 ## 2026-07-26
 
 - **Insight**: Recompensa de Genocydo atrai mercenários — registrado em `insights/recompensa-genocydo-atrai-mercenarios.md`. Justificativa para mercenários na Estalagem do Vau (cap. 18).
