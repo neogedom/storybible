@@ -1,5 +1,18 @@
 # Log de Atualizações
 
+## 2026-08-04 (coerência — Lakand × Mário)
+
+- **Lakand NÃO culpa Mário pela dizimação da alcateia** — se carregasse
+  culpa/rivalidade, repetiria o arco de Decian (cap. 16). Luto silencioso,
+  sem alvo, nunca nomeado.
+- **Logística fechada**: Lakand não estava com a alcateia perseguidora
+  (batedor em serviço). Foi ao encontro dela, encontrou o massacre (cap.
+  15), rastreou Kate até Devour (cap. 17: sangue do ombro, marcas, cheiro
+  de rampilla; rumor do cap. 16 converge). Esperou a janela (parto + fogo).
+  Texto mantém o POV sem explicar ("Era suficiente") — canon só de apoio.
+- **Arquivos**: `personagens/lakand.md` (nota de coerência),
+  `capitulos/capitulo-19.md` (INGEST).
+
 ## 2026-08-04 (canon — forma daërunmege de Lakand + cena da confissão)
 
 - **Decisão 2 (desmanche no calabouço)**: Lakand chega à cela em forma
@@ -13,10 +26,10 @@
   Mário (impressionista). Coerente (Mário viu lobo pleno de Charles, cap. 7).
 - **Decisão 4 (plantas-espia)**: confirmada — sentem vibração/calor, NÃO
   odor (devour.md); calor-ofusca-plantas + odor-ofusca-Lakand. Já era canon.
-- **Regra "forma plena não fala" (decisão 1)**: NÃO travada pelo autor.
-  Guardião validou como coerente (cap. 10: revertem à forma humana para
-  conversar; cap. 15: híbrida fala). Fica **em aberto** — decidir antes dos
-  caps. 20-30.
+- **Regra "forma plena não fala" (decisão 1)**: **TRAVADA (2026-08-04).**
+  Validada pelo Guardião (cap. 10: revertem à forma humana para conversar;
+  cap. 15: híbrida fala, plena não). Registrada na taxonomia de
+  `conceitos/daerunmeges.md`.
 - **Confissão (cap. 24, POV Kate)**: colocação fechada — quietude antes da
   declaração "Ele é a chave... eu lidero" (alimenta-a causalmente). Foco na
   DEVASTAÇÃO, não no amor (já percebido no cap. 19). Fissura corporal:

@@ -90,6 +90,28 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
   na fumaça. Vista pelo POV febril de Mário (renderização impressionista).
   Ironia: a fera carrega o homem que Kate escolheu sobre ele — subtexto do
   "eu perdi".
+- **Forma plena NÃO fala (decisão travada 2026-08-04):** na floresta, ele é
+  silêncio e movimento — comunicação por gestos e olhar. Ver
+  `conceitos/daerunmeges.md`.
+
+## Notas de Coerência — Como Lakand Soube (canon 2026-08-04)
+
+- Lakand **NÃO estava com a alcateia que perseguiu Mário** — ele é batedor
+  (cap. 8) e estava em serviço.
+- Ao perceber que a alcateia demorava demais, foi ao encontro dela — e
+  encontrou o massacre (cap. 15): a alcateia de Kenod dizimada.
+- **Lakand NÃO culpa Mário pela morte da alcateia** (decisão 2026-08-04). Se
+  carregasse culpa/rivalidade, repetiria o arco de Decian (cap. 16, "Vi os
+  meus morrendo"). A perda é luto silencioso, sem alvo — nunca nomeado.
+- Do massacre, seguiu o rastro: Kate fugiu com Mário (cap. 17) e foi
+  capturada perto de Devour (sangue do ombro, marcas de arrasto, cheiro de
+  rampilla). O rastro + o rumor ("forasteiro levado a Devour", cap. 16)
+  convergem na fortaleza.
+- Esperou na borda de Devour até a janela abrir: parto de Dagmar (caos) + o
+  fogo que ele mesmo ateia = a entrada. Por isso aparece no pico do caos.
+- O texto publica sem explicar ("Ela não perguntou como ele entrara... Era
+  suficiente") — disciplina de POV correta. Este registro é só canon de
+  apoio.
 
 ### Capítulo 12 — A Jaula
 - Retorna da patrulha; assume vigília de Mário

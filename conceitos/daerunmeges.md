@@ -17,8 +17,9 @@ Criaturas que alternam entre forma humana e de lobo. Também chamados de "lobiso
   (validado no cap. 15 — o lobisomem que captura Mário fala com o focinho em
   forma híbrida). É o continuum fera/homem.
 - **Forma plena (lobo quadrúpede):** pura fisicalidade — velocidade, visão
-  noturna, carga. **Fala: decisão em aberto** (Guardião recomenda "não
-  fala"; o autor ainda não travou — decidir antes dos caps. 20-30).
+  noturna, carga. **Não articula fala (decisão travada 2026-08-04).**
+  Validada pelo canon: no cap. 10 os daërunmeges revertem à forma humana para
+  conversar; no cap. 15 a híbrida fala (focinho), mas a plena não.
 
 ## Lakand — Desmanche (cap. 19, decisão 2026-08-04)
 

@@ -125,6 +125,10 @@ Mas vai usar.
 - Percebe a perda ("eu perdi" no olhar) — semente de afastamento
 - Arromba a cela de Mário, guia a fuga (faro inutilizado pela fumaça — custo)
 - Paga o custo: a floresta que caça (Saramant) arde no fogo descontrolado
+- **Nota de coerência (2026-08-04):** Lakand NÃO estava com a alcateia que
+  perseguiu Mário (batedor em serviço); achou a alcateia dizimada (cap. 15)
+  e rastreou Kate até Devour. Não culpa Mário pela morte da alcateia (evita
+  repetir o arco de Decian). Ver `personagens/lakand.md`.
 
 ### Devour (†, fora de cena)
 
