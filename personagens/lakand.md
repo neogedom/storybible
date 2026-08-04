@@ -54,6 +54,7 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 ## Arco Narrativo
 
 ### Capítulo 19 — O Calabouço
+
 - **Ateia o fogo de propósito (decisão 2026-08-03):** sozinho não vence os
   rampillas em combate direto; incendeia a toca (resina = combustível) e o
   castelo (tochas de óleo do salão) como ato **instintivo de desespero**, não
@@ -85,6 +86,7 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 - Permanece com Kate e Mário na fuga (pergunta em aberto: por quanto tempo?)
 
 ### Capítulo 20 — A Fuga (forma plena)
+
 - **1ª aparição em forma plena de lobo (canon 2026-08-04):** carrega Mário
   pela floresta em chamas — velocidade, visão noturna, rasteja rente ao chão
   na fumaça. Vista pelo POV febril de Mário (renderização impressionista).
@@ -114,20 +116,24 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
   apoio.
 
 ### Capítulo 12 — A Jaula
+
 - Retorna da patrulha; assume vigília de Mário
 - Percebe que Mário não tem "cheiro de deus" — é vazio
 - Pergunta a Mário: "é verdade que um homem pode viver sem matar?"
 - Primeiro fio de conexão entre eles
 
 ### Nota — Massacre dos Nômades
+
 - Tae-Tabor (amigo de Lakand) morrerá no massacre dos nômades
 - Quando Lakand souber, deve estar **em luto** — tristeza contida, não raiva explosiva
 - Essa perda deve pesar em suas decisões futuras
+
 ### Capítulo 8 — A Caverna
+
 - Caça com Kate em Saramant — vampiros mortos
 - Revela que Charles foi para Opium
 - Relação física com Kate
-_Atualizado a cada INGEST de capítulo._
+  _Atualizado a cada INGEST de capítulo._
 
 ---
 

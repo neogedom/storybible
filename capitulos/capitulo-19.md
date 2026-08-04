@@ -162,7 +162,7 @@ Mas vai usar.
    Ver `decisoes/glossolalia-invertida-oracao-cap19.md` e
    `insights/eu-sou-nome-de-deus.md`.
 7. **Mathias e Nolan**: Mathias ouve a oração; na distribuição, pode relatar
-   a Nolan que o Souhma "rezou a um deus acima do Limbo" — o *click*
+   a Nolan que o Souhma "rezou a um deus acima do Limbo" — o _click_
    perigoso de Nolan, que já conhece a heresia do livro de Genocydo.
 8. **Desejo enterrado de Kate (cross-livro)**: O cap. 19 é o contexto de
    reforço da semente do cap. 8 — Kate presencia o parto e a ressurreição
