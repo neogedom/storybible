@@ -26,7 +26,7 @@ por toda Saramant — raízes que sentem vibração, galhos que percebem calor.
 - **Cap. 17**: Kate e Mário são capturados. Devour mostra a intimação
   dos Inquiridores. Está indeciso: Rei vs Inquiridores vs daërunmeges.
 - Cap. 18: Nolan negocia com Devour
-- É morto por ordem de Nolan
+- **Cap. 19**: morto durante o incêndio que **Lakand ateou de propósito**. Morte **híbrida (decisão 2026-08-03)**: Lakand o encontra no salão (a rede de plantas-espia dele está cega pelo próprio calor do incêndio) e o derruba/fere — o sangue nas mãos de Lakand é canônico; o fogo **consome o corpo**. Fora de cena, revelada só por subtexto (sangue + chamas), nunca anunciada em diálogo.
 
 ## Natureza dos Rampillas
 
@@ -39,7 +39,19 @@ enlouquecem nem se dispersam: **param** e ficam inertes, aguardando comando.
 
 Após a morte de Devour, **Nolan descobre o mecanismo de controle** dos
 rampillas (ver `insights/nolan-controla-rampillas.md`) e assume o comando
-do exército de autômatos. O Castelo de Devour torna-se base militar de Nolan.
+dos **sobreviventes** (~uma dezena; ver `conceitos/rampillas.md`). O Castelo
+de Devour torna-se base militar de Nolan.
+
+> ⚠️ **Mecanismo (decisão 2026-08-03):** a **raiz-mestra subterrânea** do
+> jardim secreto de Devour — raízes profundas sobrevivem ao incêndio de
+> superfície (biologia real: raiz profunda rebrota após fogo). É o "centro
+> neural das sementes" que Nolan encontra no rastro do fogo. Os candidatos
+> de superfície (trono de ossos, selo) queimariam no incêndio.
+
+> ⚠️ **Nota de coerência**: a ficha registrava "morto por ordem de Nolan".
+> O cap. 19 estabelece a morte **por Lakand** (híbrido: ferido por Lakand,
+> corpo consumido pelo fogo), que age antes de qualquer ordem de Nolan.
+> Ajuste aceito — ver `capitulos/capitulo-19.md`.
 
 ## Relações
 

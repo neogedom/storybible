@@ -39,3 +39,18 @@ Fortaleza de Saramant, sede do barão Devour. Castelo de pedra escura encravado 
 - Nolan chega ao castelo no cap. 18 para reivindicar o Estrangeiro
 - Palco do confronto entre Nolan e Devour
 - Local onde Mário realiza seu primeiro "milagre" (cap. 19 — bebê)
+
+## Pós-Incêndio (canon 2026-08-03)
+
+- Incêndio **ateado por Lakand** (cap. 19): toca dos rampillas + tochas de
+  óleo do salão; o fogo **descontrolado** vira incêndio florestal em Saramant.
+- A pedra escura sobrevive estruturalmente; o interior de madeira (trono de
+  ossos, escadas da torre, aposentos) colapsa. Calabouços subterrâneos são os
+  últimos a encher de fumaça (risco de asfixia).
+- O perímetro queimado vira **clareira defensiva** (firebreak) — ativo tático,
+  não só perda.
+- Devour morre no fogo (morte híbrida: ferido por Lakand, corpo consumido).
+- Nolan assume os rampillas sobreviventes (~uma dezena; toca secundária na
+  borda de Saramant) via **raiz-mestra subterrânea** (ver
+  `insights/nolan-controla-rampillas.md`) e faz do castelo chamuscado sua
+  base militar.

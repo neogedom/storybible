@@ -60,7 +60,16 @@ timestamp: 2026-07-25T12:00:00-03:00
 
 #### Capítulo 20 (PoV de Mário) — Crise da Voz
 
-o Mário, Kate e Lakand fogem do castelo de Devour. Nolan, atordoado pela morte de Dagmar e pelo milagre, não os persegue imediatamente — mas manda Devour preparar os rampillas.
+o Mário, Kate e Lakand fogem do castelo de Devour em chamas — incêndio
+  **descontrolado** (decisão 2026-08-03) que vira incêndio florestal em
+  Saramant. Nolan, atordoado pela morte de Dagmar e pelo milagre, não os
+  persegue imediatamente; Devour está morto (híbrido: ferido por Lakand,
+  corpo consumido pelo fogo) e Nolan assumirá os rampillas sobreviventes
+  (ver cap. 21).
+
+o **Recuperação do manto de xilomagia (decisão 2026-07-31):** Durante a fuga, Kate pede um desvio rápido à cabana dela (~3 km de Devour, no caminho). Desenterra Tharin do mocambo queimado e recupera o manto de anéis de madeira. Mário observa, febril, sem entender. Lakand entende sem perguntar. Kate não demonstra culpa — pragmatismo puro. O manto serve de camuflagem na floresta na jornada adiante (ver `decisoes/manto-xilomagia-tharin.md`).
+
+o **Gancho da glossolalia (decisão 2026-07-31):** Kate, na fuga, lança a pergunta que abre o arco: **"com quem você estava falando?"** — ela ouviu Mário orar em ornickenho a "Eu Sou" (deus acima do Limbo), a primeira oração da vida dela a um deus que não cobra. Essa curiosidade tática move as conversas teológicas da jornada (ver `decisoes/glossolalia-invertida-oracao-cap19.md`).
 
 o **Nota de arco (falta de submissão):** Em toda a jornada, Mário não ora antes de pregar ou realizar milagres. Age por convicção intelectual, não por submissão. A Voz está em silêncio — e ele não a busca. Prega porque decidiu pregar. Cura porque aconteceu. O pecado do controle teológico opera aqui: ele age como se os resultados dependessem do seu entendimento, não da vontade de Deus.
 
@@ -77,6 +86,12 @@ o **A Mina como destino.** Durante a fuga, Kate planta a ideia: a Mina de Quartz
 o Lakand segue, reticente. Kate o conduz para norte. A semente de raiva contra a Voz está plantada.
 
 #### Capítulo 21 (PoV de Nolan)
+
+o **Cold-open (decisão 2026-08-03) — a fuga das chamas.** Mathias usa
+  contra-fogo/firebreak + escudo de calor para tirar Nolan e Saboc do castelo
+  em chamas (ver `personagens/mathias.md`). Nolan vê os rampillas congelarem
+  inertes quando Devour morre e encontra a **raiz-mestra subterrânea** no
+  jardim secreto (ver `insights/nolan-controla-rampillas.md`).
 
 o **O enterro e a dívida.** Nolan enterra Dagmar. Saboc sobrevive, amamentado por uma ama de leite. Nolan segura o filho nos braços — o filho que deveria estar morto.
 
@@ -124,7 +139,15 @@ o Mário exige que a voz o mande de volta para casa. A voz não responde.
 
 #### Capítulo 24 (PoV de Kate)
 
-o Kate e Lakand discutem. Lakand quer saber até onde ela vai levar isso. Kate responde que vai até o fim. **"Ele é a chave. Depois que os humanos se levantarem, eu lidero."**
+o **A confissão (decisão 2026-08-04).** Momento de quietude. Lakand,
+  arrastado: "Saramant é cinza." / Kate: "E por quê?" / Lakand: "Por você."
+  Kate refaz o sacrifício como transação ("Você não queimou por mim. Queimou
+  para me tirar de lá") — armadura. Mas há UMA rachadura física: o
+  formigamento incômodo nas mãos (callback da semente #11 — reflexo do
+  desejo enterrado, NÃO paixão por Lakand). Ela fecha. A dívida fica em
+  aberto — nunca resolvida no L1.
+
+o Kate e Lakand discutem. Lakand quer saber até onde ela vai levar isso. Kate responde que vai até o fim. **"Ele é a chave. Depois que os humanos se levantarem, eu lidero."** — a dívida rejeitada alimenta causalmente o compromisso.
 
 o Lakand percebe: Kate não está apaixonada por Mário — está **usando** Mário. E isso talvez seja mais perigoso. Lakand se afasta, magoado, mas não vai embora — o objetivo de "quebrar o Reino" ainda alinha com a libertação da alcateia dele.
 

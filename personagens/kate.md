@@ -36,8 +36,8 @@ Ver timeline visual completa em [visuais/kate.md](/visuais/kate.md).
 
 - Prática e direta — não especula, age
 - Desconfiada por natureza — a vida em Saramant não permite ingenuidade
-- Lealdade complicada — serve a Nolan mas escolhe Mário; não por ideologia,
-  mas por instinto
+- Lealdade complicada — treinada para ser arma de Terbs, foi descartada;
+  escolhe Mário não por ideologia, mas por instinto
 - Tem uma fissura humana: sob a fachada dura, há cansaço e dúvida
 
 ## Papel na História
@@ -46,9 +46,13 @@ Ver timeline visual completa em [visuais/kate.md](/visuais/kate.md).
 
 Kate é a **terceira perna do tripé** (Mário/Nolan/Kate). Ela:
 
-1. É enviada por Nolan para capturar Mário
+1. Treinada por Gaviorn'l e Benjamim Cressadar como "arma definitiva de
+   Terbs" — lâmina física para atacar a Metrópole; depois descartada
 2. Testemunha o milagre de Saboc e escolhe Mário — não por fé, por instinto
-3. Foge com Mário e Lakand
+3. **Cap. 19**: testemunha o milagre do bebê (Saboc) nos calabouços de
+   Devour. O mundo de regras causais dela colapsa ("Isso não existe").
+   Escolhe "Os dois" (Lakand + Mário) por instinto tático — **Mário vira
+   arma**, não protegido. Foge com Mário e Lakand do castelo em chamas.
 4. Mata Gaviorn'l no clímax do L1, libertando Hícse
 
 Sua função narrativa: ser a **testemunha cética** que não pode negar o que viu,
@@ -58,12 +62,17 @@ mas também não consegue explicar.
 
 - [Mário](/personagens/mario.md) — protegido. Kate escolhe Mário contra o
   próprio interesse. Relação ambígua.
-- [Nolan](/personagens/nolan.md) — algoz/senhor. Kate trai Nolan ao fugir com
-  Mário.
+- [Nolan](/personagens/nolan.md) — estranho/independente. Kate não serve a
+  Nolan; ela foi treinada pela facção de Terbs (Gaviorn'l/Cressadar) para
+  atacar a Metrópole. Nolan a vê como "a caçadora sem lealdade" (cap. 18).
 - [Lakand](/personagens/lakand.md) — aliado. Lakand e Kate compartilham o
   instinto de sobrevivência.
-- [Benjamim](/personagens/benjamim.md) — inimigo. Benjamim envia Gaviorn'l
-  para capturá-la.
+- [Gaviorn'l](/personagens/gaviornl.md) — mentor/forjador. Treinou Kate à
+  exaustão como arma de Terbs; ela o mata no clímax do L1.
+- [Benjamim](/personagens/benjamim.md) — clérigo de Terbs em atividade, a
+  serviço do deus da corrupção. Sussurrou que a ausência de magia de Kate
+  era uma dádiva (arma contra Inquiridores). Depois a descartou; envia
+  Gaviorn'l para recapturá-la.
 
 ## Arco Narrativo
 
@@ -73,6 +82,17 @@ mas também não consegue explicar.
 - Sente o vazamento de Hícse
 - Massacra 5 rampillas e um xamã
 - A brasa aponta para a Metrópole
+
+### Capítulo 19 — O Bebê
+
+- Presa nos calabouços de Devour, ombro ferido, pulsos amarrados
+- Ouve o parto de Dagmar e o silêncio da morte
+- Presencia Mário ressuscitar o bebê — testemunha cética do impossível
+- Processa o milagre como informação, não transcendência: "Se levasse,
+  virava arma"
+- Escolhe "Os dois" — Mário como ferramenta de guerra
+- Foge guiada por Lakand; última imagem: o bebê azul que voltou a respirar
+- Final do capítulo: "Ela não entendia. Mas ia usar."
 
 ### Capítulo 5 — A Selvagem
 
@@ -101,7 +121,23 @@ mas também não consegue explicar.
 - Levada a Devour. Presa ao lado de Mário.
 - Se apresenta: "Kate." Primeiro diálogo real com Mário.
 
-_Atualizado a cada INGEST de capítulo._
+## Sementes — O Desejo Enterrado
+
+- **Cap. 8**: Lakand brinca sobre "um filhote com sua cara". Kate sente um
+  **formigamento incômodo nas mãos** — sintoma corporal não nomeado do
+  desejo enterrado de ter filhos. Racionaliza: "Daërunmeges são estéreis"
+  e desvia o assunto.
+- **Motivação profunda**: o desejo de não ter filhos está ligado ao mundo
+  ser violento demais e também ao ódio pela mãe, que era **parteira**.
+  Kate julga o ofício da mãe como desonroso — chama-a de "escrava"
+  (cap. 8) e "vagabunda" (cap. 5). Rejeitar a maternidade é, em parte,
+  rejeitar a vida servil da mãe: Kate quer glória e guerra, não o destino
+  humilde de uma parteira. (Canon: NÃO existe "mãe de criação" — é a mãe
+  biológica, parteira, que a levava aos partos das vizinhas.)
+- **Germinação (L2)**: aceita ter filhos de Mário — sinal de evolução em
+  direção ao abandono da violência como motor de salvação.
+
+_Atualizado a cada INGEST de capítulo.__
 
 ## Citações
 

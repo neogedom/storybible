@@ -1,0 +1,70 @@
+---
+type: Character
+title: Mathias
+description: Leviantar, Espada da Lei, mão-direita de Nolan. Poder de fogo (fogo nas armas; contra-fogo na fuga do incêndio). Portador de Saboc.
+tags: [personagem, levantar, espada-da-lei, nolan, fogo, L1]
+timestamp: 2026-08-03T00:00:00-03:00
+---
+
+# Mathias
+
+## Visão Geral
+
+Leviantar, **Espada da Lei** e mão-direita de Nolan Guenayer. Foi quem
+carregou o corpo de Saboc ao calabouço no cap. 19 e testemunhou o milagre.
+É quem garante a sobrevivência de Nolan e do bebê no incêndio do Castelo de
+Devour.
+
+## Poder de Fogo (canon 2026-08-03)
+
+- **Treino padrão dos Espadas da Lei:** colocar fogo nas armas. A origem está
+  na tradição militar da linhagem Addorbek (fogo), da qual Dagmar descendia.
+- **Extensão (com limite estrito):** durante a fuga do incêndio (cap. 21,
+  cold-open, POV Nolan), Mathias usa **contra-fogo/firebreak** (queimar uma
+  faixa à frente para parar o incêndio — técnica realista de combate a fogo)
+  e **escudo de calor localizado** (segundos, raio curto) para abrir caminho
+  para Nolan e Saboc.
+
+### Limite rígido (não é domador de fogo)
+
+| Pode                                                   | Não pode                            |
+| ------------------------------------------------------ | ----------------------------------- |
+| Fogo pequeno e localizado (ponta da arma, contra-fogo) | Apagar ou controlar o incêndio      |
+| Desviar calor num raio curto, por segundos             | Dominar fumaça (ela continua letal) |
+| Abrir passagem temporária                              | Fazer o fogo "obedecer" de verdade  |
+
+- **Custo:** exaustão, queimaduras nas mãos, e o fogo "responde mas não
+  obedece" — ele pode perder o controle a qualquer momento.
+- **Setup na própria cena:** Mathias mesmo surpreso/incerto do próprio limite —
+  estabelece a regra sem virar poder ex machina.
+- **Nível:** médio. A habilidade é extensão do treino padrão, não privilégio
+  de linhagem dardëgler.
+
+## Arco
+
+### Capítulo 19 — O Bebê
+
+- Desce ao calabouço com o corpo de Saboc (morto) — foge de Nolan, que não
+  sabe que o corpo foi tirado do quarto
+- Testemunha a oração "Eu Sou" e a ressurreição do bebê (chora, apertando-o)
+- Fica no castelo quando Kate/Mário/Lakand fogem — "o bebê chorava nos braços
+  do soldado" (última imagem de Kate)
+
+### Capítulo 21 — O Enterro e a Dívida (cold-open, POV Nolan)
+
+- Salva Nolan e Saboc do incêndio usando contra-fogo + escudo de calor
+- Leva o bebê ao colo de Nolan; Saboc sobrevive (ama de leite)
+
+### Outros
+
+- Cap. 16: no comboio, prova a comida antes de Nolan; colhe o rumor do
+  massacre na Estalagem do Vau
+- Cap. 25: mensageiro de Nolan (cartas a Koda e Layla)
+- Sub-semente: ouviu a oração "Eu Sou" — pode relatar a Nolan "um deus acima
+  do Limbo" (o click com a heresia do livro de Genocydo)
+
+## Relações
+
+- [Nolan](/personagens/nolan.md) — mão-direita; lealdade profissional
+- Dagmar — serviu à esposa do conselheiro (linhagem militar Addorbek)
+- Saboc — portador/protetor desde o cap. 19

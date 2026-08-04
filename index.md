@@ -19,6 +19,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Genocydo](personagens/genocydo.md) — Rei de Ornick, humano, antagonista central, megalomaníaco.
 - [Lakand](personagens/lakand.md) — Daërunmege (lobisomem), aliado/antagonista ambíguo.
 - [Layla](personagens/layla.md) — Prostituta pessoal do Rei Genocydo, informante de Nolan.
+- [Mathias](personagens/mathias.md) — Espada da Lei, mão-direita de Nolan, poder de fogo (contra-fogo).
 
 ## Capítulos
 
@@ -40,6 +41,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 15 — A Queda](capitulos/capitulo-15.md) — Massacre; Kate captura Mário.
 - [Capítulo 16 — A Travessia](capitulos/capitulo-16.md) — Nolan cruza o Cran; tapa em Dagmar.
 - [Capítulo 17 — Devour](capitulos/capitulo-17.md) — Kate e Mário capturados; Devour indeciso.
+- [Capítulo 18 — O Castelo de Devour](capitulos/capitulo-18.md) — Nolan negocia; Dagmar morre no parto.
+- [Capítulo 19 — O Bebê](capitulos/capitulo-19.md) — Mário ressuscita o bebê; Kate escolhe "Os dois".
 
 ## Visuais (Timelines)
 

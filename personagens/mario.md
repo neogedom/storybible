@@ -50,10 +50,55 @@ narrativa é ser o ponto de tensão entre três forças:
 
 1. **Genocydo** quer usá-lo para alcançar a apoteose
 2. **Nolan** quer controlá-lo como variável geopolítica
-3. **Kate** (inicialmente) quer entregá-lo; depois, protegê-lo
+3. **Kate** (inicialmente) quer entregá-lo; depois, protegê-lo; **após o
+   cap. 19**, usá-lo como arma (o milagre visto como ferramenta)
 
 Mário não quer ser profeta. Mas os milagres acontecem através dele — e isso
-o torna inescapável.
+ o torna inescapável.
+
+## Mecânica da Voz — Dons de Línguas (canon)
+
+> **Distinção de POV (crítica)**: "dom" é a linguagem do NARRADOR/leitor (que
+> sabe que é Deus). Mário NÃO usa essa palavra nem atribui identidade divina
+> à Voz. Para ele, a Voz ainda é "o delírio da infame Voz" (cap. 2) — ele
+> interpreta a fluência como a anomalia psicótica se instalando na língua
+> dele. Qualquer narração no POV de Mário deve usar a leitura dele (delírio
+> que ficou), nunca "dom".
+
+- **Cap. 4**: a Voz concede a Mário a capacidade de **ENTENDER** ornickenho
+  (tradução automática). Permanente.
+- **Cap. 12**: a Voz concede a Mário a capacidade de **FALAR** ornickenho.
+  Não é possessão momentânea — é uma **capacitação permanente**: a primeira
+  frase sai perfeita, e a partir daí Mário é **fluente, sem sotaque, para
+  sempre**. Mário, porém, lê o evento como "o delírio entrou na língua dele".
+- **Consequência**: a Voz NÃO toma as cordas vocais de Mário em momentos
+  pontuais. Ela dita **conteúdo** (prompts), mas Mário fala com a própria voz.
+- **Implicação no cap. 19**: o milagre da oração não está na língua (Mário
+  já é fluente) — está no **conteúdo** ("Eu Sou, acima do Limbo") e no efeito
+  (o bebê volta). Kate reconhece a voz dele; o que a estranha é o que ele diz.
+
+> **Regra de POV — nome da língua**: Mário, no L1, NÃO conhece o termo
+> "ornickenho". Para ele, a língua é "a língua deles". "Ornickenho/ornickenha"
+> só pode aparecer no POV de personagens nativos (Nolan, Kate, Lakand,
+> Decian...) ou em fala deles. Se Mário um dia usar "ornickenho", precisa ter
+> aprendido o nome antes — senão é vazamento. (Corrigido no cap. 12: "língua
+> ornickenha" → "a língua deles".)
+
+## Capítulo 19 — O Bebê
+
+- Febril e desmaiado nos calabouços de Devour (infecção no braço)
+- A Voz age **através** dele: fala "Deixem ele perto de mim" semi-inconsciente,
+  como se repetisse algo que ouviu
+- Estende a mão e toca a cabeça do bebê morto de Dagmar — a Voz o incita a
+  orar; Mário balbucia, em ornickenho, uma oração ditada ("Eu Sou", o deus
+  acima do Limbo) — **o bebê volta à vida**
+- Não sabe o que fez — o milagre acontece sem consentimento consciente
+- Não lembra de ter orado (ou lembra e racionaliza): efeito sanfona — deixa
+  de orar ao ver os argumentos funcionarem sem oração (cessacionismo teimoso)
+- A Voz assume a autoria da glossolalia como testemunho (a escrever)
+- Prepara a crise teológica do cap. 20: "Por que este bebê e não Lucas?"
+  + "eu falo ornickenho sem nunca ter aprendido" — dom permanente não pedido
+- Foge carregado por Kate, guiado por Lakand
 
 ## Relações
 

@@ -1,7 +1,7 @@
 ---
 type: Concept
 name: Rampillas
-ultimo_capitulo: 18
+ultimo_capitulo: 19
 ---
 
 # Rampillas
@@ -27,6 +27,24 @@ São a barreira de proteção do castelo de Devour em Saramant.
 ## Armas
 
 Lanças e machados de lâmina larga.
+
+## Comportamento Diante do Fogo (canon 2026-08-03)
+
+- A casca de resina é altamente inflamável: queimam quente, com fumaça preta,
+  acre e pegajosa; estalam e projetam brasas.
+- Não sentem dor e não fogem: **queimam de pé, em silêncio**.
+- Quando Devour morre, os que ainda não pegaram fogo **congelam inertes** no
+  meio do movimento — uma floresta de estátuas à luz do incêndio.
+
+## Sobrevivência da Toca (canon 2026-08-03)
+
+- Os rampillas do castelo e da toca principal queimam no incêndio de Devour
+  (cap. 19).
+- Sobrevivem **~uma dezena**: destacamentos em patrulha/perímetro no momento
+  do incêndio + uma **toca secundária** (caverna na borda de Saramant, longe
+  do núcleo do fogo). Ficam inertes quando Devour morre, aguardando comando.
+- Nolan os reúne (cap. 21) e os controla via raiz-mestra subterrânea (ver
+  `insights/nolan-controla-rampillas.md`).
 
 ## Origem
 

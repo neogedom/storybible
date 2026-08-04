@@ -12,24 +12,37 @@ timestamp: 2026-07-26T12:00:00-03:00
 
 Devour cria rampillas através de sementes parasitas implantadas em humanos.
 Os rampillas não têm emoção própria — são **autômatos**, obedientes ao comando
-do lorde que os criou. Quando Devour morre (por ordem de Nolan), os rampillas
-não enlouquecem nem se dispersam: **param** e ficam inertes, aguardando comando.
+do lorde que os criou. Quando Devour morre no cap. 19 (morte **híbrida, decisão 2026-08-03**:
+ferido por **Lakand** no salão, corpo consumido pelo incêndio que Lakand
+ateou — não por ordem de Nolan), os rampillas não enlouquecem nem se
+dispersam: **param** e ficam inertes, aguardando comando.
+
+> ⚠️ **Nota de coerência**: a versão anterior dizia "por ordem de Nolan".
+> O cap. 19 estabelece a morte por Lakand (híbrido com o fogo). Nolan,
+> presente no castelo em chamas, encontra o mecanismo de controle durante a
+> fuga do incêndio (cold-open do cap. 21).
 
 ## O Mecanismo de Controle
 
-Nolan, presente no castelo quando Devour morre (ou logo depois), descobre como
-controlá-los. O mecanismo exato está por definir, mas pode ser:
+Nolan, presente no castelo em chamas quando Devour morre (cap. 21,
+cold-open, POV Nolan), descobre como controlá-los. **Mecanismo decidido
+(2026-08-03):** a **raiz-mestra subterrânea** no jardim secreto de Devour —
+o centro neural das sementes. Raízes profundas sobrevivem ao incêndio de
+superfície (biologia real: raiz profunda rebrota após fogo). Os candidatos
+de superfície (trono de ossos, selo de comando) queimariam.
 
-- O **trono de ossos** de Devour — um artefato de comando
-- A **raiz-mestra** no jardim secreto de Devour — o centro neural das sementes
-- O **selo de comando** que Devour usava — talvez um objeto ou símbolo
-- Um **comando de voz** ou **ritual** ligado ao Sinal de Vonos
+- ~~Trono de ossos~~ (queimaria no incêndio)
+- **Raiz-mestra subterrânea** — centro neural das sementes (sobrevive; escolhida)
+- ~~Selo de comando~~ (queimaria no incêndio)
+- ~~Comando de voz/ritual~~ ligado ao Sinal de Vonos (descartado)
 
 ## Consequências
 
-- Nolan ganha um **exército de autômatos**: não come, não dorme, não sente medo,
-  não trai
-- O **Castelo de Devour** torna-se base militar de Nolan
+- Nolan ganha um **exército de autômatos sobreviventes** (~uma dezena; ver
+  `conceitos/rampillas.md`): não come, não dorme, não sente medo, não trai
+- O **Castelo de Devour** (chamuscado, mas de pedra — sobrevive
+  estruturalmente) torna-se base militar de Nolan; o perímetro queimado vira
+  clareira defensiva (firebreak)
 - Saramant (~120 km da Metrópole) vira um posto avançado estratégico
 - Isso muda o cálculo de Nolan no final do L1: com Alavria invadindo, os
   rampillas podem ser linha de defesa — ou moeda de troca
@@ -39,13 +52,14 @@ controlá-los. O mecanismo exato está por definir, mas pode ser:
 ## Ironia Temática
 
 Devour governava pela brutalidade explícita. Nolan governará pela burocracia
-e justificativa moral. O mesmo castelo, os mesmos autômatos, mas agora com
-papéis, selos e racionalizações. O trono de ossos não muda — quem se senta
-nele é que muda.
+e justificativa moral. O mesmo castelo chamuscado, os mesmos autômatos, mas
+agora com papéis, selos e racionalizações. O trono de ossos fica chamuscado
+— quem se senta nele é que muda.
 
 ## Sementes
 
-- **Plantio necessário no L1**: Nolan descobre o controle em um capítulo POV
-  dele (cap. 21? 25?), talvez ao tocar no trono ou encontrar a raiz-mestra
-  nos aposentos de Devour. Não explicar o mecanismo — só plantar a descoberta.
+- **Plantio necessário no L1**: Nolan descobre o controle no **cold-open do
+  cap. 21 (POV Nolan)** — na fuga do incêndio, ele vê os rampillas congelarem
+  inertes quando Devour morre e encontra a raiz-mestra entre a fumaça, no
+  jardim secreto. Não explicar o mecanismo — só plantar a descoberta.
 - **Germinação no L2**: O exército de rampillas está a serviço de Nolan.
