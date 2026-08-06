@@ -35,7 +35,10 @@ Ver timeline visual completa em [visuais/nolan.md](/visuais/nolan.md).
 - Intelectualmente arrogante — acredita que pode calcular todas as variáveis
 - Frio e calculista, mas não sem emoção — sua frieza é uma armadura, não ausência
 - Capaz de crueldade por pragmatismo (ex: o tapa em Dagmar)
-- Despreza a fé como "muleta para fracos" — mas isso é uma cegueira, não uma verdade
+- **Devoto de Vonos** (o deus da Verdade) — de modo racional e institucional:
+  crê como crê na lei, como estrutura de ordem, não como consolo. Despreza a
+  religiosidade popular/comercial ("fé como muleta para fracos") — a devoção
+  dele é protocolo, não emoção. Isso é uma cegueira, não uma verdade.
 
 ## Papel na História
 
@@ -65,6 +68,15 @@ são as premissas.
   Benjamim mas o usa. No final, Benjamim oferece o pacto com Terbs.
 - [Genocydo](/personagens/genocydo.md) — senhor aparente. Nolan serve ao Rei
   enquanto conspira contra ele.
+- [Vonos](/conceitos/vonos.md) — o deus a quem Nolan é devoto (Verdade/ordem).
+  Devoção institucional: Vonos é o fundamento do Estado que Nolan serve; o
+  Sinal falhou (prólogo) e ele segue o trâmite mesmo assim.
+- **Ironia estrutural (canon 2026-08-06)**: o plano de Nolan (Mário como
+  ferramenta do Estado → Nolan no trono) trabalha **contra o plano de Vonos**
+  (Mário como rei) sem que ele perceba — a devoção dele é à ordem, não ao deus.
+- **Queda religiosa (canon 2026-08-06)**: no fim do L1, o pacto com Terbs é
+  também o **abandono do próprio deus** (Vonos) — a fé institucional que
+  sustentava a ordem dele se quebra no mesmo gesto da traição política.
 
 ## Arco Narrativo
 
@@ -105,6 +117,25 @@ são as premissas.
 - Conflito explode com Dagmar sobre Layla.
 - **Dá um tapa em Dagmar** — reflexo, não planejado.
 - Não pede desculpas. Vergonha presa na garganta.
+
+### Capítulos 18-19 — A Morte de Dagmar
+
+- **Cap. 18**: chega ao castelo de Devour, negocia com Devour, vê Mário na
+  cela (um paciente, não um monstro). Dagmar entra em trabalho de parto; o
+  bebê está atravessado. Ela morre; o bebê nasce sem ar. Nolan segura a mão
+  dela até o fim — não chora, o vazio se instala.
+- **Cap. 19 (fora de cena)**: permanece no andar de cima, segurando a mão de
+  Dagmar. Não sabe que Mathias tirou o corpo do bebê do quarto, nem que o
+  bebê reviveu no calabouço. O castelo queima (fogo ateado por Lakand).
+- **Cap. 21 (POV Nolan)**: o fogo arranca Nolan da mão morta de Dagmar; ele
+  arranca o anel de prata e o deposita num cairn de pedras enegrecidas,
+  cumprindo o rito fúnebre de Vonos (a pira involuntária de Lakand — enterro
+  simbólico). **Mira** (parteira-ama, ver `personagens/mira.md`) sobrevive e
+  vira ama de leite de Saboc; ela comenta o cheiro de vembra (semente Juleen
+  — cap. 30). Na vistoria pós-incêndio, o fogo expôs o jardim secreto: Nolan
+  encontra a raiz-mestra e passa a controlar os rampillas sobreviventes
+  (~uma dezena). Reúne-os e parte atrás de Mário — não para matá-lo, para
+  possuí-lo.
 
 _Atualizado a cada INGEST de capítulo._
 

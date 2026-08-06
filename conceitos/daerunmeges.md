@@ -1,7 +1,7 @@
 ---
 type: Concept
 name: Daërunmeges (Lobisomens)
-ultimo_capitulo: 18
+ultimo_capitulo: 19
 ---
 
 # Daërunmeges

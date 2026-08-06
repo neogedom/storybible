@@ -87,11 +87,12 @@ Mário não quer ser profeta. Mas os milagres acontecem através dele — e isso
 ## Capítulo 19 — O Bebê
 
 - Febril e desmaiado nos calabouços de Devour (infecção no braço)
-- A Voz age **através** dele: fala "Deixem ele perto de mim" semi-inconsciente,
+- A Voz age **através** dele: semi-inconsciente e febril, pergunta "O que
+  aconteceu com o bebê?" e ordena "Traga ele aqui." / "Traga. Por favor." —
   como se repetisse algo que ouviu
-- Estende a mão e toca a cabeça do bebê morto de Dagmar — a Voz o incita a
-  orar; Mário balbucia, em ornickenho, uma oração ditada ("Eu Sou", o deus
-  acima do Limbo) — **o bebê volta à vida**
+- Estende a mão pela grade e toca a cabeça do bebê morto de Dagmar — a Voz o
+  incita a orar; Mário balbucia, em ornickenho, uma oração ditada ("Eu Sou",
+  o deus acima do Limbo) — **o bebê volta à vida**
 - Não sabe o que fez — o milagre acontece sem consentimento consciente
 - Não lembra de ter orado (ou lembra e racionaliza): efeito sanfona — deixa
   de orar ao ver os argumentos funcionarem sem oração (cessacionismo teimoso)

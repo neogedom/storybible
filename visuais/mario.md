@@ -80,6 +80,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Ambiente: clareira destruída, corpos, fogo, rampillas recuando
 - Iluminação: fogo, noite
 
+## Capítulo 19 — O Bebê
+
+- Roupas: camiseta manchada de fuligem e sangue (das fugas, caps. 15/17)
+- Ferimentos: **braço direito** envolto em pano escuro manchado de sangue seco
+  e terra; febre; exaustão profunda
+- Acessórios: sem óculos (perdidos na travessia)
+- Expressão: inconsciente → febril, voz pastosa → mão estendida entre as
+  grades sobre o bebê
+- Iluminação: penumbra do calabouço
+- Fundo: cela de terra batida com palha podre
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

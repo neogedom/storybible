@@ -61,11 +61,11 @@ timestamp: 2026-07-25T12:00:00-03:00
 #### Capítulo 20 (PoV de Mário) — Crise da Voz
 
 o Mário, Kate e Lakand fogem do castelo de Devour em chamas — incêndio
-  **descontrolado** (decisão 2026-08-03) que vira incêndio florestal em
-  Saramant. Nolan, atordoado pela morte de Dagmar e pelo milagre, não os
-  persegue imediatamente; Devour está morto (híbrido: ferido por Lakand,
-  corpo consumido pelo fogo) e Nolan assumirá os rampillas sobreviventes
-  (ver cap. 21).
+**descontrolado** (decisão 2026-08-03) que vira incêndio florestal em
+Saramant. Nolan, atordoado pela morte de Dagmar e pelo milagre, não os
+persegue imediatamente; Devour está morto (híbrido: ferido por Lakand,
+corpo consumido pelo fogo) e Nolan assumirá os rampillas sobreviventes
+(ver cap. 21).
 
 o **Recuperação do manto de xilomagia (decisão 2026-07-31):** Durante a fuga, Kate pede um desvio rápido à cabana dela (~3 km de Devour, no caminho). Desenterra Tharin do mocambo queimado e recupera o manto de anéis de madeira. Mário observa, febril, sem entender. Lakand entende sem perguntar. Kate não demonstra culpa — pragmatismo puro. O manto serve de camuflagem na floresta na jornada adiante (ver `decisoes/manto-xilomagia-tharin.md`).
 
@@ -88,20 +88,77 @@ o Lakand segue, reticente. Kate o conduz para norte. A semente de raiva contra a
 #### Capítulo 21 (PoV de Nolan)
 
 o **Cold-open (decisão 2026-08-03) — a fuga das chamas.** Mathias usa
-  contra-fogo/firebreak + escudo de calor para tirar Nolan e Saboc do castelo
-  em chamas (ver `personagens/mathias.md`). Nolan vê os rampillas congelarem
-  inertes quando Devour morre e encontra a **raiz-mestra subterrânea** no
-  jardim secreto (ver `insights/nolan-controla-rampillas.md`).
+contra-fogo/firebreak + escudo de calor para tirar Nolan do castelo em
+chamas (ver `personagens/mathias.md`). Nolan se recusa a largar a mão morta
+de Dagmar (eco do cap. 18) — o fogo o arranca. **O gatilho que o move: o
+bebê que deveria estar morto está vivo** — ele carrega Saboc, e o choque do
+vivo interrompe o choque da morta. No caminho, Nolan arranca o **anel de
+prata** do dedo morto (cobrar a dívida) e vê os **rampillas congelarem
+inertes** quando Devour morre (a observação do vínculo).
 
-o **O enterro e a dívida.** Nolan enterra Dagmar. Saboc sobrevive, amamentado por uma ama de leite. Nolan segura o filho nos braços — o filho que deveria estar morto.
+o **A pira e o cairn (enterro simbólico — decisão 2026-08-06).** A manhã
+cinzenta: a torre dos aposentos colapsa; o corpo de Dagmar fica sob o
+incêndio — irrecuperável. **O fogo de Lakand é a pira involuntária.** Antes
+de partir, Nolan deposita o anel num **cairn de pedras enegrecidas** na
+borda da clareira chamuscada e cumpre o **rito fúnebre de Vonos** — fórmula
+seca, dita de cor, como quem cumpre um trâmite de Estado, não um luto. O
+rito não consola: o deus da Verdade, cujo Sinal falhou no prólogo, segue
+mudo. Sem choro, sem catarse. **A dívida** é dupla: para com Mário (Saboc
+viveu — dívida que Nolan converte em "possuí-lo") e o luto sem fechamento
+(solo do ódio no L2).
 
-o **O pai de Nolan.** A lembrança vem sem aviso: o pai tossindo sangue num quarto separado. A Segregação foi a resposta de Nolan à impotência de ver o pai definhar. Mas não curou ninguém — só escondeu os doentes.
+o **A parteira-ama (decisão 2026-08-06).** Uma das **parteiras que estavam
+no quarto do parto** (cap. 18) sobrevive ao incêndio e, deslocada (Devour
+morto, castelo em ruínas), entra para o séquito de Nolan como **ama de
+leite de Saboc**. Nome: **Mira** (ver `personagens/mira.md`). Ela
+viu o bebê nascer morto e o vê vivo — **testemunha silenciosa da
+ressurreição do lado de Nolan** (semente). O filho morto dela é só fundo,
+nunca mencionado no texto.
 
-o **Mário é a resposta.** Nolan segura Saboc e entende: Mário pode curar o que a Segregação nunca curou. O sonho de uma Metrópole **sem doenças, sem segregação, sem crianças enterrando os pais** — é possível. Mas só se Mário estiver sob controle do Estado. Só se **Nolan** controlar o Estado.
+o **A vistoria e a raiz-mestra (dois tempos).** Nolan não "volta": o castelo
+chamuscado vira a base dele (canon). Na vistoria das ruínas, o fogo queimou
+a vegetação de superfície e **expôs o jardim secreto** — Nolan encontra a
+**raiz-mestra subterrânea** (sobrevive ao fogo; centro neural das sementes;
+ver `insights/nolan-controla-rampillas.md`). **Ironia: o fogo que Lakand
+ateou para Kate entrega a Nolan o controle dos rampillas.** Não explicar o
+mecanismo — só plantar a descoberta.
 
-o Ele reúne os rampillas de Devour e parte. **Não para matar Mário. Para possuí-lo.** Quer Mário como ferramenta de política pública — a prova viva de que a Segregação pode ser substituída por cura. Com Mário, Nolan convence o Conselho e **toma o trono.**
+o **O xamã sobrevivente (decisão 2026-08-06).** Entre os sobreviventes do
+castelo, **Ossan d'Tirath** — xamã da corte de Devour e **filho do lorde**
+(xilomago — NÃO rampilla; ver `personagens/ossan.md`) — sobrevive ao
+incêndio. Conhece os processos mágicos da casa: o ritual da semente, o
+jardim e a criação de itens encantados (tipo o manto de Tharin). Vira
+**asset de Nolan** na consolidação — ajuda a entender a raiz-mestra e o
+controle dos rampillas. Subtexto: herdeiro despojado — serviu a Devour,
+obedece a Nolan por sobrevivência, não por lealdade (tensão a explorar).
+**Gancho (semente #13)**: Ossan pode revelar o que os rampillas foram —
+gente zumbificada; a verdade cai como reconhecimento frio, não sermão.
 
-o (Semente) Um rampilla mais inteligente comenta com Nolan que Dagmar tinha um cheiro estranho de veneno. Nolan anota mentalmente.
+o **A semente do veneno (decisão 2026-08-06 — parteira, não rampilla).** A
+parteira-ama, que conhece ervas (casca de vembra é abortivo), comenta
+cautelosamente: "a senhora cheirava a vembra, senhor." Nolan **anota
+mentalmente**. A revelação de Juleen fica no cap. 30 (sementes #6). NOTA de
+coerência: rampillas são autômatos sem consciência individual — não podem
+"comentar"; a testemunha do cheiro tem de ser humana (ver
+`conceitos/rampillas.md`).
+
+o **O pai de Nolan.** A lembrança vem sem aviso: o pai tossindo sangue num
+quarto separado. A Segregação foi a resposta de Nolan à impotência de ver o
+pai definhar. Mas não curou ninguém — só escondeu os doentes.
+
+o **Mário é a resposta.** Nolan segura Saboc e entende: Mário pode curar o
+que a Segregação nunca curou. O sonho de uma Metrópole **sem doenças, sem
+segregação, sem crianças enterrando os pais** — é possível. Mas só se Mário
+estiver sob controle do Estado. Só se **Nolan** controlar o Estado.
+
+o Ele reúne os rampillas de Devour e parte. **Não para matar Mário. Para
+possuí-lo.** Quer Mário como ferramenta de política pública — a prova viva
+de que a Segregação pode ser substituída por cura. Com Mário, Nolan convence
+o Conselho e **toma o trono.**
+
+o **(Semente — o anel de Dagmar)** O cairn guarda o anel; a única herança da
+mãe para Saboc (germinação L2: Saboc o recebe, ou o encontra nos pertences
+de Nolan após a queda).
 
 ---
 
@@ -140,12 +197,12 @@ o Mário exige que a voz o mande de volta para casa. A voz não responde.
 #### Capítulo 24 (PoV de Kate)
 
 o **A confissão (decisão 2026-08-04).** Momento de quietude. Lakand,
-  arrastado: "Saramant é cinza." / Kate: "E por quê?" / Lakand: "Por você."
-  Kate refaz o sacrifício como transação ("Você não queimou por mim. Queimou
-  para me tirar de lá") — armadura. Mas há UMA rachadura física: o
-  formigamento incômodo nas mãos (callback da semente #11 — reflexo do
-  desejo enterrado, NÃO paixão por Lakand). Ela fecha. A dívida fica em
-  aberto — nunca resolvida no L1.
+arrastado: "Saramant é cinza." / Kate: "E por quê?" / Lakand: "Por você."
+Kate refaz o sacrifício como transação ("Você não queimou por mim. Queimou
+para me tirar de lá") — armadura. Mas há UMA rachadura física: o
+formigamento incômodo nas mãos (callback da semente #11 — reflexo do
+desejo enterrado, NÃO paixão por Lakand). Ela fecha. A dívida fica em
+aberto — nunca resolvida no L1.
 
 o Kate e Lakand discutem. Lakand quer saber até onde ela vai levar isso. Kate responde que vai até o fim. **"Ele é a chave. Depois que os humanos se levantarem, eu lidero."** — a dívida rejeitada alimenta causalmente o compromisso.
 
@@ -194,6 +251,11 @@ o **Reforço tático.** No silêncio da noite, Kate menciona casualmente informa
 o **O encontro com os Inquiridores.** Nolan chega ao local da emboscada. Os Inquiridores ainda estão lá, recolhendo os corpos dos companheiros que Kate abateu. **Mário escapou.**
 
 o **O confronto hierárquico.** Nolan exige informações. O líder dos Inquiridores recusa — eles respondem a Nuh d'Teraghar e a Vonos, não a Nolan. **Eles também querem Mário vivo.** Mas não como ferramenta de Estado — como **novo governante do Reino de Genocydo**, ungido por Vonos no lugar do falido Genocydo.
+
+o **(Canon 2026-08-06 — ironia estrutural):** Nolan, devoto de Vonos, não
+percebe que trabalha contra o plano do próprio deus: Vonos quer Mário como
+REI (o plano dele); Nolan quer Mário como ferramenta do Estado para ele
+mesmo subir ao trono. A devoção dele é à ordem, não ao deus.
 
 o Nolan sente o poder escorrendo. Se os Inquiridores capturarem Mário primeiro, Vonos ganha um novo rei. E Nolan perde o trono **e** a chance de curar a Metrópole.
 
@@ -378,7 +440,10 @@ O silêncio é a resposta. Não há anjos, não há visão — apenas o silênci
 
 O povo rejeita Nolan e **entrona Mário como Rei**. A coroa chega pelas mãos dos outros, não pela ambição dele.
 
-Nolan, furioso, aceita pacto com **Terbs** — acha que usa Terbs, mas é usado. A transição para o L2 está plantada.
+Nolan, furioso, aceita pacto com **Terbs** — acha que usa Terbs, mas é usado.
+**Para Nolan, o pacto é também o abandono do próprio deus (Vonos)**: a fé
+institucional que sustentava a ordem dele se quebra no mesmo gesto da traição
+política. A transição para o L2 está plantada.
 
 ---
 

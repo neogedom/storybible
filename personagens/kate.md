@@ -85,8 +85,13 @@ mas também não consegue explicar.
 
 ### Capítulo 19 — O Bebê
 
-- Presa nos calabouços de Devour, ombro ferido, pulsos amarrados
-- Ouve o parto de Dagmar e o silêncio da morte
+- Presa nos calabouços de Devour, ombro direito ferido (unhas de rampilla),
+  pulsos amarrados com sisal
+- Ouve o parto de Dagmar e o silêncio da morte — flashback da mãe parteira
+  ("Você precisa saber, Kate. Um dia pode ser você.") — ódio ao parto, modo
+  defesa (reforço da semente #11)
+- Reconhece o corpo de Dagmar pelo anel de prata e o brasão do Conselho
+  (callback Cressadar: "os selos e as casas da corte")
 - Presencia Mário ressuscitar o bebê — testemunha cética do impossível
 - Processa o milagre como informação, não transcendência: "Se levasse,
   virava arma"

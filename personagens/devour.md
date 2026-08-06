@@ -12,8 +12,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 Lorde **Devour** (nome completo: Devour d'Tirath) comanda a fortaleza homônima
 em Saramant, ~120 km da Metrópole. Governa pela brutalidade porque a Coroa
-não alcança. Cria rampillas através de sementes parasitas implantadas em
-humanos.
+não alcança. Cria rampillas através de **sementes parasitas implantadas no
+sistema nervoso de criaturas inteligentes** (tipicamente humanos) — a semente
+**zumbifica** o hospedeiro, apagando consciência e vontade. Sua corte incluía
+**xamãs** (xilomagos): NÃO rampillas — eram os que conheciam os processos
+mágicos (o ritual da semente, o jardim e a criação de itens encantados como o
+manto de Tharin). Alguns eram **filhos de Devour** (a linhagem d'Tirath
+monopolizava o ofício). Um deles sobrevive ao incêndio — **Ossan, filho de
+Devour** — e vira asset de Nolan (cap. 21).
 
 **Aparência**: Não é rampilla — parece um homem comum, baixo, magro, olhos
 escuros, pele cinzenta. Plantas crescem ao redor dele (musgos, trepadeiras,

@@ -46,6 +46,32 @@ Lanças e machados de lâmina larga.
 - Nolan os reúne (cap. 21) e os controla via raiz-mestra subterrânea (ver
   `insights/nolan-controla-rampillas.md`).
 
-## Origem
+## Nota de Coerência (2026-08-06)
 
-Criados ou manipulados por Devour? Ainda não esclarecido. Kate os descreve como "silenciosos, rápidos, não sentem dor."
+Rampillas são **autômatos sem consciência individual** — não têm voz, não
+"comentam", não existe "um mais inteligente". Qualquer testemunho humano
+(cheiro, detalhe, suspeita) tem de vir de personagens humanos — ex: a
+parteira-ama (Mira) que reconhece o cheiro de vembra em Dagmar (cap. 21). O
+"rampilla esperto" do esquema antigo era contradição de canon — substituído.
+
+## Origem (canon 2026-08-06)
+
+Rampillas são criados por uma **semente parasita implantada no sistema nervoso
+de criaturas inteligentes** (tipicamente humanos), que as **zumbifica**:
+apagam-se a consciência e a vontade; sobra o autômato obediente. Por isso não
+sentem dor, não hesitam, não falam — e são a "extensão do corpo de Devour".
+A semente vem do "jardim invisível" (a raiz-mestra). **Implicação moral: cada
+rampilla foi uma pessoa** — os que Kate matou (caps. 0 e 19) e os que Nolan
+agora comanda.
+
+## Os Xamãs da Corte (canon 2026-08-06)
+
+Os **xamãs** NÃO eram rampillas — eram **xilomagos da corte de Devour**
+(leviantares de afinidade com as plantas), a elite mística do castelo.
+Alguns eram **filhos de Devour** (a linhagem d'Tirath monopolizava o ofício).
+Conheciam os processos mágicos: o ritual da semente, o cultivo do jardim e a
+criação de itens encantados (ex: o manto de anéis de madeira roubado por
+Tharin — criado por um deles). Quase todos morrem no incêndio; **um
+sobrevive** — **Ossan d'Tirath, filho de Devour** — e se torna asset de
+Nolan, conhecendo o jardim e a raiz-mestra (ver cap. 21 e
+`personagens/ossan.md`).

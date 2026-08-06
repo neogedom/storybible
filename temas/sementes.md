@@ -38,18 +38,24 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 6. Juleen e a Morte de Dagmar
 
-- **Plantio**: L1, Cap. 3 — Juleen administra chá de cascas de olmo (abortivo)
-- **Plantio 2**: L1, Cap. 18/28 — Dagmar morre no parto (causa: veneno)
-- **Plantio 3**: L1, Cap. 30 — Nolan descobre, enforca Juleen
+- **Plantio**: L1, Cap. 3 — Juleen administra chá de cascas de vembra (abortivo)
+- **Plantio 2**: L1, Cap. 18 — Dagmar morre no parto (causa: o abortivo
+  acumulado); o bebê nasce sem ar
+- **Plantio 3**: L1, Cap. 21 — a parteira-ama (conhece ervas) comenta com
+  Nolan o cheiro de vembra na senhora; Nolan anota mentalmente. NÃO é o
+  "rampilla esperto" (autômatos não falam — ver `conceitos/rampillas.md`)
+- **Plantio 4**: L1, Cap. 30 — Nolan descobre, enforca Juleen
 - **Germinação**: L2 — Ódio racial de Nolan, agora pessoal
 
 ## 7. Nolan e o Controle dos Rampillas
 
-- **Plantio**: L1, cap. 21 (cold-open, POV Nolan) — na fuga do incêndio,
-  Nolan vê os rampillas congelarem inertes quando Devour morre e encontra a
-  **raiz-mestra subterrânea** no jardim secreto (raiz profunda sobrevive ao
-  fogo de superfície; é o centro neural das sementes). Não explicar o
-  mecanismo — só plantar a descoberta.
+- **Plantio**: L1, cap. 21 (POV Nolan) — dois tempos: (a) na fuga do
+  incêndio, Nolan vê os rampillas congelarem inertes quando Devour morre
+  (observação do vínculo); (b) na vistoria pós-incêndio (castelo = base),
+  o fogo queimou a vegetação de superfície e **expôs o jardim secreto** —
+  Nolan encontra a **raiz-mestra subterrânea** (sobrevive ao fogo; centro
+  neural das sementes). Ironia: o fogo de Lakand entrega a Nolan o controle.
+  Não explicar o mecanismo — só plantar a descoberta.
 - **Sobreviventes**: ~uma dezena (patrulhas de perímetro + toca secundária na
   borda de Saramant). O castelo de pedra sobrevive estruturalmente ao
   incêndio — base chamuscada de Nolan (ver `lugares/castelo-devour.md`).
@@ -89,7 +95,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Germinação (a definir)**: A Voz confronta Mário e assume a autoria da
   glossolalia como testemunho de Deus aos ornickenhos.
 - **Sub-semente**: Mathias relata a Nolan "um deus acima do Limbo" — o
-  *click* com a heresia do livro de Genocydo.
+  _click_ com a heresia do livro de Genocydo.
 - **Nota**: Texto canônico e justificativa em
   `decisoes/glossolalia-invertida-oracao-cap19.md`.
 
@@ -134,5 +140,26 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Nota**: a descoberta de Kate é o gancho dramático — ela só ouve o preço
   depois de já ter escolhido "os dois" (Mário e a guerra). Sem "eu sabia"
   retroativo: a revelação cai como informação nova.
+
+## 13. Os Rampillas e a Segregação — "foram gente"
+
+- **Fato (canon 2026-08-06)**: cada rampilla foi uma criatura inteligente
+  (tipicamente humano) zumbificada pela semente de Devour (ver
+  `conceitos/rampillas.md`).
+- **Ironia temática**: Nolan, idealizador da Segregação (ordem pela
+  desumanização), agora comanda um exército de humanos zumbificados — a
+  "ordem" dele é feita de gente que virou ferramenta. O eco com a Segregação
+  não é acidental.
+- **Plantio (a definir; recomendado cap. 21 via Ossan ou cap. 25)**: a
+  verdade aterra num personagem — ex: **Ossan** (xamã, filho de Devour)
+  revela o que os rampillas eram; ou alguém reconhece um rosto num zumbi.
+  Kate matou rampillas sem saber (caps. 0 e 19) — a revelação mancha o
+  passado dela também.
+- **Germinação**: L2 — a Inquisição de Nolan com os rampillas como braço
+  armado; e/ou a revelação vira condenação pública ou privada.
+- **Risco**: não pregar. A verdade cai como reconhecimento frio, não como
+  sermão (guardrail: sofrer é parte da prosa).
+- **Nota de numeração**: sementes #13-19 do esquema (Etemenanki etc.) ainda
+  não têm verbete no arquivo — renumerar quando forem registradas.
 
 _Atualizar a cada INGEST de capítulo._

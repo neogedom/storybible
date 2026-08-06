@@ -1,7 +1,7 @@
 ---
 type: Visual
 character: Devour
-ultimo_capitulo: 18
+ultimo_capitulo: 19
 ---
 
 # Devour — Registro Visual
@@ -21,3 +21,9 @@ ultimo_capitulo: 18
 ## Nota de Continuidade
 
 Entre o cap. 17 (PoV de Kate) e o cap. 18 (PoV de Nolan), a descrição de Devour é consistente: homem miúdo de pele cinzenta, pés descalços, plantas ao redor do trono, tédio calculado.
+
+## Capítulo 19 — Morte (fora de cena)
+
+- _Não aparece_ — morto fora de cena: ferido por Lakand no salão, corpo
+  consumido pelo incêndio (morte híbrida, só subtexto)
+- Último registro visual: cap. 18 (salão, trono de ossos, ervas nas frestas)

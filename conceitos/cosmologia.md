@@ -30,7 +30,9 @@ Baseada na teologia do Conselho Divino (Heiser, Deuteronômio 32:8-9).
 
 ### Nível 1 — Javé (Elohim de Israel)
 
-- Criador soberano. Não atua diretamente em Ornick.
+- Criador soberano. Não governa Ornick pelo sistema delegado (sem
+  jurisdição, sem mediação, sem templo) — mas AGE: o milagre é a exceção
+  soberana fora da cadeia delegada (ver `conceitos/milagre.md`).
 - Sua herança é a "imagem redimida" — o Está Consumado de Cristo opera nela.
 - Mário carrega essa herança.
 
@@ -52,6 +54,18 @@ Baseada na teologia do Conselho Divino (Heiser, Deuteronômio 32:8-9).
 Após a dispersão de Babel (Gn 11), **Marduk** decidiu transplantar material
 genético e linguístico do seu povo para um novo planeta: Ornick. Enviou seu
 servo-chefe **Vonos** para executar o plano.
+
+A colonização incluiu **flora e fauna de origem terráquea** — por isso
+carvalhos, mognos e animais reconhecíveis em Ornick: a semelhança não é
+coincidência, é derivação. O mundo é um **jardim-replicado**, o contrafato
+dos elohins tentando copiar a Terra — e o "Eu Sou" vem reclamar a cópia.
+
+**Os leviantares (canon 2026-08-06):** a partir dos humanos moldados do
+material genético, os elohins criaram os **primeiros leviantares** — a raça
+desenhada para dar ordem a Ornick: longevos, racionais, com **poderes de
+linha elemental** embutidos no projeto (daí as linhagens elementais, ex:
+Addorbek = fogo). O **gnock** é a atrofia dessa herança: leviantar nascido
+sem o poder.
 
 Vonos trouxe **dois tipos de humanos**:
 

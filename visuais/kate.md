@@ -69,6 +69,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: tochas de óleo, sombras no salão
 - Fundo: fortaleza de Devour → cela úmida
 
+## Capítulo 19 — O Bebê
+
+- Roupas: couro rasgado da captura (cap. 17), sujo de palha e terra da cela
+- Acessórios: pulsos amarrados com corda de sisal à frente do corpo
+- Ferimentos: **ombro direito** com arranhões de unhas de rampilla (sangue
+  já seco; tendões intactos)
+- Cabelo: longo, escuro, desgrenhado
+- Expressão: alerta → choque contido (milagre) → determinação tática
+- Iluminação: fresta de luz cinzenta no alto da cela → clarão do incêndio
+- Fundo: cela de terra batida com palha podre; grades de ferro enferrujadas
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

@@ -1,5 +1,177 @@
 # Log de Atualizações
 
+## 2026-08-06 (registro — pendências de publicação: cap. 3 áudio)
+
+- Registrado em memória do repo (`/memories/repo/pendentes-publicacoes.md`):
+  cap. 3 (publicado) com texto corrigido ("vembra") e **áudio pendente**
+  (regravar a linha do chá, ainda diz "olmo"). Itens de 2026-08-01
+  (caps. 12/19) marcados como "conferir áudio". Cap. 19 ainda não publicado.
+
+## 2026-08-06 (canon — glossário: termo de produção "cairn")
+
+- Verbete de produção no `conceitos/glossario.md`: "cairn" (taquigrafia de
+  planejamento) → renderização em prosa "monte/marco de pedras". Regra: o
+  estrangeirismo inglês nunca entra na prosa (POV ornickenho traduzido).
+
+## 2026-08-06 (canon — semente "foram gente" + xamã Ossan, filho de Devour)
+
+- **Semente #13 (Rampillas + Segregação)**: cada rampilla foi uma pessoa
+  zumbificada; Nolan, idealizador da Segregação, comanda um exército de
+  humanos zumbificados (eco temático). Plantio recomendado cap. 21 (via
+  Ossan) ou cap. 25. Risco: não pregar. `temas/sementes.md`.
+- **Xamã nomeado "Ossan" (Ossan d'Tirath, filho de Devour)**: ficha criada
+  (`personagens/ossan.md`), index.md, esquema-l1 (cap. 21), rampillas.md e
+  devour.md atualizados. Decisão de filiação: **alguns** xamãs eram filhos
+  (linhagem d'Tirath monopolizava o ofício), não todos. Ossan = herdeiro
+  despojado, asset de Nolan por sobrevivência.
+- **Arquivos**: `temas/sementes.md`, `personagens/{ossan,devour}.md`,
+  `temas/esquema-l1.md`, `conceitos/rampillas.md`, `index.md`.
+
+## 2026-08-06 (canon — origem dos rampillas + xamãs de Devour)
+
+- **Origem dos rampillas (canon)**: criados por **semente parasita no sistema
+  nervoso de criaturas inteligentes** (tipicamente humanos) que as **zumbifica**
+  — apagam-se consciência e vontade; sobra o autômato. Implicação moral: cada
+  rampilla foi uma pessoa (Kate os matou nos caps. 0/19; Nolan agora os
+  comanda). `conceitos/rampillas.md`, `personagens/devour.md`, glossario.
+- **Xamãs da corte (canon)**: NÃO eram rampillas — xilomagos da corte de
+  Devour (elite mística), conheciam o ritual da semente e a criação de itens
+  encantados (manto de Tharin). Quase todos morrem no incêndio; **um
+  sobrevive** e vira **asset de Nolan** (conhece o jardim/raiz-mestra) —
+  cap. 21. Tensão: serviu a Devour, obedece a Nolan por sobrevivência.
+  Nome/ficha pendentes.
+- **Manto (precisão)**: "de origem rampilla" → "do domínio de Devour,
+  criado por um xamã-xilomago (não rampilla)" — `decisoes/manto-xilomagia-tharin.md`.
+- **Arquivos**: `conceitos/rampillas.md`, `personagens/devour.md`,
+  `temas/esquema-l1.md` (cap. 21), `decisoes/manto-xilomagia-tharin.md`,
+  `conceitos/glossario.md`.
+
+## 2026-08-06 (canon — Nolan×Vonos, parteira-ama "Mira", leviantares; pendente: xamãs)
+
+- **Nolan × Vonos travados como canon**: (a) ironia estrutural — Nolan, devoto
+  de Vonos, trabalha contra o plano do deus (Mário como ferramenta do Estado
+  vs. Mário como rei) sem perceber; (b) queda religiosa — o pacto com Terbs no
+  fim do L1 é também o abandono do próprio deus. `personagens/nolan.md`,
+  `temas/esquema-l1.md` (caps. 28 e Imagem Final).
+- **Parteira-ama nomeada "Mira"**: ficha criada (`personagens/mira.md`),
+  index.md e nolan.md atualizados; corrigido "olmo"→"vembra" que havia
+  sobrado em `personagens/nolan.md` e `conceitos/rampillas.md`.
+- **Leviantares (canon novo)**: criados pelos elohins a partir dos humanos
+  moldados do material genético, para dar ordem a Ornick — por isso têm
+  poderes de linha elemental; gnock = atrofia. `conceitos/cosmologia.md`.
+- **Pendente (decisão do autor)**: os **xamãs** de Devour (um criou o manto de
+  Tharin) — identidade (não rampillas? xilomagos da corte?) e destino (mortos
+  no fogo? sobrevivente? fio para Kate/Nolan?).
+- **Arquivos**: `personagens/{nolan,mira}.md`, `temas/esquema-l1.md`,
+  `conceitos/{cosmologia,rampillas}.md`, `index.md`.
+
+## 2026-08-06 (correção de canon — Nolan é devoto de Vonos, não ateu)
+
+- **Correção**: Nolan NÃO é ateu — é **devoto de Vonos** (o deus da Verdade),
+  de modo racional e institucional (crê como crê na lei: estrutura de ordem,
+  não consolo; despreza a religiosidade popular/comercial). Reflete a cena do
+  enterro de Dagmar: em vez de silêncio ateu, Nolan cumpre o **rito fúnebre
+  de Vonos** — fórmula seca, trâmite, sem choro; o rito não consola (o Sinal
+  falhou no prólogo).
+- **Implicações (a explorar)**: (a) a devoção de Nolan colide com o plano de
+  Vonos (Nolan quer Mário como ferramenta do Estado; Vonos quer Mário como
+  rei) sem ele perceber; (b) o pacto com Terbs no fim do L1 é também um
+  abandono do próprio deus.
+- **Arquivos**: `temas/esquema-l1.md` (cap. 21), `personagens/nolan.md`,
+  `personagens/dagmar.md`.
+
+## 2026-08-06 (canon — "vembra" no lugar de "olmo" + flora de Ornick derivada da Terra)
+
+- **Rename**: a planta abortiva agora é **vembra** (árvore nativa de Ornick,
+  nome traduzido), substituindo "olmo" — o ulmeiro terrestre não é abortivo
+  oral, e o nome fictício elimina o tropeço farmacológico sem puxar carga
+  cultural (arruda) nem quebrar o mistério de Juleen. Aplicado em
+  `Livro 1/capitulo3.md` (publicado), `personagens/dagmar.md`,
+  `temas/esquema-l1.md` (parteira-ama), `temas/sementes.md` (#6).
+- **Canon novo — flora derivada**: Ornick não é criação independente — os
+  elohins transplantaram flora e fauna de origem terráquea após Babel.
+  "Jardim-replicado": carvalhos/magnólias não são coincidência, são linhagem
+  (bônus teológico: o Eu Sou vem reclamar a cópia). `conceitos/cosmologia.md`
+  e `conceitos/glossario.md` (verbete "vembra").
+- **Arquivos**: `Livro 1/capitulo3.md`, `personagens/dagmar.md`,
+  `temas/esquema-l1.md`, `temas/sementes.md`, `conceitos/cosmologia.md`,
+  `conceitos/glossario.md`.
+
+## 2026-08-06 (canon — cap. 21: enterro simbólico, parteira-ama, raiz-mestra)
+
+- **Enterro simbólico de Dagmar (cap. 21, POV Nolan)**: o incêndio de Lakand
+  é a pira involuntária (corpo irrecuperável sob o colapso da torre). Nolan
+  arranca o anel de prata do dedo morto e o deposita num **cairn de pedras
+  enegrecidas** na borda da clareira — rito mudo, sem reza, sem catarse.
+  Semente L2: o anel é a única herança da mãe para Saboc. `temas/esquema-l1.md`
+  (cap. 21), `personagens/dagmar.md`, `personagens/nolan.md`.
+- **Parteira-ama (nova, nome provisório "Mira" — confirmar)**: uma das
+  parteiras do quarto do parto (cap. 18) sobrevive e vira ama de leite de
+  Saboc. Testemunha silenciosa da ressurreição. Filho morto dela = só fundo.
+- **Semente do veneno corrigida**: o "rampilla esperto" era contradição de
+  canon (autômatos sem consciência individual — `conceitos/rampillas.md`).
+  Substituído pela **parteira-ama**, que conhece ervas e reconhece o cheiro
+  de olmo em Dagmar; Nolan anota mentalmente (reveal de Juleen no cap. 30).
+- **Raiz-mestra em dois tempos**: observação dos rampillas congelando na fuga
+  - descoberta da raiz na vistoria pós-incêndio (o fogo expôs o jardim
+    secreto). Ironia: o fogo de Lakand entrega a Nolan o controle.
+- **Arquivos**: `temas/esquema-l1.md`, `temas/sementes.md` (#6/#7),
+  `conceitos/rampillas.md`, `personagens/{nolan,dagmar}.md`.
+
+## 2026-08-06 (canon — ficha do Milagre + consulta teológica)
+
+- **Criação**: `conceitos/milagre.md` — milagre como irrupção do Criador
+  acima do Limbo (quebra de classe: elohim rearranjam, só o Eu Sou cria).
+  Consulta ao Consultor Teológico com briefing da teologia do Conselho
+  Divino (Heiser, Dt 32:8-9 / Sl 82) para calibrar a análise.
+- **Pontos travados**:
+  - A oração é **ocasião/testemunho, não gatilho** — causa, ocasião e sinal
+    separados; o milagre excede o pedido (pede-se misericórdia, chega vida).
+  - "Acima do Limbo" é **ontológico**, não posicional (Criador vs. criatura).
+  - Custo é **testemunho, não pagamento**: "ela morre, e apesar disso o bebê
+    vive" (não "ela morre para que o bebê viva"). Refinada a redação em
+    `personagens/dagmar.md`.
+  - "Milagre" é palavra de narrador/leitor; ornickenhos não têm vocábulo.
+  - Milagre é **evento, não categoria** — irreprodutível, sem mecânica.
+- **Reconciliação cosmológica**: "Javé não atua diretamente em Ornick"
+  precisado como "não governa pelo sistema delegado, mas age (exceção
+  soberana)" — `conceitos/cosmologia.md`.
+- **Arquivos**: `conceitos/milagre.md` (novo), `conceitos/cosmologia.md`,
+  `personagens/dagmar.md`, `index.md`.
+
+## 2026-08-06 (INGEST — sincronização do cap. 19 com o texto final)
+
+- **Correções de texto (cap. 19 publicado)**:
+  - Estalagem do Vau **removida** — Mathias NÃO cita "trouxe alguém de
+    volta" nem implora a Mário; é Mário quem inicia ("O que aconteceu com o
+    bebê?" / "Traga ele aqui." / "Traga. Por favor."). Mathias obedece em
+    silêncio.
+  - Citações de Mário atualizadas ("Deixem ele perto de mim" → "Traga ele
+    aqui.") em `capitulos/capitulo-19.md` e `personagens/mario.md`.
+  - **Nolan** adicionado aos personagens do cap. 19 (fora de cena —
+    segurando a mão de Dagmar) em `capitulos/capitulo-19.md`,
+    `personagens/nolan.md` e `visuais/nolan.md`.
+  - Kate: flashback da mãe parteira ("Você precisa saber, Kate...") +
+    callback Cressadar (selos e casas da corte) registrados em
+    `capitulos/capitulo-19.md` e `personagens/kate.md`.
+- **Visuais**: entradas do cap. 19 criadas para Kate, Mário, Lakand, Mathias,
+  Nolan (não aparece), Dagmar (pós-morte) e Devour (morte fora de cena).
+- **Lugares**: `lugares/saramant.md` — incêndio florestal do cap. 19
+  (ateado por Lakand, custo do faro, rampillas sobreviventes).
+- **Conceitos**: `conceitos/daerunmeges.md` — `ultimo_capitulo: 19`.
+- **LINT — verificações abertas**:
+  - **Corpo de Dagmar**: deixado no andar de cima quando o castelo queima
+    ("gelando no andar de cima"). A nota antiga de distribuição ("o comboio
+    volta com o corpo de Dagmar") NÃO é confirmada pelo texto final —
+    enterro em aberto (verificar cap. 21/22).
+  - `personagens/nolan.md` não tinha entradas dos caps. 17-18 (adicionada a
+    de 18-19; confirmar que os resumos dos capítulos cobrem as lacunas).
+  - Proposta: criar `conceitos/milagre.md` (referenciado em capitulo-19.md,
+    ainda sem ficha) — aguardando autorização.
+- **Arquivos**: `capitulos/capitulo-19.md`, `personagens/{mario,kate,nolan,
+dagmar,mathias}.md`, `visuais/{kate,mario,lakand,mathias,nolan,dagmar,
+devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
+
 ## 2026-08-04 (coerência — Lakand × Mário)
 
 - **Lakand NÃO culpa Mário pela dizimação da alcateia** — se carregasse

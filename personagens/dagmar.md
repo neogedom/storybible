@@ -40,12 +40,15 @@ Ver timeline visual completa em [visuais/dagmar.md](/visuais/dagmar.md).
 1. Acompanha Nolan na viagem a Devour
 2. **Cap. 16**: Confronta Nolan sobre Layla. Leva um tapa — ponto de não
    retorno emocional.
-3. **Cap. 18**: Morre no parto — **causa: chá de cascas de olmo**
+3. **Cap. 18**: Morre no parto — **causa: chá de cascas de vembra**
    (abortivo) administrado por Juleen. O tapa não a mata; o veneno, sim.
 4. Seu bebê (Saboc) é ressuscitado por Mário no milagre do cap. 19
 
-Dagmar morre para que o milagre aconteça. Essa é a regra de ouro: **milagre
-tem custo**, e o custo é ela.
+Dagmar morre, e apesar disso o bebê vive. Regra de ouro: milagre tem custo —
+mas o custo é **testemunho, não pagamento**: o bebê não vive "em troca" da
+mãe (isso seria barganha de vida por vida, o comércio que a oração rejeita).
+A morte é o tecido do mundo caído; o milagre chega depois, sem compensá-la
+(ver `conceitos/milagre.md`).
 
 ## Relações
 
@@ -56,9 +59,17 @@ tem custo**, e o custo é ela.
 
 ## Arco Narrativo
 
-- **Configuração**: Esposa silenciosa na carruagem- **Cap. 3**: Grávida de Saboc. Toma chá de cascas de olmo (dado por Juleen).
+- **Configuração**: Esposa silenciosa na carruagem- **Cap. 3**: Grávida de Saboc. Toma chá de cascas de vembra (dado por Juleen).
   Nolan dá chocalho de madeira; escolhe nome masculino.- **Crise**: Tapa de Nolan (cap. 16)
 - **Morte**: Parto (cap. 18)
+- **Cap. 19 (pós-morte)**: corpo levado em lençol manchado de vermelho na
+  altura do ventre; braço fino pendendo, anel de prata no dedo (reconhecido
+  por Kate). O corpo fica no andar de cima quando o castelo queima.
+- **Cap. 21 (enterro simbólico — decisão 2026-08-06)**: o incêndio de Lakand
+  é a pira involuntária (corpo irrecuperável sob o colapso). Nolan arranca o
+  anel de prata e o deposita num cairn de pedras enegrecidas na borda da
+  clareira, cumprindo o rito fúnebre de Vonos — protocolo seco, sem choro.
+  O anel vira a única herança da mãe para Saboc (germinação L2).
 
 _Atualizado a cada INGEST de capítulo._
 

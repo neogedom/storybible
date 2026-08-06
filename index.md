@@ -20,6 +20,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Lakand](personagens/lakand.md) — Daërunmege (lobisomem), aliado/antagonista ambíguo.
 - [Layla](personagens/layla.md) — Prostituta pessoal do Rei Genocydo, informante de Nolan.
 - [Mathias](personagens/mathias.md) — Espada da Lei, mão-direita de Nolan, poder de fogo (contra-fogo).
+- [Mira](personagens/mira.md) — Parteira-ama do castelo de Devour, ama de leite de Saboc, testemunha da ressurreição.
+- [Ossan](personagens/ossan.md) — Xamã sobrevivente da corte de Devour, filho do lorde, asset de Nolan (raiz-mestra/rampillas).
 
 ## Capítulos
 
@@ -54,6 +56,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Genocydo — Timeline Visual](visuais/genocydo.md)
 - [Lakand — Timeline Visual](visuais/lakand.md)
 - [Layla — Timeline Visual](visuais/layla.md)
+- [Mathias — Registro Visual](visuais/mathias.md)
+- [Devour — Registro Visual](visuais/devour.md)
 
 ## Lugares
 
@@ -65,6 +69,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 ## Conceitos
 
 - [Cosmologia de Ornick](conceitos/cosmologia.md) — Os três planos e a hierarquia divina.
+- [Milagre](conceitos/milagre.md) — Irrupção do Criador acima do Limbo; testemunho com custo, não ferramenta.
 - [Marduk](conceitos/marduk.md) — Um dos 70, patrono de Babel, senhor ausente de Ornick.
 - [Vonos](conceitos/vonos.md) — Elohim da Verdade, servo-chefe rebelde contra Marduk.
 - [Terbs](conceitos/terbs.md) — Elohim da Corrupção/Apoteose.
@@ -111,4 +116,4 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 ---
 
-_Última atualização: 2026-07-27_
+_Última atualização: 2026-08-06_

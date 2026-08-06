@@ -23,6 +23,13 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - _Não aparece_
 
+## Capítulo 19 — O Bebê (pós-morte)
+
+- Corpo envolto em lençol, manchado de vermelho na altura do ventre
+- Braço fino pendendo do lençol; anel de prata num dos dedos
+- Carregada pelas parteiras escada abaixo, diante da fresta da cela de Kate
+- Iluminação: corredor escuro do calabouço, luz cinzenta da fresta
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

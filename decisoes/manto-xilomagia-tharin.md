@@ -10,9 +10,10 @@ timestamp: 2026-07-31T12:00:00-03:00
 
 ## Contexto
 
-O manto de anéis de madeira (xilomagia, de origem rampilla) foi introduzido
-no **cap. 5** — Tharin o roubou de um xilomago de Devour e o usou para se
-camuflar na floresta. Kate matou Tharin no mesmo capítulo e o enterrou **com
+O manto de anéis de madeira (xilomagia, do **domínio de Devour** — criado por
+um xamã-xilomago da corte, NÃO por um rampilla; canon 2026-08-06) foi
+introduzido no **cap. 5** — Tharin o roubou de um xilomago de Devour e o usou
+para se camuflar na floresta. Kate matou Tharin no mesmo capítulo e o enterrou **com
 o manto** numa cova dentro de um mocambo queimado, no antigo cemitério
 próximo à cabana dela.
 

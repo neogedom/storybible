@@ -1,7 +1,7 @@
 ---
 type: Visual
 character: Mathias
-ultimo_capitulo: 18
+ultimo_capitulo: 19
 ---
 
 # Mathias — Registro Visual
@@ -13,6 +13,20 @@ ultimo_capitulo: 18
 - **Comportamento**: Executa ordens sem questionar. Voz hesitante ao sugerir esperar ("está escurecendo…"), mas obedece quando Nolan insiste.
 - **Relação**: Subordinado fiel. Nolan confia nele para acomodar Dagmar.
 
+## Capítulo 19 — O Calabouço
+
+- **Vestimenta**: traje de soldado; desce ao calabouço sem postura de patrulha —
+  passos pesados, inseguros, sem direção
+- **Objeto**: embrulho de panos com o bebê arroxeado e imóvel, apertado contra
+  o peito
+- **Expressão**: olhos vermelhos, voz quebrada; soluça baixinho; depois choro
+  contido, as costas sacudindo, quando o bebê volta a respirar
+- **Postura**: corpo curvado sobre o que carrega; de costas para as celas
+- **Iluminação**: penumbra do calabouço → clarão do incêndio ao fundo
+
 ## Nota
 
-Mathias será crucial no cap. 19: é ele quem desce aos calabouços carregando o bebê morto e implora a Mário que faça algo.
+No cap. 19 Mathias desce aos calabouços carregando o bebê morto. É MÁRIO quem
+inicia o pedido ("Traga ele aqui." / "Traga. Por favor.") — Mathias obedece em
+silêncio, por desespero. O nome dele nunca é dito no capítulo (POV de Kate:
+"o soldado do conselheiro").

@@ -23,6 +23,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - _Não aparece_
 
+## Capítulo 19 — O Calabouço
+
+- Forma: **híbrida** (mais fera do que homem) — desmanche quando diz "— Kate."
+- Pelagem: **chamuscada em tufos**, grudada nas cicatrizes
+- Mãos: manchadas de sangue fresco (de Devour)
+- Postura: ombros tensos, peso sobre as pontas dos pés — predador
+- Olhos: escuros, percorrem o calabouço; depois "voltam a ser dele"
+- Iluminação: fogo do incêndio, fumaça rente ao teto
+- Fundo: corredor do calabouço em chamas
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

@@ -7,10 +7,12 @@ pov: Kate
 beat_stc: Break Into 2
 percentual_l1: ~38-40%
 data_ingest: 2026-07-31
+revisado: 2026-08-06 (sincronizado com o texto final publicado)
 personagens:
   - Kate
   - Mário
-  - Mathias
+  - Nolan (fora de cena — segurando a mão de Dagmar no andar de cima)
+  - Mathias (não nomeado no texto — "o soldado do conselheiro")
   - Lakand
   - Dagmar (†, fora de cena)
   - Devour (†, fora de cena — morte híbrida: ferido por Lakand, corpo consumido pelo fogo)
@@ -40,19 +42,20 @@ Enquanto Kate examina a cela, ouve passos no andar de cima: o parto de Dagmar,
 esposa do conselheiro Nolan, que falha. O silêncio após o esforço confirma a
 tragédia — a criança não chorou. Kate reconhece a morte pela ausência do som.
 
-O soldado Mathias desce ao calabouço com o bebê arroxeado e morto nos braços.
-Implora a Mário que o traga de volta, citando a Estalagem do Vau ("trouxe
-alguém de volta"). Mário, semi-inconsciente, fala com a voz "certa, como se
-estivesse repetindo algo que ouviu" e pede que deixem o bebê perto dele.
+O soldado de Nolan (Mathias, não nomeado no texto) desce ao calabouço com o
+bebê arroxeado e morto nos braços, fugindo do quarto — "Não com ela. Não
+sabia para onde ir." Mário, semi-inconsciente e febril, fala com a voz
+"certa, como se estivesse repetindo algo que ouviu": pergunta "O que
+aconteceu com o bebê?" e ordena "Traga ele aqui." / "Traga. Por favor."
 Estende a mão, toca a cabeça da criança — e a **Voz o incita a orar**.
-Mário balbucia, em ornickenho, uma oração ditada: nomeia "Eu Sou", o deus
-acima do Limbo, recusa oferta e pede apenas misericórdia (ver
-`decisoes/glossolalia-invertida-oracao-cap19.md`). O bebê tosse, volta a
-respirar e chora.
+Mário balbucia, em ornickenho (renderizado em português para o leitor), uma
+oração ditada: nomeia "Eu Sou", o deus acima do Limbo, recusa oferta e pede
+apenas misericórdia (ver `decisoes/glossolalia-invertida-oracao-cap19.md`).
+O bebê tosse, volta a respirar e chora.
 
 Kate OUVE e ENTENDE as palavras — a primeira oração da vida dela a um deus
 que não cobra. Fica com a pergunta que abrirá o cap. 20: **"com quem você
-eslava falando?"**. Mário não lembrará de ter orado; a Voz assume a autoria
+estava falando?"**. Mário não lembrará de ter orado; a Voz assume a autoria
 da glossolalia como instrumento de testemunho.
 
 Kate presencia o impossível. Repete "Eu vi um bebê morto. Agora está vivo.
@@ -79,9 +82,10 @@ Mas vai usar.
 1. Kate acorda amarrada no calabouço; Mário febril na cela ao lado
 2. Kate ouve o parto de Dagmar no andar de cima — contrações, silêncio
 3. O bebê nasce morto; Dagmar morre (confirmado pelo corpo em lençol)
-4. Mathias desce com o bebê morto, implora a Mário
-5. Mário, semi-inconsciente, manda deixar o bebê perto dele
-6. O toque de Mário ressuscita o bebê — ele tosse, respira e chora
+4. Mathias desce com o bebê morto; Mário, febril, pergunta "O que aconteceu
+   com o bebê?" e ordena "Traga ele aqui." / "Traga. Por favor."
+5. Mário estende a mão pela grade e toca a cabeça do bebê
+6. O toque + a oração ditada ressuscitam o bebê — ele tosse, respira e chora
 7. Kate processa o impossível ("Isso não existe")
 8. Lakand invade (ateou o fogo de propósito; feriu Devour — o fogo consume o corpo)
 9. Kate escolhe "Os dois" — Mário como arma
@@ -92,8 +96,14 @@ Mas vai usar.
 ### Kate
 
 - POV do capítulo
-- Presa, amarrada, ombro ferido (arranhão de rampilla)
+- Presa, amarrada, ombro direito ferido (unhas de rampilla)
 - Testemunha o parto de Dagmar e a morte silenciosa
+- Flashback do parto: a mãe (parteira) a levava aos partos das vizinhas —
+  "Você precisa saber, Kate. Um dia pode ser você." Modo defesa: ódio ao
+  parto (reforço da semente #11 — ver `personagens/kate.md`)
+- Reconhece o corpo pelo anel de prata e o brasão do Conselho — "Cressadar
+  lhe ensinara os selos e as casas da corte para o ataque que fora deixado
+  de lado"
 - Presencia o milagre — o mundo de regras dela colapsa
 - Fissura humana: "Eu vi um bebê morto. Agora está vivo. Isso não existe."
 - Escolhe Mário por instinto — mas o instinto é tático: milagre = arma
@@ -101,17 +111,30 @@ Mas vai usar.
 
 ### Mário
 
-- Febril, desmaiado, semi-inconsciente
-- A voz age **através** dele: "Deixem ele perto de mim" — como se repetisse algo que ouviu
+- Febril, desmaiado, semi-inconsciente (infecção no braço direito)
+- A voz age **através** dele: "O que aconteceu com o bebê?" / "Traga ele
+  aqui." / "Traga. Por favor." — como se repetisse algo que ouviu
 - Não sabe o que fez — o milagre acontece sem consentimento consciente
-- Física: febre, ferida no braço direito, exaustão
+- Física: febre, ferida no braço direito, exaustão; arrasta-se até a grade
+  para estender a mão sobre a criança
 
 ### Mathias
 
-- Soldado de Nolan
-- Desce escondido (Nolan não sabe que o bebê reviveu)
-- Em desespero — olhos vermelhos, mãos tremendo, braço coberto de sangue seco
-- Chora quando o bebê revive
+- Soldado de Nolan — não nomeado no texto ("o soldado do conselheiro")
+- Desce escondido (Nolan não sabe que ele tirou o corpo do quarto)
+- Em desespero — olhos vermelhos, voz quebrada ("Nasceu sem ar... Não sabia
+  para onde ir. Desci.")
+- Chora apertando o bebê contra o peito quando ele volta a respirar
+- Última imagem de Kate: o bebê chorando nos braços dele, com o castelo em
+  chamas atrás
+
+### Nolan
+
+- Presente, fora de cena — no andar de cima, segurando a mão de Dagmar
+  (dito pelo soldado: "O senhor Nolan está lá em cima, segurando a mão dela")
+- Não sabe que Mathias tirou o corpo do bebê do quarto
+- Perde a esposa e o filho (morto, depois revivido) no mesmo evento
+- Sobrevive ao incêndio com Saboc (via Mathias — cap. 21, cold-open POV Nolan)
 
 ### Lakand
 
@@ -137,10 +160,18 @@ Mas vai usar.
 - A morte só é revelada pelo sangue nas mãos de Lakand + chamas — subtexto,
   não anúncio
 
+### Dagmar (†)
+
+- Morte fora de cena (fim do cap. 18, POV Nolan — parto; o bebê nasce sem ar)
+- Corpo levado em lençol manchado de vermelho na altura do ventre; braço
+  fino pendendo, anel de prata no dedo (reconhecido por Kate)
+- Corpo deixado no andar de cima quando o castelo queima — enterro em aberto
+  (verificação LINT: o corpo não é retirado no cap. 19)
+
 ### Saboc (bebê de Dagmar)
 
-- Nasce morto, atravessado
-- Ressuscitado pelo toque de Mário
+- Nasce morto, atravessado (fim do cap. 18)
+- Ressuscitado pelo toque de Mário + a oração "Eu Sou" (cap. 19)
 - Chora nos braços de Mathias
 
 ## Sementes Plantadas
@@ -211,6 +242,26 @@ Mas vai usar.
   (híbrida → homem quando ele diz "— Kate.") e 1ª forma plena de lobo na
   floresta (cap. 20, carregando Mário). Ver `conceitos/daerunmeges.md` e
   `personagens/lakand.md`.
+
+## Notas de Sincronização (2026-08-06)
+
+Revisão do INGEST contra o texto final publicado (LINT). Correções aplicadas:
+
+- **Estalagem do Vau removida**: o texto final NÃO traz Mathias citando a
+  Estalagem do Vau ("trouxe alguém de volta") nem implorando a Mário. É Mário
+  quem inicia: "O que aconteceu com o bebê?" / "Traga ele aqui." O soldado
+  obedece em silêncio, por desespero.
+- **Citações de Mário atualizadas**: "Deixem ele perto de mim" (rascunho)
+  → "Traga ele aqui." / "Traga. Por favor." (final).
+- **Nolan adicionado aos personagens**: presente, fora de cena (segurando a
+  mão de Dagmar), informado pelo soldado.
+- **Corpo de Dagmar em aberto**: a última imagem de Kate é o corpo "gelando
+  no andar de cima" enquanto o castelo queima. O texto não retira o corpo.
+  Verificar no cap. 21/22 se há enterro (a nota antiga de distribuição — "o
+  comboio volta com o corpo de Dagmar" — não é confirmada pelo texto final).
+- **Cressadar (callback)**: a âncora do brasão do Conselho confirma o canon
+  de 2026-08-01 — Kate foi treinada por Benjamim Cressadar/Gaviorn'l, não
+  serviu a Nolan.
 
 ## Conexões
 

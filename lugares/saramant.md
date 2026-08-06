@@ -25,7 +25,19 @@ território onde Kate caça e onde Gaviorn'l a deixou anos atrás.
 - Massacra 5 rampillas e um xamã de Devour perto da fortaleza
 - A brasa/fúria aponta para a Metrópole
 
+### Capítulo 19 — O Incêndio
+
+- Lakand ateia fogo de propósito na toca dos rampillas e no castelo (tochas
+  de óleo do salão) como cobertura para libertar Kate (canon 2026-08-03)
+- O fogo **descontrolado** vira incêndio florestal em Saramant (outono seco)
+- Custo: a floresta que Lakand mesmo caçava arde; o faro dele fica
+  inutilizado pela fumaça na fuga
+- Sobrevivem ~uma dezena de rampillas (patrulhas de perímetro + toca
+  secundária na borda); o perímetro queimado vira clareira defensiva
+  (firebreak)
+
 ## Conexões
 
 - [Kate](/personagens/kate.md) — Caçadora em Saramant
 - [Vila de Opium](opium.md) — Povoado massacrado dentro de Saramant
+- [Castelo de Devour](castelo-devour.md) — pós-incêndio (base militar de Nolan)

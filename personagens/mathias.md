@@ -49,6 +49,10 @@ Devour.
 - Testemunha a oração "Eu Sou" e a ressurreição do bebê (chora, apertando-o)
 - Fica no castelo quando Kate/Mário/Lakand fogem — "o bebê chorava nos braços
   do soldado" (última imagem de Kate)
+- **POV (canon)**: para Kate ele é apenas "o soldado do conselheiro" — o nome
+  nunca é dito no cap. 19. A identificação como Mathias é canon de apoio.
+- **Não implora**: é Mário quem inicia o pedido ("Traga ele aqui." / "Traga.
+  Por favor."); Mathias obedece em silêncio, por desespero.
 
 ### Capítulo 21 — O Enterro e a Dívida (cold-open, POV Nolan)
 

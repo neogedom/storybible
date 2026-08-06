@@ -63,6 +63,11 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: sol da estrada → interior escuro da carruagem
 - Local: dentro da carruagem, Taverna do Porto Seco
 
+## Capítulo 19 — O Bebê
+
+- _Não aparece em cena_ (fora de cena: no andar de cima, segurando a mão de
+  Dagmar enquanto o castelo queima ao redor)
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->
