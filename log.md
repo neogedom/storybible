@@ -1,5 +1,35 @@
 # Log de Atualizações
 
+## 2026-08-06 (arquitetura — separação de camadas: processo fora da bible)
+
+- **Princípio**: Story Bible guarda fatos do mundo (canon); regras operacionais
+  de ferramenta vivem nas skills/agentes. A regra de acentuação de tritongos é
+  **processo** (workaround de TTS), então saiu de `conceitos/fonetica.md`.
+- `conceitos/fonetica.md` → agora **só a tabela de pronúncia canônica dos nomes**;
+  descrição/tags reajustadas (tool-agnostic).
+- Fonte única da acentuação de tritongos: seção 3 da skill `preparar-audiochapter`
+  (com aviso anti-duplicação). Agente e prompt atualizados para referenciar a
+  skill, não o `fonetica.md`.
+- `decisoes/regras-audiochapter-acentuacao-ditongos.md` → nota de separação.
+- Caminho de saída corrigido também em `Livro/.github/prompts/audiochapter.prompt.md`
+  → `Audiobook/Capítulo {número}/`.
+
+## 2026-08-06 (canon — acentuação fonética: APENAS tritongos; script cap. 19 regenerado)
+
+- **Regra corrigida**: a acentuação fonética NÃO é mais aplicada a ditongos
+  decrescentes (ai, ei, oi, au, eu, ou) — só a **tritongos** (três vogais na
+  mesma sílaba tônica, ex.: alcateia → alcatéia). A acentuação excessiva de
+  ditongos poluía o script.
+- **Arquivos**: `Livro/.github/skills/preparar-audiochapter/SKILL.md`,
+  `conceitos/fonetica.md`, `decisoes/regras-audiochapter-acentuacao-ditongos.md`,
+  `Livro/.github/agents/preparador-audio.agent.md`, `index.md`.
+- **Script cap. 19 regenerado**: `Audiobook/Capítulo 19/narracao-minimax.txt`
+  — acentos de ditongo revertidos; só nomes fonéticos (Lêikand, Devôr,
+  Dagmár, Cressadár, rampíla) e remoção de hífens. Sem tritongos no texto,
+  nenhuma acentuação da etapa 3 aplicada.
+- **Caminho de saída corrigido** nos docs: `Audiobook/Capítulo {número}/`
+  (antes: `Audiobook/O Estrangeiro e a Metrópole/`, desatualizado).
+
 ## 2026-08-06 (registro — pendências de publicação: cap. 3 áudio)
 
 - Registrado em memória do repo (`/memories/repo/pendentes-publicacoes.md`):

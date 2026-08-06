@@ -1,7 +1,7 @@
 ---
 type: Decision
 title: Regras de Acentuação Fonética e Extração de Narração para Minimax
-description: Decisão de implementar regras sistemáticas de acentuação de tritongos/ditongos decrescentes e extração rigorosa de narração (sem falas) no script de áudio Minimax.
+description: Decisão de implementar regras sistemáticas de acentuação de tritongos e extração rigorosa de narração (sem falas) no script de áudio Minimax.
 tags: [decisao, audio, minimax, fonetica, narracao]
 timestamp: 2026-07-27T15:30:00-03:00
 ---
@@ -11,9 +11,8 @@ timestamp: 2026-07-27T15:30:00-03:00
 ## Contexto
 
 O script de narração para o Minimax TTS estava vazando falas de personagens no
-arquivo de narração. Além disso, palavras com tritongos e ditongos decrescentes
-não tinham acento gráfico, fazendo a TTS ler com entonação incorreta em alguns
-casos.
+arquivo de narração. Além disso, palavras com tritongos não tinham acento
+gráfico, fazendo a TTS ler com entonação incorreta em alguns casos.
 
 ## Decisão
 
@@ -23,8 +22,9 @@ casos.
    é removido. Pensamentos diretos (aspas) também são removidos.
 
 2. **Acentuação fonética**: adicionar acento agudo na vogal forte (a, e, o) de
-   todo tritongo ou ditongo decrescente oral na sílaba tônica que ainda não
-   possua acento gráfico. Ex: "mais" → "máis", "noite" → "nóite", "meu" → "méu".
+   todo **tritongo** oral na sílaba tônica que ainda não possua acento gráfico.
+   Ex: "alcateia" → "alcatéia". **Ditongos decrescentes NÃO são acentuados**
+   (correção 2026-08-06).
 
 3. **Hífens em pronomes**: remover hífens de ênclise/próclise/mesóclise, exceto
    quando o pronome for "se" (mantém hífen).
@@ -47,3 +47,10 @@ casos.
   acentuadas.
 - Confusão entre ditongo e hiato pode gerar acentos falsos — mitigado pela regra
   "em caso de dúvida, preservar original".
+
+## Nota — separação de camadas (2026-08-06)
+
+As regras de acentuação de tritongos são **processo** (workaround de TTS), não
+canon. Por isso a fonte única passou a ser a SKILL `preparar-audiochapter`
+(seção 3); `conceitos/fonetica.md` ficou apenas com a pronúncia canônica dos
+nomes.

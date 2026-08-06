@@ -79,7 +79,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Segregação](conceitos/segregacao.md) — Política racial de Nolan e Genocydo.
 - [Glossário de Ornick](conceitos/glossario.md) — Termos, nomes e ortografia correta.
 - [Riscos Estruturais](conceitos/riscos-estruturais.md) — Três colisões e cinco riscos sistemáticos.
-- [Dicionário Fonético](conceitos/fonetica.md) — Guia de pronúncia para TTS.
+- [Dicionário Fonético](conceitos/fonetica.md) — Pronúncia canônica dos nomes de Ornick (regras de acentuação TTS: ver skill de áudio).
 
 ## Personagens (Secundários)
 
@@ -107,7 +107,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 - [Insights](insights/) — Ideias de brainstorming registradas automaticamente.
 - [Decisões](decisoes/) — Decisões formais tomadas ao longo do desenvolvimento.
-- [Regras de Áudio Minimax](decisoes/regras-audiochapter-acentuacao-ditongos.md) — Decisão sobre acentuação fonética de tritongos/ditongos e extração rigorosa de narração (2026-07-27).
+- [Regras de Áudio Minimax](decisoes/regras-audiochapter-acentuacao-ditongos.md) — Decisão sobre acentuação fonética de tritongos e extração rigorosa de narração (2026-07-27; correção 2026-08-06: só tritongos).
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 
 ## Agentes (Workflow)
