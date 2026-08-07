@@ -72,3 +72,19 @@ Devour.
 - [Nolan](/personagens/nolan.md) — mão-direita; lealdade profissional
 - Dagmar — serviu à esposa do conselheiro (linhagem militar Addorbek)
 - Saboc — portador/protetor desde o cap. 19
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Mathias aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem.
+>
+> ⚠️ Inferência: cabelo e feições não são canônicos na ficha — fixados aqui
+> por consistência (soldado leviantar disciplinado). Confirmar com o autor.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Mathias, soldado leviantar de cerca de 35 anos, cabelo curto escuro, rosto disciplinado e leal, capa vermelha dos Espadas da Lei, couro e armadura simples, espada ao lado, postura de soldado fiel, expressão contida`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um soldado diante de um fundo de estrada de comboio ao entardecer. Mathias, soldado leviantar de cerca de 35 anos, cabelo curto escuro, rosto disciplinado e leal, capa vermelha dos Espadas da Lei, couro e armadura simples, espada ao lado, postura de soldado fiel, expressão contida. Iluminação: chiaroscuro dramático com brasas e luz baixa de fogueira. Atmosfera: de dever, vigilância e exaustão contida. Paleta de cores: vermelho-sangue da capa, couro, cinza de metal e ocre de estrada. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

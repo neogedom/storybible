@@ -39,3 +39,19 @@ fé de Mário **antes da coroa** sobrevive independente dele.
 - [Koda](/personagens/koda.md) — Pai, conflito pela abdicação
 - [Layla](/personagens/layla.md) — Parceira de marginalidade
 - [Nolan](/personagens/nolan.md) — Arquiteto da jaula
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Gunad aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem.
+>
+> ⚠️ Inferência: aparência baseada no papel (músico de rua, primogênito que
+> abdicou) — fixada por consistência. Confirmar com o autor.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Gunad Deltëra, jovem leviantar, primogênito que abdicou, músico de rua, roupas simples e desgastadas, cabelo ao vento, um instrumento de cordas às mãos, expressão aberta e esperançosa, ar de liberdade sem templo nem espada`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um músico diante de um beco ou praça ao entardecer com lampiões. Gunad Deltëra, jovem leviantar, primogênito que abdicou, músico de rua, roupas simples e desgastadas, cabelo ao vento, um instrumento de cordas às mãos, expressão aberta e esperançosa, ar de liberdade sem templo nem espada. Iluminação: chiaroscuro dramático com luz âmbar de lampião. Atmosfera: de fé simples, becos e resistência quieta. Paleta de cores: tons de terra, âmbar de lampião e cinza de pedra. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

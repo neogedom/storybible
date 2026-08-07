@@ -78,3 +78,16 @@ _Atualizado a cada INGEST de capítulo._
 
 - **Permitido**: expressão de ansiedade, olhar vago, ambiente de castelo
 - **Proibido**: óculos, aparência humilde, expressão serena
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Genocydo aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Genocydo, homem de porte imponente, traços belos com ansiedade latente sob os olhos, cabelo estilizado de realeza, vestes reais brancas e douradas, cristal de quartzo e insígnias reais, expressão de rei megalomaníaco e ansioso`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um rei diante de um fundo de salão do Castelo de Quartzo com luz azulada. Genocydo, homem de porte imponente, traços belos com ansiedade latente sob os olhos, cabelo estilizado de realeza, vestes reais brancas e douradas, cristal de quartzo e insígnias reais, expressão de rei megalomaníaco e ansioso, olhar focado no vazio. Iluminação: chiaroscuro dramático com luz azul-quartzo fria e sombras profundas. Atmosfera: de poder decadente e paranoia. Paleta de cores: branco, ouro e azul quartzo. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

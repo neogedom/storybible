@@ -88,3 +88,16 @@ _Atualizado a cada INGEST de capítulo._
 - **Permitido**: cansaço, mágoa, lágrimas, vermelhidão, suor, vestido amarrotado
 - **Proibido**: roupas de combate, armas, sujeira excessiva, expressão de
   felicidade, gore explícito
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Dagmar aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem. Estado canônico: grávida de Saboc (ventre proeminente) no L1.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Dagmar, mulher leviantar de 30-35 anos, cabelo claro em ondas (louro ou castanho-claro), olhos claros (azul ou cinza), pele clara, grávida com ventre proeminente, vestido de viagem de corte em azul-claro, expressão magoada e digna`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano três quartos de uma mulher grávida diante do interior escuro de uma carruagem de viagem. Dagmar, mulher leviantar de 30-35 anos, cabelo claro em ondas (louro ou castanho-claro), olhos claros (azul ou cinza), pele clara, grávida com ventre proeminente, vestido de viagem de corte em azul-claro, mão pousada sobre o ventre, expressão magoada e digna. Iluminação: chiaroscuro dramático com luz cinzenta fria vinda de uma janela. Atmosfera: silenciosa, triste, de sacrifício silencioso. Paleta de cores: azul-claro, pele clara, cabelo claro, marrom de estofado e vermelho-sangue contido. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

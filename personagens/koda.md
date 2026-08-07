@@ -47,3 +47,19 @@ Alavria.
 - [Gunad](/personagens/gunad.md) — Filho que abdicou
 - [Alavria](/lugares/alavria.md) — Nação para quem espiona
 - [Renath](/conceitos/renath.md) — Patrono divino de Alavria
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Koda aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem.
+>
+> ⚠️ Inferência: aparência baseada no papel (Mestre da Moeda, patriarca de
+> construtores navais) — fixada por consistência. Confirmar com o autor.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Koda Deltëra, patriarca leviantar mais velho, Mestre da Moeda do Reino, vestes sóbrias de administrador em verde-escuro e marrom, dedos manchados de tinta, livro de contas ou moeda de prata à mão, expressão calculista e cansada de quem carrega um segredo`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um administrador idoso diante de uma casa de contabilidade com mapas e livros de contas. Koda Deltëra, patriarca leviantar mais velho, Mestre da Moeda do Reino, vestes sóbrias de administrador em verde-escuro e marrom, dedos manchados de tinta, livro de contas à mão, expressão calculista e cansada de quem carrega um segredo de Estado. Iluminação: chiaroscuro dramático com luz de vela. Atmosfera: de riqueza antiga, cálculo e peso familiar. Paleta de cores: verde-escuro, marrom, palha de papel e prata de moeda. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

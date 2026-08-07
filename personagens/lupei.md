@@ -31,3 +31,20 @@ Evangelho autêntico — e vê Mário traí-lo.
 
 - [Mário](/personagens/mario.md) — Testemunha sua corrupção
 - [Gunad](/personagens/gunad.md) — Conecta-se no Remanescente
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Lupe'i aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem.
+>
+> ⚠️ Inferência: aparência baseada no papel (filho de fazendeiros, conselheiro
+> hegraliano, fundador da Cidadela de Gus) — fixada por consistência.
+> Confirmar com o autor.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Edgard Lupe'i, conselheiro de meia-idade, filho de fazendeiros e estudioso do hegralismo, vestes sóbrias de viagem e estudo, mãos de trabalhador, cabelo grisalho, postura de estudante-estadista, olhar moral claro e cansado`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um conselheiro diante de um escritório da Cidadela de Gus com mapas das fronteiras do Norte. Edgard Lupe'i, conselheiro de meia-idade, filho de fazendeiros e estudioso do hegralismo, vestes sóbrias de viagem e estudo, mãos de trabalhador, cabelo grisalho, postura de estudante-estadista, olhar moral claro e cansado. Iluminação: chiaroscuro dramático com luz de vela e janelas frias. Atmosfera: de refúgio, consciência e fronteira. Paleta de cores: marrons sóbrios, cinza e palha de papel. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

@@ -31,3 +31,19 @@ sozinho — o caminho para o L2 começa no isolamento total.
 
 - [Nolan](/personagens/nolan.md) — Genro
 - [Dagmar](/personagens/dagmar.md) — Filha
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Valinor
+> aparecer; alterar apenas o que as **Regras de Variação** e a **Paleta
+> Canônica** acima permitem.
+>
+> ⚠️ Inferência: aparência baseada no papel (General dos Espadas da Lei,
+> sogro de Nolan) — fixada por consistência. Confirmar com o autor.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Valinor Addorbek, general idoso dos Espadas da Lei, cabelo grisalho curto, rosto marcado e severo, capa vermelha dos Espadas da Lei, farda militar formal, espada de comando, postura ereta de comandante, expressão de dever e luto contido`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um comandante idoso diante de um salão do conselho com estandartes militares. Valinor Addorbek, general idoso dos Espadas da Lei, cabelo grisalho curto, rosto marcado e severo, capa vermelha dos Espadas da Lei, farda militar formal, espada de comando, postura ereta de comandante, expressão de dever e luto contido. Iluminação: chiaroscuro dramático com luz de archotes. Atmosfera: de instituição, honra e perda velada. Paleta de cores: vermelho-sangue, cinza de metal, branco de farda e ouro de insígnias. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

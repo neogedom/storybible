@@ -86,3 +86,16 @@ _Atualizado a cada INGEST de capítulo._
 
 - **Permitido**: fumaça, ambientes escuros, bibliotecas, ao lado de Genocydo
 - **Proibido**: aparência jovem, olhar ingênuo, ausência de fumaça/vapor ao redor
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Benjamim aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Benjamim Cressadar, ancião curvado mas ágil, pele enrugada como pergaminho, olhos astutos que parecem ver através de tudo, cabelo grisalho ralo, mãos ossudas sempre escondidas nas mangas, túnicas púrpuras pesadas de Plyshar com símbolos prateados, fumaça escura viva ao redor, expressão impassível e manipuladora`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um feiticeiro ancião diante de um fundo de biblioteca sombria envolto em névoa púrpura. Benjamim Cressadar, ancião curvado mas ágil, pele enrugada como pergaminho, olhos astutos que parecem ver através de tudo, cabelo grisalho ralo, mãos ossudas sempre escondidas nas mangas, túnicas púrpuras pesadas de Plyshar com símbolos prateados, fumaça escura viva ao redor, expressão impassível e manipuladora. Iluminação: chiaroscuro dramático com luz baixa de velas e fumaça em espiral. Atmosfera: de corrupção paciente e cálculo. Paleta de cores: roxo escuro, cinza chumbo e prata. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

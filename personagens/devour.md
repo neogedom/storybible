@@ -63,3 +63,16 @@ de Devour torna-se base militar de Nolan.
 
 - [Kate](/personagens/kate.md) — Caçadora que enfrenta seus rampillas
 - [Nolan](/personagens/nolan.md) — Juiz que o elimina e depois assume o controle dos rampillas
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Devour aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Devour, homem leviantar miúdo, baixo e magro, pele cinzenta como pedra úmida, olhos escuros como carvão molhado, pés descalços, vestes escuras simples tocadas de musgo e seiva, plantas crescendo ao redor (musgos, trepadeiras, pequenas flores brancas), expressão de tédio cruel`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um lorde decaído diante de um salão amplo com tochas de óleo e um trono de ossos e madeira escura. Devour, homem leviantar miúdo, baixo e magro, pele cinzenta como pedra úmida, olhos escuros como carvão molhado, pés descalços, vestes escuras simples tocadas de musgo e seiva, plantas crescendo ao redor com pequenas flores brancas que desabrocham e murcham, expressão de tédio cruel. Iluminação: chiaroscuro dramático com tochas de óleo. Atmosfera: de poder podre e apodrecimento cultivado. Paleta de cores: cinza-pedra, verde musgo, âmbar de tocha e branco pálido das flores. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

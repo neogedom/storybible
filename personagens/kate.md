@@ -142,7 +142,7 @@ mas também não consegue explicar.
 - **Germinação (L2)**: aceita ter filhos de Mário — sinal de evolução em
   direção ao abandono da violência como motor de salvação.
 
-_Atualizado a cada INGEST de capítulo.__
+\_Atualizado a cada INGEST de capítulo.\_\_
 
 ## Citações
 
@@ -164,3 +164,16 @@ _Registrar citações marcantes durante o INGEST dos capítulos._
   variação de expressão e iluminação
 - **Proibido**: óculos, itens modernos, mudanças drásticas na cor/comprimento
   do cabelo, gore explícito
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Kate aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Kate, mulher leviantar gnock de 25-32 anos, cabelo longo escuro, olhos escuros, pele clara, porte atlético e ágil, sem óculos, couro remendado de caçadora em camadas rasgadas, faca de caça escura à vista, expressão fria e alerta com um traço de cansaço`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de uma caçadora diante de um fundo escuro de floresta noturna em sombras. Kate, mulher leviantar gnock de 25-32 anos, cabelo longo escuro desgrenhado, olhos escuros, pele clara, porte atlético e ágil, couro remendado de caçadora em camadas rasgadas, faca de caça escura à vista, expressão fria e alerta com um traço de cansaço e desconfiança. Iluminação: chiaroscuro dramático com luz âmbar de tocha e luar frio. Atmosfera: de prontidão, selvagem e contida. Paleta de cores: marrom escuro, couro, bege sujo, verde musgo e âmbar de tocha. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

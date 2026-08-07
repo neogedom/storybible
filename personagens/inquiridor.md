@@ -39,16 +39,16 @@ longo da narrativa.
 
 ## Aparições Conhecidas
 
-| Capítulo             | Evento                                                                  |
-| -------------------- | ----------------------------------------------------------------------- |
-| **Prólogo (cap. 0)** | Genocydo mobiliza os Inquiridores para todas as fronteiras              |
-| **Cap. 2**           | Um Inquiridor (individual) aparece em Ornick. Atira 3 vezes: clavícula, esterno, caixa torácica. Mário desaba |
-| **Cap. 3**           | Koda menciona: Genocydo financia os Inquiridores com renanthao          |
-| **Cap. 5**           | Kate foi treinada para ser imune às armas geométricas deles             |
-| **Cap. 6**           | Nolan teme que os Inquiridores reivindiquem custódia                    |
-| **Cap. 12**          | Mercenários temem que os Inquiridores cheguem primeiro                  |
+| Capítulo             | Evento                                                                                                          |
+| -------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Prólogo (cap. 0)** | Genocydo mobiliza os Inquiridores para todas as fronteiras                                                      |
+| **Cap. 2**           | Um Inquiridor (individual) aparece em Ornick. Atira 3 vezes: clavícula, esterno, caixa torácica. Mário desaba   |
+| **Cap. 3**           | Koda menciona: Genocydo financia os Inquiridores com renanthao                                                  |
+| **Cap. 5**           | Kate foi treinada para ser imune às armas geométricas deles                                                     |
+| **Cap. 6**           | Nolan teme que os Inquiridores reivindiquem custódia                                                            |
+| **Cap. 12**          | Mercenários temem que os Inquiridores cheguem primeiro                                                          |
 | **Cap. 17**          | Intimação formal chega a Devour. Diapasão de renanthao cravado na floresta — triangulando a assinatura de Mário |
-| **Cap. 18**          | Devour segura Mário para a escolta oficial                              |
+| **Cap. 18**          | Devour segura Mário para a escolta oficial                                                                      |
 
 ## Arco Planejado
 
@@ -60,3 +60,21 @@ longo da narrativa.
 - [Mário](/personagens/mario.md) — Alvo da caça
 - [Nolan](/personagens/nolan.md) — Rival pelo controle da narrativa
 - [Vonos](/conceitos/vonos.md) — A divindade que servem
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que um Inquiridor
+> aparecer; alterar apenas o que as **Regras de Variação** e a **Paleta
+> Canônica** acima permitem.
+>
+> ⚠️ É um tipo (vários agentes), não um personagem único. O uniforme abaixo é
+> inferido a partir do equipamento canônico (armas geométricas de renanthao,
+> diapasões, talismã de Vonos, cicatrizes rituais) — fixado por consistência.
+> Confirmar com o autor.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Inquiridor do Sinal, agente do culto de Vonos, vestes escuras de executor ritual com insígnias geométricas de metal, talismã de Vonos no pescoço, cicatrizes rituais no rosto, armas geométricas de renanthao e diapasões de triangulação à cintura, expressão fria e doutrinária`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um executor ritual diante de uma fronteira desolada ou floresta noturna. Inquiridor do Sinal, agente do culto de Vonos, vestes escuras de executor ritual com insígnias geométricas de metal, talismã de Vonos no pescoço, cicatrizes rituais no rosto, armas geométricas de renanthao e diapasões de triangulação à cintura, expressão fria e doutrinária de quem obedece apenas ao Sinal. Iluminação: chiaroscuro dramático com luz fria e clínica. Atmosfera: de burocracia divina, caça e falta de piedade. Paleta de cores: cinza-pedra, metal frio de renanthao e branco-azulado de Vonos. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

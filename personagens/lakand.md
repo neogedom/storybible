@@ -147,3 +147,17 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 
 - **Permitido**: cicatrizes, expressão animal, ambientes de floresta
 - **Proibido**: roupas da Metrópole, adornos, expressão dócil
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Lakand aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem. Forma canônica de referência: **híbrida** (mais fera que homem).
+> As formas humana e plena (lobo quadrúpede) são variações permitidas.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Lakand, Daërunmege lobisomem em forma híbrida mais fera que homem, corpo musculoso coberto de pelagem escura e acinzentada, cicatrizes de batalha visíveis, olhos intensos e animais, postura de predador, garras, pelagem chamuscada em tufos, peles e couro bruto, expressão selvagem e alerta`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um lobisomem híbrido diante de um fundo de floresta em chamas com fumaça rente ao chão. Lakand, Daërunmege em forma híbrida mais fera que homem, corpo musculoso coberto de pelagem escura e acinzentada, cicatrizes de batalha visíveis, olhos intensos e animais, postura de predador com peso sobre as pontas dos pés, garras, pelagem chamuscada em tufos, peles e couro bruto, expressão selvagem e alerta. Iluminação: chiaroscuro dramático com clarão de incêndio e fumaça. Atmosfera: caótica, instintiva, de desespero animal. Paleta de cores: marrons de terra, cinza sangue, âmbar de fogo e fumaça. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

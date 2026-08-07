@@ -75,3 +75,14 @@ Tharin — criado por um deles). Quase todos morrem no incêndio; **um
 sobrevive** — **Ossan d'Tirath, filho de Devour** — e se torna asset de
 Nolan, conhecendo o jardim e a raiz-mestra (ver cap. 21 e
 `personagens/ossan.md`).
+
+## Prompt de Referência Canônica (criatura)
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot) quando
+> rampillas aparecerem. Manter o **Bloco descritor canônico** idêntico.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Rampilla, criatura humanoide grande de braços musculosos, pele coberta por casca grossa de resina escura que brilha úmida, mandíbula protuberante com presas curtas, olhos negros opacos como caroço seco, silencioso e sem expressão, lança ou machado de lâmina larga, postura de autômato obediente`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, figura em corpo inteiro de um rampilla diante de um fundo de toca escura com tochas de óleo. Rampilla, criatura humanoide grande de braços musculosos, pele coberta por casca grossa de resina escura que brilha úmida, mandíbula protuberante com presas curtas, olhos negros opacos como caroço seco, silencioso e sem expressão, machado de lâmina larga, postura de autômato obediente como extensão de uma vontade única. Iluminação: chiaroscuro dramático com tochas de óleo. Atmosfera: de ameaça silenciosa e zumbificação sem dor. Paleta de cores: resina escura, cinza-pedra e âmbar de tocha. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

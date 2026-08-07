@@ -46,13 +46,15 @@ Ver timeline visual completa em [visuais/layla.md](/visuais/layla.md).
 - [Nolan](/personagens/nolan.md) — contratante. Layla informa Nolan.
 
 ## Arco Narrativo
+
 ### Capítulo 9 — O Diário Perdido
+
 - Infiltrada no Castelo de Quartzo como prostituta de Genocydo
 - Nolan a contratou para roubar o diário
 - Falhou: Genocydo não cede à bebida
 - Trouxe a Bíblia de Kraviam em vez do diário
 - Enfrenta Nolan com deboche — sabe que ele não pode matá-la
-_Atualizado a cada INGEST de capítulo._
+  _Atualizado a cada INGEST de capítulo._
 
 ---
 
@@ -67,3 +69,16 @@ _Atualizado a cada INGEST de capítulo._
 - **Permitido**: expressão debochada, ambientes luxuosos mas decadentes,
   jardins, contraste com quartzo azul
 - **Proibido**: aparência humilde, roupas simples, expressão ingênua
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Layla aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Layla, mulher baixa de pele bronzeada, olhos âmbar, cabelos castanhos em cachos volumosos, curvas acentuadas, vestido curto com corpete amarrado e decote de renda, expressão atrevida e debochada`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de uma cortesã diante de um aposento luxuoso e decadente com luz de velas e contraste com quartzo azul. Layla, mulher baixa de pele bronzeada, olhos âmbar, cabelos castanhos em cachos volumosos, curvas acentuadas, vestido curto com corpete amarrado e decote de renda, expressão atrevida e debochada de quem sabe que é subestimada. Iluminação: chiaroscuro dramático com velas douradas e sombras profundas. Atmosfera: de luxo podre e desenvoltura. Paleta de cores: vermelho, dourado e roxo. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

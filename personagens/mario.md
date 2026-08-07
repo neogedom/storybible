@@ -24,7 +24,9 @@ seguidores, mas suas ações (e os milagres que testemunha) atraem ambos.
 - **Olhos**: escuros (cor não especificada)
 - **Pele**: clara, pálida
 - **Estatura**: mediana, magro
-- **Traços fixos**: **usa óculos** (cap. 1 confirma), sem barba, postura de exaustão crônica
+- **Traços fixos**: **usa óculos** apenas no visual da Terra (cap. 1); em Ornick,
+  sem óculos (perdidos na travessia — visual canônico das imagens, ver
+  "Prompt de Referência Canônica" abaixo), sem barba, postura de exaustão crônica
 - **Mãos**: originalmente lisas de estudante; com o tempo, cortes, queimaduras e unhas quebradas
 
 Ver timeline visual completa em [visuais/mario.md](/visuais/mario.md).
@@ -54,7 +56,7 @@ narrativa é ser o ponto de tensão entre três forças:
    cap. 19**, usá-lo como arma (o milagre visto como ferramenta)
 
 Mário não quer ser profeta. Mas os milagres acontecem através dele — e isso
- o torna inescapável.
+o torna inescapável.
 
 ## Mecânica da Voz — Dons de Línguas (canon)
 
@@ -98,7 +100,7 @@ Mário não quer ser profeta. Mas os milagres acontecem através dele — e isso
   de orar ao ver os argumentos funcionarem sem oração (cessacionismo teimoso)
 - A Voz assume a autoria da glossolalia como testemunho (a escrever)
 - Prepara a crise teológica do cap. 20: "Por que este bebê e não Lucas?"
-  + "eu falo ornickenho sem nunca ter aprendido" — dom permanente não pedido
+  - "eu falo ornickenho sem nunca ter aprendido" — dom permanente não pedido
 - Foge carregado por Kate, guiado por Lakand
 
 ## Relações
@@ -156,3 +158,16 @@ _Registrar citações marcantes durante o INGEST dos capítulos._
   bandagens, ferimentos implícitos
 - **Proibido**: barba, uniforme militar, armas, roupas de Ornick,
   gore explícito, itens modernos não estabelecidos
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Mário aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Mário, homem de 20-25 anos, cabelo preto curto e desgrenhado, olhos escuros, pele clara e pálida, sem barba, magro, sem óculos, postura de exaustão crônica, roupas urbanas da Terra degradadas (camiseta rasgada e manchada, calça desbotada), mãos marcadas por cortes, queimaduras e unhas quebradas, expressão de medo contido e cansaço`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um profeta involuntário diante de um fundo escuro de pedra com a sugestão de duas luas no céu noturno. Mário, homem de 20-25 anos, cabelo preto curto e desgrenhado, olhos escuros, pele clara e pálida, sem barba, magro, sem óculos, vestindo camiseta urbana rasgada e manchada de fuligem e calça desbotada, mãos marcadas por cortes e queimaduras, expressão de medo contido e cansaço, olhar de quem carrega um peso que não pediu. Iluminação: chiaroscuro dramático com luz âmbar de tocha vinda de um lado. Atmosfera: tensa, melancólica, de vigília. Paleta de cores: preto-acinzentado, pele pálida, azul desbotado, marrom de terra e sangue seco, cinza claro. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos além dos já canônicos.

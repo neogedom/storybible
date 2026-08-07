@@ -53,3 +53,19 @@ o controle dos rampillas.
   a linhagem d'Tirath monopolizava o ofício, mas havia xilomagos de fora.
 - Manter **minor** no cap. 21 — a tensão da casa morta é subtexto (um olhar,
   um silêncio), não drama de família.
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Ossan aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem.
+>
+> ⚠️ Inferência: aparência baseada no papel (xilomago, filho de Devour,
+> herdeiro despojado) — fixada por consistência. Confirmar com o autor.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Ossan d'Tirath, xilomago leviantar, último xamã da corte de Devour, magro e cauteloso, vestes escuras tocadas de musgo e seiva, plantas discretas ao redor, olhar de herdeiro despojado e sobrevivente, expressão contida`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um xamã diante de um jardim queimado e ruínas do castelo de Devour. Ossan d'Tirath, xilomago leviantar, último xamã da corte de Devour, magro e cauteloso, vestes escuras tocadas de musgo e seiva, plantas discretas ao redor, olhar de herdeiro despojado e sobrevivente, expressão contida. Iluminação: chiaroscuro dramático com luz de cinzas e restos de brasa. Atmosfera: de casa morta, submissão por sobrevivência e luto silencioso. Paleta de cores: verde-musgo, cinza-pedra e preto. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

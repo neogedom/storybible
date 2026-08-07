@@ -159,3 +159,16 @@ _Registrar citações marcantes durante o INGEST dos capítulos._
   (nunca aberta), roupas de viagem
 - **Proibido**: uniforme militar, desleixo extremo, sujeira excessiva
   (Nolan é limpo mesmo em viagem), gore explícito, itens modernos
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Nolan aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Nolan, homem leviantar de 50 anos aparentes, cabelo grisalho bem cortado, olhos escuros e penetrantes, pele clara impecável, alto, postura ereta e rígida, óculos de armação de ébano, traje formal escuro de conselheiro, expressão fria e calculista`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um juiz-conselheiro diante de um fundo escuro de tribunal com estantes de documentos e um selo oficial. Nolan, homem leviantar de 50 anos aparentes, cabelo grisalho bem cortado, olhos escuros e penetrantes, pele clara impecável, alto, postura ereta e rígida, óculos de armação de ébano, túnica escura severa e robes formais, expressão fria e calculista de quem mede todas as variáveis. Iluminação: chiaroscuro dramático com luz de vela baixa e fria. Atmosfera: sóbria, institucional, sem afeto. Paleta de cores: cinza escuro, pele clara, cabelo grisalho, preto-azulado e couro de documentos. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

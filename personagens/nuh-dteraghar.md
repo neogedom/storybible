@@ -34,3 +34,19 @@ teológico**, não malícia.
 
 - [Nolan](/personagens/nolan.md) — Obstáculo político
 - [Genocydo](/personagens/genocydo.md) — Rei que ele acredita servir
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Nuh d'Teraghar
+> aparecer; alterar apenas o que as **Regras de Variação** e a **Paleta
+> Canônica** acima permitem.
+>
+> ⚠️ Inferência: aparência baseada no papel (Sumo Sacerdote de Vonos) —
+> fixada por consistência. Confirmar com o autor.
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Nuh d'Teraghar, sumo sacerdote idoso de Vonos, rosto magro e grave, vestes cerimoniais brancas e douradas com insígnias geométricas, talismã ritual no peito, postura solene, expressão de fé sincera que não enxerga a própria cegueira`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um sacerdote idoso diante de um templo de Vonos com luz pálida e geometria ritual. Nuh d'Teraghar, sumo sacerdote idoso de Vonos, rosto magro e grave, vestes cerimoniais brancas e douradas com insígnias geométricas, talismã ritual no peito, postura solene, expressão de fé sincera que não enxerga a própria cegueira. Iluminação: chiaroscuro dramático com luz pálida e fria de templo. Atmosfera: de devoção institucional e erro teológico silencioso. Paleta de cores: branco, ouro e cinza-pedra. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

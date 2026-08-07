@@ -31,3 +31,17 @@ massacre de Opium **sem matar ninguém** — curou os carrascos.
 - [Charles](/personagens/charles.md) — Ex-líder
 - [Lakand](/personagens/lakand.md) — Amizade silenciosa
 - [Mário](/personagens/mario.md) — Dívida moral
+
+## Prompt de Referência Canônica
+
+> Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot). Manter o
+> **Bloco descritor canônico** idêntico em todo prompt em que Decian aparecer;
+> alterar apenas o que as **Regras de Variação** e a **Paleta Canônica** acima
+> permitem. Traço visual fixo: as mãos manchadas de resina verde-escura (marca
+> do curandeiro).
+
+**Bloco descritor canônico (colar nos prompts de capítulo):**
+`Decian, Daërunmege lobisomem curandeiro, magro, ombros caídos, evita contato visual, olhos abertos mas vazios, mãos com resina verde-escura encravada nas cutículas, roupas simples sujas de sangue seco, postura encolhida, expressão exausta e quebrada`
+
+**Prompt de referência (imagem-retrato do arquivo):**
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um curandeiro exausto diante de um fundo de parede de pedra de estalagem sombria. Decian, Daërunmege lobisomem curandeiro, magro, ombros caídos, evita contato visual, olhos abertos mas vazios, mãos com resina verde-escura encravada nas cutículas, roupas simples sujas de sangue seco, postura encolhida com os joelhos junto ao peito, expressão exausta e quebrada. Iluminação: chiaroscuro dramático com luz baixa e fria. Atmosfera: de luto silencioso e sobrevivência sem esperança. Paleta de cores: verde-resina, marrom de terra, cinza de pedra e sangue seco. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.
