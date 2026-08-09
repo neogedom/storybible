@@ -10,6 +10,18 @@ primeiro_capitulo: 17
 
 Fortaleza de Saramant, sede do barão Devour. Castelo de pedra escura encravado na paisagem da floresta.
 
+## Arquitetura — Anel Externo (canon 2026-08-08)
+
+Fortaleza híbrida, dois anéis:
+- **Anel externo (vegetal)**: muralhas/paliçada de troncos entrelaçados e
+  resina endurecida cingindo a base da colina — parte do "jardim" de Devour
+  (xilomagia). Portão único de madeira maciça com cravos de renanthao.
+  Rampillas montam guarda no portão e patrulham o topo da paliçada.
+- **Núcleo (pedra)**: casco de pedra escura com torre principal, salão do
+  trono, aposentos e calabouços (escada em espiral, celas de ferro). O fogo
+  do cap. 19 queima o anel vegetal primeiro (vira clareira/firebreak);
+  a pedra sobrevive estruturalmente.
+
 ## Salão Principal (Trono)
 
 - Amplo, teto alto
