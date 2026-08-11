@@ -25,12 +25,28 @@ redimida — para consertar Ornick.
 **A Guerra Milenar:** Vonos enganou Hícse (a serva mais poderosa da facção
 leal a Marduk) e a aprisionou dentro de Gaviorn'l, com ajuda de Lunus e Terbs.
 
-## O Plano de Vonos
+## O Plano de Vonos (a Tese)
 
-1. Substituir Genocydo (herança de Nachash, experimento falho) por Mário
-2. Testar o novo modelo no Reino — Mário governa para provar que redimidos
-   podem consertar Ornick
-3. Expandir: se Mário for bem-sucedido, trazer mais humanos da herança de Javé
+**A tese (correção 2026-08-11):** um governo liderado por um "filho de Deus"
+(humano redimido da Herança de Javé) pode melhorar Ornick — que vai de mal
+a pior. O Reino de Genocydo é o **laboratório**; a ideia é que a cobaia
+governe o mundo todo depois.
+
+**Experimento 1 — Kraviam:** Vonos conhecia o Llyfr e a profecia do
+Estrangeiro; Kraviam era **cristão** — Vonos achou que era um redimido
+verdadeiro (eleito). A ironia: Kraviam **só parecia cristão**. Nunca fora um
+eleito — era **semente de Nachash** (a linhagem sem redenção). A cobaia era
+falsa; o experimento falhou (a corrupção de Genocydo e a "apoteose farsa"
+são o fracasso da tese, não um acidente). A ligação com o culto souhmânico é
+**byproduct**: a interpretação popular ("telefone sem fio") da profecia do
+Estrangeiro chama o profetizado de "Souhma" — e Kraviam foi tomado por ela.
+NÃO foi por isso que Vonos o trouxe.
+
+**Experimento 2 — Mário:** substituir Genocydo (Nachash falho) por Mário —
+o verdadeiro Herança de Javé Verdadeira. Testar no Reino; se funcionar,
+expandir para o mundo. **A tese é falsificada de novo no L2** (a queda
+constantiniana de Mário — a instituição corrompe o redimido): "não existe
+utopia cristã pela espada governamental".
 
 > ⚠️ Este plano NÃO é conhecido por nenhum personagem no L1.
 

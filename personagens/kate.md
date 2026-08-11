@@ -40,6 +40,24 @@ Ver timeline visual completa em [visuais/kate.md](/visuais/kate.md).
   escolhe Mário não por ideologia, mas por instinto
 - Tem uma fissura humana: sob a fachada dura, há cansaço e dúvida
 
+## Alfabetização e conhecimento (canon 2026-08-10)
+
+- **Kate NÃO lê** (ou lê apenas o essencial — sinais, um nome). Nunca foi
+  alfabetizada: a vida no campo, o treino de lâmina e a sobrevivência não
+  incluíam livros. Contraste deliberado com Mário (o leitor) e Nolan (o
+  burocrata).
+- **Conhecimento da Mina de Quartzo vem da VIVÊNCIA, não de documentos:**
+  (a) a notoriedade da Mina na região (a ameaça que pesa sobre os pobres —
+  "ser sugada pela Mina de Quartzo", cap. 5); (b) a vida de batedora em
+  Saramant (rotas, a Estalagem do Vau, o terreno); (c) o treinamento da
+  facção de Terbs (Gaviorn'l/Cressadar) que a preparou para atacar a
+  Metrópole — a guerra que Gaviorn'l lhe prometeu (cap. 34) exigia intel
+  sobre os pontos vitais do Reino (a Mina financia a Metrópole). A
+  "fragilidade estrutural" da Mina é leitura TÁTICA de raider, não citação
+  de arquivo.
+- **Nenhuma cena faz Kate ler.** Quando um texto precisa ser lido, quem lê é
+  Mário (ex: o diário de Genocydo, semente #15).
+
 ## Papel na História
 
 ### Livro 1 — O Profeta e a Metrópole
@@ -54,6 +72,13 @@ Kate é a **terceira perna do tripé** (Mário/Nolan/Kate). Ela:
    Escolhe "Os dois" (Lakand + Mário) por instinto tático — **Mário vira
    arma**, não protegido. Foge com Mário e Lakand do castelo em chamas.
 4. Mata Gaviorn'l no clímax do L1, libertando Hícse
+
+### Livro 2 (canon 2026-08-10)
+
+- Casa-se com Mário e tem os **gêmeos Bernardo e Stella** (ver
+  `temas/sementes.md` #11) — a lâmina desacelera ao escolher a vida.
+- Morre no L2 (~75%) por Lakand (corrompido por Mesmia) — **como guerreira,
+  não gestante**. Os gêmeos ficam órfãos e são criados pelo Remanescente.
 
 Sua função narrativa: ser a **testemunha cética** que não pode negar o que viu,
 mas também não consegue explicar.

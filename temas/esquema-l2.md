@@ -28,6 +28,8 @@ disfarçado de responsabilidade.
 - Hereges, lobisomens e vampiros começam a ser intimidados legalmente
 - Casamento Mário + Kate. Ela nota: sussurros não falam mais do "Deus
   Desconhecido", mas do medo do "Imperador"
+- **Gravidez de Kate — os gêmeos Bernardo e Stella (canon 2026-08-10; ver
+  semente #11).** A lâmina desacelera: ela escolhe a vida.
 - **Primeira semente do Remanescente**: Lupe'i observa a virada. Piet minimiza.
 
 ## STC: Catalisador (O Sussurro Burocrático)
@@ -59,7 +61,8 @@ de templos) para justificar violência estatal.
 
 Mário executa líderes pagãos na praça pública — a mesma onde sofreu.
 Silenciou "A Voz" com o barulho do poder estatal. Kate vê que o homem
-que amava sumiu.
+que amava sumiu — **e o pai dos gêmeos**: as mesmas mãos que ensinaram
+letras a Kate agora assinam decretos de sangue.
 
 ## STC: Vilões se Aproximam
 
@@ -70,7 +73,10 @@ que amava sumiu.
 
 ## STC: Tudo Está Perdido
 
-- Kate morta por Lakand (corrompido por Mesmia)
+- Kate morta por Lakand (corrompido por Mesmia) — **como guerreira, não
+  gestante** (timing: os gêmeos já nasceram)
+- **Bernardo e Stella ficam órfãos** — repassados ao Remanescente (Layla
+  cuidadora; ver semente #11)
 - Mário sozinho, sem a Voz, sem Kate, sem direção
 
 ## STC: Noite Escura
@@ -84,7 +90,9 @@ Mário aceita a peregrinação — deixa a coroa.
 ## STC: Final
 
 Mário parte peregrino. Gunad toca o hino. A fé sobrevive independente do
-poder.
+poder. **Mário deixa os gêmeos com o Remanescente — recusa entregar a
+instituição corrompida aos herdeiros: dá os filhos à fé, não ao poder**
+(canon 2026-08-10; gancho L3: Bernardo e Stella crescem no Remanescente).
 
 ## Conexões
 

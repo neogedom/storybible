@@ -29,6 +29,21 @@ um preço.
 - **Apoteose:** Promessa de elevação divina que Terbs vende a Genocydo
   através de Benjamim.
 
+## Agenda sobre Mário (correção 2026-08-10)
+
+Terbs quer Mário **vivo** — não para coroá-lo (plano de Vonos) nem para
+curar a Metrópole (plano de Nolan), mas para **fazê-lo blasfemar contra Deus
+publicamente por meio da simulação da Via Crucis**. Se o profeta do "Eu Sou"
+amaldiçoar o próprio Deus em praça pública, a fé em Javé morre na origem.
+
+**O contrato com Genocydo (refinamento 2026-08-10):** levar Mário à
+blasfêmia é o **contrato** entre Terbs e Genocydo; a **apoteose é a
+recompensa** — se Genocydo conseguir a blasfêmia pública, Terbs o tornaria
+deus. Terbs **mente**: a apoteose é isca para usar Genocydo como
+instrumento; o pagamento nunca será entregue. Terbs opera via **Benjamim**
+(clérigo infiltrado) — que intermedeia o contrato e alimenta a paranoia de
+Genocydo com a promessa.
+
 ## Relações
 
 - [Benjamim](/personagens/benjamim.md) — Servo direto, clérigo infiltrado

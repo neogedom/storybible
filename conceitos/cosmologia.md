@@ -70,7 +70,10 @@ sem o poder.
 Vonos trouxe **dois tipos de humanos**:
 
 1. **Herança de Nachash** — experimento original de Marduk, humanos sem
-   redenção. Genocydo (Kraviam) é o exemplo.
+   redenção. Genocydo (Kraviam) é o exemplo. **Nota (canon 2026-08-11):**
+   Kraviam era um "cristão nominal" — parecia redimido (por isso Vonos o
+   escolheu como cobaia do experimento), mas nunca fora eleito; era semente
+   de Nachash.
 2. **Herança de Javé Verdadeira** — humanos com a imagem redimida.
    Mário é o primeiro a ser trazido.
 

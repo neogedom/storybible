@@ -45,6 +45,15 @@ Lanças e machados de lâmina larga.
   do núcleo do fogo). Ficam inertes quando Devour morre, aguardando comando.
 - Nolan os reúne (cap. 21) e os controla via raiz-mestra subterrânea (ver
   `insights/nolan-controla-rampillas.md`).
+- Entre a morte de Devour (cap. 19) e a chegada de Nolan (cap. 21), os
+  sobreviventes ficam sob o **comando provisório de Ossan d'Tirath** (xamã
+  sobrevivente, filho de Devour) — único que conhece os processos de
+  controle e os mantém em ronda no caos pós-incêndio. É essa ronda que Mário
+  lê no cap. 20 (raciocínio abdutivo). **Quando Nolan chega (cap. 21),
+  Ossan LHE ENTREGA o comando via raiz-mestra** — cede por sobrevivência,
+  não lealdade; a entrega é a âncora da tensão (dependência mútua: Nolan
+  precisa de quem sabe operar; Ossan precisa de quem o mantém vivo).
+  (correção 2026-08-10)
 
 ## Nota de Coerência (2026-08-06)
 

@@ -17,6 +17,16 @@ Sua função narrativa é ser o **antagonista explícito** — o rei megalomaní
 que o leitor pode odiar abertamente, em contraste com Nolan (que é mais
 complexo de julgar).
 
+**Origem (canon 2026-08-10; refino 2026-08-11):** chegou a Ornick **FERIDO**
+pela descarga da Auditoria — o MESMO mecanismo que trouxe Mário, sem a
+preservação da Voz. O falso Souhma chegou quebrado; o verdadeiro chegou
+inteiro (contraste; ver `conceitos/inquiridores-sinal.md` e
+`temas/sementes.md` #10). **Vonos o trouxe como cobaia do experimento** ("um
+filho de Deus no trono consertaria Ornick") — mas Kraviam **só parecia
+cristão**: nunca fora eleito, era semente de Nachash (ver
+`conceitos/vonos.md` e `conceitos/cosmologia.md`). O "Antigo Rei
+reencarnado" foi a interpretação errônea do povo, não a intenção de Vonos.
+
 ## Aparência Canônica
 
 - **Estrutura**: Imponente, postura de quem se acredita um deus
@@ -39,10 +49,17 @@ Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
 
 ### Livro 1
 
-1. **Prólogo**: O oráculo falha. Genocydo ordena a caça ao Souhma.
-2. Durante o L1, alimentado por Benjamim, busca a **apoteose**
+1. **Prólogo**: O oráculo falha. Genocydo ordena a caça ao Souhma com
+   recompensa de **resgate** (quer o Souhma VIVO — canon cap. 17: "Quem o
+   encontrar, prenda. Vivo.")
+2. Durante o L1, alimentado por Benjamim, busca a **apoteose** — o
+   **contrato com Terbs** (correção 2026-08-10): se Genocydo **levar Mário
+   à blasfêmia pública** (via simulação da Via Crucis), Terbs o tornaria
+   **deus**. A apoteose é a **recompensa do contrato**, não um processo
+   que Genocydo persegue por si — é o pagamento por entregar a blasfêmia do
+   Souhma. Terbs mente: a recompensa é isca; Genocydo é o instrumento.
 3. Prende Mário e, instruído por Benjamim, refaz a Paixão de Cristo como
-   humilhação pública (via crucis)
+   **simulação de blasfêmia pública** (via crucis)
 4. É morto no final do L1
 
 ## Relações
@@ -52,7 +69,8 @@ Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
 - [Nolan](/personagens/nolan.md) — conselheiro/conspirador. Nolan serve
   enquanto planeja a queda.
 - [Mário](/personagens/mario.md) — chave para a apoteose. Genocydo precisa
-  de Mário.
+  de Mário **VIVO** (recompensa de resgate; agenda de Terbs: a via crucis de
+  blasfêmia pública).
 
 ## Arco Narrativo
 
@@ -60,7 +78,7 @@ Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
 
 - Doente (câncer na garganta), tosse com sangue, olhos febris
 - Presente na falha do oráculo de Vonos
-- Ordena a caça ao Souhma com recompensa aumentada
+- Ordena a caça ao Souhma com recompensa aumentada (de **resgate/vivo**)
 - Mobiliza os Inquiridores do Sinal
 - Benjamin alimenta sua paranoia com a profecia do Llyfr
 

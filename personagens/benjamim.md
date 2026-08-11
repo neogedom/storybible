@@ -40,10 +40,15 @@ Ver timeline visual completa em [visuais/benjamim.md](/visuais/benjamim.md).
 
 1. Aparece no **Prólogo (Cap. 0)** ao lado de Genocydo. Interpreta o silêncio
    do oráculo como "abrir caminho" para o Souhma.
-2. Alimenta a **paranoia da apoteose** em Genocydo, distorcendo a profecia
+2. Alimenta a **paranoia da apoteose** em Genocydo, distorcendo a profecia —
+   e intermedeia o **contrato com Terbs** (refinamento 2026-08-10): a
+   blasfêmia pública do Souhma em troca da apoteose. A recompensa é isca —
+   Terbs mente; Benjamim sabe.
 3. Drena recursos do Reino com promessas de poder divino
 4. **Cap. 13**: Nuh d'Teraghar o invoca como garantia da apoteose
-5. Intermedeia a **via crucis** de Mário no final do L1
+5. Intermedeia a **simulação da via crucis** no final do L1 — o plano de
+   Terbs de fazer Mário **blasfemar contra Deus publicamente** (correção
+   2026-08-10); Genocydo acredita ser humilhação/apoteose próprias
 6. **Pacto com Nolan (final L1)**: oferece pacto com Terbs; Nolan aceita
 
 ### Livro 2

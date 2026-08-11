@@ -74,9 +74,16 @@ são as premissas.
 - **Ironia estrutural (canon 2026-08-06)**: o plano de Nolan (Mário como
   ferramenta do Estado → Nolan no trono) trabalha **contra o plano de Vonos**
   (Mário como rei) sem que ele perceba — a devoção dele é à ordem, não ao deus.
-- **Queda religiosa (canon 2026-08-06)**: no fim do L1, o pacto com Terbs é
-  também o **abandono do próprio deus** (Vonos) — a fé institucional que
-  sustentava a ordem dele se quebra no mesmo gesto da traição política.
+- **Queda religiosa (canon 2026-08-06; semente do refino 2026-08-10;
+  correção 2026-08-11)**: no fim do L1, o pacto com Terbs é também o
+  **abandono do próprio deus** (Vonos) — a fé institucional que sustentava a
+  ordem dele se quebra no mesmo gesto da traição política. **A rachadura que
+  antecedeu a queda foi o diário de Genocydo (semente #15)**: o deus da
+  VERDADE trouxe um terráqueo (Kraviam) para o experimento de um "filho de
+  Deus" no trono — mas Kraviam só parecia cristão (era Nachash), e o povo o
+  entronizou como "Antigo Rei" por erro de interpretação. A ordem que Nolan
+  servia era a impostura do próprio deus — ou o deus enganado por um falso
+  cristão. (ver `temas/sementes.md` #15)
 
 ## Arco Narrativo
 

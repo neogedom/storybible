@@ -78,7 +78,9 @@ Mário no calabouço; visões; entrega.
 
 **A escrever**
 
-Mário aceita Via Crucis.
+Mário aceita Via Crucis. **Correção 2026-08-10: a via crucis é a simulação
+de Terbs (via Genocydo/Benjamim) para arrancar a blasfêmia pública — Mário
+entra nela consciente, e a arma do inimigo vira testemunho.**
 
 ## Final (~80-99%)
 

@@ -43,6 +43,30 @@ Ver timeline visual completa em [visuais/mario.md](/visuais/mario.md).
 - Sua fé emerge da experiência, não da doutrina — ele não sabe o que crê até
   ser forçado a crer
 
+## Teologia de Mário — idioma reformado (canon 2026-08-10)
+
+> **Distinção crítica:** Heiser (Conselho Divino, b'nei elohim, Marduk, os
+> 70) é a **COSMOLOGIA da storybible** — a metafísica factual de Ornick. NÃO
+> é o que Mário crê nem o que ele prega. Mário é **reformado** (Bavinck,
+> Calvino, Confissões). Sempre escrevê-lo nesse idioma.
+
+- **Núcleo da confissão dele:** há UM só Deus; ídolos são "nada" (Sl 96:5;
+  Is 44); mas por trás dos ídolos há **demônios/poderes caídos que se
+  passam por deuses** (1 Co 10:20; Dt 32:17; 2 Co 4:4, "o deus deste
+  século").
+- **Ele NÃO fala de "Conselho Divino" nem de "elohins com nações"** — e não
+  precisa: a confissão bíblica dele é suficiente e, em Ornick, revela-se
+  factualmente correta (os "deuses" SÃO poderes caídos usurpadores).
+- **Arco teológico:** Mário chega achando que ídolos são "nada" e o mundo o
+  confronta com poderes que OPERAM (Sinal, Hícse, vampiros) — a
+  reconciliação é a polêmica dos demônios por trás dos ídolos: reais,
+  caídos, usurpadores — mas NÃO deuses. A fé dele se aprofunda sem
+  abandonar o núcleo (soberania do Deus único).
+- **Regra de escrita:** no POV e nos discursos de Mário, usar o idioma
+  reformado (um só Deus, demônios/poderes caídos, escravizadores); nunca
+  jargão de Conselho Divino. O Heiser fica para a narração/worldbuilding do
+  leitor, não para a boca de Mário.
+
 ## Papel na História
 
 ### Livro 1 — O Profeta e a Metrópole

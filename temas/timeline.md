@@ -18,7 +18,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Guerra Milenar                                      | Devastação; morte de Genocydo I; sacrifício sob manipulação de Vonos/Hícse |
 | Guerra dos Vampiros                                 | Lobisomens vs Vampiros; origem dos Lordes Defuntos                         |
 | Massacre da Vila de Opium                           | Charles e Decian; Charles dizima a vila                                    |
-| Vonos traz Genocydo (Mark Kraviam) a Ornick         | Para confundir o culto souhmânico                                          |
+| Vonos traz Genocydo (Mark Kraviam) a Ornick pelo MESMO mecanismo de auditoria (descarga dos Inquiridores na Terra) | EXPERIMENTO de Vonos: testar se um "filho de Deus" governa melhor Ornick (Reino = laboratório; depois, o mundo). Kraviam PAREcia cristão (nunca foi eleito — semente de Nachash). O "Souhma"/culto é BYPRODUCT (interpretação popular da profecia do Estrangeiro = "Souhma"), NÃO o motivo. Destino cross-mundo impreciso/aleatório; caiu perto da Metrópole por coincidência (correção 2026-08-11) |
 | Terbs descobre que a profecia de Javé é real        | O falso Souhma atrairá o verdadeiro                                        |
 | Guerra do Grifo                                     | Kraviam vence Gondor com antraz; Nolan como Mestre dos Correios            |
 | Entronização de Kraviam como "Genocydo Reencarnado" | Interpretação errônea da profecia                                          |

@@ -19,7 +19,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Plantio**: L1, Cap. 9 — Layla entrega a Bíblia a Nolan
 - **Plantio 2**: L1, Cap. 13 — Nolan tenta usar no Conselho; rejeitada
 - **Germinação**: L2 — Nolan usa a Bíblia contra Mário
-- **Ironia**: Kraviam trouxe da Terra; Nolan a usará para corromper Mário
+- **Ironia**: Kraviam trouxe da Terra; Nolan a usará para corromper Mário.
+  **Nota (canon 2026-08-11):** a Bíblia é prova da fachada — Kraviam era
+  cristão NOMINAL (tinha o livro), nunca fora eleito (semente de Nachash).
 
 ## 3. Gunad Deltëra
 
@@ -92,8 +94,20 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Fio 2**: L1, Cap. 20 — Kate pergunta "com quem você estava falando?"
 - **Arco**: Efeito sanfona — Mário lembra de orar, mas deixa de orar ao ver
   os argumentos funcionarem sem oração (cessacionismo teimoso).
-- **Germinação (a definir)**: A Voz confronta Mário e assume a autoria da
-  glossolalia como testemunho de Deus aos ornickenhos.
+- **Germinação (local: a noite do cap. 26, junto ao hino — mantido;
+  reavaliar ao escrever)**: a Voz confronta Mário e assume a autoria da
+  glossolalia como
+  testemunho de Deus aos ornickenhos. **Na MESMA conversa (decisão
+  2026-08-10), a Voz apresenta um SEGUNDO argumento: a preservação do corpo
+  de Mário na chegada (caps. 2/4).** Mário foi ferido de verdade pela
+  implosão da Auditoria (clavícula despedaçada, pulmão colapsado, sangue) e
+  acordou inteiro — sem nenhum ferimento (cap. 4). A Voz reivindica a
+  preservação: "você chegou inteiro porque Eu te trouxe; Eu agia quando você
+  não sabia". O contraste com **Kraviam** (que chegou FERIDO, sem
+  intervenção) sustenta o argumento: o verdadeiro Souhma foi preservado, o
+  falso não. A conversa ataca o **cessacionismo teimoso** de Mário: ele
+  assume que Deus está ausente porque não PERCEBE a ação — mas a ação
+  aconteceu sem o conhecimento dele.
 - **Sub-semente**: Mathias relata a Nolan "um deus acima do Limbo" — o
   _click_ com a heresia do livro de Genocydo.
 - **Nota**: Texto canônico e justificativa em
@@ -109,12 +123,23 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Reforço (contexto)**: L1, Cap. 19 — Kate presencia o parto de Dagmar
   e a ressurreição de Saboc. O capítulo mostra o modo defesa (ódio ao
   parto), sem abrir a fresta — o desejo permanece sepultado.
-- **Germinação**: L2 — Kate **aceita ter filhos de Mário**. Sinal da
-  evolução dela em direção ao abandono da violência como motor de
-  salvação: ela só consegue desejar vida quando o mundo deixa de ser,
-  para ela, um lugar onde filhos são condenados à morte.
+- **Germinação**: L2 — Kate **aceita ter filhos de Mário** e os tem: os
+  GÊMEOS **Bernardo** e **Stella** (canon 2026-08-10). Sinal da evolução
+  dela em direção ao abandono da violência como motor de salvação: ela só
+  consegue desejar vida quando o mundo deixa de ser, para ela, um lugar
+  onde filhos são condenados à morte.
+- **Logística (canon 2026-08-10)**: gravidez no início do casamento (L2,
+  Tema Declarado); os gêmeos nascem no meio do L2 e têm 1-3 anos quando
+  Kate morre (~75%, por Lakand/Mesmia) — **órfãos**. A gravidez é
+  vulnerabilidade proposital (a lâmina que desacelera ao escolher a vida);
+  Kate morre **como guerreira**, não gestante (evita melodrama). Repassados
+  ao **Remanescente** (Layla como cuidadora). **"A fé sobrevive independente do poder"
+  concretiza na geração seguinte.** No Final do L2, Mário parte peregrino e
+  os deixa com o Remanescente — recusa entregar a instituição corrompida
+  aos herdeiros; dá os filhos à fé, não ao poder. **Gancho L3 (potencial)**
+  : Bernardo e Stella crescem no Remanescente.
 - **Ironia**: Kate, que moldou Mário como arma no L1, é a mesma que no L2
-  escolhe gerar vida com ele — a arma vira pai.
+  escolhe gerar vida com ele — a arma vira pai; a lâmina vira mãe de dois.
 
 ## 12. A Dívida do Fogo — "Queimei Saramant por você"
 
@@ -161,5 +186,53 @@ timestamp: 2026-07-24T12:00:00-03:00
   sermão (guardrail: sofrer é parte da prosa).
 - **Nota de numeração**: sementes #13-19 do esquema (Etemenanki etc.) ainda
   não têm verbete no arquivo — renumerar quando forem registradas.
+
+## 14. A Renúncia do Batismo — Declaração de Guerra
+
+- **Fato (canon 2026-08-10)**: no primeiro batismo da jornada (L1, cap. 30),
+  Mário adapta a abrenuntio da igreja primitiva: cada convertido renuncia em
+  voz alta aos deuses de Ornick ("Renuncio aos falsos deuses do Limbo, a
+  todas as suas obras e a toda a sua pompa. Sou de Javé."). A fórmula é
+  **genérica** — ornickenhos não conhecem Marduk; "Limbo" é a palavra deles
+  para a terra dos deuses (refinamento 2026-08-10).
+- **Reveal de "Javé" (canon 2026-08-10)**: cap. 30 é a PRIMEIRA aparição do
+  nome próprio no livro (caps. 0-19 usam "Deus"/"Eu Sou"); caps. 20-29 não
+  devem usá-lo.
+- **Dupla camada**: declaração de fidelidade a Javé (superfície) + declaração
+  de guerra aos deuses falsos de Ornick (pano de fundo; lente de Heiser — os
+  deuses são reais; renunciá-los corta o vínculo de servidão).
+- **Custo**: o gesto não é gratuito — os deuses "ouvem" o desafio; a
+  hostilidade dos poderes cresce (Vonos/Terbs passam a caçar convertidos). Os
+  primeiros mártires da fé em Ornick podem nascer aqui (guardrail: "milagre é
+  testemunho com custo"). **Risco**: não virar slogan — a renúncia deve ter
+  preço.
+- **Germinação**: L2 — a renúncia vira rito fundante da igreja de Ornick; os
+  deuses perseguem quem renunciou.
+
+## 15. O Diário de Genocydo — a Revelação de Kraviam
+
+- **Plantio**: L1, caps. 9 e 13 — Layla rouba o diário de Genocydo; Nolan o
+  queria para subverter o Conselho (obtém tardiamente).
+- **Germinação (a definir; sugerido na aliança Nolan-Mário, cap. 31+)**: Nolan
+  entrega o diário a Mário; Mário lê e revela o conteúdo — **Genocydo é
+  Kraviam, um terráqueo** (como Mário). Só aí Nolan fecha o padrão de Vonos:
+  um terráqueo no trono (Kraviam) → agora outro (Mário). **Esse elo NÃO está
+  disponível a Nolan no cap. 28** (correção 2026-08-10) — em caps. 25/28,
+  Nolan deduz apenas que querem Mário vivo, sem saber por quê.
+- **A SEMENTE DA APOSTASIA (refinamento 2026-08-10; correção 2026-08-11)**: mais
+  do que a lógica política, o diário revela a **mentira fundadora**: Vonos — o
+  deus da VERDADE — trouxe Kraviam para o EXPERIMENTO (um "filho de Deus" no
+  trono consertaria Ornick). Mas Kraviam **só parecia cristão**: nunca fora
+  eleito, era semente de Nachash — e acabou entronizado como "reencarnação do
+  Antigo Rei" pela interpretação errônea do povo (não foi para confundir o
+  culto que Vonos o trouxe). A ordem que Nolan serviu foi sustentada por um
+  deus que MENTIU — ou que foi ENGANADO por um falso cristão. Nos dois casos,
+  o deus da Verdade edificou o regime sobre uma impostura. Ao descobrir, a fé
+  institucional de Nolan racha. **Essa rachadura, somada à derrota política do
+  final do L1, é o que o leva ao pacto com Terbs (via Cressadar) — o abandono
+  de Vonos.** A transição para o L2 nasce aqui.
+- **Função**: fecha a lógica "Vonos substitui reis por terráqueos"; aprofunda
+  a aliança de conveniência Nolan-Mário; **semeia o abandono de Vonos por
+  Nolan** (pacto com Terbs/Cressadar no fim do L1 → L2).
 
 _Atualizar a cada INGEST de capítulo._

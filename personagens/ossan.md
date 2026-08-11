@@ -32,8 +32,11 @@ o controle dos rampillas.
 
 ## Papel na História
 
-- **Cap. 21**: sobrevive ao incêndio; vira asset de Nolan (raiz-mestra,
-  rampillas).
+- **Cap. 20-21**: no caos pós-incêndio, assume o **comando provisório dos
+  rampillas sobreviventes** (único que sabe operá-los); com a chegada de
+  Nolan, **entrega-lhe o comando** via raiz-mestra — cede por
+  sobrevivência, não lealdade (dependência mútua: ele é o único que entende
+  o jardim; Nolan é quem o mantém vivo).
 - **Semente #13 (a plantar)**: pode revelar o que os rampillas foram — gente
   zumbificada — ecoando o tema da Segregação. A verdade cai como
   reconhecimento frio, não sermão.
