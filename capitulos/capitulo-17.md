@@ -58,6 +58,7 @@ vibração e calor — cada passo de Mário na floresta foi um alerta.
 7. ✅ Kate e Mário presos em celas vizinhas
 8. ✅ **Kate se apresenta**: "Kate."
 9. ✅ Kate explica as plantas-espia e os rampillas
+10. ✅ Devour confronta Kate pela morte do filho (o xamã da clareira, cap. 0) — conta de sangue em aberto
 
 ## Sementes Plantadas
 
@@ -66,6 +67,9 @@ vibração e calor — cada passo de Mário na floresta foi um alerta.
 - 🌱 **Devour indeciso**: Ele pode ser manipulado. Janela de oportunidade.
 - 🌱 **Kate quebrada**: Costelas quebradas — vulnerável pela primeira vez.
 - 🌱 **"Kate"**: Primeiro nome. Primeiro fio de confiança entre eles.
+- 🌱 **Dívida de sangue com Devour**: Kate matou um filho dele na clareira
+  (cap. 0) e ele sabe (plantas-espia). Kate não nega. Conta registrada em
+  aberto — paira sobre a prisão dela (caps. 18-19).
 
 ## Conexões
 
@@ -82,3 +86,8 @@ vibração e calor — cada passo de Mário na floresta foi um alerta.
 - Plantas-espia: Devour tem sensoriamento vegetal em toda Saramant
 - O diapasão mudou de tom quando Kate passou com Mário — confirmando
   que o metal responde à assinatura dele
+- Confronto do filho (2026-08-08): Devour sabe da clareira via raízes
+  (vibração/calor), identifica Kate como autora. Kate confirma ("Ele me
+  disse quem era. Não mudou nada.") — ela sabia da filiação desde o cap. 0
+  ("Meu pai" / "Seu pai"). Devour não age: calculista, prioriza o Souhma.
+  Dívida em aberto (ver `temas/sementes.md` #14).

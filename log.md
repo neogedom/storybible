@@ -1,5 +1,35 @@
 # Log de Atualizações
 
+## 2026-08-08 (canon — arquitetura híbrida do castelo + ativação dos rampillas por padrão de presa)
+
+- **Arquitetura do castelo (canon)**: fortaleza híbrida de dois anéis —
+  anel externo vegetal (paliçada/muralhas de tronco e resina, parte do
+  jardim de Devour; portão de madeira com cravos de renanthao) + núcleo de
+  pedra (torre, salão, calabouços). Cap. 0 ajustado (distinção visual),
+  cap. 18 coerente (portão externo + portas internas). `lugares/castelo-devour.md`.
+- **Ativação dos rampillas (canon)**: as plantas-espia detectam
+  vibração/calor/sangue, mas os rampillas **só atacam padrão de presa**
+  (quem foge, sangra, se move como caça). Quem vem em paz (nômades, Nolan
+  com selo) passa. Kate desvia do padrão no cap. 0 (não corre, não sangra).
+  Ajustes: cap. 0 (movimentação de Kate), cap. 17 (fala de Kate a Mário),
+  cap. 18 (guardas não hesitam — autômatos aguardam comando de Devour).
+- **Arquivos**: `Livro 1/{capitulo0,capitulo17,capitulo18}.md`,
+  `conceitos/rampillas.md`, `lugares/castelo-devour.md`, `log.md`.
+
+## 2026-08-08 (canon — filho de Devour morto por Kate vira dívida; confronto no cap. 17)
+
+- **Cap. 0 (filiação explícita)**: o xamã que Kate mata é **filho de Devour**
+  (linhagem d'Tirath) — dito de forma natural ("Meu pai" / "Seu pai... me
+  deve entretenimento"), sem cliffhanger. Eco visual: olhos "carvão molhado"
+  ligam à linhagem (e a Devour no cap. 17).
+- **Cap. 17 (confronto)**: Devour sabe da clareira via plantas-espia
+  (vibração/calor), confronta Kate no salão; ela confirma ("Ele me disse
+  quem era. Não mudou nada."); Devour registra a dívida e não age.
+- **Semente #14 (Dívida de Sangue)**: conta em aberto no L1 (Devour morre
+  antes de cobrar); germinação L2 potencial via Ossan (irmão sobrevivente,
+  asset de Nolan) ou peso moral de Kate. `temas/sementes.md`.
+- **Arquivos**: `capitulos/capitulo-17.md`, `temas/sementes.md`, `log.md`.
+
 ## 2026-08-06 (arquitetura — separação de camadas: processo fora da bible)
 
 - **Princípio**: Story Bible guarda fatos do mundo (canon); regras operacionais

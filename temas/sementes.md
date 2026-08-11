@@ -235,4 +235,29 @@ timestamp: 2026-07-24T12:00:00-03:00
   a aliança de conveniência Nolan-Mário; **semeia o abandono de Vonos por
   Nolan** (pacto com Terbs/Cressadar no fim do L1 → L2).
 
+## 16. A Dívida de Sangue — Kate matou um filho de Devour
+
+- **Fato (canon 2026-08-08)**: no cap. 0, Kate mata um xamã da corte de
+  Devour que era **filho do lorde** (linhagem d'Tirath). Ela soube da
+  filiação antes de matar ("Meu pai..." / "Seu pai... me deve
+  entretenimento") — e matou mesmo assim.
+- **Plantio**: L1, Cap. 0 — filiação explícita e natural (não-cliffhanger):
+  o xamã invoca "meu pai"; eco visual (olhos "carvão molhado") liga à
+  linhagem.
+- **Colheita (fechada 2026-08-08)**: L1, Cap. 17 — Devour confronta Kate no
+  salão. Sabe via plantas-espia (raízes sentem vibração/calor na clareira).
+  Kate não nega. Devour registra a conta e não age (calculista — prioriza
+  decidir o destino do Souhma).
+- **Estado**: dívida **em aberto** no L1 — paira sobre a prisão de Kate
+  (caps. 18-19). Devour morre no incêndio (cap. 19) antes de cobrá-la.
+- **Germinação (L2, a definir)**: a casa d'Tirath tem um sobrevivente —
+  **Ossan** (asset de Nolan). Eco potencial: Ossan descobre que Kate matou o
+  irmão; tensão entre o herdeiro despojado e a caçadora de Mário. Ou a
+  dívida permanece como peso moral de Kate (tema da desumanização).
+- **Risco**: não transformar em vingança direta (Devour morre antes);
+  manter como subtexto/dívida moral — guardrail "final justo demais".
+- **Ironia**: Kate, que trata linhagens como ruído, agora deve sangue a uma
+  casa que ainda tem um herdeiro vivo.
+
+
 _Atualizar a cada INGEST de capítulo._

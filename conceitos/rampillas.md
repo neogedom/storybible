@@ -24,6 +24,14 @@ Criaturas humanoides grandes, de braços musculosos, pele coberta por casca gros
 
 São a barreira de proteção do castelo de Devour em Saramant.
 
+**Ativação por padrão (canon 2026-08-08)**: as plantas-espia detectam
+vibração/calor/sangue, mas os rampillas **não atacam qualquer intruso** —
+saem da toca quando o rastro é de **presa** (quem foge, sangra ou se move
+como caça). Quem vem em paz passa sem ser atacado (ex.: os nômades que
+vendem tintura ao barão; Nolan com o selo do Conselho — o portão é aberto).
+Kate, que conhece o território, desvia do padrão (não corre, não sangra,
+não deixa rastro quente) — por isso não é interceptada no cap. 0.
+
 ## Armas
 
 Lanças e machados de lâmina larga.
