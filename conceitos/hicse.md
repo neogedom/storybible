@@ -26,8 +26,11 @@ certo — jogando dos dois lados.
 - A "brasa" que Kate sente no Prólogo é o **vazamento de Hícse** — a fúria
   que não é dela, mas que aponta para a Metrópole.
 - Kate mata Gaviorn'l no clímax do L1, libertando Hícse.
-- No L2, Hícse constrói sua própria **Hoste da Purgação** — um exército de
-  criaturas marginalizadas.
+- No L2, Hícse **reconstrói** sua própria **Hoste da Purgação** (canon
+  2026-08-12) — a Hoste EXISTIA na Guerra Milenar (é a que Mário vê no
+  sonho do cap. 1); a nova versão é composta por criaturas já estabelecidas
+  no livro: gornads, alguns lobisomens, vampiros (a confirmar) e canibais
+  dos Clãs de Sangue.
 
 ## Conexões
 

@@ -66,7 +66,28 @@ desenhada para dar ordem a Ornick: longevos, racionais, com **poderes de
 linha elemental** embutidos no projeto (daí as linhagens elementais, ex:
 Addorbek = fogo). O **gnock** é a atrofia dessa herança: leviantar nascido
 sem o poder.
+**Poder elemental (canon 2026-08-12):** todo leviantar consegue alguma
+manifestação do seu elemento, mas ser realmente bom exige **treino árduo ou
+capacidade genética privilegiada** — modelo análogo ao humano (predisposição
+de atleta ≠ atleta de verdade sem treino). As habilidades elementares vêm de
+**ancestrais comuns por elemento**: todo leviantar do fogo rastreia a origem
+genética ao **primeiro leviantar do fogo** (o mesmo para água, luz, etc.) —
+os descendentes DIRETOS são os **Dardëgler** (capacidade privilegiada; ver
+`conceitos/glossario.md`); os demais carregam a predisposição.
 
+**Hibridizações (canon 2026-08-12):** leviantar de dois elementos, leviantar
+× humano, leviantar × gnock, leviantar × outra criatura (a definir). O
+resultado NÃO manifesta necessariamente os dois lados — modelo de herança
+como cor de olhos (pai azul + mãe negra → filho nasce com UMA das cores na
+maioria das vezes): o normal é nascer com potencial em UM elemento.
+Manifestar os DOIS elementos é extremamente raro. Os **gnocks** (leviantar
+nascido sem poder) são produto RARO dessas hibridizações — o normal é nascer
+com potencial em um elemento.
+
+**Espadas da Lei (canon 2026-08-12):** são fortes porque (1) aptos na
+habilidade de fogo e (2) **treinados** para serem mais que leviantares
+comuns — mesmo os que só manifestam fogo/calor de forma modesta (ex.: Dagmar
+esquenta o chá com o poder dela, sem treino de combate).
 Vonos trouxe **dois tipos de humanos**:
 
 1. **Herança de Nachash** — experimento original de Marduk, humanos sem

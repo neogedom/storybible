@@ -36,7 +36,45 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## 5. O Sonho de Mário (Gabbriel, Vicent e Hícse)
 
 - **Plantio**: L1, Cap. 1 — Sonho de Mário
-- **Germinação**: L2 — Hícse constrói Hoste da Purgação
+- **Canon (2026-08-12) — temporalidade**: o sonho mostra a **Guerra
+  Milenar** (memória histórica, NÃO profecia). O castelo de quartzo da visão
+  foi destruído e **reconstruído** — é o mesmo que o leitor vê de pé no
+  prólogo (a Metrópole). Os ecos da Milenar no cap. 29 (Moribundos) são do
+  MESMO evento. "A guerra que não acabou" (sonho) = tese da saga: a Milenar
+  pausa e recomeça (fim do L1: Alavria + Hícse solta; L2: a Hoste volta).
+- **O nome "Guerra Milenar" é LITERAL (canon 2026-08-12)**: não significa
+  que a guerra durou mil anos. Os eruditos ornickenhos não entendiam o nome
+  e criaram a explicação frágil de "efeitos longos" — aceitável porque é a
+  tentativa deles de dar sentido a algo que não sabiam que continuava. A
+  verdade (lente da saga): a guerra NÃO acabou — avança até o L2 (Hoste
+  reconstruída, Alavria) e pode literalmente durar mil anos. O nome é
+  profecia que se cumpre; a explicação erudita é worldbuilding de dentro do
+  mundo.
+- **Germinação**: L2 — Hícse **reconstrói** a Hoste da Purgação com
+  **criaturas já estabelecidas no livro**: gornads, alguns lobisomens,
+  vampiros (a confirmar) e os canibais dos Clãs de Sangue. A nova Hoste
+  carrega o MESMO nome e propósito, mas é visivelmente outra composição
+  (evolução, não réplica) — o eco conecta, a matéria-prima distingue.
+- **Reconhecimento (L2, Mário rei) — BIBLIOTECA + gravura (decisão
+  2026-08-12)**: Mário acessa a biblioteca da casa real e encontra um livro
+  com uma **gravura da família real**: o pai Genocydo I, a irmã **Sylvana**
+  (que NÃO estava no sonho) e os irmãos Gabbriel e Vicent. Mário reconhece
+  na gravura os dois rostos que o sonho deixou nele (o moreno Gabbriel; o
+  irmão que dormia, Vicent) — e a presença de Sylvana, que ele não conhece,
+  PROVA que a imagem é real (ele não poderia ter inventado uma irmã).
+  Confirmação profunda PARA MÁRIO (a sanidade: "os nomes existem, não estou
+  louco") e para o leitor (o conteúdo humano do sonho era história real).
+  Executar em "linha seca": reconhecimento quieto, sem exposição. Amarra ao
+  tema: Mário aprende que Hícse destruiu a casa real POR DENTRO
+  (fratricídio) — lição que ele enfrenta no próprio reinado (Nolan).
+- **"Aprenda com eles" — manter, mapeado (canon 2026-08-12)**: o ensino do
+  sonho não é pontual — são QUATRO facetas pagas em estágios distintos:
+  (1) poderes declarados AGEM (Hícse) → L1, despertar de Hícse (Kate mata
+  Gaviorn'l); (2) o lugar é real → L1, Monólito (~75%); (3) a guerra não
+  acabou → fim do L1 (Alavria) + L2 (Hoste); (4) o inimigo corrompe por
+  dentro e o papel de Mário é impedir → L2 (registros reais) + clímax do L1
+  (impede pela rendição). NÃO remover: a semente é o que justifica o
+  reconhecimento dos registros e carrega o conteúdo único do sonho.
 
 ## 6. Juleen e a Morte de Dagmar
 
@@ -258,6 +296,5 @@ timestamp: 2026-07-24T12:00:00-03:00
   manter como subtexto/dívida moral — guardrail "final justo demais".
 - **Ironia**: Kate, que trata linhagens como ruído, agora deve sangue a uma
   casa que ainda tem um herdeiro vivo.
-
 
 _Atualizar a cada INGEST de capítulo._

@@ -13,6 +13,13 @@ Dagmar Addorbek (Dagmar Guenayer) é esposa de Nolan e filha do General Valinor
 Addorbek. Grávida de Saboc durante todo o L1, ela representa o **custo humano**
 das escolhas de Nolan — a pessoa que paga por decisões que não tomou.
 
+**Casa Addorbek e as Espadas da Lei (canon 2026-08-12):** os Addorbek são a
+família principal da linhagem do primeiro leviantar de fogo. As Espadas da Lei
+sobreviveram ao interregno por tradição familiar dessa linhagem — nem todo
+Espada da Lei é Addorbek, mas todos são descendentes distantes (primos dos
+Addorbek). O pai de Dagmar, General Valinor Addorbek, é a ponta visível dessa
+conexão no L1.
+
 Sua função narrativa: ser o espelho que Nolan não quer olhar. Enquanto Nolan
 calcula variáveis geopolíticas, Dagmar está ali, silenciosa, gestante,
 morrendo aos poucos dentro da carruagem.

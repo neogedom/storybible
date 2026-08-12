@@ -428,7 +428,7 @@ o **Kate vê o exército que queria** — mas o preço foi mais alto que ela ima
 | Raciocínio abdutivo de Mário                       | Caps. 20 (ronda), 26 (água/rota), 27 (ritual Inquiridor), 29 (Moribundos), 32 (conexão Mina)                                                                                                                       |
 | Dupla Mário+Kate funcionando                       | Caps. 27 (ele lê, ela age), 29 (ele convence, ela confia), 31 (Nolan observa)                                                                                                                                      |
 | Caçadores de recompensa                            | Cap. 26 (mercenários menores)                                                                                                                                                                                      |
-| Inquiridores (Vonos quer Mário vivo como novo rei) | Cap. 27 (confronto), Cap. 28 (Nolan infere: querem Mário vivo, ativo do Sinal — o "novo rei" só fecha depois, com o diário de Genocydo)                                                                                                                                                     |
+| Inquiridores (Vonos quer Mário vivo como novo rei) | Cap. 27 (confronto), Cap. 28 (Nolan infere: querem Mário vivo, ativo do Sinal — o "novo rei" só fecha depois, com o diário de Genocydo)                                                                            |
 | Criaturas fantásticas                              | Cap. 26 (Vermes de Vidro), Cap. 29 (Moribundos)                                                                                                                                                                    |
 | O arco de Kate — da ferramenta ao protagonismo     | Cap. 19 (escolhe Mário como ferramenta), 22 (confirma: humanos são matéria-prima), 24 (Lakand percebe o plano), 27 (começa a semear), 30 (fissura: empatia nasce), 33 (Mário morde a isca), 34 (Mina no horizonte) |
 | Nolan — o arco do Rei                              | Caps. 21 (sonho: Mário como ferramenta contra doenças), 25 (certeza + veneno), 28 (confronto com Inquiridores), 31 (decide atrair como aliado)                                                                     |
@@ -545,3 +545,45 @@ ou o deus enganado por um falso cristão.** A transição para o L2 está planta
 4. **O som distante na última cena** deve ser sutil — quase imperceptível. Mário não se vira para olhar.
 
 5. **A oração sem pedidos** é o momento em que "Aprenda com eles" se consuma. Mário pensa nos mortos do sonho — nos dois exércitos — e entende que todos eles morreram por reinos e deuses que não salvam.
+
+---
+
+### Apêndice — Confirmação para o Leitor: "O Sonho Não Era Delírio" (canon 2026-08-12)
+
+> Os ecos acima são centrados em MÁRIO. Esta checklist mapeia a confirmação
+> para o LEITOR ao longo do L1/L2 — o que garante que o leitor perceba que o
+> sonho (cap. 1) era visão de história real (Guerra Milenar), não delírio.
+
+| Nível                       | O que o leitor sabe                                                                                                                                                    | Onde       | Status         |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- |
+| 1. O mundo existe           | Ornick real (prólogo + travessia)                                                                                                                                      | caps. 0-4  | ✅ escrito     |
+| 2. A Voz é real             | Efeitos verificáveis (cura, línguas, ressurreição)                                                                                                                     | caps. 4-19 | ✅ escrito     |
+| 3. A guerra do sonho é real | **Cap. 29 (Moribundos)**: resíduo da MESMA Guerra Milenar; costurar eco da prosa do sonho (terra rachada, soldados) + arrepio de familiaridade em Mário SEM verbalizar | mid L1     | ⚠️ ao escrever |
+| 4. O poder nomeado age      | Despertar de Hícse (Kate mata Gaviorn'l); prosa DEVE nomear "Hícse" ecoando o sonho ("a falsa deusa da guerra")                                                        | ~55-75%    | ⚠️ ao escrever |
+| 5. O lugar é o mesmo        | Monólito real com os mesmos entalhes; inscrição legível; micro-beat de "o símbolo sobreviveu" (castelo foi reconstruído)                                               | ~75%       | ✅ planejado   |
+| 6. A guerra volta           | Hícse solta + Alavria; "o mesmo som distante" (Mário não teme)                                                                                                         | Final L1   | ✅ planejado   |
+| 7. O exército volta         | Hoste da Purgação RECONSTRUÍDA com outras criaturas (gornads, lobisomens, vampiros?, Clãs de Sangue) — mesmo nome, outra composição                                    | L2         | ✅ planejado   |
+| 8. As pessoas são reais     | Registros reais da casa de Genocydo I (retrato/busto/monumento/biblioteca) — Mário reconhece Gabbriel e Vicent                                                         | L2 (rei)   | ✅ planejado   |
+
+### Notas de execução (confirmação do leitor)
+
+1. **Cap. 29 é o eco mais barato e mais cedo.** Os Moribundos são o mesmo
+   evento do sonho (Guerra Milenar). Ao escrever, repetir um ou dois traços
+   sensoriais do sonho (terra rachada, o combate) e dar a Mário um arrepio
+   de familiaridade sem que ele nomeie o sonho — o leitor fecha a conta, a
+   ironia dramática se mantém (Mário ainda na moldura da psicose).
+2. **A cena do despertar de Hícse (Vilões se Aproximam) deve ecoar o nome.**
+   "Hícse" aparece UMA única vez em todo o L1 (no sonho). A prosa precisa
+   re-nomeá-la (mesmo que Kate não saiba o nome — o narrador costura para o
+   leitor) para a germinação do L2 ser sentida.
+3. **O reconhecimento (L2, biblioteca + gravura da família real — decisão
+   2026-08-12) é a execução mais arriscada:** linha seca, sem exposição. O
+   livro traz a gravura com o pai Genocydo I, a irmã Sylvana (que NÃO estava
+   no sonho) e os irmãos Gabbriel e Vicent. Mário reconhece os dois rostos
+   do sonho e segue — a catarse fica com o leitor que lembra do sonho. A
+   presença de Sylvana (alguém que ele não poderia ter inventado) reforça a
+   prova de sanidade: a imagem é real.
+4. **Temporalidade (canon):** o sonho = memória da Milenar (castelo destruído
+   e reconstruído; Hoste existia). "Não fazia muito tempo" é o presente de
+   Gabbriel dentro da guerra, não cronologia do L1. A frase "a guerra não
+   acabou" é a tese da saga (a Milenar pausa e recomeça).

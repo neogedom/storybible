@@ -18,6 +18,23 @@ Ele não é mau por maldade. É mau por **cálculo**: vê a fé de Mário como u
 variável irracional e perigosa que precisa ser contida. Sua tragédia é que,
 quanto mais tenta controlar, mais perde.
 
+## Família Guenayer (canon 2026-08-12)
+
+A casa Guenayer é notadamente hábil em política e detentora de conhecimento —
+amantes da burocracia. Durante o interregno (~950 anos entre Genocydo I e
+Kraviam), sob o jugo da dominação estrangeira (Gondor), os Guenayer ocuparam
+posição de liderança tentando remontar o Reino pela **retomada das
+instituições** (mesmos nomes e funções), preservadas por tradição de família.
+Foi essa rede que **recebeu Kraviam** quando ele chegou a Ornick — o acesso
+dele à política do Reino veio dos Guenayer. A dominação só terminou quando
+Kraviam venceu a Guerra do Grifo (antraz).
+
+**Implicação para o arco de Nolan:** a família dele manteve o Reino vivo
+por quase um milênio; Kraviam é um forasteiro que herdou o que os Guenayer
+preservaram — solo fértil para a ambição de Nolan (o trono como "devido" à
+sua casa). A colaboração dos Guenayer com o ocupante (preservar sob jugo)
+ecoa o pragmatismo de Nolan: ordem acima de tudo.
+
 ## Aparência Canônica
 
 - **Idade aparente**: 50+ (leviantar longevo)
