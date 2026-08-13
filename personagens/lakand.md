@@ -39,7 +39,13 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 3. **Cap. 19**: Mata Devour (fora de cena), invade o calabouço, arromba a
    cela de Mário e guia a fuga. Confronta Kate com a escolha e percebe a
    perda ("eu perdi" no olhar) — semente de afastamento.
-4. **L2**: Alia-se a Benjamim contra o reino de Mário
+4. **L2**: Alia-se a Benjamim contra o reino de Mário. Corrompido por
+   **Mesmia**, torna-se o **recrutador da Hoste de Hícse** (canon
+   2026-08-12): viaja a Gondor para arregimentar o último veterano da era
+   de ouro (Lordes Defuntos) — oferece-lhe **"voltar a ser importante"**.
+   A ironia é total: o caçador de vampiros (que salvou os nômades deles,
+   cap. 11) vira o **arauto do caçado**. PoV **limitado** do arco Vilões
+   se Aproximam (não co-líder). Ver `conceitos/lordes-defuntos.md`.
 
 ## Relações
 

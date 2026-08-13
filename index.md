@@ -65,6 +65,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Saramant](lugares/saramant.md) — Floresta ao redor da fortaleza de Devour, território de caça de Kate.
 - [Vila de Opium](lugares/opium.md) — Povoado massacrado, onde Mário acorda em Ornick.
 - [Alavria](lugares/alavria.md) — Nação estrangeira, patrono Renath. Invade a Metrópole no final do L1.
+- [Gondor](lugares/gondor.md) — Império estrangeiro que dominou o Reino no Interregno; era de ouro dos vampiros; Guerra do Grifo.
 
 ## Conceitos
 
@@ -74,6 +75,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Vonos](conceitos/vonos.md) — Elohim da Verdade, servo-chefe rebelde contra Marduk.
 - [Terbs](conceitos/terbs.md) — Elohim da Corrupção/Apoteose.
 - [Hícse](conceitos/hicse.md) — Serva aprisionada dentro de Gaviorn'l, cujo vazamento Kate sente.
+- [Lordes Defuntos](conceitos/lordes-defuntos.md) — Sociedade vampírica. Filhos de Khaine, era de ouro sob Gondor, Comunidade sobrevivente.
 - [Renath](conceitos/renath.md) — Elohim patrono de Alavria, servo comissionado de Marduk.
 - [O Sinal de Vonos](conceitos/sinal-de-vonos.md) — O oráculo que auditava a realidade de Ornick.
 - [Segregação](conceitos/segregacao.md) — Política racial de Nolan e Genocydo.

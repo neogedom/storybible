@@ -52,7 +52,12 @@ testemunha sua primeira criatura sobrenatural de Ornick.
 - 🌱 **Charles como aliado**: Ele salvou Mário — mas por quê? Interesse
   próprio (recompensa) ou algo mais?
 - 🌱 **Transmorfia**: Habilidade dos daërunmeges de mudar aparência
-- 🌱 **Os künervs**: Humanos são "gado de sangue" para vampiros
+- 🌱 **Os künervs**: Humanos são "gado de sangue" para vampiros. Origem do
+  termo (canon 2026-08-12): simpatizantes que doavam sangue nas festas da
+  era de ouro — ver `conceitos/lordes-defuntos.md`
+- 🌱 **"Filhos de Khaine" / festas de Gondor**: Charles cita a "época de
+  ouro" dos vampiros de Gondor. Gancho agora definido no canon
+  (2026-08-12): ver `conceitos/terbs.md` — origem da maldição em Khaine.
 
 ## Conexões
 
@@ -67,3 +72,8 @@ testemunha sua primeira criatura sobrenatural de Ornick.
 - Mário leva uma facada no ombro e está perdendo sangue
 - A transmorfia é uma habilidade que permite aos daërunmeges se passarem
   por humanos — Charles a usou para se infiltrar entre os vampiros
+- **Etwano (canon 2026-08-12):** morto no combate da torre. A morte é
+  **implícita no texto** — o cap. 7 termina no meio da luta e o cap. 10
+  mostra Charles e Decian descartando todos os corpos ("Esse é o último").
+  A queima é **solar**: os corpos são jogados pela janela e o sol os frita
+  ao amanhecer (cap. 10) — não há fogo direto de Charles na página.

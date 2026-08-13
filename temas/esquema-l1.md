@@ -562,7 +562,7 @@ ou o deus enganado por um falso cristão.** A transição para o L2 está planta
 | 4. O poder nomeado age      | Despertar de Hícse (Kate mata Gaviorn'l); prosa DEVE nomear "Hícse" ecoando o sonho ("a falsa deusa da guerra")                                                        | ~55-75%    | ⚠️ ao escrever |
 | 5. O lugar é o mesmo        | Monólito real com os mesmos entalhes; inscrição legível; micro-beat de "o símbolo sobreviveu" (castelo foi reconstruído)                                               | ~75%       | ✅ planejado   |
 | 6. A guerra volta           | Hícse solta + Alavria; "o mesmo som distante" (Mário não teme)                                                                                                         | Final L1   | ✅ planejado   |
-| 7. O exército volta         | Hoste da Purgação RECONSTRUÍDA com outras criaturas (gornads, lobisomens, vampiros?, Clãs de Sangue) — mesmo nome, outra composição                                    | L2         | ✅ planejado   |
+| 7. O exército volta         | Hoste da Purgação RECONSTRUÍDA com outras criaturas (gornads, lobisomens, Clãs de Sangue + UM único vampiro — o último Lorde Defunto, veterano do monte de Gondor) — mesmo nome, outra composição | L2         | ✅ planejado   |
 | 8. As pessoas são reais     | Registros reais da casa de Genocydo I (retrato/busto/monumento/biblioteca) — Mário reconhece Gabbriel e Vicent                                                         | L2 (rei)   | ✅ planejado   |
 
 ### Notas de execução (confirmação do leitor)

@@ -15,7 +15,9 @@ onde vampiros o encontraram.
 ## História
 
 Antes da narrativa, **Charles** e **Decian** se infiltraram no local. Charles
-massacrou a vila para impedir o ressurgimento da "Comunidade" vampírica.
+massacrou a vila para impedir que a **"Comunidade" vampírica** — formada
+**após o declínio de Gondor** (ver `conceitos/lordes-defuntos.md`) — se
+estabelecesse ali.
 O massacre de Opium é a ferida moral que Charles carrega como pragmatismo
 e Decian como culpa silenciosa.
 

@@ -29,8 +29,9 @@ certo — jogando dos dois lados.
 - No L2, Hícse **reconstrói** sua própria **Hoste da Purgação** (canon
   2026-08-12) — a Hoste EXISTIA na Guerra Milenar (é a que Mário vê no
   sonho do cap. 1); a nova versão é composta por criaturas já estabelecidas
-  no livro: gornads, alguns lobisomens, vampiros (a confirmar) e canibais
-  dos Clãs de Sangue.
+  no livro: gornads, alguns lobisomens, canibais dos Clãs de Sangue e **um
+  único vampiro** — o último verdadeiro Lorde Defunto, o veterano do monte
+  de Gondor (canon 2026-08-12; ver `conceitos/lordes-defuntos.md`).
 
 ## Conexões
 

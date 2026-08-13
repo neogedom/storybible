@@ -48,6 +48,12 @@ Ao amanhecer, o sol queima os corpos dos vampiros — a pele frita e chiando.
   Semente para o L2 (percebe a corrupção de Mário antes de todos).
 - 🌱 **Charles age por Mesmia**: Justifica a violência como "glória da Mãe".
 - 🌱 **"Comunidade" de vampiros**: Mencionada — não estão acabados.
+  Detalhe de canon (2026-08-12): os mortos da torre são **neófitos**
+  ("Eu não reconheço esses três das lutas de Gondor... Devem ser neófitos,
+  recém-amaldiçoados ou simpatizantes que fizeram pacto para serem
+  aceitos"). Ou seja, os vampiros da torre **não** eram os verdadeiros
+  Lordes Defuntos (veteranos da era de ouro de Gondor) — a Comunidade
+  sobrevive em outro lugar. Base para a facção vampírica do L2.
 - 🌱 **Sapatos de morto**: Mário veste a identidade de um homem morto.
 
 ## Conexões

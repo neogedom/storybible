@@ -52,7 +52,9 @@ timestamp: 2026-07-24T12:00:00-03:00
   mundo.
 - **Germinação**: L2 — Hícse **reconstrói** a Hoste da Purgação com
   **criaturas já estabelecidas no livro**: gornads, alguns lobisomens,
-  vampiros (a confirmar) e os canibais dos Clãs de Sangue. A nova Hoste
+  canibais dos Clãs de Sangue e **um único vampiro** — o último verdadeiro
+  Lorde Defunto, o veterano do monte de Gondor (canon 2026-08-12). A nova
+  Hoste
   carrega o MESMO nome e propósito, mas é visivelmente outra composição
   (evolução, não réplica) — o eco conecta, a matéria-prima distingue.
 - **Reconhecimento (L2, Mário rei) — BIBLIOTECA + gravura (decisão

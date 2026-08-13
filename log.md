@@ -1,5 +1,180 @@
 # Log de Atualizações
 
+## 2026-08-12 (canon — Hoste da Purgação: um único vampiro)
+
+- **Composição da Hoste (canon)**: a Hoste da Purgação reconstruída é
+  **multirracial** — gornads, alguns lobisomens, canibais dos Clãs de
+  Sangue e **um único vampiro**: o veterano do monte, o último verdadeiro
+  Lorde Defunto. Por ser poderoso (a força de uma era de ouro num só
+  corpo), pode ocupar **posição de destaque** na Hoste. Substituído o
+  "vampiros (a confirmar)" em `conceitos/lordes-defuntos.md`,
+  `conceitos/hicse.md`, `temas/sementes.md` e `temas/esquema-l1.md`.
+- **Arquivos**: `conceitos/lordes-defuntos.md`, `conceitos/hicse.md`,
+  `temas/sementes.md`, `temas/esquema-l1.md`, `log.md`.
+
+## 2026-08-12 (canon — o último verdadeiro Lorde Defunto)
+
+- **Unicidade do veterano (canon)**: dos veteranos da era de ouro de
+  Gondor, apenas **UM** verdadeiro Lorde Defunto sobreviveu: **o veterano
+  do monte em Gondor** (holdout recrutado pela Hoste de Hícse no L2). A
+  "Comunidade" de Opium não tinha verdadeiros Lordes Defuntos — só
+  neófitos e sobreviventes menores. "Eles não estão acabados" (Decian,
+  cap. 10) refere-se à **rede da Comunidade**, não a outros veteranos.
+  Corrigido em `conceitos/lordes-defuntos.md`.
+- **Arquivos**: `conceitos/lordes-defuntos.md`, `log.md`.
+
+## 2026-08-12 (canon — cronologia da "Comunidade" de Opium: pós-declínio)
+
+- **Cronologia (canon)**: a "Comunidade" de Opium **NÃO existia no auge de
+  Gondor** — na era de ouro os vampiros dominavam, não negociavam. É um
+  fenômeno **pós-declínio**: nasceu depois da queda, quando os sobreviventes
+  empurrados para Saramant tentaram a **coexistência** em vez da dominação.
+  Corrigido em `conceitos/lordes-defuntos.md` (nota de cronologia) e
+  `lugares/opium.md` ("ressurgimento" → "se estabelecesse ali").
+- **Arquivos**: `conceitos/lordes-defuntos.md`, `lugares/opium.md`,
+  `log.md`.
+
+## 2026-08-12 (correção — Interregno: Gondor não dominou os ~950 anos)
+
+- **Correção conceitual (canon)**: o Interregno **não foi um único domínio
+  estrangeiro**. Foi um período longo de instabilidade no Reino —
+  sucessões desastrosas, períodos em que o próprio Reino dominou outras
+  nações (por tempos mais curtos), e retomadas. Gondor subjugou o Reino
+  **apenas numa parcela menor** desse tempo, mas foi a dominação **mais
+  longa e mais difícil de derrotar** (nação mais poderosa que as
+  anteriores). A era de ouro dos vampiros também se limita à dominação
+  gondoriana, não aos 950 anos.
+- **Arquivos**: `lugares/gondor.md`, `temas/timeline.md`,
+  `conceitos/lordes-defuntos.md`, `log.md`.
+
+## 2026-08-12 (documentação — página de Gondor)
+
+- **Nova página**: `lugares/gondor.md` — império estrangeiro que dominou o
+  Reino no Interregno; era de ouro dos vampiros (Lordes Defuntos, festas,
+  künerv); Guerra dos Vampiros; rebelião fracassada; Guerra do Grifo
+  (Kraviam vence com antraz); estado atual pós-Grifo. Lacunas marcadas
+  como "a definir": geografia exata, poder atual, política pós-Grifo. O
+  monte do veterano (L2) fica em território gondoriano.
+- **Arquivos**: `lugares/gondor.md`, `index.md`, `log.md`.
+
+## 2026-08-12 (canon — distinção: comunidade de Khaine ≠ "Comunidade" de Gondor)
+
+- **Distinção (canon)**: a **comunidade de Khaine** (origem da raça,
+  proto-histórica, que desafiou Terbs) **NÃO é** a **"Comunidade"** de
+  Gondor/Opium (facção moderna da era de Gondor, exterminada por Charles).
+  São entidades distintas que compartilham o nome — e o sangue (todo
+  vampiro é filho de Khaine). Notas de distinção adicionadas em ambas as
+  seções de `conceitos/lordes-defuntos.md`; a prosa deve manter a
+  separação para não virar confusão.
+- **Arquivos**: `conceitos/lordes-defuntos.md`, `log.md`.
+
+## 2026-08-12 (canon — ruínas divinas no monte; nome livre)
+
+- **Ruínas (canon)**: o monte do veterano guarda **ruínas antigas** que
+  **sugerem** a habitação dos deuses de Ornick — mais antigas que a era de
+  ouro de Gondor. O veterano acampou nas ruínas da habitação divina
+  ("pertença, não apoteose" tornada espacial). Renderização: sugestão, não
+  exposição (alvenaria ciclópica, símbolos erodidos, santuário desabado).
+- **Nome do monte (canon)**: **livre** — não precisa ecoar montes da
+  Terra. A definir com o autor.
+- **Arquivos**: `conceitos/lordes-defuntos.md`, `log.md`.
+
+## 2026-08-12 (canon — o monte do veterano; eco de Heiser)
+
+- **Local do veterano (canon)**: **monte ermo** (não pântano). Motivo
+  registrado: **eco de Heiser** — monte = lugar dos deuses (assembleia
+  divina; no universo, contraponto ao Limbo e ao zigurate de Etemenanki).
+  O veterano entronizado no monte é um **deus caído no trono dos deuses**;
+  a prosa do L2 deve tratar o monte como santuário usurpado, não cenário.
+- **Pendente**: nome e detalhes do monte (a definir com o autor);
+  possível página de lugar — Gondor ainda não tem página de lugar (lacuna
+  conhecida).
+- **Arquivos**: `conceitos/lordes-defuntos.md`, `log.md`.
+
+## 2026-08-12 (canon — mecanismo de sobrevivência; correção "künerv")
+
+- **Mecanismo de sobrevivência do veterano (canon)**: opção A pura —
+  **torpor profundo** + presas humanas **raras** que cruzam o ermo (uma
+  refeição a cada meses/anos); sem vínculo/estoque vivo. Local a definir
+  (monte/pântano).
+- **Sangue animal NÃO sustenta (canon)**: só sangue de seres conscientes
+  alimenta vampiro — explica a morte por inanição dos vampiros de Saramant
+  numa floresta cheia de caça (cap. 8).
+- **Preço da adesão (canon)**: Lakand oferece o **próprio sangue** ao
+  antigo (o caçador alimenta o caçado) — primeiro degrau da escada da
+  queda (depois entregar outros; por fim Kate).
+- **Correção de lore (canon 2026-08-12)**: "filhos de Khaine" = os
+  **próprios vampiros**; o sangue das "festas regadas a sangue" era de
+  **humanos simpatizantes** (gondorianos), e dessa relação nasceu o termo
+  **künerv** (pejorativo para humanos). Corrigido em
+  `conceitos/lordes-defuntos.md`, `conceitos/glossario.md` (künerv) e
+  `capitulos/capitulo-07.md` (semente).
+- **Arquivos**: `conceitos/lordes-defuntos.md`, `conceitos/glossario.md`,
+  `capitulos/capitulo-07.md`, `log.md`.
+
+## 2026-08-12 (canon — Lakand como recrutador; veterano resignado)
+
+- **Decisão (canon)**: **Lakand** é o PoV que passa para o lado de Hícse
+  no L2 e viaja a Gondor para arregimentar o veterano da era de ouro.
+  Corrupção via **Mesmia** (mesma facção de Hícse — ambas servas
+  comissionadas de Marduk) funilando-o para a Hoste. Detalhe aprovado: o
+  veterano **não dá mais festas** — está **escondido e resignado** num
+  lugar ermo (monte/pântano), poderoso pela idade, mas em baixa; Lakand
+  lhe oferece **"voltar a ser importante"**.
+- **Condições de ofício acordadas**: PoV limitado (Vilões se Aproximam);
+  morte de Kate **fora** do PoV de Lakand (vista pelo PoV de Kate);
+  holdout em Gondor (veterano que nunca saiu do império); Benjamim
+  permanece o cérebro dos bastidores (arranja a missão; Lakand executa).
+- **Pendente de decisão**: mecanismo de sobrevivência do veterano (como
+  ele se mantém vivo sem sangue em lugar ermo) — opções em discussão com
+  o autor (torpor + presa rara vs. vínculo/estoque vivo; implicação de
+  canon: sangue animal sustenta ou não?).
+- **Arquivos**: `personagens/lakand.md`, `conceitos/lordes-defuntos.md`,
+  `log.md`.
+
+## 2026-08-12 (canon — página dos Lordes Defuntos; ideia de PoV do recrutador no L2)
+
+- **Nova página**: `conceitos/lordes-defuntos.md` — lore consolidada:
+  origem da maldição de Khaine, filhos de Khaine/Khainekravira, era de ouro
+  sob Gondor, Guerra dos Vampiros, rebelião fracassada, Comunidade de Opium
+  exterminada por Charles, neófitos vs. verdadeiros Lordes Defuntos, regras
+  do mundo (sol, inanição, künerv) e germinação potencial no L2 (Hoste de
+  Hícse). Índice e `terbs.md` atualizados com o link.
+- **Ideia do autor (juízo pendente — NÃO canon)**: no L2, um PoV que passe
+  para o lado de Hícse e viaje até Gondor para arregimentar o veterano da
+  era de ouro (opção A). Pendências apontadas: (a) identificar o PoV —
+  candidatos fortes: Benjamim (sem arco de L2 registrado; pivô Terbs→Hícse)
+  ou novo personagem dos Clãs de Sangue; (b) conciliar a geografia — canon
+  atual diz que os vampiros foram empurrados para Saramant pós-rebelião;
+  (c) risco estrutural: PoV novo rouba protagonismo perceptivo de Mário —
+  recomenda-se PoV limitado, não co-líder.
+- **Arquivos**: `conceitos/lordes-defuntos.md`, `conceitos/terbs.md`,
+  `index.md`, `log.md`.
+
+## 2026-08-12 (canon — origem dos vampiros; destino de Etwano)
+
+- **Origem da maldição (canon)**: em tempos distantes, uma comunidade
+  desafiou **Terbs publicamente**, liderada por um homem chamado **Khaine**.
+  Terbs amaldiçoou a comunidade inteira; Khaine foi o **primeiro vampiro**.
+  "Filhos de Khaine" / "Khainekravira" = todos os vampiros; o termo nasce
+  do nome do primeiro transformado. Registrado em `conceitos/terbs.md`
+  (Criações) e `conceitos/glossario.md` (Khainekravira). O gancho das
+  "festas de Gondor" do cap. 7 (filhos de Khaine, época de ouro) agora tem
+  definição canônica.
+- **Etwano (canon)**: morto no combate da torre — morte **implícita** no
+  texto (cap. 7 termina no meio da luta; cap. 10 mostra Charles e Decian
+  descartando todos os corpos: "Esse é o último"). A queima é **solar**
+  (corpos jogados pela janela; o sol os frita ao amanhecer), não fogo
+  direto de Charles. Registrado em `capitulos/capitulo-07.md`.
+- **Neófitos vs. Lordes Defuntos (canon implícito)**: os mortos da torre
+  são "neófitos, recém-amaldiçoados ou simpatizantes" (fala do jardineiro,
+  cap. 10) — **não** os verdadeiros Lordes Defuntos (veteranos da era de
+  ouro de Gondor). A "Comunidade" sobrevive ("Eles não estão acabados",
+  Decian, cap. 10). Base para a facção vampírica do L2 (Hoste de Hícse,
+  "vampiros (a confirmar)").
+- **Arquivos**: `conceitos/terbs.md`, `conceitos/glossario.md`,
+  `capitulos/capitulo-07.md`, `capitulos/capitulo-10.md`, `log.md`.
+
 ## 2026-08-08 (canon — arquitetura híbrida do castelo + ativação dos rampillas por padrão de presa)
 
 - **Arquitetura do castelo (canon)**: fortaleza híbrida de dois anéis —

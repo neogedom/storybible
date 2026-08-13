@@ -24,8 +24,14 @@ um preço.
 
 ## Criações
 
-- **Vampiros** (Khainekravira): Seres amaldiçoados por Terbs, pendem entre
-  a vida e a morte.
+- **Vampiros** (Khainekravira, "filhos de Khaine"): Seres amaldiçoados por
+  Terbs, pendem entre a vida e a morte.
+- **Origem da maldição (canon 2026-08-12):** em tempos distantes, uma
+  comunidade desafiou Terbs **publicamente**, liderada por um homem chamado
+  **Khaine**. Terbs amaldiçoou a comunidade inteira em troca. O primeiro
+  vampiro foi Khaine, e "filhos de Khaine" / "Khainekravira" passou a
+  designar todos os vampiros — o termo técnico nasce do nome do primeiro
+  transformado. Ver [Lordes Defuntos](/conceitos/lordes-defuntos.md).
 - **Apoteose:** Promessa de elevação divina que Terbs vende a Genocydo
   através de Benjamim.
 
