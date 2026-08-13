@@ -1,5 +1,34 @@
 # Log de Atualizações
 
+## 2026-08-13 (protocolo — loop de escrita privada embutido)
+
+- **Mini-INGEST (modo privado)** criado em `protocolo-ingest.md`: gatilho
+  "cap. X pronto", passos leves (~15-20 min), tabela "obrigatório agora vs.
+  espera o congelamento", semáforo de ideias, Definition of Done. INGEST
+  completo renomeado para "INGEST completo (congelamento)".
+- **Agentes atualizados**: `livro-writer.agent.md` (modo privado: Mini-INGEST
+  por capítulo, avançar > aperfeiçoar, checkpoint de beat a cada ~6-10 caps)
+  e `arquiteto-densidade.agent.md` (checkpoint leve em fronteira de beat,
+  corrige o mapa para frente). `copilot-instructions.md` do repo Livro ganhou
+  bloco "Modo de Escrita Privada (loop ativo)". `AGENTS.md` distingue os dois
+  modos de INGEST.
+- **Arquivos**: `protocolo-ingest.md`, `AGENTS.md`, `log.md` + repo Livro
+  (`.github/copilot-instructions.md`, `.github/agents/livro-writer.agent.md`,
+  `.github/agents/arquiteto-densidade.agent.md`).
+
+## 2026-08-13 (estratégia — arquitetura de publicação do L1)
+
+- **Nova decisão**: `decisoes/estrategia-publicacao-l1.md` — escrever o L1
+  inteiro em privado → congelar canon → relançar (serial cap. 20+ com motor
+  de aquisição novo + ebook completo) → áudio por último → self-publish antes
+  de editora.
+- **Pausa pública**: cap. 19 (sábado 15/08) encerra o Ato 1 (fim de temporada,
+  não do livro).
+- **Gargalo registrado**: aquisição (curva plana ~2 meses, ~15 seguidores,
+  zero monetização). Fonte viva e completa:
+  `Livro/.github/handoff/estado-estrategico.md`.
+- **Arquivos**: `decisoes/estrategia-publicacao-l1.md`, `index.md`, `log.md`.
+
 ## 2026-08-12 (canon — Hoste da Purgação: um único vampiro)
 
 - **Composição da Hoste (canon)**: a Hoste da Purgação reconstruída é

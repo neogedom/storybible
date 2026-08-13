@@ -109,6 +109,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 - [Insights](insights/) — Ideias de brainstorming registradas automaticamente.
 - [Decisões](decisoes/) — Decisões formais tomadas ao longo do desenvolvimento.
+- [Estratégia de Publicação do L1](decisoes/estrategia-publicacao-l1.md) — Escrever em privado → congelar canon → relançar serial + ebook → áudio por último → self-publish (2026-08-13).
 - [Regras de Áudio Minimax](decisoes/regras-audiochapter-acentuacao-ditongos.md) — Decisão sobre acentuação fonética de tritongos e extração rigorosa de narração (2026-07-27; correção 2026-08-06: só tritongos).
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 
@@ -118,4 +119,4 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 ---
 
-_Última atualização: 2026-08-06_
+_Última atualização: 2026-08-13_

@@ -1,6 +1,70 @@
 # Protocolo INGEST — Finalização de Capítulo
 
-## Quando executar
+> **Dois modos.** O **Mini-INGEST** roda a cada capítulo fechado durante a
+> escrita privada do L1 (gatilho "cap. X pronto"); o **INGEST completo** roda
+> no congelamento (gatilho "Finalizar capítulo X"). Norte: avançar sobre
+> aperfeiçoar; revisão fina só no congelamento (ver
+> `decisoes/estrategia-publicacao-l1.md`).
+
+---
+
+## Mini-INGEST (modo privado)
+
+### Quando executar
+
+Usuário diz **"cap. X pronto"** ao fim da sessão em que o capítulo atingiu a
+Definition of Done (prosa completa, fronteira ok).
+
+### Passos (agente, ~15-20 min)
+
+1. Criar `capitulos/capitulo-XX.md` (type: Chapter) com frontmatter mínimo
+   (`pov`, `beat_stc`, `percentual_l1`) e 4 seções curtas: Resumo (3-6 linhas),
+   Personagens, Eventos, Sementes e Conexões.
+2. Append em `visuais/<nome>.md`: estado visual de quem apareceu; "não
+   aparece" dos esperados.
+3. Registrar canon duro novo: regra de mundo, milagre (com o custo), mudança
+   de relação/posição → `conceitos/`; semente cross-livro nova → `temas/sementes.md`.
+4. Atualizar a tabela de progresso em `temas/esquema-l1.md` (1 linha).
+5. Checagem de fronteira: reler o Mini-INGEST do capítulo anterior + o bloco
+   do próximo no esquema (sem contradição; ponto de partida claro).
+6. `log.md`: 1 linha (pode ser batch a cada 5 caps).
+
+### Obrigatório agora vs. espera o congelamento
+
+| Obrigatório (Mini-INGEST) | Espera o congelamento |
+|---|---|
+| Fatos duros: eventos, decisões, localização, canon novo, custo do milagre | Análise de arco psicológico em `personagens/` |
+| Sementes novas (promessas + cross-livro) | LINT completo (cruzamento com histórico) |
+| Visual de cada personagem que aparece | `index.md`, log detalhado, expansão de conceitos |
+| Ponto de partida do próximo capítulo | Polimento (densidade fina/linguística), áudio, reconciliação com versão pública 0-19 |
+
+Regra de bolso: `personagens/<nome>.md` só muda quando um **fato duro** muda
+(nova habilidade, morte, mudança de papel). Estado cena-a-cena vive em
+`capitulos/capitulo-XX.md`.
+
+### Semáforo de ideias
+
+- **Verde (micro):** detalhe local que não toca esquema/arco/canon → implementa, zero registro.
+- **Amarelo (estrutural):** mudaria capítulo/arco/canon → **não implementa**; registra em `insights/` com `destino: L2/L3` ou `destino: congelamento-L1`.
+- **Vermelho (guardrail):** viola teologia/risco estrutural → registra e alerta; nunca implementa.
+
+`temas/esquema-l1.md` é o contrato: nunca editá-lo no meio de um capítulo.
+Ideias absorvem para frente.
+
+### Definition of Done (modo privado)
+
+1. Prosa completa em `Livro 1/capituloXX.md` (sem markdown, POV do beat).
+2. Mini-INGEST feito.
+3. Checagem de fronteira ok.
+4. Nenhuma pergunta em aberto bloqueando o próximo capítulo (resolvida ou estacionada em `insights/`).
+5. Canon duro novo registrado (ou estacionado).
+6. Próximo capítulo NÃO começa antes do Mini-INGEST.
+
+---
+
+## INGEST completo (congelamento)
+
+### Quando executar
 
 Usuário diz **"Finalizar capítulo X"** após o ciclo de revisão estar completo.
 

@@ -95,6 +95,12 @@ Disparado pelo usuário com o prompt **"Finalizar capítulo X"**.
 
 O protocolo detalhado está em `protocolo-ingest.md`. Resumo:
 
+> **Dois modos (ver `protocolo-ingest.md`):**
+> - **Mini-INGEST (modo privado)** — gatilho "cap. X pronto"; roda a cada
+>   capítulo fechado durante a escrita privada do L1; só fatos duros.
+> - **INGEST completo (congelamento)** — gatilho "Finalizar capítulo X";
+>   enriquece os Mini-INGESTs; inclui LINT e análise de arco.
+
 1. Ler capítulo de `neogedom/livro/Livro 1/capituloX.md`
 2. Extrair fatos: eventos, personagens, decisões, falas, sementes
 3. Extrair visuais: roupas, ferimentos, expressões
