@@ -1,5 +1,14 @@
 # Log de Atualizações
 
+## 2026-08-15 (canon — Genocydo/Kraviam: Química, cristão nominal, língua)
+
+- **Formação e língua de Kraviam (canon)**: instruído em **Química na Terra**
+  (explica o antraz/Guerra do Grifo e o "pó letal" do cap. 6); cristão
+  **nominal** (não fiel); aprendeu ornickenho **com os Guenayer** — por
+  esforço humano, NÃO por milagre (contraste com Mário, que recebeu a língua
+  da Voz no cap. 12). Registrado em `personagens/genocydo.md`.
+- **Arquivo**: `personagens/genocydo.md`, `log.md`.
+
 ## 2026-08-15 (auditorias: Lakand, Genocydo, Benjamim, gornads)
 
 - **Genocydo (aplicado)**: 5 falas ajustadas (fresta de ansiedade na fala;

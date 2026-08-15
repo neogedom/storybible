@@ -27,6 +27,16 @@ cristão**: nunca fora eleito, era semente de Nachash (ver
 `conceitos/vonos.md` e `conceitos/cosmologia.md`). O "Antigo Rei
 reencarnado" foi a interpretação errônea do povo, não a intenção de Vonos.
 
+**Formação e língua (canon 2026-08-15):** Kraviam foi academicamente
+**instruído em Química na Terra** — é o que explica a guerra biológica da
+Guerra do Grifo (antraz; as cartas forradas de "pó letal" do cap. 6; o
+câncer que corroeu os próprios lábios, vindo do laboratório secreto).
+Cristão **nominal** (não fiel): tinha o verniz religioso, nunca foi eleito
+(semente de Nachash). **Aprendeu ornickenho com os Guenayer** ao chegar —
+por esforço humano, NÃO por milagre. Contraste com Mário: o verdadeiro
+Souhma chegou inteiro e recebeu a língua da Voz (cap. 12); o falso falou por
+aprendizado, o verdadeiro por dom.
+
 ## Aparência Canônica
 
 - **Estrutura**: Imponente, postura de quem se acredita um deus
