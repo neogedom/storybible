@@ -32,6 +32,21 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 - Silencioso — não explica suas escolhas, apenas as faz
 - Perigoso quando provocado, mas não cruel sem motivo
 
+## Evolução da Voz (canon 2026-08-15 — opção B)
+
+- **Companheiro falante APENAS com Kate** antes do endurecimento (caps. 8-12):
+  aberto, às vezes bem-humorado — mas NUNCA analista político, ensaísta ou
+  stand-up (essas falas devem ser cortadas/condensadas). A fala continua
+  curta mesmo quando falante.
+- **Emoção explicada é RARÍSSIMA**: o monólogo "Eu quero ser gente" (cap. 12)
+  é a ÚNICA confissão de interioridade do L1 — e é a âncora trágica do L2
+  (o homem que queria ser "gente" vira recrutador da Hoste de Hícse).
+- **Endurecimento gradual pós-massacre** (cap. 15, Tae-Tabor; caps. 17-19):
+  a fala diminui; caps. 19-20 = fera silenciosa (já escrito assim).
+- **L2**: a corrupção por Mesmia é mais trágica por termos visto o Lakand
+  "gente" — o discurso do recrutador da Hoste ecoa o desejo de ser
+  importante ("voltar a ser importante").
+
 ## Papel na História
 
 1. Aliado de Kate na floresta de Saramant

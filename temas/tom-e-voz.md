@@ -56,6 +56,35 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Fechamentos de argumento resolvem em **transação ou evidência** (o que
   você aceita vender, qual é a prova) — nunca em máxima motivacional
 
+## Notas de voz — secundários e raças (canon 2026-08-15)
+
+### Genocydo
+
+- **Grandeza com fresta na FALA**: a ansiedade/paranoia deve vazar na sintaxe
+  (repetições, perguntas engolidas, súplicas obsessivas), não só nas rubricas
+  narrativas. Modelo: cap. 6, "Não sei, amigo. Não sei."
+- **Nunca autodiagnóstico lúcido do próprio defeito** — o megalomaníaco não
+  nomeia o próprio defeito com equilíbrio; vira autoglorificação.
+
+### Lakand (evolução — opção B)
+
+- Companheiro falante APENAS com Kate antes do endurecimento (caps. 8-12);
+  sem ensaios/análise política/stand-up. Fala curta mesmo quando falante.
+- Emoção explicada é RARÍSSIMA: o "Eu quero ser gente" (cap. 12) é a única
+  confissão de interioridade do L1 — âncora trágica do L2.
+- Endurecimento gradual pós-massacre; caps. 19-20 = fera silenciosa.
+
+### Gornads (política por casta)
+
+- **Gramática quebrada = casta baixa** (Tharin, três-chifres). Casta alta fala
+  fluente.
+- **Gaviorn'l (sete-chifres, lorde)**: RÉGIO — formal, seco, comandando; mais
+  régio que qualquer gornad abaixo dele.
+- **Estruzzo**: fluente guerreiro, direto e brutal, MENOS régio que o lorde;
+  assume a liderança dos gornads após a morte de Gaviorn'l.
+- **NUNCA** poesia/voz de vampiro nem "sábio de autoajuda" em gornad — o
+  registro é de caçador, mesmo na casta alta.
+
 ## Conexões
 
 - [Guarda Rails](/README.md) — Regras de ouro no copilot-instructions.md

@@ -309,4 +309,25 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Ironia**: Kate, que trata linhagens como ruído, agora deve sangue a uma
   casa que ainda tem um herdeiro vivo.
 
+## 17. A Voz de Benjamim em Ação — cena de manipulação
+
+- **Problema (canon 2026-08-15)**: Benjamim Cressadar tem apenas 2 falas
+  diretas nos caps. 0-20 (cap. 0, ambas OK) — a "voz como arma" é narrada
+  por outros, nunca encenada.
+- **Semente**: uma cena de corte onde o verniz piedoso atue — ex.: cap. 13
+  (onde Nuh o invoca) ou a intermediação do contrato da apoteose — antes da
+  via crucis final.
+- **Função**: o leitor precisa EXPERIMENTAR o desconforto do manipular antes
+  do clímax do L1; senão Benjamim reduz-se a "instrumento citado".
+
+## 18. Estruzzo — a liderança gornad após Gaviorn'l
+
+- **Fato (canon 2026-08-15)**: quando Gaviorn'l morrer (clímax do L1),
+  **Estruzzo** assume a liderança dos gornads.
+- **Necessidade de presença**: Estruzzo aparece só no cap. 11 — precisa de
+  mais caracterização (voz fixada no cap. 11; presença no fim de jogo do L1)
+  para que a transição de liderança aterre no leitor.
+- **Germinação**: L2 — Estruzzo como líder gornad (e sua relação com o que
+  restou da Hoste/vagas de Gaviorn'l).
+
 _Atualizar a cada INGEST de capítulo._

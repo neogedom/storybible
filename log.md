@@ -1,5 +1,22 @@
 # Log de Atualizações
 
+## 2026-08-15 (auditorias: Lakand, Genocydo, Benjamim, gornads)
+
+- **Genocydo (aplicado)**: 5 falas ajustadas (fresta de ansiedade na fala;
+  sem autodiagnóstico lúcido; ameaça de estoque → súplica obsessiva),
+  gramática (3) e travessões U+2015→U+2014 no cap. 6.
+- **Lakand (decisão B)**: evolução registrada na ficha — falante só com Kate
+  antes do endurecimento; cap. 12 = única confissão (âncora do L2).
+- **Gornads (política por casta)**: quebrado = casta baixa (Tharin);
+  Gaviorn'l régio; Estruzzo guerreiro fluente (lidera após Gaviorn'l). 3
+  falas ajustadas.
+- **Benjamim**: nenhum erro de linha; semente #17 (cena de manipulação em
+  ação) registrada.
+- **Estruzzo**: semente #18 (presença/liderança) registrada.
+- **Arquivos**: caps. 0, 5, 6, 11; `temas/tom-e-voz.md`,
+  `personagens/lakand.md`, `temas/sementes.md`, `log.md`, agente
+  `livro-writer`.
+
 ## 2026-08-15 (auditoria de voz de Nolan — caps. 0-20)
 
 - **Auditoria completa das falas de Nolan** (~115 falas/pensamentos): 4 correções
