@@ -31,6 +31,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Voz**: Interior, conflituosa, teologicamente informada mas emocionalmente instável
 - **Ritmo**: Reflexivo com surtos de ação
 - **Risco**: Pode ficar passivo demais; compensar com intensidade interior
+- **Regra (canon 2026-08-15)**: fechamentos de argumento terminam em
+  **transação/evidência**, nunca em aforismo ou frase de efeito (ex.: o
+  fechamento do cap. 12 com Lakand foi corrigido para o registro contratual)
 
 ### Nolan
 
@@ -50,6 +53,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Diálogo carrega subtexto — o que não é dito importa mais
 - Falas revelam conflito interno, não apenas transmitem informação
 - Evitar diálogos expositivos
+- Fechamentos de argumento resolvem em **transação ou evidência** (o que
+  você aceita vender, qual é a prova) — nunca em máxima motivacional
 
 ## Conexões
 

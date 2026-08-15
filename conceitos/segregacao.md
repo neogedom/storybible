@@ -24,6 +24,16 @@ por Genocydo** como política de estado.
 - Publicanos (cobradores de impostos) enviados por Nolan para serem duros
 - Criação de um underclass humano que alimenta a máquina econômica do Reino
 
+## Mina de Quartzo (canon 2026-08-15)
+
+- A Mina existe desde Genocydo I (antiga), mas só virou **reduto de
+  escravidão de humanos** com a Segregação — antes, era mina com outras
+  formas de trabalho (não especificado).
+- As **vítimas se tornaram especificamente humanos** após a Segregação.
+- Coerência temporal (cap. 20): a Segregação começou na adolescência de Kate
+  (após a Guerra do Grifo) — "cresci ouvindo isso" cobre os anos sob a
+  Segregação.
+
 ## Papel na História
 
 A Segregação é o **pano de fundo político** que Mário encontra ao chegar em

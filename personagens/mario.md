@@ -43,6 +43,46 @@ Ver timeline visual completa em [visuais/mario.md](/visuais/mario.md).
 - Sua fé emerge da experiência, não da doutrina — ele não sabe o que crê até
   ser forçado a crer
 
+## Persona — voz e origem (canon 2026-08-15; refinado 2026-08-15)
+
+- **Mário é terráqueo**: morador de **Goiânia (GO, Brasil), século XXI**.
+  Jovem urbano brasileiro — a BASE da voz é coloquial moderna: humor seco,
+  autoconsciência, referências contemporâneas (Terra) no pensamento.
+- **Registros treinados (não são prosa de época)**: Mário é **acadêmico de
+  direito** e teologicamente bem instruído na tradição **reformada**. Quando
+  argumenta (debate, teologia, justiça), sobe de registro — fala com
+  precisão e estrutura, mas SEMPRE em português brasileiro MODERNO: formal
+  contemporâneo, nunca literário/arcaico, nunca prosa de narrador.
+- **Enquadramento de jurista**: sua arma (raciocínio abdutivo) opera como
+  mentalidade jurídica — provas, ônus da prova, contratos (as preces de
+  Ornick como barganha), evidências. Isso emerge na fala quando ele analisa.
+- **Hesitação é de AÇÃO, não de fala**: hesita para agir e se comprometer
+  (Lucas), mas no argumento é incisivo — vira discussões contra oponentes
+  mais poderosos. Não confundir as duas coisas ao escrever a voz.
+- **Arrogância teológica**: a culpa de Lucas o tornou teologicamente
+  competente (e arrogante) — pode ser dogmático quando confrontado, no
+  idioma reformado (um só Deus, poderes caídos), nunca jargão de Conselho
+  Divino.
+- **Filtro**: em Ornick fala ornickenho (fluente desde o cap. 12), mas a
+  PERSONA continua a do terráqueo.
+- **Nota de workflow**: personas por personagem devem ser demarcadas aqui e
+  em `temas/tom-e-voz.md` para que os agentes escrevam diálogos críveis.
+
+## Lucas (Terra) — o caco de vidro (canon 2026-08-15)
+
+- **Lucas**: irmão de Mário na Terra. Morreu por envolvimento com drogas.
+- **Caco de vidro de Mário**: culpa-se por não ter tido a teologia correta à
+  época — na cabeça dele, se tivesse, Lucas não teria enveredado pelo caminho
+  errado e não teria morrido.
+- **Consequência**: a culpa o levou ao estudo obsessivo de teologia —
+  tornou-se teologicamente competente (e arrogante).
+- **Função no L1**: a morte de Lucas é a sombra do milagre do bebê (caps.
+  19-20) — a Voz agiu sem a fé de Mário onde, com Lucas, ele hesitou
+  ("Precisava entender antes de agir").
+- **Nota de escrita**: não é dramatizado em nenhum capítulo ainda — é
+  backstory a ser usado com moderação (delírios do cap. 20; possível
+  confissão futura).
+
 ## Teologia de Mário — idioma reformado (canon 2026-08-10)
 
 > **Distinção crítica:** Heiser (Conselho Divino, b'nei elohim, Marduk, os

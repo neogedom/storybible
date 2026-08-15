@@ -1,5 +1,87 @@
 # Log de Atualizações
 
+## 2026-08-15 (auditoria de voz de Nolan — caps. 0-20)
+
+- **Auditoria completa das falas de Nolan** (~115 falas/pensamentos): 4 correções
+  aplicadas ("Cadê" → "Onde está"; subjuntivo indevido "haja" → "há";
+  "lembro-te" ao Rei → "lembro a Vossa Majestade"; "Kôda" → "Koda").
+- **Canon corrigido**: nome do personagem é **Edgard Lupe'i** (cap. 3 usava
+  "Vyengard") — alinhado com `personagens/lupei.md`.
+- **Risco #2 avaliado**: bem mitigado (Nolan erra no cap. 13, é enganado no 6,
+  falha no 9, paga em 16/18). Fresta do trauma do pai (cap. 9) registrada como
+  oportunidade.
+- **Arquivos**: `Livro 1/capitulo3.md`, `Livro 1/capitulo6.md`, `log.md`.
+
+## 2026-08-15 (auditoria de voz de Kate — caps. 0-20)
+
+- **Auditoria completa das falas de Kate** (~119 falas/pensamentos, 9 capítulos):
+  2 aforismos do cap. 5 corrigidos ("Quase não enche cova, irmão..."; "Tamanho
+  sem cabeça..."), 1 ruído de voz na narração do cap. 8 corrigido (luta como
+  salvação, em registro concreto), travessão U+2015 → U+2014 nas falas de
+  Tharin (cap. 5).
+- **Arquivos**: `Livro 1/capitulo5.md`, `Livro 1/capitulo8.md`, `log.md`.
+
+## 2026-08-15 (auditoria de voz de Mário — caps. 0-20)
+
+- **Auditoria completa das falas de Mário** (78 falas, 76 coerentes): 2 ajustes
+  aplicados (fechamento aforístico do cap. 12 → transação; jurista ausente no
+  pacto da Mina, cap. 20). Exceção canônica mantida (oração do cap. 19,
+  ditada pela Voz).
+- **Nova regra de voz**: fechamentos de argumento terminam em transação/
+  evidência, nunca em aforismo. Registrado em `temas/tom-e-voz.md`.
+- **Arquivos**: `Livro 1/capitulo12.md`, `Livro 1/capitulo20.md`,
+  `temas/tom-e-voz.md`, `log.md`.
+
+## 2026-08-15 (lote 2 de comentários — cap. 20, persona de Mário, Mina/Segregação)
+
+- **Lote 2 aplicado no cap. 20**: fala de Kate reescrita na voz dela (concreta:
+  "Escravo que vê um morto voltar não teme mais o chicote...") — removida a
+  sensação de filosofia; marcadores respondidos (oração/Voz; Mina temporal;
+  persona de Mário).
+- **Pendência resolvida**: fluência em ornickenho confirmada no **cap. 12**
+  (autor corrigiu: "Eu errei") — ficha de Mário já está correta.
+- **Novo canon — persona de Mário**: terráqueo, morador de Goiânia (GO),
+  século XXI; voz de jovem urbano brasileiro moderno. Registrado em
+  `personagens/mario.md`.
+- **Novo canon — Mina de Quartzo**: só virou reduto de escravidão de humanos
+  com a Segregação (antes, mina com outras formas de trabalho). Registrado em
+  `conceitos/segregacao.md`.
+- **Workflow — links de linha no relatório do lote**: agentes e skills
+  passam a reportar cada alteração com link de âncora de linha
+  (`path#L{linha}`).
+- **Arquivos**: `Livro 1/capitulo20.md`, `personagens/mario.md`,
+  `conceitos/segregacao.md`, `log.md`.
+
+## 2026-08-15 (lote de comentários do autor — cap. 20 + canon Lucas)
+
+- **Lote de comentários do autor aplicado no cap. 20** (protocolo `(* ...)`):
+  (a) glossolalia sem espanto de idioma — Voz ≠ Deus para Mário ("soco na
+  porta da Voz", não "do Deus"); (b) distância Kate/Lakand sem comparação
+  temporal (POV de Mário); (c) vozes de Mário e Kate ajustadas na cena da
+  Mina; (d) artefato tipográfico corrigido.
+- **Novo canon — Lucas (Terra)**: irmão de Mário, morreu por drogas; caco de
+  vidro = culpa teológica (não tinha a teologia certa à época) → estudo
+  obsessivo e arrogância teológica. Registrado em `personagens/mario.md`.
+- **Pendência (resolvida 2026-08-15)**: fluência em ornickenho confirmada no
+  **cap. 12** — o autor corrigiu a informação (era cap. 12, não cap. 7).
+- **Arquivos**: `Livro 1/capitulo20.md`, `personagens/mario.md`, `log.md`.
+
+## 2026-08-14 (canon — manto de xilomagia: gatilho, carga finita, recarga)
+
+- **Gatilho (canon)**: manto fechado sobre o corpo + imobilidade +
+  respiração controlada em ciclo lento; camufla com a madeira presente
+  (viva ou trabalhada) — floresta total, mina/cidade situacional, pedra nua
+  falha; tell: movimento/fôlego alto quebram a trama (cap. 5).
+- **Carga (canon)**: xilomagia armazenada FINITA, gasta no uso; sem recarga
+  natural — só ritual de xilomago. Potencial: **Ossan** (irmão d'Tirath,
+  asset de Nolan, L2; o manto provavelmente não chega a ele). Para Kate no
+  L1: efeitos acabam — depleção NA PÁGINA (momento crítico).
+- **Kate pragmática (canon)**: posse por conquista — "É a minha. Tomei de
+  quem não sabia usar." Frases de apego removidas do cap. 20 (prova o manto
+  como ferramenta, sem "sempre foi").
+- **Arquivos**: `decisoes/manto-xilomagia-tharin.md`, `temas/sementes.md`,
+  `index.md`, `log.md` + cap. 20 (Livro 1).
+
 ## 2026-08-13 (protocolo — loop de escrita privada embutido)
 
 - **Mini-INGEST (modo privado)** criado em `protocolo-ingest.md`: gatilho

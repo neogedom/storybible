@@ -111,6 +111,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Decisões](decisoes/) — Decisões formais tomadas ao longo do desenvolvimento.
 - [Estratégia de Publicação do L1](decisoes/estrategia-publicacao-l1.md) — Escrever em privado → congelar canon → relançar serial + ebook → áudio por último → self-publish (2026-08-13).
 - [Regras de Áudio Minimax](decisoes/regras-audiochapter-acentuacao-ditongos.md) — Decisão sobre acentuação fonética de tritongos e extração rigorosa de narração (2026-07-27; correção 2026-08-06: só tritongos).
+- [Manto de Xilomagia de Tharin](decisoes/manto-xilomagia-tharin.md) — Chekhov's Gun recuperado no cap. 20; gatilho de ativação, carga finita, recarga por ritual de xilomago (canon 2026-08-14).
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 
 ## Agentes (Workflow)
@@ -119,4 +120,4 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 ---
 
-_Última atualização: 2026-08-13_
+_Última atualização: 2026-08-14_

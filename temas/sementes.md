@@ -121,8 +121,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Plantio**: L1, Cap. 5 — Tharin rouba o manto de um xilomago de Devour;
   Kate o mata e o enterra **com o manto** no cemitério perto da cabana
 - **Recuperação**: L1, Cap. 20 — Kate desenterra Tharin e recupera o manto
-  durante a fuga (desvio de minutos; ~3 km do castelo de Devour)
-- **Uso**: Camuflagem na floresta durante a jornada para a Mina de Quartzo
+  durante a fuga (desvio de minutos; ~3 km do castelo de Devour). Posse por
+  conquista: "É a minha. Tomei de quem não sabia usar."
+- **Ativação (canon 2026-08-14)**: manto fechado sobre o corpo + imobilidade
+  + respiração controlada (ciclo lento); camufla com a madeira presente
+  (viva ou trabalhada) — floresta total, mina/cidade situacional, pedra nua
+  falha; tell: movimento/fôlego alto quebram a trama (cap. 5)
+- **Carga (canon 2026-08-14)**: xilomagia armazenada FINITA, gasta no uso;
+  sem recarga natural — só ritual de xilomago (potencial: Ossan, irmão
+  d'Tirath, asset de Nolan, L2; o manto provavelmente não chega a ele). Para
+  Kate no L1: efeitos acabam — depleção NA PÁGINA (momento crítico)
+- **Uso**: camuflagem na jornada para a Mina de Quartzo (Kate não volta à
+  floresta no L1)
 - **Risco**: Não virar superpoder — ferramenta tática com limite
 - **Nota**: Decisão registrada em `decisoes/manto-xilomagia-tharin.md`
 
