@@ -73,29 +73,7 @@ Ver timeline visual completa em [visuais/mario.md](/visuais/mario.md).
 - **Nota de workflow**: personas por personagem devem ser demarcadas aqui e
   em `temas/tom-e-voz.md` para que os agentes escrevam diálogos críveis.
 
-## Lucas (Terra) — o caco de vidro (canon 2026-08-15)
-
-- **Lucas**: irmão de Mário na Terra. Morreu por envolvimento com drogas.
-- **Caco de vidro de Mário**: culpa-se por não ter tido a teologia correta à
-  época — na cabeça dele, se tivesse, Lucas não teria enveredado pelo caminho
-  errado e não teria morrido.
-- **Consequência**: a culpa o levou ao estudo obsessivo de teologia —
-  tornou-se teologicamente competente (e arrogante).
-- **Frieza com a família (canon 2026-08-16)**: a morte de Lucas deixou Mário
-  mais frio com os pais e a irmã (Camilla) — no fundo, também os culpa por
-  terem deixado Lucas entrar no mundo das drogas.
-- **Função no L1**: a morte de Lucas é a sombra do milagre do bebê (caps.
-  19-20). **(Correção 2026-08-16)**: a hesitação ("Precisava entender antes
-  de agir") foi com o RAPAZ da cobrança de droga (cap. 1), NÃO com Lucas —
-  a Voz nunca pediu que Mário agisse pelo irmão, e Mário não viu o corpo
-  dele. Lucas morreu antes do castelo de dogmas (a teologia foi construída
-  DEPOIS, por culpa) — a sombra dele é a inadequação, não a recusa.
-- **Nota de escrita**: não é dramatizado em nenhum capítulo ainda — é
-  backstory a ser usado com moderação (delírios do cap. 20: Lucas entra
-  como eco do rapaz da calçada, o irmão que morreu de droga — NUNCA como
-  cena de recusa da Voz; possível confissão futura).
-
-## Ficha STC — Caco de Vidro (canon 2026-08-17)
+## Ficha STC — Caco de Vidro (canon 2026-08-17; consolidado 2026-08-17)
 
 ### A Ferida
 
@@ -107,6 +85,26 @@ com a teologia reformada e o raciocínio abdutivo que estudou depois, teria
 tirado Lucas do caminho — e poderia tirar qualquer pessoa (a irmã Camilla,
 os pais). Culpa também os pais, por não terem tido a teologia que a
 responsabilidade deles pedia.
+
+### Origem (backstory)
+
+- **Lucas**: irmão de Mário na Terra. Morreu por envolvimento com drogas
+  (morte lenta). A culpa o levou ao estudo obsessivo de teologia — tornou-se
+  teologicamente competente (e arrogante).
+- **Correção (canon 2026-08-16)**: a hesitação ("Precisava entender antes
+  de agir") foi com o RAPAZ da cobrança de droga (cap. 1), NÃO com Lucas —
+  a Voz nunca pediu que Mário agisse pelo irmão, e Mário não viu o corpo
+  dele. Lucas morreu antes do castelo de dogmas (a teologia foi construída
+  DEPOIS, por culpa) — a sombra dele é a inadequação, não a recusa.
+- **Frieza com a família**: a morte de Lucas deixou Mário mais frio com os
+  pais e a irmã (Camilla) — no fundo, também os culpa por terem deixado
+  Lucas entrar no mundo das drogas.
+- **Função no L1**: a morte de Lucas é a sombra do milagre do bebê (caps.
+  19-20).
+- **Nota de escrita**: backstory ainda não dramatizado — usar com moderação
+  (delírios do cap. 20: Lucas entra como eco do rapaz da calçada, o irmão
+  que morreu de droga — NUNCA como cena de recusa da Voz; possível confissão
+  futura).
 
 ### Crença Fundacional (o que ele QUER)
 
