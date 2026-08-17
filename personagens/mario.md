@@ -95,6 +95,59 @@ Ver timeline visual completa em [visuais/mario.md](/visuais/mario.md).
   como eco do rapaz da calçada, o irmão que morreu de droga — NUNCA como
   cena de recusa da Voz; possível confissão futura).
 
+## Ficha STC — Caco de Vidro (canon 2026-08-17)
+
+### A Ferida
+
+Mário perdeu o irmão mais velho, **Lucas**, para a degradação: drogas e
+nominalidade da fé, numa morte lenta. A família sempre fora evangélica, mas
+sem teologia forte. Mário tentou convencer Lucas com argumentos e falhou.
+Carrega a culpa de não ter tido ferramentas boas o suficiente: acredita que,
+com a teologia reformada e o raciocínio abdutivo que estudou depois, teria
+tirado Lucas do caminho — e poderia tirar qualquer pessoa (a irmã Camilla,
+os pais). Culpa também os pais, por não terem tido a teologia que a
+responsabilidade deles pedia.
+
+### Crença Fundacional (o que ele QUER)
+
+"Se eu tiver as ferramentas certas (teologia apurada + lógica), convenço
+qualquer um a sair do caminho da morte." Salvar os outros é questão de
+técnica argumentativa.
+
+### Necessidade Real (o que ele PRECISA)
+
+Independentemente da sofisticação teológica, **Deus é soberano**: decide
+quando, como e com quem age. As ferramentas dele não salvam ninguém — só Deus
+salva. Controle e entendimento são vício e muleta (cap. 20), não salvação.
+
+### Sintoma Comportamental
+
+Precisa entender antes de obedecer; calcula a fé; recusa o milagre sem
+procedimento (o beco, cap. 1). Efeito sanfona: ora quando os argumentos
+falham, deixa de orar quando veem funcionar.
+
+### Medo de Ativação
+
+Qualquer pessoa em degradação (Camilla, os pais, os convertidos, o garoto do
+beco) reacende a culpa: "desta vez tenho as ferramentas — e se eu falhar de
+novo?"
+
+### Evolução
+
+- **L1**: as ferramentas NÃO salvam (o garoto do beco morre com Mário
+  "pronto"); o bebê do cap. 19 respira SEM ferramentas e SEM consentimento
+  dele — Deus age soberano.
+- **L2**: a corrupção do próprio reinado; nem a teologia mais apurada
+  imuniza contra o pecado.
+- **Resolução**: a rendição — obedecer sem entender; "Eu Sou" decide.
+
+### Regra de Escrita
+
+NUNCA deixar Mário verbalizar a lição ("Deus é soberano" como conclusão)
+antes do clímax — o leitor deve senti-la na estrutura, não ouvi-la como
+sermão. A soberania ambígua (o bebê salvo; Lucas não; o garoto do beco não)
+é o motor do livro — não resolvê-la cedo.
+
 ## Teologia de Mário — idioma reformado (canon 2026-08-10)
 
 > **Distinção crítica:** Heiser (Conselho Divino, b'nei elohim, Marduk, os

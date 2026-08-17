@@ -40,6 +40,68 @@ Ver timeline visual completa em [visuais/kate.md](/visuais/kate.md).
   escolhe Mário não por ideologia, mas por instinto
 - Tem uma fissura humana: sob a fachada dura, há cansaço e dúvida
 
+## Ficha STC — Caco de Vidro (canon 2026-08-17)
+
+### A Ferida
+
+Kate nasceu **gnock** (sem afinidade elemental) em Saramant — e, na crença
+popular, gnocks trazem mau agouro. Seus pais, leviantares pobres, a
+consideravam a maldição da família e a **venderam** a Benjamim Cressadar em
+troca de pouco (dinheiro e a promessa de uma vida melhor na Metrópole) e para
+se livrarem da "fonte de má sorte". Criada e treinada pelos gornads como arma
+para a guerra contra a Metrópole, foi **descartada** quando Terbs mudou o
+plano (sem conquista pela violência) — rebaixada a treinar com gornads de
+baixa patente. Abandonada duas vezes: pelos pais e pela facção. **Ela sabe
+que foi vendida** — a memória da venda é a cicatriz.
+
+### Crença Fundacional (o que ela QUER)
+
+A salvação (o paraíso) é reservada a quem acumula **glória em combate**. Se
+provar seu valor na guerra, pertencerá — não será descartada de novo. Ser a
+protagonista do grande evento bélico é a prova de que vale alguma coisa.
+
+### Necessidade Real (o que ela PRECISA)
+
+Não precisa ser a protagonista para ser importante. A violência não é via de
+salvação — é via de mais violência. Pertencer não se conquista com glória;
+valor não se acumula em combate.
+
+### Sintoma Comportamental (tique físico — proposta)
+
+**Aperta o próprio pulso esquerdo**, o polegar cravado na parte de dentro,
+onde a pele é fina, onde se checa um pulso, onde seguram quem vão entregar.
+Dispara quando alguém oferece, promete ou pede algo dela (transações: o
+momento em que foi precificada); quando alguém se aproxima para tocá-la; e
+quando o passado (mãe, pai, gornads, Cressadar) aflora. Reencena o próprio
+aprisionamento para controlá-lo: se ela segura o próprio pulso, ninguém mais
+a segura. (Os pulsos amarrados de sisal do cap. 19 são a memória física do
+gesto.)
+
+### Medo de Ativação
+
+Ser usada de novo. Qualquer sinal de que é instrumento de algo que não
+escolheu (a guerra de Gaviorn'l, o "virava arma" do cap. 19) reacende a
+ferida: "vão me comprar de novo."
+
+### Evolução
+
+- **L1**: escolhe "Os dois" por instinto, não por fé; quer usar Mário como
+  estopim da guerra (cap. 20) — repete o padrão de quem a usou, sem perceber.
+- **L2**: casa com Mário e tem os gêmeos Bernardo e Stella — o primeiro ato
+  de RECEBER (amor, lar, filhos) sem preço. Morre guerreira (~75%) deixando
+  os gêmeos órfãos: a mulher que temia ser abandonada é a que parte — a
+  ferida não cicatriza, transfere-se aos filhos.
+- **Resolução**: ser importante sem ser protagonista; glória em combate não
+  salva.
+
+### Regra de Escrita
+
+NUNCA nomear a venda na prosa antes da hora da revelação — o tique (o pulso)
+deven ser sentido antes de entendido. A lição ("violência não salva") não pode
+ser enunciada pela Kate nem pelo narrador cedo; deve emergir da estrutura.
+Guardrail: Kate não pode virar abstração — a fissura é o pulso + a memória da
+venda.
+
 ## Alfabetização e conhecimento (canon 2026-08-10)
 
 - **Kate NÃO lê** (ou lê apenas o essencial — sinais, um nome). Nunca foi

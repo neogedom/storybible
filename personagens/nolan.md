@@ -57,6 +57,61 @@ Ver timeline visual completa em [visuais/nolan.md](/visuais/nolan.md).
   religiosidade popular/comercial ("fé como muleta para fracos") — a devoção
   dele é protocolo, não emoção. Isso é uma cegueira, não uma verdade.
 
+## Ficha STC — Caco de Vidro (canon 2026-08-17)
+
+### A Ferida
+
+Tyott Guenayer, pai de Nolan, traiu o sonho da linhagem: em vez da firmeza
+dos antepassados na remontagem do Reino, passou a vida envolvido com humanas.
+Foi Tyott quem encontrou Kraviam, acreditou que era a reencarnação do Antigo
+Rei e o colocou no trono — **escolhendo um estranho em vez do próprio filho**
+como herdeiro do sonho Guenayer. Tyott morreu de doença venérea ("doença dos
+humanos", na leitura de Nolan). O filho preterido passou a vida provando que
+era o herdeiro que o pai nunca reconheceu.
+
+### Crença Fundacional (o que ele QUER)
+
+A salvação do Reino vem da **ordem**: política, burocracia, instituições. A
+fraqueza humana (o pai) é o que destrói; o controle institucional é a única
+barreira contra o caos. Daí a Segregação como política pública de saúde —
+"proteger" os leviantares da contaminação humana.
+
+### Necessidade Real (o que ele PRECISA)
+
+A salvação não vem pela política nem pela burocracia. A ordem que ele serve é
+impostura (o próprio Vonos foi enganado por um falso cristão; a Bíblia de
+Kraviam é prova da fachada). A fraqueza não está nos humanos — está na
+pretensão de controle.
+
+### Sintoma Comportamental (tique físico)
+
+O **lenço de seda pela rinite** (canon, cap. 0): a pontada de irritação no
+nariz, o espirro seco, o lenço impecável. A fissura na armadura de quem se
+crê acima da contingência — um juiz alérgico ao mundo. E o eco do caco: o pai
+morreu por "contaminação humana"; Nolan espirra ao esbarrar no ar.
+
+### Medo de Ativação
+
+Qualquer sinal de fraqueza, desordem ou dependência (Layla, Dagmar, Koda) —
+o caos que o pai deixou entrar. E a ameaça de ser substituído de novo (Mário
+como rei; o plano de Vonos).
+
+### Evolução
+
+- **L1**: a ordem falha — perde Dagmar; a Bíblia vira arma contra ele; o
+  pacto com Terbs é também o abandono do próprio deus.
+- **L2**: comanda a Inquisição com os rampillas — a burocracia vira máquina
+  de morte; a salvação pela ordem se revela condenação.
+- **Resolução**: a queda — o controle que ele buscava o destrói.
+
+### Regra de Escrita
+
+Nolan NUNCA está intelectualmente errado dentro das próprias premissas — o
+erro está nas premissas ("doença dos humanos", a ordem como salvação). O
+leitor deve perceber a falha da premissa ANTES de Nolan (guardrail Risco 2).
+O lenço de seda é a fissura física — invocar com moderação, em momentos de
+vulnerabilidade ou desprezo.
+
 ## Papel na História
 
 ### Livro 1 — O Profeta e a Metrópole
