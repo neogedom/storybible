@@ -97,7 +97,7 @@ ferida: "vão me comprar de novo."
 ### Regra de Escrita
 
 NUNCA nomear a venda na prosa antes da hora da revelação — o tique (o pulso)
-deven ser sentido antes de entendido. A lição ("violência não salva") não pode
+deve ser sentido antes de entendido. A lição ("violência não salva") não pode
 ser enunciada pela Kate nem pelo narrador cedo; deve emergir da estrutura.
 Guardrail: Kate não pode virar abstração — a fissura é o pulso + a memória da
 venda.
