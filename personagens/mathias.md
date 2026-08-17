@@ -64,8 +64,11 @@ Devour.
 - Cap. 16: no comboio, prova a comida antes de Nolan; colhe o rumor do
   massacre na Estalagem do Vau
 - Cap. 25: mensageiro de Nolan (cartas a Koda e Layla)
-- Sub-semente: ouviu a oração "Eu Sou" — pode relatar a Nolan "um deus acima
-  do Limbo" (o click com a heresia do livro de Genocydo)
+- Sub-semente: ouviu a oração "Eu Sou" — relata a Nolan "um deus acima
+  do Limbo" em tom plano, militar, reinterrogado sem variação (a
+  confiabilidade dele é o peso do relato). O click é com a Bíblia de
+  Kraviam por categoria (um deus fora do Conselho — ver semente #10), não
+  por leitura do texto.
 
 ## Relações
 

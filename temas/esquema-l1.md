@@ -71,13 +71,13 @@ o **Recuperação do manto de xilomagia (decisão 2026-07-31):** Durante a fuga,
 
 o **Gancho da glossolalia (decisão 2026-07-31):** Kate, na fuga, lança a pergunta que abre o arco: **"com quem você estava falando?"** — ela ouviu Mário orar em ornickenho a "Eu Sou" (deus acima do Limbo), a primeira oração da vida dela a um deus que não cobra. Essa curiosidade tática move as conversas teológicas da jornada (ver `decisoes/glossolalia-invertida-oracao-cap19.md`).
 
-o **Nota de arco (falta de submissão):** Em toda a jornada, Mário não ora antes de pregar ou realizar milagres. Age por convicção intelectual, não por submissão. A Voz está em silêncio — e ele não a busca. Prega porque decidiu pregar. Cura porque aconteceu. O pecado do controle teológico opera aqui: ele age como se os resultados dependessem do seu entendimento, não da vontade de Deus.
+o **Nota de arco (falta de submissão):** Em toda a jornada, Mário não ora antes de pregar ou realizar milagres. Age por convicção intelectual, não por submissão. A Voz está em silêncio — e ele não a busca. Prega porque decidiu pregar. Cura porque aconteceu. O pecado do controle teológico opera aqui: ele age como se os resultados dependessem do seu entendimento, não da vontade de Deus. **(Canon 2026-08-16 — a agenda oculta):** por baixo do zelo, Mário prega para **provar que os dogmas dele estão certos** — buscando conversões como veredito. No limite, está tentando mostrar que **Deus está errado e ele certo**, sem verbalizar isso. A pregação é a acusação contra Deus (a inação na morte de Lucas) traduzida em tribunal: cada convertido, cada argumento que funciona, cada milagre-credencial é prova a favor da teologia dele e contra a seletividade de Deus. É a tentativa de resolver as coisas do JEITO ERRADO — o cap. 26 desnuda isso.
 
 o **A crise de Mário tem dois estratos:**
 
 1. **Teológico:** Ressuscitou um bebê. Sua teologia não previa aquilo. A Voz está em silêncio — como esteve durante quase toda a odisseia dele em Ornick (desde que chegou, passou pelos vampiros, foi capturado, esteve na jaula dos Daërunmege, fugiu). O silêncio só foi quebrado quando a Voz incitou a ação sobre Saboc — não como força bruta (Mário já aprendera a obedecer ao absurdo desde o cap. 2), mas como prompting que ele reconheceu e ao qual respondeu.
 
-2. **Íntimo/raivoso:** Mário processa a seletividade. A Voz **podia** ressuscitar — e ressuscitou um bebê que ele nem conhecia. Mas, na Terra, quando Lucas morreu na calçada, a Voz pediu que Mário agisse, ele hesitou, e nada aconteceu. O contraste é venenoso: "Você tinha o poder o tempo todo. Por que não usou quando eu mais precisei? Por que usou agora, por um garoto que não é meu, num mundo que não é o meu?" A Voz não responde. O silêncio dela agora ecoa como ausência deliberada.
+2. **Íntimo/raivoso:** Mário processa a seletividade. A Voz **podia** ressuscitar — e ressuscitou um bebê que ele nem conhecia. Mas, na Terra, quando o rapaz da cobrança de droga morreu na rua (cap. 1), a Voz pediu que Mário agisse, ele hesitou, e nada aconteceu. **(Correção 2026-08-16: NÃO é Lucas — a Voz nunca pediu que Mário agisse pelo irmão; a hesitação foi com o rapaz do cap. 1. Lucas é a sombra mais funda: a teologia construída DEPOIS, por culpa.)** **(Canon 2026-08-16, revisto — identificação irada):** o protesto de Mário culmina em "Você é Deus? Por que está sendo tão cruel comigo?" (eco de Jó); no cap. 20, Mário IDENTIFICA a Voz como Deus — não como confissão, mas como acusação; segura os dogmas como escudo e não ora. O cap. 26 desnuda essa raiva. O contraste é venenoso: "Você tinha o poder o tempo todo. Por que não usou quando eu mais precisei? Por que usou agora, por um garoto que não é meu, num mundo que não é o meu?" A Voz não responde. O silêncio dela agora ecoa como ausência deliberada.
 
 o **1º uso de raciocínio abdutivo:** Mário observa que os rampillas fazem ronda em intervalos regulares sincronizados com a respiração do líder — infere o momento exato de fuga. Kate resiste ("você não conhece esse mundo"). Lakand confirma o padrão. Escapam.
 
@@ -103,6 +103,19 @@ bebê que deveria estar morto está vivo** — ele carrega Saboc, e o choque do
 vivo interrompe o choque da morta. No caminho, Nolan arranca o **anel de
 prata** do dedo morto (cobrar a dívida) e vê os **rampillas congelarem
 inertes** quando Devour morre (a observação do vínculo).
+
+o **A misatribuição (canon 2026-08-16).** Antes da pista da vembra, a
+explicação de Nolan para a morte de Dagmar é a ideologia: a viagem por
+terras com humanos a contaminou — eco do pai, que contraiu doença de uma
+prostituta humana (origem da Segregação). O bebê vivo nos braços dele
+tensiona a leitura ("doença" não mata e revive), mas Nolan segura as duas
+molduras sem perceber a contradição: (A) "os humanos adoeceram minha
+esposa" + (B) "o Souhma trouxe meu filho de volta" — ambas apontam para o
+mesmo destino (controlar Mário). A pista de Mira (cheiro de vembra) vira
+nota privada que fermenta até o cap. 30. O leitor vê a cegueira antes
+dele (proteção do Risco 2). A verdade (cap. 30: Juleen, leviantar
+periférica) NÃO dissolve o ódio — cristalizado na misatribuição, ele
+sobrevive à correção (ver semente #6).
 
 o **A pira e o cairn (enterro simbólico — decisão 2026-08-06).** A manhã
 cinzenta: a torre dos aposentos colapsa; o corpo de Dagmar fica sob o
@@ -158,6 +171,19 @@ o **Mário é a resposta.** Nolan segura Saboc e entende: Mário pode curar o
 que a Segregação nunca curou. O sonho de uma Metrópole **sem doenças, sem
 segregação, sem crianças enterrando os pais** — é possível. Mas só se Mário
 estiver sob controle do Estado. Só se **Nolan** controlar o Estado.
+
+o **O click (canon 2026-08-16) — execução.** Mathias relata em tom plano,
+militar, reinterrogado sem variação ("O senhor o viu. Ele tocou a cabeça
+da criança e falou, e a criança respirou. Eu a segurei. Eu estava lá.") —
+a confiabilidade dele É o peso do relato. Mira é a segunda testemunha (viu
+nascer morto, vê vivo; estava no quarto do parto — verificável). O detalhe
+"um deus acima do Limbo" clica com a Bíblia de Kraviam por **categoria**
+(um deus fora do Conselho — ver semente #10); Nolan não lê o nome como
+leitura de livro — arquiva como classe de heresia. Nolan **não resolve a
+questão teológica**: arquiva "o deus acima do Limbo" como camada
+supersticiosa do relato e mantém como fato operativo "o bebê está vivo e o
+Souhma fez isso". A arquivagem é o mesmo erro de catálogo de Kate (milagre
+como asset) — o catálogo falhará (guardrail `conceitos/milagre.md`).
 
 o Ele reúne os rampillas de Devour e parte. **Não para matar Mário. Para
 possuí-lo.** Quer Mário como ferramenta de política pública — a prova viva
@@ -277,7 +303,14 @@ Eu as pus na sua boca") e (2) a **preservação na chegada** (caps. 2/4 — "a
 implosão despedaçou sua clavícula e colapsou seu pulmão; você acordou
 inteiro porque Eu te trouxe"). Mário resiste (cessacionismo teimoso), mas
 não tem resposta para o corpo inteiro. O silêncio da Voz depois pesa mais:
-agora ele sabe que o silêncio não é ausência.
+agora ele sabe que o silêncio não é ausência. **(Canon 2026-08-16, revisto —
+fim da moldura "delírio/esquizofrenia" sobre a Voz):** o corpo inteiro
+fecha o fio 1 (a Voz é real, não delírio privado); o fio 2 (a Voz é Deus)
+fecha JÁ no cap. 20 (identificação irada — Mário sabe de quem e responde
+com raiva). A função do cap. 26 muda: de "provar a identidade" para
+**desnudar a raiva** — a Voz confronta Mário com os dois argumentos de ação
+oculta e expõe que ele sabia de quem e mesmo assim segurou os dogmas como
+escudo, irado (eco de Jó). O fio 3 (o sonho é real) fecha no L2 (gravura).
 
 #### Capítulo 27 (PoV de Kate) — Reformulado
 

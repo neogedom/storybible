@@ -88,6 +88,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Charles](personagens/charles.md) — Lobisomem pragmático, caçador de Mário.
 - [Decian](personagens/decian.md) — Lobisomem curandeiro, sobrevivente de Opium.
 - [Devour](personagens/devour.md) — Lorde rampilla, governa a fortaleza de Devour.
+- [Juleen](personagens/juleen.md) — Aia de Dagmar, leviantar de casta baixa; administrou o chá de vembra que matou Dagmar e Saboc.
 - [Gaviorn'l](personagens/gaviornl.md) — Gornad, selo vivo de Hícse, mentor de Kate.
 - [Gunad Deltëra](personagens/gunad.md) — Músico, líder do Remanescente no L2.
 - [Koda Deltëra](personagens/koda.md) — Mestre da Moeda, espião de Alavria.

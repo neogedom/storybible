@@ -113,8 +113,17 @@ resultado é devido. Aqui, o custo **não compra** o milagre e o milagre
   ornickenho deveria ter vocábulo para isso — para eles é "impossível",
   "o que não existe", "mentira". A ausência de palavra nativa é parte da
   doutrina: a graça não cabe na língua do comércio.
-- Mário, no L1, NÃO atribui identidade divina à Voz (lê como "o delírio").
-  A narração no POV dele deve usar a leitura dele.
+- Mário, nos caps. 0-19, NÃO atribui identidade divina à Voz (lê como
+  "o delírio"). **A partir do cap. 20 (canon 2026-08-16, revisto)**, ele
+  IDENTIFICA a Voz como Deus — identificação irada (sabe de quem, responde
+  com raiva, não com confissão). A narração no POV dele segue a leitura
+  dele em cada estágio.
+- **Cap. 20 (canon 2026-08-16, revisto)**: a categoria "delírio" estala
+  diante da ressurreição — Mário IDENTIFICA a Voz como Deus no cap. 20
+  (identificação irada: sabe de quem, responde com raiva, não com
+  confissão; segura os dogmas como escudo e não ora). A narração segue o
+  POV dele: renderiza a identificação como acusação, nunca como devoção. O
+  cap. 26 desnuda a raiva (eco de Jó).
 - Kate arquiva o milagre como "poder" — leitura intencionalmente errada que
   a história deve frustrar (ver Riscos).
 

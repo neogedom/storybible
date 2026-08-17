@@ -1,5 +1,130 @@
 # Log de Atualizações
 
+## 2026-08-16 (canon — ódio racial de Nolan: cristaliza na misatribuição, não na verdade)
+
+- **Resolução da pergunta do autor (semente #6)**: o ódio racial de Nolan
+  (L2, "agora pessoal") cristaliza na MISATRIBUÇÃO (caps. 18-25 — os humanos
+  mataram Dagmar), não na descoberta do cap. 30. A verdade (Juleen,
+  leviantar de casta baixa dos burgos periféricos) NÃO dissolve o ódio:
+  luto sem fechamento; ódio sobrevive à justificativa (cena do cap. 30
+  mostra o "não foram os humanos" redirecionando, não abrandando); classe
+  absorve raça (a periferia é impura, humana ou leviantar). Juleen
+  permanece leviantar — humana validaria a Segregação.
+- **Arquivos**: `temas/sementes.md` (#6), `temas/esquema-l1.md` (cap. 21),
+  `log.md`.
+
+## 2026-08-16 (canon — caps. 21-25: agenda oculta de Mário — provar os dogmas)
+
+- **Agenda oculta (canon)**: nos Jogos (caps. 21-25), Mário prega buscando
+  conversões, mas o motor é **provar que os dogmas dele estão certos** — no
+  limite, que **Deus está errado e ele certo**, sem verbalizar. A pregação é
+  a acusação contra Deus (inação na morte de Lucas) em forma de tribunal;
+  cada convertido é um veredito. Tentativa de resolver as coisas do JEITO
+  ERRADO — o cap. 26 desnuda isso.
+- **Registrado em**: `temas/esquema-l1.md` (nota de arco do cap. 20),
+  `temas/sementes.md` (#10), `personagens/mario.md`, `log.md`.
+
+## 2026-08-16 (canon revisto — cap. 20: identificação irada; função do cap. 26 muda)
+
+- **Decisão do autor (comentário do lote)**: Mário IDENTIFICA a Voz como Deus
+  JÁ no cap. 20 — não como confissão, mas como acusação (eco de Jó). A Voz
+  permanece em silêncio até o cap. 26, que passa a desnudar a raiva.
+- **Cap. 20 reescrito**: oscilação → identificação irada (a palavra "É Deus"
+  pousa; a resposta é raiva pela inação na morte de Lucas; segura os dogmas
+  como escudo e não ora); final → "sabia de quem; o que não sabia era como
+  continuar falando com ele" + "a raiva contra Deus".
+- **Canon atualizado**: estado intermediário (2026-08-16) REVERTIDO para
+  identificação irada em `personagens/mario.md`, `conceitos/milagre.md`,
+  `temas/sementes.md` (#10), `temas/esquema-l1.md` (caps. 20 e 26).
+- **Efeito sanfona revisto**: deixar de orar vira recusa irada, não cegueira
+  cessacionista; Mário continua fazendo o que a teologia manda sem a relação.
+- **Arquivos**: `Livro 1/capitulo20.md`, `personagens/mario.md`,
+  `conceitos/milagre.md`, `temas/sementes.md`, `temas/esquema-l1.md`,
+  `log.md`.
+
+## 2026-08-16 (lote de comentários do autor — cap. 20: protesto sobre Lucas; culminação Jó; delírio sem 'por culpa')
+
+- **Delírio**: removido "por culpa" (Mário ainda não pode nomear o caco de
+  vidro — a teologia foi construída por culpa, mas ele não sabe disso).
+- **Acusação reescrita**: o protesto agora é contra a INação da Voz na morte
+  de Lucas (não o garoto do cap. 1); "a fé nunca foi necessária, então não
+  foi a minha fé que faltou para o Lucas: você podia ter agido, e não agiu";
+  culmina em "Você é Deus? Por que está sendo tão cruel comigo? Não parece
+  justo." (eco de Jó).
+- **Final do cap. 20**: a pergunta suprimida deixou de ser "quem é você?"
+  (já gritada na acusação) e virou "o nome que ele não conseguia dizer em
+  oração".
+- **Canon novo (mario.md)**: frieza de Mário com pais/irmã após Lucas (no
+  fundo, os culpa por terem deixado Lucas entrar nas drogas); beira da
+  apostasia no cap. 20, mas é eleito — não vai até o fim; eco de Elias e Jó.
+- **PENDENTE (decisão do autor)**: comentário sobre Mário identificar Deus
+  com a Voz JÁ no cap. 20 (reverteria o estado intermediário registrado em
+  2026-08-16). Não aplicado — aguarda decisão; afeta a oscilação, o final e
+  a função do cap. 26.
+- **Arquivos**: `Livro 1/capitulo20.md`, `personagens/mario.md`, `log.md`.
+
+## 2026-08-16 (correção — delírio do cap. 20: Lucas ≠ rapaz do cap. 1)
+
+- **Erro corrigido (canon)**: o delírio do cap. 20 e as notas do esquema
+  (cap. 20) e da ficha do Mário conflavam a morte de Lucas com a cena do
+  cap. 1 (a cobrança de dívida de droga). Correção: a hesitação/recusa da
+  Voz foi com o RAPAZ da rua (cap. 1 — "não há protocolo para milagres");
+  a Voz NUNCA pediu que Mário agisse por Lucas, Mário não viu o corpo do
+  irmão, e Lucas morreu ANTES do castelo de dogmas (a teologia foi
+  construída depois, por culpa). A sombra de Lucas = inadequação, não
+  recusa.
+- **Cap. 20 corrigido**: delírio reescrito (o rapaz da cobrança morre nos
+  braços de Mário, "valeu... por tentar"; o rosto dele vira o de Lucas no
+  eco da droga); acusações "com o Lucas, você pediu" → "com aquele rapaz".
+- **Arquivos**: `Livro 1/capitulo20.md`, `temas/esquema-l1.md`,
+  `personagens/mario.md`, `log.md`.
+
+## 2026-08-16 (canon — cap. 26: fim da moldura de esquizofrenia sobre a Voz; correção de confluência)
+
+- **Cap. 26 (canon)**: confirmado como o momento em que o fio 1 fecha —
+  Mário deixa de ler a Voz como delírio privado (o corpo inteiro como prova
+  externa); o fio 2 (a Voz é Deus) segue aberto (cessacionismo); o fio 3
+  (o sonho é real) fecha no L2 (gravura). Registrado em
+  `temas/esquema-l1.md` (cap. 26), `personagens/mario.md`,
+  `conceitos/milagre.md`.
+- **Correção (mesma confluência)**: no cap. 20, a passagem do recuo de
+  identificação dizia "um irmão na calçada" — corrigido para "um rapaz
+  na calçada" (o cap. 1, não Lucas).
+- **Arquivos**: `Livro 1/capitulo20.md`, `temas/esquema-l1.md`,
+  `personagens/mario.md`, `conceitos/milagre.md`, `log.md`.
+
+## 2026-08-16 (canon — cap. 20: estado intermediário da Voz; Nolan × Dagmar; click da Bíblia; Juleen)
+
+- **Cap. 20 (Livro 1) — agência total + estado intermediário**: a lembrança
+  febril passa a cobrir a cadeia inteira da Voz (pergunta, ordem, mão,
+  toque, oração — "nada tinha sido dele"); a acusação ganha "Eu nunca fui
+  necessário"; inserido o recuo de identificação em estado intermediário
+  ("É Deus... não pode ser... o Deus que eu conheço não age assim... não
+  sei o que pensar") por custo volicional (jogar fora o castelo de dogmas);
+  a pergunta suprimida do final agora é explícita ("quem é você?").
+  Preserva a germinação do cap. 26 (a Voz confronta exatamente a
+  resistência).
+- **Nolan × Dagmar (canon)**: entre o cap. 18 e a pista da vembra (cap.
+  21), a explicação de Nolan é a ideologia — contato com humanos na viagem
+  (eco do pai, prostituta humana; origem da Segregação). Misatribuição
+  cristaliza o ódio racial do L2; a verdade (Juleen) inverte a Segregação:
+  o inimigo estava dentro. `temas/sementes.md` #6, `temas/esquema-l1.md`
+  (cap. 21), `personagens/nolan.md`.
+- **Click do cap. 21 (canon)**: com a Bíblia de Kraviam (o "livro de
+  Genocydo"), por CATEGORIA (um deus fora do Conselho), não por leitura —
+  Nolan não lê a Bíblia (cap. 13). Distinguido do diário (semente #15).
+  Execução: Mathias plano + reinterrogação; Mira como 2ª testemunha; Nolan
+  arquiva a teologia (erro de catálogo = Kate). `temas/sementes.md` #10,
+  `temas/esquema-l1.md`, `personagens/mathias.md`.
+- **Juleen (canon)**: aia de Dagmar, leviantar de casta baixa dos burgos
+  periféricos (não humana — a inversão temática exige). Ficha criada em
+  `personagens/juleen.md`.
+- **Mário (canon)**: estado intermediário registrado na ficha e no
+  `conceitos/milagre.md` (POV: renderiza a oscilação, nunca confirma).
+- **Arquivos**: `Livro 1/capitulo20.md`, `temas/sementes.md`,
+  `temas/esquema-l1.md`, `personagens/{juleen,mario,nolan,mathias}.md`,
+  `conceitos/milagre.md`, `index.md`, `log.md`.
+
 ## 2026-08-15 (canon — Genocydo/Kraviam: Química, cristão nominal, língua)
 
 - **Formação e língua de Kraviam (canon)**: instruído em **Química na Terra**

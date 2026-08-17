@@ -87,6 +87,24 @@ timestamp: 2026-07-24T12:00:00-03:00
   Nolan o cheiro de vembra na senhora; Nolan anota mentalmente. NÃO é o
   "rampilla esperto" (autômatos não falam — ver `conceitos/rampillas.md`)
 - **Plantio 4**: L1, Cap. 30 — Nolan descobre, enforca Juleen
+- **Misatribuição inicial (canon 2026-08-16)**: entre o cap. 18 (morte) e a
+  pista da vembra (cap. 21), a explicação operativa de Nolan é a ideologia:
+  Dagmar morreu pelo contato com humanos na viagem (eco do pai, que
+  contraiu doença de prostituta humana — origem da Segregação). A pista de
+  Mira (cap. 21) vira nota privada que fermenta até o cap. 30. Ver cap. 21
+  do esquema.
+- **Ódio racial: cristaliza na MISATRIBUÇÃO, não na verdade (canon
+  2026-08-16)**: é o período da crença falsa (caps. 18-25) que torna o ódio
+  racial de Nolan PESSOAL ("agora pessoal" do L2) — os humanos mataram a
+  esposa, como o pai. A descoberta do cap. 30 (Juleen, leviantar de casta
+  baixa dos burgos periféricos) NÃO dissolve o ódio: (a) o luto fica sem
+  fechamento (solo do ódio — cap. 21); (b) ódio sobrevive à própria
+  justificativa — a cena do cap. 30 deve mostrar o "não foram os humanos"
+  sem abrandar Nolan, apenas redirecionando-o; (c) a classe absorve a raça:
+  Juleen é da PERIFERIA (o mesmo espaço de contágio do pai, cidades
+  pré-Metrópole), e Nolan já despreza tudo fora do núcleo da Metrópole
+  (cap. 3) — a periferia é impura, humana OU leviantar de casta baixa. A
+  "inimiga estava dentro" NÃO reforma Nolan: o confirma na paranoia.
 - **Germinação**: L2 — Ódio racial de Nolan, agora pessoal
 
 ## 7. Nolan e o Controle dos Rampillas
@@ -142,8 +160,22 @@ timestamp: 2026-07-24T12:00:00-03:00
   Voz. Nomeia "Eu Sou" (deus acima do Limbo), recusa oferta, pede
   misericórdia. Kate ouve e entende.
 - **Fio 2**: L1, Cap. 20 — Kate pergunta "com quem você estava falando?"
-- **Arco**: Efeito sanfona — Mário lembra de orar, mas deixa de orar ao ver
-  os argumentos funcionarem sem oração (cessacionismo teimoso).
+- **Arco (canon 2026-08-16, revisto)**: efeito sanfona — Mário identifica
+  a Voz como Deus no cap. 20 (identificação irada), mas deixa de orar: não
+  por cegueira cessacionista, mas por **recusa irada** (a inação de Deus na
+  morte de Lucas). Continua fazendo o que a teologia manda (pregar,
+  argumentar) sem a relação — o paradoxo de quem está com raiva de Deus e
+  obedece à forma. **E prega com uma AGENDA OCULTA (canon 2026-08-16):**
+  provar que os dogmas dele estão certos e, no limite, que Deus está errado
+  e ele certo — sem verbalizar. Cada conversão é um veredito contra Deus; o
+  cap. 26 desnuda isso.
+- **Cap. 20 (canon 2026-08-16, revisto) — identificação irada**: após a
+  ressurreição, Mário IDENTIFICA a Voz como Deus — a lógica o obriga, e a
+  palavra pousa ("É Deus"). Mas a identificação não é confissão: é
+  acusação. Ele sabe de quem, e a resposta é raiva (a inação na morte de
+  Lucas). Segura os dogmas como escudo para não encarar a relação (não
+  ora). O cap. 26 desnuda essa raiva (eco de Jó): a Voz confronta não a
+  resistência à identidade, mas a raiva de quem já sabia.
 - **Germinação (local: a noite do cap. 26, junto ao hino — mantido;
   reavaliar ao escrever)**: a Voz confronta Mário e assume a autoria da
   glossolalia como
@@ -155,11 +187,19 @@ timestamp: 2026-07-24T12:00:00-03:00
   preservação: "você chegou inteiro porque Eu te trouxe; Eu agia quando você
   não sabia". O contraste com **Kraviam** (que chegou FERIDO, sem
   intervenção) sustenta o argumento: o verdadeiro Souhma foi preservado, o
-  falso não. A conversa ataca o **cessacionismo teimoso** de Mário: ele
-  assume que Deus está ausente porque não PERCEBE a ação — mas a ação
-  aconteceu sem o conhecimento dele.
+  falso não. A conversa desnuda a **raiva** de Mário (eco de Jó): ele identificou a
+  Voz como Deus no cap. 20 (identificação irada), ficou irado pela inação
+  na morte de Lucas e segurou os dogmas como escudo — mas não percebeu a
+  ação contínua (fluência, preservação). O silêncio não era ausência.
 - **Sub-semente**: Mathias relata a Nolan "um deus acima do Limbo" — o
-  _click_ com a heresia do livro de Genocydo.
+  _click_ com a **Bíblia de Kraviam** (o "livro de Genocydo"; cap. 13). O
+  click é de **categoria**, não de leitura: Nolan não consegue ler a Bíblia
+  (cap. 13: "ninguém reconhece a língua") — ele reconhece a heresia "um
+  deus fora da fileira do Conselho" pela procedência do livro e pela
+  estrutura do panteão (Llyfr, cap. 6). "Eu Sou" é o detalhe de Mathias; o
+  que Nolan arquiva é a classe da reivindicação. NÃO confundir com o diário
+  de Genocydo (semente #15) — fios distintos; o padrão completo (Kraviam =
+  terráqueo) só fecha no cap. 31+.
 - **Nota**: Texto canônico e justificativa em
   `decisoes/glossolalia-invertida-oracao-cap19.md`.
 

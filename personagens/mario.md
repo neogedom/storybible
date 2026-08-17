@@ -42,6 +42,11 @@ Ver timeline visual completa em [visuais/mario.md](/visuais/mario.md).
 - Busca desesperadamente um sentido para o que está acontecendo
 - Sua fé emerge da experiência, não da doutrina — ele não sabe o que crê até
   ser forçado a crer
+- **Beira da apostasia (canon 2026-08-16)**: no cap. 20, Mário beira a
+  apostasia — irado com Deus pela inação na morte de Lucas — mas é eleito:
+  não vai até o fim, e continua fazendo o que a teologia manda (pregar), no
+  paradoxo de estar com raiva de Deus e mesmo assim obedecer à forma. Eco de
+  Elias e Jó.
 
 ## Persona — voz e origem (canon 2026-08-15; refinado 2026-08-15)
 
@@ -76,12 +81,19 @@ Ver timeline visual completa em [visuais/mario.md](/visuais/mario.md).
   errado e não teria morrido.
 - **Consequência**: a culpa o levou ao estudo obsessivo de teologia —
   tornou-se teologicamente competente (e arrogante).
+- **Frieza com a família (canon 2026-08-16)**: a morte de Lucas deixou Mário
+  mais frio com os pais e a irmã (Camilla) — no fundo, também os culpa por
+  terem deixado Lucas entrar no mundo das drogas.
 - **Função no L1**: a morte de Lucas é a sombra do milagre do bebê (caps.
-  19-20) — a Voz agiu sem a fé de Mário onde, com Lucas, ele hesitou
-  ("Precisava entender antes de agir").
+  19-20). **(Correção 2026-08-16)**: a hesitação ("Precisava entender antes
+  de agir") foi com o RAPAZ da cobrança de droga (cap. 1), NÃO com Lucas —
+  a Voz nunca pediu que Mário agisse pelo irmão, e Mário não viu o corpo
+  dele. Lucas morreu antes do castelo de dogmas (a teologia foi construída
+  DEPOIS, por culpa) — a sombra dele é a inadequação, não a recusa.
 - **Nota de escrita**: não é dramatizado em nenhum capítulo ainda — é
-  backstory a ser usado com moderação (delírios do cap. 20; possível
-  confissão futura).
+  backstory a ser usado com moderação (delírios do cap. 20: Lucas entra
+  como eco do rapaz da calçada, o irmão que morreu de droga — NUNCA como
+  cena de recusa da Voz; possível confissão futura).
 
 ## Teologia de Mário — idioma reformado (canon 2026-08-10)
 
@@ -149,6 +161,24 @@ o torna inescapável.
 > Decian...) ou em fala deles. Se Mário um dia usar "ornickenho", precisa ter
 > aprendido o nome antes — senão é vazamento. (Corrigido no cap. 12: "língua
 > ornickenha" → "a língua deles".)
+
+- **Cap. 20 (canon 2026-08-16, revisto — identificação irada)**: após a
+  ressurreição, Mário IDENTIFICA a Voz como Deus — a lógica o obriga (só
+  quem cria ressuscita), e a palavra pousa ("É Deus"). Mas a identificação
+  não é confissão: é acusação. Ele sabe de quem, e a resposta é raiva (a
+  inação na morte de Lucas) — beirando a apostasia, mas é eleito: não vai
+  até o fim e continua fazendo o que a teologia manda. Segura os dogmas
+  como escudo para não encarar a relação (não ora). O cap. 26 desnuda essa
+  raiva (eco de Jó); a Voz fica em silêncio até lá. **Fechamento dos fios
+  (canon 2026-08-16, revisto):** fio 1 (a Voz é real) fecha no cap. 20
+  (corpo inteiro); fio 2 (a Voz é Deus) fecha no cap. 20 (identificação
+  irada); fio 3 (o sonho é real) fecha no L2 (gravura).
+- **Jogos (caps. 21-25, canon 2026-08-16) — agenda oculta**: Mário prega
+  buscando conversões, mas o motor é provar que os dogmas dele estão certos
+  — no limite, que Deus está errado e ele certo, sem verbalizar. A pregação
+  é a acusação contra Deus (a inação na morte de Lucas) em forma de
+  tribunal: cada convertido é um veredito. É a tentativa de resolver as
+  coisas do jeito errado; o cap. 26 desnuda isso.
 
 ## Capítulo 19 — O Bebê
 

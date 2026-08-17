@@ -160,6 +160,13 @@ são as premissas.
   encontra a raiz-mestra e passa a controlar os rampillas sobreviventes
   (~uma dezena). Reúne-os e parte atrás de Mário — não para matá-lo, para
   possuí-lo.
+- **Cap. 21 (canon 2026-08-16) — misatribuição**: antes da pista da vembra,
+  a explicação de Nolan para a morte de Dagmar é a ideologia (contato com
+  humanos na viagem — eco do pai, prostituta humana). Segura as duas
+  molduras sem ver a contradição: "os humanos adoeceram minha esposa" +
+  "o Souhma trouxe meu filho de volta". A pista de Mira vira nota privada
+  até o cap. 30. O click com a Bíblia de Kraviam é de categoria (um deus
+  fora do Conselho), não de leitura.
 
 _Atualizado a cada INGEST de capítulo._
 
