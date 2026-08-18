@@ -33,6 +33,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: fogo do incêndio, fumaça rente ao teto
 - Fundo: corredor do calabouço em chamas
 
+## Capítulo 20 — A Fuga
+
+- Forma: híbrida atenuada (mais homem do que fera; ainda fareja e vigia como
+  predador)
+- Pelagem: chamuscada do fogo (ch19)
+- Expressão: alerta; "tom de luto" ao ver Saramant queimar; tensão silenciosa
+  com Kate (dívida do ch19)
+- Iluminação: clarão do incêndio → floresta/cinza
+- Fundo: perímetro do castelo em chamas; cabana de Kate
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

@@ -1,5 +1,16 @@
 # Log de Atualizações
 
+## 2026-08-17 (canon — cap. 20 fechado; manto visto pelo POV; trecho movido p/ cap. 22; sync da mecânica da Voz)
+
+- **Manto de Tharin (POV)**: cena do cap. 20 reescrita — Mário, dono do PoV, não viu o enterro (cap. 5, POV Kate); agora ELE VÊ Kate desenterrar a cova do mocambo queimado e tirar o manto dos ombros do corpo de Tharin (pragmatismo sem culpa). Resolve a dúvida do autor sobre o manto "enterrado sozinho" — o manto estava COM Tharin (ver `decisoes/manto-xilomagia-tharin.md`).
+- **Trecho do amanhecer/Mina MOVIDO do cap. 20**: cap. 20 termina em "E adormeceu." (fecho no protesto/Jó). O trecho (riacho, mãos, pitch da Mina) vai para a abertura de um capítulo depois do 21 (o 21 é POV Nolan) — salvo em `Livro 1/rascunho-capitulo22.md`; POV a decidir (Mário ou Kate — o pitch é o plano dela, ironia dramática).
+- **"não conseguiu transformar em oração" descartado**: Mário não oraria nessa situação (está irado com Deus); a linha atual ("transformou o pouco de suas forças em lágrimas secas, em silêncio, em febre") é mais coerente.
+- **Parágrafo do controle teológico removido** ("O controle era o vício dele") — autor: explicava demais; Mário ainda não pode nomear o caco; a acusação de Jó opera sem autoconsciência.
+- **Identificação de Deus confirmada (fecha pendente 2026-08-16)**: Mário reconhece a Voz como Deus no cap. 20 (prova inequívoca: orou + ressuscitou) e responde com RAIVA. No cap. 26, a Voz dá a "enquadrada" em Mário por causa dessa raiva (confronto com os dois argumentos de ação oculta — ver `temas/esquema-l1.md` cap. 26).
+- **Sync da mecânica da Voz (fecha pendentes anteriores)**: `decisoes/glossolalia-invertida-oracao-cap19.md` (Mecânica da Voz → ditado na mente + própria voz, sem possessão; distinção do cap. 12), `capitulos/capitulo-12.md` (fluência habilitada, não possessão), `capitulos/capitulo-19.md` (Mário LEMBRA do ditado; testemunha consciente).
+- **Arquivos**: `Livro 1/capitulo20.md`, `Livro 1/rascunho-capitulo22.md`, `decisoes/glossolalia-invertida-oracao-cap19.md`, `capitulos/capitulo-12.md`, `capitulos/capitulo-19.md`, `log.md`.
+- **Mini-INGEST cap. 20 (2026-08-17)**: `capitulos/capitulo-20.md` criado; visuais Mário/Kate/Lakand atualizados; tabela do esquema atualizada; fronteira p/ cap. 21 (Nolan) ok.
+
 ## 2026-08-16 (canon — ódio racial de Nolan: cristaliza na misatribuição, não na verdade)
 
 - **Resolução da pergunta do autor (semente #6)**: o ódio racial de Nolan

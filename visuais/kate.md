@@ -80,6 +80,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: fresta de luz cinzenta no alto da cela → clarão do incêndio
 - Fundo: cela de terra batida com palha podre; grades de ferro enferrujadas
 
+## Capítulo 20 — A Fuga
+
+- Roupas: couro de caçadora, sujo de cinza e terra (fuga pelo incêndio)
+- Acessórios: faca de caça; **NOVO — manto de xilomagia de Tharin** (anéis de
+  madeira) sobre os ombros, recuperado do corpo dele
+- Ferimentos: ombro direito (arranhões de rampilla, ch19)
+- Sujeira: cinza do incêndio; terra da cova nas mãos
+- Expressão: pragmatismo puro (tira o manto do morto sem culpa) → cálculo;
+  curiosidade tática (gancho da glossolalia)
+- Iluminação: carvão/cinza da cabana
+- Fundo: mocambo queimado; cova aberta
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

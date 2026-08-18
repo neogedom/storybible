@@ -91,6 +91,19 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: penumbra do calabouço
 - Fundo: cela de terra batida com palha podre
 
+## Capítulo 20 — A Crise da Voz
+
+- Roupas: camiseta manchada de fuligem e sangue (das fugas) — coberta de cinza
+  do incêndio
+- Ferimentos: **braço direito** (ferida infectada, febre alta); exaustão
+- Acessórios: sem óculos
+- Sujeira: fuligem, cinza e terra na pele e no cabelo (ainda sem banho — o
+  riacho é do cap. 22)
+- Expressão: torpor febril → clareza do abdutivo → raiva contra Deus
+  (identificação irada)
+- Iluminação: clarão do incêndio (noite) → carvão/cinza da cabana → escuridão
+- Fundo: floresta em chamas; mocambo queimado; teto de carvão da cabana
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

@@ -11,8 +11,10 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Resumo
 
-Mário é arrastado pela floresta, amarrado. A **Voz** força sua garganta a
-falar **ornickenho** — primeira vez que ele fala a língua nativa. Charles
+Mário é arrastado pela floresta, amarrado. A **Voz** habilita sua fluência
+em **ornickenho** — primeira vez que ele fala a língua nativa. Ele ouve a
+própria voz; a língua entra nele sem como arrancar (dom permanente, sem
+possessão). Charles
 confirma que a "descrição do decreto" bate.
 
 Charles revela a motivação dos daërunmeges: criados por **Mesmia** como
@@ -42,7 +44,7 @@ sujar as mãos de sangue?"_ — primeiro fio de conexão entre eles.
 
 ## Eventos-chave
 
-1. ✅ Mário fala ornickenho pela 1ª vez (forçado pela Voz)
+1. ✅ Mário fala ornickenho pela 1ª vez (fluência habilitada pela Voz)
 2. ✅ Charles confirma: "a descrição do decreto bate"
 3. ✅ Charles revela: daërunmeges foram criados como cães de caça e descartados
 4. ✅ Chegam ao acampamento — dezenas de lobisomens
@@ -74,7 +76,9 @@ sujar as mãos de sangue?"_ — primeiro fio de conexão entre eles.
 
 ## Notas de INGEST
 
-- A Voz força Mário a falar ornickenho — ele não escolheu, foi possuído.
+- A Voz habilita a fluência de Mário em ornickenho — ele não escolheu o
+  dom, mas não é possessão: ouve a própria voz, e a língua entra nele sem
+  como arrancar.
 - Kenod menciona "Inquiridores" como potenciais compradores — conecta com
   o cap. 2 (Inquiridor atirou em Mário) e cap. 0 (Inquiridores mobilizados).
 - Lakand está exausto — retornou de patrulha, mas também há um cansaço

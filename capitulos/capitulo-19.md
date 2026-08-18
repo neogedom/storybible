@@ -55,8 +55,10 @@ O bebê tosse, volta a respirar e chora.
 
 Kate OUVE e ENTENDE as palavras — a primeira oração da vida dela a um deus
 que não cobra. Fica com a pergunta que abrirá o cap. 20: **"com quem você
-estava falando?"**. Mário não lembrará de ter orado; a Voz assume a autoria
-da glossolalia como instrumento de testemunho.
+estava falando?"**. Mário **lembra** que repetiu, palavra por palavra, a
+oração que a Voz ditou na mente dele; não compôs, apenas repetiu com a
+própria voz. A Voz assume a autoria; Mário é testemunha consciente do
+próprio milagre.
 
 Kate presencia o impossível. Repete "Eu vi um bebê morto. Agora está vivo.
 Isso não existe" até a frase perder o sentido. Seu mundo de regras causais
@@ -114,7 +116,8 @@ Mas vai usar.
 - Febril, desmaiado, semi-inconsciente (infecção no braço direito)
 - A voz age **através** dele: "O que aconteceu com o bebê?" / "Traga ele
   aqui." / "Traga. Por favor." — como se repetisse algo que ouviu
-- Não sabe o que fez — o milagre acontece sem consentimento consciente
+- Sabe que repetiu o que a Voz ditou, mas não decidiu compor — o milagre
+  acontece sem consentimento consciente
 - Física: febre, ferida no braço direito, exaustão; arrasta-se até a grade
   para estender a mão sobre a criança
 
@@ -185,8 +188,9 @@ Mas vai usar.
    não sabe. Semente para o cap. 21 (Nolan segura o filho nos braços).
 4. **Manto de xilomagia de Tharin**: A recuperar no cap. 20 — Kate o
    desenterrará para usar como camuflagem na jornada (ver `decisoes/`).
-5. **Mário não sabe o que fez**: A crise teológica do cap. 20 ("Por que este
-   bebê e não Lucas?") está preparada — a Voz agiu sem o consentimento dele.
+5. **Mário sabe que repetiu, mas não compôs**: A crise teológica do cap. 20
+   ("Por que este bebê e não Lucas?") está preparada — a Voz agiu sem o
+   consentimento consciente dele (ele repetiu o que foi ditado).
 6. **Glossolalia invertida**: A oração "Eu Sou" em ornickenho (ditada pela
    Voz) é ouvida e entendida por Kate. A pergunta "com quem você estava
    falando?" abre o cap. 20 e move a curiosidade dela na jornada até a Mina.

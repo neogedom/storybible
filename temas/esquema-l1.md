@@ -37,6 +37,7 @@ timestamp: 2026-07-25T12:00:00-03:00
 | 17       | Debate (~33-35%)                    | Kate         | `capitulos/capitulo-17.md` |
 | 18       | Break Into 2 (~35-38%)              | Nolan        | `capitulos/capitulo-18.md` |
 | 19       | Break Into 2 (~38-40%)              | Kate         | `capitulos/capitulo-19.md` |
+| 20       | Jogos e Diversão (~38-40%)         | Mário        | `capitulos/capitulo-20.md` |
 
 ---
 

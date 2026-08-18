@@ -44,11 +44,19 @@ de Mário (para usá-lo como arma).
 5. **Sem doutrina em voz alta**: proibido "Jesus/cruz/salvação" na oração.
    Mário clama, não prega.
 
-## Mecânica da Voz
+## Mecânica da Voz (canon 2026-08-17 — ditado na mente, sem possessão)
 
-- Mário **repete** a oração ditada (mecanismo do cap. 12: mandíbula forçada,
-  língua roubada, fluidez que o aterrorizou). Não é novo dom — é o mesmo
-  prompting involuntário.
+- Mário **repete** a oração **ditada na mente** pela Voz: ouve as palavras
+  dentro da cabeça, entende-as (auto-tradução do cap. 4) e as devolve com a
+  **própria voz**. A boca, o fôlego e a voz são dele; as palavras, não. O
+  prompting é involuntário (a compulsão de falar não parte dele), mas o
+  proferir é seu.
+- **Distinção do cap. 12 (canon 2026-08-17)**: o cap. 12 NÃO é possessão —
+  a Voz **habilita a fluência** de Mário em ornickenho (dom permanente; a
+  língua entra nele "sem como arrancar", e ele ouve a própria voz). Daí em
+  diante, a fluência é dele; o que a Voz fornece é o CONTEÚDO (ex.: a
+  oração do cap. 19). O "mecanismo do cap. 12" não é mais "mandíbula
+  forçada, língua roubada".
 - A tradução automática dele (cap. 4) permanece canônica — ele entende o que
   balbucia, mas não decidiu compor.
 
@@ -70,8 +78,8 @@ de Mário (para usá-lo como arma).
 - Em algum momento adiante, a **Voz confronta Mário** e assume a autoria da
   "glossolalia" como instrumento para **testificar de Deus** aos ornickenhos.
 - Isso dá peso à oração do cap. 19 e conecta a crise do cap. 20 ("Por que
-  este bebê e não Lucas?") ao subtexto: *"e eu nem lembro de ter orado por
-  ele"*.
+  este bebê e não Lucas?") ao subtexto: *"eu repeti sem escolher as
+  palavras, e ainda assim ele me cobra"*.
 
 ## Semente — Mathias e Nolan
 
@@ -83,7 +91,7 @@ de Mário (para usá-lo como arma).
 ## Conexões
 
 - [Cap. 19](/capitulos/capitulo-19.md)
-- [Cap. 12](/capitulos/capitulo-12.md) — mecanismo da Voz (língua roubada)
+- [Cap. 12](/capitulos/capitulo-12.md) — mecanismo da Voz (fluência habilitada, sem possessão)
 - [Cap. 4](/capitulos/capitulo-04.md) — tradução automática
 - [Cosmologia](/conceitos/cosmologia.md) — hierarquia do Conselho Divino
 - [Kate](/personagens/kate.md)
