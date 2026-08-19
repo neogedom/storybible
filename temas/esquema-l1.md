@@ -112,9 +112,9 @@ prostituta humana (origem da Segregação). O bebê vivo nos braços dele
 tensiona a leitura ("doença" não mata e revive), mas Nolan segura as duas
 molduras sem perceber a contradição: (A) "os humanos adoeceram minha
 esposa" + (B) "o Souhma trouxe meu filho de volta" — ambas apontam para o
-mesmo destino (controlar Mário). A pista de Mira (cheiro de vembra) vira
-nota privada que fermenta até o cap. 30. O leitor vê a cegueira antes
-dele (proteção do Risco 2). A verdade (cap. 30: Juleen, leviantar
+mesmo destino (controlar Mário). A pista da vembra (Mira) só chega no
+cap. 25 e vira nota privada que fermenta até o cap. 30. O leitor vê a
+cegueira antes dele (proteção do Risco 2). A verdade (cap. 30: Juleen, leviantar
 periférica) NÃO dissolve o ódio — cristalizado na misatribuição, ele
 sobrevive à correção (ver semente #6).
 
@@ -155,14 +155,6 @@ controle dos rampillas. Subtexto: herdeiro despojado — serviu a Devour,
 obedece a Nolan por sobrevivência, não por lealdade (tensão a explorar).
 **Gancho (semente #13)**: Ossan pode revelar o que os rampillas foram —
 gente zumbificada; a verdade cai como reconhecimento frio, não sermão.
-
-o **A semente do veneno (decisão 2026-08-06 — parteira, não rampilla).** A
-parteira-ama, que conhece ervas (casca de vembra é abortivo), comenta
-cautelosamente: "a senhora cheirava a vembra, senhor." Nolan **anota
-mentalmente**. A revelação de Juleen fica no cap. 30 (sementes #6). NOTA de
-coerência: rampillas são autômatos sem consciência individual — não podem
-"comentar"; a testemunha do cheiro tem de ser humana (ver
-`conceitos/rampillas.md`).
 
 o **O pai de Nolan.** A lembrança vem sem aviso: o pai tossindo sangue num
 quarto separado. A Segregação foi a resposta de Nolan à impotência de ver o
@@ -276,11 +268,24 @@ o Kate toma a decisão: manter Mário vivo e funcionando até que ele inspire o 
 
 o **Confirmação do milagre.** Nolan alcança o rastro de Mário. Descobre que ele curou uma criança paralítica. O milagre de Saboc não foi isolado. **É replicável.**
 
-o **A certeza política.** Nolan escreve a Koda por mensageiro: _"O Estrangeiro é real. A cura é real. Precisamos dele antes que os Inquiridores o sequestrem — se o Souhma cair nas mãos do Sinal, perdemos o trono e a chance de curar a Metrópole."_ **Nolan ainda NÃO sabe por que Vonos o quer vivo** — o elo (Genocydo/Kraviam é terráqueo; Vonos substitui reis por terráqueos) só fecha quando Mário revelar o diário de Genocydo (correção 2026-08-10). No cap. 25, o que ele sabe basta: precisam de Mário antes de todos.
+o **A certeza política.** Nolan escreve a Koda por mensageiro: _"O Estrangeiro é real. A cura é real. Precisamos dele antes que os Inquiridores o sequestrem — se o Souhma cair nas mãos de outros, perdemos o trono e a chance de curar a Metrópole."_ **Nolan ainda NÃO sabe por que Vonos o quer vivo** — o elo (Genocydo/Kraviam é terráqueo; Vonos substitui reis por terráqueos) só fecha quando Mário revelar o diário de Genocydo (correção 2026-08-10). No cap. 25, o que ele sabe basta: precisam de Mário antes de todos.
 
-o **A delegação.** A lembrança do cheiro estranho nos lençóis de Dagmar volta. Nolan não pode investigar pessoalmente — está a dias de viagem. Mas conhece alguém que circula pelos corredores do poder sem levantar suspeitas. Envia uma carta a **Layla**: que ela descubra quem esteve nos aposentos de Dagmar nos dias anteriores ao parto, e que pessoas da casa tiveram acesso a chás e ervas. A semente da investigação é plantada — e Layla ganha um fio que a manterá ligada a Nolan entre o L1 e o L2.
-
-o **Os concorrentes chegam.** Nolan percebe que não é o único caçador. Os Inquiridores estão chegando. E eles não obedecem a ele. **E há um terceiro: o próprio Rei.** Nolan nunca precisou "descobrir" Benjamim — sempre soube que o conselheiro espiritual soprava ladainhas no ouvido de Genocydo ("Cressadar e seus dogmas", cap. 3) e que a palavra "apoteose" circulava nos corredores fechados do Castelo, sussurrada pela órbita de Benjamim (cap. 6). O que fecha a leitura agora é o detalhe novo: **a recompensa é de resgate — "prenda, vivo" (canon cap. 17) — não de cabeça.** Genocydo não quer matar o Souhma: **quer possuí-lo como chave da própria divindade.** O MECANISMO exato — o contrato com Terbs, a simulação da Via Crucis para arrancar a blasfêmia — Nolan NÃO conhece; o leitor sim (ironia dramática). O que ele sabe basta para o cálculo: três caçadores vivos, três usos de Mário (Estado, trono, apoteose) — nenhum para o bem do próprio Mário. (correção 2026-08-10)
+o **A revelação de Mira + a delegação (clímax — decisão 2026-08-19).** Na
+estrada da caçada, Mira (ama de leite, viaja com o séquito) comenta de
+forma **despretensiosa**, num comentário solto no meio de outra fala: "a
+senhora cheirava a vembra, senhor." Ela não sabe o que está revelando —
+conhece ervas (casca de vembra é abortivo) e o cheiro lhe é familiar, só
+isso. **É Nolan quem começa a ligar os pontos**: o cheiro, os lençóis, os
+dias antes do parto. Anota mentalmente como nota privada que fermenta até
+o cap. 30 (sementes #6). Não pode investigar pessoalmente — está a dias de
+viagem — mas conhece alguém que circula pelos corredores do poder sem
+levantar suspeitas. Envia uma carta a **Layla**: que ela descubra quem
+esteve nos aposentos de Dagmar nos dias anteriores ao parto e que pessoas
+da casa tiveram acesso a chás e ervas. A semente da investigação é
+plantada — e Layla ganha um fio que a manterá ligada a Nolan entre o L1 e o
+L2. NOTA de coerência: rampillas são autômatos sem consciência individual —
+não podem "comentar"; a testemunha do cheiro tem de ser humana (ver
+`conceitos/rampillas.md`).
 
 #### Capítulo 26 (PoV de Mário) — Reformulado
 
@@ -334,6 +339,21 @@ o **Reforço tático.** No silêncio da noite, Kate menciona casualmente informa
 o **O encontro com os Inquiridores.** Nolan chega ao local da emboscada. Os Inquiridores ainda estão lá, recolhendo os corpos dos companheiros que Kate abateu. **Mário escapou.**
 
 o **O confronto hierárquico.** Nolan exige informações. O líder dos Inquiridores recusa — eles respondem a Nuh d'Teraghar e a Vonos, não a Nolan. **Mas a recusa em si é confissão** (dedução de Nolan, não informação dada): os corpos no terreno mostram uma tentativa de **relocar** o Souhma — a função conhecida dos Revólveres de Auditoria — não de executá-lo; e a hierarquia fechada prova que Mário é tratado como **ativo do Sinal**: algo que Vonos quer intacto e na própria custódia. **Nolan NÃO sabe ainda por quê — e isso é de propósito.** Falta-lhe o elo decisivo: que Genocydo/Kraviam é um **terráqueo**. Esse elo só fecha mais tarde, quando Nolan entregar a Mário o diário de Genocydo (obtido tardiamente, pois o queria para subverter o Conselho) e Mário lhe disser o que o diário revela — só então o padrão se fecha: Vonos trouxe um terráqueo ao trono (Kraviam) e quer outro (Mário), ungido no lugar do falido Genocydo. No cap. 28, o que Nolan sabe basta para o cálculo: querem Mário **vivo**, a jurisdição de Vonos supera a dele, e qualquer uso do Souhma pelos Inquiridores é um golpe contra o plano dele. (correção 2026-08-10 — dedução limitada ao que Nolan sabe)
+
+o **Os concorrentes — os três caçadores (movido do cap. 25, decisão
+2026-08-19).** Nolan fecha o mapa da corrida: os Inquiridores (Vonos) e ele
+próprio não são os únicos. Há um terceiro: o próprio Rei. Nolan nunca
+precisou "descobrir" Benjamim — sempre soube que o conselheiro espiritual
+soprava ladainhas no ouvido de Genocydo ("Cressadar e seus dogmas", cap. 3)
+e que a palavra "apoteose" circulava nos corredores fechados do Castelo,
+sussurrada pela órbita de Benjamim (cap. 6). O que fecha a leitura agora é
+o detalhe novo, lido no terreno da emboscada: **a recompensa é de resgate —
+"prenda, vivo" (canon cap. 17) — não de cabeça.** Genocydo não quer matar o
+Souhma: **quer possuí-lo como chave da própria divindade.** O MECANISMO
+exato — o contrato com Terbs, a simulação da Via Crucis para arrancar a
+blasfêmia — Nolan NÃO conhece; o leitor sim (ironia dramática). O que ele
+sabe basta para o cálculo: três caçadores vivos, três usos de Mário
+(Estado, trono, apoteose) — nenhum para o bem do próprio Mário.
 
 o **(Canon 2026-08-06 — ironia estrutural):** Nolan, devoto de Vonos, não
 percebe que trabalha contra o plano do próprio deus: Vonos quer Mário como

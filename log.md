@@ -1,5 +1,22 @@
 # Log de Atualizações
 
+## 2026-08-19 (decisão — fio vembra move p/ cap. 25; concorrentes p/ cap. 28)
+
+- **Revelação de Mira (vembra) move do cap. 21 para o cap. 25** (POV Nolan):
+  vira o clímax/clifhanger do cap. 25, somado à delegação (carta a Layla).
+  O cap. 21 fecha mais enxuto (fundação raiz/Ossan + click de Mathias +
+  partida, sem a pista do veneno). Mira comenta a vembra de forma
+  **despretensiosa** (comentário solto, sem intenção) na estrada da caçada;
+  é Nolan quem liga os pontos (nota privada até o cap. 30). A misatribuição
+  dos caps. 21-24 fica mais pura (cegueira sem a fissura da vembra).
+- **"Os concorrentes chegam" move do cap. 25 para o cap. 28**: a dedução
+  da recompensa de resgate ("prenda, vivo" — canon cap. 17) fecha no local
+  da emboscada, onde Nolan confronta os Inquiridores e lê a evidência
+  física. Cap. 25 fica com 3 movimentos: confirmação do milagre, certeza
+  política (carta a Koda), revelação de Mira + delegação.
+- **Arquivos**: `temas/esquema-l1.md` (caps. 21, 25, 28), `temas/sementes.md`
+  (#6), `personagens/mira.md`, `log.md`.
+
 ## 2026-08-17 (canon — cap. 20 fechado; manto visto pelo POV; trecho movido p/ cap. 22; sync da mecânica da Voz)
 
 - **Manto de Tharin (POV)**: cena do cap. 20 reescrita — Mário, dono do PoV, não viu o enterro (cap. 5, POV Kate); agora ELE VÊ Kate desenterrar a cova do mocambo queimado e tirar o manto dos ombros do corpo de Tharin (pragmatismo sem culpa). Resolve a dúvida do autor sobre o manto "enterrado sozinho" — o manto estava COM Tharin (ver `decisoes/manto-xilomagia-tharin.md`).

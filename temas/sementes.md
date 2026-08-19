@@ -83,9 +83,12 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Plantio**: L1, Cap. 3 — Juleen administra chá de cascas de vembra (abortivo)
 - **Plantio 2**: L1, Cap. 18 — Dagmar morre no parto (causa: o abortivo
   acumulado); o bebê nasce sem ar
-- **Plantio 3**: L1, Cap. 21 — a parteira-ama (conhece ervas) comenta com
-  Nolan o cheiro de vembra na senhora; Nolan anota mentalmente. NÃO é o
-  "rampilla esperto" (autômatos não falam — ver `conceitos/rampillas.md`)
+- **Plantio 3**: L1, Cap. 25 (decisão 2026-08-19) — na estrada da caçada,
+  a parteira-ama (conhece ervas) comenta de forma **despretensiosa** o
+  cheiro de vembra na senhora (comentário solto, sem intenção de revelar);
+  **é Nolan quem liga os pontos** e anota mentalmente como nota privada.
+  NÃO é o "rampilla esperto" (autômatos não falam — ver
+  `conceitos/rampillas.md`)
 - **Plantio 4**: L1, Cap. 30 — Nolan descobre, enforca Juleen
 - **Misatribuição inicial (canon 2026-08-16)**: entre o cap. 18 (morte) e a
   pista da vembra (cap. 21), a explicação operativa de Nolan é a ideologia:
