@@ -24,6 +24,16 @@ ultimo_capitulo: 19
 - **Postura**: corpo curvado sobre o que carrega; de costas para as celas
 - **Iluminação**: penumbra do calabouço → clarão do incêndio ao fundo
 
+## Capítulo 21 — A Pira Involuntária
+
+- **Ação**: salva Nolan e Saboc do incêndio (contra-fogo/firebreak + escudo
+  de calor localizado); mãos chamuscadas ("o fogo responde, mas não obedece")
+- **Expressão**: tom plano, militar, reinterrogado sem variação (relato do
+  milagre a Nolan — a confiabilidade é o peso do relato)
+- **Objeto**: Saboc levado ao colo de Nolan (cold-open)
+- **Relação**: mão-direita; a testemunha que Nolan interroga à noite
+- **Local**: torre em chamas → clareira → base de Nolan (castelo)
+
 ## Nota
 
 No cap. 19 Mathias desce aos calabouços carregando o bebê morto. É MÁRIO quem

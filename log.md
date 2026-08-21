@@ -1,5 +1,20 @@
 # Log de Atualizações
 
+## 2026-08-20 (Mini-INGEST cap. 21)
+
+- **Cap. 21 fechado (POV Nolan — "A Pira Involuntária")**: cold-open da fuga
+  das chamas (Mathias salva Nolan/Saboc; o choque do vivo), luto frio (marco
+  de pedras + rito fúnebre de Vonos), misatribuição (humanos adoeceram a
+  esposa — a pista da vembra fica para o cap. 25), Mira = ama de leite,
+  fundação da base (raiz-mestra exposta pelo fogo; Ossan como asset;
+  "foram gente"), click de Mathias ("um deus acima do Limbo" por categoria),
+  partida para possuir Mário (não matá-lo).
+- **Canon duro**: Nolan controla os rampillas (~uma dezena) via raiz-mestra;
+  o anel de Dagmar fica no marco (única herança para Saboc — L2); castelo de
+  Devour vira base de Nolan; Nolan parte para o norte (rota de Mário/Kate).
+- **Arquivos**: `capitulos/capitulo-21.md` (criado), `visuais/nolan.md`,
+  `visuais/mathias.md`, `temas/esquema-l1.md` (tabela), `index.md`, `log.md`.
+
 ## 2026-08-19 (decisão — fio vembra move p/ cap. 25; concorrentes p/ cap. 28)
 
 - **Revelação de Mira (vembra) move do cap. 21 para o cap. 25** (POV Nolan):

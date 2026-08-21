@@ -68,6 +68,24 @@ timestamp: 2026-07-24T12:00:00-03:00
 - _Não aparece em cena_ (fora de cena: no andar de cima, segurando a mão de
   Dagmar enquanto o castelo queima ao redor)
 
+## Capítulo 20 — A Crise da Voz
+
+- _Não aparece em cena_ (POV Mário; Nolan atordoado no castelo em chamas)
+
+## Capítulo 21 — A Pira Involuntária
+
+- **Vestimenta**: roupas de viagem escuras, chamuscadas e manchadas de
+  fuligem; óculos
+- **Acessórios**: aliança de prata de Dagmar no bolso interno (depositada no
+  marco de pedras na manhã)
+- **Objeto**: Saboc nos braços (do cold-open à entrega a Mira)
+- **Expressão**: vazio sem catarse; frieza de trâmite no rito fúnebre;
+  cálculo retomado à noite (reinterrogatório de Mathias)
+- **Iluminação**: brasas do incêndio (noite) → cinza da manhã → clareira
+- **Local**: quarto em chamas → pátio → clareira (marco) → castelo (base) →
+  estrada para o norte
+- **Estado final**: marcha para o norte com o séquito e os rampillas
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

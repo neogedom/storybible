@@ -45,6 +45,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 17 — Devour](capitulos/capitulo-17.md) — Kate e Mário capturados; Devour indeciso.
 - [Capítulo 18 — O Castelo de Devour](capitulos/capitulo-18.md) — Nolan negocia; Dagmar morre no parto.
 - [Capítulo 19 — O Bebê](capitulos/capitulo-19.md) — Mário ressuscita o bebê; Kate escolhe "Os dois".
+- [Capítulo 20 — A Crise da Voz](capitulos/capitulo-20.md) — Fuga do castelo em chamas; Mário identifica a Voz como Deus e responde com raiva; não ora.
+- [Capítulo 21 — A Pira Involuntária](capitulos/capitulo-21.md) — Nolan foge do incêndio com Saboc; luto frio; assume a base de Devour e parte para possuir Mário.
 
 ## Visuais (Timelines)
 
