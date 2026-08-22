@@ -39,6 +39,7 @@ timestamp: 2026-07-25T12:00:00-03:00
 | 19       | Break Into 2 (~38-40%)              | Kate         | `capitulos/capitulo-19.md` |
 | 20       | Jogos e Diversão (~38-40%)         | Mário        | `capitulos/capitulo-20.md` |
 | 21       | Jogos e Diversão (~38-40%)         | Nolan        | `capitulos/capitulo-21.md` |
+| 22       | Jogos e Diversão (~42-44%)         | Kate         | `capitulos/capitulo-22.md` |
 
 ---
 
@@ -223,19 +224,37 @@ de Nolan após a queda).
 > usurpadores — 1 Co 10:20; Dt 32:17), que é o que Mário fala; a cosmologia
 > de Heiser é a metafísica da storybible, não a pregação dele.
 
-#### Capítulo 22 (PoV de Kate)
+#### Capítulo 22 (PoV de Kate) — Escrito (revisado 2026-08-22)
 
 o Kate chega a um **assentamento de refugiados** (humanos que fugiram da Mina de Quartzo). Mário está esgotado — há dias parou de comer, não por disciplina, mas porque o silêncio da Voz o convenceu de que forçar o corpo a um jejum talvez arrancasse uma resposta. Não arrancou. Só o deixou mais fraco. É nesse estado de inanição e orfandade espiritual que ele acaba curando uma criança paralítica diante de dezenas de testemunhas. O rumor se espalha.
 
+o **Pitch da Mina em duas fases (revisão 2026-08-21/22 — canon):** primeiro o mapa (a Mina como centro do sistema de opressão; "o quartzo come os olhos, o fôlego e os anos"). Mário recusa o pitch de guerra ("Não vou ser o estopim de nada" — pacifismo do cap. 2). Kate recalcula e refaz o pitch pela **cura/esperança** — "Você ressuscitou um bebê. Imagina o que fará num lugar onde as pessoas precisam de esperança." Mário percebe a manobra ("Você está usando a minha fé"), mas a semente da esperança brota. **A semente plantada é a CURA — e o leitor vê que Kate a plantou como isca (mentira por omissão).** Kate usa o nome de Mário pela primeira vez ("Mário, seu nome, não é?").
+
 o Pela primeira vez, pessoas se ajoelham diante dele. Mário recua, constrangido. Tenta explicar que não é um deus, que não deve ser adorado — que o poder não é dele, mas de Alguém que ele mesmo não entende. **Alguns ouvem, se levantam, e olham para ele com os olhos de quem quer crer.** Outros se ajoelham com mais força — ajoelhar-se é tudo o que sabem fazer. Mário entende, pela primeira vez, que combater idolatria não é vencer argumentos: é competir com o hábito de séculos de cabeças baixas.
 
-o **O milagre como credencial:** Mário percebe, com um misto de alívio e desconforto, que o milagre da criança paralítica é sua única credencial teológica. Sem ele, suas palavras seriam as de um louco — mais um andarilho delirante com histórias de outro mundo. É o osso que se endireitou que faz com que os reféns o escutem, mesmo sem entenderem a mensagem. **A graça gratuita só não é descartada como absurdo porque veio junto com um corpo que voltou a andar.** E isso, para Mário, é um problema: se os milagres cessarem, a mensagem morre junto.
+o **A cura como credencial (canon 2026-08-22 — Kate não conhece "milagre"):** Kate enquadra o poder de Mário como **cura/magia** — em Ornick há magos e feiticeiros; o que é impossível é a ressurreição. Lakand, que não viu a ressurreição de Saboc, pergunta "Ele... curou? Com magia?" — frame de magia/feitçaria, não milagre. Kate percebe que sem a cura, as palavras dele seriam as de um louco. **E se a cura cessasse, as palavras dele morriam junto** — gancho direto para o cap. 23, onde Mário prega sem cura e falha.
 
-o Kate observa os refugiados se ajoelhando e sente a confirmação do plano. Mário funciona. O milagre quebra a inércia — humanos que passaram a vida inteira sendo pisados veem nele uma esperança. E humanos com esperança são fáceis de moldar.
+o **A raridade da cura (canon 2026-08-22):** a magia ornickenha não tem
+classe de cura — magia fere, nunca conserta. Kate pensa no cap. 22: "Magia
+feria. Magia matava. Magia nunca tinha consertado nada." A cura da criança é
+salto de classe para os refugiados — por isso se ajoelham.
 
-o **O desprezo antigo:** Kate ainda sente nojo deles — corpos frágeis, cheiro de pobreza, olhos de quem nunca lutou. Antes, ela os desprezava por isso. Agora, começa a ver algo mais: **potencial.** Gente sem nada não tem nada a perder. Gente sem nada é combustível de guerra. Ela só precisa ensiná-los a lutar.
+o **Iniciativa humana vs. milagre (canon 2026-08-22 — tensão resolvida):**
+Mário NUNCA opera o milagre por iniciativa teológica. No cap. 22 ele não
+decide curar: vê a criança e é **movido** (compaixão desesperada — a imagem
+do irmão, do rapaz da calçada). A reação dele é de **choque, não vitória** —
+olha para as próprias mãos como quem não reconhece o que elas fizeram. O
+cessacionismo preservado: ele **recebe** (cap. 22, sem pedir) e depois
+**tenta produzir** (cap. 23, pregando sem orar) e **falha**. O contraste
+receber vs. produzir é o fio teológico do arco.
+
+o Kate observa os refugiados se ajoelhando e sente a confirmação do plano. Mário funciona. A cura quebra a inércia — humanos que passaram a vida inteira sendo pisados veem nele uma esperança. E humanos com esperança são fáceis de moldar.
+
+o **O desprezo antigo:** Kate ainda sente nojo deles — corpos frágeis, cheiro de pobreza, olhos de quem nunca lutou. Antes, ela os desprezava por isso. Agora, começa a ver algo mais: **potencial.** "Com o sofrimento na medida certa e a esperança na medida certa, aquilo virava aço." Ela só precisa descobrir como ensinar isso sem que eles soubessem que estavam aprendendo.
 
 o **A mudança sutil:** Pela primeira vez, Kate não pensa neles como "künerv" inúteis. Pensa como matéria-prima. Ainda não é empatia — mas já não é desprezo puro. É o começo de algo.
+
+o **Lakand (canon 2026-08-22 — primeira fala pós-endurecimento):** Lakand fala pela primeira vez desde o endurecimento (caps. 19-20 = fera silenciosa): "O que ele está fazendo?" / "Ele... curou? Com magia?" — falas curtas, funcionais, de testemunha. Não quebra o endurecimento (não é confissão emocional), mas o cap. 24 ("Saramant é cinza") não deve repetir o "primeiro som".
 
 #### Capítulo 23 (PoV de Mário)
 

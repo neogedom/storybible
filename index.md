@@ -47,6 +47,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 19 — O Bebê](capitulos/capitulo-19.md) — Mário ressuscita o bebê; Kate escolhe "Os dois".
 - [Capítulo 20 — A Crise da Voz](capitulos/capitulo-20.md) — Fuga do castelo em chamas; Mário identifica a Voz como Deus e responde com raiva; não ora.
 - [Capítulo 21 — A Pira Involuntária](capitulos/capitulo-21.md) — Nolan foge do incêndio com Saboc; luto frio; assume a base de Devour e parte para possuir Mário.
+- [Capítulo 22 — O Assentamento](capitulos/capitulo-22.md) — Kate, Mário e Lakand iniciam a jornada; pitch da Mina em duas fases (cura/esperança como isca); cura da criança paralítica; Kate recalibra o desprezo em "potencial".
 
 ## Visuais (Timelines)
 

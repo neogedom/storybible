@@ -43,6 +43,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: clarão do incêndio → floresta/cinza
 - Fundo: perímetro do castelo em chamas; cabana de Kate
 
+## Capítulo 22 — O Assentamento
+
+- Forma: híbrida atenuada (mais homem do que fera)
+- Pelagem: chamuscada do fogo (ch19), ainda marcada
+- Expressão: distante, deslocado — não olha para Kate; senta longe, costas contra árvore
+- Iluminação: luz de fogueira, entardecer
+- Fundo: acampamento de refugiados, borda da clareira
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

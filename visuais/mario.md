@@ -104,6 +104,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: clarão do incêndio (noite) → carvão/cinza da cabana → escuridão
 - Fundo: floresta em chamas; mocambo queimado; teto de carvão da cabana
 
+## Capítulo 22 — O Assentamento
+
+- Roupas: camiseta manchada de fuligem e sangue (das fugas) — lavada no riacho, ainda escura de água
+- Ferimentos: **braço direito** (ferida infectada em cicatrização); febre baixa; exaustão profunda
+- Acessórios: sem óculos
+- Sujeira: lavou cinza e fuligem no riacho
+- Expressão: fundos, quietos, mãos paradas no colo — espera sem esperança
+- Iluminação: luz de fogueira, entardecer
+- Fundo: acampamento de refugiados, perto das crianças
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

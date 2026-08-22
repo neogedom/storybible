@@ -43,6 +43,12 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
   (o homem que queria ser "gente" vira recrutador da Hoste de Hícse).
 - **Endurecimento gradual pós-massacre** (cap. 15, Tae-Tabor; caps. 17-19):
   a fala diminui; caps. 19-20 = fera silenciosa (já escrito assim).
+- **Primeira fala pós-endurecimento (canon 2026-08-22 — cap. 22):** "O que
+  ele está fazendo?" / "Ele... curou? Com magia?" — falas curtas, funcionais,
+  de testemunha da cura da criança paralítica. Não quebra o endurecimento
+  (não é confissão emocional), mas o cap. 24 ("Saramant é cinza") não deve
+  repetir o "primeiro som" — a confissão emocional dele continua sendo o
+  clímax do cap. 24.
 - **L2**: a corrupção por Mesmia é mais trágica por termos visto o Lakand
   "gente" — o discurso do recrutador da Hoste ecoa o desejo de ser
   importante ("voltar a ser importante").

@@ -92,6 +92,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: carvão/cinza da cabana
 - Fundo: mocambo queimado; cova aberta
 
+## Capítulo 22 — O Assentamento
+
+- Roupas: couro de caçadora, manto de xilomagia de Tharin sobre os ombros
+- Acessórios: faca de caça
+- Sujeira: terra da caminhada, fuligem residual do incêndio
+- Cabelo: longo, escuro, escorrendo (lavou no riacho)
+- Expressão: observadora, cálculo frio → aperta o pulso (tique da transação)
+- Iluminação: luz de fogueira, entardecer
+- Fundo: acampamento de refugiados, barracos de lona e galho
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

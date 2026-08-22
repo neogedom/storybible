@@ -39,6 +39,38 @@ ressurreição é um **atributo em ato**, não resposta a fórmula.
   autossuficiente, o universo vira deísta e o milagre perde a quebra de
   classe. O poder dos elohim é **delegado e criatural**.
 
+## A Raridade da Cura (canon 2026-08-22)
+
+- A magia ornickenha **não tem classe de cura**. Magia fere, magia mata,
+  magia dobra o que existe — nunca conserta. Quando um corpo quebra,
+  quebra para sempre; o resto é aprender a viver torto. Kate pensa isso no
+  cap. 22: "Magia feria. Magia matava. Magia nunca tinha consertado nada."
+- Por isso a cura da criança paralítica é um salto de classe para os
+  refugiados — não é "magia mais forte", é **outra coisa**. O espanto de
+  Lakand ("Ele... curou? Com magia?") é o espanto de quem vê uma categoria
+  nova.
+
+## Iniciativa humana vs. milagre (canon 2026-08-22 — tensão resolvida)
+
+- **Mário NUNCA opera o milagre por iniciativa teológica.** No cap. 22, ele
+  não decide curar: vê a criança e é **movido** — a compaixão desesperada
+  (a imagem do irmão, do rapaz da calçada) o empurra antes de qualquer
+  decisão. O gesto é de compaixão, não de fé operacional. A storybible
+  registra: ele age porque "não consegue não fazer".
+- **A reação dele é de choque, não de vitória.** Ele recua, olha para as
+  próprias mãos como quem não reconhece o que elas fizeram — "a reação de
+  quem tinha visto acontecer, não de quem operava um poder". O milagre não o
+  confirma; o desconcerta (eco da crise do cap. 20: Deus age quando ele não
+  pede, cala quando ele pede).
+- **Cessacionismo preservado:** milagre não é fé como superpoder — o poder
+  nunca é "dele" para operar. Ele recebe (capa 22, sem pedir) e depois tenta
+  produzir (capa 23, pregando sem orar) e **falha**. A comunhão é o que se
+  perdeu; o poder não se perde porque nunca foi dele.
+- O contraste cap. 22 / cap. 23 é o fio teológico do arco: receber vs.
+  produzir, graça vs. esforço, ocasião vs. ausência.
+
+## "Acima do Limbo" — ontológico, não posicional
+
 ## "Acima do Limbo" — ontológico, não posicional
 
 "Acima" é de NATUREZA (Criador vs. criatura), não de GRAU. Se o leitor ler

@@ -1,6 +1,16 @@
 # Log de Atualizações
 
-## 2026-08-20 (Mini-INGEST cap. 21)
+## 2026-08-22 (canon — raridade da cura + tensão cessacionismo resolvida)
+
+- **Raridade da cura (canon):** magia ornickenha não tem classe de cura — fere, nunca conserta. Kate pensa "magia feria, magia matava, magia nunca tinha consertado nada" (cap. 22). A cura da criança é salto de classe para os refugiados — por isso se ajoelham.
+- **Iniciativa humana vs. milagre (canon — tensão resolvida):** Mário NUNCA opera milagre por iniciativa teológica. Cap. 22: ele não decide curar — é **movido** por compaixão desesperada antes de escolher. Reação de **choque, não vitória** — olha para as mãos como quem não reconhece o que elas fizeram. Cessacionismo preservado: ele **recebe** (cap. 22) e depois **tenta produzir** (cap. 23) e falha. Contraste receber vs. produzir = fio teológico do arco.
+- **Arquivos**: `capitulos/capitulo-22.md` (trechos do cap. 22), `conceitos/milagre.md` (2 seções novas), `temas/esquema-l1.md` (bullet cap. 22), `log.md`.
+
+## 2026-08-22 (Mini-INGEST cap. 22 — versão final revisada)
+
+- **Cap. 22 fechado (POV Kate — "O Assentamento")**: dias de caminhada para o norte; jejum de Mário (desespero teológico, não disciplina); Lakand deslocado; **pitch da Mina em duas fases (revisão 2026-08-21/22 — canon)**: mapa → recusa de Mário à guerra ("não vou ser o estopim de nada") → Kate recalcula e vende **cura/esperança** (isca por omissão). Kate usa o nome de Mário pela primeira vez. Sétimo dia: assentamento de refugiados; cura da criança paralítica; Lakand pergunta "com magia?" (frame de magia/feitçaria, não milagre). Pessoas se ajoelham; Mário recua. Kate recalibra o desprezo em "potencial" ("sofrimento e esperança na medida certa viram aço"). Tique do pulso. Mário não ora, não come.
+- **Canon duro**: pitch da Mina = cura como isca (mentira por omissão de Kate); Kate não conhece "milagre" — enquadra como cura/magia; Lakand fala pela primeira vez pós-endurecimento (cap. 22, não cap. 24) — o cap. 24 não repete o "primeiro som"; o gancho "se a cura cessasse, as palavras dele morriam junto" prepara o cap. 23.
+- **Arquivos**: `capitulos/capitulo-22.md` (atualizado), `visuais/kate.md`, `visuais/mario.md`, `visuais/lakand.md`, `personagens/lakand.md` (1ª fala), `temas/esquema-l1.md` (bullet revisto), `index.md`, `log.md`.
 
 - **Cap. 21 fechado (POV Nolan — "A Pira Involuntária")**: cold-open da fuga
   das chamas (Mathias salva Nolan/Saboc; o choque do vivo), luto frio (marco
