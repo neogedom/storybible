@@ -40,6 +40,14 @@ timestamp: 2026-07-25T12:00:00-03:00
 | 20       | Jogos e Diversão (~38-40%)         | Mário        | `capitulos/capitulo-20.md` |
 | 21       | Jogos e Diversão (~38-40%)         | Nolan        | `capitulos/capitulo-21.md` |
 | 22       | Jogos e Diversão (~42-44%)         | Kate         | `capitulos/capitulo-22.md` |
+| 23       | Jogos e Diversão (~44-46%)         | Nolan        | `capitulos/capitulo-23.md` |
+| 24       | Jogos e Diversão (~46-48%)         | Mário        | `capitulos/capitulo-24.md` |
+| 25       | Jogos e Diversão (~48-50%)         | Kate         | `capitulos/capitulo-25.md` |
+| 26       | Jogos e Diversão (~50-52%)         | Mário        | `capitulos/capitulo-26.md` |
+| 27       | Jogos e Diversão (~52-54%)         | Kate         | `capitulos/capitulo-27.md` |
+| 28       | Jogos e Diversão (~54-56%)         | Nolan        | `capitulos/capitulo-28.md` |
+| 29       | Jogos e Diversão (~56-58%)         | Mário        | `capitulos/capitulo-29.md` |
+| 30       | Jogos e Diversão (~58-60%)         | Kate         | `capitulos/capitulo-30.md` |
 
 ---
 
@@ -256,19 +264,33 @@ o **A mudança sutil:** Pela primeira vez, Kate não pensa neles como "künerv" 
 
 o **Lakand (canon 2026-08-22 — primeira fala pós-endurecimento):** Lakand fala pela primeira vez desde o endurecimento (caps. 19-20 = fera silenciosa): "O que ele está fazendo?" / "Ele... curou? Com magia?" — falas curtas, funcionais, de testemunha. Não quebra o endurecimento (não é confissão emocional), mas o cap. 24 ("Saramant é cinza") não deve repetir o "primeiro som".
 
-#### Capítulo 23 (PoV de Mário)
+#### Capítulo 23 (PoV de Nolan) — Novo
 
-o Mário tenta pregar para os refugiados. Usa argumentos filosóficos, teologia reformada, metáforas — e falha. **Não orou antes. não pediu direção. Apenas começou a falar.** Tenta atacar a idolatria local — deuses que cobram, líderes que extorquem, o ciclo vicioso de oferenda e medo. Num rompante, pergunta em voz alta: _"Há um só Deus. E não é nenhum dos que cobram de vocês. O que vocês chamam de deuses têm poder — eu não vou negar o que vocês sentiram na pele. Mas é o poder de um escravizador, não de um deus. Eles exigem o que não criaram e matam o que não deram vida. Por que ajoelhar para quem cobra e não protege?"_ **(correção 2026-08-10 — idioma REFORMADO:** Mário não fala como Heiser, sem "Conselho Divino"; fala como Bavinck/Calvino — um só Deus; ídolos são "nada" (Sl 96:5; Is 44); por trás deles, demônios/poderes caídos que se passam por deuses (1 Co 10:20; Dt 32:17; 2 Co 4:4). O inimigo não é a descrença — é o culto a potestades que escravizam.)
+o **Confirmação do milagre.** Nolan alcança o **assentamento de refugiados** do cap. 22. O grupo de Mário já partiu (Kate decidiu na manhã seguinte — "não há nada para nós aqui"). Mas os refugiados estão lá. A menina de joelho torto anda. As testemunhas confirmam: o Souhma curou uma criança paralítica com as mãos. O milagre de Saboc não foi isolado. **É replicável.**
 
-o O silêncio é cortado por uma mulher. Ela aponta para uma cicatriz no próprio braço — uma queimadura de ferro: _"O representante de Vonos passou aqui mês passado. Vi ele. Vi o selo no peito dele. Ele cobrou o dízimo e foi embora. O deus de Vonos existe porque o cobrador existe."_ Outro refém murmura: _"Nunca vi deus nenhum — mas vi quem mata em nome dele."_ Mário não esperava por isso. A existência dos deuses, para eles, não é questão de fé — é questão de **fatura**. Se o cobrador existe, o deus existe.
+o **A certeza política.** Nolan escreve a Koda por mensageiro: _"O Estrangeiro é real. A cura é real. Precisamos dele antes que os Inquiridores o sequestrem — se o Souhma cair nas mãos de outros, perdemos o trono e a chance de curar a Metrópole."_ **Nolan ainda NÃO sabe por que Vonos o quer vivo** — o elo (Genocydo/Kraviam é terráqueo; Vonos substitui reis por terráqueos) só fecha quando Mário revelar o diário de Genocydo. No cap. 23, o que ele sabe basta: precisam de Mário antes de todos.
 
-o Um velho cuspe no chão e diz: _"Seu deus não cobra? Então não vale nada. Deus que não exige é deus que não protege."_ As pessoas assentem. Para elas, um deus que não impõe regras é um deus fraco — e deus fraco não salva de Devour nem de Genocydo. Mário engasga uma resposta sobre um Rei que não precisa extorquir porque é dono de tudo — e percebe que soou como um louco. **A teologia da graça gratuita é uma ofensa num mundo onde tudo se paga com sangue.** A polêmica reformada (um só Deus contra os poderes caídos) só será compreendida onde a servidão for confrontada de frente — no batismo (cap. 30).
+o **A revelação de Mira + a delegação (clímax).** Na estrada da caçada, Mira (ama de leite, viaja com o séquito) comenta de forma **despretensiosa**, num comentário solto no meio de outra fala: "a senhora cheirava a vembra, senhor." Ela não sabe o que está revelando — conhece ervas (casca de vembra é abortivo) e o cheiro lhe é familiar, só isso. **É Nolan quem começa a ligar os pontos**: o cheiro, os lençóis, os dias antes do parto. Anota mentalmente como nota privada que fermenta até o cap. 30 (sementes #6). Não pode investigar pessoalmente — está a dias de viagem — mas conhece alguém que circula pelos corredores do poder sem levantar suspeitas. Envia uma carta a **Layla**: que ela descubra quem esteve nos aposentos de Dagmar nos dias anteriores ao parto e que pessoas da casa tiveram acesso a chás e ervas. A semente da investigação é plantada — e Layla ganha um fio que a manterá ligada a Nolan entre o L1 e o L2.
 
-o A voz o repreende: _"Fez porque estava com medo. Se fosse por fé, não teria feito."_
+o **A decisão.** Nolan reúne os rampillas e parte. Não para matar Mário. Para possuí-lo. Mas agora sabe que precisa chegar antes dos Inquiridores — e que, quando encontrar Mário, precisa se apresentar como aliado, não como inimigo.
 
-o Mário exige que a voz o mande de volta para casa. A voz não responde.
+#### Capítulo 24 (PoV de Mário) — Novo (A Feira de Tronk)
 
-#### Capítulo 24 (PoV de Kate)
+o **Dias de caminhada.** Mário ainda em jejum, ainda em silêncio, ainda em oposição à Voz. Kate o conduz para norte. Lakand segue à frente, deslocado.
+
+o **A Feira de Tronk.** Chegam a um posto de comércio na rota da Mina — carroceiros, mercadores, refugiados, gente de passagem. Mário circula, observa. Kate percebe o ambiente: gente dura, trocadores, mercenários de passagem.
+
+o **A briga.** Uma discussão por dívida explode. Alguém saca uma faca. Um homem cai, sangrando — ferido grave, morrendo no chão. Kate olha para Mário. O olhar basta: _"agora ou nunca."_
+
+o **A cura intencional.** Mário hesita — mas não é a hesitação do cap. 22 (compaixão confusa). É uma decisão. Ele se ajoelha, toca o ferido, e **pede** a cura — não como oração submissa, mas como ato de vontade. A cura acontece. O sangue estanca. O ferido respira. **A Voz não diz nada.** Silêncio completo. Mário sente o vazio — mas a cura funcionou. Isso o confirma no caminho que escolheu.
+
+o **A pregação.** O curado, atordoado, diz que não tem como pagar. "A Metrópole arrancou tudo que eu tinha." Mário: **"Não precisa pagar."** Ele prega. E prega **corretamente** — o evangelho em quatro movimentos: (1) o mundo está caído — vocês sentem isso na pele; (2) há necessidade de redenção — ninguém aqui consegue se salvar sozinho; (3) Deus se fez homem — não para cobrar, mas para pagar; (4) a salvação é gratuita — paga com sangue, recebida de graça. Ele conecta ao que acabou de fazer: a cura foi de graça, assim como a salvação é de graça. As pessoas ouvem. Alguns crêem. Pela primeira vez, Mário vê conversão genuína.
+
+o **A ironia (o leitor vê, Mário não):** Mário prega a teologia certa, com as palavras certas, e **funciona**. Mas ele está fazendo isso **em oposição à Voz** — para provar que a teologia basta, que ele não precisa da Voz. A Voz não falou. A cura aconteceu mesmo assim. Mário interpreta isso como **validação do seu caminho**. O leitor sente o desconforto: a ferramenta certa nas mãos erradas.
+
+o **Kate observa.** Vê as pessoas se ajoelharem de novo. Vê Mário pregar com convicção. Sente a confirmação do plano — mas sente também algo que não identifica: Mário está diferente. Mais seguro. Mais frio. Ela não sabe se isso é bom.
+
+#### Capítulo 25 (PoV de Kate)
 
 o **A confissão (decisão 2026-08-04).** Momento de quietude. Lakand,
 arrastado: "Saramant é cinza." / Kate: "E por quê?" / Lakand: "Por você."
@@ -284,29 +306,6 @@ o Lakand percebe: Kate não está apaixonada por Mário — está **usando** Má
 
 o Kate toma a decisão: manter Mário vivo e funcionando até que ele inspire o que ela precisa inspirar. Depois disso, o plano é dela.
 
-#### Capítulo 25 (PoV de Nolan)
-
-o **Confirmação do milagre.** Nolan alcança o rastro de Mário. Descobre que ele curou uma criança paralítica. O milagre de Saboc não foi isolado. **É replicável.**
-
-o **A certeza política.** Nolan escreve a Koda por mensageiro: _"O Estrangeiro é real. A cura é real. Precisamos dele antes que os Inquiridores o sequestrem — se o Souhma cair nas mãos de outros, perdemos o trono e a chance de curar a Metrópole."_ **Nolan ainda NÃO sabe por que Vonos o quer vivo** — o elo (Genocydo/Kraviam é terráqueo; Vonos substitui reis por terráqueos) só fecha quando Mário revelar o diário de Genocydo (correção 2026-08-10). No cap. 25, o que ele sabe basta: precisam de Mário antes de todos.
-
-o **A revelação de Mira + a delegação (clímax — decisão 2026-08-19).** Na
-estrada da caçada, Mira (ama de leite, viaja com o séquito) comenta de
-forma **despretensiosa**, num comentário solto no meio de outra fala: "a
-senhora cheirava a vembra, senhor." Ela não sabe o que está revelando —
-conhece ervas (casca de vembra é abortivo) e o cheiro lhe é familiar, só
-isso. **É Nolan quem começa a ligar os pontos**: o cheiro, os lençóis, os
-dias antes do parto. Anota mentalmente como nota privada que fermenta até
-o cap. 30 (sementes #6). Não pode investigar pessoalmente — está a dias de
-viagem — mas conhece alguém que circula pelos corredores do poder sem
-levantar suspeitas. Envia uma carta a **Layla**: que ela descubra quem
-esteve nos aposentos de Dagmar nos dias anteriores ao parto e que pessoas
-da casa tiveram acesso a chás e ervas. A semente da investigação é
-plantada — e Layla ganha um fio que a manterá ligada a Nolan entre o L1 e o
-L2. NOTA de coerência: rampillas são autômatos sem consciência individual —
-não podem "comentar"; a testemunha do cheiro tem de ser humana (ver
-`conceitos/rampillas.md`).
-
 #### Capítulo 26 (PoV de Mário) — Reformulado
 
 o **Sobrevivência + caçadores de recompensa.** Estão perdidos, sem comida, feridos. Kate quer seguir por instinto. Mário usa **raciocínio abdutivo**: observa o terreno, marcas de garras, inclinação do solo — infere onde há água.
@@ -321,22 +320,9 @@ o Mário finalmente se abre com Kate sobre sua história — a facada, a morte d
 
 o **O hino.** No meio da noite, sem motivo aparente, Mário começa a cantar baixinho em português — uma língua que Kate não entende. _"Mais perto quero estar, meu Deus de Ti..."_ Kate ouve sem perguntar. A melodia fica com ela — palavras que não entende, mas que sabe serem importantes.
 
-o **A Voz responde (decisão 2026-08-10 — germinação da semente #10; local
-mantido no cap. 26, reavaliar ao escrever):** na mesma noite, depois do
-hino, a Voz confronta Mário com os DOIS argumentos de ação oculta: (1) a
-**fluência em ornickenho** (cap. 12 — "você nunca aprendeu aquelas palavras;
-Eu as pus na sua boca") e (2) a **preservação na chegada** (caps. 2/4 — "a
-implosão despedaçou sua clavícula e colapsou seu pulmão; você acordou
-inteiro porque Eu te trouxe"). Mário resiste (cessacionismo teimoso), mas
-não tem resposta para o corpo inteiro. O silêncio da Voz depois pesa mais:
-agora ele sabe que o silêncio não é ausência. **(Canon 2026-08-16, revisto —
-fim da moldura "delírio/esquizofrenia" sobre a Voz):** o corpo inteiro
-fecha o fio 1 (a Voz é real, não delírio privado); o fio 2 (a Voz é Deus)
-fecha JÁ no cap. 20 (identificação irada — Mário sabe de quem e responde
-com raiva). A função do cap. 26 muda: de "provar a identidade" para
-**desnudar a raiva** — a Voz confronta Mário com os dois argumentos de ação
-oculta e expõe que ele sabia de quem e mesmo assim segurou os dogmas como
-escudo, irado (eco de Jó). O fio 3 (o sonho é real) fecha no L2 (gravura).
+o **A Voz responde (germinação da semente #10):** na mesma noite, depois do hino, a Voz confronta Mário com os DOIS argumentos de ação oculta: (1) a **fluência em ornickenho** (cap. 12 — "você nunca aprendeu aquelas palavras; Eu as pus na sua boca") e (2) a **preservação na chegada** (caps. 2/4 — "a implosão despedaçou sua clavícula e colapsou seu pulmão; você acordou inteiro porque Eu te trouxe"). Mário resiste (cessacionismo teimoso), mas não tem resposta para o corpo inteiro. O silêncio da Voz depois pesa mais: agora ele sabe que o silêncio não é ausência. A função do cap. 26 é **desnudar a raiva** — a Voz confronta Mário com os dois argumentos de ação oculta e expõe que ele sabia de quem e mesmo assim segurou os dogmas como escudo, irado (eco de Jó).
+
+o **A acusação ecoada (realocada do cap. 23 original):** No meio do confronto, a Voz diz: _"Fez porque estava com medo. Se fosse por fé, não teria feito."_ Mário não tem resposta.
 
 #### Capítulo 27 (PoV de Kate) — Reformulado
 
@@ -344,43 +330,19 @@ o **Os Inquiridores do Sinal.** Uma patrulha os alcança. Armadura de renanthao,
 
 o **O perigo real:** Enquanto Kate luta, um terceiro Inquiridor aponta o Revólver de Auditoria para Mário. Kate não chega a tempo.
 
-o **A descarga não é para matar (correção 2026-08-10 — gatilho de transporte):** o Revólver de Auditoria não dispara balas — dispara uma **descarga de aferição** (pulso de compressão do Sinal via quartzo; a "bala" é a leitura de Mário). A descarga **audita**: rompe a âncora do alvo à realidade presente e o **reloca** para a jurisdição do Sinal (a Metrópole). Foi assim que Mário veio da Terra (cap. 2: "rompendo por completo a última e frágil âncora que ainda o conectava com a gravidade terrena"). Um acerto = Mário acorda na custódia dos Inquiridores — **vivo, auditado para fora da jornada**. Por isso a patrulha não quer matá-lo: quer **disparar e transportá-lo** (ver `conceitos/inquiridores-sinal.md`).
+o **A descarga não é para matar (correção 2026-08-10 — gatilho de transporte):** o Revólver de Auditoria não dispara balas — dispara uma **descarga de aferição** (pulso de compressão do Sinal via quartzo; a "bala" é a leitura de Mário). A descarga **audita**: rompe a âncora do alvo à realidade presente e o **reloca** para a jurisdição do Sinal (a Metrópole). Foi assim que Mário veio da Terra (cap. 2). Um acerto = Mário acorda na custódia dos Inquiridores — **vivo, auditado para fora da jornada**.
 
-o **Mário usa raciocínio abdutivo em fração de segundo:** percebe o **ritual de aferição** do Inquiridor — meio segundo de pausa antes da descarga, o gesto que calibra o alvo da auditoria. Se a descarga o tocasse, seria relocado. Mário se joga no chão. A descarga passa. Kate aproveita a janela para abater o atirador.
-
-o **Coerência (decorrência da correção 2026-08-10):** com o gatilho de transporte, o cap. 27 NÃO contradiz o plano de Vonos (Mário vivo): a patrulha segue o protocolo de **auditar/relocar** hereges, não de executá-los; a descarga é captura, não morte. A ironia burocrática: a ferramenta dos servidores de Vonos quase remove o homem que Vonos quer coroado — mas o remove para a Metrópole, não para o túmulo.
+o **Mário usa raciocínio abdutivo em fração de segundo:** percebe o **ritual de aferição** do Inquiridor — meio segundo de pausa antes da descarga, o gesto que calibra o alvo da auditoria. Mário se joga no chão. A descarga passa. Kate aproveita a janela para abater o atirador.
 
 o Ela olha para Mário no chão: **ele não lutou. Leu o ritual e se moveu no tempo certo.** Pela primeira vez, Kate vê Mário não como fardo, mas como parceiro.
-
-o **Reforço tático.** No silêncio da noite, Kate menciona casualmente informações que complementam o que já combinaram — detalhes sobre guarnição, rotas de entrada, geologia do quartzo (fontes: a vivência dela na região + o intel da facção de Terbs que a treinou — ver `personagens/kate.md`; Kate NÃO lê). Mário absorve como descoberta própria. O destino já está traçado; ela só está fornecendo as ferramentas para ele achar que o plano é dele.
 
 #### Capítulo 28 (PoV de Nolan) — Reformulado
 
 o **O encontro com os Inquiridores.** Nolan chega ao local da emboscada. Os Inquiridores ainda estão lá, recolhendo os corpos dos companheiros que Kate abateu. **Mário escapou.**
 
-o **O confronto hierárquico.** Nolan exige informações. O líder dos Inquiridores recusa — eles respondem a Nuh d'Teraghar e a Vonos, não a Nolan. **Mas a recusa em si é confissão** (dedução de Nolan, não informação dada): os corpos no terreno mostram uma tentativa de **relocar** o Souhma — a função conhecida dos Revólveres de Auditoria — não de executá-lo; e a hierarquia fechada prova que Mário é tratado como **ativo do Sinal**: algo que Vonos quer intacto e na própria custódia. **Nolan NÃO sabe ainda por quê — e isso é de propósito.** Falta-lhe o elo decisivo: que Genocydo/Kraviam é um **terráqueo**. Esse elo só fecha mais tarde, quando Nolan entregar a Mário o diário de Genocydo (obtido tardiamente, pois o queria para subverter o Conselho) e Mário lhe disser o que o diário revela — só então o padrão se fecha: Vonos trouxe um terráqueo ao trono (Kraviam) e quer outro (Mário), ungido no lugar do falido Genocydo. No cap. 28, o que Nolan sabe basta para o cálculo: querem Mário **vivo**, a jurisdição de Vonos supera a dele, e qualquer uso do Souhma pelos Inquiridores é um golpe contra o plano dele. (correção 2026-08-10 — dedução limitada ao que Nolan sabe)
+o **O confronto hierárquico.** Nolan exige informações. O líder dos Inquiridores recusa — eles respondem a Nuh d'Teraghar e a Vonos, não a Nolan. **Mas a recusa em si é confissão** (dedução de Nolan, não informação dada): os corpos no terreno mostram uma tentativa de **relocar** o Souhma — a função conhecida dos Revólveres de Auditoria — não de executá-lo; e a hierarquia fechada prova que Mário é tratado como **ativo do Sinal**: algo que Vonos quer intacto e na própria custódia. **Nolan NÃO sabe ainda por quê — e isso é de propósito.**
 
-o **Os concorrentes — os três caçadores (movido do cap. 25, decisão
-2026-08-19).** Nolan fecha o mapa da corrida: os Inquiridores (Vonos) e ele
-próprio não são os únicos. Há um terceiro: o próprio Rei. Nolan nunca
-precisou "descobrir" Benjamim — sempre soube que o conselheiro espiritual
-soprava ladainhas no ouvido de Genocydo ("Cressadar e seus dogmas", cap. 3)
-e que a palavra "apoteose" circulava nos corredores fechados do Castelo,
-sussurrada pela órbita de Benjamim (cap. 6). O que fecha a leitura agora é
-o detalhe novo, lido no terreno da emboscada: **a recompensa é de resgate —
-"prenda, vivo" (canon cap. 17) — não de cabeça.** Genocydo não quer matar o
-Souhma: **quer possuí-lo como chave da própria divindade.** O MECANISMO
-exato — o contrato com Terbs, a simulação da Via Crucis para arrancar a
-blasfêmia — Nolan NÃO conhece; o leitor sim (ironia dramática). O que ele
-sabe basta para o cálculo: três caçadores vivos, três usos de Mário
-(Estado, trono, apoteose) — nenhum para o bem do próprio Mário.
-
-o **(Canon 2026-08-06 — ironia estrutural):** Nolan, devoto de Vonos, não
-percebe que trabalha contra o plano do próprio deus: Vonos quer Mário como
-REI (o plano dele); Nolan quer Mário como ferramenta do Estado para ele
-mesmo subir ao trono. A devoção dele é à ordem, não ao deus.
-
-o Nolan sente o poder escorrendo. Se os Inquiridores capturarem Mário primeiro, Vonos ganha um novo rei. E Nolan perde o trono **e** a chance de curar a Metrópole.
+o **Os concorrentes — os três caçadores.** Nolan fecha o mapa da corrida: os Inquiridores (Vonos) e ele próprio não são os únicos. Há um terceiro: o próprio Rei. A recompensa é de resgate — "prenda, vivo" — não de cabeça. Genocydo não quer matar o Souhma: **quer possuí-lo como chave da própria divindade.** Três caçadores vivos, três usos de Mário (Estado, trono, apoteose) — nenhum para o bem do próprio Mário.
 
 o **A inteligência de Mário.** Nolan examina o terreno. Percebe: alguém **leu o padrão dos Inquiridores**. Reconheceu a pausa do ritual e se antecipou ao disparo. Não foi Kate. Foi Mário.
 
@@ -390,7 +352,7 @@ o **A decisão:** Nolan precisa chegar antes dos Inquiridores. E quando chegar, 
 
 #### Capítulo 29 (PoV de Mário) — Novo (Criatura Fantástica)
 
-o **Os Moribundos.** Para evitar nova patrulha dos Inquiridores, Mário, Kate e Lakand entram num território deformado: um campo de batalha da **Guerra Milenar** onde o trauma foi tão intenso que deixou uma cicatriz física no mundo. Os Moribundos não são almas penadas — são **ecos**, resíduos de um conflito entre deuses (elohins) que rompeu a realidade e deixou cópias sensoriais dos soldados presas num loop de batalha, enterrados em valas subterrâneas em Saramant.
+o **Os Moribundos.** Para evitar nova patrulha dos Inquiridores, Mário, Kate e Lakand entram num território deformado: um campo de batalha da **Guerra Milenar** onde o trauma foi tão intenso que deixou uma cicatriz física no mundo. Os Moribundos não são almas penadas — são **ecos**, resíduos de um conflito entre deuses (elohins) que rompeu a realidade e deixou cópias sensoriais dos soldados presas num loop de batalha.
 
 o Kate quer enfrentá-los. Mário observa e percebe o padrão: os Moribundos reagem a **movimentos bruscos e metal exposto**. Não veem — sentem vibração.
 
@@ -400,32 +362,13 @@ o **Lakand observa em silêncio.** Viu Mário ler o comportamento dos mortos. Vi
 
 #### Capítulo 30 (PoV de Kate) — Reformulado
 
-o Chegam a **outro assentamento**. Gente mais pobre que a anterior — famílias inteiras dormindo ao relento, crianças com olhos de vidro (a doença da Mina). Mário prega novamente — ainda moral, ainda intelectual —, mas aqui algo diferente acontece. Depois de curar algumas crianças, um grupo de adultos se aproxima: não querem mais milagres, querem entender. **Mário os batiza no riacho próximo.** É o primeiro batismo da jornada. As pessoas não entendem tudo — a teologia da substituição, a Trindade, a dupla natureza de Cristo — mas entenderam o suficiente: há um Deus que não cobra. E isso, num mundo de dívidas impagáveis, é a notícia mais revolucionária que já ouviram.
+o Chegam a **outro assentamento**. Gente mais pobre que a anterior — famílias inteiras dormindo ao relento, crianças com olhos de vidro (a doença da Mina). Mário prega novamente — agora com a segurança de quem já viu a teologia funcionar. Depois de curar algumas crianças, um grupo de adultos se aproxima: não querem mais milagres, querem entender. **Mário os batiza no riacho próximo.** É o primeiro batismo da jornada. As pessoas não entendem tudo — a teologia da substituição, a Trindade, a dupla natureza de Cristo — mas entenderam o suficiente: há um Deus que não cobra. E isso, num mundo de dívidas impagáveis, é a notícia mais revolucionária que já ouviram.
 
-o **A renúncia (correção 2026-08-10):** Mário adapta a abrenuntio da igreja
-primitiva (a renúncia a Satanás e a todas as suas obras e pompas) para os
-deuses de Ornick. Antes da água, cada convertido declara em voz alta:
-_"Renuncio aos falsos deuses do Limbo, a todas as suas obras e a toda a sua
-pompa. Sou de Javé."_ **(refinamento 2026-08-10:** os ornickenhos não
-conhecem Marduk e nem todos nomeiam os elohins — a fórmula é genérica e
-usa a palavra deles, "o Limbo", a terra dos deuses.) Na superfície, uma
-**declaração de fidelidade a Javé**; no pano de fundo, uma **declaração de
-guerra aos deuses falsos de Ornick** (lente de Heiser: os deuses são reais —
-renunciá-los é cortar o vínculo de servidão). Os deuses "ouvem" o gesto como
-desafio; as consequências vêm (semente — ver `temas/sementes.md`, #14).
+o **A renúncia (correção 2026-08-10):** Mário adapta a abrenuntio da igreja primitiva (a renúncia a Satanás e a todas as suas obras e pompas) para os deuses de Ornick. Antes da água, cada convertido declara em voz alta: _"Renuncio aos falsos deuses do Limbo, a todas as suas obras e a toda a sua pompa. Sou de Javé."_ Na superfície, uma **declaração de fidelidade a Javé**; no pano de fundo, uma **declaração de guerra aos deuses falsos de Ornick**.
 
-o **Primeira aparição de "Javé" no livro (canon 2026-08-10):** o nome
-próprio só entra aqui — caps. 0-19 usam "Deus", "o Deus de Mário" e "Eu
-Sou" (cap. 19). É um reveal deliberado: o nome da aliança (Javé/YHWH) é
-pronunciado pela primeira vez no exato momento em que a primeira comunidade
-de aliança de Ornick se forma — um novo Sinai. **Caps. 20-29 NÃO devem usar
-"Javé" antes do cap. 30.**
-
-o **A ridicularização paralela:** Enquanto isso, do outro lado do assentamento, Lakand observa um grupo de homens rindo de Mário. _"Ele acha que água lava pecado?"_ Um deles imita o gesto de Mário, fazendo sinal da cruz na testa com terra. Lakand não ri — mas não defende Mário. Kate, ao ouvir, sente o primeiro ímpeto de defender o grupo, mas se contém. A fé dela ainda não é fé — é só instinto de posse. O desprezo alheio, porém, já a incomoda mais do que ela admite.
+o **Primeira aparição de "Javé" no livro (canon 2026-08-10):** o nome próprio só entra aqui — caps. 0-29 usam "Deus", "o Deus de Mário" e "Eu Sou" (cap. 19). É um reveal deliberado: o nome da aliança (Javé/YHWH) é pronunciado pela primeira vez no exato momento em que a primeira comunidade de aliança de Ornick se forma — um novo Sinai. **Caps. 20-29 NÃO devem usar "Javé" antes do cap. 30.**
 
 o **A fissura:** Kate observa uma criança cega abraçando a mãe depois que Mário ora por ela. A cena não a comove — mas algo a incomoda. Ela se pega pensando na libertação deles não como estratégia, mas como... necessidade? Abafa o pensamento.
-
-o Ela começa a **semear ativamente**: conversas casuais sobre o que fariam se tivessem um exército, sobre como "um homem como Mário poderia mudar tudo". O destino já foi acordado desde a fuga do castelo; agora ela só alimenta a convicção dele com mais dados.
 
 o **Lakand se aproxima:** _"Você está apaixonada."_ Kate não nega — mas também não confirma. Lakand vê algo mais: Kate ainda quer protagonismo. Ela não protege Mário — ela o **usa**. E talvez esteja começando a sentir culpa por isso. Lakand não diz nada. O olhar entre os dois é o de um abismo silencioso.
 
