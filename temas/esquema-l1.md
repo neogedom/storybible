@@ -286,6 +286,10 @@ o **A cura intencional.** Mário hesita — mas não é a hesitação do cap. 22
 
 o **A pregação.** O curado, atordoado, diz que não tem como pagar. "A Metrópole arrancou tudo que eu tinha." Mário: **"Não precisa pagar."** Ele prega. E prega **corretamente** — o evangelho em quatro movimentos: (1) o mundo está caído — vocês sentem isso na pele; (2) há necessidade de redenção — ninguém aqui consegue se salvar sozinho; (3) Deus se fez homem — não para cobrar, mas para pagar; (4) a salvação é gratuita — paga com sangue, recebida de graça. Ele conecta ao que acabou de fazer: a cura foi de graça, assim como a salvação é de graça. As pessoas ouvem. Alguns crêem. Pela primeira vez, Mário vê conversão genuína.
 
+o **Oposição — o carroceiro volta.** O carroceiro que fugiu retorna com outros. Tentam linchar Mário — "feiticeiro", "truque". Kate intervém, Lakand se posiciona. Mário não revida. A tensão dissipa quando o curado se coloca na frente de Mário. **Primeira hostilidade aberta.** Mário vê que a pregação atrai tanto fé quanto fúria.
+
+o **Lakand observa o curado.** Minutos antes, era um ninguém sangrando no chão. Agora tem nome, história, propósito. Lakand sente o antigo aperto — o mesmo do cap. 12. O olhar dele para o curado é mais longo do que deveria. Não diz nada. Mas algo nele se moveu.
+
 o **A ironia (o leitor vê, Mário não):** Mário prega a teologia certa, com as palavras certas, e **funciona**. Mas ele está fazendo isso **em oposição à Voz** — para provar que a teologia basta, que ele não precisa da Voz. A Voz não falou. A cura aconteceu mesmo assim. Mário interpreta isso como **validação do seu caminho**. O leitor sente o desconforto: a ferramenta certa nas mãos erradas.
 
 o **Kate observa.** Vê as pessoas se ajoelharem de novo. Vê Mário pregar com convicção. Sente a confirmação do plano — mas sente também algo que não identifica: Mário está diferente. Mais seguro. Mais frio. Ela não sabe se isso é bom.
@@ -302,6 +306,10 @@ aberto — nunca resolvida no L1.
 
 o Kate e Lakand discutem. Lakand quer saber até onde ela vai levar isso. Kate responde que vai até o fim. **"Ele é a chave. Depois que os humanos se levantarem, eu lidero."** — a dívida rejeitada alimenta causalmente o compromisso.
 
+o **Kate planta a semente de rebelião.** Durante a marcha, Kate encontra um dos convertidos da feira e pergunta, casual: _"E se houvesse um jeito de vocês nunca mais serem escravos de ninguém?"_ O convertido hesita. Kate não insiste. Mário está longe, não ouve. A semente está plantada.
+
+o **"Por que ficou?"** Kate pergunta a Lakand depois da confissão. _"Saramant é cinza. Você não tem mais território. Por que ainda está aqui?"_ Lakand não responde. O leitor infere: porque Mário faz gente de nada — e Lakand quer saber como. O desejo do cap. 12 reacende em silêncio.
+
 o Lakand percebe: Kate não está apaixonada por Mário — está **usando** Mário. E isso talvez seja mais perigoso. Lakand se afasta, magoado, mas não vai embora — o objetivo de "quebrar o Reino" ainda alinha com a libertação da alcateia dele.
 
 o Kate toma a decisão: manter Mário vivo e funcionando até que ele inspire o que ela precisa inspirar. Depois disso, o plano é dela.
@@ -314,7 +322,9 @@ o **Erro com consequência:** A primeira inferência de Mário está errada. Qua
 
 o Na segunda tentativa, Mário acerta — encontra um riacho. **Kate começa a confiar.**
 
-o **À noite, caçadores de recompensa atacam** — mercenários menores atraídos pelo anúncio de Genocydo. **Tentam capturá-lo VIVO — a recompensa é de resgate, não de cabeça (correção 2026-08-10; canon cap. 17: "prenda. Vivo.").** Isso os torna mais perigosos (precisam imobilizar, não abater) e, por isso, mais expostos: Kate os elimina sem dificuldade. Mário vê o próprio preço: a recompensa está funcionando. A pressão aumenta.
+o **À noite, caçadores de recompensa atacam** — mercenários menores atraídos pelo anúncio de Genocydo. **Tentam capturá-lo VIVO — a recompensa é de resgate, não de cabeça (correção 2026-08-10; canon cap. 17: "prenda. Vivo.").** Isso os torna mais perigosos (precisam imobilizar, não abater) e, por isso, mais expostos: Kate os elimina sem dificuldade. **Lakand intervém** — não para proteger Mário, mas para proteger Kate. Um caçador a flanqueia; Lakand o abate antes que ela perceba. Kate vê, não comenta. O gesto fala.
+
+o Mário vê o próprio preço: a recompensa está funcionando. A pressão aumenta.
 
 o Mário finalmente se abre com Kate sobre sua história — a facada, a morte de Lucas. Pela primeira vez, chora na frente dela. O silêncio entre os dois é o primeiro momento de paz desde que chegou a Ornick.
 
@@ -354,7 +364,7 @@ o **A decisão:** Nolan precisa chegar antes dos Inquiridores. E quando chegar, 
 
 o **Os Moribundos.** Para evitar nova patrulha dos Inquiridores, Mário, Kate e Lakand entram num território deformado: um campo de batalha da **Guerra Milenar** onde o trauma foi tão intenso que deixou uma cicatriz física no mundo. Os Moribundos não são almas penadas — são **ecos**, resíduos de um conflito entre deuses (elohins) que rompeu a realidade e deixou cópias sensoriais dos soldados presas num loop de batalha.
 
-o Kate quer enfrentá-los. Mário observa e percebe o padrão: os Moribundos reagem a **movimentos bruscos e metal exposto**. Não veem — sentem vibração.
+o **Lakand reconhece o campo.** No meio da travessia, Lakand para. Reconhece aquele lugar — perdeu alguém da alcateia ali, na Guerra Milenar. Não diz nada. Mas Mário vê o olhar dele mudar. Lakand sabe o que é atravessar um campo de mortos. A travessia silenciosa é, para ele, um ritual conhecido.
 
 o Mário convence Kate a depositar as armas e atravessar em silêncio. Ela reluta — cada instinto grita para lutar — mas cede. **Atravessam o exército de mortos em névoa, sem um golpe.** Momento de fantasia pura.
 
@@ -369,6 +379,10 @@ o **A renúncia (correção 2026-08-10):** Mário adapta a abrenuntio da igreja 
 o **Primeira aparição de "Javé" no livro (canon 2026-08-10):** o nome próprio só entra aqui — caps. 0-29 usam "Deus", "o Deus de Mário" e "Eu Sou" (cap. 19). É um reveal deliberado: o nome da aliança (Javé/YHWH) é pronunciado pela primeira vez no exato momento em que a primeira comunidade de aliança de Ornick se forma — um novo Sinai. **Caps. 20-29 NÃO devem usar "Javé" antes do cap. 30.**
 
 o **A fissura:** Kate observa uma criança cega abraçando a mãe depois que Mário ora por ela. A cena não a comove — mas algo a incomoda. Ela se pega pensando na libertação deles não como estratégia, mas como... necessidade? Abafa o pensamento.
+
+o **Kate identifica quem pode ser treinado.** Enquanto Mário batiza, Kate observa os convertidos com olhos de recrutadora. Identifica os mais jovens, os mais fortes, os que olham Mário com determinação em vez de devoção. Arquiva mentalmente. Não diz nada.
+
+o **Lakand à margem.** Uma criança batizada passa por Lakand sem medo. Olha para ele, sorri, e segue. Lakand não se move. Não sabe o que fazer com aquilo. Pela primeira vez, foi visto como "gente" — e não sabe como responder.
 
 o **Lakand se aproxima:** _"Você está apaixonada."_ Kate não nega — mas também não confirma. Lakand vê algo mais: Kate ainda quer protagonismo. Ela não protege Mário — ela o **usa**. E talvez esteja começando a sentir culpa por isso. Lakand não diz nada. O olhar entre os dois é o de um abismo silencioso.
 
@@ -388,6 +402,8 @@ o **A decisão final.** Nolan não tentará capturar Mário. Tentará **atraí-l
 
 o **A mentira fundadora.** Nolan nunca dirá que quer Mário como ferramenta de Estado. Nunca dirá que o sonho dele é ser Rei. Vai esconder a Segregação, vai se fingir de reformista, vai falar de cura e esperança. **A primeira grande mentira de Nolan para Mário será a mais doce — e a mais perigosa.**
 
+o **Desafio fantástico na marcha (tempestade de quartzo).** Antes de Nolan se aproximar, o grupo enfrenta uma **tempestade de quartzo** — vento que carrega fragmentos de quartzo da Mina, cortando a pele exposta, cegando temporariamente quem respira a poeira. O grupo se abriga numa fenda na rocha. Kate improvisa proteção com o manto de xilomagia. Lakand usa o corpo como escudo para as crianças. Mário ora em silêncio — não pede, apenas observa. A tempestade passa. O grupo sai mais unido. **Nolan observa tudo de longe e vê: eles sobrevivem juntos. Isso os torna perigosos.**
+
 #### Capítulo 32 (PoV de Mário) — Reformulado
 
 o **A decisão que já estava tomada.** Mário passa os dias anteriores processando tudo: os refugiados, os escravos na Mina, a perseguição, o silêncio da Voz. Kate já o convenceu a tomar a Mina desde a fuga do castelo — mas naquela hora foi arrastado pelo desespero e pela argumentação dela. Agora, sozinho, ele **reconecta os pontos por conta própria**.
@@ -406,11 +422,17 @@ o Por fora: tenta convencê-lo a desistir — o papel dela exige que pareça rel
 
 o **Por dentro:** Kate confirma que ele mordeu a isca. As sementes plantadas nos dias anteriores — informações sobre guarnição, rotas, geologia — frutificaram. Mário acha que decidiu sozinho. **Ela sorri por dentro.**
 
+o **Kate revela o plano a Lakand.** Antes de "descobrir" o plano de Mário, Kate tem uma conversa com Lakand. _"Depois que a Mina cair, eu treino os sobreviventes. Mário inspira. Eu lidero."_ Lakand ouve em silêncio. Não concorda. Não discorda. Mas o olhar dele diz: _você está repetindo o erro deles._ Kate ignora.
+
 o _"Então vamos."_ — Kate pega as armas. A Mina será libertada. Depois, ela será a base militar. E quando os humanos estiverem prontos, Kate será a líder da guerra contra a Metrópole. Mário é só o começo.
 
 #### Capítulo 34 (PoV de Mário) — Reformulado
 
 o Marcha em direção à Mina. O grupo cresceu: Kate, Lakand, convertidos do assentamento, alguns refugiados que creram. **Não é um exército — é um bando de quebrados.** Kate organiza a logística. Lakand lidera os batedores.
+
+o **Mário ensaia o discurso.** Durante uma parada, Mário se afasta do grupo. Kate o observa de longe: ele está falando sozinho, gesticulando, repetindo frases em voz baixa. **Está ensaiando o discurso para a Mina.** Não está orando. Não está pedindo direção. Está preparando o controle do resultado. Kate vê e arquiva: _"ele acha que palavras resolvem tudo."_ O leitor sente o desconforto — o pregador ensaia, mas não ora.
+
+o **Criança toca Lakand.** Durante a marcha, uma criança — a mesma que sorriu para Lakand no batismo (cap. 30) — se aproxima dele sem medo. Toca o braço dele (forma híbrida ou humana). Pergunta: _"Você também é amigo do Mário?"_ Lakand congela. Não sabe responder. A criança aperta o braço dele e sai correndo. Lakand fica parado, processando. **Ele foi visto como "gente" por uma criança.** O desejo do cap. 12 reacende — mas ele não sabe o que fazer com isso.
 
 o Mário ora em silêncio. A Voz não diz nada. Mas ele sente — pela primeira vez — que não está sozinho.
 
