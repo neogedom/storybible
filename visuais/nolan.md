@@ -86,6 +86,17 @@ timestamp: 2026-07-24T12:00:00-03:00
   estrada para o norte
 - **Estado final**: marcha para o norte com o séquito e os rampillas
 
+## Capítulo 23 — O Rastro
+
+- **Roupas**: roupas de viagem escuras, práticas (mesmo do cap. 21)
+- **Óculos**: sim
+- **Local**: assentamento de refugiados → estrada → acampamento noturno
+- **Expressão**: analítico, intrigado ("ninguém faz algo por nada"), depois sombrio (revelação da vembra)
+- **Ação**: ajoelha-se para examinar o joelho da menina; escreve cartas; monta cavalo
+- **Objeto**: três cartas seladas; cavalo (carroça danificada)
+- **Relação**: interroga Mira; envia Mathias; confia em Ossan por controle (raiz-mestra), não por lealdade
+- **Séquito**: rampillas (~dezena), Mira com Saboc, Mathias montado, Ossan, cocheiro, dois servos
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

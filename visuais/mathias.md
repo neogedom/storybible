@@ -34,6 +34,15 @@ ultimo_capitulo: 19
 - **Relação**: mão-direita; a testemunha que Nolan interroga à noite
 - **Local**: torre em chamas → clareira → base de Nolan (castelo)
 
+## Capítulo 23 — O Rastro
+
+- **Vestimenta**: mesma do cap. 21 (roupas de soldado, mão no cabo da espada)
+- **Postura**: monta à frente do comboio, varrendo a floresta com os olhos
+- **Expressão**: maxilar travado, indignação visível — reluta em deixar Nolan
+- **Fala**: "Senhor, não posso deixá-lo aqui. Este lugar é hostil." / "Ossan é filho de Devour. O senhor confia nele?"
+- **Ação**: recebe as três cartas, guarda no casaco, monta e parte para o sul
+- **Relação**: mão-direita de Nolan; lealdade acima de obediência (questiona, mas obedece)
+
 ## Nota
 
 No cap. 19 Mathias desce aos calabouços carregando o bebê morto. É MÁRIO quem

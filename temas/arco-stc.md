@@ -1,14 +1,18 @@
 ---
 type: Theme
 title: Arco STC — Save The Cat! Beat Sheet
-description: Progressão dos 12 beats do Save The Cat! no Livro 1, mapeada por capítulo.
+description: Progressão dos 12 beats do Save The Cat! no Livro 1, mapeada por capítulo. Percentuais recalibrados em 2026-08-26 conforme word count real.
 tags: [stc, save-the-cat, beats, estrutura, L1]
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-08-26T12:00:00-03:00
 ---
 
 # Arco STC — Livro 1
 
-## Imagem de Abertura (~0%)
+> **⚠️ Recalibrado 2026-08-26:** As % abaixo refletem a posição real no word count acumulado (~115.000 palavras estimadas). O L1 está ~10 pontos percentuais à frente do planejado original — o que significa que os beats estão começando mais tarde no word count, não que o ritmo narrativo está errado. O desvio foi incorporado às novas %.
+>
+> **Consulta detalhada:** `temas/esquema-l1.md` (tabela cap-a-cap com % reais).
+
+## Imagem de Abertura (~0-3%)
 
 **Capítulo 0 — Prólogo**
 
@@ -16,7 +20,7 @@ Rito falha; silêncio; Inquiridor emerge. Nolan na Metrópole — o Sinal falha,
 Genocydo ordena a caça ao Souhma. Kate em Saramant — sente o vazamento de
 Hícse, ataca os rampillas de Devour.
 
-## Configuração (~1-10%)
+## Configuração (~3-7%)
 
 **Capítulos 1-2**
 
@@ -24,39 +28,41 @@ Mário na Terra. Sonho com Ornick (Gabbriel matando Vicent). Transição para a
 Terra; culto, discussão com Camilla, tentativa de intervenção, morte do drogado,
 recusa em curar. Mário é levado a Ornick.
 
-## Catalisador (~10%)
+## Catalisador (~7-12%)
 
 **Capítulos 2-4**
 
 Mário levado a Ornick. O mundo real do sonho se confirma. Não há como negar.
 
-## Debate (~10-20%)
+## Debate (~12-42%)
 
 **Capítulos 3-17**
 
-"Isso é real?" Mário questiona, resiste, aprende. Nolan consipra. Kate treina.
+"Isso é real?" Mário questiona, resiste, aprende. Nolan conspira. Kate treina.
 A tensão cresce até o ponto de ruptura.
 
-## Break Into 2 (~20%)
+## Break Into 2 (~42-45%)
 
 **Capítulos 18-19**
 
 Mário ressuscita Saboc. Kate escolhe Mário. Nolan muda objetivo. Dagmar morre.
 O mundo de Mário vira de cabeça para baixo — não há como voltar.
 
-## Jogos (~20-50%)
+## Jogos e Diversão (~45-68%)
 
-**Capítulos 20-25** (a escrever)
+**Capítulos 20-35**
 
-Milagres; evangelização; Mina de Quartzo.
+Milagres públicos; evangelização; jornada para a Mina de Quartzo; bola quicando
+entre os três PoVs. Mário prega sem submissão; Kate manipula; Nolan persegue.
 
-## Midpoint (~50%)
+## Ponto Central (~68%)
 
-**Capítulos 26-37** (a escrever)
+**Capítulo ~33-34**
 
-Tomada da Mina. Falsa vitória para Mário. Kate "perde" Mário.
+Tomada da Mina. Falsa vitória para Mário. Kate "perde" Mário para os Inquiridores
+ou Nolan se aproxima demais.
 
-## Vilões se Aproximam (~50-75%)
+## Vilões se Aproximam (~68-75%)
 
 **A escrever**
 

@@ -72,6 +72,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 ## Conceitos
 
+- [Protocolo de Sessão — Abertura e Fechamento de Capítulo](conceitos/checklist-capitulo.md) — Ritual de abertura (antes de escrever) e fechamento (depois de escrever): teste de PoV, stakes, cena vs. sumário, aderência STC, ação e reação, conexão causal, plantar e colher.
 - [Cosmologia de Ornick](conceitos/cosmologia.md) — Os três planos e a hierarquia divina.
 - [Milagre](conceitos/milagre.md) — Irrupção do Criador acima do Limbo; testemunho com custo, não ferramenta.
 - [Marduk](conceitos/marduk.md) — Um dos 70, patrono de Babel, senhor ausente de Ornick.

@@ -29,25 +29,27 @@ Cada capítulo deve responder:
 
 ---
 
-## Livro 1 — Progressão dos Beats
+## Livro 1 — Progressão dos Beats (recalibrado 2026-08-26)
+
+> **Nota de recalibragem:** As % abaixo foram ajustadas para refletir o word count real do L1 (~115.000 palavras estimadas). O desvio médio é de ~+10 pontos em relação ao planejado original — o L1 está mais longo, mas o ritmo narrativo está saudável. A janela de cada beat foi expandida para acomodar o pacing real.
 
 | Estágio STC              | % (recalibrado) | Capítulos | Status       |
 | ------------------------ | --------------- | --------- | ------------ |
-| Imagem de Abertura       | ~0-2%           | 0         | ✅ Escrito   |
-| Configuração             | ~1-5%           | 1-2       | ✅ Escrito   |
-| Catalisador              | ~5-10%          | 2-4       | ✅ Escrito   |
-| Debate                   | ~8-33%          | 3-17      | ✅ Escrito   |
-| Break Into 2             | ~33-38%         | 18-19     | ✅ Escrito   |
-| Jogos (Velocino de Ouro) | ~38-68%         | 20-34     | 📝 Planejado |
-| Ponto Central            | ~68-70%         | 35        | 📝 Planejado |
-| Vilões se Aproximam      | ~50-75%         | —         | 📝 Planejado |
+| Imagem de Abertura       | ~0-3%           | 0         | ✅ Escrito   |
+| Configuração             | ~3-7%           | 1-2       | ✅ Escrito   |
+| Catalisador              | ~7-12%          | 2-4       | ✅ Escrito   |
+| Debate                   | ~12-42%         | 3-17      | ✅ Escrito   |
+| Break Into 2             | ~42-45%         | 18-19     | ✅ Escrito   |
+| Jogos (Velocino de Ouro) | ~45-68%         | 20-34     | ✍️ Escrevendo |
+| Ponto Central            | ~68%            | ~33-34    | 📝 Planejado |
+| Vilões se Aproximam      | ~68-75%         | —         | 📝 Planejado |
 | Tudo Está Perdido        | ~75%            | —         | 📝 Planejado |
 | Noite Escura da Alma     | ~75-80%         | —         | 📝 Planejado |
 | Break Into 3             | ~80%            | —         | 📝 Planejado |
 | Final                    | ~80-99%         | —         | 📝 Planejado |
 | Imagem Final             | ~99-100%        | —         | 📝 Planejado |
 
-_Nota: As % dos beats pós-Break Into 2 estão em fase de recalibragem e podem se sobrepor._
+> **Projeção:** Mantido o ritmo atual (~2.600 palavras/capítulo), o Ponto Central (~68%) chegará por volta do cap. 33-34 com ~80.000 palavras acumuladas. O L1 total deve ficar entre 110.000 e 120.000 palavras.
 
 ---
 

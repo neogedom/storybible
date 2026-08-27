@@ -3,55 +3,59 @@ type: Theme
 title: Esquema do Livro 1 — Roteiro Cap-a-Cap
 description: Roteiro cap-a-cap detalhado do Livro 1 (Evangelho às Estrelas), com beats STC recalibrados para multi-PoV.
 tags: [tema, esquema, L1, outline, stc]
-timestamp: 2026-07-25T12:00:00-03:00
+timestamp: 2026-08-26T12:00:00-03:00
 ---
 
 # Esquema do Livro 1
 
 > **Fonte de verdade para beats STC:** `temas/arco-stc.md`
-> **Capítulos já escritos (0-19):** `capitulos/capitulo-00.md` a `capitulos/capitulo-19.md`
+> **Capítulos já escritos (0-23):** `capitulos/capitulo-00.md` a `capitulos/capitulo-23.md`
+>
+> **⚠️ Recalibragem 2026-08-26:** O L1 está escrevendo mais palavras por capítulo que o planejado original. A média real é ~2.592 palavras/capítulo. Para ~42 capítulos totais, a estimativa sobe para ~115.000 palavras. As porcentagens abaixo foram recalibradas para refletir a posição real no word count. O desvio não é erro — é informação para o pacing. Se o ritmo se mantiver, o Ponto Central (~68% STC) chegará por volta do cap. 33-34 com ~80.000 palavras acumuladas.
 
 ---
 
 ## Progressão por Capítulo (Escritos)
 
-| Capítulo | Beat STC                            | POV          | Arquivo                    |
-| -------- | ----------------------------------- | ------------ | -------------------------- |
-| 0        | Imagem de Abertura (~0-2%)          | Nolan + Kate | `capitulos/capitulo-00.md` |
-| 1        | Configuração (~2-5%)                | Mário        | `capitulos/capitulo-01.md` |
-| 2        | Configuração / Catalisador (~5-10%) | Mário        | `capitulos/capitulo-02.md` |
-| 3        | Debate (~10-12%)                    | Nolan        | `capitulos/capitulo-03.md` |
-| 4        | Debate (~12-14%)                    | Mário        | `capitulos/capitulo-04.md` |
-| 5        | Debate (~14-16%)                    | Kate         | `capitulos/capitulo-05.md` |
-| 6        | Debate (~16-18%)                    | Nolan        | `capitulos/capitulo-06.md` |
-| 7        | Debate (~18-20%)                    | Mário        | `capitulos/capitulo-07.md` |
-| 8        | Debate (~20-22%)                    | Kate         | `capitulos/capitulo-08.md` |
-| 9        | Debate (~22-24%)                    | Nolan        | `capitulos/capitulo-09.md` |
-| 10       | Debate (~24-26%)                    | Mário        | `capitulos/capitulo-10.md` |
-| 11       | Debate (~14-16%)                    | Kate         | `capitulos/capitulo-11.md` |
-| 12       | Debate (~26-28%)                    | Mário        | `capitulos/capitulo-12.md` |
-| 13       | Debate (~28-30%)                    | Nolan        | `capitulos/capitulo-13.md` |
-| 14       | Debate (~30-31%)                    | Kate         | `capitulos/capitulo-14.md` |
-| 15       | Debate (~31-32%)                    | Mário        | `capitulos/capitulo-15.md` |
-| 16       | Debate (~32-33%)                    | Nolan        | `capitulos/capitulo-16.md` |
-| 17       | Debate (~33-35%)                    | Kate         | `capitulos/capitulo-17.md` |
-| 18       | Break Into 2 (~35-38%)              | Nolan        | `capitulos/capitulo-18.md` |
-| 19       | Break Into 2 (~38-40%)              | Kate         | `capitulos/capitulo-19.md` |
-| 20       | Jogos e Diversão (~38-40%)         | Mário        | `capitulos/capitulo-20.md` |
-| 21       | Jogos e Diversão (~38-40%)         | Nolan        | `capitulos/capitulo-21.md` |
-| 22       | Jogos e Diversão (~42-44%)         | Kate         | `capitulos/capitulo-22.md` |
-| 23       | Jogos e Diversão (~44-46%)         | Nolan        | `capitulos/capitulo-23.md` |
-| 24       | Jogos e Diversão (~46-48%)         | Mário        | `capitulos/capitulo-24.md` |
-| 25       | Jogos e Diversão (~48-50%)         | Kate         | `capitulos/capitulo-25.md` |
-| 26       | Jogos e Diversão (~50-52%)         | Mário        | `capitulos/capitulo-26.md` |
-| 27       | Jogos e Diversão (~52-54%)         | Kate         | `capitulos/capitulo-27.md` |
-| 28       | Jogos e Diversão (~54-56%)         | Nolan        | `capitulos/capitulo-28.md` |
-| 29       | Jogos e Diversão (~56-58%)         | Mário        | `capitulos/capitulo-29.md` |
-| 30       | Jogos e Diversão (~58-60%)         | Kate         | `capitulos/capitulo-30.md` |
+| Capítulo | Beat STC                            | POV          | % Planejada (original) | % Real (recalibrada) | Palavras |
+| -------- | ----------------------------------- | ------------ | ---------------------- | -------------------- | -------- |
+| 0        | Imagem de Abertura                  | Nolan + Kate | ~0-2%                  | ~2,6%                | 3.033    |
+| 1        | Configuração                        | Mário        | ~2-5%                  | ~5,0%                | 2.727    |
+| 2        | Configuração / Catalisador          | Mário        | ~5-10%                 | ~7,0%                | 2.333    |
+| 3        | Debate                              | Nolan        | ~10-12%                | ~9,4%                | 2.719    |
+| 4        | Debate                              | Mário        | ~12-14%                | ~11,5%               | 2.467    |
+| 5        | Debate                              | Kate         | ~14-16%                | ~13,5%               | 2.270    |
+| 6        | Debate                              | Nolan        | ~16-18%                | ~17,4%               | 4.488    |
+| 7        | Debate                              | Mário        | ~18-20%                | ~19,5%               | 2.416    |
+| 8        | Debate                              | Kate         | ~20-22%                | ~22,0%               | 2.844    |
+| 9        | Debate                              | Nolan        | ~22-24%                | ~24,6%               | 3.004    |
+| 10       | Debate                              | Mário        | ~24-26%                | ~25,9%               | 1.453    |
+| 11       | Debate                              | Kate         | ~14-16%                | ~28,9%               | 3.524    |
+| 12       | Debate                              | Mário        | ~26-28%                | ~31,9%               | 3.473    |
+| 13       | Debate                              | Nolan        | ~28-30%                | ~33,6%               | 1.967    |
+| 14       | Debate                              | Kate         | ~30-31%                | ~35,2%               | 1.776    |
+| 15       | Debate                              | Mário        | ~31-32%                | ~37,3%               | 2.510    |
+| 16       | Debate                              | Nolan        | ~32-33%                | ~39,2%               | 2.123    |
+| 17       | Debate                              | Kate         | ~33-35%                | ~41,6%               | 2.833    |
+| 18       | Break Into 2                        | Nolan        | ~35-38%                | ~43,7%               | 2.391    |
+| 19       | Break Into 2                        | Kate         | ~38-40%                | ~45,3%               | 1.829    |
+| 20       | Jogos e Diversão                    | Mário        | ~38-40%                | ~47,3%               | 2.301    |
+| 21       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~49,5%               | 2.531    |
+| 22       | Jogos e Diversão                    | Kate         | ~42-44%                | ~52,1%               | 2.963    |
+| 23       | Jogos e Diversão                    | Nolan        | ~44-46%                | ~56,3%               | 2.204    |
+| 24       | Jogos e Diversão                    | Mário        | ~46-48%                | —                     | —        |
+| 25       | Jogos e Diversão                    | Kate         | ~48-50%                | —                     | —        |
+| 26       | Jogos e Diversão                    | Mário        | ~50-52%                | —                     | —        |
+| 27       | Jogos e Diversão                    | Kate         | ~52-54%                | —                     | —        |
+| 28       | Jogos e Diversão                    | Nolan        | ~54-56%                | —                     | —        |
+| 29       | Jogos e Diversão                    | Mário        | ~56-58%                | —                     | —        |
+| 30       | Jogos e Diversão                    | Kate         | ~58-60%                | —                     | —        |
 
 ---
 
-## Jogos e Diversão (~38-55%) — Caps. 20-35
+## Jogos e Diversão (~47-68%) — Caps. 20-35
+
+> **⚠️ Recalibrado 2026-08-26:** O beat começou antes do previsto (cap. 20 com ~47% em vez de ~38%) porque o Debate e Break Into 2 ocuparam mais palavras que o planejado. A janela do beat (~47-68%) ainda comporta os caps. 20-35 com folga. O Ponto Central (~68%) deve chegar por volta do cap. 33-34 com ~80.000 palavras acumuladas.
 
 > **Gênero STC:** Velocino de Ouro — jornada de Mário e Kate em busca de um objetivo (a libertação da Mina de Quartzo), enfrentando desafios, recrutando ajudantes ao longo do caminho, com a dupla funcionando em complemento: Mário pensa e articula (raciocínio abdutivo), Kate age e executa (força física e tática).
 
