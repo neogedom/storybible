@@ -1,5 +1,28 @@
 # Log de Atualizações
 
+## 2026-08-29 (revisão cap. 22 — 2ª rodada do fluxo por capítulo)
+
+- **Cap. 22 revisado (POV Kate — "O Assentamento")**: Guardião (aprovado com
+  ressalvas leves — símile da carta e "vocabulário" destoam do filtro de
+  Kate; redundância das mães no pitch; Tae-Tabor confirmado no canon),
+  Arquiteto (aprovado com ajustes — pitch condensado; justificativa dupla do
+  riacho cortada; plantio do Souhma funcional), Revisor (aprovado com
+  correções — 1 crítico de formatação: travessão na narração → parênteses;
+  ~10 médios: sintaxe, redundâncias, desvios de voz; ~15 leves).
+- **Correções aplicadas (24)**: travessão do parágrafo 4 → parênteses;
+  "as mães dizem aos filhos" (2ª ocorrência) → "As mães da região não
+  mentem: a Mina acaba com as pessoas"; "vocabulário para aprender" →
+  "não tinha como aprender"; "espera uma carta que não chega" → "espera
+  algo que não vem"; "Mário, seu nome, não é?" → "Mário, não é esse o seu
+  nome?"; "Se lembrarão" → "Vão se lembrar"; "como ele fosse" → "como se
+  ele fosse"; "já não era mais" → "já não era"; "atrasou" → "adiou";
+  "inspirasse o que precisava inspirar" → "fizesse o que precisava fazer";
+  entre outros.
+- **Decisão de voz (registrada)**: "Mário, não é esse o seu nome?" mantém a
+  tática retórica de Kate (usar o nome para criar intimidade na negociação)
+  sem soar como se ela não soubesse o nome.
+- **Arquivos**: `Livro 1/capitulo22.md` (correções), `log.md`.
+
 ## 2026-08-29 (decisão de processo — revisão por capítulo com os 3 agentes)
 
 - **Mudança de fluxo (decisão do autor)**: durante a escrita privada do L1,
