@@ -102,6 +102,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: luz de fogueira, entardecer
 - Fundo: acampamento de refugiados, barracos de lona e galho
 
+## Capítulo 24 — A Feira de Tronk
+
+- Roupas: couro de caçadora, manto de xilomagia de Tharin sobre os ombros
+- Acessórios: faca de caça (mão no cabo ao intervir)
+- Sujeira: poeira da estrada e da feira
+- Cabelo: longo, escuro
+- Expressão: alerta, lendo o terreno; mão no cabo da faca; pragmatismo (pressiona Mário a aceitar as moedas)
+- Iluminação: luz do dia, feira movimentada
+- Fundo: barracas de lona, carroças, fogueiras
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

@@ -51,6 +51,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: luz de fogueira, entardecer
 - Fundo: acampamento de refugiados, borda da clareira
 
+## Capítulo 24 — A Feira de Tronk
+
+- Forma: híbrida atenuada (mais homem do que fera)
+- Pelagem: chamuscada do fogo (ch19), ainda marcada
+- Expressão: silencioso, na borda da feira; se posiciona entre Mário e os carroceiros sem palavra; observa o curado com o antigo aperto
+- Iluminação: luz do dia, feira movimentada
+- Fundo: borda da feira, longe das pessoas
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

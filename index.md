@@ -48,6 +48,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 20 — A Crise da Voz](capitulos/capitulo-20.md) — Fuga do castelo em chamas; Mário identifica a Voz como Deus e responde com raiva; não ora.
 - [Capítulo 21 — A Pira Involuntária](capitulos/capitulo-21.md) — Nolan foge do incêndio com Saboc; luto frio; assume a base de Devour e parte para possuir Mário.
 - [Capítulo 22 — O Assentamento](capitulos/capitulo-22.md) — Kate, Mário e Lakand iniciam a jornada; pitch da Mina em duas fases (cura/esperança como isca); cura da criança paralítica; Kate recalibra o desprezo em "potencial".
+- [Capítulo 23 — O Rastro](capitulos/capitulo-23.md) — Nolan confirma o milagre replicável; revelação da vembra; escreve três cartas; decide se apresentar como aliado a Mário.
+- [Capítulo 24 — A Feira de Tronk](capitulos/capitulo-24.md) — Mário cura de propósito e prega; primeira hostilidade aberta; descobre a Metrópole; gancho: Kate o observa "como quem mede uma ferramenta".
 
 ## Visuais (Timelines)
 

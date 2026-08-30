@@ -114,6 +114,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: luz de fogueira, entardecer
 - Fundo: acampamento de refugiados, perto das crianças
 
+## Capítulo 24 — A Feira de Tronk
+
+- Roupas: camiseta manchada de fuligem e sangue (das fugas) — ainda sem troca
+- Ferimentos: **braço direito** (ferida em cicatrização); exaustão; fraqueza do jejum
+- Acessórios: sem óculos; **moedas de cobre** no bolso (dadas pela mulher da barraca)
+- Sujeira: poeira da estrada e da feira
+- Expressão: hesitante → convicção na pregação → exausto (pernas cedem) → observador
+- Iluminação: luz do dia, feira movimentada
+- Fundo: barracas de lona, carroças, fogueiras acesas no meio do dia
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

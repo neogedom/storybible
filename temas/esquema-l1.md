@@ -43,7 +43,7 @@ timestamp: 2026-08-26T12:00:00-03:00
 | 21       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~49,5%               | 2.531    |
 | 22       | Jogos e Diversão                    | Kate         | ~42-44%                | ~52,1%               | 2.963    |
 | 23       | Jogos e Diversão                    | Nolan        | ~44-46%                | ~56,3%               | 2.204    |
-| 24       | Jogos e Diversão                    | Mário        | ~46-48%                | —                     | —        |
+| 24       | Jogos e Diversão                    | Mário        | ~46-48%                | ~58,6%               | 2.859    |
 | 25       | Jogos e Diversão                    | Kate         | ~48-50%                | —                     | —        |
 | 26       | Jogos e Diversão                    | Mário        | ~50-52%                | —                     | —        |
 | 27       | Jogos e Diversão                    | Kate         | ~52-54%                | —                     | —        |

@@ -69,6 +69,27 @@ ressurreição é um **atributo em ato**, não resposta a fórmula.
 - O contraste cap. 22 / cap. 23 é o fio teológico do arco: receber vs.
   produzir, graça vs. esforço, ocasião vs. ausência.
 
+### A cura intencional do cap. 24 (canon 2026-08-28)
+
+- **Primeira cura por ato de vontade.** No cap. 24, Mário **decide** curar:
+  vê o homem esfaqueado, Kate o olha ("agora ou nunca"), e ele ajoelha-se e
+  **pede** a cura — não como oração submissa, mas como ato de vontade. A
+  cura acontece. A Voz não diz nada.
+- **O silêncio é lido como validação (ironia).** Mário interpreta o silêncio
+  da Voz como confirmação do seu caminho — "a teologia basta, não preciso da
+  Voz". O leitor sente o desconforto: a ferramenta certa nas mãos erradas.
+  Ele prega o evangelho correto **em oposição** à Voz, para provar que está
+  certo.
+- **Não contradiz o canon do cap. 22.** A distinção não é "compaixão vs.
+  vontade" como classes opostas, mas a **motivação**: no cap. 22 ele é movido
+  (não consegue não fazer); no cap. 24 ele age de propósito (para provar uma
+  tese). O poder continua não sendo "dele" — mas agora ele o usa como
+  ferramenta de autovalidação, o que é o germe do risco estrutural (Mário
+  usando o dom para provar que não precisa de Deus).
+- **Custo preservado:** a cura funciona, mas o capítulo fecha com a
+  consciência sussurrando "Você só quer vencer" — e com Kate observando-o
+  "como quem mede uma ferramenta". O milagre não o confirma; expõe a fissura.
+
 ## "Acima do Limbo" — ontológico, não posicional
 
 ## "Acima do Limbo" — ontológico, não posicional

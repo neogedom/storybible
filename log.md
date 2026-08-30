@@ -1,5 +1,37 @@
 # Log de Atualizações
 
+## 2026-08-29 (decisão de processo — revisão por capítulo com os 3 agentes)
+
+- **Mudança de fluxo (decisão do autor)**: durante a escrita privada do L1,
+  cada capítulo fechado passa agora por **revisão em cascata** antes do
+  Mini-INGEST: Guardião de Coerência → Arquiteto de Densidade → Revisor
+  Linguístico. O congelamento continua com revisão cruzada final (consistência
+  de voz entre capítulos, arco, sementes), mas o trabalho pesado é feito por
+  capítulo. Motivação: qualidade da prosa (Le Guin), economia narrativa
+  (Assis Brasil — cena vs. sumário) e erros crassos que se perdem no volume.
+- **Modelo dos agentes**: frontmatters atualizados para
+  `DeepSeek: DeepSeek V4 Flash 0731 (openrouter)` (sem sufixo batch — o
+  modelo batch não roda em subagentes interativos).
+- **1ª rodada executada (cap. 21)**: Guardião (aprovado com ressalvas —
+  misatribuição de Dagmar como leitura de Nolan; "ninguém mais conseguia
+  ler"; deslize temporal da parteira), Arquiteto (aprovado com ajustes —
+  vistoria condensada; metáfora do arquivo mental variada; parágrafo
+  Genocydo destrinchado), Revisor (aprovado com correções — "Eu o segurei";
+  pleonasmos; redundâncias). Correções aplicadas no texto.
+- **Falso positivo do Guardião (registro para memória)**: o Guardião
+  interpretou "Ossan d'Tirath" como nome do pai e sugeriu renomear o filho —
+  mas o canon registrado (`personagens/ossan.md`) confirma que Ossan d'Tirath
+  É o filho de Devour (o pai é Devour). A correção foi revertida. Lição:
+  validar sugestões de renomeação de personagens contra a storybible antes
+  de aplicar.
+- **Arquivos**: `Livro 1/capitulo21.md` (correções), `log.md`.
+
+## 2026-08-28 (Mini-INGEST cap. 24 — "A Feira de Tronk")
+
+- **Cap. 24 fechado (POV Mário)**: dias de caminhada; Lakand força Mário a comer; Feira de Tronk; briga por dívida; homem esfaqueado; **cura intencional** (ato de vontade, sem a Voz — contraste com cap. 22); pregação em quatro movimentos (evangelho correto em oposição à Voz); conversão genuína; carroceiro volta ("feiticeiro") — primeira hostilidade aberta; Kate intervém, Lakand se posiciona, curado se coloca na frente; descoberta da Metrópole (ilha no Cran, Muro Interno, Mina, dívida hereditária); mulher da barraca dá moedas (primeiro gesto de graça); gancho: Mário sente que Kate o observa "como quem mede uma ferramenta".
+- **Canon duro**: cura intencional (primeira por ato de vontade, sem a Voz); Souhma aplicado a Mário (Kate já conhecia o termo — cap. 22:135); Metrópole = ilha no Cran + Muro Interno + Mina devora devedores + dívida hereditária; "Os deuses cobravam. Mas não davam." (generalização do POV de Mário, parcialmente errada); Kate não se ajoelha (eco cap. 22:129).
+- **Arquivos**: `capitulos/capitulo-24.md` (criado), `visuais/mario.md`, `visuais/kate.md`, `visuais/lakand.md`, `temas/esquema-l1.md` (tabela), `log.md`.
+
 ## 2026-08-22 (canon — raridade da cura + tensão cessacionismo resolvida)
 
 - **Raridade da cura (canon):** magia ornickenha não tem classe de cura — fere, nunca conserta. Kate pensa "magia feria, magia matava, magia nunca tinha consertado nada" (cap. 22). A cura da criança é salto de classe para os refugiados — por isso se ajoelham.

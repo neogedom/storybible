@@ -66,7 +66,7 @@ Não precisa ser a protagonista para ser importante. A violência não é via de
 salvação — é via de mais violência. Pertencer não se conquista com glória;
 valor não se acumula em combate.
 
-### Sintoma Comportamental (tique físico — proposta)
+### Sintoma Comportamental (tique físico — implementado)
 
 **Aperta o próprio pulso esquerdo**, o polegar cravado na parte de dentro,
 onde a pele é fina, onde se checa um pulso, onde seguram quem vão entregar.
@@ -76,6 +76,13 @@ quando o passado (mãe, pai, gornads, Cressadar) aflora. Reencena o próprio
 aprisionamento para controlá-lo: se ela segura o próprio pulso, ninguém mais
 a segura. (Os pulsos amarrados de sisal do cap. 19 são a memória física do
 gesto.)
+
+O gesto foi semeado na prosa (decisão 2026-08-29), com intensidade variada:
+cap. 5 (eco do toque de Gaviorn'l, figura paterna — "a mão ficou ali um
+instante a mais do que precisava"); cap. 8 (toque íntimo de Lakand beijando os
+pulsos — a mão dela aperta o pulso que a boca dele tocara); cap. 19 (bloqueado:
+mãos amarradas de sisal, o polegar não encontra a pele); cap. 20 (rápido,
+visto por Mário sem explicação); cap. 22 (gesto pleno e interno). A linguagem varia em cada ocorrência para não virar tique mecânico.
 
 ### Medo de Ativação
 
