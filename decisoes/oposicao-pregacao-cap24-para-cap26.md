@@ -73,3 +73,77 @@ denúncia já está plantada.
    final, como recompensa da oposição.
 3. **A defesa do homem curado** pode virar a parábola viva da substituição
    penal (ver `decisoes/traducao-substituicao-penal-ponte-divida.md`).
+
+---
+
+## A Cena de Oposição no Cap. 26 (evolução aprovada 2026-08-30)
+
+### A escalada dos boatos (4 degraus)
+
+A acusação cresce em degraus naturais de rumor, cada um ancorado em canon:
+
+| Degrau | Acusação | Canon que ancora |
+|---|---|---|
+| 1 | "É um feiticeiro" | Medo do desconhecido (a cura como categoria nova) |
+| 2 | "Não é aquele por quem o Rei prometeu recompensa?" | A **Recompensa Maior** de Genocydo (cap. 3, Koda) |
+| 3 | "É quem queimou Saramant. Queimaram de propósito." | O incêndio de Devour/Saramant (caps. 20-21) — **ironia dramática**: o leitor sabe que foi acidental (decisão 2026-08-03), os boatos atribuem a Mário e aos companheiros |
+| 4 | **Divisão da multidão** (ver abaixo) | A ambiguidade canônica do Souhma |
+
+### A divisão da multidão (degrau 4)
+
+No meio da escalada, a multidão se **divide** — e cada grupo erra de um jeito
+diferente:
+
+- **Uns atribuem**: "Ele é o Souhma."
+- **Outros negam**: "Não é. O Souhma vem para fazer o bem. Ele é claramente
+  mal."
+
+**Por que funciona:**
+
+- A profecia do Souhma é **disputada** — canon de Vonos: o culto souhmânico é
+  a "interpretação popular (telefone sem fio)" da profecia do Estrangeiro.
+  Não há consenso sobre o que o Souhma é; a multidão reflete isso.
+- **Ironia dramática dupla**: a mesma acusação que torna Mário ameaça
+  (incendiário) também o **desqualifica como salvador** (o Souhma é bom, ele
+  é mal). O leitor sabe as duas coisas que a multidão não sabe: Mário **é** o
+  candidato a Souhma, e o incêndio foi **acidental**.
+- A oposição deixa de ser unânime e vira **rachada** — tensão maior porque é
+  imprevisível (pode virar violência a qualquer momento).
+
+**Condição de clareza:** a negação precisa ancorar na imagem do Souhma como
+benfeitor puro ("vem para fazer o bem") — o contraste com o Mário contaminado
+pelos boatos é o que torna a divisão compreensível, não ruído.
+
+### O conflito Kate × Lakand
+
+- **Lakand entra em fúria** e ameaça trucidar quem falou — fiel à persona
+  (instintivo, silencioso, protetor; o mesmo que disse "Você vai morrer. Eu
+  não vou deixar."). A fúria dele **expõe** o grupo, forçando a fuga.
+- **Kate o impede** e recomenda fugirem dali.
+- **Lakand não entende o que Kate virou** — está impedindo ele de usar
+  violência. É a primeira vez que a manipulação de Kate encontra resistência
+  dentro do próprio grupo.
+- **Kate explica o plano**: estava preparando Mário para algo maior. Isso
+  verbaliza a ironia dramática do beat (o esquema: "Mário acha que decidiu ir
+  à Mina; Kate sabe que plantou cada semente").
+
+### Contornos aplicados (para não manchar o canon)
+
+1. **Lakand não vira cúmplice passivo.** Ele concorda em fugir por
+   pragmatismo (proteger Mário agora), mas **guarda desconfiança de Kate**.
+   Semente: Lakand é o guardião de Mário — se perceber que Kate o usa como
+   ferramenta, pode se voltar contra ela. Tensão para capítulos seguintes.
+2. **Mário reage à acusação de Saramant.** Ele sabe que o incêndio foi
+   acidental, mas foi por causa dele que o castelo queimou. Ouvir "queimaram
+   de propósito" ecoa a culpa dele — um parágrafo de reação interna enquanto
+   a multidão grita, sem fala.
+3. **Kate não explica tudo.** Ela explica o suficiente para Lakand recuar (o
+   pragmatismo), mas não o plano completo. O leitor já viu a manipulação por
+   dentro no cap. 25 (PoV de Kate) — a explicação no 26 confirma, não revela.
+
+### Alerta de densidade
+
+O cap. 26 carrega: segunda pregação + oposição (escalada + divisão) + fuga +
+conflito Kate/Lakand + conclusão de Mário sobre eles. Pode ser necessário
+dividir o capítulo, ou mover a conclusão de Mário ("já não eram estranhos")
+para o cap. 27. Monitorar na escrita.
