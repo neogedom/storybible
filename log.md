@@ -1,5 +1,33 @@
 # Log de Atualizações
 
+## 2026-08-30 (decisão — Nolan retorna à Metrópole; caçada via rampillas)
+
+- **Nolan retorna à Metrópole para matar Juleen (decisão formal)**: recebe a
+  carta de resposta de Layla sobre a vembra e decide voltar para resolver
+  pessoalmente. O retorno é o custo na corrida (Inquiridores ganham
+  vantagem).
+- **Caçada via rampillas (sentidos à distância)**: Nolan deixa rampillas no
+  encalço de Mário e observa à distância através deles (o mecanismo que
+  Devour usava — "extensão do corpo"). O cap. 31 (observação) ganha
+  mecanismo concreto. A cena mais fria do livro: Nolan enforcando Juleen
+  enquanto "vê" Mário sobreviver à tempestade de quartzo.
+- **Ossan opera os sentidos (não ensina)**: Nolan é leviantar, não xilomago;
+  a dependência mantém a tensão; Ossan pode filtrar ou sabotar o que Nolan
+  vê — bomba-relógio do L2.
+- **Mecanismo com limitações**: percepção, não diálogo; alcance limitado
+  pela raiz-mestra; foco dividido.
+- **O enforcamento (cap. 31, POV Nolan — correção 2026-08-30)**: o
+  enforcamento foi inicialmente registrado no cap. 30, mas o cap. 30 é POV
+  Kate (o batismo) — não pode ser mostrado num capítulo cujo POV está no
+  assentamento. Movido para o cap. 31, que abre com o enforcamento e segue
+  para a observação via rampillas. Nolan chega com rampillas; Conselho o
+  censura, ele ignora; rampillas trazem Juleen; Nolan não permite que a
+  matem — ele mesmo quer fazer. A cena da acusação de humana (canon
+  2026-08-30) acontece aqui.
+- **Arquivos**: `decisoes/nolan-retorna-metropole-juleen-rampillas.md`
+  (novo), `temas/esquema-l1.md` (caps. 28, 30, 31), `personagens/ossan.md`,
+  `personagens/juleen.md`, `conceitos/rampillas.md`, `log.md`.
+
 ## 2026-08-30 (revisão cap. 23 — 3ª rodada do fluxo por capítulo, concluída)
 
 - **Cap. 23 revisado (POV Nolan — "O Rastro")**: Guardião (Solicita reescrita

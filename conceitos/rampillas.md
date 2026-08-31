@@ -93,6 +93,21 @@ sobrevive** — **Ossan d'Tirath, filho de Devour** — e se torna asset de
 Nolan, conhecendo o jardim e a raiz-mestra (ver cap. 21 e
 `personagens/ossan.md`).
 
+## Sentidos à Distância (canon 2026-08-30)
+
+- **Mecanismo**: o controlador da raiz-mestra pode sentir através dos
+  rampillas — posição, visão, calor — como Devour sentia através deles
+  ("extensão do corpo de Devour").
+- **Limitações**: percepção, não diálogo (Nolan vê/ouve/sente, não conversa);
+  alcance limitado pela raiz-mestra (a distância Metrópole→norte é o
+  limite, ou exige um "nó" intermediário); foco dividido (sentir através de
+  muitos ao mesmo tempo é custoso — Nolan alterna entre os que importam).
+- **Operado por Ossan (decisão 2026-08-30)**: quando Nolan retorna à
+  Metrópole (cap. 28-31), Ossan opera os sentidos dos rampillas deixados no
+  encalço de Mário. Nolan NÃO aprende o mecanismo — a dependência mantém a
+  tensão, e Ossan pode filtrar ou sabotar o que Nolan vê (bomba-relógio do
+  L2).
+
 ## Prompt de Referência Canônica (criatura)
 
 > Uso: bloco fixo para o gerador de imagens dos capítulos (Copilot) quando

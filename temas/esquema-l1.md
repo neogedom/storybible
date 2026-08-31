@@ -364,6 +364,13 @@ o **Nolan entende:** Mário não é só um milagre ambulante. É um **cérebro**
 
 o **A decisão:** Nolan precisa chegar antes dos Inquiridores. E quando chegar, precisa se apresentar não como inimigo, mas como **aliado**. A única forma de possuir Mário é fazer com que ele **queira** ficar.
 
+o **O retorno à Metrópole (decisão 2026-08-30).** Nolan recebe a **carta de
+  resposta de Layla** sobre a vembra e decide que precisa voltar para
+  resolver pessoalmente. Deixa rampillas no encalço de Mário e parte. O
+  retorno é o **custo** na corrida: ele perde a proximidade física, e os
+  Inquiridores ganham vantagem. Mas agora ele tem os **olhos dos rampillas**
+  (sentidos à distância, operados por Ossan — ver `conceitos/rampillas.md`).
+
 #### Capítulo 29 (PoV de Mário) — Novo (Criatura Fantástica)
 
 o **Os Moribundos.** Para evitar nova patrulha dos Inquiridores, Mário, Kate e Lakand entram num território deformado: um campo de batalha da **Guerra Milenar** onde o trauma foi tão intenso que deixou uma cicatriz física no mundo. Os Moribundos não são almas penadas — são **ecos**, resíduos de um conflito entre deuses (elohins) que rompeu a realidade e deixou cópias sensoriais dos soldados presas num loop de batalha.
@@ -396,7 +403,25 @@ o **Lakand se aproxima:** _"Você está apaixonada."_ Kate não nega — mas tam
 
 #### Capítulo 31 (PoV de Nolan) — Reformulado
 
-o **Observação.** Nolan alcança a vizinhança do grupo. Não ataca — observa de longe.
+o **O enforcamento de Juleen (correção 2026-08-30 — era cap. 30, mas o cap.
+  30 é POV Kate).** Nolan chega à Metrópole com rampillas (alguns foram com
+  ele). Pessoas do Conselho o questionam e o censuram — ele ignora (o homem
+  da ordem trazendo o caos para dentro). Usa os rampillas para procurar
+  Juleen — **é um deles que a traz**. Nolan NÃO permite que os rampillas a
+  matem — **ele mesmo quer fazer**. A cena do enforcamento: Nolan acusa
+  Juleen de ser humana; ela se defende (é leviantar de casta baixa); Nolan
+  não quer escutar — o preconceito beirando a loucura, espiral descendente
+  que o levará a Cressadar e Terbs no fim do L1. (Ver
+  `personagens/juleen.md` e `decisoes/nolan-retorna-metropole-juleen-rampillas.md`.)
+
+o **Observação via rampillas (decisão 2026-08-30).** Nolan alcança a
+  vizinhança do grupo — não fisicamente, mas **através dos rampillas**
+  deixados no encalço. Ossan opera os sentidos (percepção, não diálogo;
+  alcance limitado pela raiz-mestra; foco dividido). Nolan "assiste" de
+  longe — e vê o que Ossan quer que ele veja. **A cena mais fria do livro:**
+  Nolan acaba de enforcar Juleen e "assiste" Mário sobreviver à tempestade
+  de quartzo com os companheiros — a vingança pessoal e a caçada no mesmo
+  gesto.
 
 o Vê Kate consultando Mário antes de uma decisão tática. Vê Mário articulando uma solução que Kate não tinha considerado. Vê a dupla funcionando.
 
