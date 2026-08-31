@@ -1,5 +1,29 @@
 # Log de Atualizações
 
+## 2026-08-30 (revisão cap. 23 — 3ª rodada do fluxo por capítulo, concluída)
+
+- **Cap. 23 revisado (POV Nolan — "O Rastro")**: Guardião (Solicita reescrita
+  focada — o bloco da vembra violava a decisão 08-19 que o movia para o
+  cap. 25; resolvido: o cap. 25 é POV Kate, então a vembra fica no 23),
+  Arquiteto (Aprovado com ajustes — carta a Koda diferenciada da carta ao
+  Rei; joelho condensado; pontuação), Revisor (Aprovado com correções — 1
+  crítico de modo verbal, 11 médios, 13 leves).
+- **Correções aplicadas (lote final)**: carta a Koda abre com "Como escrevi
+  ao Rei..." (elimina a duplicação verbatim); travessão na carta ao Rei →
+  vírgulas; "não vire dívida nem pese nos cofres" (subjuntivo); pontuação
+  de diálogo ("orgulhosa." / "Nolan disse."); "Nolan virou-se e acenou"
+  (sujeito explícito); "A pele ao redor" (redundância); "Isso tornava ainda
+  mais verdadeiro o que ele reconhecera" (sintaxe); "mente analítica exigia
+  mais uma confirmação... dar como real" (período de 50 palavras cortado);
+  "foi adormecendo aos poucos" (gerúndio passivo); "a carroça sobrevivera"
+  (vírgula emendada); "O mundo que deixara para lá do Cran" (sintaxe);
+  "Ela lhe devia um favor" (pronome); "título do homem que os humanos
+  esperavam" (antecedente); "confundi-lo com vembra" (elipse); "saltado aos
+  olhos" (idiomatismo); "não teria exército" (tempo verbal); "depois de ter
+  nascido morto" (particípio).
+- **Arquivos**: `Livro 1/capitulo23.md` (correções), `capitulos/capitulo-23.md`
+  (atualizado), `log.md`.
+
 ## 2026-08-30 (revisão cap. 23 — 3ª rodada do fluxo por capítulo)
 
 - **Cap. 23 revisado (POV Nolan — "O Rastro")**: Guardião (Solicita reescrita

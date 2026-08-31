@@ -86,7 +86,7 @@ POV Nolan. Nolan alcança o assentamento de refugiados onde Mário curou a crian
 ## Sementes e Conexões
 
 - **Semente #6 (vembra)**: Nolan escreve a Layla — investigação do chá de Dagmar fermenta até o cap. 30
-- **Souhma ancorado**: a velha do assentamento murmura "o Souhma" — Nolan ouve o termo pela primeira vez na caçada e o guarda (usado depois na carta a Koda)
+- **Souhma ancorado**: a velha do assentamento murmura "o Souhma" — Nolan ouve o termo na caçada e o guarda (usado depois na carta a Koda). Nolan sabe a distinção: Souhma é o nome popular ("telefone sem fio") da figura lendária que o Llyfr chama de **Estrangeiro** — o profetizado que os eruditos discutem e o povo espera.
 - **Mentira fundadora**: Nolan decide se apresentar como aliado a Mário — prepara o cap. 31 (aproximação)
 - **Mathias na Metrópole**: levou as cartas; pode retornar com informações ou ficar como asset de Nolan no Conselho
 - **Ossan**: pergunta sem resposta — Nolan não confia plenamente; a tensão pode germinar no L2
