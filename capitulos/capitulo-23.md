@@ -76,13 +76,17 @@ POV Nolan. Nolan alcança o assentamento de refugiados onde Mário curou a crian
 6. Mira confirma o nascimento morto de Saboc (segurou o corpo)
 7. Conversa sobre chá de melissa → Mira revela o cheiro de vembra em Dagmar
 8. Nolan processa: Dagmar, o chá, Juleen — "homens não prestam atenção a essas coisas"
-9. Nolan escreve três cartas (Rei, Koda, Layla)
+9. Nolan escreve três cartas (versão B, decisão 2026-08-30): a Genocydo
+   semeia a dúvida ("se um mercenário o matar, perdemos a chance") sem pedir
+   nada; a Koda usa o argumento da dívida ("a recompensa prometida vira
+   dívida — os cofres sofrem"); a Layla investiga a vembra
 10. Mathias reluta em partir; Nolan insiste; Mathias obedece
 11. Ossan pergunta o plano; Nolan: "vou convencê-lo de que sou o único aliado que ele tem"
 
 ## Sementes e Conexões
 
 - **Semente #6 (vembra)**: Nolan escreve a Layla — investigação do chá de Dagmar fermenta até o cap. 30
+- **Souhma ancorado**: a velha do assentamento murmura "o Souhma" — Nolan ouve o termo pela primeira vez na caçada e o guarda (usado depois na carta a Koda)
 - **Mentira fundadora**: Nolan decide se apresentar como aliado a Mário — prepara o cap. 31 (aproximação)
 - **Mathias na Metrópole**: levou as cartas; pode retornar com informações ou ficar como asset de Nolan no Conselho
 - **Ossan**: pergunta sem resposta — Nolan não confia plenamente; a tensão pode germinar no L2

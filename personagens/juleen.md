@@ -27,7 +27,14 @@ não de espécie; a inversão temática exige que ela NÃO seja humana). Foi a
   de classe é o buraco por onde o veneno entra na casa dele.
 - **Cap. 18 (causa)**: o abortivo acumulado causa a morte de Dagmar no parto
   e o bebê nasce sem ar.
-- **Cap. 30**: Nolan descobre a vembra e a enforca.
+- **Cap. 30**: Nolan descobre a vembra e a enforca. **A cena do enforcamento
+  (canon 2026-08-30)**: Nolan a acusa de ser **humana** — o preconceito dele
+  beirando a loucura. Juleen se defende: é **leviantar** (casta baixa dos
+  burgos periféricos). Nolan **não quer escutar** — a acusação de humanidade
+  é a espiral descendente do preconceito dele, que o levará, no fim do L1,
+  a se aliar a Cressadar e Terbs (impensável para o Nolan do início). A
+  verdade (ela é leviantar) não o abranda: a classe absorve a raça — a
+  periferia é impura, humana OU leviantar de casta baixa.
 
 ## Função Temática
 

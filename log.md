@@ -1,5 +1,62 @@
 # Log de Atualizações
 
+## 2026-08-30 (revisão cap. 23 — 3ª rodada do fluxo por capítulo)
+
+- **Cap. 23 revisado (POV Nolan — "O Rastro")**: Guardião (Solicita reescrita
+  focada — o bloco da vembra violava a decisão 08-19 que o movia para o
+  cap. 25; resolvido: o cap. 25 é POV Kate, então a vembra fica no 23),
+  Arquiteto (pendente — ver abaixo), Revisor (pendente — ver abaixo).
+- **Decisão do autor (cartas versão B)**: Nolan não pede a revogação da
+  recompensa a Genocydo. Carta ao Rei semeia a dúvida (sem se expor); carta
+  a Koda usa o argumento da dívida (a língua do Mestre da Moeda); carta a
+  Layla investiga a vembra. Ver `decisoes/cartas-cap23-versao-b.md`.
+- **Correções aplicadas no texto**: cartas reescritas (versão B); "Souhma"
+  ancorado no assentamento (a velha murmura o termo — Nolan o ouve e o
+  guarda); erros crassos corrigidos (Chavama → Chamava; "apontou com o
+  norte" → "apontou para o norte"; "não tenha saltado" → "não tenham
+  saltado"; "ao invés" → "em vez de"; "confundí-los" → "confundi-los");
+  travessões na narração → vírgulas (3 ocorrências); hífen no diálogo →
+  travessão; "Nolan disse—" → "Nolan disse —"; "A ficha estava caindo" →
+  "A engrenagem encaixava"; parágrafo Genocydo destrinchado (antecedente
+  claro).
+- **Cena Nolan/Juleen (canon novo)**: no enforcamento (cap. 30), Nolan acusa
+  Juleen de ser humana; ela se defende (é leviantar de casta baixa); Nolan
+  não quer escutar — o preconceito beirando a loucura, espiral descendente
+  que o levará a Cressadar e Terbs no fim do L1.
+- **Arquivos**: `Livro 1/capitulo23.md` (correções), `capitulos/capitulo-23.md`
+  (atualizado), `temas/esquema-l1.md`, `temas/sementes.md`,
+  `personagens/{mira,mathias,juleen}.md`, `decisoes/cartas-cap23-versao-b.md`
+  (novo), `log.md`.
+
+## 2026-08-30 (decisões — cartas do cap. 23 versão B; vembra no 23; cena Nolan/Juleen)
+
+- **Cartas do cap. 23 (versão B — decisão do autor)**: Nolan **não pede** a
+  revogação da recompensa a Genocydo. Em vez disso: **a Genocydo** (versão
+  censurada) informa que o Estrangeiro é real e **semeia a dúvida** ("se um
+  mercenário o matar antes de aprendermos o segredo da cura, perdemos a
+  chance") — sem pedir nada, sem se expor. **A Koda** (versão completa) usa
+  o argumento da **dívida**: se um mercenário pegar Mário, a recompensa
+  prometida vira dívida e os cofres sofrem — a língua do Mestre da Moeda.
+  **A Layla** (investigação da vembra). Genocydo não revoga; Nolan joga o
+  jogo longo em duas frentes sem expor a conspiração.
+- **Vembra no cap. 23 (correção da decisão 08-19)**: a decisão 08-19 moveu a
+  revelação da vembra para o cap. 25, mas o cap. 25 é **POV Kate** — a
+  revelação não pode ser clímax de um capítulo que não a conhece. A vembra
+  fica no cap. 23 (Mira comenta despretensiosamente; Nolan liga os pontos;
+  carta a Layla). Misatribuição dos caps. 21-22 preservada; a fissura chega
+  no 23 e fermenta até o 30.
+- **Cena Nolan/Juleen (canon novo 2026-08-30)**: no enforcamento (cap. 30),
+  Nolan acusa Juleen de ser **humana**. Ela se defende: é **leviantar** de
+  casta baixa. Nolan **não quer escutar** — o preconceito beirando a
+  loucura, espiral descendente que o levará, no fim do L1, a se aliar a
+  Cressadar e Terbs (impensável para o Nolan do início). A verdade não o
+  abranda: a classe absorve a raça (a periferia é impura, humana OU
+  leviantar de casta baixa).
+- **Arquivos**: `temas/esquema-l1.md` (caps. 21, 23), `temas/sementes.md`
+  (#6), `personagens/mira.md`, `personagens/mathias.md`,
+  `personagens/juleen.md`, `decisoes/cartas-cap23-versao-b.md` (novo),
+  `log.md`.
+
 ## 2026-08-29 (revisão cap. 22 — 2ª rodada do fluxo por capítulo)
 
 - **Cap. 22 revisado (POV Kate — "O Assentamento")**: Guardião (aprovado com

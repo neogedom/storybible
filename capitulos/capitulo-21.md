@@ -74,7 +74,7 @@ marco guarda o anel, a única herança da mãe para Saboc.
 ### Nolan
 
 - POV. Do choque visceral (a mão morta) ao cálculo retomado (a noite)
-- Misatribuição pura (a pista da vembra só chega no cap. 25)
+- Misatribuição pura (a pista da vembra só chega no cap. 23)
 - Rito fúnebre de Vonos: trâmite, não luto
 - Decide possuir Mário (não matar) — "a cura que a Segregação nunca foi"
 
@@ -118,6 +118,6 @@ marco guarda o anel, a única herança da mãe para Saboc.
 - [Cap. 20](/capitulos/capitulo-20.md) — fuga do castelo em chamas (mesmo evento, outro POV)
 - [Cap. 18](/capitulos/capitulo-18.md) — a mão de Dagmar, o parto
 - [Cap. 19](/capitulos/capitulo-19.md) — o milagre (testemunhas: Mathias, Mira)
-- [Cap. 25](/temas/esquema-l1.md) — a revelação da vembra (Mira) + delegação a Layla
+- [Cap. 23](/temas/esquema-l1.md) — a revelação da vembra (Mira) + delegação a Layla
 - [Ossan](/personagens/ossan.md), [Mira](/personagens/mira.md), [Mathias](/personagens/mathias.md)
 - [Rampillas](/conceitos/rampillas.md), [Bíblia de Kraviam](/temas/sementes.md)
