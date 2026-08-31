@@ -1,12 +1,12 @@
 ---
 type: Decision
-title: Oposição da pregação movida do cap. 24 para o cap. 26 (bola quicando do Jogos e Diversão)
-description: Decisão de cortar a cena do carroceiro (acusação de feitiçaria) do cap. 24 e movê-la para uma segunda pregação no cap. 26, junto com a conclusão de Mário sobre Kate e Lakand. Tronk fica como o sucesso (esperança); a segunda pregação fica como o custo (oposição).
-tags: [decisao, L1, cap-24, cap-26, estrutura, stc, jogos-e-diversao, pregação, oposicao]
+title: Oposição da pregação movida do cap. 24 para o cap. 25 (bola quicando do Jogos e Diversão)
+description: Decisão de cortar a cena do carroceiro (acusação de feitiçaria) do cap. 24 e movê-la para uma segunda pregação no cap. 25 (PoV de Kate), onde a multidão reconhece Mário como o da recompensa. A conclusão de Mário sobre Kate e Lakand vai para o cap. 26, como recompensa da oposição e dos caçadores. Tronk fica como o sucesso (esperança); a segunda pregação fica como o custo (oposição).
+tags: [decisao, L1, cap-24, cap-25, cap-26, estrutura, stc, jogos-e-diversao, pregação, oposicao]
 timestamp: 2026-08-30T12:00:00-03:00
 ---
 
-# Oposição da Pregação Movida do Cap. 24 para o Cap. 26
+# Oposição da Pregação Movida do Cap. 24 para o Cap. 25
 
 ## Contexto
 
@@ -18,13 +18,27 @@ irrompe com fúria sem raiz plantada na cena. A reação era psicologicamente
 plausível (medo do que não entende), mas narrativamente parecia um interruptor
 ligado por conveniência.
 
-## A Decisão
+## A Decisão (versão final 2026-08-30)
 
-Mover a oposição para uma **segunda pregação** (cap. 26, PoV de Mário), num
+Mover a oposição para uma **segunda pregação no cap. 25 (PoV de Kate)**, num
 lugar onde Mário acha que vai dar certo, mas onde a denúncia contamina a
 receptividade. O mesmo carroceiro pode ser o antagonista — ele viu o milagre
 em Tronk, ficou incomodado, ruminou, e na segunda pregação a semente da
 denúncia já está plantada.
+
+### A cadeia causal 24 → 25 → 26 (a bola quicando causal, não alternada)
+
+- **Cap. 24** (Mário): pregação em Tronk, sucesso, a fama nasce
+- **Cap. 25** (Kate): segunda pregação → oposição → **a multidão reconhece
+  Mário como o da recompensa** → fuga → noite (confissão de Lakand, discussão,
+  semente de rebelião, decisão de Kate)
+- **Cap. 26** (Mário): **caçadores de recompensa atacam** — decorrência direta
+  do reconhecimento público no 25
+
+A recompensa deixa de ser um dado do esquema e vira **consequência
+dramática**: a fama do milagre (24) gera o reconhecimento (25), que atrai os
+caçadores (26). O esquema do Movimento 2 apoia: "o preço na cabeça de Mário
+atrai caçadores".
 
 ### O que foi cortado do cap. 24
 
@@ -50,33 +64,44 @@ denúncia já está plantada.
 ## Por que a mudança melhora o beat (Jogos e Diversão)
 
 - **A bola quicando ganha o contraste sucesso/custo**: Tronk (cap. 24) é o
-  sucesso; a segunda pregação (cap. 26) é o custo. O beat pede "Mário prega
+  sucesso; a segunda pregação (cap. 25) é o custo. O beat pede "Mário prega
   sem submissão" — e a segunda pregação é onde a pregação encontra
   resistência real.
 - **A oposição ganha raiz psicológica**: o carroceiro viu o milagre em Tronk,
   ruminou, e na segunda pregação age. Não é mais um interruptor.
-- **A conclusão sobre Kate/Lakand ganha base**: "já não eram estranhos"
-  dependia da oposição (Kate pôs a mão na faca, Lakand se colocou na frente).
-  Sem a cena, a frase ficava prematura no 24. No 26, ela é a recompensa da
-  oposição.
-- **Eco com o cap. 25 (PoV de Kate)**: o leitor vê a manipulação de Kate por
-  dentro no 25, e a intuição de Mário no 26 ("como quem mede uma ferramenta")
-  confirma o que o leitor já viu. A bola quicando no seu estado mais puro.
+- **O cap. 25 esvaziado ganha o conflito externo que faltava**: o 25 atual é
+  todo quietude e tensão interna (confissão de Lakand, discussão, semente,
+  decisão). Com a oposição, ganha ação — e a ação **alimenta** a quietude: a
+  fuga forçada pela multidão é o que leva à noite em que Lakand confessa
+  "Saramant é cinza". O arco do capítulo: caos externo → noite → decisão
+  interna.
+- **O conflito Kate × Lakand conecta com o 25 existente**: Kate impedindo a
+  violência de Lakand liga direto com a discussão já planejada ("Lakand quer
+  saber até onde ela vai levar isso").
+- **A conclusão sobre Kate/Lakand ganha base real no 26**: "já não eram
+  estranhos" fecha o 26 depois de: a fuga do 25 (Kate e Lakand o tiraram
+  dali), os caçadores do 26 (Lakand intervindo para proteger Kate, Kate
+  confiando no raciocínio de Mário), e a abertura emocional (o choro, o
+  hino). A frase deixa de ser prematura — é a recompensa de tudo que o leitor
+  testemunhou.
+- **O PoV de Kate na oposição é ouro**: a segunda pregação vista pelos olhos
+  de quem a instrumentaliza — Kate observa Mário pregando, avalia a reação da
+  multidão, vê a escalada começar, e decide quando intervir.
 
-## Decisões pendentes para o cap. 26
+## Decisões para o cap. 25 (a segunda pregação)
 
 1. **Como o carroceiro chega ao segundo lugar** — recomendado: a fama correu
    à frente (boatos de Tronk chegaram antes), criando receptividade mista sem
    depender de coincidência. O carroceiro pode ser um dos que já estavam
    desconfiados.
-2. **A conclusão sobre Kate/Lakand como fecho do 26** — reservar para o
-   final, como recompensa da oposição.
-3. **A defesa do homem curado** pode virar a parábola viva da substituição
+2. **A defesa do homem curado** pode virar a parábola viva da substituição
    penal (ver `decisoes/traducao-substituicao-penal-ponte-divida.md`).
+3. **A conclusão sobre Kate/Lakand NÃO fica no 25** — vai para o cap. 26,
+   como fecho (ver abaixo).
 
 ---
 
-## A Cena de Oposição no Cap. 26 (evolução aprovada 2026-08-30)
+## A Cena de Oposição no Cap. 25 (evolução aprovada 2026-08-30)
 
 ### A escalada dos boatos (4 degraus)
 
@@ -133,17 +158,31 @@ pelos boatos é o que torna a divisão compreensível, não ruído.
    pragmatismo (proteger Mário agora), mas **guarda desconfiança de Kate**.
    Semente: Lakand é o guardião de Mário — se perceber que Kate o usa como
    ferramenta, pode se voltar contra ela. Tensão para capítulos seguintes.
-2. **Mário reage à acusação de Saramant.** Ele sabe que o incêndio foi
-   acidental, mas foi por causa dele que o castelo queimou. Ouvir "queimaram
-   de propósito" ecoa a culpa dele — um parágrafo de reação interna enquanto
-   a multidão grita, sem fala.
+2. **A reação de Mário à acusação de Saramant é observada de fora (PoV de
+   Kate).** No PoV de Kate, a reação de Mário não é sentida por dentro — Kate
+   nota algo no rosto dele quando gritam "queimaram de propósito" (um
+   endurecimento, um desvio de olhar), mas **não sabe o que significa**. O
+   leitor sim (a culpa dele: o incêndio foi acidental, mas foi por causa dele
+   que o castelo queimou). Ironia dramática extra.
 3. **Kate não explica tudo.** Ela explica o suficiente para Lakand recuar (o
    pragmatismo), mas não o plano completo. O leitor já viu a manipulação por
-   dentro no cap. 25 (PoV de Kate) — a explicação no 26 confirma, não revela.
+   dentro no cap. 25 (PoV de Kate) — a explicação confirma, não revela.
+
+### A conclusão de Mário no cap. 26 (fecho)
+
+A conclusão "já não eram estranhos" fecha o cap. 26 **depois do confronto da
+Voz** ("Fez porque estava com medo"). O contraste é potente: a Voz o
+desmonta, e mesmo assim ele vê os companheiros como aliados. O silêncio que
+pesa ("agora ele sabe que o silêncio não é ausência") seguido da percepção de
+que Kate e Lakand estão com ele é um fecho de capítulo excelente.
 
 ### Alerta de densidade
 
-O cap. 26 carrega: segunda pregação + oposição (escalada + divisão) + fuga +
-conflito Kate/Lakand + conclusão de Mário sobre eles. Pode ser necessário
-dividir o capítulo, ou mover a conclusão de Mário ("já não eram estranhos")
-para o cap. 27. Monitorar na escrita.
+- **Cap. 25**: oposição + fuga + conflito Kate/Lakand + confissão + semente +
+  decisão é muito. Contorno: a oposição abre o capítulo (ação), a fuga leva à
+  noite (quietude), e a confissão/discussão/semente/decisão ocupam a segunda
+  metade. Monitorar na escrita.
+- **Cap. 26**: já tem conteúdo próprio no esquema (sobrevivência, raciocínio
+  abdutivo, Vermes de Vidro, caçadores de recompensa, abertura emocional,
+  hino, confronto da Voz). A conclusão sobre Kate/Lakand entra como fecho —
+  não compete com o confronto da Voz se vier depois dele.
