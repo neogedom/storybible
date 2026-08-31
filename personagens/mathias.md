@@ -63,7 +63,8 @@ Devour.
 
 - Cap. 16: no comboio, prova a comida antes de Nolan; colhe o rumor do
   massacre na Estalagem do Vau
-- Cap. 25: mensageiro de Nolan (cartas a Koda e Layla)
+- Cap. 23: mensageiro de Nolan (três cartas — Genocydo censurada, Koda
+  completa, Layla investigação da vembra; decisão 2026-08-30)
 - Sub-semente: ouviu a oração "Eu Sou" — relata a Nolan "um deus acima
   do Limbo" em tom plano, militar, reinterrogado sem variação (a
   confiabilidade dele é o peso do relato). O click é com a Bíblia de

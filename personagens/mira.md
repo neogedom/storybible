@@ -22,7 +22,7 @@ Saboc** (cap. 21). Conhece ervas — é ela quem reconhece o veneno.
 - **Cap. 21**: sobrevive ao incêndio; vira **ama de leite de Saboc**. Viu o
   bebê morto e o vê vivo — **testemunha silenciosa da ressurreição do lado de
   Nolan** (semente: a casa de Nolan abriga alguém que sabe do impossível).
-- **Cap. 25 (decisão 2026-08-19)**: na estrada da caçada, comenta de forma
+- **Cap. 23 (correção 2026-08-30 — era cap. 25 na decisão 08-19, mas o cap. 25 é POV Kate)**: na estrada da caçada, comenta de forma
   **despretensiosa** o cheiro de **vembra** em Dagmar ("a senhora cheirava
   a vembra, senhor") — um comentário solto, sem intenção; ela não sabe o
   que está revelando. **É Nolan quem liga os pontos** e anota mentalmente

@@ -83,13 +83,13 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Plantio**: L1, Cap. 3 — Juleen administra chá de cascas de vembra (abortivo)
 - **Plantio 2**: L1, Cap. 18 — Dagmar morre no parto (causa: o abortivo
   acumulado); o bebê nasce sem ar
-- **Plantio 3**: L1, Cap. 23 — na estrada da caçada, a parteira-ama (conhece ervas) comenta de forma **despretensiosa** o cheiro de vembra na senhora (comentário casual sobre chá de melissa); **é Nolan quem liga os pontos** e escreve a Layla para investigar. NÃO é o "rampilla esperto" (autômatos não falam — ver `conceitos/rampillas.md`)
+- **Plantio 3**: L1, Cap. 23 — na estrada da caçada, a parteira-ama (conhece ervas) comenta de forma **despretensiosa** o cheiro de vembra na senhora (comentário casual sobre chá de melissa); **é Nolan quem liga os pontos** e escreve a Layla para investigar. NÃO é o "rampilla esperto" (autômatos não falam — ver `conceitos/rampillas.md`). (Correção 2026-08-30: a decisão 08-19 previa cap. 25, mas o cap. 25 é POV Kate — a revelação fica no cap. 23.)
 - **Plantio 4**: L1, Cap. 30 — Nolan descobre, enforca Juleen
 - **Misatribuição inicial (canon 2026-08-16)**: entre o cap. 18 (morte) e a
-  pista da vembra (cap. 21), a explicação operativa de Nolan é a ideologia:
+  pista da vembra (cap. 23), a explicação operativa de Nolan é a ideologia:
   Dagmar morreu pelo contato com humanos na viagem (eco do pai, que
   contraiu doença de prostituta humana — origem da Segregação). A pista de
-  Mira (cap. 21) vira nota privada que fermenta até o cap. 30. Ver cap. 21
+  Mira (cap. 23) vira nota privada que fermenta até o cap. 30. Ver cap. 23
   do esquema.
 - **Ódio racial: cristaliza na MISATRIBUÇÃO, não na verdade (canon
   2026-08-16)**: é o período da crença falsa (caps. 18-25) que torna o ódio

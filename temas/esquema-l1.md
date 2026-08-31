@@ -126,11 +126,11 @@ prostituta humana (origem da Segregação). O bebê vivo nos braços dele
 tensiona a leitura ("doença" não mata e revive), mas Nolan segura as duas
 molduras sem perceber a contradição: (A) "os humanos adoeceram minha
 esposa" + (B) "o Souhma trouxe meu filho de volta" — ambas apontam para o
-mesmo destino (controlar Mário). A pista da vembra (Mira) só chega no
-cap. 25 e vira nota privada que fermenta até o cap. 30. O leitor vê a
-cegueira antes dele (proteção do Risco 2). A verdade (cap. 30: Juleen, leviantar
-periférica) NÃO dissolve o ódio — cristalizado na misatribuição, ele
-sobrevive à correção (ver semente #6).
+mesmo destino (controlar Mário). A pista da vembra (Mira) chega no
+cap. 23 (correção 2026-08-30 — o cap. 25 é POV Kate) e vira nota privada
+que fermenta até o cap. 30. O leitor vê a cegueira antes dele (proteção do
+Risco 2). A verdade (cap. 30: Juleen, leviantar periférica) NÃO dissolve o
+ódio — cristalizado na misatribuição, ele sobrevive à correção (ver semente #6).
 
 o **A pira e o cairn (enterro simbólico — decisão 2026-08-06).** A manhã
 cinzenta: a torre dos aposentos colapsa; o corpo de Dagmar fica sob o
@@ -272,9 +272,9 @@ o **Lakand (canon 2026-08-22 — primeira fala pós-endurecimento):** Lakand fal
 
 o **Confirmação do milagre.** Nolan alcança o **assentamento de refugiados** do cap. 22. O grupo de Mário já partiu (Kate decidiu na manhã seguinte — "não há nada para nós aqui"). Mas os refugiados estão lá. A menina de joelho torto anda. As testemunhas confirmam: o Souhma curou uma criança paralítica com as mãos. O milagre de Saboc não foi isolado. **É replicável.**
 
-o **A certeza política.** Nolan escreve a Koda por mensageiro: _"O Estrangeiro é real. A cura é real. Precisamos dele antes que os Inquiridores o sequestrem — se o Souhma cair nas mãos de outros, perdemos o trono e a chance de curar a Metrópole."_ **Nolan ainda NÃO sabe por que Vonos o quer vivo** — o elo (Genocydo/Kraviam é terráqueo; Vonos substitui reis por terráqueos) só fecha quando Mário revelar o diário de Genocydo. No cap. 23, o que ele sabe basta: precisam de Mário antes de todos.
+o **A certeza política (cartas — versão B, decisão 2026-08-30).** Nolan escreve por mensageiro: **a Genocydo** (versão censurada) informa que o Estrangeiro é real, que a cura é real, que Nolan está na caçada — e **semeia a dúvida**: "se um mercenário o matar antes de aprendermos o segredo da cura, perdemos a chance". Não pede nada — Genocydo decide sozinho, Nolan não se expõe. **A Koda** (versão completa, plano político) usa o argumento da **dívida**: "O Estrangeiro é real. A cura é real. Precisamos dele antes que os Inquiridores o sequestrem — se o Souhma cair nas mãos de outros, perdemos o trono e a chance de curar a Metrópole. E se um mercenário o pegar, a recompensa prometida vira dívida — os cofres sofrem." Koda, Mestre da Moeda, entende a língua dos cofres e age no Conselho sem expor a conspiração. **Nolan ainda NÃO sabe por que Vonos o quer vivo** — o elo (Genocydo/Kraviam é terráqueo; Vonos substitui reis por terráqueos) só fecha quando Mário revelar o diário de Genocydo. No cap. 23, o que ele sabe basta: precisam de Mário antes de todos.
 
-o **A revelação de Mira + a delegação (clímax).** Na estrada da caçada, Mira (ama de leite, viaja com o séquito) comenta de forma **despretensiosa**, num comentário solto no meio de outra fala: "a senhora cheirava a vembra, senhor." Ela não sabe o que está revelando — conhece ervas (casca de vembra é abortivo) e o cheiro lhe é familiar, só isso. **É Nolan quem começa a ligar os pontos**: o cheiro, os lençóis, os dias antes do parto. Anota mentalmente como nota privada que fermenta até o cap. 30 (sementes #6). Não pode investigar pessoalmente — está a dias de viagem — mas conhece alguém que circula pelos corredores do poder sem levantar suspeitas. Envia uma carta a **Layla**: que ela descubra quem esteve nos aposentos de Dagmar nos dias anteriores ao parto e que pessoas da casa tiveram acesso a chás e ervas. A semente da investigação é plantada — e Layla ganha um fio que a manterá ligada a Nolan entre o L1 e o L2.
+o **A revelação de Mira + a delegação (no cap. 23 — correção 2026-08-30).** Na estrada da caçada, Mira (ama de leite, viaja com o séquito) comenta de forma **despretensiosa**, num comentário solto no meio de outra fala: "a senhora cheirava a vembra, senhor." Ela não sabe o que está revelando — conhece ervas (casca de vembra é abortivo) e o cheiro lhe é familiar, só isso. **É Nolan quem começa a ligar os pontos**: o cheiro, os lençóis, os dias antes do parto. Anota mentalmente como nota privada que fermenta até o cap. 30 (sementes #6). Não pode investigar pessoalmente — está a dias de viagem — mas conhece alguém que circula pelos corredores do poder sem levantar suspeitas. Envia uma carta a **Layla**: que ela descubra quem esteve nos aposentos de Dagmar nos dias anteriores ao parto e que pessoas da casa tiveram acesso a chás e ervas. A semente da investigação é plantada — e Layla ganha um fio que a manterá ligada a Nolan entre o L1 e o L2. (Correção: a decisão 08-19 previa a vembra no cap. 25, mas o cap. 25 é POV Kate — a revelação não pode ser clímax de um capítulo que não a conhece. A vembra fica no cap. 23.)
 
 o **A decisão.** Nolan reúne os rampillas e parte. Não para matar Mário. Para possuí-lo. Mas agora sabe que precisa chegar antes dos Inquiridores — e que, quando encontrar Mário, precisa se apresentar como aliado, não como inimigo.
 
