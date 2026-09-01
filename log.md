@@ -1,5 +1,18 @@
 # Log de Atualizações
 
+## 2026-08-31 (decisão — "Eu Sou" ancorado no sermão da Feira de Tronk, cap. 24)
+
+- **"Eu Sou" ancorado no clímax do sermão (decisão formal)**: Mário prega
+  por iniciativa própria na Feira de Tronk usando "Deus" como ponte
+  linguística. Consultor Teológico confirmou: em ornickenho, "deus" é
+  categoria funcional (nome + domínio) — o povo ouviria "mais um deus do
+  Limbo". A solução: ancorar o nome "Eu Sou" no clímax ("Porque ele é Deus.
+  O Eu Sou. O que está acima do Limbo, acima dos deuses que pedem sangue."),
+  ecoando palavra por palavra a oração do cap. 19. "Javé" permanece
+  reservado para o cap. 30 (canon 2026-08-10).
+- **Arquivos**: `Livro 1/capitulo24.md` (linha 83 — ancoragem aplicada),
+  `decisoes/eu-sou-sermao-feira-tronk-cap24.md` (novo), `log.md`.
+
 ## 2026-08-30 (decisão — Nolan retorna à Metrópole; caçada via rampillas)
 
 - **Nolan retorna à Metrópole para matar Juleen (decisão formal)**: recebe a
