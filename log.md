@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-08-31 (Mini-INGEST — cap. 25, "O Preço da Fama")
+
+- **Capítulo 25 finalizado (Mini-INGEST)**: PoV Kate, segundo discurso público de Mário em vila próxima a Ornick. Debate com carroceiro (argumentação filosófica — fato vs. conclusão), reconhecimento como Souhma, divisão da multidão, acusação de Saramant, Lakand trucida acusador, mercenário oferece recompensa e captura Mário, Kate fere mercenário, fuga, discussão na estrada, confissão de Lakand ("Saramant é cinza"), discussão sobre Theodore, Kate reafirma Mário como instrumento.
+- **Sementes plantadas**: Carroceiro humilhado → informante dos caçadores (cap. 26); Mário questiona violência de Kate (eco no cap. 35); Lakand confessa Saramant por Kate (dívida do L1); Lakand acusa Kate sobre Theodore (afastamento); Recompensa por Mário reconhecida → caçadores no cap. 26.
+- **Visuais atualizados**: `visuais/kate.md`, `visuais/mario.md`, `visuais/lakand.md` — cap. 25 adicionado.
+- **Personagem atualizado**: `personagens/lakand.md` — confissão "Saramant é cinza" movida do cap. 24 para o cap. 25.
+- **Arquivos**: `capitulos/capitulo-25.md` (novo), `visuais/kate.md`, `visuais/mario.md`, `visuais/lakand.md`, `personagens/lakand.md`.
+
 ## 2026-08-31 (decisão — "Eu Sou" ancorado no sermão da Feira de Tronk, cap. 24)
 
 - **"Eu Sou" ancorado no clímax do sermão (decisão formal)**: Mário prega

@@ -18,6 +18,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma                             |
 | Expressão  | Medo, desespero                     |
 
+## Capítulo 25 — O Preço da Fama
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Roupas     | Camiseta urbana, calça jeans, tênis (mesmo estado, agora mais sujos)   |
+| Acessórios | Óculos (intactos)                                                      |
+| Ferimentos | Nenhum físico; abalo emocional visível (voz trêmula ao questionar Kate)|
+| Expressão  | Determinação (debate), cansaço (após pregação), choque (violência), vulnerabilidade (confissão sobre violência) |
+| Postura    | Erguido durante o debate; curvado, exausto após a fuga                 |
+| Sujeira    | Suor, poeira da estrada, sangue de outros (respingos do mercenário)    |
+
 ## Capítulo 0 — Prólogo
 
 - _Não aparece_

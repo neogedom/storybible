@@ -14,10 +14,21 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Pele       | Clara                                         |
 | Raça       | Leviantar **gnock** (sem afinidade elemental) |
 | Roupas     | Couro remendado de caçadora, camadas rasgadas |
-| Acessórios | Faca escura de caça, eventualmente tocha      |
+| Acessórios | Faca escura de caça, manto de xilomagia (Tharin) |
 | Armas      | Faca de caça                                  |
 | Cicatrizes | Nenhuma canônica definida                     |
 | Expressão  | Fria, nojo, determinação                      |
+
+## Capítulo 25 — O Preço da Fama
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Roupas     | Couro remendado de caçadora, manto de xilomagia (desde cap. 20)        |
+| Armas      | Faca de caça (usada para ferir o mercenário)                           |
+| Ferimentos | Mãos manchadas de sangue do mercenário (não dela)                      |
+| Expressão  | Tensão (debate), choque (violência), raiva contida (Theodore), cansaço |
+| Postura    | Pronta para intervir, mão na faca durante o debate; fugindo na mata    |
+| Sujeira    | Poeira da estrada, sangue seco nas mãos após o ferimento               |
 
 ## Capítulo 0 — Prólogo
 

@@ -19,6 +19,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Múltiplas, visíveis                |
 | Expressão  | Predatória, alerta                 |
 
+## Capítulo 25 — O Preço da Fama
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Roupas     | Peles de animais, couro bruto (manchado de sangue do acusador)         |
+| Armas      | Garras (usadas para trucidar o acusador)                               |
+| Ferimentos | Mãos/garras ensanguentadas do acusador                                 |
+| Expressão  | Alerta durante o debate; fúria contida (trucida); vulnerabilidade (confissão "Saramant é cinza") |
+| Postura    | Imóvel, vigilante durante o debate; ataque súbito; cabeça baixa ao confessar |
+| Sujeira    | Sangue do acusador nas mãos e focinho                                  |
+
 ## Capítulo 0 — Prólogo
 
 - _Não aparece_
