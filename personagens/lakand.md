@@ -46,9 +46,12 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 - **Primeira fala pós-endurecimento (canon 2026-08-22 — cap. 22):** "O que
   ele está fazendo?" / "Ele... curou? Com magia?" — falas curtas, funcionais,
   de testemunha da cura da criança paralítica. Não quebra o endurecimento
-  (não é confissão emocional), mas o cap. 24 ("Saramant é cinza") não deve
-  repetir o "primeiro som" — a confissão emocional dele continua sendo o
-  clímax do cap. 24.
+  (não é confissão emocional).
+- **Confissão emocional (cap. 25 — movida pela decisão 2026-08-30):**
+  "Saramant é cinza. Por você." — Lakand nomeia a ruína e o motivo. É a
+  ÚNICA confissão de interioridade no L1 além do monólogo do cap. 12.
+  O cap. 24 (Tronk) não repete o "primeiro som" — a confissão ficou no 25
+  por consequência natural da cadeia causal (oposição movida para o 25).
 - **L2**: a corrupção por Mesmia é mais trágica por termos visto o Lakand
   "gente" — o discurso do recrutador da Hoste ecoa o desejo de ser
   importante ("voltar a ser importante").
