@@ -23,7 +23,7 @@ agente de Terbs para treinar Kate — a faca que mataria Kraviam.
 ## Vínculo com Kate
 
 Gaviorn'l afeiçoou-se paternalmente a Kate — algo que Terbs não previu.
-Kate o mata no clímax do L2. Ele **abaixa a guarda** por amor. O selo rompe.
+Kate o mata no clímax do L1. Ele **abaixa a guarda** por amor. O selo rompe.
 Hícse é libertada.
 
 ## Relações
