@@ -1,93 +1,87 @@
 ---
 type: Chapter
-title: "Capítulo 6 — O Jogo"
-description: "Nolan joga xadrez com Genocydo e tenta dissuadi-lo de Cressadar. Falha. Vai a Koda — a conspiração se aprofunda."
-pov: [Nolan]
-stc-beat: "Debate (~16-20%)"
-timeline: "Manhã — mesmo período dos caps. 1-5"
-tags: [L1, nolan, genocydo, koda, cressadar, llyfr, xadrez]
+title: "Capítulo 5 — A Selvagem"
+description: "Kate treina e mata Tharin. Gaviorn'l revela que os espectros no Rohdis pararam — algo grande está acontecendo em Ornick."
+pov: [Kate]
+stc-beat: "Configuração / Debate (~13-16%)"
+timeline: "Mesma janela dos caps. 0-4 — noite"
+tags: [L1, kate, saramant, gaviornl, tharin, rohdis]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
 
 ## Resumo
 
-### O Jogo de Xadrez
+### O Treino
 
-Nolan e Genocydo jogam xadrez no Castelo de Quartzo. Genocydo pergunta
-sobre as **luas azuis** (Tristan e Nevëilla) — estão azuis há dias, um
-fenômeno que nem o astrônomo **Piet Brö** explica.
+Kate enfrenta **Tharin**, um gornad de três chifres, na floresta de Saramant.
+Tharin usa **xilomagia** (manto de anéis de rampilla) para tentar se esconder,
+mas Kate o derrota facilmente. Ela está frustrada — os gornads de hoje não
+são nada comparados aos lendários do passado.
 
-Nolan tentou interceptar cartas sobre o Souhma, dando-as a **Gan Orthov**,
-um escudeiro relapso, na esperança de que as perdesse.
+### A Memória
 
-### A Tentativa de Dissuasão
+Kate reflete sobre seu passado. Foi treinada por **Gaviorn'l** e ouviu
+**Benjamim Cressadar** dizer que sua ausência de magia é uma dádiva: como
+leviantar gnock (sem afinidade elemental), é imune às armas geométricas
+dos **Inquiridores**. Seria a lâmina
+física perfeita para perfurar o coração da Metrópole.
 
-Nolan tenta convencer Genocydo a desconfiar de **Benjamim Cressadar**.
-Revela seu conhecimento do **Llyfr original**: a palavra "souhma" jamais
-aparece no texto, e a profecia de "julgar os deuses e coroar os homens"
-é **fabricada por Cressadar**.
+Mas foi **descartada**. Abandonada. Sem guerra, sem propósito.
 
-Genocydo se recusa: _"Prefiro confiar no que Cress me prometeu. Preferia
-não ter que me preocupar com esses mendigos miseráveis."_
+### O Aviso
 
-Nolan pensa em matá-lo (olha para um machado na parede), mas rejeita:
-_"Machados e espadas são para homens obtusos."_
+**Gaviorn'l** aparece em sua cabana. Armadura completa de renanthao, sete
+chifres, postura régia. Kate tenta atacá-lo, mas ele a domina.
 
-### A Conspiração em Casa de Koda
+Ele revela: os **espectros no Rohdis** pararam de matar. Estão vagando
+vazios. _"Alguma força que não prevíamos tomou assento na mesa."_
+_"Nunca vi um silêncio desse tamanho. Nem mesmo nas vésperas da
+Guerra Milenar."_
 
-Nolan vai à casa de **Koda Deltëra** e relata o fracasso. Pergunta por
-**Gunad Deltëra** (o filho mais velho) — não está. Koda garante que
-podem falar.
-
-Nolan sente um arrepio: _"Terbs é um deus. Será que tem ouvidos aqui
-nesta sala?"_
+Kate entende: o caos está chegando. Finalmente, sua guerra.
 
 ## Personagens
 
-| Personagem                                     | Papel no capítulo                                      |
-| ---------------------------------------------- | ------------------------------------------------------ |
-| [Nolan](/personagens/nolan.md)                 | POV. Joga xadrez, tenta dissuadir, falha.              |
-| [Genocydo](/personagens/genocydo.md)           | Rei doente. Recusa ouvir Nolan. Confia em Cressadar.   |
-| [Koda Deltëra](/personagens/koda.md)           | Recebe Nolan. A conspiração continua.                  |
-| [Benjamim Cressadar](/personagens/benjamim.md) | Mencionado: Nolan descobre que ele fabrica versículos. |
-| Piet Brö (mencionado)                          | Astrônomo da Metrópole. Não explica as luas azuis.     |
-| Gunad Deltëra (mencionado)                     | Filho mais velho de Koda. Não está em casa.            |
+| Personagem                                     | Papel no capítulo                                             |
+| ---------------------------------------------- | ------------------------------------------------------------- |
+| [Kate](/personagens/kate.md)                   | POV. Derrota Tharin, confronta Gaviorn'l, recebe o aviso.     |
+| Tharin                                         | Gornad de 3 chifres. Morto por Kate durante o treino.         |
+| [Gaviorn'l](/personagens/gaviornl.md)          | Gornad de 7 chifres. Aparece para avisar Kate sobre o Rohdis. |
+| [Benjamim Cressadar](/personagens/benjamim.md) | Mencionado: treinou Kate, a chamou de "arma de Terbs".        |
 
 ## Eventos-chave
 
-1. ✅ Nolan tentou interceptar cartas (Gan Orthov)
-2. ✅ **Luas azuis**: fenômeno inexplicável desde a chegada de Mário
-3. ✅ Nolan **leu o Llyfr original** — "souhma" não existe no texto canônico
-4. ✅ **Cressadar fabrica versículos** — Nolan sabe, mas não pode provar
-5. ✅ Nolan tenta dissuadir Genocydo → **fracassa**
-6. ✅ Nolan considera **matar Genocydo** → rejeita ("homens obtusos")
-7. ✅ Nolan vai a Koda — conspiração ativa
-8. ✅ Nolan teme que **Terbs** o esteja ouvindo
+1. ✅ Kate derrota e mata Tharin (gornad de 3 chifres)
+2. ✅ Menciona Gabbriel e Sylvana Tanässer como lendas
+3. ✅ Revela: **Benjamim Cressadar** a treinou como arma de Terbs
+4. ✅ Kate é imune às armas dos Inquiridores (sem magia no sangue)
+5. ✅ **Gaviorn'l** aparece — confirma que algo está errado em Ornick
+6. ✅ **Espectros no Rohdis pararam** de matar — silêncio sobrenatural
+7. ✅ "Nunca vi um silêncio assim nem nas vésperas da Guerra Milenar"
+8. ✅ Kate antecipa a guerra com excitação, não medo
 
 ## Sementes Plantadas
 
-- 🌱 **Luas azuis**: Tristan e Nevëilla azuis desde que Mário chegou.
-  Sinal cósmico que até os astrônomos não explicam. Semente para o L2.
-- 🌱 **Nolan leu o Llyfr**: Ele conhece a profecia original. Sabe que
-  Cressadar mente. Isso será usado contra Benjamim no futuro.
-- 🌱 **"Gunad não está"**: Segunda menção (cap. 3 foi a primeira).
-  Semente para L2 (Gunad emerge como pregador).
-- 🌱 **Nolan hesita em matar**: Prefere "outra atitude igualmente
-  eficiente" — ou seja, **golpe político**, não assassinato.
+- 🌱 **Kate = arma de Terbs**: Benjamim a treinou para ser a lâmina que
+  mataria Kraviam/Genocydo. Mas foi descartada. Semente para confronto
+  futuro com Benjamim.
+- 🌱 **O Silêncio no Rohdis**: Os mortos pararam. Isso está conectado
+  à chegada de Mário. Semente para L2 (Hícse, Hoste da Purgação).
+- 🌱 **Gaviorn'l vigia Kate**: Ele não a abandonou — está monitorando.
+  Semente para o clímax do L2 (ela o mata, liberta Hícse).
 
 ## Conexões
 
-- [Capítulo 3](/capitulos/capitulo-03.md) — Koda sugeriu a conspiração
-- [Capítulo 0](/capitulos/capitulo-00.md) — O sinal falhou; luas azuis confirmam
-- [Benjamim Cressadar](/personagens/benjamim.md) — Nolan sabe que ele fabrica profecias
-- [Inquiridores](/personagens/inquiridor.md) — Risco de perderem controle da narrativa
-- [Gunad Deltëra](/personagens/gunad.md) — Mencionado como "não está"
+- [Capítulo 0](/capitulos/capitulo-00.md) — Kate sentiu o vazamento de Hícse
+- [Capítulo 2](/capitulos/capitulo-02.md) — Mário chegou a Ornick; o Rohdis sentiu
+- [Gaviorn'l](/personagens/gaviornl.md) — Selo de Hícse, mentor de Kate
+- [Inquiridores](/personagens/inquiridor.md) — Kate é imune às armas deles
+- [Cosmologia](/conceitos/cosmologia.md) — Rohdis (mundo dos mortos)
 
 ## Notas de INGEST
 
-- Nolan conhece o Llyfr melhor que qualquer personagem vivo (leu o original).
-  Sua objeção a Cressadar não é teológica, é **textual** — ele sabe o que
-  o texto diz e o que Cressadar inventou.
-- "Apoteose" é palavra de Cressadar, não do Llyfr.
-- As luas azuis são um fenômeno que liga a chegada de Mário ao cosmos.
-  Isso será relevante no L2 (Piet Brö e a Soteriologia Cósmica).
+- **Nome das luas**: Tristan e Nevëilla (colonizadores originais de Genësia)
+- **Xilomagia**: Magia de madeira/árvores usada por Tharin e rampillas
+- **Addorbek (irmãos)**: Heróis da Guerra do Grifo — família de Dagmar
+- Gabbriel Tanässer é mencionado como lenda — no cap. 1, ele mata Vicent Tanässer
+  (são da mesma família?)

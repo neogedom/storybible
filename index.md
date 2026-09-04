@@ -27,27 +27,28 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 - [Capítulo 0 — Prólogo](capitulos/capitulo-00.md) — O oráculo de Vonos falha. Kate sente o vazamento em Saramant.
 - [Capítulo 1 — O Sonho](capitulos/capitulo-01.md) — Mário sonha com a guerra; na Terra, recusa fazer o milagre.
-- [Capítulo 2 — A Travessia](capitulos/capitulo-02.md) — Mário sequestrado, obedece à Voz pela 1ª vez, Inquiridor atira.
-- [Capítulo 3 — A Conspiração](capitulos/capitulo-03.md) — Koda revela ruína; Nolan aceita conspirar.
-- [Capítulo 4 — Opium](capitulos/capitulo-04.md) — Mário acorda curado em Ornick; vila massacrada; capturado.
-- [Capítulo 5 — A Selvagem](capitulos/capitulo-05.md) — Kate mata Tharin; Gaviorn'l avisa sobre o Rohdis.
-- [Capítulo 6 — O Jogo](capitulos/capitulo-06.md) — Nolan e Genocydo no xadrez.
-- [Capítulo 7 — Os Lordes Defuntos](capitulos/capitulo-07.md) — Charles se revela, transformação em lobo.
-- [Capítulo 8 — A Caverna](capitulos/capitulo-08.md) — Kate e Lakand; Charles foi para Opium.
-- [Capítulo 9 — O Diário Perdido](capitulos/capitulo-09.md) — Layla entrega a Bíblia a Nolan.
-- [Capítulo 10 — A Carga](capitulos/capitulo-10.md) — Mário amarrado, levado como mercadoria.
-- [Capítulo 11 — Os Nômades](capitulos/capitulo-11.md) — Kate viaja com nômades; enfrenta Estruzzo.
-- [Capítulo 12 — A Jaula](capitulos/capitulo-12.md) — Mário na alcateia; Lakand pergunta sobre viver sem matar.
-- [Capítulo 13 — A Sala Secreta](capitulos/capitulo-13.md) — Conselho secreto falha.
-- [Capítulo 14 — O Encontro](capitulos/capitulo-14.md) — Kate vê Mário pela primeira vez.
-- [Capítulo 15 — A Queda](capitulos/capitulo-15.md) — Massacre; Kate captura Mário.
-- [Capítulo 16 — A Travessia](capitulos/capitulo-16.md) — Nolan cruza o Cran; tapa em Dagmar.
-- [Capítulo 17 — Devour](capitulos/capitulo-17.md) — Kate e Mário capturados; Devour indeciso.
-- [Capítulo 18 — O Castelo de Devour](capitulos/capitulo-18.md) — Nolan negocia; Dagmar morre no parto.
-- [Capítulo 19 — O Bebê](capitulos/capitulo-19.md) — Mário ressuscita o bebê; Kate escolhe "Os dois".
-- [Capítulo 20 — A Crise da Voz](capitulos/capitulo-20.md) — Fuga do castelo em chamas; Mário identifica a Voz como Deus e responde com raiva; não ora.
-- [Capítulo 21 — A Pira Involuntária](capitulos/capitulo-21.md) — Nolan foge do incêndio com Saboc; luto frio; assume a base de Devour e parte para possuir Mário.
-- [Capítulo 22 — O Assentamento](capitulos/capitulo-22.md) — Kate, Mário e Lakand iniciam a jornada; pitch da Mina em duas fases (cura/esperança como isca); cura da criança paralítica; Kate recalibra o desprezo em "potencial".
+- [Capítulo 2 — O Inquérito](capitulos/capitulo-02.md) — [NOVO] Raciocínio abdutivo, Inquiridor observa, porta de Lucas, caderno "Regras do Absurdo", sequestro.
+- [Capítulo 3 — A Travessia](capitulos/capitulo-03.md) — Mário sequestrado, obedece à Voz pela 1ª vez, Inquiridor atira.
+- [Capítulo 4 — A Conspiração](capitulos/capitulo-04.md) — Nolan no tribunal (hegraliano condenado). Koda revela ruína; Nolan aceita conspirar.
+- [Capítulo 5 — Opium](capitulos/capitulo-05.md) — Mário acorda curado em Ornick; vila massacrada; capturado.
+- [Capítulo 6 — A Selvagem](capitulos/capitulo-06.md) — Kate mata Tharin; Gaviorn'l avisa sobre o Rohdis.
+- [Capítulo 7 — O Jogo](capitulos/capitulo-07.md) — Nolan e Genocydo no xadrez.
+- [Capítulo 8 — Os Lordes Defuntos](capitulos/capitulo-08.md) — Charles se revela, transformação em lobo.
+- [Capítulo 9 — A Caverna](capitulos/capitulo-09.md) — Kate e Lakand; Charles foi para Opium.
+- [Capítulo 10 — O Diário Perdido](capitulos/capitulo-10.md) — Layla entrega a Bíblia a Nolan.
+- [Capítulo 11 — A Carga](capitulos/capitulo-11.md) — Mário amarrado, levado como mercadoria.
+- [Capítulo 12 — Os Nômades](capitulos/capitulo-12.md) — Kate viaja com nômades; enfrenta Estruzzo.
+- [Capítulo 13 — A Jaula](capitulos/capitulo-13.md) — Mário na alcateia; Lakand pergunta sobre viver sem matar.
+- [Capítulo 14 — A Sala Secreta](capitulos/capitulo-14.md) — Conselho secreto falha.
+- [Capítulo 15 — O Encontro](capitulos/capitulo-15.md) — Kate vê Mário pela primeira vez.
+- [Capítulo 16 — A Queda](capitulos/capitulo-16.md) — Massacre; Kate captura Mário.
+- [Capítulo 17 — A Travessia](capitulos/capitulo-17.md) — Nolan cruza o Cran; tapa em Dagmar.
+- [Capítulo 18 — Devour](capitulos/capitulo-18.md) — Kate e Mário capturados; Devour indeciso.
+- [Capítulo 19 — O Castelo de Devour](capitulos/capitulo-19.md) — Nolan negocia; Dagmar morre no parto.
+- [Capítulo 20 — O Bebê](capitulos/capitulo-20.md) — Mário ressuscita o bebê; Kate escolhe "Os dois".
+- [Capítulo 21 — A Crise da Voz](capitulos/capitulo-21.md) — Fuga do castelo em chamas; Mário identifica a Voz como Deus e responde com raiva; não ora.
+- [Capítulo 22 — A Pira Involuntária](capitulos/capitulo-22.md) — Nolan foge do incêndio com Saboc; luto frio; assume a base de Devour e parte para possuir Mário.
+- [Capítulo 23 — O Assentamento](capitulos/capitulo-23.md) — Kate, Mário e Lakand iniciam a jornada; pitch da Mina em duas fases; cura da criança paralítica.
 - [Capítulo 23 — O Rastro](capitulos/capitulo-23.md) — Nolan confirma o milagre replicável; revelação da vembra; escreve três cartas; decide se apresentar como aliado a Mário.
 - [Capítulo 24 — A Feira de Tronk](capitulos/capitulo-24.md) — Mário cura de propósito e prega; primeira hostilidade aberta; descobre a Metrópole; gancho: Kate o observa "como quem mede uma ferramenta".
 

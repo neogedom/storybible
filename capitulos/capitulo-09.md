@@ -1,64 +1,57 @@
 ---
 type: Chapter
-title: "Capítulo 9 — O Diário Perdido"
-description: "Layla entrega a Bíblia de Kraviam a Nolan, mas não consegue o diário de Genocydo. Nolan descobre que a prova da usurpação ainda está no Castelo."
-pov: [Nolan]
-stc-beat: "Debate (~26-30%)"
-timeline: "Dias após cap. 6"
-tags: [L1, nolan, layla, genocydo, biblia, diario]
+title: "Capítulo 8 — A Caverna"
+description: "Kate e Lakand caçam vampiros mortos. Lakand revela que Charles foi para Opium atrás da recompensa pelo Souhma."
+pov: [Kate]
+stc-beat: "Debate (~23-26%)"
+timeline: "Mesmo período dos caps. 4-7"
+tags: [L1, kate, lakand, saramant, vampiros, charles, recompensa]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
 
 ## Resumo
 
-### Jantar com Valinor
+Kate e **Lakand** caçam vampiros em uma caverna em Saramant — mas os vampiros
+já estão mortos de velhice (meses sem sangue). Kate está furiosa: prometeram
+guerra, ela encontrou lixo.
 
-Nolan janta com **Dagmar** e **Valinor Addorbek** (sogro). Está distraído,
-pensando em **Layla**, que foi ao Castelo de Quartzo roubar o diário de
-Genocydo.
+Ela provoca Lakand sobre **Charles** ser o favorito da alcateia. Lakand revela
+que Charles foi enviado para **Opium** para aniquilar um ninho de vampiros,
+mas está "brincando de humano", disfarçado de caçador. Charles está atrás
+da **recompensa** que a Metrópole oferece pelo Souhma. **Devour** também
+está interessado.
 
-Valinor pergunta sobre Saboc — Nolan desconversa. A tensão da conspiração
-pesa. Nolan defende a Segregação: _"Direitos humanos? Que direitos?"_
-
-### Layla nos Jardins
-
-**Layla** chega aos jardins da casa de Nolan. Ela conseguiu acesso à
-biblioteca real de Genocydo, mas **não encontrou o diário**. Em vez disso,
-trouxe um livro estranho: a **Bíblia de Kraviam** — trazida da Terra por
-Genocydo (Mark Kraviam).
-
-Nolan fica furioso. Layla o enfrenta com deboche. Nolan quer matá-la, mas
-não pode — se a acusar, se condena. Ela sabe demais.
+Kate e Lakand têm uma relação física (transacional). Lakand sugere terem
+um filho — Kate lembra que **daërunmeges são estéreis** (Mesmia os criou
+assim para evitar amarras sentimentais).
 
 ## Personagens
 
-| Personagem                                  | Papel                                           |
-| ------------------------------------------- | ----------------------------------------------- |
-| [Nolan](/personagens/nolan.md)              | POV. Tenta obter provas contra Genocydo.        |
-| [Layla](/personagens/layla.md)              | Espiã de Nolan. Entrega a Bíblia, não o diário. |
-| [Dagmar](/personagens/dagmar.md)            | Grávida, alheia à conspiração.                  |
-| [Valinor Addorbek](/personagens/valinor.md) | Sogro de Nolan. Não sabe da conspiração.        |
+| Personagem                         | Papel                                                   |
+| ---------------------------------- | ------------------------------------------------------- |
+| [Kate](/personagens/kate.md)       | POV. Frustrada, provoca Lakand, descobre sobre Charles. |
+| [Lakand](/personagens/lakand.md)   | Daërunmege. Revela informações sobre Charles e Opium.   |
+| [Charles](/personagens/charles.md) | Mencionado: em Opium, atrás da recompensa.              |
 
 ## Eventos-chave
 
-1. ✅ Nolan contratou Layla para roubar o diário de Genocydo
-2. ✅ Layla falhou — Genocydo não cede à bebida
-3. ✅ Layla trouxe a **Bíblia de Kraviam** (trazida da Terra)
-4. ✅ Nolan descobre que a prova da usurpação continua no Castelo
-5. ✅ Nolan se contém — não pode matar Layla sem se incriminar
-6. ✅ Valinor presente — não sabe de nada
+1. ✅ Kate e Lakand caçam vampiros — já estavam mortos de inanição
+2. ✅ Kate provoca Lakand sobre Charles ser o favorito
+3. ✅ **Charles foi para Opium** atrás da recompensa
+4. ✅ **Devour também** está atrás do Souhma
+5. ✅ **Daërunmeges são estéreis** (Mesmia)
+6. ✅ Kate descobre carne quente com Lakand
 
 ## Sementes Plantadas
 
-- 🌱 **Bíblia de Kraviam**: Genocydo a trouxe da Terra. Nolan a guarda.
-  Será usada contra Mário no L2 (Nolan usa a Bíblia para justificar violência).
-- 🌱 **Layla sabe demais**: Nolan hesita em matá-la. Semente para L2
-  (Layla foge, junta-se ao Remanescente).
-- 🌱 **Diário de Genocydo**: Continua no Castelo. Prova de usurpação.
+- 🌱 **Charles em Opium**: Ele estava no mesmo lugar que Mário (cap. 4 e 7).
+  Charles encontrou Mário e quer a recompensa.
+- 🌱 **Devour na disputa**: O lorde rampilla também quer o Souhma.
+- 🌱 **Esterilidade dos daërunmeges**: Mesmia os criou sem reprodução.
 
 ## Conexões
 
-- [Layla](/personagens/layla.md) — Espiã de Nolan, informante
-- [Capítulo 3](/capitulos/capitulo-03.md) — Koda sugeriu conspiração
-- [Sementes](/temas/sementes.md) — Semente 2 (Bíblia de Kraviam)
-- [Lupe'i](/personagens/lupei.md) — Mencionado como protegido de Genocydo
+- [Capítulo 4](/capitulos/capitulo-04.md) — Opium: onde Mário acordou
+- [Capítulo 7](/capitulos/capitulo-07.md) — Charles se revela em Opium
+- [Charles](/personagens/charles.md) — Caçador de Mário
+- [Lakand](/personagens/lakand.md) — Relação com Kate

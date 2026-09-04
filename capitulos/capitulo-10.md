@@ -1,64 +1,64 @@
 ---
 type: Chapter
-title: "Capítulo 10 — A Carga"
-description: "Charles e Decian limpam a torre. Decian cura Mário. Mário descobre que é uma mercadoria — Charles quer a recompensa."
-pov: [Mário]
-stc-beat: "Debate (~30-33%)"
-timeline: "Amanhecer — imediatamente após cap. 7"
-tags: [L1, mario, opium, charles, decian, mesmia]
+title: "Capítulo 9 — O Diário Perdido"
+description: "Layla entrega a Bíblia de Kraviam a Nolan, mas não consegue o diário de Genocydo. Nolan descobre que a prova da usurpação ainda está no Castelo."
+pov: [Nolan]
+stc-beat: "Debate (~26-30%)"
+timeline: "Dias após cap. 6"
+tags: [L1, nolan, layla, genocydo, biblia, diario]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
 
 ## Resumo
 
-Mário observa **Charles** e **Decian** limpando a torre. Charles joga os
-corpos dos vampiros pela janela com desprezo. Decian questiona se não
-"passaram da conta" com os humanos — Charles rejeita o remorso.
+### Jantar com Valinor
 
-Decian cura o ombro de Mário com pasta de ervas. Charles encontra sapatos
-de um morto e manda Mário calçá-los. Depois o amarra com corda de sisal.
+Nolan janta com **Dagmar** e **Valinor Addorbek** (sogro). Está distraído,
+pensando em **Layla**, que foi ao Castelo de Quartzo roubar o diário de
+Genocydo.
 
-Charles chama Mário de **"Estrangeiro"** — sabe quem ele é. Mário entende
-que é uma **mercadoria**: Charles quer entregá-lo pela recompensa.
+Valinor pergunta sobre Saboc — Nolan desconversa. A tensão da conspiração
+pesa. Nolan defende a Segregação: _"Direitos humanos? Que direitos?"_
 
-Ao amanhecer, o sol queima os corpos dos vampiros — a pele frita e chiando.
+### Layla nos Jardins
+
+**Layla** chega aos jardins da casa de Nolan. Ela conseguiu acesso à
+biblioteca real de Genocydo, mas **não encontrou o diário**. Em vez disso,
+trouxe um livro estranho: a **Bíblia de Kraviam** — trazida da Terra por
+Genocydo (Mark Kraviam).
+
+Nolan fica furioso. Layla o enfrenta com deboche. Nolan quer matá-la, mas
+não pode — se a acusar, se condena. Ela sabe demais.
 
 ## Personagens
 
-| Personagem                         | Papel                                                                |
-| ---------------------------------- | -------------------------------------------------------------------- |
-| [Mário](/personagens/mario.md)     | POV. Ferido, amarrado, levado como carga.                            |
-| [Charles](/personagens/charles.md) | Daërunmege brutal. Quer a recompensa. Age "para a glória de Mesmia". |
-| [Decian](/personagens/decian.md)   | Daërunmege curandeiro. Hesita, questiona a moralidade.               |
+| Personagem                                  | Papel                                           |
+| ------------------------------------------- | ----------------------------------------------- |
+| [Nolan](/personagens/nolan.md)              | POV. Tenta obter provas contra Genocydo.        |
+| [Layla](/personagens/layla.md)              | Espiã de Nolan. Entrega a Bíblia, não o diário. |
+| [Dagmar](/personagens/dagmar.md)            | Grávida, alheia à conspiração.                  |
+| [Valinor Addorbek](/personagens/valinor.md) | Sogro de Nolan. Não sabe da conspiração.        |
 
 ## Eventos-chave
 
-1. ✅ Charles e Decian limpam a torre — corpos jogados pela janela
-2. ✅ Decian questiona: "não estamos agindo direito com a Mãe Mesmia"
-3. ✅ Charles rejeita: "limpei o lugar para a glória de Mesmia"
-4. ✅ **Decian cura Mário** com pasta de ervas
-5. ✅ Mário calça sapatos de um morto
-6. ✅ Charles o amarra e o chama de "Estrangeiro"
-7. ✅ Mário descobre que é mercadoria (recompensa)
-8. ✅ Vampiros queimam ao sol — pele frita
+1. ✅ Nolan contratou Layla para roubar o diário de Genocydo
+2. ✅ Layla falhou — Genocydo não cede à bebida
+3. ✅ Layla trouxe a **Bíblia de Kraviam** (trazida da Terra)
+4. ✅ Nolan descobre que a prova da usurpação continua no Castelo
+5. ✅ Nolan se contém — não pode matar Layla sem se incriminar
+6. ✅ Valinor presente — não sabe de nada
 
 ## Sementes Plantadas
 
-- 🌱 **Decian hesita**: Ele não aprova a violência contra humanos.
-  Semente para o L2 (percebe a corrupção de Mário antes de todos).
-- 🌱 **Charles age por Mesmia**: Justifica a violência como "glória da Mãe".
-- 🌱 **"Comunidade" de vampiros**: Mencionada — não estão acabados.
-  Detalhe de canon (2026-08-12): os mortos da torre são **neófitos**
-  ("Eu não reconheço esses três das lutas de Gondor... Devem ser neófitos,
-  recém-amaldiçoados ou simpatizantes que fizeram pacto para serem
-  aceitos"). Ou seja, os vampiros da torre **não** eram os verdadeiros
-  Lordes Defuntos (veteranos da era de ouro de Gondor) — a Comunidade
-  sobrevive em outro lugar. Base para a facção vampírica do L2.
-- 🌱 **Sapatos de morto**: Mário veste a identidade de um homem morto.
+- 🌱 **Bíblia de Kraviam**: Genocydo a trouxe da Terra. Nolan a guarda.
+  Será usada contra Mário no L2 (Nolan usa a Bíblia para justificar violência).
+- 🌱 **Layla sabe demais**: Nolan hesita em matá-la. Semente para L2
+  (Layla foge, junta-se ao Remanescente).
+- 🌱 **Diário de Genocydo**: Continua no Castelo. Prova de usurpação.
 
 ## Conexões
 
-- [Charles](/personagens/charles.md) — Caçador de Mário, pragmático
-- [Decian](/personagens/decian.md) — Curandeiro, consciência hesitante
-- [Capítulo 7](/capitulos/capitulo-07.md) — Charles se revelou; agora age
-- [Capítulo 8](/capitulos/capitulo-08.md) — Lakand revelou que Charles foi para Opium
+- [Layla](/personagens/layla.md) — Espiã de Nolan, informante
+- [Capítulo 3](/capitulos/capitulo-03.md) — Koda sugeriu conspiração
+- [Sementes](/temas/sementes.md) — Semente 2 (Bíblia de Kraviam)
+- [Lupe'i](/personagens/lupei.md) — Mencionado como protegido de Genocydo

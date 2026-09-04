@@ -1,84 +1,87 @@
 ---
 type: Chapter
-title: "Capítulo 4 — Opium"
-description: "Mário acorda curado em Ornick. Descobre que está na Vila de Opium, um povoado massacrado. É capturado por vampiros."
-pov: [Mário]
-stc-beat: "Catalisador / Debate (~10-13%)"
-timeline: "Imediatamente após cap. 2"
-tags: [L1, mario, opium, vampiros, ornick, mesmia]
+title: "Capítulo 3 — A Conspiração"
+description: "Nolan volta do tribunal. Koda revela que Genocydo está drenando os cofres. A semente da conspiração é plantada."
+pov: [Nolan]
+stc-beat: "Configuração / Debate (~7-10%)"
+timeline: "Mesma janela dos caps. 1-2 — noite"
+tags: [L1, nolan, metropole, koda, genocydo, segregação, conspiracao]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
 
 ## Resumo
 
-### A Cura
+Nolan volta ao seu palacete após uma semana no Salão de Justiça, onde
+presidiu execuções pelo método **Gerikhad** (fogueiras) — parte da política
+de **Segregação**. Descobre-se que a Segregação foi **idealizada por Nolan,
+não por Genocydo**. O Rei apenas a implementou.
 
-Mário acorda. Seu corpo está **completamente curado** — os três tiros do
-Inquiridor sumiram sem deixar cicatrizes. Apenas a **lama** em suas mãos
-prova que o que viveu foi real.
+### Nolan e Dagmar
 
-Ele está numa cabana rústica, pré-industrial. Velas, lamparina, um altar
-com a inscrição **"ASHARM FHIU MESMIA"** (Nós confiamos em Mesmia).
-Mário **consegue traduzir** o idioma estranho automaticamente.
+Nolan encontra **Dagmar** grávida, tomando **chá de cascas de olmo**
+(preparado por **Juleen**, a aia). Nolan dá a ela um chocalho de madeira
+para **Saboc** — já escolheu o nome masculino. Dagmar provoca: "E se for
+Agnelle?" Nolan rejeita a possibilidade.
 
-### A Chacina
+Dagmar revela que **Koda Deltëra** o espera nas catacumbas.
 
-Ao sair, descobre um **vilarejo inteiro massacrado**. Corpos de homens,
-mulheres e crianças. Canibalizados. Sem tecnologia moderna — machados,
-ancinhos, estacas. Nenhum sinal do seu mundo.
+### A Conspiração
 
-Olha para o céu: **duas luas**. O choque cósmico o derruba.
+Nas catacumbas (santuário de Vonos), **Koda** mostra o **Livro da Moeda**:
+Genocydo está **drenando os cofres do Reino** desde o outono passado.
 
-### A Torre
+O dinheiro foi para:
 
-Mário corre para uma torre octogonal. Lá dentro, escuta vozes falando em
-um idioma estrangeiro — que ele entende perfeitamente. São **vampiros
-(Lordes Defuntos)** interrogando sobreviventes sobre o ataque dos
-**daërunmeges** (lobisomens).
+1. **Inquiridores do Sinal** — equipados com renanthao importado do Sucontinente
+2. **Mercenários** para monitorar profecias do Llyfr
+3. **A Recompensa Maior** — fortuna incalculável pelo Souhma
 
-Mário é descoberto e capturado por um vampiro de olhos vermelhos.
+Nolan deduz que **Benjamim Cressadar** está manipulando Genocydo através
+de Terbs. Koda sugere que, se o Rei não recuar, **a lealdade ao trono
+termina onde a ruína da Metrópole começa** — uma sugestão de traição.
+
+Nolan sorri pela primeira vez na noite. O verme da conspiração está plantado.
 
 ## Personagens
 
-| Personagem                     | Papel no capítulo                                              |
-| ------------------------------ | -------------------------------------------------------------- |
-| [Mário](/personagens/mario.md) | POV. Acorda curado em Ornick, descobre a chacina, é capturado. |
-| Vampiros (Lordes Defuntos)     | Interrogam sobreviventes. Caçam o "jardineiro".                |
-| Loretta (mencionada)           | Morta na torre.                                                |
+| Personagem                           | Papel no capítulo                                              |
+| ------------------------------------ | -------------------------------------------------------------- |
+| [Nolan](/personagens/nolan.md)       | POV. Descobre a ruína financeira. Aceita conspirar.            |
+| [Dagmar](/personagens/dagmar.md)     | Grávida, toma chá de olmo (Juleen), recebe chocalho de Saboc.  |
+| [Koda Deltëra](/personagens/koda.md) | Mestre da Moeda. Revela a verdade. Sugere traição.             |
+| [Juleen](*secundária)                | Aia de Dagmar. Deu o chá de cascas de olmo (semente de morte). |
 
 ## Eventos-chave
 
-1. ✅ Mário acorda **curado** dos 3 tiros — sem cicatrizes
-2. ✅ Confirma que a **lama** nas mãos é real (prova do milagre)
-3. ✅ Descobre um altar a **Mesmia** — consegue traduzir o idioma
-4. ✅ Vê **duas luas** no céu — aceita que não está mais na Terra
-5. ✅ Descobre que está na **Vila de Opium** (povoado massacrado)
-6. ✅ Escuta vampiros falando sobre o ataque dos **daërunmeges**
-7. ✅ É capturado
+1. ✅ Nolan arquitetou a Segregação — revelação da autoria
+2. ✅ Nolan escolheu o nome Saboc e rejeita Agnelle (herdeiro masculino)
+3. ✅ **Juleen** deu chá de cascas de olmo a Dagmar (semente plantada)
+4. ✅ Koda revela que Genocydo drenou os cofres do Reino
+5. ✅ Genocydo financia Inquiridores, mercenários e a Recompensa Maior
+6. ✅ Nolan deduz a mão de **Benjamim Cressadar** na manipulação
+7. ✅ Koda sugere que é hora de pensar em **substituir o Rei**
+8. ✅ **Nolan aceita a sugestão** — sorri
 
 ## Sementes Plantadas
 
-- 🌱 **Mesmia**: Altar dedicado à elohim dos lobisomens. Primeira menção
-  a uma divindade de Ornick além de Vonos.
-- 🌱 **Vila de Opium**: Charles e Decian se infiltraram aqui. Charles
-  massacrou o vilarejo. Semente para cap. 8 e 10.
-- 🌱 **Tradução automática**: Mário entende idiomas de Ornick sem
-  aprender. Dom da Voz? Ou algo inerente ao Souhma?
-- 🌱 **Lordes Defuntos**: Sociedade de vampiros. Agora sabem que os
-  daërunmeges os encontraram.
+- 🌱 **Chá de cascas de olmo (Juleen)**: O chá que Dagmar toma será a
+  causa da morte dela e de Saboc. Juleen é a agente.
+- 🌱 **A Conspiração**: Nolan e Koda agora co-conspiradores. Nolan quer
+  o trono.
+- 🌱 **Ódio de Koda**: A perda das terras dos Deltëra na Guerra do Grifo
+  ainda queima. Koda é espião de Alavria (revelado em SECUNDARIOS.md).
 
 ## Conexões
 
-- [Capítulo 2](/capitulos/capitulo-02.md) — Mário levou 3 tiros e acordou curado
-- [Charles](/personagens/charles.md) — Foi ele quem massacrou Opium
-- [Decian](/personagens/decian.md) — Sobreviveu a Opium sem matar ninguém
-- [Cosmologia](/conceitos/cosmologia.md) — Duas luas confirmam Ornick
-- [Sinal de Vonos](/conceitos/sinal-de-vonos.md) — O sinal falhou porque Mário chegou
+- [Inquiridores do Sinal](/personagens/inquiridor.md) — Financiados por Genocydo
+- [Benjamim Cressadar](/personagens/benjamim.md) — Nolan deduz a manipulação dele
+- [Segregação](/conceitos/segregacao.md) — Idealizada por Nolan (revelação)
+- [Capítulo 0](/capitulos/capitulo-00.md) — A caça ao Souhma já começou
+- [Capítulo 2](/capitulos/capitulo-02.md) — Mário sequestrado; Genocydo financiou a infraestrutura
 
 ## Notas de INGEST
 
-- O milagre da cura: Mário levou 3 tiros e acordou sem marcas. A Voz
-  o curou enquanto ele estava inconsciente. Custo? Mário perdeu a certeza
-  da própria sanidade.
-- A primeira palavra em ornickenho que Mário traduz é um altar a Mesmia.
-- O vampiro que o captura tem olhos vermelhos e rosto esquálido.
+- **Correção de lore**: A Segregação foi criada por Nolan, não por Genocydo.
+  Genocydo a implementou, mas o arquiteto é Nolan (trauma do pai).
+- Nolan usa **óculos** (confirma: "tirou os óculos pela armação de ébano").
+- A conspiração nasce aqui, não no cap. 13.

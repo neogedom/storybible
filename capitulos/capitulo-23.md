@@ -1,94 +1,86 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 23
-titulo: "O Rastro"
-pov: Nolan
+capitulo: 22
+titulo: "O Assentamento"
+pov: Kate
 beat_stc: Jogos e Diversão
-percentual_l1: ~44-46%
-data_ingest: 2026-08-26
+percentual_l1: ~42-44%
+data_ingest: 2026-08-22
 personagens:
-  - Nolan (POV)
-  - Mira
-  - Mathias
-  - Ossan
-  - Saboc (menção)
+  - Kate (POV)
+  - Mário
+  - Lakand
 lugares:
-  - Assentamento de refugiados (mesmo do cap. 22)
-  - Estrada ao norte de Saramant (rota para a Mina)
-  - Acampamento noturno (clareira protegida)
+  - Floresta ao norte de Saramant (rota para a Mina de Quartzo)
+  - Assentamento de refugiados (humanos fugidos da Mina)
 conceitos:
-  - Milagre replicável (Nolan confirma: Saboc + criança paralítica = padrão)
-  - Vembra (erva abortiva; Mira reconhece o cheiro em Dagmar)
-  - Misatribuição preservada (Nolan ainda culpa humanos — "o contato com humanos acelerara seus efeitos")
-  - Três cartas (Rei, Koda, Layla) — Nolan opera em múltiplas camadas políticas
-  - Ossan como asset (Nolan confia na raiz-mestra, não nele)
+  - Cura como credencial (Kate enquadra o poder de Mário como cura/magia — não conhece "milagre"; sem a cura, as palavras dele seriam de louco)
+  - Jejum de Mário (não por disciplina — tentativa de arrancar resposta da Voz)
+  - Idolatria como hábito (ajoelhar é tudo que sabem fazer)
+  - Pitch da Mina em duas fases (mapa → recusa de Mário → negociação pela cura/esperança)
 sementes:
-  - Nolan escreve a Layla sobre o chá de Dagmar — investigação da vembra fermenta (semente #6)
-  - Nolan decide se apresentar como aliado a Mário — a mentira fundadora
-  - Mathias enviado à Metrópole como mensageiro de confiança
-  - Ossan pergunta "o que faremos quando o encontrarmos?" — Nolan não revela o plano completo
+  - Kate começa a ver humanos como "potencial" em vez de "künerv" — ainda não é empatia, mas já não é desprezo puro (metáfora do aço)
+  - Mário não ora — o silêncio da Voz pesa; ele espera uma carta que não chega
+  - O tique do pulso de Kate (aperta o próprio pulso quando a transação se fecha)
+  - Kate usa o nome de Mário pela primeira vez ("Mário, seu nome, não é?") — humaniza a transação
+  - Lakand testemunha a cura e pergunta "com magia?" — frame de magia/feitçaria, não milagre
 ---
 
-# Capítulo 23 — O Rastro
+# Capítulo 22 — O Assentamento
 
 ## Resumo
 
-POV Nolan. Nolan alcança o assentamento de refugiados onde Mário curou a criança paralítica (cap. 22). A menina confirma: o Souhma pousou a mão no joelho e o osso se endireitou. Nolan processa: o milagre de Saboc não foi isolado — é replicável. Sem entender o que motiva Mário (curar e ir embora sem cobrar nada), Nolan conclui que precisa chegar antes dos Inquiridores. Na estrada, Mira revela, numa conversa casual sobre chá de bebê, que Dagmar cheirava a vembra antes do parto. Nolan começa a ligar os pontos: o chá, Juleen, a pressa em partir. Escreve três cartas: uma a Genocydo (versão censurada), uma a Koda (versão completa, plano político), uma a Layla (investigar o chá). Mathias reluta em partir, mas obedece. Ossan pergunta o que farão quando encontrarem Mário. Nolan responde: convencê-lo de que é o único aliado que ele tem.
+POV Kate. Dias de caminhada para o norte. Mário não come — jejum não por disciplina, mas por tentativa de arrancar resposta da Voz. Só o deixou mais fraco. Lakand caminha à frente, deslocado de Kate — o espaço entre eles não é atravessado.
+
+No riacho, Kate observa Mário lavar as mãos e procurar nelas algo que não encontra. O pitch da Mina em duas fases: primeiro o mapa (a Mina como centro do sistema de opressão), depois a recusa de Mário ("não sou soldado", "não vou ser o estopim de nada"). Kate recalcula e refaz o pitch pela **cura/esperança** — "Você ressuscitou um bebê. Imagina o que fará num lugar onde as pessoas precisam de esperança." Mário percebe a manobra ("Você está usando a minha fé"), mas a semente da esperança brota. Kate carrega o que não mostrou: a guerra.
+
+No sétimo dia, encontram um assentamento de refugiados humanos. Mário se aproxima de uma criança paralítica **para consolar** — conversa com a velha, sorri para a menina, e pousa a mão no joelho torto quase sem pensar. O milagre acontece **sem intenção de cura**: o osso se endireita com um estalo seco. Kate, que o trouxera ao acampamento para usar o poder ("não era para isso que ela o trouxera"), se irrita com o consolo ("palavras não iam ajudar") — e o catálogo dela falha de novo: o poder não obedece à expectativa. Lakand pergunta "Ele... curou? Com magia?" — o frame dele (e o de Kate) é magia/feitçaria, não milagre. Pela primeira vez, pessoas se ajoelham diante dele. Mário recua, constrangido e confuso, tenta explicar que não é um deus. Alguns ouvem; outros se ajoelham com mais força.
+
+Kate observa. Sente o antigo desprezo por humanos frágeis — mas agora vê algo novo: potencial. "Com o sofrimento na medida certa e a esperança na medida certa, aquilo virava aço." Aperta o próprio pulso (tique da transação). O plano funciona: Mário vivo e funcionando até inspirar o que precisa inspirar. Depois, o caminho é dela — para o bem da guerra dela.
+
+Mário não come. Não ora. Fica sentado perto das crianças, as mãos paradas, como quem espera uma carta que não chega.
 
 ## Personagens
 
-### Nolan
+### Kate
 
-- POV. Chega ao assentamento, confirma o milagre da criança paralítica
-- Processa o padrão: Saboc + criança = replicável
-- Fica intrigado: Mário não cobrou nada, não deixou contrato — "ninguém faz algo por nada"
-- Recebe a revelação de Mira sobre a vembra; começa a suspeitar de Juleen, mas ainda segura a misatribuição ("humanos aceleraram os efeitos")
-- Escreve três cartas com audiências diferentes — mente política em camadas
-- Decide: apresentar-se como aliado a Mário
+- POV. Observa Mário com atenção nova
+- Faz o pitch da Mina em duas fases — mapa → recusa → negociação pela cura
+- Usa o nome de Mário pela primeira vez ("Mário, seu nome, não é?")
+- Sente o antigo desprezo por humanos, mas começa a ver "potencial" em vez de "künerv" (metáfora do aço)
+- Aperta o pulso quando a transação se fecha (tique)
+- Decisão interna: manter Mário vivo e funcionando; depois, o caminho é dela — para o bem da guerra dela
 
-### Mira
+### Mário
 
-- Confirma o milagre de Saboc como testemunha ocular (segurou o bebê morto)
-- Revela o cheiro de vembra em Dagmar — sem intenção, como comentário casual sobre chá de melissa
-- Não sabe o que está revelando; é só uma parteira que conhece ervas
+- Jejum de dias — não por disciplina, por desespero teológico
+- Recusa o pitch de guerra ("Não vou ser o estopim de nada")
+- Cura a criança paralítica sem planejar — age porque não sabe o que mais fazer
+- Constrangido pelas ajoelhadas; tenta explicar, falha
+- Não ora. Espera. O silêncio pesa.
 
-### Mathias
+### Lakand
 
-- Monta à frente do séquito, mão no cabo da espada
-- Reluta em deixar Nolan para entregar as cartas — "este lugar é hostil"
-- Questiona a confiança em Ossan ("é filho de Devour")
-- Obedece por lealdade, não por convicção
-
-### Ossan
-
-- Asset de Nolan; observa os rampillas com atenção de quem ainda os aprende
-- Pergunta o que farão quando encontrarem Mário — Nolan não revela o plano completo
-- Subtexto: herdeiro despojado, lealdade por sobrevivência
+- Caminha à frente, deslocado de Kate
+- **Primeira fala pós-endurecimento** (caps. 19-20 = fera silenciosa): "O que ele está fazendo?" / "Ele... curou? Com magia?" — falas curtas, funcionais, de testemunha
+- Frame de magia/feitçaria, não milagre — não viu a ressurreição de Saboc
+- Aceita a carne que Mário recusa, sem comentário
 
 ## Eventos
 
-1. Nolan chega ao assentamento; refugiados recuam com medo dos rampillas
-2. Menina curada se apresenta; Nolan examina a cicatriz e confirma o milagre
-3. Nolan reflete: Mário curou e foi embora sem cobrar — "qual era o preço dele?"
-4. Nolan descobre que Kate e "um grandalhão de poucas palavras" (Lakand) acompanham Mário
-5. Retomada da marcha; Nolan monta cavalo (carroça danificada no incêndio)
-6. Mira confirma o nascimento morto de Saboc (segurou o corpo)
-7. Conversa sobre chá de melissa → Mira revela o cheiro de vembra em Dagmar
-8. Nolan processa: Dagmar, o chá, Juleen — "homens não prestam atenção a essas coisas"
-9. Nolan escreve três cartas (versão B, decisão 2026-08-30): a Genocydo
-   semeia a dúvida ("se um mercenário o matar, perdemos a chance") sem pedir
-   nada; a Koda usa o argumento da dívida ("a recompensa prometida vira
-   dívida — os cofres sofrem"); a Layla investiga a vembra
-10. Mathias reluta em partir; Nolan insiste; Mathias obedece
-11. Ossan pergunta o plano; Nolan: "vou convencê-lo de que sou o único aliado que ele tem"
+1. Dias de caminhada; Mário não come; Lakand se desloca
+2. Riacho: Kate observa Mário lavar as mãos; pitch da Mina em duas fases
+3. Sétimo dia: assentamento de refugiados (callback Tae-Tabor)
+4. Cura da criança paralítica — primeiro milagre público; Lakand pergunta "com magia?"
+5. Pessoas se ajoelham; Mário recua; Kate observa e recalibra
+6. Kate aperta o pulso — a transação se fecha
+7. Noite: Mário não ora; Kate vai caçar
 
-## Sementes e Conexões
+## Fronteira
 
-- **Semente #6 (vembra)**: Nolan escreve a Layla — investigação do chá de Dagmar fermenta até o cap. 30
-- **Souhma ancorado**: a velha do assentamento murmura "o Souhma" — Nolan ouve o termo na caçada e o guarda (usado depois na carta a Koda). Nolan sabe a distinção: Souhma é o nome popular ("telefone sem fio") da figura lendária que o Llyfr chama de **Estrangeiro** — o profetizado que os eruditos discutem e o povo espera.
-- **Mentira fundadora**: Nolan decide se apresentar como aliado a Mário — prepara o cap. 31 (aproximação)
-- **Mathias na Metrópole**: levou as cartas; pode retornar com informações ou ficar como asset de Nolan no Conselho
-- **Ossan**: pergunta sem resposta — Nolan não confia plenamente; a tensão pode germinar no L2
-- **Conexão cap. 22**: Nolan confirma o que Kate e Mário fizeram no assentamento — a linha do tempo fecha
-- **Conexão cap. 24**: Nolan está a 2-3 dias de distância; Mário está na Feira de Tronk — as linhas convergem
+- **Cap. 21 termina**: Nolan parte para o norte — "Não para matá-lo. Para possuí-lo."
+- **Cap. 22 começa**: Kate, Mário e Lakand já estão a dias de caminhada para o norte.
+- **Cap. 23 (previsto)**: POV Mário — pregação aos refugiados, falha retumbante, a teologia da graça gratuita como ofensa num mundo de dívidas.
+- **Nota de continuidade**: o jejum de Mário e o silêncio da Voz são a ponte direta para a crise do cap. 23 — ele tenta pregar sem ter orado, sem direção, e falha. O gancho "E se a cura cessasse, as palavras dele morriam junto" (Kate) prepara exatamente isso.
+- **Nota de canon**: Lakand fala pela primeira vez pós-endurecimento no cap. 22 — o cap. 24 ("Saramant é cinza") não deve repetir o "primeiro som"; a confissão emocional dele continua sendo o clímax do cap. 24.

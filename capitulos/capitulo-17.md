@@ -1,93 +1,75 @@
 ---
 type: Chapter
-title: "Capítulo 17 — Devour"
-description: "Kate e Mário são capturados pelos rampillas. Devour revela a intimação dos Inquiridores. Kate e Mário têm o primeiro diálogo."
-pov: [Kate]
-stc-beat: "Debate / Break Into 2 (~53-57%)"
-timeline: "Imediatamente após cap. 15 — noite"
-tags: [L1, kate, mario, devour, rampillas, inquiridores]
+title: "Capítulo 16 — A Travessia"
+description: "Nolan cruza o Cran com Dagmar. A tensão explode. Ele dá um tapa nela — ponto de não retorno."
+pov: [Nolan]
+stc-beat: "Debate (~50-53%)"
+timeline: "3 dias de viagem — após cap. 13"
+tags: [L1, nolan, dagmar, viagem, tapa, crise]
 timestamp: 2026-07-25T12:00:00-03:00
 ---
 
 ## Resumo
 
-Kate carrega Mário pela floresta em fuga. Encontra um **diapasão de
-renanthao** — os **Inquiridores do Sinal** estão rastreando Mário.
+Nolan cruza o **Rio Cran** com Dagmar e Mathias. Sai da Metrópole; entra em
+Saramant. Reflete sobre como ajudou a construir a **Segregação** tijolo por
+tijolo.
 
-Uma patrulha de **rampillas de Devour** (mais rápidos que os comuns) ataca.
-Kate quebra costelas e é dominada.
+Pára na **Taverna do Porto Seco**. Come comida servida por mãos humanas —
+o mesmo tipo de pessoa que ele condena na Metrópole. Pergunta sobre
+forasteiros — ninguém viu nada.
 
-### Devour
+### O Tapa
 
-No salão da fortaleza, **Devour** os espera. Não é um rampilla — parece um
-homem comum, magro, cinzento. Plantas crescem ao redor dele.
+Três dias de silêncio dentro da carruagem. A tensão explode.
 
-Devour mostra a **intimação dos Inquiridores**. O Rei quer Mário, os
-Inquiridores também, os lobisomens também. Devour não sabe para quem
-entregá-lo.
+Dagmar confronta Nolan sobre **Layla** (viu quando ela foi ao palacete).
+Ele diz que Layla é espiã do Rei. Dagmar compara Nolan ao pai dele,
+**Tyott Guenayer** — hedonista, mentiroso, "porcos que aprenderam a falar
+bonito".
 
-_"Não posso matá-lo. Não posso soltá-lo. Não posso usá-lo."_
+Nolan **dá um tapa** nela. Reflexo. Não planejado.
 
-Kate e Mário são jogados em celas separadas.
-
-### O Primeiro Diálogo
-
-Mário pergunta o nome dela. **"Kate."** — primeiro nome que ele sabe.
-
-Kate explica: os **rampillas** são de Devour. As **plantas-espia** sentem
-vibração e calor — cada passo de Mário na floresta foi um alerta.
+O silêncio pós-tapa é pior que o grito. Nolan não pede desculpas.
 
 ## Personagens
 
-| Personagem                                          | Papel                                           |
-| --------------------------------------------------- | ----------------------------------------------- |
-| [Kate](/personagens/kate.md)                        | POV. Capturada, quebrada, mas calculando.       |
-| [Mário](/personagens/mario.md)                      | Preso ao lado. Primeiro diálogo real com Kate.  |
-| [Devour](/personagens/devour.md)                    | Lorde rampilla. Indeciso sobre o que fazer.     |
-| Rampillas                                           | Patrulha de Devour. Mais rápidos que os comuns. |
-| [Inquiridores do Sinal](/personagens/inquiridor.md) | Intimação formal enviada a Devour.              |
+| Personagem                       | Papel                                          |
+| -------------------------------- | ---------------------------------------------- |
+| [Nolan](/personagens/nolan.md)   | POV. Viaja para encontrar o Souhma. Dá o tapa. |
+| [Dagmar](/personagens/dagmar.md) | Confronta Nolan. Leva o tapa.                  |
+| Mathias                          | Guarda fiel. Monta à frente.                   |
 
 ## Eventos-chave
 
-1. ✅ Kate foge com Mário pela floresta
-2. ✅ **Diapasão de renanthao** — Inquiridores rastreando Mário
-3. ✅ Kate é atacada por rampillas — quebra costelas
-4. ✅ Devour revela: **intimação dos Inquiridores**
-5. ✅ Três facções disputam Mário: Rei, Inquiridores, daërunmeges
-6. ✅ Devour indeciso — não sabe para quem entregar
-7. ✅ Kate e Mário presos em celas vizinhas
-8. ✅ **Kate se apresenta**: "Kate."
-9. ✅ Kate explica as plantas-espia e os rampillas
-10. ✅ Devour confronta Kate pela morte do filho (o xamã da clareira, cap. 0) — conta de sangue em aberto
+1. ✅ Nolan cruza o Cran — entra em Saramant
+2. ✅ Reflexão: ele construiu a Segregação
+3. ✅ Taverna do Porto Seco — come comida humana
+4. ✅ 3 dias de silêncio na carruagem
+5. ✅ Dagmar confronta Nolan sobre Layla
+6. ✅ Dagmar compara Nolan a Tyott Guenayer
+7. ✅ **Nolan dá um tapa em Dagmar**
+8. ✅ Nolan não pede desculpas — vergonha presa
 
 ## Sementes Plantadas
 
-- 🌱 **Diapasão de renanthao**: Os Inquiridores estão triangulando Mário.
-  Eles sabem onde ele está.
-- 🌱 **Devour indeciso**: Ele pode ser manipulado. Janela de oportunidade.
-- 🌱 **Kate quebrada**: Costelas quebradas — vulnerável pela primeira vez.
-- 🌱 **"Kate"**: Primeiro nome. Primeiro fio de confiança entre eles.
-- 🌱 **Dívida de sangue com Devour**: Kate matou um filho dele na clareira
-  (cap. 0) e ele sabe (plantas-espia). Kate não nega. Conta registrada em
-  aberto — paira sobre a prisão dela (caps. 18-19).
+- 🌱 **O tapa**: Ponto de não retorno no casamento. O tapa não mata Dagmar
+  — é o **chá de cascas de olmo** (dado por Juleen no cap. 3) que causa
+  a morte dela e de Saboc. O tapa expõe a falência do casamento.
+- 🌱 **Tyott Guenayer**: O pai de Nolan, hedonista, recusou o trono.
+  Nolan repete os mesmos erros que condena no pai.
+- 🌱 **Mathias ouviu tudo**: A lealdade de Mathias será testada.
 
 ## Conexões
 
-- [Capítulo 15](/capitulos/capitulo-15.md) — Kate capturou Mário no massacre
-- [Capítulo 2](/capitulos/capitulo-02.md) — Inquiridor atirou em Mário
-- [Inquiridores](/personagens/inquiridor.md) — Intimação formal
-- [Devour](/personagens/devour.md) — Agora tem os dois
-- [Diapasão](/conceitos/sinal-de-vonos.md) — Ferramenta de triangulação
+- [Capítulo 9](/capitulos/capitulo-09.md) — Layla foi ao palacete; Dagmar viu
+- [Capítulo 13](/capitulos/capitulo-13.md) — Nolan decidiu viajar
+- [Dagmar](/personagens/dagmar.md) — O tapa acelera o desfecho dela
+- [Taverna do Porto Seco](*lugares/taverna-porto-seco.md) — Primeira parada
 
 ## Notas de INGEST
 
-- Kate quebrou costelas — primeira vulnerabilidade física desde o início
-- Devour não é rampilla — ele é o lorde que controla os rampillas
-- Plantas-espia: Devour tem sensoriamento vegetal em toda Saramant
-- O diapasão mudou de tom quando Kate passou com Mário — confirmando
-  que o metal responde à assinatura dele
-- Confronto do filho (2026-08-08): Devour sabe da clareira via raízes
-  (vibração/calor), identifica Kate como autora. Kate confirma ("Ele me
-  disse quem era. Não mudou nada.") — ela sabia da filiação desde o cap. 0
-  ("Meu pai" / "Seu pai"). Devour não age: calculista, prioriza o Souhma.
-  Dívida em aberto (ver `temas/sementes.md` #14).
+- O tapa não foi planejado — foi reflexo. Nolan se arrepende, mas não
+  consegue pedir desculpas. O orgulho é a armadura e a prisão dele.
+- Os daërunmeges estão agitados "para o lado leste" — confirmando que o
+  Souhma (Mário) está em fuga.

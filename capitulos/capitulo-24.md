@@ -1,114 +1,94 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 24
-titulo: "A Feira de Tronk"
-pov: Mário
+capitulo: 23
+titulo: "O Rastro"
+pov: Nolan
 beat_stc: Jogos e Diversão
-percentual_l1: ~58-60%
-data_ingest: 2026-08-28
+percentual_l1: ~44-46%
+data_ingest: 2026-08-26
 personagens:
-  - Mário (POV)
-  - Kate
-  - Lakand
-  - Homem curado (sem nome)
-  - Mulher da barraca de pão (sem nome)
-  - Carroceiro (antagonista menor)
+  - Nolan (POV)
+  - Mira
+  - Mathias
+  - Ossan
+  - Saboc (menção)
 lugares:
-  - Feira de Tronk (posto de comércio na rota da Mina)
-  - Ilha da Metrópole no meio do Cran (descrita, não visitada)
+  - Assentamento de refugiados (mesmo do cap. 22)
+  - Estrada ao norte de Saramant (rota para a Mina)
+  - Acampamento noturno (clareira protegida)
 conceitos:
-  - Cura intencional (primeira cura por ato de vontade, sem a Voz — contraste com cap. 22)
-  - Pregação em quatro movimentos (evangelho correto pregado em oposição à Voz)
-  - Souhma (título popular aplicado a Mário; Kate já conhecia o termo)
-  - Metrópole (ilha no Cran, Muro Interno, Mina devora devedores, dívida hereditária)
-  - "Os deuses cobravam. Mas não davam." (generalização do POV de Mário)
+  - Milagre replicável (Nolan confirma: Saboc + criança paralítica = padrão)
+  - Vembra (erva abortiva; Mira reconhece o cheiro em Dagmar)
+  - Misatribuição preservada (Nolan ainda culpa humanos — "o contato com humanos acelerara seus efeitos")
+  - Três cartas (Rei, Koda, Layla) — Nolan opera em múltiplas camadas políticas
+  - Ossan como asset (Nolan confia na raiz-mestra, não nele)
 sementes:
-  - Kate observa Mário "como quem mede uma ferramenta" — gancho para o cap. 25 (POV Kate)
-  - O curado ganha nome/história/propósito — Lakand sente o antigo aperto (cap. 12)
-  - Primeira hostilidade aberta (carroceiro: "feiticeiro") — a pregação atrai fé e fúria
-  - A mulher da barraca dá as moedas — primeiro gesto de graça recebido por Mário
+  - Nolan escreve a Layla sobre o chá de Dagmar — investigação da vembra fermenta (semente #6)
+  - Nolan decide se apresentar como aliado a Mário — a mentira fundadora
+  - Mathias enviado à Metrópole como mensageiro de confiança
+  - Ossan pergunta "o que faremos quando o encontrarmos?" — Nolan não revela o plano completo
 ---
 
-# Capítulo 24 — A Feira de Tronk
+# Capítulo 23 — O Rastro
 
 ## Resumo
 
-POV Mário. Dias de caminhada desde o assentamento; Mário segue em jejum e em silêncio, em oposição à Voz. Lakand o força a comer ("Você vai morrer. Eu não vou deixar."). Chegam à Feira de Tronk, posto de comércio na rota da Mina. Uma briga por dívida explode; um homem é esfaqueado e cai morrendo. Kate olha para Mário — o olhar basta. Desta vez Mário age **de propósito**: ajoelha-se, pousa a mão e **pede** a cura como ato de vontade, não como oração submissa. A cura acontece. A Voz não diz nada. Mário interpreta o silêncio como validação do seu caminho.
-
-Mário prega — o evangelho em quatro movimentos, teologicamente correto: o mundo está caído, ninguém se salva sozinho, Deus se fez homem para pagar, a salvação é de graça. Pela primeira vez vê conversão genuína. Mas, no fundo, sua consciência sussurra: "Você está fazendo isso para provar que está certo." Ele ignora.
-
-O carroceiro que fugiu volta com dois comparsas, acusando Mário de feiticeiro. Kate intervém (faca de caça), Lakand se posiciona, e o homem curado se coloca na frente de Mário — a tensão dissipa. Primeira hostilidade aberta: a pregação atrai fé e fúria. Lakand observa o curado com o antigo aperto (cap. 12).
-
-Mário descobre a Metrópole: uma ilha no meio do Cran, separada por um Muro Interno; a Mina devora os que deviam demais; a dívida passa de pai para filho. Nota que ninguém fala de um deus que veio ajudar — "Os deuses daquele mundo cobravam. Mas não davam."
-
-Uma mulher da barraca de pão o chama de Souhma e lhe oferece moedas de cobre — tudo o que tem. Mário recusa; ela insiste ("precisa mais quem vai a pé para o norte sem um centavo"). Kate o pressiona a aceitar ("Não podemos perder tempo com orgulho"). Mário aceita. Pela primeira vez em dias, sente que aquele mundo não é feito só de dívidas. O capítulo fecha com Mário observando Kate: ela não se ajoelhou, olha os convertidos com atenção demais — "como quem mede uma ferramenta."
+POV Nolan. Nolan alcança o assentamento de refugiados onde Mário curou a criança paralítica (cap. 22). A menina confirma: o Souhma pousou a mão no joelho e o osso se endireitou. Nolan processa: o milagre de Saboc não foi isolado — é replicável. Sem entender o que motiva Mário (curar e ir embora sem cobrar nada), Nolan conclui que precisa chegar antes dos Inquiridores. Na estrada, Mira revela, numa conversa casual sobre chá de bebê, que Dagmar cheirava a vembra antes do parto. Nolan começa a ligar os pontos: o chá, Juleen, a pressa em partir. Escreve três cartas: uma a Genocydo (versão censurada), uma a Koda (versão completa, plano político), uma a Layla (investigar o chá). Mathias reluta em partir, mas obedece. Ossan pergunta o que farão quando encontrarem Mário. Nolan responde: convencê-lo de que é o único aliado que ele tem.
 
 ## Personagens
 
-### Mário (POV)
+### Nolan
 
-- Cura intencional pela primeira vez — ato de vontade, sem a Voz; o silêncio dela é lido como validação
-- Prega o evangelho correto em oposição à Voz (para provar que a teologia basta)
-- Consciência sussurra a verdade ("Você só quer vencer") — ele ignora
-- Recusa as moedas por princípio; aceita pressionado por Kate
-- Fecha: sente que o mundo não é só dívidas; percebe que Kate o observa como ferramenta
+- POV. Chega ao assentamento, confirma o milagre da criança paralítica
+- Processa o padrão: Saboc + criança = replicável
+- Fica intrigado: Mário não cobrou nada, não deixou contrato — "ninguém faz algo por nada"
+- Recebe a revelação de Mira sobre a vembra; começa a suspeitar de Juleen, mas ainda segura a misatribuição ("humanos aceleraram os efeitos")
+- Escreve três cartas com audiências diferentes — mente política em camadas
+- Decide: apresentar-se como aliado a Mário
 
-### Kate
+### Mira
 
-- Olhar basta para Mário agir ("agora ou nunca")
-- Intervém com a faca de caça quando o carroceiro ameaça Mário
-- Pressiona Mário a aceitar as moedas — pragmatismo
-- Não se ajoelha; observa os convertidos "como quem conta o que tem antes de gastar"
-- Gancho: Mário sente que ela o mede como ferramenta (eco cap. 25: "Ele é a chave")
+- Confirma o milagre de Saboc como testemunha ocular (segurou o bebê morto)
+- Revela o cheiro de vembra em Dagmar — sem intenção, como comentário casual sobre chá de melissa
+- Não sabe o que está revelando; é só uma parteira que conhece ervas
 
-### Lakand
+### Mathias
 
-- Força Mário a comer na manhã seguinte à saída do assentamento
-- Fica na borda da feira, longe das pessoas
-- Se posiciona entre Mário e os carroceiros — o tamanho e o silêncio bastam
-- Observa o curado com o antigo aperto (cap. 12: "queria ser gente")
+- Monta à frente do séquito, mão no cabo da espada
+- Reluta em deixar Nolan para entregar as cartas — "este lugar é hostil"
+- Questiona a confiança em Ossan ("é filho de Devour")
+- Obedece por lealdade, não por convicção
 
-### Homem curado (sem nome)
+### Ossan
 
-- Esfaqueado por dívida; curado por Mário
-- Se coloca na frente de Mário diante dos carroceiros — testemunho
-- "Eu quero entender. Eu quero saber mais." — primeiro convertido genuíno
-
-### Mulher da barraca de pão (sem nome)
-
-- Chama Mário de Souhma; oferece as moedas de cobre (tudo o que tem)
-- Perdeu dois filhos para a Mina; age por esperança no Deus de graça
-- Primeiro gesto de graça recebido por Mário
-
-### Carroceiro (antagonista menor)
-
-- Foge após a briga; volta com dois comparsas acusando Mário de "feiticeiro"
-- Recua diante de Lakand/Kate/curado — primeira hostilidade aberta
+- Asset de Nolan; observa os rampillas com atenção de quem ainda os aprende
+- Pergunta o que farão quando encontrarem Mário — Nolan não revela o plano completo
+- Subtexto: herdeiro despojado, lealdade por sobrevivência
 
 ## Eventos
 
-1. Dias de caminhada; Lakand força Mário a comer ("Você vai morrer. Eu não vou deixar.")
-2. Chegada à Feira de Tronk; Kate alerta ("Gente aqui não é de confiança")
-3. Briga por dívida; homem esfaqueado cai morrendo; ninguém ajuda
-4. Kate olha para Mário — o olhar basta
-5. Mário cura de propósito (ato de vontade, sem oração submissa); a Voz silencia
-6. O curado não tem como pagar; Mário: "Não precisa pagar"
-7. Pregação em quatro movimentos; conversão genuína; consciência sussurra a verdade
-8. Carroceiro volta com comparsas ("feiticeiro"); Kate intervém; Lakand se posiciona
-9. O curado se coloca na frente de Mário; os carroceiros recuam
-10. Mário descobre a Metrópole (ilha no Cran, Muro Interno, Mina, dívida hereditária)
-11. Mulher da barraca oferece moedas; Mário recusa; Kate o pressiona; ele aceita
-12. Fechamento: Mário sente que o mundo não é só dívidas; observa Kate "como quem mede uma ferramenta"
+1. Nolan chega ao assentamento; refugiados recuam com medo dos rampillas
+2. Menina curada se apresenta; Nolan examina a cicatriz e confirma o milagre
+3. Nolan reflete: Mário curou e foi embora sem cobrar — "qual era o preço dele?"
+4. Nolan descobre que Kate e "um grandalhão de poucas palavras" (Lakand) acompanham Mário
+5. Retomada da marcha; Nolan monta cavalo (carroça danificada no incêndio)
+6. Mira confirma o nascimento morto de Saboc (segurou o corpo)
+7. Conversa sobre chá de melissa → Mira revela o cheiro de vembra em Dagmar
+8. Nolan processa: Dagmar, o chá, Juleen — "homens não prestam atenção a essas coisas"
+9. Nolan escreve três cartas (versão B, decisão 2026-08-30): a Genocydo
+   semeia a dúvida ("se um mercenário o matar, perdemos a chance") sem pedir
+   nada; a Koda usa o argumento da dívida ("a recompensa prometida vira
+   dívida — os cofres sofrem"); a Layla investiga a vembra
+10. Mathias reluta em partir; Nolan insiste; Mathias obedece
+11. Ossan pergunta o plano; Nolan: "vou convencê-lo de que sou o único aliado que ele tem"
 
 ## Sementes e Conexões
 
-- **Gancho cap. 25 (POV Kate)**: Mário sente que Kate o observa "como quem mede uma ferramenta" — ecoa o cap. 25:311 ("Ele é a chave") e 25:319 (Kate decide usar Mário)
-- **Lakand e o curado**: o antigo aperto (cap. 12) reacende — Lakand quer saber como Mário faz gente de nada (cap. 25:315)
-- **Primeira hostilidade aberta**: a pregação atrai fé e fúria; o carroceiro semeia a acusação de "feiticeiro" que pode se espalhar
-- **Souhma**: título popular aplicado a Mário; Kate já conhecia o termo (cap. 22:135) — o que ela descobre é a aplicação
-- **Metrópole**: ilha no Cran, Muro Interno, Mina devora devedores, dívida hereditária — canon novo de worldbuilding (ver `lugares/metropole.md`)
-- **"Os deuses cobravam. Mas não davam."**: generalização do POV de Mário (parcialmente errada — Vonos quer consertar Ornick); ecoa a pregação
-- **Conexão cap. 22**: a cura intencional contrasta com a cura por compaixão do cap. 22 (receber vs. produzir)
-- **Conexão cap. 23**: Nolan está a 2-3 dias de distância; as linhas convergem
-- **Conexão cap. 25**: Kate planta a semente de rebelião entre os convertidos da feira
+- **Semente #6 (vembra)**: Nolan escreve a Layla — investigação do chá de Dagmar fermenta até o cap. 30
+- **Souhma ancorado**: a velha do assentamento murmura "o Souhma" — Nolan ouve o termo na caçada e o guarda (usado depois na carta a Koda). Nolan sabe a distinção: Souhma é o nome popular ("telefone sem fio") da figura lendária que o Llyfr chama de **Estrangeiro** — o profetizado que os eruditos discutem e o povo espera.
+- **Mentira fundadora**: Nolan decide se apresentar como aliado a Mário — prepara o cap. 31 (aproximação)
+- **Mathias na Metrópole**: levou as cartas; pode retornar com informações ou ficar como asset de Nolan no Conselho
+- **Ossan**: pergunta sem resposta — Nolan não confia plenamente; a tensão pode germinar no L2
+- **Conexão cap. 22**: Nolan confirma o que Kate e Mário fizeram no assentamento — a linha do tempo fecha
+- **Conexão cap. 24**: Nolan está a 2-3 dias de distância; Mário está na Feira de Tronk — as linhas convergem

@@ -1,6 +1,12 @@
 # Log de Atualizações
 
-## 2026-08-31 (Mini-INGEST — cap. 25, "O Preço da Fama")
+## 2026-09-03 (Reestruturação — novo cap. 2 + cena do tribunal + micro-objetivo)
+
+- **Reestruturação completa da numeração**: Novo capítulo 2 ("O Inquérito") inserido entre os antigos caps. 1 e 2. Toda a numeração deslocada em +1 (antigo cap. 2 → cap. 3, antigo cap. 3 → cap. 4, etc.). Capítulos 4-25 da numeração antiga agora são caps. 5-26.
+- **Novo cap. 2 criado**: Mário na Terra após a morte do rapaz. Aula de Direito (raciocínio abdutivo — caso de omissão contratual). Inquiridor observa Mário na faculdade. Porta de Lucas (frieza familiar). Caderno "Regras do Absurdo" (micro-objetivo verbalizado). Voz progride para sussurro acordado. Sequestro.
+- **Cena do tribunal inserida no cap. 4 (Nolan vs. hegraliano)**: Nolan condena um hegraliano ao Gerikhad. O hegraliano acusa: "O Sinal se apagou. Vonos emudeceu. Até ele não aguenta mais olhar para o que você fez deste reino." Nolan não tem resposta. A fala ecoa nele.
+- **Sementes de micro-objetivo inseridas**: Caps. 5 (duas luas — "preciso entender as regras"), 8 (vampiros/lobisomens — "se é loucura, por que tem regras?"), 11 (cura de Decian — "dois tipos de cura"), 13 (fluência em ornickenho — "se produz resultados, pode ser testada").
+- **Arquivos**: `Livro 1/capitulo2.md` (novo), `Livro 1/capitulo3.md` (ajustado), `Livro 1/capitulo4.md` (cena do tribunal), `Livro 1/capitulo5.md` (semente), `Livro 1/capitulo8.md` (semente), `Livro 1/capitulo11.md` (semente), `Livro 1/capitulo13.md` (semente), `storybible/capitulos/capitulo-02.md` (novo INGEST), `storybible/temas/esquema-l1.md` (tabela atualizada), `storybible/temas/arco-stc.md` (atualizado), `storybible/temas/outline.md` (atualizado), `storybible/index.md` (atualizado), `storybible/log.md`.
 
 - **Capítulo 25 finalizado (Mini-INGEST)**: PoV Kate, segundo discurso público de Mário em vila próxima a Ornick. Debate com carroceiro (argumentação filosófica — fato vs. conclusão), reconhecimento como Souhma, divisão da multidão, acusação de Saramant, Lakand trucida acusador, mercenário oferece recompensa e captura Mário, Kate fere mercenário, fuga, discussão na estrada, confissão de Lakand ("Saramant é cinza"), discussão sobre Theodore, Kate reafirma Mário como instrumento.
 - **Sementes plantadas**: Carroceiro humilhado → informante dos caçadores (cap. 26); Mário questiona violência de Kate (eco no cap. 35); Lakand confessa Saramant por Kate (dívida do L1); Lakand acusa Kate sobre Theodore (afastamento); Recompensa por Mário reconhecida → caçadores no cap. 26.

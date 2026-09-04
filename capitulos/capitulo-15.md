@@ -1,70 +1,73 @@
 ---
 type: Chapter
-title: "Capítulo 15 — A Queda"
-description: "Lobisomens e rampillas colidem no acampamento. Kate mata o lobisomem que prendia Mário e o captura."
-pov: [Mário]
-stc-beat: "Debate (~47-50%)"
-timeline: "Imediatamente após cap. 14 — noite"
-tags: [L1, mario, kate, massacre, nomades, rampillas]
+title: "Capítulo 14 — O Encontro"
+description: "Kate vigia os nômades. Mário surge na clareira. Um uivo de guerra anuncia o ataque."
+pov: [Kate]
+stc-beat: "Debate / Catalisador (~45-47%)"
+timeline: "Noite — mesmo período do cap. 12-13"
+tags: [L1, kate, nomades, mario, encontro, ataque]
 timestamp: 2026-07-25T12:00:00-03:00
 ---
 
 ## Resumo
 
-Mário está de joelhos, paralisado pela culpa. Os **lobisomens** atacam o
-acampamento para recuperá-lo. Segundos depois, os **rampillas de Devour**
-(trazidos pelo rastro de sangue de Mário?) também atacam.
+Kate está em vigília noturna. Desconfortável com o contato físico dos humanos,
+afasta-se do círculo de fogo. **Godi** (ferido por Estruzzo) traz comida —
+ela recusa. Tae-Tabor observa: _"A pergunta que ele faz agora não é se você
+vai protegê-lo. É se você vai ficar."_
 
-Duas hordas colidem no centro da clareira. Os humanos do acampamento morrem
-no meio — **Tae-Tabor** está entre os mortos.
+Kate pensa em **Lakand** — a provocação sobre Devour: _"Crie você mesma o
+evento. Por que não começar executando o Lorde Devour?"_
 
-Mário repete: **"Foi minha culpa."**
+O vento muda. Sangue. Suor. Pânico.
 
-**Kate** mata o lobisomem que prendia Mário com um corte limpo na garganta.
-Ela o amarra pelos pulsos: _"Você trouxe isso. Mas também trouxe um prêmio."_
+**Mário** surge na clareira — roupas estranhas, ensanguentado, o olhar de
+quem foge de algo pior. Antes que ele possa gritar, um **uivo de guerra**
+rasga a floresta.
 
-Os rampillas recuam. Kate puxa Mário para longe do massacre.
+Kate não hesita. Manda Tae-Tabor acordar todo mundo.
+
+O ataque está chegando.
 
 ## Personagens
 
-| Personagem                     | Papel                                                  |
-| ------------------------------ | ------------------------------------------------------ |
-| [Mário](/personagens/mario.md) | POV. Culpado, capturado por Kate.                      |
-| [Kate](/personagens/kate.md)   | Mata o lobisomem, amarra Mário.                        |
-| Tae-Tabor                      | **Morto** no ataque.                                   |
-| Lobisomens (daërunmeges)       | Atacam para recuperar Mário. Charles e Kenod ausentes. |
-| Rampillas (Devour)             | Atacam também — segunda horda.                         |
+| Personagem                     | Papel                                               |
+| ------------------------------ | --------------------------------------------------- |
+| [Kate](/personagens/kate.md)   | POV. Em vigília. Primeiro contato visual com Mário. |
+| [Mário](/personagens/mario.md) | Aparece na clareira — ferido, em fuga.              |
+| Godi                           | Jovem nômade, ferido por Estruzzo. Mudado.          |
+| Tae-Tabor                      | Sábio nômade. A pergunta: "você vai ficar?"         |
 
 ## Eventos-chave
 
-1. ✅ Mário paralisado pela culpa — "foi minha culpa"
-2. ✅ Lobisomens atacam para recuperar Mário
-3. ✅ **Rampillas de Devour** também atacam
-4. ✅ Duas hordas colidem — humanos morrem no meio
-5. ✅ **Tae-Tabor morre** no ataque
-6. ✅ **Kate mata o lobisomem** que prendia Mário
-7. ✅ Kate amarra Mário: "você trouxe isso. Mas também trouxe um prêmio."
-8. ✅ Rampillas recuam
-9. ✅ Kate leva Mário — destino desconhecido
+1. ✅ Kate em vigília — desconforto com humanos
+2. ✅ Godi mudado após o ataque de Estruzzo
+3. ✅ Tae-Tabor: "você vai ficar?" — pergunta sobre pertencimento
+4. ✅ Kate pensa em Lakand — provocação sobre Devour
+5. ✅ O vento muda — presságio
+6. ✅ **Mário surge na clareira** — primeiro encontro com Kate
+7. ✅ Uivo de guerra — o ataque está chegando
+8. ✅ CLIFFHANGER
 
 ## Sementes Plantadas
 
-- 🌱 **Kate captura Mário**: Ela agora tem o Souhma. Não sabe ainda o que
-  fazer com ele — mas não vai entregá-lo a Charles.
-- 🌱 **Devour sabe de Mário**: Os rampillas atacaram o acampamento. Devour
-  também quer o Souhma.
-- 🌱 **Morte de Tae-Tabor**: Lakand saberá — luto (nota registrada em lakand.md)
+- 🌱 **Primeiro encontro Kate-Mário**: Ele não sabe quem ela é. Ela sente
+  que ele é diferente — "pureza estranha, como se a sujeira fosse superficial"
+- 🌱 **"Você vai ficar?"**: A pergunta de Tae-Tabor ecoará quando Kate
+  escolher Mário no cap. 19.
+- 🌱 **Lakand e Devour**: A provocação de Lakand sobre matar Devour ainda
+  está viva na mente de Kate.
 
 ## Conexões
 
-- [Capítulo 14](/capitulos/capitulo-14.md) — Mário chegou ao acampamento
-- [Kate](/personagens/kate.md) — Primeiro contato direto com Mário
-- [Lakand](/personagens/lakand.md) — Tae-Tabor morto (luto)
-- [Charles](/personagens/charles.md) — Perdeu Mário; rampillas também o querem
+- [Capítulo 11](/capitulos/capitulo-11.md) — Kate viaja com os nômades
+- [Capítulo 12](/capitulos/capitulo-12.md) — Mário estava com os daërunmeges
+- [Capítulo 13](/capitulos/capitulo-13.md) — Nolan descobre que o Souhma está com os daërunmeges
 
 ## Notas de INGEST
 
-- Mário agora é prisioneiro de Kate
-- Charles e Kenod não participaram do ataque — pode ser relevante
-- A culpa de Mário é um tema forte aqui: ele guiou os lobisomens até o
-  acampamento. As mortes são responsabilidade dele.
+- Mário escapou da jaula no final do cap. 12 — quebrou o bambu, usou cinzas
+  para disfarçar o cheiro. Lakand estava ausente da vigília.
+- O uivo é dos daërunmeges que o perseguem
+- Kate vê Mário pela primeira vez — ainda não sabe quem ele é
+- A cena termina em cliffhanger: o ataque está prestes a começar

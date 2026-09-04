@@ -1,85 +1,70 @@
 ---
 type: Chapter
-title: "Capítulo 12 — A Jaula"
-description: "Mário chega ao acampamento dos daërunmeges. Kenod define o prazo. Lakand faz a primeira pergunta. Mário foge na 3ª noite."
-pov: [Mário]
-stc-beat: "Debate (~36-40%)"
-timeline: "3 dias — cap. 12 termina com a fuga de Mário"
-tags: [L1, mario, alcateia, kenod, lakand, decian, charles]
+title: "Capítulo 11 — Os Nômades"
+description: "Kate viaja com nômades como disfarce para chegar a Devour. Estruzzo ataca o acampamento."
+pov: [Kate]
+stc-beat: "Debate (~33-36%)"
+timeline: "Dias após cap. 8"
+tags: [L1, kate, nomades, estruzzo, devour, theodore]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
 
 ## Resumo
 
-Mário é arrastado pela floresta, amarrado. A **Voz** habilita sua fluência
-em **ornickenho** — primeira vez que ele fala a língua nativa. Ele ouve a
-própria voz; a língua entra nele sem como arrancar (dom permanente, sem
-possessão). Charles
-confirma que a "descrição do decreto" bate.
+Kate viaja com **nômades** como disfarce para chegar à fortaleza de Devour.
+Ela patrulha as margens do comboio; eles a escondem na carga. **Lakand** saiu
+para despistar os espiões vegetais de Devour.
 
-Charles revela a motivação dos daërunmeges: criados por **Mesmia** como
-cães de caça contra vampiros, depois **descartados**. Ele quer a recompensa
-para comprar liberdade.
+Kate odeia a fragilidade humana. **Theodore** (amor perdido) vem à mente —
+ele também era frágil, ela não conseguiu protegê-lo.
 
-Chegam ao acampamento. **Kenod** (ancião) examina Mário e define o prazo:
-se os **Inquiridores** não fizerem oferta melhor até as duas luas ficarem
-escuras, entregam ao Rei.
+**Tae-Tabor**, mestre nômade, a convida para comer. Kate xinga **Mesmia**
+na frente dos anciãos — tensão. Tae-Tabor a defende: _"Quando a gente torna
+o medo uma divindade, a gente fabrica sacrifícios."_
 
-**Decian** cuida do ferimento de Mário com pasta de raiz negra. Deixa
-um cantil — pequenos gestos de humanidade.
+Tae-Tabor revela: **Lakand** salvou o povo deles dos vampiros há muito tempo.
+Por isso aceitaram o acordo.
 
-**Lakand** retorna da patrulha e assume a vigília. Percebe que Mário não
-tem "cheiro de deus". Pergunta: _"É verdade que um homem pode viver sem
-sujar as mãos de sangue?"_ — primeiro fio de conexão entre eles.
+À noite, **Estruzzo** (gornad) aparece e ataca **Godi**, um jovem nômade.
+Kate enfrenta Estruzzo — crava a adaga no olho dele. Estruzzo a provoca:
+_"Gaviorn'l arrancaria o couro das tuas costas."_
 
 ## Personagens
 
-| Personagem                         | Papel                                   |
-| ---------------------------------- | --------------------------------------- |
-| [Mário](/personagens/mario.md)     | POV. Na jaula, ouve, observa, processa. |
-| [Charles](/personagens/charles.md) | Quer a recompensa. Provoca os jovens.   |
-| [Decian](/personagens/decian.md)   | Cura Mário. Pequenos gestos de cuidado. |
-| [Lakand](/personagens/lakand.md)   | Vigia. Percebe a diferença de Mário.    |
-| Kenod                              | Ancião da alcateia. Define o prazo.     |
+| Personagem                   | Papel                                         |
+| ---------------------------- | --------------------------------------------- |
+| [Kate](/personagens/kate.md) | POV. Viaja disfarçada. Enfrenta Estruzzo.     |
+| Tae-Tabor                    | Mestre nômade. Sábio. Devedor de Lakand.      |
+| Estruzzo                     | Gornad. Ataca o acampamento, provocando Kate. |
+| Godi                         | Jovem nômade. Ferido por Estruzzo.            |
+| Theodore (mencionado)        | Amor perdido de Kate. Morto.                  |
 
 ## Eventos-chave
 
-1. ✅ Mário fala ornickenho pela 1ª vez (fluência habilitada pela Voz)
-2. ✅ Charles confirma: "a descrição do decreto bate"
-3. ✅ Charles revela: daërunmeges foram criados como cães de caça e descartados
-4. ✅ Chegam ao acampamento — dezenas de lobisomens
-5. ✅ **Kenod** define prazo: até as luas ficarem escuras
-6. ✅ Decian cuida de Mário — pasta de raiz negra, cantil
-7. ✅ **Lakand** pergunta: "é verdade que um homem pode viver sem matar?"
-8. ✅ Mário estuda a dinâmica da alcateia — planeja?
+1. ✅ Kate viaja com nômades — disfarce para chegar a Devour
+2. ✅ **Theodore** mencionado — amor perdido, ferida emocional
+3. ✅ Tae-Tabor revela: Lakand salvou os nômades
+4. ✅ Kate xinga Mesmia — nômades temem a deusa
+5. ✅ Kate passa mal (álcool de raiz)
+6. ✅ **Estruzzo** ataca Godi
+7. ✅ Kate enfrenta Estruzzo — crava adaga no olho
+8. ✅ Estruzzo provoca: Gaviorn'l teria nojo dela
 
 ## Sementes Plantadas
 
-- 🌱 **A pergunta de Lakand**: "É verdade que um homem pode viver sem sujar
-  as mãos de sangue?" — ecoa o desejo de Lakand de abandonar a caça.
-  Semente para a virada dele.
-- 🌱 **Prazo das luas**: Mário tem até as luas ficarem escuras para ser
-  vendido. Tensão de tempo.
-- 🌱 **Mário fala ornickenho**: Dom da Voz. Primeira vez que estrangeiro
-  e nativos se comunicam.
-- 🌱 **A fuga de Mário**: Ele escapa na 3ª noite — quebra o bambu mais
-  fino, usa cinzas para disfarçar o cheiro. Lakand propositalmente ausente
-  da vigília (silêncio cúmplice?).
+- 🌱 **Theodore**: Primeira menção. Humano que Kate amou e não conseguiu proteger.
+  Explica a frieza dela com humanos.
+- 🌱 **Estruzzo**: Gornad poderoso. Agora inimigo de Kate.
+- 🌱 **Tae-Tabor**: Aliado dos nômades. Sábio. Pode reaparecer.
 
 ## Conexões
 
-- [Lakand](/personagens/lakand.md) — Primeiro diálogo real com Mário
-- [Decian](/personagens/decian.md) — Cuidado silencioso
-- [Charles](/personagens/charles.md) — Motivação exposta
-- [Capítulo 10](/capitulos/capitulo-10.md) — Mário foi levado como carga
-- [Inquiridores](/personagens/inquiridor.md) — Disputam a compra
+- [Lakand](/personagens/lakand.md) — Salvou os nômades; agora aliado de Kate
+- [Gaviorn'l](/personagens/gaviornl.md) — Estruzzo o menciona
+- [Devour](*lugares/devour.md) — Destino da viagem
+- [Capítulo 8](/capitulos/capitulo-08.md) — Kate planejou a viagem com Lakand
 
 ## Notas de INGEST
 
-- A Voz habilita a fluência de Mário em ornickenho — ele não escolheu o
-  dom, mas não é possessão: ouve a própria voz, e a língua entra nele sem
-  como arrancar.
-- Kenod menciona "Inquiridores" como potenciais compradores — conecta com
-  o cap. 2 (Inquiridor atirou em Mário) e cap. 0 (Inquiridores mobilizados).
-- Lakand está exausto — retornou de patrulha, mas também há um cansaço
-  existencial em sua voz.
+- **Theodore** é o antigo amor de Kate (confirmado em SECUNDARIOS.md)
+- Estruzzo é o mesmo que criou o feitiço Dravionnah (origem do nome do vulcão Boca de Estruzzo)

@@ -1,79 +1,93 @@
 ---
 type: Chapter
-title: "Capítulo 7 — Os Lordes Defuntos"
-description: "Mário é capturado por vampiros na torre. Charles se revela como o daërunmege infiltrado e se transforma em lobo."
-pov: [Mário]
-stc-beat: "Debate (~20-23%)"
-timeline: "Imediatamente após cap. 4"
-tags: [L1, mario, opium, vampiros, charles, daerunmege]
+title: "Capítulo 6 — O Jogo"
+description: "Nolan joga xadrez com Genocydo e tenta dissuadi-lo de Cressadar. Falha. Vai a Koda — a conspiração se aprofunda."
+pov: [Nolan]
+stc-beat: "Debate (~16-20%)"
+timeline: "Manhã — mesmo período dos caps. 1-5"
+tags: [L1, nolan, genocydo, koda, cressadar, llyfr, xadrez]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
 
 ## Resumo
 
-Mário é arrastado para a saleta da torre, onde **vampiros (Lordes Defuntos)**
-interrogam reféns sobre o ataque dos **daërunmeges**. Os vampiros têm olhos
-vermelhos, narizes achatados e força descomunal.
+### O Jogo de Xadrez
 
-**Loretta**, uma vampira violenta, joga uma refém do parapeito e sugere
-matar Mário. **Etwano**, o líder, apunhala Mário no ombro para forçar os
-reféns a falarem.
+Nolan e Genocydo jogam xadrez no Castelo de Quartzo. Genocydo pergunta
+sobre as **luas azuis** (Tristan e Nevëilla) — estão azuis há dias, um
+fenômeno que nem o astrônomo **Piet Brö** explica.
 
-**Charles**, um refém vestido de pele de cachorro, se revela como o
-daërunmege que os vampiros procuram. Ele usou **transmorfia** para disfarçar
-cheiro e aparência.
+Nolan tentou interceptar cartas sobre o Souhma, dando-as a **Gan Orthov**,
+um escudeiro relapso, na esperança de que as perdesse.
 
-O **jardineiro** (que os vampiros mencionaram) chega com uma besta e atira
-em Loretta. Charles se transforma em um **imenso lobo negro** — Mário
-testemunha sua primeira criatura sobrenatural de Ornick.
+### A Tentativa de Dissuasão
+
+Nolan tenta convencer Genocydo a desconfiar de **Benjamim Cressadar**.
+Revela seu conhecimento do **Llyfr original**: a palavra "souhma" jamais
+aparece no texto, e a profecia de "julgar os deuses e coroar os homens"
+é **fabricada por Cressadar**.
+
+Genocydo se recusa: _"Prefiro confiar no que Cress me prometeu. Preferia
+não ter que me preocupar com esses mendigos miseráveis."_
+
+Nolan pensa em matá-lo (olha para um machado na parede), mas rejeita:
+_"Machados e espadas são para homens obtusos."_
+
+### A Conspiração em Casa de Koda
+
+Nolan vai à casa de **Koda Deltëra** e relata o fracasso. Pergunta por
+**Gunad Deltëra** (o filho mais velho) — não está. Koda garante que
+podem falar.
+
+Nolan sente um arrepio: _"Terbs é um deus. Será que tem ouvidos aqui
+nesta sala?"_
 
 ## Personagens
 
-| Personagem                         | Papel no capítulo                                 |
-| ---------------------------------- | ------------------------------------------------- |
-| [Mário](/personagens/mario.md)     | POV. Ferido, testemunha a transformação.          |
-| [Charles](/personagens/charles.md) | Daërunmege infiltrado. Se revela e se transforma. |
-| Etwano                             | Vampiro líder. Apunhala Mário.                    |
-| Loretta                            | Vampira violenta. Morta pelo jardineiro.          |
-| Jardineiro                         | Aliado de Charles. Atira em Loretta com besta.    |
+| Personagem                                     | Papel no capítulo                                      |
+| ---------------------------------------------- | ------------------------------------------------------ |
+| [Nolan](/personagens/nolan.md)                 | POV. Joga xadrez, tenta dissuadir, falha.              |
+| [Genocydo](/personagens/genocydo.md)           | Rei doente. Recusa ouvir Nolan. Confia em Cressadar.   |
+| [Koda Deltëra](/personagens/koda.md)           | Recebe Nolan. A conspiração continua.                  |
+| [Benjamim Cressadar](/personagens/benjamim.md) | Mencionado: Nolan descobre que ele fabrica versículos. |
+| Piet Brö (mencionado)                          | Astrônomo da Metrópole. Não explica as luas azuis.     |
+| Gunad Deltëra (mencionado)                     | Filho mais velho de Koda. Não está em casa.            |
 
 ## Eventos-chave
 
-1. ✅ Mário é arrastado à saleta — vampiros da torre
-2. ✅ Loretta joga uma refém do parapeito (assassinato frio)
-3. ✅ **Etwano apunhala Mário no ombro** para forçar os reféns
-4. ✅ **Charles se revela** como o daërunmege que procuram
-5. ✅ Charles explica: transmorfia para disfarçar cheiro
-6. ✅ Jardineiro chega com besta — mata Loretta
-7. ✅ **Charles se transforma em lobo negro** — primeira criatura sobrenatural que Mário vê
+1. ✅ Nolan tentou interceptar cartas (Gan Orthov)
+2. ✅ **Luas azuis**: fenômeno inexplicável desde a chegada de Mário
+3. ✅ Nolan **leu o Llyfr original** — "souhma" não existe no texto canônico
+4. ✅ **Cressadar fabrica versículos** — Nolan sabe, mas não pode provar
+5. ✅ Nolan tenta dissuadir Genocydo → **fracassa**
+6. ✅ Nolan considera **matar Genocydo** → rejeita ("homens obtusos")
+7. ✅ Nolan vai a Koda — conspiração ativa
+8. ✅ Nolan teme que **Terbs** o esteja ouvindo
 
 ## Sementes Plantadas
 
-- 🌱 **Charles como aliado**: Ele salvou Mário — mas por quê? Interesse
-  próprio (recompensa) ou algo mais?
-- 🌱 **Transmorfia**: Habilidade dos daërunmeges de mudar aparência
-- 🌱 **Os künervs**: Humanos são "gado de sangue" para vampiros. Origem do
-  termo (canon 2026-08-12): simpatizantes que doavam sangue nas festas da
-  era de ouro — ver `conceitos/lordes-defuntos.md`
-- 🌱 **"Filhos de Khaine" / festas de Gondor**: Charles cita a "época de
-  ouro" dos vampiros de Gondor. Gancho agora definido no canon
-  (2026-08-12): ver `conceitos/terbs.md` — origem da maldição em Khaine.
+- 🌱 **Luas azuis**: Tristan e Nevëilla azuis desde que Mário chegou.
+  Sinal cósmico que até os astrônomos não explicam. Semente para o L2.
+- 🌱 **Nolan leu o Llyfr**: Ele conhece a profecia original. Sabe que
+  Cressadar mente. Isso será usado contra Benjamim no futuro.
+- 🌱 **"Gunad não está"**: Segunda menção (cap. 3 foi a primeira).
+  Semente para L2 (Gunad emerge como pregador).
+- 🌱 **Nolan hesita em matar**: Prefere "outra atitude igualmente
+  eficiente" — ou seja, **golpe político**, não assassinato.
 
 ## Conexões
 
-- [Capítulo 4](/capitulos/capitulo-04.md) — Mário foi capturado pelos vampiros
-- [Charles](/personagens/charles.md) — Caçador de Mário, pragmático
-- [Decian](/personagens/decian.md) — Outro daërunmege que estava com Charles
-- [Cosmologia](/conceitos/cosmologia.md) — Daërunmege = lobisomens, criados por Mesmia
+- [Capítulo 3](/capitulos/capitulo-03.md) — Koda sugeriu a conspiração
+- [Capítulo 0](/capitulos/capitulo-00.md) — O sinal falhou; luas azuis confirmam
+- [Benjamim Cressadar](/personagens/benjamim.md) — Nolan sabe que ele fabrica profecias
+- [Inquiridores](/personagens/inquiridor.md) — Risco de perderem controle da narrativa
+- [Gunad Deltëra](/personagens/gunad.md) — Mencionado como "não está"
 
 ## Notas de INGEST
 
-- Charles se revela cedo — ele quer a recompensa pelo Souhma
-- Mário leva uma facada no ombro e está perdendo sangue
-- A transmorfia é uma habilidade que permite aos daërunmeges se passarem
-  por humanos — Charles a usou para se infiltrar entre os vampiros
-- **Etwano (canon 2026-08-12):** morto no combate da torre. A morte é
-  **implícita no texto** — o cap. 7 termina no meio da luta e o cap. 10
-  mostra Charles e Decian descartando todos os corpos ("Esse é o último").
-  A queima é **solar**: os corpos são jogados pela janela e o sol os frita
-  ao amanhecer (cap. 10) — não há fogo direto de Charles na página.
+- Nolan conhece o Llyfr melhor que qualquer personagem vivo (leu o original).
+  Sua objeção a Cressadar não é teológica, é **textual** — ele sabe o que
+  o texto diz e o que Cressadar inventou.
+- "Apoteose" é palavra de Cressadar, não do Llyfr.
+- As luas azuis são um fenômeno que liga a chegada de Mário ao cosmos.
+  Isso será relevante no L2 (Piet Brö e a Soteriologia Cósmica).

@@ -1,68 +1,85 @@
 ---
 type: Chapter
-title: "Capítulo 13 — A Sala Secreta"
-description: "Nolan reúne o Conselho e falha. A razão não basta. Lupe'i revela que o Souhma real está com os daërunmeges."
-pov: [Nolan]
-stc-beat: "Debate (~40-45%)"
-timeline: "Mesmo período do cap. 12"
-tags: [L1, nolan, conselho, nuh, valinor, lupei, koda]
-timestamp: 2026-07-25T12:00:00-03:00
+title: "Capítulo 12 — A Jaula"
+description: "Mário chega ao acampamento dos daërunmeges. Kenod define o prazo. Lakand faz a primeira pergunta. Mário foge na 3ª noite."
+pov: [Mário]
+stc-beat: "Debate (~36-40%)"
+timeline: "3 dias — cap. 12 termina com a fuga de Mário"
+tags: [L1, mario, alcateia, kenod, lakand, decian, charles]
+timestamp: 2026-07-24T12:00:00-03:00
 ---
 
 ## Resumo
 
-Nolan reúne o **Conselho secreto** numa sala sob o palácio: **Nuh d'Teraghar**
-(Sumo Sacerdote), **Valinor Addorbek** (General), **Edgard Lupe'i**
-(Hegraliano) e **Koda Deltëra** (Mestre da Moeda).
+Mário é arrastado pela floresta, amarrado. A **Voz** habilita sua fluência
+em **ornickenho** — primeira vez que ele fala a língua nativa. Ele ouve a
+própria voz; a língua entra nele sem como arrancar (dom permanente, sem
+possessão). Charles
+confirma que a "descrição do decreto" bate.
 
-Koda mostra o livro contábil real — o Reino está **falido**. Nuh rejeita:
-a apoteose resolverá tudo. Nolan mostra a **Bíblia de Kraviam** como prova
-de heresia — ninguém reconhece a língua. A acusação é rejeitada.
+Charles revela a motivação dos daërunmeges: criados por **Mesmia** como
+cães de caça contra vampiros, depois **descartados**. Ele quer a recompensa
+para comprar liberdade.
 
-**Valinor** recusa Nolan: _"O Rei é o Rei. Você está me pedindo para
-escolher entre meu juramento e minha família."_
+Chegam ao acampamento. **Kenod** (ancião) examina Mário e define o prazo:
+se os **Inquiridores** não fizerem oferta melhor até as duas luas ficarem
+escuras, entregam ao Rei.
 
-Nolan descobre: **a razão não basta**. Momento de virada.
+**Decian** cuida do ferimento de Mário com pasta de raiz negra. Deixa
+um cantil — pequenos gestos de humanidade.
 
-**Lupe'i** volta e revela: corre o rumor de um **Estrangeiro (Souhma real)**
-entre os daërunmeges. Se Genocydo souber antes de Nolan...
-
-Nolan decide: precisa chegar ao Souhma **primeiro**.
+**Lakand** retorna da patrulha e assume a vigília. Percebe que Mário não
+tem "cheiro de deus". Pergunta: _"É verdade que um homem pode viver sem
+sujar as mãos de sangue?"_ — primeiro fio de conexão entre eles.
 
 ## Personagens
 
-| Personagem                                      | Papel                                      |
-| ----------------------------------------------- | ------------------------------------------ |
-| [Nolan](/personagens/nolan.md)                  | POV. Reúne o Conselho. Falha. Decide agir. |
-| [Nuh d'Teraghar](/personagens/nuh-dteraghar.md) | Rejeita a evidência. Fé na apoteose.       |
-| [Valinor Addorbek](/personagens/valinor.md)     | Recusa Nolan. "O Rei é o Rei."             |
-| [Edgard Lupe'i](/personagens/lupei.md)          | Traz a informação do Souhma real.          |
-| [Koda Deltëra](/personagens/koda.md)            | Mostra os livros contábeis.                |
+| Personagem                         | Papel                                   |
+| ---------------------------------- | --------------------------------------- |
+| [Mário](/personagens/mario.md)     | POV. Na jaula, ouve, observa, processa. |
+| [Charles](/personagens/charles.md) | Quer a recompensa. Provoca os jovens.   |
+| [Decian](/personagens/decian.md)   | Cura Mário. Pequenos gestos de cuidado. |
+| [Lakand](/personagens/lakand.md)   | Vigia. Percebe a diferença de Mário.    |
+| Kenod                              | Ancião da alcateia. Define o prazo.     |
 
 ## Eventos-chave
 
-1. ✅ Conselho secreto reunido — Nolan tenta convencer
-2. ✅ Koda revela: Reino falido (rombo irreversível)
-3. ✅ **Nuh rejeita**: apoteose resolverá tudo
-4. ✅ Nolan mostra a Bíblia — ninguém reconhece a língua
-5. ✅ **Valinor recusa**: "O Rei é o Rei"
-6. ✅ Nolan descobre: **a razão não basta** — momento de virada
-7. ✅ Lupe'i revela: Souhma real está com os daërunmeges
-8. ✅ Nolan decide: precisa chegar ao Souhma primeiro
+1. ✅ Mário fala ornickenho pela 1ª vez (fluência habilitada pela Voz)
+2. ✅ Charles confirma: "a descrição do decreto bate"
+3. ✅ Charles revela: daërunmeges foram criados como cães de caça e descartados
+4. ✅ Chegam ao acampamento — dezenas de lobisomens
+5. ✅ **Kenod** define prazo: até as luas ficarem escuras
+6. ✅ Decian cuida de Mário — pasta de raiz negra, cantil
+7. ✅ **Lakand** pergunta: "é verdade que um homem pode viver sem matar?"
+8. ✅ Mário estuda a dinâmica da alcateia — planeja?
 
 ## Sementes Plantadas
 
-- 🌱 **"A razão não basta"**: Nolan descobre que lógica e evidência não
-  vencem o delírio. Isso o levará a usar outros meios (a Bíblia contra
-  Mário no L2, o pacto com Terbs).
-- 🌱 **Nuh no L2**: A crise de fé de Nuh começa aqui — ele escolhe a apoteose
-  em vez da realidade. No L2, bêbado numa taverna, constatará o erro.
-- 🌱 **Nolan decide viajar**: Primeiro passo de Nolan para sair da Metrópole
-  e ir ao encontro de Mário.
+- 🌱 **A pergunta de Lakand**: "É verdade que um homem pode viver sem sujar
+  as mãos de sangue?" — ecoa o desejo de Lakand de abandonar a caça.
+  Semente para a virada dele.
+- 🌱 **Prazo das luas**: Mário tem até as luas ficarem escuras para ser
+  vendido. Tensão de tempo.
+- 🌱 **Mário fala ornickenho**: Dom da Voz. Primeira vez que estrangeiro
+  e nativos se comunicam.
+- 🌱 **A fuga de Mário**: Ele escapa na 3ª noite — quebra o bambu mais
+  fino, usa cinzas para disfarçar o cheiro. Lakand propositalmente ausente
+  da vigília (silêncio cúmplice?).
 
 ## Conexões
 
-- [Capítulo 9](/capitulos/capitulo-09.md) — A Bíblia que Layla trouxe
-- [Capítulo 12](/capitulos/capitulo-12.md) — Mário está com os daërunmeges
-- [Nuh d'Teraghar](/personagens/nuh-dteraghar.md) — Erro teológico: Vonos no controle
-- [Inquiridores](/personagens/inquiridor.md) — Podem chegar ao Souhma antes
+- [Lakand](/personagens/lakand.md) — Primeiro diálogo real com Mário
+- [Decian](/personagens/decian.md) — Cuidado silencioso
+- [Charles](/personagens/charles.md) — Motivação exposta
+- [Capítulo 10](/capitulos/capitulo-10.md) — Mário foi levado como carga
+- [Inquiridores](/personagens/inquiridor.md) — Disputam a compra
+
+## Notas de INGEST
+
+- A Voz habilita a fluência de Mário em ornickenho — ele não escolheu o
+  dom, mas não é possessão: ouve a própria voz, e a língua entra nele sem
+  como arrancar.
+- Kenod menciona "Inquiridores" como potenciais compradores — conecta com
+  o cap. 2 (Inquiridor atirou em Mário) e cap. 0 (Inquiridores mobilizados).
+- Lakand está exausto — retornou de patrulha, mas também há um cansaço
+  existencial em sua voz.

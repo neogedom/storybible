@@ -1,57 +1,79 @@
 ---
 type: Chapter
-title: "Capítulo 8 — A Caverna"
-description: "Kate e Lakand caçam vampiros mortos. Lakand revela que Charles foi para Opium atrás da recompensa pelo Souhma."
-pov: [Kate]
-stc-beat: "Debate (~23-26%)"
-timeline: "Mesmo período dos caps. 4-7"
-tags: [L1, kate, lakand, saramant, vampiros, charles, recompensa]
+title: "Capítulo 7 — Os Lordes Defuntos"
+description: "Mário é capturado por vampiros na torre. Charles se revela como o daërunmege infiltrado e se transforma em lobo."
+pov: [Mário]
+stc-beat: "Debate (~20-23%)"
+timeline: "Imediatamente após cap. 4"
+tags: [L1, mario, opium, vampiros, charles, daerunmege]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
 
 ## Resumo
 
-Kate e **Lakand** caçam vampiros em uma caverna em Saramant — mas os vampiros
-já estão mortos de velhice (meses sem sangue). Kate está furiosa: prometeram
-guerra, ela encontrou lixo.
+Mário é arrastado para a saleta da torre, onde **vampiros (Lordes Defuntos)**
+interrogam reféns sobre o ataque dos **daërunmeges**. Os vampiros têm olhos
+vermelhos, narizes achatados e força descomunal.
 
-Ela provoca Lakand sobre **Charles** ser o favorito da alcateia. Lakand revela
-que Charles foi enviado para **Opium** para aniquilar um ninho de vampiros,
-mas está "brincando de humano", disfarçado de caçador. Charles está atrás
-da **recompensa** que a Metrópole oferece pelo Souhma. **Devour** também
-está interessado.
+**Loretta**, uma vampira violenta, joga uma refém do parapeito e sugere
+matar Mário. **Etwano**, o líder, apunhala Mário no ombro para forçar os
+reféns a falarem.
 
-Kate e Lakand têm uma relação física (transacional). Lakand sugere terem
-um filho — Kate lembra que **daërunmeges são estéreis** (Mesmia os criou
-assim para evitar amarras sentimentais).
+**Charles**, um refém vestido de pele de cachorro, se revela como o
+daërunmege que os vampiros procuram. Ele usou **transmorfia** para disfarçar
+cheiro e aparência.
+
+O **jardineiro** (que os vampiros mencionaram) chega com uma besta e atira
+em Loretta. Charles se transforma em um **imenso lobo negro** — Mário
+testemunha sua primeira criatura sobrenatural de Ornick.
 
 ## Personagens
 
-| Personagem                         | Papel                                                   |
-| ---------------------------------- | ------------------------------------------------------- |
-| [Kate](/personagens/kate.md)       | POV. Frustrada, provoca Lakand, descobre sobre Charles. |
-| [Lakand](/personagens/lakand.md)   | Daërunmege. Revela informações sobre Charles e Opium.   |
-| [Charles](/personagens/charles.md) | Mencionado: em Opium, atrás da recompensa.              |
+| Personagem                         | Papel no capítulo                                 |
+| ---------------------------------- | ------------------------------------------------- |
+| [Mário](/personagens/mario.md)     | POV. Ferido, testemunha a transformação.          |
+| [Charles](/personagens/charles.md) | Daërunmege infiltrado. Se revela e se transforma. |
+| Etwano                             | Vampiro líder. Apunhala Mário.                    |
+| Loretta                            | Vampira violenta. Morta pelo jardineiro.          |
+| Jardineiro                         | Aliado de Charles. Atira em Loretta com besta.    |
 
 ## Eventos-chave
 
-1. ✅ Kate e Lakand caçam vampiros — já estavam mortos de inanição
-2. ✅ Kate provoca Lakand sobre Charles ser o favorito
-3. ✅ **Charles foi para Opium** atrás da recompensa
-4. ✅ **Devour também** está atrás do Souhma
-5. ✅ **Daërunmeges são estéreis** (Mesmia)
-6. ✅ Kate descobre carne quente com Lakand
+1. ✅ Mário é arrastado à saleta — vampiros da torre
+2. ✅ Loretta joga uma refém do parapeito (assassinato frio)
+3. ✅ **Etwano apunhala Mário no ombro** para forçar os reféns
+4. ✅ **Charles se revela** como o daërunmege que procuram
+5. ✅ Charles explica: transmorfia para disfarçar cheiro
+6. ✅ Jardineiro chega com besta — mata Loretta
+7. ✅ **Charles se transforma em lobo negro** — primeira criatura sobrenatural que Mário vê
 
 ## Sementes Plantadas
 
-- 🌱 **Charles em Opium**: Ele estava no mesmo lugar que Mário (cap. 4 e 7).
-  Charles encontrou Mário e quer a recompensa.
-- 🌱 **Devour na disputa**: O lorde rampilla também quer o Souhma.
-- 🌱 **Esterilidade dos daërunmeges**: Mesmia os criou sem reprodução.
+- 🌱 **Charles como aliado**: Ele salvou Mário — mas por quê? Interesse
+  próprio (recompensa) ou algo mais?
+- 🌱 **Transmorfia**: Habilidade dos daërunmeges de mudar aparência
+- 🌱 **Os künervs**: Humanos são "gado de sangue" para vampiros. Origem do
+  termo (canon 2026-08-12): simpatizantes que doavam sangue nas festas da
+  era de ouro — ver `conceitos/lordes-defuntos.md`
+- 🌱 **"Filhos de Khaine" / festas de Gondor**: Charles cita a "época de
+  ouro" dos vampiros de Gondor. Gancho agora definido no canon
+  (2026-08-12): ver `conceitos/terbs.md` — origem da maldição em Khaine.
 
 ## Conexões
 
-- [Capítulo 4](/capitulos/capitulo-04.md) — Opium: onde Mário acordou
-- [Capítulo 7](/capitulos/capitulo-07.md) — Charles se revela em Opium
-- [Charles](/personagens/charles.md) — Caçador de Mário
-- [Lakand](/personagens/lakand.md) — Relação com Kate
+- [Capítulo 4](/capitulos/capitulo-04.md) — Mário foi capturado pelos vampiros
+- [Charles](/personagens/charles.md) — Caçador de Mário, pragmático
+- [Decian](/personagens/decian.md) — Outro daërunmege que estava com Charles
+- [Cosmologia](/conceitos/cosmologia.md) — Daërunmege = lobisomens, criados por Mesmia
+
+## Notas de INGEST
+
+- Charles se revela cedo — ele quer a recompensa pelo Souhma
+- Mário leva uma facada no ombro e está perdendo sangue
+- A transmorfia é uma habilidade que permite aos daërunmeges se passarem
+  por humanos — Charles a usou para se infiltrar entre os vampiros
+- **Etwano (canon 2026-08-12):** morto no combate da torre. A morte é
+  **implícita no texto** — o cap. 7 termina no meio da luta e o cap. 10
+  mostra Charles e Decian descartando todos os corpos ("Esse é o último").
+  A queima é **solar**: os corpos são jogados pela janela e o sol os frita
+  ao amanhecer (cap. 10) — não há fogo direto de Charles na página.

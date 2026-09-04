@@ -37,11 +37,11 @@ Cada capítulo deve responder:
 | ------------------------ | --------------- | --------- | ------------ |
 | Imagem de Abertura       | ~0-3%           | 0         | ✅ Escrito   |
 | Configuração             | ~3-7%           | 1-2       | ✅ Escrito   |
-| Catalisador              | ~7-12%          | 2-4       | ✅ Escrito   |
-| Debate                   | ~12-42%         | 3-17      | ✅ Escrito   |
-| Break Into 2             | ~42-45%         | 18-19     | ✅ Escrito   |
-| Jogos (Velocino de Ouro) | ~45-68%         | 20-34     | ✍️ Escrevendo |
-| Ponto Central            | ~68%            | ~33-34    | 📝 Planejado |
+| Catalisador              | ~7-12%          | 3-4       | ✅ Escrito   |
+| Debate                   | ~12-42%         | 4-18      | ✅ Escrito   |
+| Break Into 2             | ~42-45%         | 19-20     | ✅ Escrito   |
+| Jogos (Velocino de Ouro) | ~45-68%         | 21-35     | ✍️ Escrevendo |
+| Ponto Central            | ~68%            | ~34-35    | 📝 Planejado |
 | Vilões se Aproximam      | ~68-75%         | —         | 📝 Planejado |
 | Tudo Está Perdido        | ~75%            | —         | 📝 Planejado |
 | Noite Escura da Alma     | ~75-80%         | —         | 📝 Planejado |

@@ -1,278 +1,123 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 19
-titulo: "O Bebê"
-pov: Kate
-beat_stc: Break Into 2
-percentual_l1: ~38-40%
-data_ingest: 2026-07-31
-revisado: 2026-08-06 (sincronizado com o texto final publicado)
+capitulo: 18
+titulo: "O Castelo de Devour"
+pov: Nolan
+beat_stc: Debate -> Break Into 2 (transição)
+percentual_l1: ~33%
+data_ingest: 2026-07-26
 personagens:
-  - Kate
-  - Mário
-  - Nolan (fora de cena — segurando a mão de Dagmar no andar de cima)
-  - Mathias (não nomeado no texto — "o soldado do conselheiro")
-  - Lakand
-  - Dagmar (†, fora de cena)
-  - Devour (†, fora de cena — morte híbrida: ferido por Lakand, corpo consumido pelo fogo)
-  - Saboc (bebê de Dagmar, ressuscitado)
+  - Nolan
+  - Dagmar (†)
+  - Mathias
+  - Decian (retorna)
+  - Devour
+  - Mário (visão na cela)
+  - Kate (mencionada)
 lugares:
-  - Calabouços de Devour
+  - Estalagem do Vau (introduzida)
   - Castelo de Devour
+  - Calabouços de Devour
 conceitos:
-  - Milagre
   - Rampillas
+  - Daërunmeges (lobisomens)
+  - Inquiridores do Sinal
+  - Selo do Conselho
+  - Selo de Vonos
 sementes:
-  - Kate vê Mário como arma (não como protegido)
-  - Lakand afastado ("eu perdi")
-  - Saboc vivo pelo milagre de Mário
-  - Manto de xilomagia de Tharin — Kate o recupera no cap. 20 (ver decisoes/)
-  - Glossolalia invertida — Mário ora "Eu Sou" em ornickenho (ver decisoes/)
-  - Mathias ouve a oração — pode relatar a Nolan "um deus acima do Limbo"
+  - Decian, o curandeiro lobisomem — pode retornar
+  - Devour indeciso sobre destino de Mário
+  - Nolan vulnerável após morte da esposa
+  - Mário na cela, visto por Nolan
 ---
 
-# Capítulo 19 — O Bebê
+# Capítulo 18 — O Castelo de Devour
 
 ## Resumo
 
-Kate está presa nos calabouços do castelo de Devour, com os pulsos amarrados.
-Mário está na cela ao lado, desmaiado e febril — a infecção da ferida chegou.
-Enquanto Kate examina a cela, ouve passos no andar de cima: o parto de Dagmar,
-esposa do conselheiro Nolan, que falha. O silêncio após o esforço confirma a
-tragédia — a criança não chorou. Kate reconhece a morte pela ausência do som.
+Nolan, Mathias e Dagmar chegam à Estalagem do Vau, último posto antes do território dos rampillas. Nolan ouve boatos sobre um massacre envolvendo rampillas e lobisomens, e sobre um forasteiro que apareceu do nada. Nos fundos da estalagem, Nolan encontra **Decian**, um lobisomem curandeiro em estado de choque. Decian revela que tratou o forasteiro (Mário), que Kate o levou para o castelo de Devour, e que os rampillas estão em armas.
 
-O soldado de Nolan (Mathias, não nomeado no texto) desce ao calabouço com o
-bebê arroxeado e morto nos braços, fugindo do quarto — "Não com ela. Não
-sabia para onde ir." Mário, semi-inconsciente e febril, fala com a voz
-"certa, como se estivesse repetindo algo que ouviu": pergunta "O que
-aconteceu com o bebê?" e ordena "Traga ele aqui." / "Traga. Por favor."
-Estende a mão, toca a cabeça da criança — e a **Voz o incita a orar**.
-Mário balbucia, em ornickenho (renderizado em português para o leitor), uma
-oração ditada: nomeia "Eu Sou", o deus acima do Limbo, recusa oferta e pede
-apenas misericórdia (ver `decisoes/glossolalia-invertida-oracao-cap19.md`).
-O bebê tosse, volta a respirar e chora.
+Nolan parte imediatamente para o castelo de Devour. Após seis dias de viagem, chega ao castelo e confronta Devour. Descobre que os Inquiridores do Sinal já enviaram intimação reivindicando o Souhma. Devour permite que Nolan veja o prisioneiro.
 
-Kate OUVE e ENTENDE as palavras — a primeira oração da vida dela a um deus
-que não cobra. Fica com a pergunta que abrirá o cap. 20: **"com quem você
-estava falando?"**. Mário **lembra** que repetiu, palavra por palavra, a
-oração que a Voz ditou na mente dele; não compôs, apenas repetiu com a
-própria voz. A Voz assume a autoria; Mário é testemunha consciente do
-próprio milagre.
+Nolan desce aos calabouços e vê Mário — um homem jovem, sujo, ferido, encolhido no canto da cela. Nada do que esperava.
 
-Kate presencia o impossível. Repete "Eu vi um bebê morto. Agora está vivo.
-Isso não existe" até a frase perder o sentido. Seu mundo de regras causais
-não comporta o milagre.
-
-Lakand invade o calabouço — o castelo em chamas, os guardas dispersos. Ele
-**ateou o fogo de propósito** (decisão 2026-08-03: sozinho não vence os
-rampillas; o fogo é a arma + o caos). Feriu Devour no salão e o fogo consumiu
-o corpo — morte híbrida, fora de cena, revelada apenas pelo sangue nas mãos e
-pelas chamas. Kate não pergunta como ele entrou; basta o caos. Lakand a
-confronta: "Escolha. Ele ou a guerra que você sempre quis." Kate responde
-"Os dois". Não é cálculo — é instinto: se levar Mário, o milagre vira arma.
-
-Lakand percebe que perdeu algo ("eu perdi" no olhar), mas não discute.
-Arromba a cela de Mário e os guia para fora, por um corredor lateral,
-enquanto o castelo queima.
-
-A última imagem de Kate é o bebê azul que voltou a respirar. Ela não entende.
-Mas vai usar.
+Enquanto isso, Dagmar entra em trabalho de parto. O bebê está atravessado. Ela morre no parto; a criança também nasce sem ar. Nolan segura a mão de Dagmar enquanto ela morre. O capítulo termina com Nolan em choque, o vazio tomando conta, enquanto passos descem as escadas do calabouço (preparando o cap. 19).
 
 ## Eventos Principais
 
-1. Kate acorda amarrada no calabouço; Mário febril na cela ao lado
-2. Kate ouve o parto de Dagmar no andar de cima — contrações, silêncio
-3. O bebê nasce morto; Dagmar morre (confirmado pelo corpo em lençol)
-4. Mathias desce com o bebê morto; Mário, febril, pergunta "O que aconteceu
-   com o bebê?" e ordena "Traga ele aqui." / "Traga. Por favor."
-5. Mário estende a mão pela grade e toca a cabeça do bebê
-6. O toque + a oração ditada ressuscitam o bebê — ele tosse, respira e chora
-7. Kate processa o impossível ("Isso não existe")
-8. Lakand invade (ateou o fogo de propósito; feriu Devour — o fogo consume o corpo)
-9. Kate escolhe "Os dois" — Mário como arma
-10. Fuga pelos corredores laterais; Devour queima atrás deles
+1. Acampamento noturno na estrada de Saramant
+2. Chegada à Estalagem do Vau — descrição do posto fortificado
+3. Nolan ouve boatos sobre o massacre (mercadores na taverna)
+4. Encontro com Decian nos fundos da estalagem
+5. Decian revela: tratou o forasteiro, Kate o levou, rampillas preparam emboscada
+6. Nolan decide partir imediatamente para o castelo de Devour
+7. Viagem de 6 dias até o castelo
+8. Confronto com Devour — o selo de Vonos vs. o selo do Conselho
+9. Nolan desce às celas e vê Mário
+10. Dagmar entra em trabalho de parto
+11. Parteiras não conseguem virar o bebê — Dagmar morre
+12. O bebê nasce sem ar
+13. Nolan segura a mão de Dagmar até o fim — não chora, mas o vazio se instala
 
 ## Personagens
 
-### Kate
-
+### Nolan
 - POV do capítulo
-- Presa, amarrada, ombro direito ferido (unhas de rampilla)
-- Testemunha o parto de Dagmar e a morte silenciosa
-- Flashback do parto: a mãe (parteira) a levava aos partos das vizinhas —
-  "Você precisa saber, Kate. Um dia pode ser você." Modo defesa: ódio ao
-  parto (reforço da semente #11 — ver `personagens/kate.md`)
-- Reconhece o corpo pelo anel de prata e o brasão do Conselho — "Cressadar
-  lhe ensinara os selos e as casas da corte para o ataque que fora deixado
-  de lado"
-- Presencia o milagre — o mundo de regras dela colapsa
-- Fissura humana: "Eu vi um bebê morto. Agora está vivo. Isso não existe."
-- Escolhe Mário por instinto — mas o instinto é tático: milagre = arma
-- Final: "Ela não entendia. Mas ia usar."
+- Estado emocional: tenso, controlado, depois destruído internamente
+- Age como conselheiro astuto (ouve boatos, interroga Decian, enfrenta Devour)
+- Momento de humanidade: senta-se no chão para falar com Decian, segura a mão de Dagmar
+- Não chora — mas "algo nos ombros cedeu"
+- Perde a esposa e o filho não-nascido no mesmo dia
 
-### Mário
-
-- Febril, desmaiado, semi-inconsciente (infecção no braço direito)
-- A voz age **através** dele: "O que aconteceu com o bebê?" / "Traga ele
-  aqui." / "Traga. Por favor." — como se repetisse algo que ouviu
-- Sabe que repetiu o que a Voz ditou, mas não decidiu compor — o milagre
-  acontece sem consentimento consciente
-- Física: febre, ferida no braço direito, exaustão; arrasta-se até a grade
-  para estender a mão sobre a criança
+### Dagmar
+- Silenciosa durante toda a viagem
+- Não olha para Nolan — carrega a mágoa das revelações do cap. 16
+- Morre no parto
+- Bebê atravessado — não há o que as parteiras possam fazer
+- Último gesto: aperta a mão de Nolan
 
 ### Mathias
+- Soldado fiel de Nolan
+- Executa ordens sem questionar
+- Monta à frente do comboio, mão na espada
 
-- Soldado de Nolan — não nomeado no texto ("o soldado do conselheiro")
-- Desce escondido (Nolan não sabe que ele tirou o corpo do quarto)
-- Em desespero — olhos vermelhos, voz quebrada ("Nasceu sem ar... Não sabia
-  para onde ir. Desci.")
-- Chora apertando o bebê contra o peito quando ele volta a respirar
-- Última imagem de Kate: o bebê chorando nos braços dele, com o castelo em
-  chamas atrás
+### Decian (retorna)
+- Daërunmege (lobisomem) curandeiro
+- Em choque após o massacre da alcateia
+- Mãos manchadas de resina vegetal verde-escura — de horas curvado sobre tigelas e pilões
+- Tratou o forasteiro (Mário); viu a alcateia morrer ao persegui-lo
+- Não teve coragem de chegar perto do fim
+- Entregou informação a Nolan: Kate levou o forasteiro para o castelo de Devour
 
-### Nolan
+### Devour
+- Barão de Saramant — leviantar
+- Pele cinzenta como pedra úmida
+- Tédio de quem governa pelo medo
+- Ervas crescem das frestas em volta do trono
+- Recebe Nolan com desdém calculado
+- Já recebeu intimação dos Inquiridores do Sinal
+- Está segurando o Souhma até decidir para quem entregar
+- Permite que Nolan veja o prisioneiro (subestimando o impacto)
 
-- Presente, fora de cena — no andar de cima, segurando a mão de Dagmar
-  (dito pelo soldado: "O senhor Nolan está lá em cima, segurando a mão dela")
-- Não sabe que Mathias tirou o corpo do bebê do quarto
-- Perde a esposa e o filho (morto, depois revivido) no mesmo evento
-- Sobrevive ao incêndio com Saboc (via Mathias — cap. 21, cold-open POV Nolan)
-
-### Lakand
-
-- **Ateou o fogo de propósito** (decisão 2026-08-03) — ato instintivo de
-  desespero, não plano frio; não vence os rampillas em combate direto
-- Invade o calabouço — mãos manchadas de sangue fresco
-- **Desmanche (decisão 2026-08-04):** chega em forma híbrida (fera); o homem
-  volta quando ele diz "— Kate." — nome como primeiro som humano; quieto
-- Feriu Devour no salão; o fogo consumiu o corpo (morte híbrida, fora de cena)
-- Confronta Kate com a escolha
-- Percebe a perda ("eu perdi" no olhar) — semente de afastamento
-- Arromba a cela de Mário, guia a fuga (faro inutilizado pela fumaça — custo)
-- Paga o custo: a floresta que caça (Saramant) arde no fogo descontrolado
-- **Nota de coerência (2026-08-04):** Lakand NÃO estava com a alcateia que
-  perseguiu Mário (batedor em serviço); achou a alcateia dizimada (cap. 15)
-  e rastreou Kate até Devour. Não culpa Mário pela morte da alcateia (evita
-  repetir o arco de Decian). Ver `personagens/lakand.md`.
-
-### Devour (†, fora de cena)
-
-- Morte **híbrida** (decisão 2026-08-03): ferido por Lakand no salão, corpo
-  consumido pelo incêndio que Lakand ateou
-- A morte só é revelada pelo sangue nas mãos de Lakand + chamas — subtexto,
-  não anúncio
-
-### Dagmar (†)
-
-- Morte fora de cena (fim do cap. 18, POV Nolan — parto; o bebê nasce sem ar)
-- Corpo levado em lençol manchado de vermelho na altura do ventre; braço
-  fino pendendo, anel de prata no dedo (reconhecido por Kate)
-- Corpo deixado no andar de cima quando o castelo queima — enterro em aberto
-  (verificação LINT: o corpo não é retirado no cap. 19)
-
-### Saboc (bebê de Dagmar)
-
-- Nasce morto, atravessado (fim do cap. 18)
-- Ressuscitado pelo toque de Mário + a oração "Eu Sou" (cap. 19)
-- Chora nos braços de Mathias
+### Mário (o Estrangeiro / Souhma)
+- Visto apenas na cela, ao final
+- Jovem, sujo, ferido, encolhido no canto
+- Roupas de tecido leve, cor desbotada, nunca visto em mercado do reino
+- Braço direito envolto em pano escuro, manchado de sangue seco e terra
+- Respiração ruidosa, chiado no fundo
+- Nolan esperava um monstro — encontrou um paciente
 
 ## Sementes Plantadas
 
-1. **Kate vê Mário como arma**: "Se levasse, virava arma" — muda a dinâmica
-   Kate/Mário para todo o Jogos e Diversão (cap. 20-34). Kate será a
-   estrategista que usa o milagre como estopim.
-2. **Lakand afastado**: "eu perdi" no olhar — semente do distanciamento
-   que culmina na aliança dele com Benjamim no L2.
-3. **Saboc vivo**: O bebê de Dagmar e Nolan sobreviveu pelo milagre. Nolan
-   não sabe. Semente para o cap. 21 (Nolan segura o filho nos braços).
-4. **Manto de xilomagia de Tharin**: A recuperar no cap. 20 — Kate o
-   desenterrará para usar como camuflagem na jornada (ver `decisoes/`).
-5. **Mário sabe que repetiu, mas não compôs**: A crise teológica do cap. 20
-   ("Por que este bebê e não Lucas?") está preparada — a Voz agiu sem o
-   consentimento consciente dele (ele repetiu o que foi ditado).
-6. **Glossolalia invertida**: A oração "Eu Sou" em ornickenho (ditada pela
-   Voz) é ouvida e entendida por Kate. A pergunta "com quem você estava
-   falando?" abre o cap. 20 e move a curiosidade dela na jornada até a Mina.
-   Ver `decisoes/glossolalia-invertida-oracao-cap19.md` e
-   `insights/eu-sou-nome-de-deus.md`.
-7. **Mathias e Nolan**: Mathias ouve a oração; na distribuição, pode relatar
-   a Nolan que o Souhma "rezou a um deus acima do Limbo" — o _click_
-   perigoso de Nolan, que já conhece a heresia do livro de Genocydo.
-8. **Desejo enterrado de Kate (cross-livro)**: O cap. 19 é o contexto de
-   reforço da semente do cap. 8 — Kate presencia o parto e a ressurreição
-   de Saboc em modo defesa (ódio ao parto), sem abrir a fresta. Germinação
-   no L2: Kate aceita ter filhos de Mário (ver `temas/sementes.md` #11).
+1. **Decian**: Lobisomem curandeiro que traiu a alcateia — personagem disponível para retorno (cap. 19, Mário ressuscita o bebê — Decian pode ser procurado)
+2. **Devour indeciso**: Três facções disputam Mário — a indecisão de Devour é a única janela
+3. **Inquiridores do Sinal**: Já têm o selo de Vonos — autoridade superior à de Nolan
+4. **Nolan vulnerável**: Morte de Dagmar abala emocionalmente o conselheiro — brecha para Kate ou Devour explorarem
+5. **Mário na cela**: Nolan viu o Estrangeiro e não viu um monstro — isso pode afetar suas decisões futuras
 
 ## Avanço STC
 
-- **Beat**: Break Into 2 (fim da transição)
-- **Avanço**: O impossível acontece; Kate cruza o limiar ativamente; o mundo
-  antigo (Devour) queima atrás deles.
-- **Próximo**: Cap. 20 (POV Mário) — A Fuga. Crise da Voz, raciocínio abdutivo
-  sobre os rampillas, recuperação do manto, plantio da Mina de Quartzo como
-  destino.
-
-## Decisões de Canon — O Incêndio (2026-08-03)
-
-- **Lakand ateou o fogo de propósito** (opção A): sozinho não vence os
-  rampillas; incendeia a toca (resina = combustível) e o castelo (tochas de
-  óleo do salão) como ato instintivo de desespero. O caos cobre a libertação
-  de Kate. Devour NÃO é morto por Lakand em combate — morte híbrida.
-- **Morte de Devour (híbrido):** Lakand o fere no salão (sangue nas mãos é
-  canônico); o fogo consome o corpo. Preserva o texto publicado ("matou um
-  rei", "mãos manchadas de sangue fresco") e o subtexto.
-- **Fogo descontrolado:** vira incêndio florestal em Saramant (outono seco) —
-  tensão na fuga de Lakand guiando Kate e Mário; o faro dele fica inutilizado
-  pela fumaça.
-- **Rampillas (opção a):** ~uma dezena sobrevive (patrulhas de perímetro +
-  toca secundária na borda de Saramant); ficam inertes com a morte de Devour.
-  Nolan os reúne via **raiz-mestra subterrânea** (sobrevive ao fogo). Castelo
-  de pedra chamuscado = base militar (ver `insights/nolan-controla-rampillas.md`).
-- **Mathias:** ficha criada (`personagens/mathias.md`) — fogo nas armas
-  (treino padrão dos Espadas da Lei) + contra-fogo/firebreak na fuga do
-  incêndio, com limite estrito (não apaga, não domina fumaça, alcance curto,
-  exaustão/queimaduras). Cena no cold-open do cap. 21 (POV Nolan).
-- **Plantas-espia (precisão 2026-08-04):** o fogo cega a rede de Devour pelo
-  canal **canônico** — o calor inunda a rede sensorial (elas sentem
-  vibração/calor, NÃO odor) + queima as espias de superfície. Os **odores** do
-  incêndio são o **custo de Lakand** (o faro do lobo inutilizado), não das
-  plantas.
-- **Motivo amoroso (canon 2026-08-04):** Lakand queimou Saramant **por amor
-  a Kate**. Confissão em cena de discussão entre os dois: "Queimei Saramant
-  por você" (semente — Kate descobre na jornada; colocação fechada no cap.
-  24, ver `temas/sementes.md` #12).
-- **Forma de Lakand (decisões 2026-08-04, 2 e 3):** desmanche no calabouço
-  (híbrida → homem quando ele diz "— Kate.") e 1ª forma plena de lobo na
-  floresta (cap. 20, carregando Mário). Ver `conceitos/daerunmeges.md` e
-  `personagens/lakand.md`.
-
-## Notas de Sincronização (2026-08-06)
-
-Revisão do INGEST contra o texto final publicado (LINT). Correções aplicadas:
-
-- **Estalagem do Vau removida**: o texto final NÃO traz Mathias citando a
-  Estalagem do Vau ("trouxe alguém de volta") nem implorando a Mário. É Mário
-  quem inicia: "O que aconteceu com o bebê?" / "Traga ele aqui." O soldado
-  obedece em silêncio, por desespero.
-- **Citações de Mário atualizadas**: "Deixem ele perto de mim" (rascunho)
-  → "Traga ele aqui." / "Traga. Por favor." (final).
-- **Nolan adicionado aos personagens**: presente, fora de cena (segurando a
-  mão de Dagmar), informado pelo soldado.
-- **Corpo de Dagmar em aberto**: a última imagem de Kate é o corpo "gelando
-  no andar de cima" enquanto o castelo queima. O texto não retira o corpo.
-  Verificar no cap. 21/22 se há enterro (a nota antiga de distribuição — "o
-  comboio volta com o corpo de Dagmar" — não é confirmada pelo texto final).
-- **Cressadar (callback)**: a âncora do brasão do Conselho confirma o canon
-  de 2026-08-01 — Kate foi treinada por Benjamim Cressadar/Gaviorn'l, não
-  serviu a Nolan.
-
-## Conexões
-
-- [Cap. 18](/capitulos/capitulo-18.md) — Nolan vê Mário na cela; Dagmar morre no parto
-- [Cap. 5](/capitulos/capitulo-05.md) — Tharin e o manto de xilomagia
-- [Kate](/personagens/kate.md)
-- [Mário](/personagens/mario.md)
-- [Lakand](/personagens/lakand.md)
-- [Devour](/personagens/devour.md)
-- [Dagmar](/personagens/dagmar.md)
+- **Cap. 18 é o último capítulo do Debate** (8-35% do L1)
+- A morte de Dagmar e a visão de Mário na cela funcionam como catalisadores para o **Break Into 2** (Cap. 19)
+- Nolan agora tem motivação pessoal (perda) + profissional (o Estrangeiro) — a jornada dele entra em novo eixo

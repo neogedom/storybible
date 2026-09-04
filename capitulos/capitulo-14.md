@@ -1,73 +1,68 @@
 ---
 type: Chapter
-title: "Capítulo 14 — O Encontro"
-description: "Kate vigia os nômades. Mário surge na clareira. Um uivo de guerra anuncia o ataque."
-pov: [Kate]
-stc-beat: "Debate / Catalisador (~45-47%)"
-timeline: "Noite — mesmo período do cap. 12-13"
-tags: [L1, kate, nomades, mario, encontro, ataque]
+title: "Capítulo 13 — A Sala Secreta"
+description: "Nolan reúne o Conselho e falha. A razão não basta. Lupe'i revela que o Souhma real está com os daërunmeges."
+pov: [Nolan]
+stc-beat: "Debate (~40-45%)"
+timeline: "Mesmo período do cap. 12"
+tags: [L1, nolan, conselho, nuh, valinor, lupei, koda]
 timestamp: 2026-07-25T12:00:00-03:00
 ---
 
 ## Resumo
 
-Kate está em vigília noturna. Desconfortável com o contato físico dos humanos,
-afasta-se do círculo de fogo. **Godi** (ferido por Estruzzo) traz comida —
-ela recusa. Tae-Tabor observa: _"A pergunta que ele faz agora não é se você
-vai protegê-lo. É se você vai ficar."_
+Nolan reúne o **Conselho secreto** numa sala sob o palácio: **Nuh d'Teraghar**
+(Sumo Sacerdote), **Valinor Addorbek** (General), **Edgard Lupe'i**
+(Hegraliano) e **Koda Deltëra** (Mestre da Moeda).
 
-Kate pensa em **Lakand** — a provocação sobre Devour: _"Crie você mesma o
-evento. Por que não começar executando o Lorde Devour?"_
+Koda mostra o livro contábil real — o Reino está **falido**. Nuh rejeita:
+a apoteose resolverá tudo. Nolan mostra a **Bíblia de Kraviam** como prova
+de heresia — ninguém reconhece a língua. A acusação é rejeitada.
 
-O vento muda. Sangue. Suor. Pânico.
+**Valinor** recusa Nolan: _"O Rei é o Rei. Você está me pedindo para
+escolher entre meu juramento e minha família."_
 
-**Mário** surge na clareira — roupas estranhas, ensanguentado, o olhar de
-quem foge de algo pior. Antes que ele possa gritar, um **uivo de guerra**
-rasga a floresta.
+Nolan descobre: **a razão não basta**. Momento de virada.
 
-Kate não hesita. Manda Tae-Tabor acordar todo mundo.
+**Lupe'i** volta e revela: corre o rumor de um **Estrangeiro (Souhma real)**
+entre os daërunmeges. Se Genocydo souber antes de Nolan...
 
-O ataque está chegando.
+Nolan decide: precisa chegar ao Souhma **primeiro**.
 
 ## Personagens
 
-| Personagem                     | Papel                                               |
-| ------------------------------ | --------------------------------------------------- |
-| [Kate](/personagens/kate.md)   | POV. Em vigília. Primeiro contato visual com Mário. |
-| [Mário](/personagens/mario.md) | Aparece na clareira — ferido, em fuga.              |
-| Godi                           | Jovem nômade, ferido por Estruzzo. Mudado.          |
-| Tae-Tabor                      | Sábio nômade. A pergunta: "você vai ficar?"         |
+| Personagem                                      | Papel                                      |
+| ----------------------------------------------- | ------------------------------------------ |
+| [Nolan](/personagens/nolan.md)                  | POV. Reúne o Conselho. Falha. Decide agir. |
+| [Nuh d'Teraghar](/personagens/nuh-dteraghar.md) | Rejeita a evidência. Fé na apoteose.       |
+| [Valinor Addorbek](/personagens/valinor.md)     | Recusa Nolan. "O Rei é o Rei."             |
+| [Edgard Lupe'i](/personagens/lupei.md)          | Traz a informação do Souhma real.          |
+| [Koda Deltëra](/personagens/koda.md)            | Mostra os livros contábeis.                |
 
 ## Eventos-chave
 
-1. ✅ Kate em vigília — desconforto com humanos
-2. ✅ Godi mudado após o ataque de Estruzzo
-3. ✅ Tae-Tabor: "você vai ficar?" — pergunta sobre pertencimento
-4. ✅ Kate pensa em Lakand — provocação sobre Devour
-5. ✅ O vento muda — presságio
-6. ✅ **Mário surge na clareira** — primeiro encontro com Kate
-7. ✅ Uivo de guerra — o ataque está chegando
-8. ✅ CLIFFHANGER
+1. ✅ Conselho secreto reunido — Nolan tenta convencer
+2. ✅ Koda revela: Reino falido (rombo irreversível)
+3. ✅ **Nuh rejeita**: apoteose resolverá tudo
+4. ✅ Nolan mostra a Bíblia — ninguém reconhece a língua
+5. ✅ **Valinor recusa**: "O Rei é o Rei"
+6. ✅ Nolan descobre: **a razão não basta** — momento de virada
+7. ✅ Lupe'i revela: Souhma real está com os daërunmeges
+8. ✅ Nolan decide: precisa chegar ao Souhma primeiro
 
 ## Sementes Plantadas
 
-- 🌱 **Primeiro encontro Kate-Mário**: Ele não sabe quem ela é. Ela sente
-  que ele é diferente — "pureza estranha, como se a sujeira fosse superficial"
-- 🌱 **"Você vai ficar?"**: A pergunta de Tae-Tabor ecoará quando Kate
-  escolher Mário no cap. 19.
-- 🌱 **Lakand e Devour**: A provocação de Lakand sobre matar Devour ainda
-  está viva na mente de Kate.
+- 🌱 **"A razão não basta"**: Nolan descobre que lógica e evidência não
+  vencem o delírio. Isso o levará a usar outros meios (a Bíblia contra
+  Mário no L2, o pacto com Terbs).
+- 🌱 **Nuh no L2**: A crise de fé de Nuh começa aqui — ele escolhe a apoteose
+  em vez da realidade. No L2, bêbado numa taverna, constatará o erro.
+- 🌱 **Nolan decide viajar**: Primeiro passo de Nolan para sair da Metrópole
+  e ir ao encontro de Mário.
 
 ## Conexões
 
-- [Capítulo 11](/capitulos/capitulo-11.md) — Kate viaja com os nômades
-- [Capítulo 12](/capitulos/capitulo-12.md) — Mário estava com os daërunmeges
-- [Capítulo 13](/capitulos/capitulo-13.md) — Nolan descobre que o Souhma está com os daërunmeges
-
-## Notas de INGEST
-
-- Mário escapou da jaula no final do cap. 12 — quebrou o bambu, usou cinzas
-  para disfarçar o cheiro. Lakand estava ausente da vigília.
-- O uivo é dos daërunmeges que o perseguem
-- Kate vê Mário pela primeira vez — ainda não sabe quem ele é
-- A cena termina em cliffhanger: o ataque está prestes a começar
+- [Capítulo 9](/capitulos/capitulo-09.md) — A Bíblia que Layla trouxe
+- [Capítulo 12](/capitulos/capitulo-12.md) — Mário está com os daërunmeges
+- [Nuh d'Teraghar](/personagens/nuh-dteraghar.md) — Erro teológico: Vonos no controle
+- [Inquiridores](/personagens/inquiridor.md) — Podem chegar ao Souhma antes

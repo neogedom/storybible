@@ -1,123 +1,107 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 21
-titulo: "A Pira Involuntária"
-pov: Nolan
+capitulo: 20
+titulo: "A Crise da Voz"
+pov: Mário
 beat_stc: Jogos e Diversão
-percentual_l1: ~40-42%
-data_ingest: 2026-08-20
+percentual_l1: ~38-40%
+data_ingest: 2026-08-17
 personagens:
-  - Nolan
-  - Mathias
-  - Mira
-  - Ossan
-  - Saboc (bebê, vivo pela ressurreição)
-  - Dagmar (†, corpo irrecuperável sob a torre)
+  - Mário
+  - Kate
+  - Lakand
+  - Tharin (†, só o corpo — desenterrado)
+  - Ossan (não nomeado — o vulto que comanda a ronda)
 lugares:
-  - Castelo de Devour (incêndio; vira base de Nolan)
-  - Clareira do anel externo (marco de pedras)
+  - Perímetro do Castelo de Devour
+  - Floresta de Saramant (incêndio florestal)
+  - Cabana de Kate (mocambo queimado)
 conceitos:
-  - Rampillas (raiz-mestra; controle por Nolan)
-  - Misatribuição (morte de Dagmar atribuída a humanos)
-  - Glossolalia invertida (click via Mathias — "um deus acima do Limbo")
-  - Bíblia de Kraviam (click por categoria)
+  - Voz (mecanismo do ditado)
+  - Rampillas (sobreviventes; ronda sob comando provisório de Ossan)
+  - Manto de Xilomagia de Tharin
+  - Glossolalia invertida
 sementes:
-  - Anel de Dagmar no marco (única herança para Saboc — germinação L2)
-  - Raiz-mestra / rampillas sob Nolan (germinação L2 — Inquisição)
-  - "Foram gente" (semente #13 — Ossan revela)
-  - Nolan parte para possuir Mário, não matá-lo (motor da caçada)
-  - Misatribuição (semente #6 — o ódio cristaliza na crença falsa)
+  - Raiva de Mário contra Deus (identificação irada) → germina no cap. 26
+  - Manto de Tharin recuperado (chekhov's gun disparada)
+  - Mina de Quartzo plantada como destino (cap. 22)
+  - "Com quem você estava falando?" — gancho da glossolalia (Kate)
+  - "Como continuar falando com ele" — pergunta suprimida (cap. 26)
 ---
 
-# Capítulo 21 — A Pira Involuntária
+# Capítulo 20 — A Crise da Voz
 
 ## Resumo
 
-POV Nolan. Cold-open da fuga das chamas: o fogo sobe a torre enquanto Nolan
-segura a mão morta de Dagmar. Mathias irrompe com o bebê vivo (Saboc) — o
-choque do vivo interrompe o choque da morta; Nolan arranca a aliança de
-prata do dedo morto e foge com o filho. Contra-fogo de Mathias abre caminho
-(o fogo responde, não obedece). No pátio, os rampillas congelam inertes no
-instante em que Devour morre (observação do vínculo).
-
-Amanhecer: a torre colapsa; o corpo de Dagmar é irrecuperável (a pira
-involuntária de Lakand). Nolan monta um marco de pedras na borda da clareira,
-deposita a aliança e cumpre o rito fúnebre de Vonos (fórmula seca, trâmite —
-o rito não consola). A misatribuição: a morte de Dagmar é explicada pela
-ideologia (contato com humanos — eco do pai); Nolan segura as duas molduras
-("os humanos adoeceram minha esposa" / "o Estrangeiro trouxe meu filho de
-volta") sem perceber a contradição. Mira (parteira do parto) vira ama de
-leite de Saboc. A lembrança do pai (a porta fechada) ancora a Segregação
-como resposta à impotência. "Mário é a resposta": a cura que a Segregação
-nunca foi — mas só sob controle do Estado, com Nolan no controle.
-
-Dia: o recuo ao castelo de pedra (abrigo/provisões). A vistoria expõe o
-jardim queimado e a raiz-mestra subterrânea. Ossan d'Tirath (xamã, filho de
-Devour) revela o que é e se vende como insubstituível (ninguém mais sabe
-lê-la) — Nolan aceita a transação. "Foram gente" (o que a semente fez).
-
-Noite: o click. Nolan adiou a pergunta (não sabe ler o impossível), mas a
-noite cobra o dia; reinterroga Mathias (tom plano, repetido sem variação —
-a confiabilidade é o peso do relato). "Um deus acima do Limbo" clica com a
-Bíblia de Kraviam por categoria (heresia da mesma classe, eco das ilações de
-Genocydo). Nolan não resolve a teologia — arquiva a classe e retém o fato
-operativo (o bebê vivo; o Souhma fez aquilo).
-
-Manhã seguinte: Nolan toca a raiz-mestra (Ossan mostra), os rampillas
-despertam (~uma dezena). Parte para o norte seguindo o rastro — não para
-matar Mário, para possuí-lo (ferramenta de política pública → trono). O
-marco guarda o anel, a única herança da mãe para Saboc.
+Fuga do castelo de Devour em chamas; o incêndio vira incêndio florestal em
+Saramant. Mário, febril, usa pela 1ª vez o raciocínio abdutivo (a arma do
+jurista): lê o padrão da ronda dos rampillas sobreviventes (o ritmo segue a
+respiração do que comanda — Ossan, não nomeado no POV) e define a janela de
+fuga; Kate resiste ("não conhece esse mundo"), Lakand confirma. Na cabana,
+Mário VÊ Kate desenterrar a cova do mocambo queimado e tirar o manto de
+xilomagia dos ombros do corpo de Tharin (pragmatismo sem culpa). No silêncio,
+Kate lança o gancho da glossolalia: "com quem você estava falando?" — Mário
+LEMBRA que repetiu, palavra por palavra, a oração ditada na mente pela Voz (a
+voz era dele; as palavras, não). À noite, o delírio da febre: o rapaz da
+calçada (cap. 1) ecoa o irmão Lucas (drogas); Mário acusa a Voz pela inação na
+morte de Lucas, identifica a Voz como Deus (prova: orou + ressuscitou) e
+responde com raiva (eco de Jó). Não ora. "E adormeceu." O trecho do
+amanhecer/Mina foi movido para o cap. 22 (ver `Livro 1/rascunho-capitulo22.md`).
 
 ## Personagens
 
-### Nolan
+### Mário
 
-- POV. Do choque visceral (a mão morta) ao cálculo retomado (a noite)
-- Misatribuição pura (a pista da vembra só chega no cap. 23)
-- Rito fúnebre de Vonos: trâmite, não luto
-- Decide possuir Mário (não matar) — "a cura que a Segregação nunca foi"
+- POV. Febril, ferida no ombro infectada (ch19)
+- 1º uso público do raciocínio abdutivo (lê a ronda; "não era intervalo, era ritmo")
+- Identifica a Voz como Deus e responde com raiva (inação na morte de Lucas);
+  não ora (Efeito Sanfona em forma de recusa irada)
+- Estado final: adormece na cabana (noite)
 
-### Mathias
+### Kate
 
-- Salva Nolan e Saboc (contra-fogo + escudo de calor; mãos chamuscadas)
-- Testemunha confiável do milagre; relato plano, reinterrogado sem variação
+- Conduz a fuga; pragmatismo puro ao tirar o manto do corpo de Tharin (sem
+  culpa, sem luto — "como quem recolhe um instrumento")
+- Lança o gancho da glossolalia: "com quem você estava falando?"
+- Ombro direito ferido (ch19); manto de xilomagia nos ombros
 
-### Mira
+### Lakand
 
-- Sobrevive ao incêndio; vira ama de leite de Saboc
-- Testemunha silenciosa (viu nascer morto, vê vivo)
-
-### Ossan
-
-- Xamã da corte de Devour, filho do lorde; herdeiro despojado
-- Revela a raiz-mestra e se vende como insubstituível (sobrevivência)
-- "Foram gente" (semente #13) — reconhecimento frio
+- Guia a fuga; confirma o padrão da ronda (instinto de caçador)
+- "Tom de luto" — Saramant queimando
+- Tensão silenciosa com Kate (dívida do ch19, "eu perdi")
 
 ## Eventos
 
-1. Cold-open: fogo sobe a torre; Mathias traz Saboc vivo; o choque do vivo
-2. Fuga com contra-fogo; anel arrancado do dedo morto; rampillas congelam
-3. Amanhecer: torre colapsa; marco de pedras + rito fúnebre de Vonos
-4. Misatribuição (humanos adoeceram a esposa); Mira = ama de leite
-5. O pai (a porta) → Segregação; "Mário é a resposta"
-6. Recuo ao castelo; vistoria; raiz-mestra exposta pelo fogo; Ossan
-7. Click: reinterrogatório de Mathias; "um deus acima do Limbo" (categoria)
-8. Partida para o norte: rampillas despertados; possuir Mário; o anel no marco
+1. Fuga do castelo em chamas; incêndio vira incêndio florestal
+2. Mário lê a ronda dos rampillas sobreviventes (vulto que comanda = Ossan,
+   não nomeado); Kate resiste; Lakand confirma; escapam na janela de 3 contagens
+3. Cabana de Kate: Mário vê Kate desenterrar a cova e tirar o manto do corpo
+   de Tharin
+4. Kate limpa a ferida de Mário
+5. Kate pergunta "com quem você estava falando?" — Mário lembra do ditado;
+   "a voz que saiu dele era dele, mas as palavras não"
+6. Delírio noturno: rapaz da calçada (cap. 1) → eco do irmão Lucas;
+   acusação à Voz (inação na morte de Lucas); identificação irada (Deus?);
+   eco de Jó
+7. Mário não ora; "E adormeceu."
 
 ## Sementes
 
-- Anel de Dagmar no marco → única herança para Saboc (L2)
-- Raiz-mestra/rampillas sob Nolan → Inquisição (L2)
-- "Foram gente" (Ossan) → semente #13
-- Misatribuição → semente #6 (ódio cristaliza na crença falsa)
-- Nolan caçador de Mário (motor do Velocino de Ouro)
+- Raiva de Mário contra Deus (identificação irada) → cap. 26 (enquadrada)
+- Manto de xilomagia de Tharin recuperado (chekhov's gun disparada; camuflagem)
+- Mina de Quartzo plantada como destino (→ cap. 22)
+- "Com quem você estava falando?" — curiosidade de Kate (glossolalia invertida)
+- "O que não sabia era como continuar falando com ele" — pergunta suprimida (cap. 26)
 
 ## Conexões
 
-- [Cap. 20](/capitulos/capitulo-20.md) — fuga do castelo em chamas (mesmo evento, outro POV)
-- [Cap. 18](/capitulos/capitulo-18.md) — a mão de Dagmar, o parto
-- [Cap. 19](/capitulos/capitulo-19.md) — o milagre (testemunhas: Mathias, Mira)
-- [Cap. 23](/temas/esquema-l1.md) — a revelação da vembra (Mira) + delegação a Layla
-- [Ossan](/personagens/ossan.md), [Mira](/personagens/mira.md), [Mathias](/personagens/mathias.md)
-- [Rampillas](/conceitos/rampillas.md), [Bíblia de Kraviam](/temas/sementes.md)
+- [Cap. 19](/capitulos/capitulo-19.md) — fuga, manto, gancho da glossolalia
+- [Cap. 12](/capitulos/capitulo-12.md) — fluência habilitada (ditado na mente)
+- [Cap. 1](/capitulos/capitulo-01.md) — rapaz da calçada (cobrança de dívida)
+- [Cap. 26](/temas/esquema-l1.md) — enquadrada pela raiva (futuro)
+- [Ossan](/personagens/ossan.md) — vulto que comanda a ronda (não nomeado no POV)
+- [Rampillas](/conceitos/rampillas.md) — sobreviventes sob comando provisório de Ossan
+- [Manto de Xilomagia](/decisoes/manto-xilomagia-tharin.md)
+- [Glossolalia](/decisoes/glossolalia-invertida-oracao-cap19.md)

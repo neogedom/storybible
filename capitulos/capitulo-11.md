@@ -1,70 +1,64 @@
 ---
 type: Chapter
-title: "Capítulo 11 — Os Nômades"
-description: "Kate viaja com nômades como disfarce para chegar a Devour. Estruzzo ataca o acampamento."
-pov: [Kate]
-stc-beat: "Debate (~33-36%)"
-timeline: "Dias após cap. 8"
-tags: [L1, kate, nomades, estruzzo, devour, theodore]
+title: "Capítulo 10 — A Carga"
+description: "Charles e Decian limpam a torre. Decian cura Mário. Mário descobre que é uma mercadoria — Charles quer a recompensa."
+pov: [Mário]
+stc-beat: "Debate (~30-33%)"
+timeline: "Amanhecer — imediatamente após cap. 7"
+tags: [L1, mario, opium, charles, decian, mesmia]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
 
 ## Resumo
 
-Kate viaja com **nômades** como disfarce para chegar à fortaleza de Devour.
-Ela patrulha as margens do comboio; eles a escondem na carga. **Lakand** saiu
-para despistar os espiões vegetais de Devour.
+Mário observa **Charles** e **Decian** limpando a torre. Charles joga os
+corpos dos vampiros pela janela com desprezo. Decian questiona se não
+"passaram da conta" com os humanos — Charles rejeita o remorso.
 
-Kate odeia a fragilidade humana. **Theodore** (amor perdido) vem à mente —
-ele também era frágil, ela não conseguiu protegê-lo.
+Decian cura o ombro de Mário com pasta de ervas. Charles encontra sapatos
+de um morto e manda Mário calçá-los. Depois o amarra com corda de sisal.
 
-**Tae-Tabor**, mestre nômade, a convida para comer. Kate xinga **Mesmia**
-na frente dos anciãos — tensão. Tae-Tabor a defende: _"Quando a gente torna
-o medo uma divindade, a gente fabrica sacrifícios."_
+Charles chama Mário de **"Estrangeiro"** — sabe quem ele é. Mário entende
+que é uma **mercadoria**: Charles quer entregá-lo pela recompensa.
 
-Tae-Tabor revela: **Lakand** salvou o povo deles dos vampiros há muito tempo.
-Por isso aceitaram o acordo.
-
-À noite, **Estruzzo** (gornad) aparece e ataca **Godi**, um jovem nômade.
-Kate enfrenta Estruzzo — crava a adaga no olho dele. Estruzzo a provoca:
-_"Gaviorn'l arrancaria o couro das tuas costas."_
+Ao amanhecer, o sol queima os corpos dos vampiros — a pele frita e chiando.
 
 ## Personagens
 
-| Personagem                   | Papel                                         |
-| ---------------------------- | --------------------------------------------- |
-| [Kate](/personagens/kate.md) | POV. Viaja disfarçada. Enfrenta Estruzzo.     |
-| Tae-Tabor                    | Mestre nômade. Sábio. Devedor de Lakand.      |
-| Estruzzo                     | Gornad. Ataca o acampamento, provocando Kate. |
-| Godi                         | Jovem nômade. Ferido por Estruzzo.            |
-| Theodore (mencionado)        | Amor perdido de Kate. Morto.                  |
+| Personagem                         | Papel                                                                |
+| ---------------------------------- | -------------------------------------------------------------------- |
+| [Mário](/personagens/mario.md)     | POV. Ferido, amarrado, levado como carga.                            |
+| [Charles](/personagens/charles.md) | Daërunmege brutal. Quer a recompensa. Age "para a glória de Mesmia". |
+| [Decian](/personagens/decian.md)   | Daërunmege curandeiro. Hesita, questiona a moralidade.               |
 
 ## Eventos-chave
 
-1. ✅ Kate viaja com nômades — disfarce para chegar a Devour
-2. ✅ **Theodore** mencionado — amor perdido, ferida emocional
-3. ✅ Tae-Tabor revela: Lakand salvou os nômades
-4. ✅ Kate xinga Mesmia — nômades temem a deusa
-5. ✅ Kate passa mal (álcool de raiz)
-6. ✅ **Estruzzo** ataca Godi
-7. ✅ Kate enfrenta Estruzzo — crava adaga no olho
-8. ✅ Estruzzo provoca: Gaviorn'l teria nojo dela
+1. ✅ Charles e Decian limpam a torre — corpos jogados pela janela
+2. ✅ Decian questiona: "não estamos agindo direito com a Mãe Mesmia"
+3. ✅ Charles rejeita: "limpei o lugar para a glória de Mesmia"
+4. ✅ **Decian cura Mário** com pasta de ervas
+5. ✅ Mário calça sapatos de um morto
+6. ✅ Charles o amarra e o chama de "Estrangeiro"
+7. ✅ Mário descobre que é mercadoria (recompensa)
+8. ✅ Vampiros queimam ao sol — pele frita
 
 ## Sementes Plantadas
 
-- 🌱 **Theodore**: Primeira menção. Humano que Kate amou e não conseguiu proteger.
-  Explica a frieza dela com humanos.
-- 🌱 **Estruzzo**: Gornad poderoso. Agora inimigo de Kate.
-- 🌱 **Tae-Tabor**: Aliado dos nômades. Sábio. Pode reaparecer.
+- 🌱 **Decian hesita**: Ele não aprova a violência contra humanos.
+  Semente para o L2 (percebe a corrupção de Mário antes de todos).
+- 🌱 **Charles age por Mesmia**: Justifica a violência como "glória da Mãe".
+- 🌱 **"Comunidade" de vampiros**: Mencionada — não estão acabados.
+  Detalhe de canon (2026-08-12): os mortos da torre são **neófitos**
+  ("Eu não reconheço esses três das lutas de Gondor... Devem ser neófitos,
+  recém-amaldiçoados ou simpatizantes que fizeram pacto para serem
+  aceitos"). Ou seja, os vampiros da torre **não** eram os verdadeiros
+  Lordes Defuntos (veteranos da era de ouro de Gondor) — a Comunidade
+  sobrevive em outro lugar. Base para a facção vampírica do L2.
+- 🌱 **Sapatos de morto**: Mário veste a identidade de um homem morto.
 
 ## Conexões
 
-- [Lakand](/personagens/lakand.md) — Salvou os nômades; agora aliado de Kate
-- [Gaviorn'l](/personagens/gaviornl.md) — Estruzzo o menciona
-- [Devour](*lugares/devour.md) — Destino da viagem
-- [Capítulo 8](/capitulos/capitulo-08.md) — Kate planejou a viagem com Lakand
-
-## Notas de INGEST
-
-- **Theodore** é o antigo amor de Kate (confirmado em SECUNDARIOS.md)
-- Estruzzo é o mesmo que criou o feitiço Dravionnah (origem do nome do vulcão Boca de Estruzzo)
+- [Charles](/personagens/charles.md) — Caçador de Mário, pragmático
+- [Decian](/personagens/decian.md) — Curandeiro, consciência hesitante
+- [Capítulo 7](/capitulos/capitulo-07.md) — Charles se revelou; agora age
+- [Capítulo 8](/capitulos/capitulo-08.md) — Lakand revelou que Charles foi para Opium

@@ -26,11 +26,12 @@ Hícse, ataca os rampillas de Devour.
 
 Mário na Terra. Sonho com Ornick (Gabbriel matando Vicent). Transição para a
 Terra; culto, discussão com Camilla, tentativa de intervenção, morte do drogado,
-recusa em curar. Mário é levado a Ornick.
+recusa em curar. **Novo cap. 2:** aula de Direito (raciocínio abdutivo), Inquiridor
+observa, porta de Lucas, caderno "Regras do Absurdo", sequestro.
 
 ## Catalisador (~7-12%)
 
-**Capítulos 2-4**
+**Capítulos 3-4**
 
 Mário levado a Ornick. O mundo real do sonho se confirma. Não há como negar.
 

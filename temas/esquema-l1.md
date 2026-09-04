@@ -9,9 +9,9 @@ timestamp: 2026-08-26T12:00:00-03:00
 # Esquema do Livro 1
 
 > **Fonte de verdade para beats STC:** `temas/arco-stc.md`
-> **Capítulos já escritos (0-23):** `capitulos/capitulo-00.md` a `capitulos/capitulo-23.md`
+> **Capítulos já escritos (0-25):** `capitulos/capitulo-00.md` a `capitulos/capitulo-25.md`
 >
-> **⚠️ Recalibragem 2026-08-26:** O L1 está escrevendo mais palavras por capítulo que o planejado original. A média real é ~2.592 palavras/capítulo. Para ~42 capítulos totais, a estimativa sobe para ~115.000 palavras. As porcentagens abaixo foram recalibradas para refletir a posição real no word count. O desvio não é erro — é informação para o pacing. Se o ritmo se mantiver, o Ponto Central (~68% STC) chegará por volta do cap. 33-34 com ~80.000 palavras acumuladas.
+> **⚠️ Recalibragem 2026-09-03:** Novo capítulo 2 inserido (Terra — "O Inquérito"). Toda a numeração de capítulos foi deslocada em +1 a partir do antigo cap. 2. A média de palavras por capítulo e a projeção total (~115.000 palavras) permanecem estáveis. As % reais abaixo foram recalibradas para refletir a nova contagem.
 
 ---
 
@@ -21,35 +21,36 @@ timestamp: 2026-08-26T12:00:00-03:00
 | -------- | ----------------------------------- | ------------ | ---------------------- | -------------------- | -------- |
 | 0        | Imagem de Abertura                  | Nolan + Kate | ~0-2%                  | ~2,6%                | 3.033    |
 | 1        | Configuração                        | Mário        | ~2-5%                  | ~5,0%                | 2.727    |
-| 2        | Configuração / Catalisador          | Mário        | ~5-10%                 | ~7,0%                | 2.333    |
-| 3        | Debate                              | Nolan        | ~10-12%                | ~9,4%                | 2.719    |
-| 4        | Debate                              | Mário        | ~12-14%                | ~11,5%               | 2.467    |
-| 5        | Debate                              | Kate         | ~14-16%                | ~13,5%               | 2.270    |
-| 6        | Debate                              | Nolan        | ~16-18%                | ~17,4%               | 4.488    |
-| 7        | Debate                              | Mário        | ~18-20%                | ~19,5%               | 2.416    |
-| 8        | Debate                              | Kate         | ~20-22%                | ~22,0%               | 2.844    |
-| 9        | Debate                              | Nolan        | ~22-24%                | ~24,6%               | 3.004    |
-| 10       | Debate                              | Mário        | ~24-26%                | ~25,9%               | 1.453    |
-| 11       | Debate                              | Kate         | ~14-16%                | ~28,9%               | 3.524    |
-| 12       | Debate                              | Mário        | ~26-28%                | ~31,9%               | 3.473    |
-| 13       | Debate                              | Nolan        | ~28-30%                | ~33,6%               | 1.967    |
-| 14       | Debate                              | Kate         | ~30-31%                | ~35,2%               | 1.776    |
-| 15       | Debate                              | Mário        | ~31-32%                | ~37,3%               | 2.510    |
-| 16       | Debate                              | Nolan        | ~32-33%                | ~39,2%               | 2.123    |
-| 17       | Debate                              | Kate         | ~33-35%                | ~41,6%               | 2.833    |
-| 18       | Break Into 2                        | Nolan        | ~35-38%                | ~43,7%               | 2.391    |
-| 19       | Break Into 2                        | Kate         | ~38-40%                | ~45,3%               | 1.829    |
-| 20       | Jogos e Diversão                    | Mário        | ~38-40%                | ~47,3%               | 2.301    |
-| 21       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~49,5%               | 2.531    |
-| 22       | Jogos e Diversão                    | Kate         | ~42-44%                | ~52,1%               | 2.963    |
-| 23       | Jogos e Diversão                    | Nolan        | ~44-46%                | ~56,3%               | 2.204    |
-| 24       | Jogos e Diversão                    | Mário        | ~46-48%                | ~58,6%               | 2.859    |
-| 25       | Jogos e Diversão                    | Kate         | ~48-50%                | —                     | —        |
-| 26       | Jogos e Diversão                    | Mário        | ~50-52%                | —                     | —        |
-| 27       | Jogos e Diversão                    | Kate         | ~52-54%                | —                     | —        |
-| 28       | Jogos e Diversão                    | Nolan        | ~54-56%                | —                     | —        |
-| 29       | Jogos e Diversão                    | Mário        | ~56-58%                | —                     | —        |
-| 30       | Jogos e Diversão                    | Kate         | ~58-60%                | —                     | —        |
+| 2        | Configuração (novo)                 | Mário        | ~5-7%                  | ~7,0%                | ~2.500   |
+| 3        | Configuração / Catalisador          | Mário        | ~7-10%                 | ~9,5%                | 2.333    |
+| 4        | Debate                              | Nolan        | ~10-12%                | ~11,5%               | 2.719    |
+| 5        | Debate                              | Mário        | ~12-14%                | ~13,5%               | 2.467    |
+| 6        | Debate                              | Kate         | ~14-16%                | ~15,5%               | 2.270    |
+| 7        | Debate                              | Nolan        | ~16-18%                | ~19,0%               | 4.488    |
+| 8        | Debate                              | Mário        | ~18-20%                | ~21,0%               | 2.416    |
+| 9        | Debate                              | Kate         | ~20-22%                | ~23,5%               | 2.844    |
+| 10       | Debate                              | Nolan        | ~22-24%                | ~26,0%               | 3.004    |
+| 11       | Debate                              | Mário        | ~24-26%                | ~27,5%               | 1.453    |
+| 12       | Debate                              | Kate         | ~14-16%                | ~30,5%               | 3.524    |
+| 13       | Debate                              | Mário        | ~26-28%                | ~33,5%               | 3.473    |
+| 14       | Debate                              | Nolan        | ~28-30%                | ~35,0%               | 1.967    |
+| 15       | Debate                              | Kate         | ~30-31%                | ~36,5%               | 1.776    |
+| 16       | Debate                              | Mário        | ~31-32%                | ~38,5%               | 2.510    |
+| 17       | Debate                              | Nolan        | ~32-33%                | ~40,5%               | 2.123    |
+| 18       | Debate                              | Kate         | ~33-35%                | ~43,0%               | 2.833    |
+| 19       | Break Into 2                        | Nolan        | ~35-38%                | ~45,0%               | 2.391    |
+| 20       | Break Into 2                        | Kate         | ~38-40%                | ~46,5%               | 1.829    |
+| 21       | Jogos e Diversão                    | Mário        | ~38-40%                | ~48,5%               | 2.301    |
+| 22       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~50,5%               | 2.531    |
+| 23       | Jogos e Diversão                    | Kate         | ~42-44%                | ~53,0%               | 2.963    |
+| 24       | Jogos e Diversão                    | Nolan        | ~44-46%                | ~57,0%               | 2.204    |
+| 25       | Jogos e Diversão                    | Mário        | ~46-48%                | ~59,5%               | 2.859    |
+| 26       | Jogos e Diversão                    | Kate         | ~48-50%                | —                     | —        |
+| 27       | Jogos e Diversão                    | Mário        | ~50-52%                | —                     | —        |
+| 28       | Jogos e Diversão                    | Kate         | ~52-54%                | —                     | —        |
+| 29       | Jogos e Diversão                    | Nolan        | ~54-56%                | —                     | —        |
+| 30       | Jogos e Diversão                    | Mário        | ~56-58%                | —                     | —        |
+| 31       | Jogos e Diversão                    | Kate         | ~58-60%                | —                     | —        |
 
 ---
 

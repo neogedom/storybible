@@ -1,98 +1,86 @@
 ---
 type: Chapter
-title: "Capítulo 2 — A Travessia"
-description: "Mário é sequestrado na Terra, obedece à Voz pela primeira vez, e é transportado a Ornick — onde o Inquiridor o espera com três tiros."
+title: "Capítulo 2 — O Inquérito"
+description: "Mário tenta retomar a rotina após a morte do rapaz. Aula de Direito revela seu raciocínio abdutivo. O Inquiridor o observa na faculdade. A Voz progride. O sequestro."
 pov: [Mário]
-stc-beat: "Configuração / Catalisador (~4-7%)"
-timeline: "Dias após cap. 1 — noite"
-tags: [L1, mario, terra, ornick, inquiridor, sequestro]
-timestamp: 2026-07-24T12:00:00-03:00
+stc-beat: "Configuração (~5-7%)"
+timeline: "Dias após cap. 1 — dia e noite"
+tags: [L1, mario, terra, faculdade, inquiridor, lucas, familia]
+timestamp: 2026-09-03T12:00:00-03:00
 ---
 
 ## Resumo
 
-### Terra — O Sequestro
+### Faculdade — O Raciocínio Abdutivo
 
-Mário está em casa, atormentado pela culpa do cap. 1. Tenta se anestesiar
-estudando Gandhi e o Código Penal (art. 135 — omissão de socorro). Sabe
-que seu maior crime não foi legal, mas espiritual: recusou o milagre.
+Mário está na aula do professor Zaganelli, distraído pela culpa do cap. 1. Um caso de contrato de adesão é proposto — uma financeira que lesou um idoso. Os colegas oferecem respostas previsíveis (juros abusivos, má-fé). Mário, em silêncio, encontra a falha onde ninguém mais viu: a **omissão** do contrato — o direito de arrependimento não foi destacado em caixa alta, como exige o art. 53 do CDC. A defesa sabia que o idoso não leria as entrelinhas. Zaganelli reconhece o raciocínio: "Você enxerga o buraco antes de ver a ponte."
 
-O traficante do cap. 1 aparece em sua casa com um revólver. Mário é
-sequestrado, vendado e jogado em uma van. Uma segunda voz menciona que
-um **"engravatado esquisito pagou adiantado"** pelo sequestro — alguém
-encomendou Mário.
+### O Inquiridor
 
-### Terra — O Cativeiro
+Na saída, Mário vê um homem de uniforme escuro e cicatriz no lábio observando-o do vão entre duas colunas. O talismã de quartzo. Mário sente o perigo antes de entender. O homem se vai. Mário atribui a estresse.
 
-Levado a um cativeiro rural (adobe, cimento, fedor), Mário tenta
-argumentar, socar a porta, exigir direitos — nada funciona. A **Voz**
-ordena que ele **suje as mãos na poça de lama e gire a maçaneta**.
+### Casa — O Fantasma de Lucas
 
-Mário resiste, debate, chama a Voz de "esquizofrenia". Mas a Voz
-contra-ataca: _"Que alternativa orgânica você planejou para não virar pó?"_
+Mário chega em casa. A relação com os pais é seca, monossilábica. No patamar do segundo andar, ele para diante da porta fechada do quarto de Lucas — empoeirada, intocada há anos. Ninguém fala sobre ela.
 
-Sem resposta, Mário cede. Enlameia as mãos, toca a maçaneta. As correntes
-de aço caem sozinhas. A porta se abre.
+Camilla o confronta: "Por que você nunca pergunta por que eles a mantêm fechada?" Mário não responde. Ela sai, deixando a porta entreaberta.
 
-### Ornick — A Chegada
+### Noite — A Voz Progride
 
-Mário segue pelo corredor, empurra outra porta — e está em **Ornick**.
-Uma varanda colossal de pedra polida, geometria impossível, céu alienígena.
+Mário tenta dormir. A Voz vem como sussurro acordado. Ele tenta racionalizar: estresse, luto, esquizofrenia. A Voz contra-ataca: "Se eu não existo, por que você responde?" Mário passa a noite em claro, alternando entre a Bíblia e um compêndio de psiquiatria. O medo não é de estar louco — é de **não** estar.
 
-O **Inquiridor do Sinal** o espera. Talismã de quartzo, revólver geométrico,
-cicatriz no lábio. Sua voz é dura e pontiaguda.
+### O Caderno — "Regras do Absurdo"
 
-_"O sinal cessou. E você quebrou os cadeados de Vonos encharcado na
-sujeira do seu próprio animal interior."_
+De manhã, Mário escreve num caderno: *"Regras do Absurdo"*. Lista o que sabe sobre a Voz: fala quando quer, sabe coisas que ele não sabe, pede ações irracionais. A pergunta final: "Se eu obedecesse, o que aconteceria?" O ato de transformar o pânico em problema o acalma. A lógica ainda é uma ferramenta.
 
-Mário implora, oferece dinheiro. O Inquiridor atira — três tiros:
-clavícula, esterno, caixa torácica. Mário desaba no mármore gélido.
-A última imagem é o amuleto de quartzo pulsando no escuro.
+### O Inquiridor Espera
+
+Do outro lado da rua, o Inquiridor observa a janela de Mário. O talismã de quartzo pulsa sob o casaco. Ele espera.
+
+### O Sequestro
+
+À noite, as batidas no portão. Mário desce. Destrava o trinco. O revólver do traficante aponta para seu nariz: "Deu trabalho te encontrar, comédia."
 
 ## Personagens
 
-| Personagem                                        | Papel no capítulo                                                          |
-| ------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Mário](/personagens/mario.md)                    | POV. Sequestrado, obedece à Voz pela 1ª vez, chega a Ornich, é baleado.    |
-| Traficante (cap. 1)                               | O mesmo agressor. Sequestra Mário.                                         |
-| Motorista (voz)                                   | Menciona "engravatado esquisito" que pagou pelo sequestro.                 |
-| [Inquiridor do Sinal](/personagens/inquiridor.md) | Executor burocrático. Atira em Mário e o deixa à beira da morte em Ornick. |
-| A Voz                                             | Ordena que Mário suje as mãos na lama. Mário obedece — primeira rendição.  |
+| Personagem | Papel no capítulo |
+|---|---|
+| [Mário](/personagens/mario.md) | POV. Raciocínio abdutivo, confronto com Camilla, caderno, sequestro. |
+| Camilla | Irmã. Confronta Mário sobre a porta de Lucas. |
+| Professor Zaganelli | Professor de Direito. Reconhece o talento de Mário. |
+| [Inquiridor do Sinal](/personagens/inquiridor.md) | Observa Mário na faculdade e espera do outro lado da rua. |
+| Pais de Mário | Figurantes — relação seca, silêncio. |
+| Lucas (fantasma) | Porta fechada. Ausência sentida. Nunca nomeado no texto. |
+| Traficante (cap. 1) | Sequestra Mário. |
 
 ## Eventos-chave
 
-1. ✅ Mário é sequestrado pelo traficante do cap. 1 (rastreado pelo celular perdido)
-2. ✅ Alguém ("engravatado esquisito") encomendou o sequestro — **mistério**
-3. ✅ Mário obedece à Voz pela **primeira vez** — suja as mãos na lama
-4. ✅ O **milagre da porta**: correntes de aço caem com o toque da mão enlameada
-5. ✅ Mário é transportado a Ornick — a transição é instantânea e inexplicável
-6. ✅ **Inquiridor do Sinal** atira em Mário (3 tiros)
-7. ✅ "O sinal cessou" e "cadeados de Vonos" — confirma que Mário rompeu algo no sistema
+1. ✅ Mário resolve caso jurídico com raciocínio abdutivo (omissão do contrato)
+2. ✅ **Inquiridor observa Mário na faculdade** — primeira aparição na Terra
+3. ✅ Mário para diante da porta fechada de Lucas — ausência sentida
+4. ✅ Camilla confronta Mário sobre o silêncio da família
+5. ✅ **Voz progride**: sussurro acordado, não só sonho
+6. ✅ Mário cria o caderno "Regras do Absurdo" — micro-objetivo verbalizado
+7. ✅ Inquiridor espera do outro lado da rua
+8. ✅ Mário é sequestrado pelo traficante — gancho para cap. 3
 
 ## Sementes Plantadas
 
-- 🌱 **"Engravatado esquisito"**: Quem pagou pelo sequestro? Alguém em Ornick
-  sabia que Mário chegaria? Ou é alguém na Terra com conexões sobrenaturais?
-- 🌱 **Cadeados de Vonos**: Mário quebrou algo no sistema de Vonos ao usar a
-  fé/sujeira. O que exatamente?
-- 🌱 **Primeira obediência**: Mário obedeceu à Voz — e foi baleado. A obediência
-  não trouxe segurança, trouxe sofrimento. Lição: fé não é passe de mágica.
-- 🌱 **O milagre da lama**: A sujeira (humildade, rendição) destrancou o que
-  a razão não conseguiu.
+- 🌱 **Raciocínio abdutivo estabelecido**: O leitor vê a arma de Mário em ação antes de Ornick.
+- 🌱 **Inquiridor na Terra**: Ele sabe onde Mário está. A caçada começou antes do sequestro.
+- 🌱 **Porta de Lucas**: A ausência do irmão é sentida, mas não nomeada. Semente para o cap. 20.
+- 🌱 **"Regras do Absurdo"**: Mário verbaliza o micro-objetivo de entender as regras do absurdo antes de sucumbir.
+- 🌱 **Voz acordada**: A Voz não está mais confinada aos sonhos. Progressão da intrusão.
 
 ## Conexões
 
-- [Inquiridores do Sinal](/personagens/inquiridor.md) — O executor que atira
-  em Mário é um deles
-- [Capítulo 0](/capitulos/capitulo-00.md) — Inquiridores mobilizados no Prólogo
-- [Capítulo 1](/capitulos/capitulo-01.md) — Mário recusou o milagre; agora obedece
-- [Sinal de Vonos](/conceitos/sinal-de-vonos.md) — "O sinal cessou" dito pelo Inquiridor
+- [Capítulo 1](/capitulos/capitulo-01.md) — Mário recusou o milagre; agora a culpa o consome
+- [Capítulo 3](/capitulos/capitulo-03.md) — O sequestro continua; Mário obedece à Voz pela primeira vez
+- [Inquiridores do Sinal](/personagens/inquiridor.md) — O observador na faculdade
+- [Mário](/personagens/mario.md) — Raciocínio abdutivo, frieza familiar, micro-objetivo
 
 ## Notas de INGEST
 
-- A Voz prova estar **certa**: a razão levou Mário ao cativeiro, a obediência
-  abriu a porta. Primeiro choque de paradigma para Mário.
-- O Inquiridor chama Mário de "excesso" — "Só existe espaço para a Ordem absoluta."
-  Isso alinha com a teologia de Vonos (controle, ordem).
-- Mário leva **3 tiros** e sobrevive (ou está morrendo). Isso é um milagre
-  ou a Voz o manterá vivo?
+- O Inquiridor aparece na Terra **antes** do sequestro. Ele está monitorando Mário. Quem o enviou? Genocydo? Vonos? Isso conecta com o cap. 0 (Inquiridores mobilizados) e o cap. 3 (o Inquiridor atira em Mário em Ornick).
+- A porta de Lucas é a primeira fissura no stasis de Mário. O leitor sente a ausência sem saber o nome.
+- O caderno "Regras do Absurdo" é a primeira vez que Mário transforma o pânico em método. Isso prepara os testes dos caps. 5, 8, 11 e 13.
