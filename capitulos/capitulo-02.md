@@ -13,7 +13,7 @@ timestamp: 2026-09-03T12:00:00-03:00
 
 ### Faculdade — O Raciocínio Abdutivo
 
-Mário está na aula do professor Zaganelli, distraído pela culpa do cap. 1. Um caso de contrato de adesão é proposto — uma financeira que lesou um idoso. Os colegas oferecem respostas previsíveis (juros abusivos, má-fé). Mário, em silêncio, encontra a falha onde ninguém mais viu: a **omissão** do contrato — o direito de arrependimento não foi destacado em caixa alta, como exige o art. 53 do CDC. A defesa sabia que o idoso não leria as entrelinhas. Zaganelli reconhece o raciocínio: "Você enxerga o buraco antes de ver a ponte."
+Mário está na aula do professor Zaganelli, distraído pela culpa do cap. 1. Um caso de contrato de adesão é proposto — uma financeira que lesou um idoso. Os colegas oferecem respostas previsíveis (juros abusivos, má-fé). Mário, em silêncio, encontra a falha onde ninguém mais viu: a **omissão** do contrato — o direito de arrependimento não foi destacado em caixa alta, como exige o art. 54 §4º do CDC. A defesa sabia que o idoso não leria as entrelinhas. Zaganelli reconhece o raciocínio: "Você enxerga o buraco antes de ver a ponte."
 
 ### O Inquiridor
 
