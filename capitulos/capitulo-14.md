@@ -1,7 +1,7 @@
 ---
 type: Chapter
 title: "Capítulo 13 — A Sala Secreta"
-description: "Nolan reúne o Conselho e falha. A razão não basta. Lupe'i revela que o Souhma real está com os daërunmeges."
+description: "Nolan reúne o Conselho e falha. A razão não basta. Lupe'i revela um Estrangeiro entre os daërunmeges; Nolan decide desmascarar a suposta farsa."
 pov: [Nolan]
 stc-beat: "Debate (~40-45%)"
 timeline: "Mesmo período do cap. 12"
@@ -28,10 +28,15 @@ escolher entre meu juramento e minha família."_
 
 Nolan descobre: **a razão não basta**. Momento de virada.
 
-**Lupe'i** volta e revela: corre o rumor de um **Estrangeiro (Souhma real)**
-entre os daërunmeges. Se Genocydo souber antes de Nolan...
-
-Nolan decide: precisa chegar ao Souhma **primeiro**.
+**Lupe'i** volta e revela: corre o rumor de um **Estrangeiro** entre os
+daërunmeges — um homem que ninguém entende, e a alcateia quer recompensa
+por ele. Nolan lê o caso como **farsa** (a febre da recompensa), mas a
+alcateia não cunha a moeda do mito (não serve a Vonos nem a Terbs), o que
+o intriga. Decide ir a Saramant para **desmascarar publicamente** o suposto
+souhma diante de testemunhas, decretar a morte de quem alimentar o boato e
+ameaçar Devour. Trata o suposto souhma como impostor durante toda a viagem.
+**Nolan ainda não sabe** que os Inquiridores estão atrás dele — descobre só
+no castelo de Devour, com surpresa.
 
 ## Personagens
 
@@ -51,8 +56,8 @@ Nolan decide: precisa chegar ao Souhma **primeiro**.
 4. ✅ Nolan mostra a Bíblia — ninguém reconhece a língua
 5. ✅ **Valinor recusa**: "O Rei é o Rei"
 6. ✅ Nolan descobre: **a razão não basta** — momento de virada
-7. ✅ Lupe'i revela: Souhma real está com os daërunmeges
-8. ✅ Nolan decide: precisa chegar ao Souhma primeiro
+7. ✅ Lupe'i revela: Estrangeiro entre os daërunmeges (alcateia quer recompensa)
+8. ✅ Nolan decide: ir a Saramant para desmascarar a suposta farsa e sufocar o boato
 
 ## Sementes Plantadas
 
@@ -61,12 +66,13 @@ Nolan decide: precisa chegar ao Souhma **primeiro**.
   Mário no L2, o pacto com Terbs).
 - 🌱 **Nuh no L2**: A crise de fé de Nuh começa aqui — ele escolhe a apoteose
   em vez da realidade. No L2, bêbado numa taverna, constatará o erro.
-- 🌱 **Nolan decide viajar**: Primeiro passo de Nolan para sair da Metrópole
-  e ir ao encontro de Mário.
+- 🌱 **Nolan decide viajar**: vai a Saramant para desmascarar o suposto
+  souhma (que crê farsa) e sufocar o boato — sem saber que os Inquiridores
+  já reivindicaram o Estrangeiro (surpresa no castelo de Devour).
 
 ## Conexões
 
 - [Capítulo 9](/capitulos/capitulo-09.md) — A Bíblia que Layla trouxe
 - [Capítulo 12](/capitulos/capitulo-12.md) — Mário está com os daërunmeges
 - [Nuh d'Teraghar](/personagens/nuh-dteraghar.md) — Erro teológico: Vonos no controle
-- [Inquiridores](/personagens/inquiridor.md) — Podem chegar ao Souhma antes
+- [Inquiridores](/personagens/inquiridor.md) — Nolan só descobre a reivindicação deles no castelo de Devour (caps. 18/19)

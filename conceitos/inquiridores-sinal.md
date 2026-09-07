@@ -10,6 +10,10 @@ ultimo_capitulo: 18
 
 Facção ou ordem que opera sob o selo de Vonos. Têm autoridade superior à do Conselho da Metrópole (representado por Nolan).
 
+## Seletividade (canon 2026-09-06)
+
+Autoridade ampla para reivindicar custódia em casos do Souhma, mas **ativação seletiva**: a ordem só se move quando o Sinal marca um alvo. Não caça impostores autodeclarados — um charlatão sem leitura no Sinal não a desperta. Daí Nolan (Ato 1, cap. 7) querer que capturem qualquer Souhma: impostores morrem na aferição. A intimação sobre Mário (caps. 18/19) é, para quem conhece a ordem, **evidência** de que o Sinal o marcou — a suspeita de Nolan nasce aí.
+
 ## Identificação
 
 Usam **diapasões de renanthao** — instrumentos de metal que vibram em frequência específica. O renanthao é o metal que anula magia e mede o Sinal. Os diapasões são cravados em árvores como marcos ou sensores.

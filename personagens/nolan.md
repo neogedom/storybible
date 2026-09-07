@@ -120,7 +120,9 @@ Nolan é o **antagonista estrutural**. Enquanto Genocydo é o antagonista explí
 (o rei mau), Nolan é quem move os fios. Ele:
 
 1. Conspira contra Genocydo enquanto serve ao Rei
-2. Caça Mário como "variável cega" a ser eliminada
+2. Ato 1: vai a Saramant desmascarar o suposto Souhma (que crê farsa) e
+   sufocar o boato; depois do milagre (caps. 22+), caça Mário para possuí-lo
+   e usá-lo contra Genocydo
 3. Perde Dagmar (esposa) como consequência de suas escolhas
 4. No final do L1, faz pacto com Terbs — acreditando que usa o deus da corrupção
 

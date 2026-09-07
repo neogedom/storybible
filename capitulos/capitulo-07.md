@@ -80,7 +80,7 @@ nesta sala?"_
 - [Capítulo 3](/capitulos/capitulo-03.md) — Koda sugeriu a conspiração
 - [Capítulo 0](/capitulos/capitulo-00.md) — O sinal falhou; luas azuis confirmam
 - [Benjamim Cressadar](/personagens/benjamim.md) — Nolan sabe que ele fabrica profecias
-- [Inquiridores](/personagens/inquiridor.md) — Risco de perderem controle da narrativa
+- [Inquiridores](/personagens/inquiridor.md) — Nolan os quer caçando qualquer Souhma (a ordem só age pelo que o Sinal marca; impostor morre na aferição); o risco é Cressadar ungir um farsante
 - [Gunad Deltëra](/personagens/gunad.md) — Mencionado como "não está"
 
 ## Notas de INGEST
@@ -91,3 +91,10 @@ nesta sala?"_
 - "Apoteose" é palavra de Cressadar, não do Llyfr.
 - As luas azuis são um fenômeno que liga a chegada de Mário ao cosmos.
   Isso será relevante no L2 (Piet Brö e a Soteriologia Cósmica).
+- **Nolan × Inquiridores (canon 2026-09-06)**: no Ato 1 Nolan QUER que os
+  Inquiridores capturem qualquer Souhma — a ordem de Vonos não se move por
+  farsa (só age quando o Sinal marca um alvo) e um charlatão morre na
+  aferição. O texto do cap. 7 foi corrigido em 2026-09-06 (a antiga linha de
+  "risco dos Inquiridores reivindicarem custódia" foi invertida). O medo de
+  custódia/violação de narrativa é re-temporizado: só entra quando o Souhma
+  é real (caps. 19/22–24+).

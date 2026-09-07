@@ -14,8 +14,9 @@ Comentário do autor no cap. 0 (L17): "esse boato se espalhando é aproveitado?"
 Investigação (2026-09-05) mostrou que o setup do prólogo (a falha do Sinal
 como espetáculo público; o medo de Nolan: "Se a Verdade não conseguisse mais
 se afirmar, o povo preencheria o vácuo... com o boato") rende apenas de modo
-indireto: acusação do hegraliano no tribunal (cap. 4), perda de controle
-narrativo para os Inquiridores (cap. 7, L103), reverberação privada em Kate
+indireto: acusação do hegraliano no tribunal (cap. 4), a garantia que Nolan
+via nos Inquiridores contra charlatões (cap. 7 — canon corrigido em
+2026-09-06), reverberação privada em Kate
 (comentário L53 do cap. 0). Não há revolta pública nem ligação das conversões
 em massa ao vácuo do Sinal.
 
@@ -195,3 +196,16 @@ micro-semente para releitura, a decidir).
 Registro estrutural (amarelo) — **não implementar agora**. Aplicar na
 revisão dos caps. 4–17 (protocolo completo, congelamento do L1), quando o
 texto do Ato 1 da Metrópole for tocado.
+
+## Correção de canon — Nolan × Inquiridores (2026-09-06)
+
+**No Ato 1, Nolan QUER que os Inquiridores capturem qualquer Souhma.** A
+ordem de Vonos não se move por farsa (só age quando o Sinal marca um alvo)
+e um charlatão morre na aferição. O texto do cap. 7 foi corrigido em
+2026-09-06 (a antiga linha de "risco dos Inquiridores reivindicarem
+custódia" foi invertida). O medo de custódia/violação de narrativa é
+**re-temporizado**: só entra quando o Souhma é real — cap. 19 (intimação em
+Devour, surpresa: "por quê os Inquiridores atrás de um impostor?") e caps.
+22–24 (Nolan aceita o real e corre antes dos Inquiridores). A "solução vira
+ameaça" se mantém: Nolan burocratiza e confia na ordem no Ato 1; a mesma
+ordem reivindica Mário como ativo do Sinal nos caps. 26+.
