@@ -10,9 +10,19 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Visão Geral
 
-Edgard Lupe'i é filho de fazendeiros, estudou em Vitysh (hegralismo) e
-tornou-se conselheiro do Reino. Fundou a **Cidadela de Gus** — refúgio
-dos hegralianos e opositores da Segregação. Último posto civilizado antes
+Edgard Lupe'i é filho de fazendeiros (a família Lupe'i cria gado e produz
+lavouras). O pai o enviou para estudar na ilha de **Vitysh**; de lá voltou
+"com a mente doutrinada" pelos ensinamentos do filósofo **Garun-thor Hegral**
+(hegralismo/humanismo) e tornou-se professor da **Academia dos Artífices da
+Metrópole** e conselheiro do Reino (fonte: Geografia de Ornick). Após o
+"desmantelamento dos hegralianos", integra a **nova Academia** que se forma
+na Cidadela de Gus — para onde migram os melhores professores, fugindo da
+opressão de Genocydo.
+
+Fundou a **Cidadela de Gus** (sede da Capitania de Gus) — a única terra
+desenvolvida fora dos muros da Metrópole, onde humanos e leviantares
+convivem como afronta deliberada à Segregação e onde se abrigam os
+**Humanistas** (leviantares anti-Segregação). Último posto civilizado antes
 das fronteiras do Norte.
 
 ## Função Temática

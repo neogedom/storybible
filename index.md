@@ -70,7 +70,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Metrópole](lugares/metropole.md) — Capital do Reino de Genocydo, sede do Monólito da Verdade.
 - [Saramant](lugares/saramant.md) — Floresta ao redor da fortaleza de Devour, território de caça de Kate.
 - [Vila de Opium](lugares/opium.md) — Povoado massacrado, onde Mário acorda em Ornick.
-- [Alavria](lugares/alavria.md) — Nação estrangeira, patrono Renath. Invade a Metrópole no final do L1.
+- [Alavria](lugares/alavria.md) — Nação estrangeira, patrono Renath. Destacamento infiltrado aniquilado no L1; incursão frontal no L2.
 - [Gondor](lugares/gondor.md) — Império estrangeiro que dominou o Reino no Interregno; era de ouro dos vampiros; Guerra do Grifo.
 
 ## Conceitos

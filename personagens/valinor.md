@@ -19,7 +19,8 @@ como homem.
 - **Cap. 13**: Recusa Nolan no Conselho secreto. "O Rei é o Rei."
   Tensão familiar: Nolan é genro, Valinor não escolhe entre juramento e família.
 - **Pós-cap. 25-28**: Descobre que Nolan quer o trono.
-- **Invasão de Alavria (final L1)**: Comanda a defesa. Morre em combate.
+- **Queda da Metrópole (final L1)**: defende a cidade da incursão de Kate —
+  que carrega o destacamento alavriano. Morre em combate.
 - **Última fala**: Julgamento suspenso.
 
 ## Função Temática

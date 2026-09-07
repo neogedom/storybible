@@ -1,5 +1,96 @@
 # Log de Atualizações
 
+## 2026-09-05 (Geografia de Ornick — filosofia hegralista + reconciliação da Academia)
+
+- **Filosofia hegralista registrada a partir da fonte** ("Geografia geral de
+  Ornick.docx"): hegralismo = o "humanismo" de Ornick, fundado por
+  **Garun-thor Hegral**, berço na ilha de **Vitysh**; igualdade das raças
+  conscientes + união em civilizações fortes para sobreviver num mundo
+  dominado pelos deuses e por criaturas monstruosas; sobrevivência pela
+  **sabedoria**. Hegralianos = "os da ilha de Vitysh" (cuidado com a vida e
+  o lucro); no Reino, via Lupe'i, abraçados por intelectuais anti-Segregação.
+  Novo verbete **Humanistas** (leviantares anti-Segregação em Gus).
+- **Reconciliação da Academia dos Artífices** (fonte vs. aplicação 2026-09-05):
+  a Academia oficial do Reino fica na **Metrópole** (miniatura do Castelo do
+  Saber, em Vitysh — a maior de Ornick); em **Gus** existe o **embrião de
+  nova Academia**, para onde migraram os melhores professores hegralianos
+  fugindo da opressão de Genocydo (desmantelamento do cap. 7). É de lá que
+  Kate arregimenta. Novo verbete **Castelo do Saber**.
+- **Arquivos**: `conceitos/glossario.md` (Hegralismo, Hegralianos,
+  Humanistas, Academia Metrópole/Gus, Cidadela de Gus, Castelo do Saber),
+  `personagens/lupei.md`, `insights/nolan-sufoca-boatos-sinal.md`,
+  `temas/esquema-l1.md`, `log.md`.
+
+## 2026-09-05 (rodada de canon aplicada — final do L1 / Alavria)
+
+- **Morte de Genocydo**: agora morre por um **alavriano** (infiltrado do
+  destacamento), não pelo Lakand (esquema atualizado). Beat do Lakand em aberto.
+- **Alavria no L1 = destacamento oculto** (infiltrados + força de choque) que
+  entra via portão de Koda na incursão de Kate; mata Genocydo e tenta tomar a
+  cidade por dentro; **aniquilado pela ação divina** ("estilo premonição",
+  eco do sonho do cap. 1 — exceção deliberada ao guardrail do milagre). No L2,
+  Alavria prepara incursão frontal de revide.
+- **Mário é coroado também por medo** do deus que causou a carnificina
+  (legitimidade envenenada → solo do L2).
+- **Kate arregimenta em Gus** (hegralianos da Academia dos Artífices +
+  convertidos; infiltrados de Alavria entre eles) e bole o cerco.
+- **Portão**: Koda executa a abertura (por Alavria); Nolan crê liderar (o golpe
+  dele); Lupe'i fora.
+- **Transporte de Mário**: Clãs de Sangue o entregam a Genocydo (sem
+  Inquiridores); Caixão de Tortura.
+- **Valinor**: morre defendendo a Metrópole da incursão de Kate.
+- **Arquivos**: `lugares/alavria.md`, `conceitos/glossario.md` (+ verbetes
+  Hegralianos, Academia dos Artífices, Cidadela de Gus), `index.md`,
+  `personagens/valinor.md`, `conceitos/renath.md`,
+  `insights/nolan-controla-rampillas.md`, `temas/esquema-l1.md` (final),
+  `insights/nolan-sufoca-boatos-sinal.md`, `log.md`.
+- **Em aberto**: beat do Lakand no final; reconciliação do beat de resgate
+  (Gus/Clãs); colaterais da carnificina divina; grau de consciência de Nolan
+  no portão (enquadramento recomendado aplicado no esquema).
+
+## 2026-09-05 (canon L1 — Koda consuma a traição; infiltrados de Alavria na invasão de Kate)
+
+- **Koda trai no L1 (consumação)**: a traição de Koda se consuma no L1 — ele
+  facilita a entrada dos infiltrados de Alavria durante a invasão de Kate à
+  Metrópole (portão aberto no festival). Descoberta continua no L2 (Gunad).
+- **Infiltrados de Alavria entre os hegralianos de Gus**: alguns hegralianos
+  que Kate arregimenta na Cidadela de Gus (de Lupe'i) são agentes de Alavria;
+  usam a invasão de Kate para matar Genocydo e tomar a Metrópole por dentro.
+- **Insight ampliado**: `insights/nolan-sufoca-boatos-sinal.md` — seção
+  "Camada Koda/Alavria (objetivos em camadas)" + "Pontos de coerência em
+  ABERTO" (quem mata Genocydo, timing da invasão, invasão externa vs. por
+  dentro, consciência de Lupe'i, coroação de Mário, atualização de
+  `alavria.md`).
+- **Arquivos**: `personagens/koda.md` (consumação + numeração corrigida 3→4,
+  6→7, 13→14), `insights/nolan-sufoca-boatos-sinal.md`, `log.md`.
+
+## 2026-09-05 (insight — Nolan sufoca boatos do Sinal + correção de numeração)
+
+- **Insight registrado** (amarelo/estrutural, destino: revisão caps. 4-17 no
+  congelamento do L1): objetivo ativo do Ato 1 de Nolan de sufocar os boatos
+  sobre a falha do Sinal (controle da narrativa do divino). Origem: comentário
+  do autor no cap. 0 L17 + investigação 2026-09-05.
+- **Correção de numeração na ficha de Nolan**: `personagens/nolan.md` (seção
+  Arco Narrativo) usava a numeração antiga; ajustada +1 para os arquivos
+  atuais (3→4, 6→7, 9→10, 13→14, 16→17, 18→19, 19→20, 21→22).
+- **Arquivos**: `insights/nolan-sufoca-boatos-sinal.md` (novo),
+  `personagens/nolan.md`, `log.md`.
+
+## 2026-09-05 (decisão — Sinal permanentemente instável, não mudo)
+
+- **Correção de canon do Sinal de Vonos**: o Sinal NÃO emudeceu nem cessou.
+  Ficou **permanentemente instável** — a frequência de Mário ocupou o canal
+  e embaralhou a leitura (Vonos não foi cortado nem se calou). Milagres
+  agudizam o embaralhamento, com **reverberação em Kate** (influência de
+  Hícse). Vocabulário canônico: "perdeu o eixo", "não firma a leitura",
+  "vem embaralhado/corrompido", "vacilou".
+- **Falas de personagens corrigidas** (Benjamim, hegraliano, Nolan, Escriba,
+  Inquiridor): descrevem instabilidade real, não mudez — sem mentira/engano.
+- **Arquivos**: `conceitos/sinal-de-vonos.md` (Versão B),
+  `capitulos/capitulo-00.md` (resumo), `decisoes/sinal-permanentemente-instavel.md`
+  (novo), `log.md`. Texto do livro: `Livro 1/capitulo0.md` (L3, L15, L21,
+  L29, L39), `Livro 1/capitulo3.md` (L50), `Livro 1/capitulo4.md` (L19, L21, L25).
+
 ## 2026-09-03 (Reestruturação — novo cap. 2 + cena do tribunal + micro-objetivo)
 
 - **Reestruturação completa da numeração**: Novo capítulo 2 ("O Inquérito") inserido entre os antigos caps. 1 e 2. Toda a numeração deslocada em +1 (antigo cap. 2 → cap. 3, antigo cap. 3 → cap. 4, etc.). Capítulos 4-25 da numeração antiga agora são caps. 5-26.

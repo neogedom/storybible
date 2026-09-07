@@ -41,7 +41,9 @@ reformista.
 - Alavria foi colonizada por uma nação do **Sucontinente** (origem geopolítica
   ainda a ser desenvolvida)
 - Renath é o patrono divino da nação
-- A invasão alavriana no final do L1 é operacionalizada por agentes de Renath
+- A operação alavriana do L1 (destacamento infiltrado na incursão de Kate) é
+  operacionalizada por agentes de Renath; é **aniquilada pela ação divina** no
+  final. No L2, Renath impulsiona a incursão frontal de revide.
 
 ## Conexões
 

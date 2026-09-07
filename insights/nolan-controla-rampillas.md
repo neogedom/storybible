@@ -44,8 +44,9 @@ de superfície (trono de ossos, selo de comando) queimariam.
   estruturalmente) torna-se base militar de Nolan; o perímetro queimado vira
   clareira defensiva (firebreak)
 - Saramant (~120 km da Metrópole) vira um posto avançado estratégico
-- Isso muda o cálculo de Nolan no final do L1: com Alavria invadindo, os
-  rampillas podem ser linha de defesa — ou moeda de troca
+- Isso muda o cálculo de Nolan no final do L1: com Genocydo morto e o
+  destacamento alavriano aniquilado pela ação divina (revide frontal no L2 à
+  frente), os rampillas podem ser linha de defesa — ou moeda de troca
 - No L2, o exército de rampillas de Nolan pode ser usado como instrumento da
   Inquisição
 

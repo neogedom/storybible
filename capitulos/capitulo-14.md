@@ -15,9 +15,13 @@ Nolan reúne o **Conselho secreto** numa sala sob o palácio: **Nuh d'Teraghar**
 (Sumo Sacerdote), **Valinor Addorbek** (General), **Edgard Lupe'i**
 (Hegraliano) e **Koda Deltëra** (Mestre da Moeda).
 
-Koda mostra o livro contábil real — o Reino está **falido**. Nuh rejeita:
-a apoteose resolverá tudo. Nolan mostra a **Bíblia de Kraviam** como prova
-de heresia — ninguém reconhece a língua. A acusação é rejeitada.
+Koda mostra o livro contábil real — o Reino está **falido**. Nolan argumenta
+que Genocydo está levando o Reino à falência e à revolta por um Souhma que
+**não existe** — a recompensa prometida por um fantasma de Cressadar prova
+que o Rei não merece a coroa. Nuh rejeita: a apoteose resolverá tudo.
+
+Nolan mostra a **Bíblia de Kraviam** como prova de heresia — ninguém
+reconhece a língua. A acusação é rejeitada.
 
 **Valinor** recusa Nolan: _"O Rei é o Rei. Você está me pedindo para
 escolher entre meu juramento e minha família."_

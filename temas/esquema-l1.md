@@ -67,7 +67,7 @@ timestamp: 2026-08-26T12:00:00-03:00
 **Corrida por Mário vivo — três agendas concorrentes:**
 
 - **Nolan** quer Mário como **ferramenta de política pública** contra doenças. Seu sonho: uma Metrópole sem pragas, onde o Conselho não precise da Segregação porque Mário cura. Com Mário sob controle estatal, Nolan convence o Conselho e **toma o trono.**
-- **Vonos (via Inquiridores)** quer Mário **vivo** para **substituir Genocydo** como governante do Reino de Genocydo. Se Genocydo falhou (apoteose farsa, Sinal cessou), Vonos precisa de outro terráqueo no trono. Mário é o candidato natural.
+- **Vonos (via Inquiridores)** quer Mário **vivo** para **substituir Genocydo** como governante do Reino de Genocydo. Se Genocydo falhou (apoteose farsa, Sinal perdeu o eixo), Vonos precisa de outro terráqueo no trono. Mário é o candidato natural.
 - **Genocydo (contrato com Terbs, via Benjamim)** quer Mário **vivo** — o objetivo não é matar o Souhma, mas **levá-lo à blasfêmia pública por meio da simulação da Via Crucis**. Esse é o **contrato** entre Terbs e Genocydo: se o profeta do "Eu Sou" amaldiçoar o próprio Deus em praça pública, Javé perde a credibilidade diante de Ornick — e, como **recompensa**, Terbs tornaria Genocydo **deus** (a apoteose). Claro que Terbs **mente**: a apoteose é isca, Genocydo é o instrumento. A recompensa pública é de **resgate/vivo** (canon publicado, cap. 17: "Quem o encontrar, prenda. Vivo.").
 
 ---
@@ -139,8 +139,8 @@ incêndio — irrecuperável. **O fogo de Lakand é a pira involuntária.** Ante
 de partir, Nolan deposita o anel num **cairn de pedras enegrecidas** na
 borda da clareira chamuscada e cumpre o **rito fúnebre de Vonos** — fórmula
 seca, dita de cor, como quem cumpre um trâmite de Estado, não um luto. O
-rito não consola: o deus da Verdade, cujo Sinal falhou no prólogo, segue
-mudo. Sem choro, sem catarse. **A dívida** é dupla: para com Mário (Saboc
+rito não consola: o Sinal de Vonos falhou no prólogo e nunca mais firmou a
+leitura. Sem choro, sem catarse. **A dívida** é dupla: para com Mário (Saboc
 viveu — dívida que Nolan converte em "possuí-lo") e o luto sem fechamento
 (solo do ódio no L2).
 
@@ -527,15 +527,15 @@ Gaviorn'l confronta Kate por deserção. Ela o mata. **Hícse desperta** e confr
 
 Ataque combinado de vampiros e lobisomens. Nolan descobre que Genocydo cedeu a Mina aos Clãs de Sangue (canibais que cultuam Hícse).
 
-Mário decide se entregar para salvar a cidadela de Gus. É levado pelos Clãs — quase canibalizado.
+Mário decide se entregar para salvar a cidadela de Gus. É levado pelos Clãs — quase canibalizado — que acabam por **entregá-lo a Genocydo** (canon 2026-09-05).
 
-Nolan, Kate e Lakand bolam resgate. Nolan sofre chibatadas dos humanos cristianizados.
+Nolan, Kate e Lakand bolam resgate. Nolan sofre chibatadas dos humanos cristianizados. ⚠️ Reconciliar com o canon 2026-09-05: o resgate é uma tentativa que falha (destino: o Caixão na Metrópole) ou é absorvido pela incursão final de Kate — a definir.
 
 ---
 
 ## Tudo Está Perdido (~75%)
 
-Mário é levado para a Metrópole e colocado no **Caixão de Tortura** em praça pública. Genocydo o humilha, desafia o Deus dele. **É a agenda de Terbs em ação: o objetivo não é só humilhar — é quebrar Mário até que ele blasfeme contra Deus em público (a "simulação da Via Crucis"; correção 2026-08-10).** Mário nega a oferta de refazer a via crucis — por orgulho, achando que pode defender a honra de Jesus.
+Mário é levado para a Metrópole — os **Clãs de Sangue o entregam a Genocydo** (canon 2026-09-05: sem mediação dos Inquiridores) — e colocado no **Caixão de Tortura** em praça pública. Genocydo o humilha, desafia o Deus dele. **É a agenda de Terbs em ação: o objetivo não é só humilhar — é quebrar Mário até que ele blasfeme contra Deus em público (a "simulação da Via Crucis"; correção 2026-08-10).** Mário nega a oferta de refazer a via crucis — por orgulho, achando que pode defender a honra de Jesus.
 
 ---
 
@@ -547,7 +547,7 @@ Nolan, movido pelo filho Saboc, leva água e comida escondido. Mário pede que e
 
 Visões: Deus fala que Genocydo pagará por ter desafiado a Ele, não a Mário.
 
-Os revoltosos bolam cerco à Metrópole. Benjamim (Terbs) **cobra o contrato**: entrega a blasfêmia pública de Mário e recebe a apoteose — isca que Genocydo ainda crê real.
+Os revoltosos bolam cerco à Metrópole. Kate arregimenta em **Gus** — hegralianos da nova Academia dos Artífices (professores fugidos da Metrópole) e convertidos; entre eles, infiltrados de Alavria (canon 2026-09-05) — para resgatar Mário. Benjamim (Terbs) **cobra o contrato**: entrega a blasfêmia pública de Mário e recebe a apoteose — isca que Genocydo ainda crê real.
 
 ---
 
@@ -555,21 +555,21 @@ Os revoltosos bolam cerco à Metrópole. Benjamim (Terbs) **cobra o contrato**: 
 
 Mário aceita a **Via Crucis** — não por submissão orada, mas porque acha que exposição pública da Palavra será benéfica. **Ironia (correção 2026-08-10): ele entra consciente na simulação de Terbs — o inimigo quer a blasfêmia pública; Mário acredita que pode transformar o palco da vergonha em exposição da Palavra.** Genocydo refaz a via crucis com Mário lendo a Bíblia. A simulação não arranca a blasfêmia — no Final, a arma de Terbs vira testemunho.
 
-Nolan, Koda e Lupe'i abrem o portão durante o festival.
+Durante o festival, o portão se abre: Nolan crê liderar a abertura (o golpe dele), mas quem a executa é **Koda, por Alavria** — deixa entrar, com os revoltosos, o destacamento alavriano oculto (infiltrados + força de choque). Lupe'i não participa (canon 2026-09-05).
 
 ---
 
 ## Final (~80-99%)
 
-Mário é tirado da cruz. Kate e Nolan querem que ele faça um grande discurso para inspirar os rebeldes.
+Mário é tirado da cruz. Genocydo está morto: um infiltrado do destacamento alavriano o matou durante a tomada. Kate e Nolan querem que Mário faça um grande discurso para inspirar os dele contra os alavrianos.
 
 **Mário hesita.** Retira-se para orar. Pela primeira vez, ora sem pedidos:
 
 > _"Não o que eu quero. O que o Senhor quer."_
 
-O silêncio é a resposta. Não há anjos, não há visão — apenas o silêncio. Lá fora, mortes invisíveis acontecem nos portões. Lakand mata Genocydo. Não há celebração — há pânico. O milagre é aterrorizante.
+O silêncio é a resposta. Não há anjos, não há visão — apenas o silêncio. Lá fora, nos portões, a carnificina divina — estilo premonição, eco do sonho do cap. 1 — **aniquila todos os alavrianos** (exceção deliberada ao guardrail do milagre; ver `insights/nolan-sufoca-boatos-sinal.md`). Não há celebração — há pânico. O milagre é aterrorizante.
 
-**Mário não discursa.** Recusa o palco.
+**Mário não discursa.** Recusa o palco. O povo o coroa **também por medo** do deus que causou a carnificina — a legitimidade nasce envenenada, solo do L2.
 
 ---
 
@@ -595,7 +595,7 @@ ou o deus enganado por um falso cristão.** A transição para o L2 está planta
 
 | Elemento no sonho (Cap. 1)                                                                      | Eco necessário no Final                                                                                                                                                         | Função                                                                                 |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **Monólito de diamante maculado** com entalhes de coroa sobre sol nascente e inscrição quebrada | Mário vê o **Monólito real da Praça Central** quando é levado prisioneiro à Metrópole. A inscrição quebrada no sonho agora está legível. O Monólito está intacto, mas **mudo**. | Mostra que a profecia do sonho se cumpriu: o monumento da Verdade nunca foi a verdade. |
+| **Monólito de diamante maculado** com entalhes de coroa sobre sol nascente e inscrição quebrada | Mário vê o **Monólito real da Praça Central** quando é levado prisioneiro à Metrópole. A inscrição quebrada no sonho agora está legível. O Monólito está intacto, mas já não firma a leitura. | Mostra que a profecia do sonho se cumpriu: o monumento da Verdade nunca foi a verdade. |
 | **"Talvez o preferido do Rei já tenha fugido"**                                                 | Alguém (Kate? Nolan?) diz que Mário **"fugiu"** quando ele se retira para orar em vez de discursar.                                                                             | Eco verbal que amarra profecia a cumprimento.                                          |
 | **Fraticida seduzido por Hícse**                                                                | Mário vê **Genocydo como espelho**: o outro terráqueo que cedeu à promessa errada. Mário não responde com argumento — apenas **silencia**.                                      | Mostra que Mário aprendeu a diferença entre os dois exércitos do sonho.                |
 | **"Esse é seu papel. Impeça."**                                                                 | Mário **impede pela rendição, não pela ação**. A oração sem pedidos é o ato de "impedir".                                                                                       | A Voz estava certa: ele **podia** impedir. Mas o método era entrega, não esforço.      |

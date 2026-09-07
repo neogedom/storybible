@@ -36,10 +36,14 @@ Alavria.
 
 ## Arco
 
-1. Cap. 3: Revela os cofres drenados a Nolan. Sugere substituir o Rei.
-2. Cap. 6 e 13: Aprofunda a conspiração com Nolan
+1. Cap. 4: Revela os cofres drenados a Nolan. Sugere substituir o Rei.
+2. Cap. 7 e 14: Aprofunda a conspiração com Nolan
 3. Teme por Jo-jo (refém alavriano)
-4. Traição descoberta por Gunad no L2
+4. **Consuma a traição no L1 (canon 2026-09-05)**: facilita a entrada dos
+   infiltrados de Alavria durante a invasão de Kate à Metrópole — o portão
+   que ele ajuda a abrir deixa entrar, junto dos revoltosos, os agentes que
+   matam Genocydo e tomam a cidade por dentro
+5. Traição descoberta por Gunad no L2
 
 ## Relações
 

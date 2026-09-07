@@ -166,7 +166,7 @@ são as premissas.
 - Recebe ordens de Genocydo para caçar o Souhma
 - Preocupado com ordem pública acima de tudo
 
-### Capítulo 3 — A Conspiração
+### Capítulo 4 — A Conspiração
 
 - Volta do tribunal após execuções (Gerikhad)
 - **Revela-se: Nolan idealizou a Segregação**, não Genocydo
@@ -175,38 +175,38 @@ são as premissas.
 - Aceita a sugestão de conspiração de Koda
 - **Primeiro sorriso** — o cálculo político encontrou seu caminho
 
-### Capítulo 6 — O Jogo
+### Capítulo 7 — O Jogo
 
 - Joga xadrez com Genocydo. Tenta dissuadi-lo de Cressadar.
 - Revela: leu o Llyfr original
 - Genocydo recusa. Nolan falha.
 - Vai a Koda.
 
-### Capítulo 9 — O Diário Perdido
+### Capítulo 10 — O Diário Perdido
 
 - Janta com Dagmar e Valinor; Layla entrega a Bíblia
 
-### Capítulo 13 — A Sala Secreta
+### Capítulo 14 — A Sala Secreta
 
 - Conselho secreto. A razão não basta. Decide viajar.
 
-### Capítulo 16 — A Travessia
+### Capítulo 17 — A Travessia
 
 - Cruza o Cran com Dagmar. Entra em Saramant.
 - Conflito explode com Dagmar sobre Layla.
 - **Dá um tapa em Dagmar** — reflexo, não planejado.
 - Não pede desculpas. Vergonha presa na garganta.
 
-### Capítulos 18-19 — A Morte de Dagmar
+### Capítulos 19-20 — A Morte de Dagmar
 
-- **Cap. 18**: chega ao castelo de Devour, negocia com Devour, vê Mário na
+- **Cap. 19**: chega ao castelo de Devour, negocia com Devour, vê Mário na
   cela (um paciente, não um monstro). Dagmar entra em trabalho de parto; o
   bebê está atravessado. Ela morre; o bebê nasce sem ar. Nolan segura a mão
   dela até o fim — não chora, o vazio se instala.
-- **Cap. 19 (fora de cena)**: permanece no andar de cima, segurando a mão de
+- **Cap. 20 (fora de cena)**: permanece no andar de cima, segurando a mão de
   Dagmar. Não sabe que Mathias tirou o corpo do bebê do quarto, nem que o
   bebê reviveu no calabouço. O castelo queima (fogo ateado por Lakand).
-- **Cap. 21 (POV Nolan)**: o fogo arranca Nolan da mão morta de Dagmar; ele
+- **Cap. 22 (POV Nolan)**: o fogo arranca Nolan da mão morta de Dagmar; ele
   arranca o anel de prata e o deposita num cairn de pedras enegrecidas,
   cumprindo o rito fúnebre de Vonos (a pira involuntária de Lakand — enterro
   simbólico). **Mira** (parteira-ama, ver `personagens/mira.md`) sobrevive e
@@ -215,7 +215,7 @@ são as premissas.
   encontra a raiz-mestra e passa a controlar os rampillas sobreviventes
   (~uma dezena). Reúne-os e parte atrás de Mário — não para matá-lo, para
   possuí-lo.
-- **Cap. 21 (canon 2026-08-16) — misatribuição**: antes da pista da vembra,
+- **Cap. 22 (canon 2026-08-16) — misatribuição**: antes da pista da vembra,
   a explicação de Nolan para a morte de Dagmar é a ideologia (contato com
   humanos na viagem — eco do pai, prostituta humana). Segura as duas
   molduras sem ver a contradição: "os humanos adoeceram minha esposa" +
