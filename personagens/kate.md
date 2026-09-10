@@ -11,8 +11,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 Kate é uma caçadora leviantar **gnock** de Saramant — nasceu sem afinidade
 elemental, o que a torna única entre os leviantares. Essa ausência de magia
-no sangue é também sua maior arma: é imune às armas geométricas dos
-Inquiridores. Inicialmente encarregada de capturar
+no sangue é também sua maior arma: é imune ao efeito mágico das armas
+geométricas dos Inquiridores — o fio ainda a fere; o apodrecimento do
+renanthao, não. Inicialmente encarregada de capturar
 Mário, ela desenvolve um vínculo ambíguo com ele — não romântico, não maternal,
 mas algo entre proteção, dívida e escolha própria.
 

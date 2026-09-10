@@ -10,7 +10,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 1. O Hino na Noite — "Mais Perto Quero Estar"
 
-- **Plantio**: L1, Cap. 26 — Mário canta em português para Kate
+- **Plantio**: L1, cap. 27 (numeração nova; "cap. 26" na antiga) — Mário canta em português para Kate
+- **Beat novo (2026-09-09)**: em capítulo futuro do L1, **Kate pergunta o que ele cantou** — pagamento próximo da semente
 - **Germinação**: L2 — Gunad canta nos becos; Kate reconhece a melodia
 - **Risco**: A cena do L1 precisa ser memorável para o leitor reconhecer no L2
 
@@ -367,5 +368,17 @@ timestamp: 2026-07-24T12:00:00-03:00
   para que a transição de liderança aterre no leitor.
 - **Germinação**: L2 — Estruzzo como líder gornad (e sua relação com o que
   restou da Hoste/vagas de Gaviorn'l).
+
+## 19. A Ferida que Não Cobrou
+
+- **Plantio (previsto — cap. 28, confronto com os Inquiridores)**: Kate leva
+  arranhões de renanthao no corpo a corpo e **não apodrece** — a vantagem de
+  ser gnock (sem magia no sangue). A Ordem registra a anomalia: um corpo que
+  recebeu o aço do Sinal e não cobrou.
+- **Germinação (L2)**: a Ordem quer entender/possuir/destruir a anomalia;
+  liga-se ao arco de Kate no L2 (a dádiva como apagamento; o descarte de
+  Benjamim).
+- **Risco**: a cena do L1 precisa deixar claro que ela FOI ferida (sangue e
+  ardência) — sem isso, a anomalia que a Ordem registra não aterra.
 
 _Atualizar a cada INGEST de capítulo._

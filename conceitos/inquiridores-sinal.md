@@ -84,3 +84,39 @@ Mário vivo** à custódia (cap. 27): um acerto o relocaria para a Metrópole �
 não o mataria. A fraqueza tática é o gesto de **aferição** (meio segundo
 antes da descarga, o "papel" que calibra o alvo) — a pausa que Mário lê
 para se jogar no chão.
+
+## A Vara de Ofício (canon 2026-09-09)
+
+Arma branca padrão dos Inquiridores (ficha: `personagens/inquiridor.md`):
+uma vara de renanthao, comprimento de bastão-lança, com o **fuste
+graduado** como régua de agrimensor e ponta/gumes curtos. Três ofícios no
+mesmo objeto:
+
+- **Estocar e cortar**: fere como qualquer arma branca, contra qualquer corpo.
+- **Fincar e percutir (atordoar)**: uma vara fincada no chão e percutida
+  **contra a outra** emite uma **vibração que atordoa** — não fere — num raio
+  propagado pelo chão; o som é um anel metálico que vira um hum grave,
+  sentido nos dentes. Os auditores operam na disciplina do próprio raio
+  (o fuste graduado mede onde se firmar; **cera nos ouvidos** é de uso comum).
+- **Medir**: as graduações do fuste são a régua do ofício.
+
+**O fio que apodrece (canon 2026-09-09):** ferir com renanthao ativa o
+apodrecimento **apenas em quem tem magia no sangue** (afinidade): a ferida
+escurece, as veias enegrecem, a morte vem **em minutos** — sem cura
+conhecida. Só a **ferida** ativa o efeito (contato superficial não — por isso
+a armadura de renanthao é segura para o portador).
+
+- **Não apodrecem**: humanos sem magia; gnocks (ex.: Kate); Mário — o poder
+  nele não é dele, é de Deus (decisão 2026-09-09).
+- **Apodrecem**: leviantares com afinidade; daërunmegos (transmorfia); demais
+  seres com magia no sangue.
+
+É esse efeito — uma escoriação como sentença — que sustenta o terror da
+Ordem entre os magos do Reino. **Kate:** o renanthao a corta (a ameaça é
+real), mas a sentença não a alcança; sua vantagem no corpo a corpo é o treino
+gornad (esquivar, desviar, aguentar) e o corpo que não apodrece.
+
+**Separação dos ofícios:** o Revólver (quartzo) **remove** — captura de
+registrados; a Vara (renanthao) **executa e controla** — autoridade portátil.
+**Ponto aberto (L2):** a Ordem registra "a ferida que não cobrou" — um corpo
+que recebeu o aço do Sinal e não apodreceu (ver `temas/sementes.md`, #19).

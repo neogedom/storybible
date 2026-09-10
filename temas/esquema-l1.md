@@ -341,7 +341,7 @@ o **A acusação ecoada (realocada do cap. 23 original):** No meio do confronto,
 
 #### Capítulo 27 (PoV de Kate) — Reformulado
 
-o **Os Inquiridores do Sinal.** Uma patrulha os alcança. Armadura de renanthao, Revólveres de Auditoria. Kate é Gnock — o renanthao **não a afeta**. Ela enfrenta dois Inquiridores em combate corpo a corpo e vence.
+o **Os Inquiridores do Sinal (canon 2026-09-09).** Uma patrulha os alcança (triangulação por diapasões). De madrugada, executam os mercenários que sitiavam a caverna: fincam a **Vara de Ofício** e a percutem — a vibração atordoa, não fere —, depois liquidam à lâmina, um a um; o grupo ouve de dentro. Contra o grupo: **Varas de Ofício** de renanthao (estocada e corte). Kate é Gnock — **o renanthao a corta, mas a sentença não a alcança** (o fio apodrece feridas de quem tem magia; ela não tem). O treino gornad a deixa esquivar, desviar e aguentar arranhões. Ela enfrenta dois Inquiridores em combate corpo a corpo e vence.
 
 o **O perigo real:** Enquanto Kate luta, um terceiro Inquiridor aponta o Revólver de Auditoria para Mário. Kate não chega a tempo.
 

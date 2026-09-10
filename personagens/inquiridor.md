@@ -14,14 +14,16 @@ Os **Inquiridores do Sinal** são uma facção do culto burocrático de **Vonos*
 Não respondem ao Rei Genocydo, apenas ao Sinal — têm autoridade para
 reivindicar custódia sobre qualquer caso relacionado ao Souhma.
 
-Equipados com armas geométricas de renanthao, diapasões de triangulação e
-bacias métricas, são caçadores do Estrangeiro que operam nas fronteiras do
-Reino e além.
+Equipados com a **Vara de Ofício** — arma branca de renanthao cujo fio
+apodrece, em minutos, a ferida de quem tem magia no sangue —, com diapasões
+de triangulação e bacias métricas, são caçadores do Estrangeiro que operam
+nas fronteiras do Reino e além.
 
 ## Identificação
 
 - **Talismã de Vonos** pendurado no pescoço
-- **Armas de fogo** de tecnologia complexa ("câmara complexa, estampido elétrico")
+- **Vara de Ofício**: arma branca de renanthao — estocada e corte; fincada e percutida contra a outra, emite vibração que atordoa (não fere); fuste graduado mede o raio; o fio apodrece a ferida de quem tem magia no sangue (minutos, sem cura conhecida)
+- **Revólver de Auditoria**: arma de captura/transporte (não de execução) — ver `conceitos/inquiridores-sinal.md`
 - **Diapasões de renanthao**: usados para triangular a assinatura de Mário
 - **Cicatrizes rituais** (o Inquiridor que atira em Mário no cap. 2 tem uma cicatriz no rosto)
 
