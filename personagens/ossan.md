@@ -16,8 +16,8 @@ Conhece os processos mágicos da casa: o **ritual da semente** (que zumbifica
 os rampillas), o cultivo do jardim e a criação de itens encantados (tipo o
 manto de Tharin).
 
-Sobrevive ao incêndio do castelo (cap. 19) e, deslocado, vira **asset de
-Nolan** na consolidação de Devour (cap. 21): ajuda a entender a raiz-mestra e
+Sobrevive ao incêndio do castelo (cap. 20) e, deslocado, vira **asset de
+Nolan** na consolidação de Devour (cap. 22): ajuda a entender a raiz-mestra e
 o controle dos rampillas.
 
 ## Personalidade
@@ -32,12 +32,12 @@ o controle dos rampillas.
 
 ## Papel na História
 
-- **Cap. 20-21**: no caos pós-incêndio, assume o **comando provisório dos
+- **Cap. 21-22**: no caos pós-incêndio, assume o **comando provisório dos
   rampillas sobreviventes** (único que sabe operá-los); com a chegada de
   Nolan, **entrega-lhe o comando** via raiz-mestra — cede por
   sobrevivência, não lealdade (dependência mútua: ele é o único que entende
   o jardim; Nolan é quem o mantém vivo).
-- **Cap. 28-31 (decisão 2026-08-30)**: quando Nolan retorna à Metrópole
+- **Cap. 29-32 (decisão 2026-08-30)**: quando Nolan retorna à Metrópole
   para matar Juleen, **Ossan opera os sentidos dos rampillas** deixados no
   encalço de Mário — Nolan observa à distância através deles. Ossan NÃO
   ensina o mecanismo a Nolan (Nolan é leviantar, não xilomago; e a
@@ -60,7 +60,7 @@ o controle dos rampillas.
 
 - Nome e filiação definidos em 2026-08-06. **Nem todos os xamãs eram filhos**:
   a linhagem d'Tirath monopolizava o ofício, mas havia xilomagos de fora.
-- Manter **minor** no cap. 21 — a tensão da casa morta é subtexto (um olhar,
+- Manter **minor** no cap. 22 — a tensão da casa morta é subtexto (um olhar,
   um silêncio), não drama de família.
 
 ## Prompt de Referência Canônica

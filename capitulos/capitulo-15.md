@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 14 — O Encontro"
+title: "Capítulo 15 — O Encontro"
 description: "Kate vigia os nômades. Mário surge na clareira. Um uivo de guerra anuncia o ataque."
 pov: [Kate]
 stc-beat: "Debate / Catalisador (~45-47%)"
-timeline: "Noite — mesmo período do cap. 12-13"
+timeline: "Noite — mesmo período dos caps. 13-14"
 tags: [L1, kate, nomades, mario, encontro, ataque]
 timestamp: 2026-07-25T12:00:00-03:00
 ---
@@ -54,19 +54,19 @@ O ataque está chegando.
 - 🌱 **Primeiro encontro Kate-Mário**: Ele não sabe quem ela é. Ela sente
   que ele é diferente — "pureza estranha, como se a sujeira fosse superficial"
 - 🌱 **"Você vai ficar?"**: A pergunta de Tae-Tabor ecoará quando Kate
-  escolher Mário no cap. 19.
+  escolher Mário no cap. 20.
 - 🌱 **Lakand e Devour**: A provocação de Lakand sobre matar Devour ainda
   está viva na mente de Kate.
 
 ## Conexões
 
-- [Capítulo 11](/capitulos/capitulo-11.md) — Kate viaja com os nômades
-- [Capítulo 12](/capitulos/capitulo-12.md) — Mário estava com os daërunmeges
-- [Capítulo 13](/capitulos/capitulo-13.md) — Nolan descobre que o Souhma está com os daërunmeges
+- [Capítulo 12](/capitulos/capitulo-12.md) — Kate viaja com os nômades
+- [Capítulo 13](/capitulos/capitulo-13.md) — Mário estava com os daërunmeges
+- [Capítulo 14](/capitulos/capitulo-14.md) — Nolan descobre que o Souhma está com os daërunmeges
 
 ## Notas de INGEST
 
-- Mário escapou da jaula no final do cap. 12 — quebrou o bambu, usou cinzas
+- Mário escapou da jaula no final do cap. 13 — quebrou o bambu, usou cinzas
   para disfarçar o cheiro. Lakand estava ausente da vigília.
 - O uivo é dos daërunmeges que o perseguem
 - Kate vê Mário pela primeira vez — ainda não sabe quem ele é

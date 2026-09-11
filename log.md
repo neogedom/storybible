@@ -1,5 +1,84 @@
 # Log de Atualizações
 
+## 2026-09-10 (Resoluções pós-varredura — rascunho cap. 22, beat da pregação, Ponto Central, inquiridor)
+
+- **Rascunho do cap. 22 excluído pelo autor**: referência morta limpa em `capitulos/capitulo-21.md`; o trecho (amanhecer/Mina) permanece absorvido na abertura do cap. 23.
+- **Beat "Mário prega sem cura e falha" — plano refeito**: não é capítulo próprio; a cadeia final é cap. 23 (recebe sem pedir) → cap. 25 (cura intencional: funciona e expõe a fissura "Você só quer vencer") → cap. 26 (segunda pregação: oposição, reconhecimento, fuga). A "falha" é de comunhão, não de poder. Textos atualizados: `capitulos/capitulo-23.md` (Fronteira), `conceitos/milagre.md`, `temas/esquema-l1.md`.
+- **Ponto Central resolvido: cap. 36** ("A Tomada da Mina de Quartzo", PoV Mário), ~68% — a "~55%" do esquema e o "~34-35" do outline/arco-stc eram estimativas antigas; o plano cap-a-cap tem o cap. 36. Jogos e Diversão = caps. 21-35.
+- **`personagens/inquiridor.md` corrigido (canon 2026-09-06)**: linha do cap. 7 restaurada (Nolan QUER os Inquiridores capturando qualquer Souhma; impostor morre na aferição) e linha do cap. 13 precisada (Kenod — competição de oferta).
+- **Re-ingest do cap. 25 (executado na mesma data)**: `capitulos/capitulo-25.md` realinhado ao manuscrito final; a seção do cap. 25 no `esquema-l1` corrigida e a do **cap. 26 ganhou os bullets da segunda pregação/oposição**; `index.md`, `visuais/{kate,lakand,mario}.md` e a nota da "cura intencional" em `conceitos/milagre.md` atualizados — a oposição/carroceiro fica só no cap. 26 (revisão 2026-08-30).
+
+## 2026-09-10 (F13 — Teste Anti-Slop; piloto de calibração no cap. 26)
+
+- **Novo teste no protocolo de sessão**: `conceitos/checklist-capitulo.md`
+  ganhou o **F13 — Teste Anti-Slop** (caça ao "gosto de IA"). Roda no
+  congelamento ou sob pedido — **não** por capítulo no modo privado.
+- **Piloto de calibração no cap. 26** (POV Kate): os tiques reais do material
+  são de **densidade de muleta** — símiles "como quem/como se" (16 na
+  narração), fórmula "a voz saiu + adjetivo" (8×), filtro "sentiu" (~12×),
+  abstrações como sujeito ("o ar mudou", "o peso das palavras", "o tempo
+  parou"), finais de cena sumariando a emoção (3). Tiques genéricos de
+  tradução ("engoliu em seco" etc.) = zero no material.
+- **Falsos positivos preservados**: "formigamento nas mãos" (semente #11);
+  diálogos-padrão de personagem não são muleta.
+- **Passe oficial criado (repo do Livro)**: subagente `Editor Anti-Slop`
+  (`.github/agents/editor-anti-slop.agent.md`) + comando `passe-anti-slop`
+  (`.github/prompts/passe-anti-slop.prompt.md`); no ciclo de revisão, roda
+  entre a coerência e o linguístico.
+- **Atualização (decisão do autor, mesma data)**: o passe passa a **rodar a
+  cada capítulo fechado** no modo privado (cirurgia local, na janela do
+  Mini-INGEST — ou estacionado em lote, a pedido); não espera o congelamento.
+  No congelamento permanece só a varredura final leve. Sincronizados: F13,
+  `protocolo-ingest.md` (DoD + exceção), guardrails e modo do Livro, agente e
+  prompt do passe.
+- **Arquivos**: `conceitos/checklist-capitulo.md`, `protocolo-ingest.md`,
+  `log.md`.
+
+## 2026-09-10 (Sincronização de numeração — esquema-l1.md)
+
+- **Numeração das seções de detalhe alinhada aos arquivos do livro** (numeração
+  nova): todos os labels foram re-numerados (+1 a partir do antigo cap. 2) —
+  Jogos e Diversão: caps. 21-36; Movimento 1: 21-22; Movimento 2: 23-31;
+  Movimento 3: 32-35; Ponto Central: cap. 36; tabela de notas estruturais idem.
+- **Referências cruzadas atualizadas**, incluindo correções canônicas:
+  vembra / Miram→Rastro → cap. 24; revelação Juleen (enforcamento) → cap. 32;
+  "Saramant é cinza" → cap. 26; decreto "prenda. Vivo." → cap. 18; fluência em
+  ornickenho + desejo de Lakand (A Jaula) → cap. 13; "veio da Terra" (aferição)
+  → cap. 3; Javé: caps. 21-30 não usam, reveal no cap. 31.
+- **Cabeçalho**: lista de capítulos escritos atualizada para 0-26; nota de
+  sincronização adicionada; aviso de numeração antiga (Vilões em diante)
+  reformulado.
+- **Pendências sinalizadas ao autor**: "pacifismo do cap. 2" (→3);
+  "Mário prega sem cura e falha" (→24; sem capítulo canônico correspondente na
+  sequência atual); linha "O arco de Kate" da tabela (beats de 25/28 podem
+  pertencer ao cap. 26); conteúdo do cap. 27 ainda com Cristálides (decisões de
+  2026-09-07 pendentes de aplicação na seção).
+- **Arquivos**: `temas/esquema-l1.md`, `log.md`.
+
+## 2026-09-10 (Varredura completa de numeração — storybible)
+
+- **Repositório inteiro sincronizado à numeração nova** (+1 a partir do antigo
+  cap. 2; caps. 0-1 inalterados): `capitulos/` (títulos, frontmatter e refs),
+  `visuais/`, `lugares/`, `temas/`, `personagens/`, `conceitos/`, `insights/`,
+  `decisoes/` e `index.md`.
+- **Arquivos renomeados** (numeração nos nomes): `decisoes/glossolalia-invertida-oracao-cap19.md`
+  → `...-cap20.md`; `decisoes/cartas-cap23-versao-b.md` → `...-cap24-versao-b.md`;
+  `decisoes/eu-sou-sermao-feira-tronk-cap24.md` → `...-cap25.md`;
+  `decisoes/oposicao-pregacao-cap24-para-cap26.md` → `...-cap25-para-cap26.md`
+  (links de entrada atualizados).
+- **Correções canônicas aplicadas na varredura**: enforcamento de Juleen →
+  cap. 32 (não 31); revelação vembra/Mira → cap. 24; confissão "Saramant é
+  cinza" → cap. 26; decreto "prenda. Vivo." → cap. 18.
+- **Notas históricas**: entradas anteriores deste log mantêm a numeração da
+  época (ver nota de 2026-09-03); paths de arquivos renomeados foram
+  atualizados para não quebrar links.
+- **Pendências sinalizadas**: "Mário prega sem cura e falha" sem capítulo
+  canônico correspondente; `Livro 1/rascunho-capitulo22.md` citado mas
+  inexistente; divergência do Ponto Central (34-35 vs. 36) entre `outline` e
+  `esquema`; linha do cap. 7 na tabela de `personagens/inquiridor.md` (canon
+  invertido em 2026-09-06).
+- **Arquivos**: todos os acima + `index.md`, `log.md`.
+
 ## 2026-09-05 (Geografia de Ornick — filosofia hegralista + reconciliação da Academia)
 
 - **Filosofia hegralista registrada a partir da fonte** ("Geografia geral de
@@ -116,7 +195,7 @@
   ecoando palavra por palavra a oração do cap. 19. "Javé" permanece
   reservado para o cap. 30 (canon 2026-08-10).
 - **Arquivos**: `Livro 1/capitulo24.md` (linha 83 — ancoragem aplicada),
-  `decisoes/eu-sou-sermao-feira-tronk-cap24.md` (novo), `log.md`.
+  `decisoes/eu-sou-sermao-feira-tronk-cap25.md` (novo), `log.md`.
 
 ## 2026-08-30 (decisão — Nolan retorna à Metrópole; caçada via rampillas)
 
@@ -179,7 +258,7 @@
 - **Decisão do autor (cartas versão B)**: Nolan não pede a revogação da
   recompensa a Genocydo. Carta ao Rei semeia a dúvida (sem se expor); carta
   a Koda usa o argumento da dívida (a língua do Mestre da Moeda); carta a
-  Layla investiga a vembra. Ver `decisoes/cartas-cap23-versao-b.md`.
+  Layla investiga a vembra. Ver `decisoes/cartas-cap24-versao-b.md`.
 - **Correções aplicadas no texto**: cartas reescritas (versão B); "Souhma"
   ancorado no assentamento (a velha murmura o termo — Nolan o ouve e o
   guarda); erros crassos corrigidos (Chavama → Chamava; "apontou com o
@@ -195,7 +274,7 @@
   que o levará a Cressadar e Terbs no fim do L1.
 - **Arquivos**: `Livro 1/capitulo23.md` (correções), `capitulos/capitulo-23.md`
   (atualizado), `temas/esquema-l1.md`, `temas/sementes.md`,
-  `personagens/{mira,mathias,juleen}.md`, `decisoes/cartas-cap23-versao-b.md`
+  `personagens/{mira,mathias,juleen}.md`, `decisoes/cartas-cap24-versao-b.md`
   (novo), `log.md`.
 
 ## 2026-08-30 (decisões — cartas do cap. 23 versão B; vembra no 23; cena Nolan/Juleen)
@@ -224,7 +303,7 @@
   leviantar de casta baixa).
 - **Arquivos**: `temas/esquema-l1.md` (caps. 21, 23), `temas/sementes.md`
   (#6), `personagens/mira.md`, `personagens/mathias.md`,
-  `personagens/juleen.md`, `decisoes/cartas-cap23-versao-b.md` (novo),
+  `personagens/juleen.md`, `decisoes/cartas-cap24-versao-b.md` (novo),
   `log.md`.
 
 ## 2026-08-29 (revisão cap. 22 — 2ª rodada do fluxo por capítulo)
@@ -327,12 +406,12 @@
 ## 2026-08-17 (canon — cap. 20 fechado; manto visto pelo POV; trecho movido p/ cap. 22; sync da mecânica da Voz)
 
 - **Manto de Tharin (POV)**: cena do cap. 20 reescrita — Mário, dono do PoV, não viu o enterro (cap. 5, POV Kate); agora ELE VÊ Kate desenterrar a cova do mocambo queimado e tirar o manto dos ombros do corpo de Tharin (pragmatismo sem culpa). Resolve a dúvida do autor sobre o manto "enterrado sozinho" — o manto estava COM Tharin (ver `decisoes/manto-xilomagia-tharin.md`).
-- **Trecho do amanhecer/Mina MOVIDO do cap. 20**: cap. 20 termina em "E adormeceu." (fecho no protesto/Jó). O trecho (riacho, mãos, pitch da Mina) vai para a abertura de um capítulo depois do 21 (o 21 é POV Nolan) — salvo em `Livro 1/rascunho-capitulo22.md`; POV a decidir (Mário ou Kate — o pitch é o plano dela, ironia dramática).
+- **Trecho do amanhecer/Mina MOVIDO do cap. 20**: cap. 20 termina em "E adormeceu." (fecho no protesto/Jó). O trecho (riacho, mãos, pitch da Mina) vai para a abertura de um capítulo depois do 21 (o 21 é POV Nolan) — salvo em rascunho do cap. 22 (excluído em 2026-09-10; conteúdo absorvido no cap. 23); POV a decidir (Mário ou Kate — o pitch é o plano dela, ironia dramática).
 - **"não conseguiu transformar em oração" descartado**: Mário não oraria nessa situação (está irado com Deus); a linha atual ("transformou o pouco de suas forças em lágrimas secas, em silêncio, em febre") é mais coerente.
 - **Parágrafo do controle teológico removido** ("O controle era o vício dele") — autor: explicava demais; Mário ainda não pode nomear o caco; a acusação de Jó opera sem autoconsciência.
 - **Identificação de Deus confirmada (fecha pendente 2026-08-16)**: Mário reconhece a Voz como Deus no cap. 20 (prova inequívoca: orou + ressuscitou) e responde com RAIVA. No cap. 26, a Voz dá a "enquadrada" em Mário por causa dessa raiva (confronto com os dois argumentos de ação oculta — ver `temas/esquema-l1.md` cap. 26).
-- **Sync da mecânica da Voz (fecha pendentes anteriores)**: `decisoes/glossolalia-invertida-oracao-cap19.md` (Mecânica da Voz → ditado na mente + própria voz, sem possessão; distinção do cap. 12), `capitulos/capitulo-12.md` (fluência habilitada, não possessão), `capitulos/capitulo-19.md` (Mário LEMBRA do ditado; testemunha consciente).
-- **Arquivos**: `Livro 1/capitulo20.md`, `Livro 1/rascunho-capitulo22.md`, `decisoes/glossolalia-invertida-oracao-cap19.md`, `capitulos/capitulo-12.md`, `capitulos/capitulo-19.md`, `log.md`.
+- **Sync da mecânica da Voz (fecha pendentes anteriores)**: `decisoes/glossolalia-invertida-oracao-cap20.md` (Mecânica da Voz → ditado na mente + própria voz, sem possessão; distinção do cap. 12), `capitulos/capitulo-12.md` (fluência habilitada, não possessão), `capitulos/capitulo-19.md` (Mário LEMBRA do ditado; testemunha consciente).
+- **Arquivos**: `Livro 1/capitulo20.md`, rascunho do cap. 22 (excluído em 2026-09-10; absorvido no cap. 23), `decisoes/glossolalia-invertida-oracao-cap20.md`, `capitulos/capitulo-12.md`, `capitulos/capitulo-19.md`, `log.md`.
 - **Mini-INGEST cap. 20 (2026-08-17)**: `capitulos/capitulo-20.md` criado; visuais Mário/Kate/Lakand atualizados; tabela do esquema atualizada; fronteira p/ cap. 21 (Nolan) ok.
 
 ## 2026-08-16 (canon — ódio racial de Nolan: cristaliza na misatribuição, não na verdade)
@@ -1131,7 +1210,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-07-31 (2ª operação)
 
 - **Decisão**: Glossolalia invertida — Mário ora "Eu Sou" em ornickenho no
-  cap. 19 (`decisoes/glossolalia-invertida-oracao-cap19.md`). Texto canônico
+  cap. 19 (`decisoes/glossolalia-invertida-oracao-cap20.md`). Texto canônico
   da oração definido com apoio do Consultor Teológico.
 - **Criação**: Insight "Eu Sou" — nome de Deus em Ornick
   (`insights/eu-sou-nome-de-deus.md`). "Javé" reservado para revelação futura.

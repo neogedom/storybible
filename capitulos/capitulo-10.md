@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 9 — O Diário Perdido"
+title: "Capítulo 10 — O Diário Perdido"
 description: "Layla entrega a Bíblia de Kraviam a Nolan, mas não consegue o diário de Genocydo. Nolan descobre que a prova da usurpação ainda está no Castelo."
 pov: [Nolan]
 stc-beat: "Debate (~26-30%)"
-timeline: "Dias após cap. 6"
+timeline: "Dias após cap. 7"
 tags: [L1, nolan, layla, genocydo, biblia, diario]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
@@ -59,6 +59,6 @@ não pode — se a acusar, se condena. Ela sabe demais.
 ## Conexões
 
 - [Layla](/personagens/layla.md) — Espiã de Nolan, informante
-- [Capítulo 3](/capitulos/capitulo-03.md) — Koda sugeriu conspiração
+- [Capítulo 4](/capitulos/capitulo-04.md) — Koda sugeriu conspiração
 - [Sementes](/temas/sementes.md) — Semente 2 (Bíblia de Kraviam)
 - [Lupe'i](/personagens/lupei.md) — Mencionado como protegido de Genocydo

@@ -6,7 +6,7 @@ tags: [visual, timeline, mira]
 timestamp: 2026-08-26
 ---
 
-## Capítulo 23 — O Rastro
+## Capítulo 24 — O Rastro
 
 - **Vestimenta**: roupas simples de viagem, Saboc enfaixado contra o peito
 - **Postura**: sentada numa mula, embalando o bebê

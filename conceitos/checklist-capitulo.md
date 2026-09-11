@@ -141,6 +141,40 @@ Confira o ritmo esperado na tabela abaixo. O capítulo está alinhado?
 - [ ] **Aprovado com ressalvas** — anotar o que precisa de atenção no futuro
 - [ ] **Reprovado** — reestruturar antes de avançar (se mais de uma cena foi considerada cortável, ou se o desvio STC >10 pontos)
 
+### F13. Teste Anti-Slop ("gosto de IA")
+
+> Caça ao texto com cara de gerado. **No modo privado roda a cada capítulo
+> fechado** (cirurgia local, na janela do Mini-INGEST — ou estacionado em
+> lote, a pedido). No ciclo de revisão (congelamento), roda **entre a
+> coerência (2) e o polimento linguístico (3)** — a linguística fica como rede
+> de segurança da cirurgia. Quando rodar junto do fechamento, aplicar **antes**
+> do veredito (F12).
+> Lista calibrada pelo piloto do cap. 26 (2026-09-10). Atualizar a cada passe
+> com achados do material — priorizar contadores de densidade, não listas
+> genéricas de tradução.
+
+**Conteúdo que denuncia:**
+
+- [ ] Nenhuma frase "traduz" a cena ou o sentimento do personagem (explica o significado para o leitor) — cortar
+- [ ] Fechamento de argumento termina em **transação ou evidência** — zero aforismo/máxima de efeito
+- [ ] Abstração como sujeito ("o ar mudou", "o peso das palavras", "o tempo parou") — trocar por corpo, ação ou detalhe concreto
+- [ ] Finais de cena: no máximo **um** sumariando a emoção em eco por capítulo
+- [ ] Diálogo: existe resposta deslocada ou interrupção; ninguém entrega "a fala mais inteligente possível" por reflexo
+- [ ] Léxico contemporâneo/terapêutico ("processar", "lidar com", "acessar") conferido contra o tom
+
+**Muletas de construção (contar):**
+
+- [ ] "como quem / como se" em excesso — cortar os genéricos ("como quem descansa", "como quem puxa conversa"); manter só os que caracterizam personagem ou mundo (cap. 26: 16 na narração)
+- [ ] "A voz saiu + adjetivo" — variar com "disse" seco (cap. 26: 8×)
+- [ ] Filtro "sentiu / percebeu / notou" — render direto quando der (cap. 26: ~12×)
+- [ ] "não X, mas Y" não seriado (máx. 1–2 por capítulo); sem trios de adjetivos em cascata
+- [ ] Cluster léxico contado ("peso", "ar", "silêncio", "olhar" — cap. 26: "peso" 7×, "ar" 3×)
+
+**Verificação final:**
+
+- [ ] Teste de boca: ler em voz alta (ou gerar áudio). Se soa locução, reescrever
+- [ ] Falsos positivos preservados: "formigamento nas mãos" (Kate = semente #11); ecos de canon e set pieces de personagem (o debate do cap. 26) não são tique por si
+
 ---
 
 ## Tabela de Funções por Beat (referência)

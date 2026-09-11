@@ -1,7 +1,7 @@
 ---
 type: Location
 name: Estalagem do Vau
-primeiro_capitulo: 18
+primeiro_capitulo: 19
 ---
 
 # Estalagem do Vau

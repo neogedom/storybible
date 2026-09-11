@@ -19,7 +19,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Múltiplas, visíveis                |
 | Expressão  | Predatória, alerta                 |
 
-## Capítulo 25 — O Preço da Fama
+## Capítulo 26 — O Preço da Fama
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - _Não aparece_
 
-## Capítulo 19 — O Calabouço
+## Capítulo 20 — O Calabouço
 
 - Forma: **híbrida** (mais fera do que homem) — desmanche quando diz "— Kate."
 - Pelagem: **chamuscada em tufos**, grudada nas cicatrizes
@@ -44,29 +44,29 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: fogo do incêndio, fumaça rente ao teto
 - Fundo: corredor do calabouço em chamas
 
-## Capítulo 20 — A Fuga
+## Capítulo 21 — A Fuga
 
 - Forma: híbrida atenuada (mais homem do que fera; ainda fareja e vigia como
   predador)
-- Pelagem: chamuscada do fogo (ch19)
+- Pelagem: chamuscada do fogo (ch20)
 - Expressão: alerta; "tom de luto" ao ver Saramant queimar; tensão silenciosa
   com Kate (dívida do ch19)
 - Iluminação: clarão do incêndio → floresta/cinza
 - Fundo: perímetro do castelo em chamas; cabana de Kate
 
-## Capítulo 22 — O Assentamento
+## Capítulo 23 — O Assentamento
 
 - Forma: híbrida atenuada (mais homem do que fera)
-- Pelagem: chamuscada do fogo (ch19), ainda marcada
+- Pelagem: chamuscada do fogo (ch20), ainda marcada
 - Expressão: distante, deslocado — não olha para Kate; senta longe, costas contra árvore
 - Iluminação: luz de fogueira, entardecer
 - Fundo: acampamento de refugiados, borda da clareira
 
-## Capítulo 24 — A Feira de Tronk
+## Capítulo 25 — A Feira de Tronk
 
 - Forma: híbrida atenuada (mais homem do que fera)
-- Pelagem: chamuscada do fogo (ch19), ainda marcada
-- Expressão: silencioso, na borda da feira; se posiciona entre Mário e os carroceiros sem palavra; observa o curado com o antigo aperto
+- Pelagem: chamuscada do fogo (ch20), ainda marcada
+- Expressão: silencioso, na borda da feira, longe das pessoas; força Mário a comer na trilha; no fecho, recebe Mário ao seu lado
 - Iluminação: luz do dia, feira movimentada
 - Fundo: borda da feira, longe das pessoas
 

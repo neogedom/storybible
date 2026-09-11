@@ -34,24 +34,24 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 
 ## Evolução da Voz (canon 2026-08-15 — opção B)
 
-- **Companheiro falante APENAS com Kate** antes do endurecimento (caps. 8-12):
+- **Companheiro falante APENAS com Kate** antes do endurecimento (caps. 9-13):
   aberto, às vezes bem-humorado — mas NUNCA analista político, ensaísta ou
   stand-up (essas falas devem ser cortadas/condensadas). A fala continua
   curta mesmo quando falante.
-- **Emoção explicada é RARÍSSIMA**: o monólogo "Eu quero ser gente" (cap. 12)
+- **Emoção explicada é RARÍSSIMA**: o monólogo "Eu quero ser gente" (cap. 13)
   é a ÚNICA confissão de interioridade do L1 — e é a âncora trágica do L2
   (o homem que queria ser "gente" vira recrutador da Hoste de Hícse).
-- **Endurecimento gradual pós-massacre** (cap. 15, Tae-Tabor; caps. 17-19):
-  a fala diminui; caps. 19-20 = fera silenciosa (já escrito assim).
-- **Primeira fala pós-endurecimento (canon 2026-08-22 — cap. 22):** "O que
+- **Endurecimento gradual pós-massacre** (cap. 16, Tae-Tabor; caps. 18-20):
+  a fala diminui; caps. 20-21 = fera silenciosa (já escrito assim).
+- **Primeira fala pós-endurecimento (canon 2026-08-22 — cap. 23):** "O que
   ele está fazendo?" / "Ele... curou? Com magia?" — falas curtas, funcionais,
   de testemunha da cura da criança paralítica. Não quebra o endurecimento
   (não é confissão emocional).
-- **Confissão emocional (cap. 25 — movida pela decisão 2026-08-30):**
+- **Confissão emocional (cap. 26 — movida pela decisão 2026-08-30):**
   "Saramant é cinza. Por você." — Lakand nomeia a ruína e o motivo. É a
-  ÚNICA confissão de interioridade no L1 além do monólogo do cap. 12.
-  O cap. 24 (Tronk) não repete o "primeiro som" — a confissão ficou no 25
-  por consequência natural da cadeia causal (oposição movida para o 25).
+  ÚNICA confissão de interioridade no L1 além do monólogo do cap. 13.
+  O cap. 25 (Tronk) não repete o "primeiro som" — a confissão ficou no 26
+  por consequência natural da cadeia causal (oposição movida para o 26).
 - **L2**: a corrupção por Mesmia é mais trágica por termos visto o Lakand
   "gente" — o discurso do recrutador da Hoste ecoa o desejo de ser
   importante ("voltar a ser importante").
@@ -60,7 +60,7 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 
 1. Aliado de Kate na floresta de Saramant
 2. Ajuda Kate a fugir com Mário após o milagre de Saboc
-3. **Cap. 19**: Mata Devour (fora de cena), invade o calabouço, arromba a
+3. **Cap. 20**: Mata Devour (fora de cena), invade o calabouço, arromba a
    cela de Mário e guia a fuga. Confronta Kate com a escolha e percebe a
    perda ("eu perdi" no olhar) — semente de afastamento.
 4. **L2**: Alia-se a Benjamim contra o reino de Mário. Corrompido por
@@ -68,7 +68,7 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
    2026-08-12): viaja a Gondor para arregimentar o último veterano da era
    de ouro (Lordes Defuntos) — oferece-lhe **"voltar a ser importante"**.
    A ironia é total: o caçador de vampiros (que salvou os nômades deles,
-   cap. 11) vira o **arauto do caçado**. PoV **limitado** do arco Vilões
+   cap. 12) vira o **arauto do caçado**. PoV **limitado** do arco Vilões
    se Aproximam (não co-líder). Ver `conceitos/lordes-defuntos.md`.
 
 ## Relações
@@ -83,7 +83,7 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 
 ## Arco Narrativo
 
-### Capítulo 19 — O Calabouço
+### Capítulo 20 — O Calabouço
 
 - **Ateia o fogo de propósito (decisão 2026-08-03):** sozinho não vence os
   rampillas em combate direto; incendeia a toca (resina = combustível) e o
@@ -108,14 +108,14 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
   descontrolado; na fuga o faro dele fica inutilizado pela fumaça — ele se
   desorienta e rasteja rente ao chão (fumaça sobe). Semente de deslocamento
   que culmina na aliança com Benjamim no L2.
-- **Confissão (semente, cap. 24 POV Kate):** em momento de quietude, Lakand
+- **Confissão (semente, cap. 26 POV Kate):** em momento de quietude, Lakand
   nomeia a ruína: "Saramant é cinza." / "E por quê?" / "Por você." Entrega
   a DEVASTAÇÃO (mortes, deslocados, a floresta que ele mesmo caçava), não o
-  amor (já percebido por Kate no cap. 19). Dívida em aberto — nunca resolvida
+  amor (já percebido por Kate no cap. 20). Dívida em aberto — nunca resolvida
   no L1.
 - Permanece com Kate e Mário na fuga (pergunta em aberto: por quanto tempo?)
 
-### Capítulo 20 — A Fuga (forma plena)
+### Capítulo 21 — A Fuga (forma plena)
 
 - **1ª aparição em forma plena de lobo (canon 2026-08-04):** carrega Mário
   pela floresta em chamas — velocidade, visão noturna, rasteja rente ao chão
@@ -129,15 +129,15 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 ## Notas de Coerência — Como Lakand Soube (canon 2026-08-04)
 
 - Lakand **NÃO estava com a alcateia que perseguiu Mário** — ele é batedor
-  (cap. 8) e estava em serviço.
+  (cap. 9) e estava em serviço.
 - Ao perceber que a alcateia demorava demais, foi ao encontro dela — e
-  encontrou o massacre (cap. 15): a alcateia de Kenod dizimada.
+  encontrou o massacre (cap. 16): a alcateia de Kenod dizimada.
 - **Lakand NÃO culpa Mário pela morte da alcateia** (decisão 2026-08-04). Se
-  carregasse culpa/rivalidade, repetiria o arco de Decian (cap. 16, "Vi os
+  carregasse culpa/rivalidade, repetiria o arco de Decian (cap. 17, "Vi os
   meus morrendo"). A perda é luto silencioso, sem alvo — nunca nomeado.
-- Do massacre, seguiu o rastro: Kate fugiu com Mário (cap. 17) e foi
+- Do massacre, seguiu o rastro: Kate fugiu com Mário (cap. 18) e foi
   capturada perto de Devour (sangue do ombro, marcas de arrasto, cheiro de
-  rampilla). O rastro + o rumor ("forasteiro levado a Devour", cap. 16)
+  rampilla). O rastro + o rumor ("forasteiro levado a Devour", cap. 17)
   convergem na fortaleza.
 - Esperou na borda de Devour até a janela abrir: parto de Dagmar (caos) + o
   fogo que ele mesmo ateia = a entrada. Por isso aparece no pico do caos.
@@ -145,7 +145,7 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
   suficiente") — disciplina de POV correta. Este registro é só canon de
   apoio.
 
-### Capítulo 12 — A Jaula
+### Capítulo 13 — A Jaula
 
 - Retorna da patrulha; assume vigília de Mário
 - Percebe que Mário não tem "cheiro de deus" — é vazio
@@ -158,7 +158,7 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 - Quando Lakand souber, deve estar **em luto** — tristeza contida, não raiva explosiva
 - Essa perda deve pesar em suas decisões futuras
 
-### Capítulo 8 — A Caverna
+### Capítulo 9 — A Caverna
 
 - Caça com Kate em Saramant — vampiros mortos
 - Revela que Charles foi para Opium

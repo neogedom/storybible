@@ -1,7 +1,7 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 19
+capitulo: 20
 titulo: "O Bebê"
 pov: Kate
 beat_stc: Break Into 2
@@ -27,12 +27,12 @@ sementes:
   - Kate vê Mário como arma (não como protegido)
   - Lakand afastado ("eu perdi")
   - Saboc vivo pelo milagre de Mário
-  - Manto de xilomagia de Tharin — Kate o recupera no cap. 20 (ver decisoes/)
+  - Manto de xilomagia de Tharin — Kate o recupera no cap. 21 (ver decisoes/)
   - Glossolalia invertida — Mário ora "Eu Sou" em ornickenho (ver decisoes/)
   - Mathias ouve a oração — pode relatar a Nolan "um deus acima do Limbo"
 ---
 
-# Capítulo 19 — O Bebê
+# Capítulo 20 — O Bebê
 
 ## Resumo
 
@@ -50,11 +50,11 @@ aconteceu com o bebê?" e ordena "Traga ele aqui." / "Traga. Por favor."
 Estende a mão, toca a cabeça da criança — e a **Voz o incita a orar**.
 Mário balbucia, em ornickenho (renderizado em português para o leitor), uma
 oração ditada: nomeia "Eu Sou", o deus acima do Limbo, recusa oferta e pede
-apenas misericórdia (ver `decisoes/glossolalia-invertida-oracao-cap19.md`).
+apenas misericórdia (ver `decisoes/glossolalia-invertida-oracao-cap20.md`).
 O bebê tosse, volta a respirar e chora.
 
 Kate OUVE e ENTENDE as palavras — a primeira oração da vida dela a um deus
-que não cobra. Fica com a pergunta que abrirá o cap. 20: **"com quem você
+que não cobra. Fica com a pergunta que abrirá o cap. 21: **"com quem você
 estava falando?"**. Mário **lembra** que repetiu, palavra por palavra, a
 oração que a Voz ditou na mente dele; não compôs, apenas repetiu com a
 própria voz. A Voz assume a autoria; Mário é testemunha consciente do
@@ -137,7 +137,7 @@ Mas vai usar.
   (dito pelo soldado: "O senhor Nolan está lá em cima, segurando a mão dela")
 - Não sabe que Mathias tirou o corpo do bebê do quarto
 - Perde a esposa e o filho (morto, depois revivido) no mesmo evento
-- Sobrevive ao incêndio com Saboc (via Mathias — cap. 21, cold-open POV Nolan)
+- Sobrevive ao incêndio com Saboc (via Mathias — cap. 22, cold-open POV Nolan)
 
 ### Lakand
 
@@ -152,7 +152,7 @@ Mas vai usar.
 - Arromba a cela de Mário, guia a fuga (faro inutilizado pela fumaça — custo)
 - Paga o custo: a floresta que caça (Saramant) arde no fogo descontrolado
 - **Nota de coerência (2026-08-04):** Lakand NÃO estava com a alcateia que
-  perseguiu Mário (batedor em serviço); achou a alcateia dizimada (cap. 15)
+  perseguiu Mário (batedor em serviço); achou a alcateia dizimada (cap. 16)
   e rastreou Kate até Devour. Não culpa Mário pela morte da alcateia (evita
   repetir o arco de Decian). Ver `personagens/lakand.md`.
 
@@ -165,42 +165,42 @@ Mas vai usar.
 
 ### Dagmar (†)
 
-- Morte fora de cena (fim do cap. 18, POV Nolan — parto; o bebê nasce sem ar)
+- Morte fora de cena (fim do cap. 19, POV Nolan — parto; o bebê nasce sem ar)
 - Corpo levado em lençol manchado de vermelho na altura do ventre; braço
   fino pendendo, anel de prata no dedo (reconhecido por Kate)
 - Corpo deixado no andar de cima quando o castelo queima — enterro em aberto
-  (verificação LINT: o corpo não é retirado no cap. 19)
+  (verificação LINT: o corpo não é retirado no cap. 20)
 
 ### Saboc (bebê de Dagmar)
 
-- Nasce morto, atravessado (fim do cap. 18)
-- Ressuscitado pelo toque de Mário + a oração "Eu Sou" (cap. 19)
+- Nasce morto, atravessado (fim do cap. 19)
+- Ressuscitado pelo toque de Mário + a oração "Eu Sou" (cap. 20)
 - Chora nos braços de Mathias
 
 ## Sementes Plantadas
 
 1. **Kate vê Mário como arma**: "Se levasse, virava arma" — muda a dinâmica
-   Kate/Mário para todo o Jogos e Diversão (cap. 20-34). Kate será a
+   Kate/Mário para todo o Jogos e Diversão (caps. 21-35). Kate será a
    estrategista que usa o milagre como estopim.
 2. **Lakand afastado**: "eu perdi" no olhar — semente do distanciamento
    que culmina na aliança dele com Benjamim no L2.
 3. **Saboc vivo**: O bebê de Dagmar e Nolan sobreviveu pelo milagre. Nolan
-   não sabe. Semente para o cap. 21 (Nolan segura o filho nos braços).
-4. **Manto de xilomagia de Tharin**: A recuperar no cap. 20 — Kate o
+   não sabe. Semente para o cap. 22 (Nolan segura o filho nos braços).
+4. **Manto de xilomagia de Tharin**: A recuperar no cap. 21 — Kate o
    desenterrará para usar como camuflagem na jornada (ver `decisoes/`).
-5. **Mário sabe que repetiu, mas não compôs**: A crise teológica do cap. 20
+5. **Mário sabe que repetiu, mas não compôs**: A crise teológica do cap. 21
    ("Por que este bebê e não Lucas?") está preparada — a Voz agiu sem o
    consentimento consciente dele (ele repetiu o que foi ditado).
 6. **Glossolalia invertida**: A oração "Eu Sou" em ornickenho (ditada pela
    Voz) é ouvida e entendida por Kate. A pergunta "com quem você estava
-   falando?" abre o cap. 20 e move a curiosidade dela na jornada até a Mina.
-   Ver `decisoes/glossolalia-invertida-oracao-cap19.md` e
+   falando?" abre o cap. 21 e move a curiosidade dela na jornada até a Mina.
+   Ver `decisoes/glossolalia-invertida-oracao-cap20.md` e
    `insights/eu-sou-nome-de-deus.md`.
 7. **Mathias e Nolan**: Mathias ouve a oração; na distribuição, pode relatar
    a Nolan que o Souhma "rezou a um deus acima do Limbo" — o _click_
    perigoso de Nolan, que já conhece a heresia do livro de Genocydo.
-8. **Desejo enterrado de Kate (cross-livro)**: O cap. 19 é o contexto de
-   reforço da semente do cap. 8 — Kate presencia o parto e a ressurreição
+8. **Desejo enterrado de Kate (cross-livro)**: O cap. 20 é o contexto de
+   reforço da semente do cap. 9 — Kate presencia o parto e a ressurreição
    de Saboc em modo defesa (ódio ao parto), sem abrir a fresta. Germinação
    no L2: Kate aceita ter filhos de Mário (ver `temas/sementes.md` #11).
 
@@ -209,7 +209,7 @@ Mas vai usar.
 - **Beat**: Break Into 2 (fim da transição)
 - **Avanço**: O impossível acontece; Kate cruza o limiar ativamente; o mundo
   antigo (Devour) queima atrás deles.
-- **Próximo**: Cap. 20 (POV Mário) — A Fuga. Crise da Voz, raciocínio abdutivo
+- **Próximo**: Cap. 21 (POV Mário) — A Fuga. Crise da Voz, raciocínio abdutivo
   sobre os rampillas, recuperação do manto, plantio da Mina de Quartzo como
   destino.
 
@@ -232,7 +232,7 @@ Mas vai usar.
 - **Mathias:** ficha criada (`personagens/mathias.md`) — fogo nas armas
   (treino padrão dos Espadas da Lei) + contra-fogo/firebreak na fuga do
   incêndio, com limite estrito (não apaga, não domina fumaça, alcance curto,
-  exaustão/queimaduras). Cena no cold-open do cap. 21 (POV Nolan).
+  exaustão/queimaduras). Cena no cold-open do cap. 22 (POV Nolan).
 - **Plantas-espia (precisão 2026-08-04):** o fogo cega a rede de Devour pelo
   canal **canônico** — o calor inunda a rede sensorial (elas sentem
   vibração/calor, NÃO odor) + queima as espias de superfície. Os **odores** do
@@ -244,7 +244,7 @@ Mas vai usar.
   24, ver `temas/sementes.md` #12).
 - **Forma de Lakand (decisões 2026-08-04, 2 e 3):** desmanche no calabouço
   (híbrida → homem quando ele diz "— Kate.") e 1ª forma plena de lobo na
-  floresta (cap. 20, carregando Mário). Ver `conceitos/daerunmeges.md` e
+  floresta (cap. 21, carregando Mário). Ver `conceitos/daerunmeges.md` e
   `personagens/lakand.md`.
 
 ## Notas de Sincronização (2026-08-06)
@@ -261,7 +261,7 @@ Revisão do INGEST contra o texto final publicado (LINT). Correções aplicadas:
   mão de Dagmar), informado pelo soldado.
 - **Corpo de Dagmar em aberto**: a última imagem de Kate é o corpo "gelando
   no andar de cima" enquanto o castelo queima. O texto não retira o corpo.
-  Verificar no cap. 21/22 se há enterro (a nota antiga de distribuição — "o
+  Verificar nos caps. 22/23 se há enterro (a nota antiga de distribuição — "o
   comboio volta com o corpo de Dagmar" — não é confirmada pelo texto final).
 - **Cressadar (callback)**: a âncora do brasão do Conselho confirma o canon
   de 2026-08-01 — Kate foi treinada por Benjamim Cressadar/Gaviorn'l, não
@@ -269,8 +269,8 @@ Revisão do INGEST contra o texto final publicado (LINT). Correções aplicadas:
 
 ## Conexões
 
-- [Cap. 18](/capitulos/capitulo-18.md) — Nolan vê Mário na cela; Dagmar morre no parto
-- [Cap. 5](/capitulos/capitulo-05.md) — Tharin e o manto de xilomagia
+- [Cap. 19](/capitulos/capitulo-19.md) — Nolan vê Mário na cela; Dagmar morre no parto
+- [Cap. 6](/capitulos/capitulo-06.md) — Tharin e o manto de xilomagia
 - [Kate](/personagens/kate.md)
 - [Mário](/personagens/mario.md)
 - [Lakand](/personagens/lakand.md)

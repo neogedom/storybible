@@ -1,8 +1,8 @@
 ---
 type: Decision
-title: Chekhov's Gun do manto de xilomagia de Tharin — Kate recupera no cap. 20
-description: Decisão de disparar a semente do manto introduzido no cap. 5 — Kate desenterra Tharin e recupera o manto durante a fuga do castelo de Devour. Canon 2026-08-14: gatilho de ativação, carga finita, recarga por ritual de xilomago.
-tags: [decisao, L1, manto, xilomagia, tharin, kate, cap-20, ossan]
+title: Chekhov's Gun do manto de xilomagia de Tharin — Kate recupera no cap. 21
+description: Decisão de disparar a semente do manto introduzido no cap. 6 — Kate desenterra Tharin e recupera o manto durante a fuga do castelo de Devour. Canon 2026-08-14: gatilho de ativação, carga finita, recarga por ritual de xilomago.
+tags: [decisao, L1, manto, xilomagia, tharin, kate, cap-21, ossan]
 timestamp: 2026-08-14T12:00:00-03:00
 ---
 
@@ -12,7 +12,7 @@ timestamp: 2026-08-14T12:00:00-03:00
 
 O manto de anéis de madeira (xilomagia, do **domínio de Devour** — criado por
 um xamã-xilomago da corte, NÃO por um rampilla; canon 2026-08-06) foi
-introduzido no **cap. 5** — Tharin o roubou de um xilomago de Devour e o usou
+introduzido no **cap. 6** — Tharin o roubou de um xilomago de Devour e o usou
 para se camuflar na floresta. Kate matou Tharin no mesmo capítulo e o enterrou **com
 o manto** numa cova dentro de um mocambo queimado, no antigo cemitério
 próximo à cabana dela.
@@ -21,7 +21,7 @@ O manto nunca mais foi mencionado. É uma Chekhov's Gun adormecida.
 
 ## Decisão
 
-**Kate recupera o manto no início do capítulo 20**, durante a fuga do castelo
+**Kate recupera o manto no início do capítulo 21**, durante a fuga do castelo
 de Devour. Escolha da **Opção 1** entre as quatro propostas (1 = Kate
 recupera; 2 = Gaviorn'l encontra como pista; 3 = Mário usa; 4 = nunca
 disparar).
@@ -33,7 +33,7 @@ disparar).
 - O manto tem valor tático imediato: camuflagem na floresta, exatamente o
   que um grupo fugitivo com um ferido (Mário) precisa para atravessar
   território hostil.
-- Fecha um ciclo narrativo do cap. 5 sem exigir novos fios.
+- Fecha um ciclo narrativo do cap. 6 sem exigir novos fios.
 
 ### Viabilidade geográfica (validada)
 
@@ -42,7 +42,7 @@ disparar).
 - Desvio de **minutos**, não de horas.
 - Janela segura: Devour morto, rampillas dispersos, castelo em chamas.
 
-### Cena sugerida (cap. 20)
+### Cena sugerida (cap. 21)
 
 Lakand guia a fuga. Kate pede um desvio rápido ("minha cabana, preciso de uma
 coisa"), vai até o mocambo queimado, desenterra Tharin, recupera o manto.
@@ -58,10 +58,10 @@ respeito, apenas pragmatismo.
   portador (Kate não tem magia; usa disciplina de caçadora).
 - **Efeito**: camuflagem com a **madeira presente no ambiente** (viva ou
   trabalhada). Floresta = camuflagem total (a "cortina de gravetos" do cap.
-  5). Mina/túnel/cidade = situacional (madeiramento, vigas, carroças,
+  6). Mina/túnel/cidade = situacional (madeiramento, vigas, carroças,
   mobília). Pedra nua sem madeira = falha.
 - **Tell**: movimento rápido ou fôlego alto **quebram a trama** (gravetos
-  chacoalham — o erro de Tharin no cap. 5).
+  chacoalham — o erro de Tharin no cap. 6).
 - **NÃO é invisibilidade**: é camuflagem situacional — o portador vira
   "parte do cenário de madeira", não transparente.
 
@@ -93,12 +93,12 @@ respeito, apenas pragmatismo.
 - **Diálogo canônico (2026-08-14)**: "É a minha. Tomei de quem não sabia
   usar." — posse por conquista, desprezo ao dono anterior, zero apego.
   Frases de apego ("como se sempre tivesse sido dela", "Sempre foi")
-  REMOVIDAS do cap. 20 — Kate prova o manto como ferramenta (faca), não
+  REMOVIDAS do cap. 21 — Kate prova o manto como ferramenta (faca), não
   como herança.
 
 ## Conexões
 
-- [Cap. 5](/capitulos/capitulo-05.md) — introdução do manto e morte de Tharin
-- [Cap. 20](/capitulos/capitulo-20.md) — recuperação do manto (a escrever)
+- [Cap. 6](/capitulos/capitulo-06.md) — introdução do manto e morte de Tharin
+- [Cap. 21](/capitulos/capitulo-21.md) — recuperação do manto (a escrever)
 - [Kate](/personagens/kate.md)
 - [Xilomagia](/conceitos/glossario.md)

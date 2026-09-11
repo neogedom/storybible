@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 11 — Os Nômades"
+title: "Capítulo 12 — Os Nômades"
 description: "Kate viaja com nômades como disfarce para chegar a Devour. Estruzzo ataca o acampamento."
 pov: [Kate]
 stc-beat: "Debate (~33-36%)"
-timeline: "Dias após cap. 8"
+timeline: "Dias após cap. 9"
 tags: [L1, kate, nomades, estruzzo, devour, theodore]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
@@ -62,7 +62,7 @@ _"Gaviorn'l arrancaria o couro das tuas costas."_
 - [Lakand](/personagens/lakand.md) — Salvou os nômades; agora aliado de Kate
 - [Gaviorn'l](/personagens/gaviornl.md) — Estruzzo o menciona
 - [Devour](*lugares/devour.md) — Destino da viagem
-- [Capítulo 8](/capitulos/capitulo-08.md) — Kate planejou a viagem com Lakand
+- [Capítulo 9](/capitulos/capitulo-09.md) — Kate planejou a viagem com Lakand
 
 ## Notas de INGEST
 

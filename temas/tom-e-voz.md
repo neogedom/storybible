@@ -33,7 +33,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Risco**: Pode ficar passivo demais; compensar com intensidade interior
 - **Regra (canon 2026-08-15)**: fechamentos de argumento terminam em
   **transação/evidência**, nunca em aforismo ou frase de efeito (ex.: o
-  fechamento do cap. 12 com Lakand foi corrigido para o registro contratual)
+  fechamento do cap. 13 com Lakand foi corrigido para o registro contratual)
 
 ### Nolan
 
@@ -62,17 +62,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - **Grandeza com fresta na FALA**: a ansiedade/paranoia deve vazar na sintaxe
   (repetições, perguntas engolidas, súplicas obsessivas), não só nas rubricas
-  narrativas. Modelo: cap. 6, "Não sei, amigo. Não sei."
+  narrativas. Modelo: cap. 7, "Não sei, amigo. Não sei."
 - **Nunca autodiagnóstico lúcido do próprio defeito** — o megalomaníaco não
   nomeia o próprio defeito com equilíbrio; vira autoglorificação.
 
 ### Lakand (evolução — opção B)
 
-- Companheiro falante APENAS com Kate antes do endurecimento (caps. 8-12);
+- Companheiro falante APENAS com Kate antes do endurecimento (caps. 9-13);
   sem ensaios/análise política/stand-up. Fala curta mesmo quando falante.
-- Emoção explicada é RARÍSSIMA: o "Eu quero ser gente" (cap. 12) é a única
+- Emoção explicada é RARÍSSIMA: o "Eu quero ser gente" (cap. 13) é a única
   confissão de interioridade do L1 — âncora trágica do L2.
-- Endurecimento gradual pós-massacre; caps. 19-20 = fera silenciosa.
+- Endurecimento gradual pós-massacre; caps. 20-21 = fera silenciosa.
 
 ### Gornads (política por casta)
 

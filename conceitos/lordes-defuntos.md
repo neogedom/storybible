@@ -39,7 +39,7 @@ Durante a dominação de Gondor sobre o Reino (**parte do Interregno** —
 correção 2026-08-12: Gondor não dominou os ~950 anos inteiros, só uma
 parcela menor deles), os vampiros viveram sua **época de ouro**:
 alimentavam-se de sangue humano e gozavam de poder sobre os humanos que
-subjugavam (cap. 7, fala de Charles).
+subjugavam (cap. 8, fala de Charles).
 
 **As festas e a origem de "künerv" (correção 2026-08-12):** "Filhos de
 Khaine" são os **próprios vampiros** — a comunidade amaldiçoada; o sangue
@@ -58,7 +58,7 @@ como sociedade estruturada (`temas/timeline.md`).
 Os vampiros tentaram, à sua maneira, **pertencer** ao mundo — não apoteose,
 mas pertença. Queriam humanidade, soberania, um lugar na civilização, sem
 abrir mão do que eram. A tentativa de obtê-la **pelo controle os cegou**
-(cap. 9, reflexão de Nolan — o paralelo com Genocydo e Nolan).
+(cap. 10, reflexão de Nolan — o paralelo com Genocydo e Nolan).
 
 Quando **fracassaram na rebelião**, caíram junto com os humanos que
 subjugavam e foram **empurrados para Saramant**. Os registros da queda não
@@ -72,7 +72,7 @@ tentou **civilizar a própria fome**: fez "acordos ridículos" com os humanos
 (künervs) da Vila de Opium, buscando coexistência pacífica.
 
 **Charles** (daërunmege) exterminou essa Comunidade — "Limpei o lugar no
-dente para a glória de Mesmia" (cap. 10). O massacre de Opium é a ferida
+dente para a glória de Mesmia" (cap. 11). O massacre de Opium é a ferida
 moral que Charles carrega como pragmatismo.
 
 **Cronologia e distinção (canon 2026-08-12):** a "Comunidade" de Opium é um
@@ -87,9 +87,9 @@ de uns poucos sobreviventes de pertencer ao mundo.
 
 ## Neófitos vs. Verdadeiros Lordes Defuntos (canon 2026-08-12)
 
-Os vampiros mortos na torre de Opium (caps. 7 e 10: Etwano, Loretta e
+Os vampiros mortos na torre de Opium (caps. 8 e 11: Etwano, Loretta e
 outros) eram **neófitos** — "recém-amaldiçoados ou simpatizantes que
-fizeram pacto para serem aceitos" (fala do jardineiro/Decian, cap. 10).
+fizeram pacto para serem aceitos" (fala do jardineiro/Decian, cap. 11).
 O jardineiro **não os reconhece das lutas de Gondor**; logo, **não eram os
 verdadeiros Lordes Defuntos**.
 
@@ -98,7 +98,7 @@ era de ouro de Gondor, apenas **UM** sobreviveu: **o veterano do monte em
 Gondor** — o holdout que a Hoste de Hícse recruta no L2. A "Comunidade" de
 Opium **não tinha verdadeiros Lordes Defuntos** entre si: era composta de
 neófitos e sobreviventes menores, não de veteranos das guerras de Gondor.
-Quando Decian diz "Eles não estão acabados" (cap. 10), refere-se à **rede
+Quando Decian diz "Eles não estão acabados" (cap. 11), refere-se à **rede
 da Comunidade**, que ainda existia — não a outros veteranos da era de
 ouro. Os verdadeiros Lordes Defuntos, enquanto elite, reduzem-se a **um
 homem** — e é a ele que Hícse manda buscar.
@@ -106,14 +106,14 @@ homem** — e é a ele que Hícse manda buscar.
 ## Vampiros — Regras do Mundo
 
 - Criados por Terbs; pendem entre a vida e a morte.
-- **Queimam ao sol** — a pele frita sob a luz (cap. 10).
+- **Queimam ao sol** — a pele frita sob a luz (cap. 11).
 - Podem morrer de **inanição/velhice** quando passam meses sem sangue
-  (cap. 8: os vampiros que Kate e Lakand encontram em Saramant morreram
+  (cap. 9: os vampiros que Kate e Lakand encontram em Saramant morreram
   assim, mirrados, com musgo crescendo neles).
 - **Sangue animal NÃO sustenta (canon 2026-08-12):** só o sangue de seres
   conscientes (humanos, leviantares etc.) alimenta um vampiro. Isso
   explica por que os vampiros de Saramant morreram de inanição mesmo numa
-  floresta cheia de caça (cap. 8).
+  floresta cheia de caça (cap. 9).
 - Usam **künerv** como termo pejorativo para humanos (ver `glossario.md`).
 - A queda e a dispersão os reduziram a "restolho" — Charles os chama de
   "sanguessugas de Saramant".

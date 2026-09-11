@@ -1,7 +1,7 @@
 ---
 type: Location
 name: Castelo de Devour
-primeiro_capitulo: 17
+primeiro_capitulo: 18
 ---
 
 # Castelo de Devour
@@ -19,7 +19,7 @@ Fortaleza híbrida, dois anéis:
   Rampillas montam guarda no portão e patrulham o topo da paliçada.
 - **Núcleo (pedra)**: casco de pedra escura com torre principal, salão do
   trono, aposentos e calabouços (escada em espiral, celas de ferro). O fogo
-  do cap. 19 queima o anel vegetal primeiro (vira clareira/firebreak);
+  do cap. 20 queima o anel vegetal primeiro (vira clareira/firebreak);
   a pedra sobrevive estruturalmente.
 
 ## Salão Principal (Trono)
@@ -42,19 +42,19 @@ Fortaleza híbrida, dois anéis:
 ## Torres e Aposentos
 
 - Torre principal contém os aposentos
-- Quarto onde Dagmar morre no parto (cap. 18)
+- Quarto onde Dagmar morre no parto (cap. 19)
 
 ## Significado na Trama
 
-- Mário e Kate estão presos nos calabouços (caps. 17-19)
+- Mário e Kate estão presos nos calabouços (caps. 18-20)
 - Devour governa de seu trono no salão principal
-- Nolan chega ao castelo no cap. 18 para reivindicar o Estrangeiro
+- Nolan chega ao castelo no cap. 19 para reivindicar o Estrangeiro
 - Palco do confronto entre Nolan e Devour
-- Local onde Mário realiza seu primeiro "milagre" (cap. 19 — bebê)
+- Local onde Mário realiza seu primeiro "milagre" (cap. 20 — bebê)
 
 ## Pós-Incêndio (canon 2026-08-03)
 
-- Incêndio **ateado por Lakand** (cap. 19): toca dos rampillas + tochas de
+- Incêndio **ateado por Lakand** (cap. 20): toca dos rampillas + tochas de
   óleo do salão; o fogo **descontrolado** vira incêndio florestal em Saramant.
 - A pedra escura sobrevive estruturalmente; o interior de madeira (trono de
   ossos, escadas da torre, aposentos) colapsa. Calabouços subterrâneos são os

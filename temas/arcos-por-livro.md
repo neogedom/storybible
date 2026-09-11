@@ -12,7 +12,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 | Fase            | Arco                                                                                                         |
 | --------------- | ------------------------------------------------------------------------------------------------------------ |
-| **L1**          | Apoia Genocydo por fé mal colocada em Vonos (cap. 13) → descobre acordo com Clãs de Sangue → some do palácio |
+| **L1**          | Apoia Genocydo por fé mal colocada em Vonos (cap. 14) → descobre acordo com Clãs de Sangue → some do palácio |
 | **Entre L1/L2** | Bêbado anônimo em taverna de beira de estrada                                                                |
 | **L2**          | Encontrado por Gunad/Lupe'i → vê a Bíblia traduzida → constata o erro → não se redime, não se converte       |
 
@@ -20,7 +20,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 | Fase   | Arco                                                                                                          |
 | ------ | ------------------------------------------------------------------------------------------------------------- |
-| **L1** | Recusa Nolan no Conselho (cap. 13) → descobre que Nolan quer o trono → defende a Metrópole → morre em combate |
+| **L1** | Recusa Nolan no Conselho (cap. 14) → descobre que Nolan quer o trono → defende a Metrópole → morre em combate |
 | **L2** | Morto. Legado assombra Nolan — último laço familiar rompido                                                   |
 
 ## Edgard Lupe'i
@@ -41,7 +41,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 | Fase   | Arco                                                                                                       |
 | ------ | ---------------------------------------------------------------------------------------------------------- |
-| **L1** | Citado como músico de rua (cap. 6)                                                                         |
+| **L1** | Citado como músico de rua (cap. 7)                                                                         |
 | **L2** | Emerge como pregador leigo → forma eixo espiritual do Remanescente → sobrevive → vê Mário partir peregrino |
 
 ## Charles

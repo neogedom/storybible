@@ -18,7 +18,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma                             |
 | Expressão  | Medo, desespero                     |
 
-## Capítulo 25 — O Preço da Fama
+## Capítulo 26 — O Preço da Fama
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
@@ -47,7 +47,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Expressão: choque, culpa, desespero
 - Iluminação: luz amarela de poste, chuva
 
-## Capítulo 2 — A Travessia
+## Capítulo 3 — A Travessia
 
 ### Terra (casa, van, cativeiro)
 - Roupas: casuais (jeans, camiseta — estudante em casa)
@@ -60,30 +60,30 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Expressão: choque, dor, desespero
 - Iluminação: luminescência ametista, céu escuro com luas
 
-## Capítulo 4 — Opium
+## Capítulo 5 — Opium
 - Roupas: trapos encardidos, pés descalços
 - Mãos: lama seca entre os dedos
 - Corpo: curado dos tiros
 - Expressão: horror, choque cósmico, medo
 - Iluminação: luz pálida de duas luas
 
-## Capítulo 7 — Os Lordes Defuntos
+## Capítulo 8 — Os Lordes Defuntos
 - Roupas: camiseta branca manchada de vermelho
 - Ferimentos: apunhalado no ombro
 - Expressão: dor, pânico, choque
 
-## Capítulo 10 — A Carga
+## Capítulo 11 — A Carga
 - Roupas: camiseta ensanguentada, sapatos de morto
 - Ferimentos: ombro com atadura
 - Acessórios: corda de sisal
 - Expressão: choque, aceitação
 
-## Capítulo 12 — A Jaula
+## Capítulo 13 — A Jaula
 - Roupas: camiseta suja, sapatos de morto
 - Ferimentos: ombro em cicatrização
 - Expressão: observador, exausto
 
-## Capítulo 15 — A Queda
+## Capítulo 16 — A Queda
 - Roupas: camiseta manchada de fuligem e sangue, suor
 - Ferimentos: ombro aberto (curativo desfeito na fuga), sangrando
 - Acessórios: pulsos amarrados (por Kate)
@@ -91,9 +91,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Ambiente: clareira destruída, corpos, fogo, rampillas recuando
 - Iluminação: fogo, noite
 
-## Capítulo 19 — O Bebê
+## Capítulo 20 — O Bebê
 
-- Roupas: camiseta manchada de fuligem e sangue (das fugas, caps. 15/17)
+- Roupas: camiseta manchada de fuligem e sangue (das fugas, caps. 16/18)
 - Ferimentos: **braço direito** envolto em pano escuro manchado de sangue seco
   e terra; febre; exaustão profunda
 - Acessórios: sem óculos (perdidos na travessia)
@@ -102,20 +102,20 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: penumbra do calabouço
 - Fundo: cela de terra batida com palha podre
 
-## Capítulo 20 — A Crise da Voz
+## Capítulo 21 — A Crise da Voz
 
 - Roupas: camiseta manchada de fuligem e sangue (das fugas) — coberta de cinza
   do incêndio
 - Ferimentos: **braço direito** (ferida infectada, febre alta); exaustão
 - Acessórios: sem óculos
 - Sujeira: fuligem, cinza e terra na pele e no cabelo (ainda sem banho — o
-  riacho é do cap. 22)
+  riacho é do cap. 23)
 - Expressão: torpor febril → clareza do abdutivo → raiva contra Deus
   (identificação irada)
 - Iluminação: clarão do incêndio (noite) → carvão/cinza da cabana → escuridão
 - Fundo: floresta em chamas; mocambo queimado; teto de carvão da cabana
 
-## Capítulo 22 — O Assentamento
+## Capítulo 23 — O Assentamento
 
 - Roupas: camiseta manchada de fuligem e sangue (das fugas) — lavada no riacho, ainda escura de água
 - Ferimentos: **braço direito** (ferida infectada em cicatrização); febre baixa; exaustão profunda
@@ -125,13 +125,13 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: luz de fogueira, entardecer
 - Fundo: acampamento de refugiados, perto das crianças
 
-## Capítulo 24 — A Feira de Tronk
+## Capítulo 25 — A Feira de Tronk
 
 - Roupas: camiseta manchada de fuligem e sangue (das fugas) — ainda sem troca
 - Ferimentos: **braço direito** (ferida em cicatrização); exaustão; fraqueza do jejum
 - Acessórios: sem óculos; **moedas de cobre** no bolso (dadas pela mulher da barraca)
 - Sujeira: poeira da estrada e da feira
-- Expressão: hesitante → convicção na pregação → exausto (pernas cedem) → observador
+- Expressão: hesitante → convicção na pregação → exausto (pernas cedem) → vai até Lakand na borda da feira
 - Iluminação: luz do dia, feira movimentada
 - Fundo: barracas de lona, carroças, fogueiras acesas no meio do dia
 

@@ -23,7 +23,7 @@ conquista poder, Gunad canta nos becos. O contraste é a tese central do L2.
 
 ## Arco
 
-- **L1**: Mencionado por Koda (cap. 6) — "Gunad não está."
+- **L1**: Mencionado por Koda (cap. 7) — "Gunad não está."
 - **L2**: Vive anônimo → perseguidos o procuram → Nolan descobre →
   Koda intercede → lidera rede de esconderijos → sobrevive → vê Mário
   partir peregrino

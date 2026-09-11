@@ -1,6 +1,6 @@
 ---
 type: Chapter
-title: "Capítulo 2 — A Travessia"
+title: "Capítulo 3 — A Travessia"
 description: "Mário é sequestrado na Terra, obedece à Voz pela primeira vez, e é transportado a Ornick — onde o Inquiridor o espera com três tiros."
 pov: [Mário]
 stc-beat: "Configuração / Catalisador (~4-7%)"

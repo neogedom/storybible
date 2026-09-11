@@ -45,7 +45,7 @@ Ver timeline visual completa em [visuais/benjamim.md](/visuais/benjamim.md).
    blasfêmia pública do Souhma em troca da apoteose. A recompensa é isca —
    Terbs mente; Benjamim sabe.
 3. Drena recursos do Reino com promessas de poder divino
-4. **Cap. 13**: Nuh d'Teraghar o invoca como garantia da apoteose
+4. **Cap. 14**: Nuh d'Teraghar o invoca como garantia da apoteose
 5. Intermedeia a **simulação da via crucis** no final do L1 — o plano de
    Terbs de fazer Mário **blasfemar contra Deus publicamente** (correção
    2026-08-10); Genocydo acredita ser humilhação/apoteose próprias

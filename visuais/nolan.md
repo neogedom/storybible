@@ -25,7 +25,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Acessórios: lenço de seda (rinite)
 - Expressão: frieza calculista, irritação
 
-## Capítulo 3 — A Conspiração
+## Capítulo 4 — A Conspiração
 
 - Roupas: vestes cinzentas com cinzas de fogueiras (Gerikhad)
 - **Óculos**: sim (armação de ébano)
@@ -33,28 +33,28 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Acessórios: chocalho de madeira para Saboc (no bolso)
 - Expressão: exausto, depois calculista; **sorri pela primeira vez**
 
-## Capítulo 6 — O Jogo
+## Capítulo 7 — O Jogo
 
 - Roupas: trajes formais de conselheiro
 - **Óculos**: sim
 - Local: Castelo → Casa de Koda
 - Expressão: tenso, frustrado
 
-## Capítulo 9 — O Diário Perdido
+## Capítulo 10 — O Diário Perdido
 
 - Roupas: trajes formais de jantar
 - **Óculos**: sim
 - Local: casa de Nolan (jantar → jardins)
 - Expressão: tenso, furioso
 
-## Capítulo 13 — A Sala Secreta
+## Capítulo 14 — A Sala Secreta
 
 - Roupas: trajes formais de conselheiro
 - **Óculos**: sim
 - Local: sala secreta sob o palácio
 - Expressão: tenso, quebrado
 
-## Capítulo 16 — A Travessia
+## Capítulo 17 — A Travessia
 
 - Roupas: roupas de viagem escuras, práticas
 - **Óculos**: sim
@@ -63,16 +63,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: sol da estrada → interior escuro da carruagem
 - Local: dentro da carruagem, Taverna do Porto Seco
 
-## Capítulo 19 — O Bebê
+## Capítulo 20 — O Bebê
 
 - _Não aparece em cena_ (fora de cena: no andar de cima, segurando a mão de
   Dagmar enquanto o castelo queima ao redor)
 
-## Capítulo 20 — A Crise da Voz
+## Capítulo 21 — A Crise da Voz
 
 - _Não aparece em cena_ (POV Mário; Nolan atordoado no castelo em chamas)
 
-## Capítulo 21 — A Pira Involuntária
+## Capítulo 22 — A Pira Involuntária
 
 - **Vestimenta**: roupas de viagem escuras, chamuscadas e manchadas de
   fuligem; óculos
@@ -86,9 +86,9 @@ timestamp: 2026-07-24T12:00:00-03:00
   estrada para o norte
 - **Estado final**: marcha para o norte com o séquito e os rampillas
 
-## Capítulo 23 — O Rastro
+## Capítulo 24 — O Rastro
 
-- **Roupas**: roupas de viagem escuras, práticas (mesmo do cap. 21)
+- **Roupas**: roupas de viagem escuras, práticas (mesmo do cap. 22)
 - **Óculos**: sim
 - **Local**: assentamento de refugiados → estrada → acampamento noturno
 - **Expressão**: analítico, intrigado ("ninguém faz algo por nada"), depois sombrio (revelação da vembra)

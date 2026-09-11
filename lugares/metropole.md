@@ -16,7 +16,7 @@ ordem do reino.
 ## Geografia
 
 A Metrópole ocupa uma ilha no meio do rio Cran, a única travessia segura da
-região (a ponte de pedra do cap. 16 dá acesso à capital). A cidade é dividida
+região (a ponte de pedra do cap. 17 dá acesso à capital). A cidade é dividida
 em dois níveis pelo **Muro Interno**: na parte alta, o Castelo de Quartzo e a
 Praça Central; na baixa, os bairros de trabalho e dívida, onde vive o povo
 comum. O muro materializa a divisão de castas: um lado concentra dignidade e

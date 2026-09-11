@@ -1,7 +1,7 @@
 ---
 type: Concept
 name: Rampillas
-ultimo_capitulo: 19
+ultimo_capitulo: 22
 ---
 
 # Rampillas
@@ -47,17 +47,17 @@ Lanças e machados de lâmina larga.
 ## Sobrevivência da Toca (canon 2026-08-03)
 
 - Os rampillas do castelo e da toca principal queimam no incêndio de Devour
-  (cap. 19).
+  (cap. 20).
 - Sobrevivem **~uma dezena**: destacamentos em patrulha/perímetro no momento
   do incêndio + uma **toca secundária** (caverna na borda de Saramant, longe
   do núcleo do fogo). Ficam inertes quando Devour morre, aguardando comando.
-- Nolan os reúne (cap. 21) e os controla via raiz-mestra subterrânea (ver
+- Nolan os reúne (cap. 22) e os controla via raiz-mestra subterrânea (ver
   `insights/nolan-controla-rampillas.md`).
-- Entre a morte de Devour (cap. 19) e a chegada de Nolan (cap. 21), os
+- Entre a morte de Devour (cap. 20) e a chegada de Nolan (cap. 22), os
   sobreviventes ficam sob o **comando provisório de Ossan d'Tirath** (xamã
   sobrevivente, filho de Devour) — único que conhece os processos de
   controle e os mantém em ronda no caos pós-incêndio. É essa ronda que Mário
-  lê no cap. 20 (raciocínio abdutivo). **Quando Nolan chega (cap. 21),
+  lê no cap. 21 (raciocínio abdutivo). **Quando Nolan chega (cap. 22),
   Ossan LHE ENTREGA o comando via raiz-mestra** — cede por sobrevivência,
   não lealdade; a entrega é a âncora da tensão (dependência mútua: Nolan
   precisa de quem sabe operar; Ossan precisa de quem o mantém vivo).
@@ -68,7 +68,7 @@ Lanças e machados de lâmina larga.
 Rampillas são **autômatos sem consciência individual** — não têm voz, não
 "comentam", não existe "um mais inteligente". Qualquer testemunho humano
 (cheiro, detalhe, suspeita) tem de vir de personagens humanos — ex: a
-parteira-ama (Mira) que reconhece o cheiro de vembra em Dagmar (cap. 21). O
+parteira-ama (Mira) que reconhece o cheiro de vembra em Dagmar (cap. 24). O
 "rampilla esperto" do esquema antigo era contradição de canon — substituído.
 
 ## Origem (canon 2026-08-06)
@@ -78,7 +78,7 @@ de criaturas inteligentes** (tipicamente humanos), que as **zumbifica**:
 apagam-se a consciência e a vontade; sobra o autômato obediente. Por isso não
 sentem dor, não hesitam, não falam — e são a "extensão do corpo de Devour".
 A semente vem do "jardim invisível" (a raiz-mestra). **Implicação moral: cada
-rampilla foi uma pessoa** — os que Kate matou (caps. 0 e 19) e os que Nolan
+rampilla foi uma pessoa** — os que Kate matou (caps. 0 e 20) e os que Nolan
 agora comanda.
 
 ## Os Xamãs da Corte (canon 2026-08-06)
@@ -90,7 +90,7 @@ Conheciam os processos mágicos: o ritual da semente, o cultivo do jardim e a
 criação de itens encantados (ex: o manto de anéis de madeira roubado por
 Tharin — criado por um deles). Quase todos morrem no incêndio; **um
 sobrevive** — **Ossan d'Tirath, filho de Devour** — e se torna asset de
-Nolan, conhecendo o jardim e a raiz-mestra (ver cap. 21 e
+Nolan, conhecendo o jardim e a raiz-mestra (ver cap. 22 e
 `personagens/ossan.md`).
 
 ## Sentidos à Distância (canon 2026-08-30)
@@ -103,7 +103,7 @@ Nolan, conhecendo o jardim e a raiz-mestra (ver cap. 21 e
   limite, ou exige um "nó" intermediário); foco dividido (sentir através de
   muitos ao mesmo tempo é custoso — Nolan alterna entre os que importam).
 - **Operado por Ossan (decisão 2026-08-30)**: quando Nolan retorna à
-  Metrópole (cap. 28-31), Ossan opera os sentidos dos rampillas deixados no
+  Metrópole (cap. 29-32), Ossan opera os sentidos dos rampillas deixados no
   encalço de Mário. Nolan NÃO aprende o mecanismo — a dependência mantém a
   tensão, e Ossan pode filtrar ou sabotar o que Nolan vê (bomba-relógio do
   L2).

@@ -19,11 +19,11 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma canônica definida                     |
 | Expressão  | Fria, nojo, determinação                      |
 
-## Capítulo 25 — O Preço da Fama
+## Capítulo 26 — O Preço da Fama
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
-| Roupas     | Couro remendado de caçadora, manto de xilomagia (desde cap. 20)        |
+| Roupas     | Couro remendado de caçadora, manto de xilomagia (desde cap. 21)        |
 | Armas      | Faca de caça (usada para ferir o mercenário)                           |
 | Ferimentos | Mãos manchadas de sangue do mercenário (não dela)                      |
 | Expressão  | Tensão (debate), choque (violência), raiva contida (Theodore), cansaço |
@@ -37,7 +37,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Sujeira: sangue de rampilla no rosto
 - Expressão: alerta, fúria contida, confusão
 
-## Capítulo 5 — A Selvagem
+## Capítulo 6 — A Selvagem
 
 - Roupas: saia de retalhos de couro
 - Acessórios: faca de caça
@@ -45,33 +45,33 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Expressão: frustração → choque → excitação
 - Iluminação: luar das luas gêmeas
 
-## Capítulo 8 — A Caverna
+## Capítulo 9 — A Caverna
 
 - Roupas: farrapos
 - Acessórios: faca, tocha
 - Sujeira: cinza, musgo
 - Expressão: frustração
 
-## Capítulo 11 — Os Nômades
+## Capítulo 12 — Os Nômades
 
 - Roupas: couro de caçadora, adagas
 - Acessórios: adagas, lâmina prateada
 - Sujeira: sangue de Estruzzo
 - Expressão: fúria
 
-## Capítulo 14 — O Encontro
+## Capítulo 15 — O Encontro
 
 - Roupas: couro de caçadora, faca no colo
 - Acessórios: faca de caça
 - Expressão: alerta, prontidão
 
-## Capítulo 15 — A Queda
+## Capítulo 16 — A Queda
 
 - Roupas: couro manchado de sangue
 - Acessórios: faca, corda
 - Expressão: frieza, determinação
 
-## Capítulo 17 — Devour
+## Capítulo 18 — Devour
 
 - Roupas: couro rasgado (luta com rampillas)
 - Acessórios: nenhum (desarmada na cela)
@@ -80,9 +80,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: tochas de óleo, sombras no salão
 - Fundo: fortaleza de Devour → cela úmida
 
-## Capítulo 19 — O Bebê
+## Capítulo 20 — O Bebê
 
-- Roupas: couro rasgado da captura (cap. 17), sujo de palha e terra da cela
+- Roupas: couro rasgado da captura (cap. 18), sujo de palha e terra da cela
 - Acessórios: pulsos amarrados com corda de sisal à frente do corpo
 - Ferimentos: **ombro direito** com arranhões de unhas de rampilla (sangue
   já seco; tendões intactos)
@@ -91,19 +91,19 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: fresta de luz cinzenta no alto da cela → clarão do incêndio
 - Fundo: cela de terra batida com palha podre; grades de ferro enferrujadas
 
-## Capítulo 20 — A Fuga
+## Capítulo 21 — A Fuga
 
 - Roupas: couro de caçadora, sujo de cinza e terra (fuga pelo incêndio)
 - Acessórios: faca de caça; **NOVO — manto de xilomagia de Tharin** (anéis de
   madeira) sobre os ombros, recuperado do corpo dele
-- Ferimentos: ombro direito (arranhões de rampilla, ch19)
+- Ferimentos: ombro direito (arranhões de rampilla, ch20)
 - Sujeira: cinza do incêndio; terra da cova nas mãos
 - Expressão: pragmatismo puro (tira o manto do morto sem culpa) → cálculo;
   curiosidade tática (gancho da glossolalia)
 - Iluminação: carvão/cinza da cabana
 - Fundo: mocambo queimado; cova aberta
 
-## Capítulo 22 — O Assentamento
+## Capítulo 23 — O Assentamento
 
 - Roupas: couro de caçadora, manto de xilomagia de Tharin sobre os ombros
 - Acessórios: faca de caça
@@ -113,13 +113,13 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: luz de fogueira, entardecer
 - Fundo: acampamento de refugiados, barracos de lona e galho
 
-## Capítulo 24 — A Feira de Tronk
+## Capítulo 25 — A Feira de Tronk
 
 - Roupas: couro de caçadora, manto de xilomagia de Tharin sobre os ombros
-- Acessórios: faca de caça (mão no cabo ao intervir)
+- Acessórios: faca de caça
 - Sujeira: poeira da estrada e da feira
 - Cabelo: longo, escuro
-- Expressão: alerta, lendo o terreno; mão no cabo da faca; pragmatismo (pressiona Mário a aceitar as moedas)
+- Expressão: alerta, lendo o terreno; pragmatismo (pressiona Mário a aceitar as moedas)
 - Iluminação: luz do dia, feira movimentada
 - Fundo: barracas de lona, carroças, fogueiras
 

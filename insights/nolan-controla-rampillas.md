@@ -12,19 +12,19 @@ timestamp: 2026-07-26T12:00:00-03:00
 
 Devour cria rampillas através de sementes parasitas implantadas em humanos.
 Os rampillas não têm emoção própria — são **autômatos**, obedientes ao comando
-do lorde que os criou. Quando Devour morre no cap. 19 (morte **híbrida, decisão 2026-08-03**:
+do lorde que os criou. Quando Devour morre no cap. 20 (morte **híbrida, decisão 2026-08-03**:
 ferido por **Lakand** no salão, corpo consumido pelo incêndio que Lakand
 ateou — não por ordem de Nolan), os rampillas não enlouquecem nem se
 dispersam: **param** e ficam inertes, aguardando comando.
 
 > ⚠️ **Nota de coerência**: a versão anterior dizia "por ordem de Nolan".
-> O cap. 19 estabelece a morte por Lakand (híbrido com o fogo). Nolan,
+> O cap. 20 estabelece a morte por Lakand (híbrido com o fogo). Nolan,
 > presente no castelo em chamas, encontra o mecanismo de controle durante a
-> fuga do incêndio (cold-open do cap. 21).
+> fuga do incêndio (cold-open do cap. 22).
 
 ## O Mecanismo de Controle
 
-Nolan, presente no castelo em chamas quando Devour morre (cap. 21,
+Nolan, presente no castelo em chamas quando Devour morre (cap. 22,
 cold-open, POV Nolan), descobre como controlá-los. **Mecanismo decidido
 (2026-08-03):** a **raiz-mestra subterrânea** no jardim secreto de Devour —
 o centro neural das sementes. Raízes profundas sobrevivem ao incêndio de
@@ -60,7 +60,7 @@ agora com papéis, selos e racionalizações. O trono de ossos fica chamuscado
 ## Sementes
 
 - **Plantio necessário no L1**: Nolan descobre o controle no **cold-open do
-  cap. 21 (POV Nolan)** — na fuga do incêndio, ele vê os rampillas congelarem
+  cap. 22 (POV Nolan)** — na fuga do incêndio, ele vê os rampillas congelarem
   inertes quando Devour morre e encontra a raiz-mestra entre a fumaça, no
   jardim secreto. Não explicar o mecanismo — só plantar a descoberta.
 - **Germinação no L2**: O exército de rampillas está a serviço de Nolan.

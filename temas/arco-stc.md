@@ -37,28 +37,28 @@ Mário levado a Ornick. O mundo real do sonho se confirma. Não há como negar.
 
 ## Debate (~12-42%)
 
-**Capítulos 3-17**
+**Capítulos 4-18**
 
 "Isso é real?" Mário questiona, resiste, aprende. Nolan conspira. Kate treina.
 A tensão cresce até o ponto de ruptura.
 
 ## Break Into 2 (~42-45%)
 
-**Capítulos 18-19**
+**Capítulos 19-20**
 
 Mário ressuscita Saboc. Kate escolhe Mário. Nolan muda objetivo. Dagmar morre.
 O mundo de Mário vira de cabeça para baixo — não há como voltar.
 
 ## Jogos e Diversão (~45-68%)
 
-**Capítulos 20-35**
+**Capítulos 21-35**
 
 Milagres públicos; evangelização; jornada para a Mina de Quartzo; bola quicando
 entre os três PoVs. Mário prega sem submissão; Kate manipula; Nolan persegue.
 
 ## Ponto Central (~68%)
 
-**Capítulo ~33-34**
+**Capítulo 36**
 
 Tomada da Mina. Falsa vitória para Mário. Kate "perde" Mário para os Inquiridores
 ou Nolan se aproxima demais.
@@ -111,9 +111,10 @@ Coroação feia. Pacto de Nolan com Terbs.
 | 1        | Configuração               | Mário                  | ✅ Escrito    |
 | 2        | Configuração / Catalisador | Mário                  | ✅ Escrito    |
 | 3        | Catalisador / Debate       | —                      | ✅ Escrito    |
-| 4-17     | Debate                     | —                      | ✅ Escrito    |
-| 18-19    | Break Into 2               | Nolan (18) + Kate (19) | ✅ Escrito    |
-| 20-25    | Jogos                      | —                      | 📝 A escrever |
-| 26-37    | Midpoint                   | —                      | 📝 A escrever |
+| 4-18     | Debate                     | —                      | ✅ Escrito    |
+| 19-20    | Break Into 2               | Nolan (19) + Kate (20) | ✅ Escrito    |
+| 21-26    | Jogos                      | —                      | ✅ Escrito    |
+| 27-35    | Jogos (restante)           | —                      | 📝 A escrever |
+| 36       | Midpoint (Ponto Central)   | Mário                  | 📝 A escrever |
 
 _Atualizado a cada INGEST de capítulo._

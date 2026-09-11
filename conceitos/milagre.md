@@ -1,7 +1,7 @@
 ---
 type: Concept
 name: Milagre
-ultimo_capitulo: 19
+ultimo_capitulo: 25
 tags: [conceito, teologia, milagre, eu-sou, L1]
 timestamp: 2026-08-06T00:00:00-03:00
 ---
@@ -44,7 +44,7 @@ ressurreição é um **atributo em ato**, não resposta a fórmula.
 - A magia ornickenha **não tem classe de cura**. Magia fere, magia mata,
   magia dobra o que existe — nunca conserta. Quando um corpo quebra,
   quebra para sempre; o resto é aprender a viver torto. Kate pensa isso no
-  cap. 22: "Magia feria. Magia matava. Magia nunca tinha consertado nada."
+  cap. 23: "Magia feria. Magia matava. Magia nunca tinha consertado nada."
 - Por isso a cura da criança paralítica é um salto de classe para os
   refugiados — não é "magia mais forte", é **outra coisa**. O espanto de
   Lakand ("Ele... curou? Com magia?") é o espanto de quem vê uma categoria
@@ -52,7 +52,7 @@ ressurreição é um **atributo em ato**, não resposta a fórmula.
 
 ## Iniciativa humana vs. milagre (canon 2026-08-22 — tensão resolvida)
 
-- **Mário NUNCA opera o milagre por iniciativa teológica.** No cap. 22, ele
+- **Mário NUNCA opera o milagre por iniciativa teológica.** No cap. 23, ele
   não decide curar: vê a criança e é **movido** — a compaixão desesperada
   (a imagem do irmão, do rapaz da calçada) o empurra antes de qualquer
   decisão. O gesto é de compaixão, não de fé operacional. A storybible
@@ -60,18 +60,20 @@ ressurreição é um **atributo em ato**, não resposta a fórmula.
 - **A reação dele é de choque, não de vitória.** Ele recua, olha para as
   próprias mãos como quem não reconhece o que elas fizeram — "a reação de
   quem tinha visto acontecer, não de quem operava um poder". O milagre não o
-  confirma; o desconcerta (eco da crise do cap. 20: Deus age quando ele não
+  confirma; o desconcerta (eco da crise do cap. 21: Deus age quando ele não
   pede, cala quando ele pede).
 - **Cessacionismo preservado:** milagre não é fé como superpoder — o poder
-  nunca é "dele" para operar. Ele recebe (capa 22, sem pedir) e depois tenta
-  produzir (capa 23, pregando sem orar) e **falha**. A comunhão é o que se
-  perdeu; o poder não se perde porque nunca foi dele.
-- O contraste cap. 22 / cap. 23 é o fio teológico do arco: receber vs.
+  nunca é "dele" para operar. Ele recebe (cap. 23, sem pedir) e depois tenta
+  **produzir** (caps. 25-26): a cura por ato de vontade funciona — o milagre
+  não o confirma; expõe a fissura. A comunhão é o que se perdeu; o poder não
+  se perde porque nunca foi dele. O custo não é um milagre que falha — é o
+  preço que a fama cobra no mundo (cap. 26).
+- O contraste cap. 23 / caps. 25-26 é o fio teológico do arco: receber vs.
   produzir, graça vs. esforço, ocasião vs. ausência.
 
-### A cura intencional do cap. 24 (canon 2026-08-28)
+### A cura intencional do cap. 25 (canon 2026-08-28)
 
-- **Primeira cura por ato de vontade.** No cap. 24, Mário **decide** curar:
+- **Primeira cura por ato de vontade.** No cap. 25, Mário **decide** curar:
   vê o homem esfaqueado, Kate o olha ("agora ou nunca"), e ele ajoelha-se e
   **pede** a cura — não como oração submissa, mas como ato de vontade. A
   cura acontece. A Voz não diz nada.
@@ -80,17 +82,17 @@ ressurreição é um **atributo em ato**, não resposta a fórmula.
   Voz". O leitor sente o desconforto: a ferramenta certa nas mãos erradas.
   Ele prega o evangelho correto **em oposição** à Voz, para provar que está
   certo.
-- **Não contradiz o canon do cap. 22.** A distinção não é "compaixão vs.
-  vontade" como classes opostas, mas a **motivação**: no cap. 22 ele é movido
-  (não consegue não fazer); no cap. 24 ele age de propósito (para provar uma
+- **Não contradiz o canon do cap. 23.** A distinção não é "compaixão vs.
+  vontade" como classes opostas, mas a **motivação**: no cap. 23 ele é movido
+  (não consegue não fazer); no cap. 25 ele age de propósito (para provar uma
   tese). O poder continua não sendo "dele" — mas agora ele o usa como
   ferramenta de autovalidação, o que é o germe do risco estrutural (Mário
   usando o dom para provar que não precisa de Deus).
 - **Custo preservado:** a cura funciona, mas o capítulo fecha com a
-  consciência sussurrando "Você só quer vencer" — e com Kate observando-o
-  "como quem mede uma ferramenta". O milagre não o confirma; expõe a fissura.
-
-## "Acima do Limbo" — ontológico, não posicional
+  consciência sussurrando "Você só quer vencer". O milagre não o confirma;
+  expõe a fissura. (Nota: a conclusão de Mário sobre Kate — "como quem mede
+  uma ferramenta" — saiu do cap. 25 na revisão de 2026-08-30; vai para o
+  cap. 27.)
 
 ## "Acima do Limbo" — ontológico, não posicional
 
@@ -121,7 +123,7 @@ membro dela.
   deus sem função não é arquivável, logo não é trocável (ver
   `insights/eu-sou-nome-de-deus.md`).
 
-## O Milagre de Saboc (cap. 19) — Anatomia
+## O Milagre de Saboc (cap. 20) — Anatomia
 
 - Mário febril, semi-inconsciente, **sem consentimento consciente**; não
   lembra de ter orado. Não há "fé suficiente" que opere o resultado — a fé
@@ -166,17 +168,17 @@ resultado é devido. Aqui, o custo **não compra** o milagre e o milagre
   ornickenho deveria ter vocábulo para isso — para eles é "impossível",
   "o que não existe", "mentira". A ausência de palavra nativa é parte da
   doutrina: a graça não cabe na língua do comércio.
-- Mário, nos caps. 0-19, NÃO atribui identidade divina à Voz (lê como
-  "o delírio"). **A partir do cap. 20 (canon 2026-08-16, revisto)**, ele
+- Mário, nos caps. 0-20, NÃO atribui identidade divina à Voz (lê como
+  "o delírio"). **A partir do cap. 21 (canon 2026-08-16, revisto)**, ele
   IDENTIFICA a Voz como Deus — identificação irada (sabe de quem, responde
   com raiva, não com confissão). A narração no POV dele segue a leitura
   dele em cada estágio.
-- **Cap. 20 (canon 2026-08-16, revisto)**: a categoria "delírio" estala
-  diante da ressurreição — Mário IDENTIFICA a Voz como Deus no cap. 20
+- **Cap. 21 (canon 2026-08-16, revisto)**: a categoria "delírio" estala
+  diante da ressurreição — Mário IDENTIFICA a Voz como Deus no cap. 21
   (identificação irada: sabe de quem, responde com raiva, não com
   confissão; segura os dogmas como escudo e não ora). A narração segue o
   POV dele: renderiza a identificação como acusação, nunca como devoção. O
-  cap. 26 desnuda a raiva (eco de Jó).
+  cap. 27 desnuda a raiva (eco de Jó).
 - Kate arquiva o milagre como "poder" — leitura intencionalmente errada que
   a história deve frustrar (ver Riscos).
 
@@ -197,7 +199,7 @@ resultado é devido. Aqui, o custo **não compra** o milagre e o milagre
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Rm 4:17             | Só o deus acima do Limbo cria; os elohim rearranjam. Ressurreição = quebra de classe.                                                     |
 | Ex 3:14             | Um deus sem domínio é erro de categoria em Ornick (Kate não arquiva). Não se troca com um verbo.                                          |
-| Jo 9:2-3            | A crise do cap. 20 ("por que este bebê e não Lucas?") é a pergunta dos discípulos transplantada: não há livro-caixa moral. Deixar aberta. |
+| Jo 9:2-3            | A crise do cap. 21 ("por que este bebê e não Lucas?") é a pergunta dos discípulos transplantada: não há livro-caixa moral. Deixar aberta. |
 | Mc 2:5, 10-11       | O visível (o corpo voltar) é evidência do invisível (o nome é verdadeiro).                                                                |
 | 1 Co 1:27-29        | O canal é o mais desprezível possível (prisioneiro, febril, sem oferta). Impotência do canal é requisito.                                 |
 | Hb 11:1 (defensiva) | Fé como recepção do invisível, nunca energia que opera.                                                                                   |
@@ -208,19 +210,19 @@ resultado é devido. Aqui, o custo **não compra** o milagre e o milagre
 1. **Milagre vira sistema com regras** → cada milagre tem forma, hiato e
    custo diferentes; nunca repetir a mecânica.
 2. **Kate arquiva como "poder" e a história valida** → nos Jogos (caps.
-   20-34), a instrumentalização de Kate **frustra**: os milagres que ela
+   21-35), a instrumentalização de Kate **frustra**: os milagres que ela
    tenta disparar não disparam sob comando, ou custam mais do que ela quer
    pagar, ou acontecem para quem ela nunca escolheria. Manter o vão entre o
    que ela vê ("poder") e o que é ("presença").
 3. **Leitor conclui que a fé de Mário opera milagres** → (a) fé
    bruxuleante/ausente no instante do milagre; (b) o custo não resgatado (a
-   mãe morre) bloqueia "crê e recebe"; (c) a crise do cap. 20 é a refutação
+   mãe morre) bloqueia "crê e recebe"; (c) a crise do cap. 21 é a refutação
    embutida.
 
 ## Nota de Reconciliação Cosmológica
 
 `conceitos/cosmologia.md` afirma "Javé não atua diretamente em Ornick". O
-cap. 19 é uma irrupção direta. Precisão: "não atua diretamente" = "não
+cap. 20 é uma irrupção direta. Precisão: "não atua diretamente" = "não
 governa pelo sistema delegado (sem jurisdição, sem mediação, sem templo)",
 não "não age". O milagre é a **exceção soberana**: Deus irrompe fora da
 cadeia delegada justamente porque ela não é o seu modo de governo — o que
@@ -231,7 +233,7 @@ pela jurisdição).
 
 - [Cosmologia](/conceitos/cosmologia.md) — Conselho Divino, planos
 - [Eu Sou — nome de Deus](/insights/eu-sou-nome-de-deus.md)
-- [Glossolalia Invertida](/decisoes/glossolalia-invertida-oracao-cap19.md)
-- [Cap. 19 — O Bebê](/capitulos/capitulo-19.md)
+- [Glossolalia Invertida](/decisoes/glossolalia-invertida-oracao-cap20.md)
+- [Cap. 20 — O Bebê](/capitulos/capitulo-20.md)
 - [Mário](/personagens/mario.md) — Mecânica da Voz
 - [Dagmar](/personagens/dagmar.md) — o custo

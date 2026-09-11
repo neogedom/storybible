@@ -47,7 +47,7 @@ Ver timeline visual completa em [visuais/layla.md](/visuais/layla.md).
 
 ## Arco Narrativo
 
-### Capítulo 9 — O Diário Perdido
+### Capítulo 10 — O Diário Perdido
 
 - Infiltrada no Castelo de Quartzo como prostituta de Genocydo
 - Nolan a contratou para roubar o diário

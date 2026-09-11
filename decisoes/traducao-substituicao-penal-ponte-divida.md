@@ -1,16 +1,16 @@
 ---
 type: Decision
-title: Tradução da substituição penal pela ponte da dívida (pregação da Feira de Tronk, cap. 24)
+title: Tradução da substituição penal pela ponte da dívida (pregação da Feira de Tronk, cap. 25)
 description: Decisão de traduzir a substituição penal para a linguagem contratual de Ornick na pregação de Mário na feira. "Vocês herdaram uma dívida que não assinaram" substitui "vocês mereciam a morte" — evita o eco da linguagem do carrasco (Metrópole/Mina) e ancora a condenação na dívida herdada que a audiência entende.
-tags: [decisao, L1, cap-24, teologia, pregação, substituicao-penal, divida, mario]
+tags: [decisao, L1, cap-25, teologia, pregação, substituicao-penal, divida, mario]
 timestamp: 2026-08-30T12:00:00-03:00
 ---
 
-# Tradução da Substituição Penal pela Ponte da Dívida (cap. 24)
+# Tradução da Substituição Penal pela Ponte da Dívida (cap. 25)
 
 ## Contexto
 
-Na pregação da Feira de Tronk (cap. 24), Mário anuncia o evangelho a uma
+Na pregação da Feira de Tronk (cap. 25), Mário anuncia o evangelho a uma
 audiência de refugiados e endividados de Ornick. A formulação original
 "Ele morreu a morte que vocês mereciam" foi identificada como ponto de quebra
 pelo Consultor Teológico: em Ornick, "você merece o que sofre" é a linguagem

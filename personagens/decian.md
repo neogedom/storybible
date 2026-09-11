@@ -16,13 +16,13 @@ massacre de Opium **sem matar ninguém** — curou os carrascos.
 
 ## Arco
 
-- **L1**: Cap. 10: cura Mário. Questiona Charles.
-  Cap. 12: cuida de Mário na jaula — pasta de raiz negra, deixa cantil.
+- **L1**: Cap. 11: cura Mário. Questiona Charles.
+  Cap. 13: cuida de Mário na jaula — pasta de raiz negra, deixa cantil.
   "Ninguém merece apodrecer com a carne aberta. Mesmo um forasteiro."
-  → cap. 15: deserta de Charles → cap. 18: reencontra-se com Nolan na
+  → cap. 16: deserta de Charles → cap. 19: reencontra-se com Nolan na
   Estalagem do Vau, em choque após o massacre da alcateia. Revela a Nolan
   que Kate levou Mário ao Castelo de Devour.
-  → cap. 29: reencontra Mário em Gus
+  → cap. 30: reencontra Mário em Gus
 - **L2 (Remanescente)**: Percebe a corrupção de Mário antes de todos
 - **Morte**: Tratando feridos na guerra civil
 

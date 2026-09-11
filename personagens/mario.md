@@ -42,7 +42,7 @@ Ver timeline visual completa em [visuais/mario.md](/visuais/mario.md).
 - Busca desesperadamente um sentido para o que está acontecendo
 - Sua fé emerge da experiência, não da doutrina — ele não sabe o que crê até
   ser forçado a crer
-- **Beira da apostasia (canon 2026-08-16)**: no cap. 20, Mário beira a
+- **Beira da apostasia (canon 2026-08-16)**: no cap. 21, Mário beira a
   apostasia — irado com Deus pela inação na morte de Lucas — mas é eleito:
   não vai até o fim, e continua fazendo o que a teologia manda (pregar), no
   paradoxo de estar com raiva de Deus e mesmo assim obedecer à forma. Eco de
@@ -68,7 +68,7 @@ Ver timeline visual completa em [visuais/mario.md](/visuais/mario.md).
   competente (e arrogante) — pode ser dogmático quando confrontado, no
   idioma reformado (um só Deus, poderes caídos), nunca jargão de Conselho
   Divino.
-- **Filtro**: em Ornick fala ornickenho (fluente desde o cap. 12), mas a
+- **Filtro**: em Ornick fala ornickenho (fluente desde o cap. 13), mas a
   PERSONA continua a do terráqueo.
 - **Nota de workflow**: personas por personagem devem ser demarcadas aqui e
   em `temas/tom-e-voz.md` para que os agentes escrevam diálogos críveis.
@@ -100,9 +100,9 @@ responsabilidade deles pedia.
   pais e a irmã (Camilla) — no fundo, também os culpa por terem deixado
   Lucas entrar no mundo das drogas.
 - **Função no L1**: a morte de Lucas é a sombra do milagre do bebê (caps.
-  19-20).
+  20-21).
 - **Nota de escrita**: backstory ainda não dramatizado — usar com moderação
-  (delírios do cap. 20: Lucas entra como eco do rapaz da calçada, o irmão
+  (delírios do cap. 21: Lucas entra como eco do rapaz da calçada, o irmão
   que morreu de droga — NUNCA como cena de recusa da Voz; possível confissão
   futura).
 
@@ -116,7 +116,7 @@ técnica argumentativa.
 
 Independentemente da sofisticação teológica, **Deus é soberano**: decide
 quando, como e com quem age. As ferramentas dele não salvam ninguém — só Deus
-salva. Controle e entendimento são vício e muleta (cap. 20), não salvação.
+salva. Controle e entendimento são vício e muleta (cap. 21), não salvação.
 
 ### Sintoma Comportamental
 
@@ -133,7 +133,7 @@ novo?"
 ### Evolução
 
 - **L1**: as ferramentas NÃO salvam (o garoto do beco morre com Mário
-  "pronto"); o bebê do cap. 19 respira SEM ferramentas e SEM consentimento
+  "pronto"); o bebê do cap. 20 respira SEM ferramentas e SEM consentimento
   dele — Deus age soberano.
 - **L2**: a corrupção do próprio reinado; nem a teologia mais apurada
   imuniza contra o pecado.
@@ -180,7 +180,7 @@ narrativa é ser o ponto de tensão entre três forças:
 1. **Genocydo** quer usá-lo para alcançar a apoteose
 2. **Nolan** quer controlá-lo como variável geopolítica
 3. **Kate** (inicialmente) quer entregá-lo; depois, protegê-lo; **após o
-   cap. 19**, usá-lo como arma (o milagre visto como ferramenta)
+   cap. 20**, usá-lo como arma (o milagre visto como ferramenta)
 
 Mário não quer ser profeta. Mas os milagres acontecem através dele — e isso
 o torna inescapável.
@@ -189,20 +189,20 @@ o torna inescapável.
 
 > **Distinção de POV (crítica)**: "dom" é a linguagem do NARRADOR/leitor (que
 > sabe que é Deus). Mário NÃO usa essa palavra nem atribui identidade divina
-> à Voz. Para ele, a Voz ainda é "o delírio da infame Voz" (cap. 2) — ele
+> à Voz. Para ele, a Voz ainda é "o delírio da infame Voz" (cap. 3) — ele
 > interpreta a fluência como a anomalia psicótica se instalando na língua
 > dele. Qualquer narração no POV de Mário deve usar a leitura dele (delírio
 > que ficou), nunca "dom".
 
-- **Cap. 4**: a Voz concede a Mário a capacidade de **ENTENDER** ornickenho
+- **Cap. 5**: a Voz concede a Mário a capacidade de **ENTENDER** ornickenho
   (tradução automática). Permanente.
-- **Cap. 12**: a Voz concede a Mário a capacidade de **FALAR** ornickenho.
+- **Cap. 13**: a Voz concede a Mário a capacidade de **FALAR** ornickenho.
   Não é possessão momentânea — é uma **capacitação permanente**: a primeira
   frase sai perfeita, e a partir daí Mário é **fluente, sem sotaque, para
   sempre**. Mário, porém, lê o evento como "o delírio entrou na língua dele".
 - **Consequência**: a Voz NÃO toma as cordas vocais de Mário em momentos
   pontuais. Ela dita **conteúdo** (prompts), mas Mário fala com a própria voz.
-- **Implicação no cap. 19**: o milagre da oração não está na língua (Mário
+- **Implicação no cap. 20**: o milagre da oração não está na língua (Mário
   já é fluente) — está no **conteúdo** ("Eu Sou, acima do Limbo") e no efeito
   (o bebê volta). Kate reconhece a voz dele; o que a estranha é o que ele diz.
 
@@ -210,28 +210,28 @@ o torna inescapável.
 > "ornickenho". Para ele, a língua é "a língua deles". "Ornickenho/ornickenha"
 > só pode aparecer no POV de personagens nativos (Nolan, Kate, Lakand,
 > Decian...) ou em fala deles. Se Mário um dia usar "ornickenho", precisa ter
-> aprendido o nome antes — senão é vazamento. (Corrigido no cap. 12: "língua
+> aprendido o nome antes — senão é vazamento. (Corrigido no cap. 13: "língua
 > ornickenha" → "a língua deles".)
 
-- **Cap. 20 (canon 2026-08-16, revisto — identificação irada)**: após a
+- **Cap. 21 (canon 2026-08-16, revisto — identificação irada)**: após a
   ressurreição, Mário IDENTIFICA a Voz como Deus — a lógica o obriga (só
   quem cria ressuscita), e a palavra pousa ("É Deus"). Mas a identificação
   não é confissão: é acusação. Ele sabe de quem, e a resposta é raiva (a
   inação na morte de Lucas) — beirando a apostasia, mas é eleito: não vai
   até o fim e continua fazendo o que a teologia manda. Segura os dogmas
-  como escudo para não encarar a relação (não ora). O cap. 26 desnuda essa
+  como escudo para não encarar a relação (não ora). O cap. 27 desnuda essa
   raiva (eco de Jó); a Voz fica em silêncio até lá. **Fechamento dos fios
-  (canon 2026-08-16, revisto):** fio 1 (a Voz é real) fecha no cap. 20
-  (corpo inteiro); fio 2 (a Voz é Deus) fecha no cap. 20 (identificação
+  (canon 2026-08-16, revisto):** fio 1 (a Voz é real) fecha no cap. 21
+  (corpo inteiro); fio 2 (a Voz é Deus) fecha no cap. 21 (identificação
   irada); fio 3 (o sonho é real) fecha no L2 (gravura).
-- **Jogos (caps. 21-25, canon 2026-08-16) — agenda oculta**: Mário prega
+- **Jogos (caps. 22-26, canon 2026-08-16) — agenda oculta**: Mário prega
   buscando conversões, mas o motor é provar que os dogmas dele estão certos
   — no limite, que Deus está errado e ele certo, sem verbalizar. A pregação
   é a acusação contra Deus (a inação na morte de Lucas) em forma de
   tribunal: cada convertido é um veredito. É a tentativa de resolver as
-  coisas do jeito errado; o cap. 26 desnuda isso.
+  coisas do jeito errado; o cap. 27 desnuda isso.
 
-## Capítulo 19 — O Bebê
+## Capítulo 20 — O Bebê
 
 - Febril e desmaiado nos calabouços de Devour (infecção no braço)
 - A Voz age **através** dele: semi-inconsciente e febril, pergunta "O que
@@ -244,7 +244,7 @@ o torna inescapável.
 - Não lembra de ter orado (ou lembra e racionaliza): efeito sanfona — deixa
   de orar ao ver os argumentos funcionarem sem oração (cessacionismo teimoso)
 - A Voz assume a autoria da glossolalia como testemunho (a escrever)
-- Prepara a crise teológica do cap. 20: "Por que este bebê e não Lucas?"
+- Prepara a crise teológica do cap. 21: "Por que este bebê e não Lucas?"
   - "eu falo ornickenho sem nunca ter aprendido" — dom permanente não pedido
 - Foge carregado por Kate, guiado por Lakand
 
@@ -261,25 +261,25 @@ o torna inescapável.
 
 ## Arco Narrativo
 
-- **Configuração (caps. 0-2)**: Mário na Terra. Sonho com Ornick. Garoto morre.
+- **Configuração (caps. 0-3)**: Mário na Terra. Sonho com Ornick. Garoto morre.
   Mário é levado.
 - **Cap. 1 — O Sonho**: Mário sonha com a guerra (Gabbriel mata Vicent).
   Na Terra, a Voz ordena que cure um moribundo — Mário **recusa** por medo do
   irracional. Primeiro teste de fé: falha.
-- **Cap. 2 — A Travessia**: Mário é sequestrado. A Voz ordena que suje as
+- **Cap. 3 — A Travessia**: Mário é sequestrado. A Voz ordena que suje as
   mãos na lama — Mário obedece. **Primeira rendição**. O milagre da porta.
   Inquiridor atira 3 vezes.
-- **Cap. 4 — Opium**: Mário acorda **curado** dos 3 tiros. Descobre que está
+- **Cap. 5 — Opium**: Mário acorda **curado** dos 3 tiros. Descobre que está
   em Ornick (duas luas). Consegue traduzir idiomas. É capturado.
-- **Cap. 7 — Os Lordes Defuntos**: Mário é apunhalado no ombro. Charles se revela.
-- **Cap. 10 — A Carga**: Mário curado, amarrado, levado como mercadoria.
-- **Cap. 12**: Mário fala ornickenho. Foge na 3ª noite.
-- **Cap. 15 — A Queda**: Mário guia os lobisomens ao acampamento nômade.
+- **Cap. 8 — Os Lordes Defuntos**: Mário é apunhalado no ombro. Charles se revela.
+- **Cap. 11 — A Carga**: Mário curado, amarrado, levado como mercadoria.
+- **Cap. 13**: Mário fala ornickenho. Foge na 3ª noite.
+- **Cap. 16 — A Queda**: Mário guia os lobisomens ao acampamento nômade.
   **Tae-Tabor morto**. Kate mata o lobisomem que o prendia e o captura.
   Mário afunda na culpa: "foi minha culpa."
-- **Debate (caps. 3-17)**: "Isso é real?" Mário questiona, resiste, aprende.
-- **Break Into 2 (caps. 18-19)**: Mário ressuscita Saboc. Aceita seu papel.
-- **Jogos (caps. 20-25)**: Milagres, evangelização, Mina de Quartzo.
+- **Debate (caps. 4-18)**: "Isso é real?" Mário questiona, resiste, aprende.
+- **Break Into 2 (caps. 19-20)**: Mário ressuscita Saboc. Aceita seu papel.
+- **Jogos (caps. 21-26)**: Milagres, evangelização, Mina de Quartzo.
 
 _Atualizado a cada INGEST de capítulo._
 

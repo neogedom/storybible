@@ -41,7 +41,7 @@ Cada capítulo deve responder:
 | Debate                   | ~12-42%         | 4-18      | ✅ Escrito   |
 | Break Into 2             | ~42-45%         | 19-20     | ✅ Escrito   |
 | Jogos (Velocino de Ouro) | ~45-68%         | 21-35     | ✍️ Escrevendo |
-| Ponto Central            | ~68%            | ~34-35    | 📝 Planejado |
+| Ponto Central            | ~68%            | ~36       | 📝 Planejado |
 | Vilões se Aproximam      | ~68-75%         | —         | 📝 Planejado |
 | Tudo Está Perdido        | ~75%            | —         | 📝 Planejado |
 | Noite Escura da Alma     | ~75-80%         | —         | 📝 Planejado |
@@ -49,7 +49,7 @@ Cada capítulo deve responder:
 | Final                    | ~80-99%         | —         | 📝 Planejado |
 | Imagem Final             | ~99-100%        | —         | 📝 Planejado |
 
-> **Projeção:** Mantido o ritmo atual (~2.600 palavras/capítulo), o Ponto Central (~68%) chegará por volta do cap. 33-34 com ~80.000 palavras acumuladas. O L1 total deve ficar entre 110.000 e 120.000 palavras.
+> **Projeção:** Mantido o ritmo atual (~2.600 palavras/capítulo), o Ponto Central (~68%) chegará no cap. 36 com ~80.000 palavras acumuladas. O L1 total deve ficar entre 110.000 e 120.000 palavras.
 
 ---
 

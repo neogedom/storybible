@@ -1,7 +1,7 @@
 ---
 type: Entity
 title: Inquiridores do Sinal
-description: Facção do culto de Vonos que caça o Estrangeiro. Não respondem ao Rei, apenas ao Sinal.
+description: Ordem a serviço do Templo de Vonos (Rifte) que caça o Estrangeiro. Não respondem ao Rei — apenas ao Templo.
 tags: [faccao, inquiridores, vonos, antagonista, L1, L2]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
@@ -10,14 +10,23 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Visão Geral
 
-Os **Inquiridores do Sinal** são uma facção do culto burocrático de **Vonos**.
-Não respondem ao Rei Genocydo, apenas ao Sinal — têm autoridade para
-reivindicar custódia sobre qualquer caso relacionado ao Souhma.
+A **Ordem dos Inquiridores do Sinal** é o corpo de agentes a serviço do
+**Templo de Vonos**, em **Rifte** (reino vizinho). Não respondem ao Rei
+Genocydo — apenas ao Templo — e têm autoridade para reivindicar custódia
+sobre qualquer caso relacionado ao Souhma.
+
+> **Nomenclatura (canon 2026-09-10):** o **Sinal** é a frequência de
+aferição que Vonos manifesta em Ornick — não a Ordem. Na prosa, não usar
+"o Sinal" como sinônimo de "a Ordem".
 
 Equipados com a **Vara de Ofício** — arma branca de renanthao cujo fio
 apodrece, em minutos, a ferida de quem tem magia no sangue —, com diapasões
 de triangulação e bacias métricas, são caçadores do Estrangeiro que operam
 nas fronteiras do Reino e além.
+
+A Ordem leva consigo **escribas** — do corpo do **Escriba-Mestre** (Prólogo;
+ver `conceitos/sinal-de-vonos.md`) — que documentam as operações: não lutam;
+observam, registram e recuam (um deles testemunha o confronto do cap. 28).
 
 ## Identificação
 
@@ -25,7 +34,7 @@ nas fronteiras do Reino e além.
 - **Vara de Ofício**: arma branca de renanthao — estocada e corte; fincada e percutida contra a outra, emite vibração que atordoa (não fere); fuste graduado mede o raio; o fio apodrece a ferida de quem tem magia no sangue (minutos, sem cura conhecida)
 - **Revólver de Auditoria**: arma de captura/transporte (não de execução) — ver `conceitos/inquiridores-sinal.md`
 - **Diapasões de renanthao**: usados para triangular a assinatura de Mário
-- **Cicatrizes rituais** (o Inquiridor que atira em Mário no cap. 2 tem uma cicatriz no rosto)
+- **Cicatrizes rituais** (o Inquiridor que atira em Mário no cap. 3 tem uma cicatriz no rosto)
 
 ## Membros Conhecidos
 
@@ -44,13 +53,13 @@ longo da narrativa.
 | Capítulo             | Evento                                                                                                          |
 | -------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Prólogo (cap. 0)** | Genocydo mobiliza os Inquiridores para todas as fronteiras                                                      |
-| **Cap. 2**           | Um Inquiridor (individual) aparece em Ornick. Atira 3 vezes: clavícula, esterno, caixa torácica. Mário desaba   |
-| **Cap. 3**           | Koda menciona: Genocydo financia os Inquiridores com renanthao                                                  |
-| **Cap. 5**           | Kate foi treinada para ser imune às armas geométricas deles                                                     |
-| **Cap. 6**           | Nolan teme que os Inquiridores reivindiquem custódia                                                            |
-| **Cap. 12**          | Mercenários temem que os Inquiridores cheguem primeiro                                                          |
-| **Cap. 17**          | Intimação formal chega a Devour. Diapasão de renanthao cravado na floresta — triangulando a assinatura de Mário |
-| **Cap. 18**          | Devour segura Mário para a escolta oficial                                                                      |
+| **Cap. 3**           | Um Inquiridor (individual) aparece em Ornick. Atira 3 vezes: clavícula, esterno, caixa torácica. Mário desaba   |
+| **Cap. 4**           | Koda menciona: Genocydo financia os Inquiridores com renanthao                                                  |
+| **Cap. 6**           | Kate foi treinada para ser imune às armas geométricas deles                                                     |
+| **Cap. 7**           | Para Nolan, os Inquiridores não são temor — são garantia: a ordem não se move por farsa; um charlatão morre na aferição (o risco real é Cressadar ungir um farsante). Canon corrigido em 2026-09-06                                                            |
+| **Cap. 13**          | Kenod ouve que os Inquiridores também o querem — a alcateia negocia por oferta (sem oferta melhor, entrega ao Rei)                                                          |
+| **Cap. 18**          | Intimação formal chega a Devour. Diapasão de renanthao cravado na floresta — triangulando a assinatura de Mário |
+| **Cap. 19**          | Devour segura Mário para a escolta oficial                                                                      |
 
 ## Arco Planejado
 
@@ -79,4 +88,4 @@ longo da narrativa.
 `Inquiridor do Sinal, agente do culto de Vonos, vestes escuras de executor ritual com insígnias geométricas de metal, talismã de Vonos no pescoço, cicatrizes rituais no rosto, armas geométricas de renanthao e diapasões de triangulação à cintura, expressão fria e doutrinária`
 
 **Prompt de referência (imagem-retrato do arquivo):**
-Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um executor ritual diante de uma fronteira desolada ou floresta noturna. Inquiridor do Sinal, agente do culto de Vonos, vestes escuras de executor ritual com insígnias geométricas de metal, talismã de Vonos no pescoço, cicatrizes rituais no rosto, armas geométricas de renanthao e diapasões de triangulação à cintura, expressão fria e doutrinária de quem obedece apenas ao Sinal. Iluminação: chiaroscuro dramático com luz fria e clínica. Atmosfera: de burocracia divina, caça e falta de piedade. Paleta de cores: cinza-pedra, metal frio de renanthao e branco-azulado de Vonos. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um executor ritual diante de uma fronteira desolada ou floresta noturna. Inquiridor do Sinal, agente do culto de Vonos, vestes escuras de executor ritual com insígnias geométricas de metal, talismã de Vonos no pescoço, cicatrizes rituais no rosto, armas geométricas de renanthao e diapasões de triangulação à cintura, expressão fria e doutrinária de quem obedece apenas ao Templo. Iluminação: chiaroscuro dramático com luz fria e clínica. Atmosfera: de burocracia divina, caça e falta de piedade. Paleta de cores: cinza-pedra, metal frio de renanthao e branco-azulado de Vonos. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.

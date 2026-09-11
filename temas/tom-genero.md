@@ -1,12 +1,12 @@
 ---
 type: Theme
 name: Tom e Gênero
-ultimo_capitulo: 18
+ultimo_capitulo: 19
 ---
 
-# Tom e Gênero — Notas do Capítulo 18
+# Tom e Gênero — Notas do Capítulo 19
 
-## Tom do Capítulo 18
+## Tom do Capítulo 19
 
 Este capítulo opera em dois registros distintos:
 
@@ -17,6 +17,6 @@ A transição entre os dois registros é abrupta — Nolan sobe as escadas e enc
 
 ## Avanço Temático
 
-- **O custo da política**: Nolan paga o preço máximo por sua ausência emocional. A briga não resolvida com Dagmar (cap. 16) pesa no silêncio deste capítulo.
+- **O custo da política**: Nolan paga o preço máximo por sua ausência emocional. A briga não resolvida com Dagmar (cap. 17) pesa no silêncio deste capítulo.
 - **Ambiguidade do Estrangeiro**: Nolan esperava um monstro e encontrou um homem. O capítulo reforça que Mário não é o que os outros projetam nele.
 - **Poder e tédio**: Devour representa o poder sem propósito — governa por inércia, cultiva o próprio apodrecimento. Contraste com Nolan, que ainda acredita que pode agir.

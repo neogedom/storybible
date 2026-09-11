@@ -1,7 +1,7 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 18
+capitulo: 19
 titulo: "O Castelo de Devour"
 pov: Nolan
 beat_stc: Debate -> Break Into 2 (transição)
@@ -32,7 +32,7 @@ sementes:
   - Mário na cela, visto por Nolan
 ---
 
-# Capítulo 18 — O Castelo de Devour
+# Capítulo 19 — O Castelo de Devour
 
 ## Resumo
 
@@ -42,7 +42,7 @@ Nolan parte imediatamente para o castelo de Devour. Após seis dias de viagem, c
 
 Nolan desce aos calabouços e vê Mário — um homem jovem, sujo, ferido, encolhido no canto da cela. Nada do que esperava.
 
-Enquanto isso, Dagmar entra em trabalho de parto. O bebê está atravessado. Ela morre no parto; a criança também nasce sem ar. Nolan segura a mão de Dagmar enquanto ela morre. O capítulo termina com Nolan em choque, o vazio tomando conta, enquanto passos descem as escadas do calabouço (preparando o cap. 19).
+Enquanto isso, Dagmar entra em trabalho de parto. O bebê está atravessado. Ela morre no parto; a criança também nasce sem ar. Nolan segura a mão de Dagmar enquanto ela morre. O capítulo termina com Nolan em choque, o vazio tomando conta, enquanto passos descem as escadas do calabouço (preparando o cap. 20).
 
 ## Eventos Principais
 
@@ -72,7 +72,7 @@ Enquanto isso, Dagmar entra em trabalho de parto. O bebê está atravessado. Ela
 
 ### Dagmar
 - Silenciosa durante toda a viagem
-- Não olha para Nolan — carrega a mágoa das revelações do cap. 16
+- Não olha para Nolan — carrega a mágoa das revelações do cap. 17
 - Morre no parto
 - Bebê atravessado — não há o que as parteiras possam fazer
 - Último gesto: aperta a mão de Nolan
@@ -110,7 +110,7 @@ Enquanto isso, Dagmar entra em trabalho de parto. O bebê está atravessado. Ela
 
 ## Sementes Plantadas
 
-1. **Decian**: Lobisomem curandeiro que traiu a alcateia — personagem disponível para retorno (cap. 19, Mário ressuscita o bebê — Decian pode ser procurado)
+1. **Decian**: Lobisomem curandeiro que traiu a alcateia — personagem disponível para retorno (cap. 20, Mário ressuscita o bebê — Decian pode ser procurado)
 2. **Devour indeciso**: Três facções disputam Mário — a indecisão de Devour é a única janela
 3. **Inquiridores do Sinal**: Já têm o selo de Vonos — autoridade superior à de Nolan
 4. **Nolan vulnerável**: Morte de Dagmar abala emocionalmente o conselheiro — brecha para Kate ou Devour explorarem
@@ -118,6 +118,6 @@ Enquanto isso, Dagmar entra em trabalho de parto. O bebê está atravessado. Ela
 
 ## Avanço STC
 
-- **Cap. 18 é o último capítulo do Debate** (8-35% do L1)
-- A morte de Dagmar e a visão de Mário na cela funcionam como catalisadores para o **Break Into 2** (Cap. 19)
+- **Cap. 19 é o último capítulo do Debate** (8-35% do L1)
+- A morte de Dagmar e a visão de Mário na cela funcionam como catalisadores para o **Break Into 2** (Cap. 20)
 - Nolan agora tem motivação pessoal (perda) + profissional (o Estrangeiro) — a jornada dele entra em novo eixo

@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 7 — Os Lordes Defuntos"
+title: "Capítulo 8 — Os Lordes Defuntos"
 description: "Mário é capturado por vampiros na torre. Charles se revela como o daërunmege infiltrado e se transforma em lobo."
 pov: [Mário]
 stc-beat: "Debate (~20-23%)"
-timeline: "Imediatamente após cap. 4"
+timeline: "Imediatamente após cap. 5"
 tags: [L1, mario, opium, vampiros, charles, daerunmege]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
@@ -61,7 +61,7 @@ testemunha sua primeira criatura sobrenatural de Ornick.
 
 ## Conexões
 
-- [Capítulo 4](/capitulos/capitulo-04.md) — Mário foi capturado pelos vampiros
+- [Capítulo 5](/capitulos/capitulo-05.md) — Mário foi capturado pelos vampiros
 - [Charles](/personagens/charles.md) — Caçador de Mário, pragmático
 - [Decian](/personagens/decian.md) — Outro daërunmege que estava com Charles
 - [Cosmologia](/conceitos/cosmologia.md) — Daërunmege = lobisomens, criados por Mesmia
@@ -73,7 +73,7 @@ testemunha sua primeira criatura sobrenatural de Ornick.
 - A transmorfia é uma habilidade que permite aos daërunmeges se passarem
   por humanos — Charles a usou para se infiltrar entre os vampiros
 - **Etwano (canon 2026-08-12):** morto no combate da torre. A morte é
-  **implícita no texto** — o cap. 7 termina no meio da luta e o cap. 10
+  **implícita no texto** — o cap. 8 termina no meio da luta e o cap. 11
   mostra Charles e Decian descartando todos os corpos ("Esse é o último").
   A queima é **solar**: os corpos são jogados pela janela e o sol os frita
-  ao amanhecer (cap. 10) — não há fogo direto de Charles na página.
+  ao amanhecer (cap. 11) — não há fogo direto de Charles na página.

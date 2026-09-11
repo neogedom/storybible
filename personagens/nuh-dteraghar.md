@@ -23,7 +23,7 @@ teológico**, não malícia.
 
 ## Arco
 
-- **Cap. 13**: Rejeita a evidência da falência. Escolhe a apoteose.
+- **Cap. 14**: Rejeita a evidência da falência. Escolhe a apoteose.
   "Não importa. O ouro é métrica para homens mortais."
   Rejeita a Bíblia — não a reconhece.
 - **Final do L1**: Choque teológico: Vonos não estava no controle. Some.

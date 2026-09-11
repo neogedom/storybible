@@ -21,7 +21,7 @@ estabelecesse ali.
 O massacre de Opium é a ferida moral que Charles carrega como pragmatismo
 e Decian como culpa silenciosa.
 
-## Capítulo 4
+## Capítulo 5
 
 - Mário acorda curado em uma cabana na vila
 - Descobre o cadáver de Loretta na torre

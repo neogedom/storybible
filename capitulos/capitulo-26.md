@@ -1,7 +1,7 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 25
+capitulo: 26
 titulo: "O Preço da Fama"
 pov: Kate
 beat_stc: Jogos e Diversão
@@ -26,11 +26,11 @@ conceitos:
   - Debate filosófico (fato vs. conclusão, medo vs. pensamento)
   - Milagre com custo (a cura gera oposição, não só adesão)
 sementes:
-  - Carroceiro humilhado no debate — cuspiu no chão na fuga (rancor → cap. 26 como informante dos caçadores)
-  - Mário questiona violência de Kate ("Isso não é certo") — primeira fissura moral (eco no Ponto Central, cap. 35)
+  - Carroceiro humilhado no debate — cuspiu no chão na fuga (rancor → cap. 27 como informante dos caçadores)
+  - Mário questiona violência de Kate ("Isso não é certo") — primeira fissura moral (eco no Ponto Central, cap. 36)
   - Lakand revela que queimou Saramant por Kate — dívida em aberto (nunca resolvida no L1)
   - Lakand acusa Kate de estar se afeiçoando como Theodore — afastamento entre os dois
   - Kate reafirma Mário como instrumento, nega o afeto ("Vou precisar que eles estejam de pé quando a hora chegar. Depois eu decido.")
-  - Recompensa reconhecida publicamente → caçadores no cap. 26
+  - Recompensa reconhecida publicamente → caçadores no cap. 27
   - Convertidos de Tronk perdidos — a esperança não sobreviveu à oposição
 ---

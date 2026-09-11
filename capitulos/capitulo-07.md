@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 6 — O Jogo"
+title: "Capítulo 7 — O Jogo"
 description: "Nolan joga xadrez com Genocydo e tenta dissuadi-lo de Cressadar. Falha. Vai a Koda — a conspiração se aprofunda."
 pov: [Nolan]
 stc-beat: "Debate (~16-20%)"
-timeline: "Manhã — mesmo período dos caps. 1-5"
+timeline: "Manhã — mesmo período dos caps. 1-6"
 tags: [L1, nolan, genocydo, koda, cressadar, llyfr, xadrez]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
@@ -70,14 +70,14 @@ nesta sala?"_
   Sinal cósmico que até os astrônomos não explicam. Semente para o L2.
 - 🌱 **Nolan leu o Llyfr**: Ele conhece a profecia original. Sabe que
   Cressadar mente. Isso será usado contra Benjamim no futuro.
-- 🌱 **"Gunad não está"**: Segunda menção (cap. 3 foi a primeira).
+- 🌱 **"Gunad não está"**: Segunda menção (cap. 4 foi a primeira).
   Semente para L2 (Gunad emerge como pregador).
 - 🌱 **Nolan hesita em matar**: Prefere "outra atitude igualmente
   eficiente" — ou seja, **golpe político**, não assassinato.
 
 ## Conexões
 
-- [Capítulo 3](/capitulos/capitulo-03.md) — Koda sugeriu a conspiração
+- [Capítulo 4](/capitulos/capitulo-04.md) — Koda sugeriu a conspiração
 - [Capítulo 0](/capitulos/capitulo-00.md) — O sinal falhou; luas azuis confirmam
 - [Benjamim Cressadar](/personagens/benjamim.md) — Nolan sabe que ele fabrica profecias
 - [Inquiridores](/personagens/inquiridor.md) — Nolan os quer caçando qualquer Souhma (a ordem só age pelo que o Sinal marca; impostor morre na aferição); o risco é Cressadar ungir um farsante
@@ -97,4 +97,4 @@ nesta sala?"_
   aferição. O texto do cap. 7 foi corrigido em 2026-09-06 (a antiga linha de
   "risco dos Inquiridores reivindicarem custódia" foi invertida). O medo de
   custódia/violação de narrativa é re-temporizado: só entra quando o Souhma
-  é real (caps. 19/22–24+).
+  é real (caps. 20/23–25+).

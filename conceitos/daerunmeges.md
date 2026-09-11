@@ -1,7 +1,7 @@
 ---
 type: Concept
 name: Daërunmeges (Lobisomens)
-ultimo_capitulo: 19
+ultimo_capitulo: 21
 ---
 
 # Daërunmeges
@@ -12,37 +12,37 @@ Criaturas que alternam entre forma humana e de lobo. Também chamados de "lobiso
 
 ## Formas (canon 2026-08-04)
 
-- **Forma humana:** bípede, fala normal (Lakand nos caps. 8 e 12).
+- **Forma humana:** bípede, fala normal (Lakand nos caps. 9 e 13).
 - **Forma híbrida:** bípede, mais fera; **fala** com voz gutural/alterada
-  (validado no cap. 15 — o lobisomem que captura Mário fala com o focinho em
+  (validado no cap. 16 — o lobisomem que captura Mário fala com o focinho em
   forma híbrida). É o continuum fera/homem.
 - **Forma plena (lobo quadrúpede):** pura fisicalidade — velocidade, visão
   noturna, carga. **Não articula fala (decisão travada 2026-08-04).**
-  Validada pelo canon: no cap. 10 os daërunmeges revertem à forma humana para
-  conversar; no cap. 15 a híbrida fala (focinho), mas a plena não.
+  Validada pelo canon: no cap. 11 os daërunmeges revertem à forma humana para
+  conversar; no cap. 16 a híbrida fala (focinho), mas a plena não.
 
-## Lakand — Desmanche (cap. 19, decisão 2026-08-04)
+## Lakand — Desmanche (cap. 20, decisão 2026-08-04)
 
 Lakand chega à cela de Kate em **forma híbrida** (mais fera do que homem:
 pelagem chamuscada, postura de predador, sangue nas mãos). O **homem volta
 quando ele diz "— Kate."** — o nome é o primeiro som humano; os ombros
 afrouxam, os olhos voltam a ser dele. Quieto, rápido — não compete com o
-clímax da ressurreição. O "franziu a testa" do cap. 19 publicado é o
+clímax da ressurreição. O "franziu a testa" do cap. 20 publicado é o
 micro-desmanche que se expande.
 
-## Lakand — 1ª Forma Plena (cap. 20, decisão 2026-08-04)
+## Lakand — 1ª Forma Plena (cap. 21, decisão 2026-08-04)
 
 Primeira aparição de Lakand em **lobo pleno**: carrega Mário pela floresta em
 chamas — velocidade, visão noturna, rasteja rente ao chão na fumaça. Vista
 pelo POV febril de Mário (renderização impressionista). Coerente: Mário já
-viu lobo pleno (Charles, cap. 7). Ironia: a fera carrega o homem que Kate
+viu lobo pleno (Charles, cap. 8). Ironia: a fera carrega o homem que Kate
 escolheu sobre ele — subtexto do "eu perdi".
 
 ## Organização Social
 
 Vivem em **alcateias**. Cada alcateia tem um líder. A alcateia liderada por **Kenod** é a que aparece na trama recente.
 
-## Atividade Recente (Cap. 18)
+## Atividade Recente (Cap. 19)
 
 - Envolvidos em massacre com rampillas na floresta de Saramant
 - Estavam caçando um forasteiro (Mário) que apareceu do nada

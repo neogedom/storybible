@@ -75,26 +75,26 @@ Dispara quando alguém oferece, promete ou pede algo dela (transações: o
 momento em que foi precificada); quando alguém se aproxima para tocá-la; e
 quando o passado (mãe, pai, gornads, Cressadar) aflora. Reencena o próprio
 aprisionamento para controlá-lo: se ela segura o próprio pulso, ninguém mais
-a segura. (Os pulsos amarrados de sisal do cap. 19 são a memória física do
+a segura. (Os pulsos amarrados de sisal do cap. 20 são a memória física do
 gesto.)
 
 O gesto foi semeado na prosa (decisão 2026-08-29), com intensidade variada:
-cap. 5 (eco do toque de Gaviorn'l, figura paterna — "a mão ficou ali um
-instante a mais do que precisava"); cap. 8 (toque íntimo de Lakand beijando os
-pulsos — a mão dela aperta o pulso que a boca dele tocara); cap. 19 (bloqueado:
-mãos amarradas de sisal, o polegar não encontra a pele); cap. 20 (rápido,
-visto por Mário sem explicação); cap. 22 (gesto pleno e interno). A linguagem varia em cada ocorrência para não virar tique mecânico.
+cap. 6 (eco do toque de Gaviorn'l, figura paterna — "a mão ficou ali um
+instante a mais do que precisava"); cap. 9 (toque íntimo de Lakand beijando os
+pulsos — a mão dela aperta o pulso que a boca dele tocara); cap. 20 (bloqueado:
+mãos amarradas de sisal, o polegar não encontra a pele); cap. 21 (rápido,
+visto por Mário sem explicação); cap. 23 (gesto pleno e interno). A linguagem varia em cada ocorrência para não virar tique mecânico.
 
 ### Medo de Ativação
 
 Ser usada de novo. Qualquer sinal de que é instrumento de algo que não
-escolheu (a guerra de Gaviorn'l, o "virava arma" do cap. 19) reacende a
+escolheu (a guerra de Gaviorn'l, o "virava arma" do cap. 20) reacende a
 ferida: "vão me comprar de novo."
 
 ### Evolução
 
 - **L1**: escolhe "Os dois" por instinto, não por fé; quer usar Mário como
-  estopim da guerra (cap. 20) — repete o padrão de quem a usou, sem perceber.
+  estopim da guerra (cap. 21) — repete o padrão de quem a usou, sem perceber.
 - **L2**: casa com Mário e tem os gêmeos Bernardo e Stella — o primeiro ato
   de RECEBER (amor, lar, filhos) sem preço. Morre guerreira (~75%) deixando
   os gêmeos órfãos: a mulher que temia ser abandonada é a que parte — a
@@ -121,7 +121,7 @@ venda.
   "ser sugada pela Mina de Quartzo", cap. 5); (b) a vida de batedora em
   Saramant (rotas, a Estalagem do Vau, o terreno); (c) o treinamento da
   facção de Terbs (Gaviorn'l/Cressadar) que a preparou para atacar a
-  Metrópole — a guerra que Gaviorn'l lhe prometeu (cap. 34) exigia intel
+  Metrópole — a guerra que Gaviorn'l lhe prometeu (cap. 35) exigia intel
   sobre os pontos vitais do Reino (a Mina financia a Metrópole). A
   "fragilidade estrutural" da Mina é leitura TÁTICA de raider, não citação
   de arquivo.
@@ -137,7 +137,7 @@ Kate é a **terceira perna do tripé** (Mário/Nolan/Kate). Ela:
 1. Treinada por Gaviorn'l e Benjamim Cressadar como "arma definitiva de
    Terbs" — lâmina física para atacar a Metrópole; depois descartada
 2. Testemunha o milagre de Saboc e escolhe Mário — não por fé, por instinto
-3. **Cap. 19**: testemunha o milagre do bebê (Saboc) nos calabouços de
+3. **Cap. 20**: testemunha o milagre do bebê (Saboc) nos calabouços de
    Devour. O mundo de regras causais dela colapsa ("Isso não existe").
    Escolhe "Os dois" (Lakand + Mário) por instinto tático — **Mário vira
    arma**, não protegido. Foge com Mário e Lakand do castelo em chamas.
@@ -159,7 +159,7 @@ mas também não consegue explicar.
   próprio interesse. Relação ambígua.
 - [Nolan](/personagens/nolan.md) — estranho/independente. Kate não serve a
   Nolan; ela foi treinada pela facção de Terbs (Gaviorn'l/Cressadar) para
-  atacar a Metrópole. Nolan a vê como "a caçadora sem lealdade" (cap. 18).
+  atacar a Metrópole. Nolan a vê como "a caçadora sem lealdade" (cap. 19).
 - [Lakand](/personagens/lakand.md) — aliado. Lakand e Kate compartilham o
   instinto de sobrevivência.
 - [Gaviorn'l](/personagens/gaviornl.md) — mentor/forjador. Treinou Kate à
@@ -178,7 +178,7 @@ mas também não consegue explicar.
 - Massacra 5 rampillas e um xamã
 - A brasa aponta para a Metrópole
 
-### Capítulo 19 — O Bebê
+### Capítulo 20 — O Bebê
 
 - Presa nos calabouços de Devour, ombro direito ferido (unhas de rampilla),
   pulsos amarrados com sisal
@@ -194,27 +194,27 @@ mas também não consegue explicar.
 - Foge guiada por Lakand; última imagem: o bebê azul que voltou a respirar
 - Final do capítulo: "Ela não entendia. Mas ia usar."
 
-### Capítulo 5 — A Selvagem
+### Capítulo 6 — A Selvagem
 
 - Mata Tharin; Gaviorn'l a avisa sobre o Rohdis
 
-### Capítulo 8 — A Caverna
+### Capítulo 9 — A Caverna
 
 - Caça com Lakand; descobre que Charles foi para Opium
 
-### Capítulo 11 — Os Nômades
+### Capítulo 12 — Os Nômades
 
 - Viaja com nômades. Enfrenta Estruzzo.
 
-### Capítulo 14 — O Encontro
+### Capítulo 15 — O Encontro
 
 - Vigília noturna. Mário surge na clareira.
 
-### Capítulo 15 — A Queda
+### Capítulo 16 — A Queda
 
 - Mata o lobisomem, captura Mário.
 
-### Capítulo 17 — Devour
+### Capítulo 18 — Devour
 
 - Foge com Mário pela floresta. Encontra diapasão dos Inquiridores.
 - Atacada por rampillas — **quebra costelas**.
@@ -223,14 +223,14 @@ mas também não consegue explicar.
 
 ## Sementes — O Desejo Enterrado
 
-- **Cap. 8**: Lakand brinca sobre "um filhote com sua cara". Kate sente um
+- **Cap. 9**: Lakand brinca sobre "um filhote com sua cara". Kate sente um
   **formigamento incômodo nas mãos** — sintoma corporal não nomeado do
   desejo enterrado de ter filhos. Racionaliza: "Daërunmeges são estéreis"
   e desvia o assunto.
 - **Motivação profunda**: o desejo de não ter filhos está ligado ao mundo
   ser violento demais e também ao ódio pela mãe, que era **parteira**.
   Kate julga o ofício da mãe como desonroso — chama-a de "escrava"
-  (cap. 8) e "vagabunda" (cap. 5). Rejeitar a maternidade é, em parte,
+  (cap. 9) e "vagabunda" (cap. 6). Rejeitar a maternidade é, em parte,
   rejeitar a vida servil da mãe: Kate quer glória e guerra, não o destino
   humilde de uma parteira. (Canon: NÃO existe "mãe de criação" — é a mãe
   biológica, parteira, que a levava aos partos das vizinhas.)

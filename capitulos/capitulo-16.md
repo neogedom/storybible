@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 15 — A Queda"
+title: "Capítulo 16 — A Queda"
 description: "Lobisomens e rampillas colidem no acampamento. Kate mata o lobisomem que prendia Mário e o captura."
 pov: [Mário]
 stc-beat: "Debate (~47-50%)"
-timeline: "Imediatamente após cap. 14 — noite"
+timeline: "Imediatamente após cap. 15 — noite"
 tags: [L1, mario, kate, massacre, nomades, rampillas]
 timestamp: 2026-07-25T12:00:00-03:00
 ---
@@ -57,7 +57,7 @@ Os rampillas recuam. Kate puxa Mário para longe do massacre.
 
 ## Conexões
 
-- [Capítulo 14](/capitulos/capitulo-14.md) — Mário chegou ao acampamento
+- [Capítulo 15](/capitulos/capitulo-15.md) — Mário chegou ao acampamento
 - [Kate](/personagens/kate.md) — Primeiro contato direto com Mário
 - [Lakand](/personagens/lakand.md) — Tae-Tabor morto (luto)
 - [Charles](/personagens/charles.md) — Perdeu Mário; rampillas também o querem

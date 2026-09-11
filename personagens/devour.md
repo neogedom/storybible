@@ -19,7 +19,7 @@ sistema nervoso de criaturas inteligentes** (tipicamente humanos) — a semente
 mágicos (o ritual da semente, o jardim e a criação de itens encantados como o
 manto de Tharin). Alguns eram **filhos de Devour** (a linhagem d'Tirath
 monopolizava o ofício). Um deles sobrevive ao incêndio — **Ossan, filho de
-Devour** — e vira asset de Nolan (cap. 21).
+Devour** — e vira asset de Nolan (cap. 22).
 
 **Aparência**: Não é rampilla — parece um homem comum, baixo, magro, olhos
 escuros, pele cinzenta. Plantas crescem ao redor dele (musgos, trepadeiras,
@@ -29,10 +29,10 @@ por toda Saramant — raízes que sentem vibração, galhos que percebem calor.
 ## Função na História
 
 - Antagonista regional em Saramant
-- **Cap. 17**: Kate e Mário são capturados. Devour mostra a intimação
+- **Cap. 18**: Kate e Mário são capturados. Devour mostra a intimação
   dos Inquiridores. Está indeciso: Rei vs Inquiridores vs daërunmeges.
-- Cap. 18: Nolan negocia com Devour
-- **Cap. 19**: morto durante o incêndio que **Lakand ateou de propósito**. Morte **híbrida (decisão 2026-08-03)**: Lakand o encontra no salão (a rede de plantas-espia dele está cega pelo próprio calor do incêndio) e o derruba/fere — o sangue nas mãos de Lakand é canônico; o fogo **consome o corpo**. Fora de cena, revelada só por subtexto (sangue + chamas), nunca anunciada em diálogo.
+- Cap. 19: Nolan negocia com Devour
+- **Cap. 20**: morto durante o incêndio que **Lakand ateou de propósito**. Morte **híbrida (decisão 2026-08-03)**: Lakand o encontra no salão (a rede de plantas-espia dele está cega pelo próprio calor do incêndio) e o derruba/fere — o sangue nas mãos de Lakand é canônico; o fogo **consome o corpo**. Fora de cena, revelada só por subtexto (sangue + chamas), nunca anunciada em diálogo.
 
 ## Natureza dos Rampillas
 
@@ -57,7 +57,7 @@ de Devour torna-se base militar de Nolan.
 > ⚠️ **Nota de coerência**: a ficha registrava "morto por ordem de Nolan".
 > O cap. 19 estabelece a morte **por Lakand** (híbrido: ferido por Lakand,
 > corpo consumido pelo fogo), que age antes de qualquer ordem de Nolan.
-> Ajuste aceito — ver `capitulos/capitulo-19.md`.
+> Ajuste aceito — ver `capitulos/capitulo-20.md`.
 
 ## Relações
 

@@ -49,8 +49,9 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 21 — A Crise da Voz](capitulos/capitulo-21.md) — Fuga do castelo em chamas; Mário identifica a Voz como Deus e responde com raiva; não ora.
 - [Capítulo 22 — A Pira Involuntária](capitulos/capitulo-22.md) — Nolan foge do incêndio com Saboc; luto frio; assume a base de Devour e parte para possuir Mário.
 - [Capítulo 23 — O Assentamento](capitulos/capitulo-23.md) — Kate, Mário e Lakand iniciam a jornada; pitch da Mina em duas fases; cura da criança paralítica.
-- [Capítulo 23 — O Rastro](capitulos/capitulo-23.md) — Nolan confirma o milagre replicável; revelação da vembra; escreve três cartas; decide se apresentar como aliado a Mário.
-- [Capítulo 24 — A Feira de Tronk](capitulos/capitulo-24.md) — Mário cura de propósito e prega; primeira hostilidade aberta; descobre a Metrópole; gancho: Kate o observa "como quem mede uma ferramenta".
+- [Capítulo 24 — O Rastro](capitulos/capitulo-24.md) — Nolan confirma o milagre replicável; revelação da vembra; escreve três cartas; decide se apresentar como aliado a Mário.
+- [Capítulo 25 — A Feira de Tronk](capitulos/capitulo-25.md) — Mário cura de propósito e prega; primeira conversão genuína; descobre a Metrópole; fecha indo até Lakand na borda da feira.
+- [Capítulo 26 — O Preço da Fama](capitulos/capitulo-26.md) — Kate POV: segunda pregação e oposição; reconhecimento público da recompensa; fuga; confissão de Lakand ("Saramant é cinza").
 
 ## Visuais (Timelines)
 
@@ -72,6 +73,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Vila de Opium](lugares/opium.md) — Povoado massacrado, onde Mário acorda em Ornick.
 - [Alavria](lugares/alavria.md) — Nação estrangeira, patrono Renath. Destacamento infiltrado aniquilado no L1; incursão frontal no L2.
 - [Gondor](lugares/gondor.md) — Império estrangeiro que dominou o Reino no Interregno; era de ouro dos vampiros; Guerra do Grifo.
+- [Rifte](lugares/rifte.md) — Reino vizinho; abriga o Templo de Vonos, sede da Ordem dos Inquiridores do Sinal.
 
 ## Conceitos
 

@@ -16,9 +16,9 @@ como homem.
 
 ## Arco
 
-- **Cap. 13**: Recusa Nolan no Conselho secreto. "O Rei é o Rei."
+- **Cap. 14**: Recusa Nolan no Conselho secreto. "O Rei é o Rei."
   Tensão familiar: Nolan é genro, Valinor não escolhe entre juramento e família.
-- **Pós-cap. 25-28**: Descobre que Nolan quer o trono.
+- **Pós-caps. 26-29**: Descobre que Nolan quer o trono.
 - **Queda da Metrópole (final L1)**: defende a cidade da incursão de Kate —
   que carrega o destacamento alavriano. Morre em combate.
 - **Última fala**: Julgamento suspenso.

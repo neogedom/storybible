@@ -1,7 +1,7 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 23
+capitulo: 24
 titulo: "O Rastro"
 pov: Nolan
 beat_stc: Jogos e Diversão
@@ -14,7 +14,7 @@ personagens:
   - Ossan
   - Saboc (menção)
 lugares:
-  - Assentamento de refugiados (mesmo do cap. 22)
+  - Assentamento de refugiados (mesmo do cap. 23)
   - Estrada ao norte de Saramant (rota para a Mina)
   - Acampamento noturno (clareira protegida)
 conceitos:
@@ -30,11 +30,11 @@ sementes:
   - Ossan pergunta "o que faremos quando o encontrarmos?" — Nolan não revela o plano completo
 ---
 
-# Capítulo 23 — O Rastro
+# Capítulo 24 — O Rastro
 
 ## Resumo
 
-POV Nolan. Nolan alcança o assentamento de refugiados onde Mário curou a criança paralítica (cap. 22). A menina confirma: o Souhma pousou a mão no joelho e o osso se endireitou. Nolan processa: o milagre de Saboc não foi isolado — é replicável. Sem entender o que motiva Mário (curar e ir embora sem cobrar nada), Nolan conclui que precisa chegar antes dos Inquiridores. Na estrada, Mira revela, numa conversa casual sobre chá de bebê, que Dagmar cheirava a vembra antes do parto. Nolan começa a ligar os pontos: o chá, Juleen, a pressa em partir. Escreve três cartas: uma a Genocydo (versão censurada), uma a Koda (versão completa, plano político), uma a Layla (investigar o chá). Mathias reluta em partir, mas obedece. Ossan pergunta o que farão quando encontrarem Mário. Nolan responde: convencê-lo de que é o único aliado que ele tem.
+POV Nolan. Nolan alcança o assentamento de refugiados onde Mário curou a criança paralítica (cap. 23). A menina confirma: o Souhma pousou a mão no joelho e o osso se endireitou. Nolan processa: o milagre de Saboc não foi isolado — é replicável. Sem entender o que motiva Mário (curar e ir embora sem cobrar nada), Nolan conclui que precisa chegar antes dos Inquiridores. Na estrada, Mira revela, numa conversa casual sobre chá de bebê, que Dagmar cheirava a vembra antes do parto. Nolan começa a ligar os pontos: o chá, Juleen, a pressa em partir. Escreve três cartas: uma a Genocydo (versão censurada), uma a Koda (versão completa, plano político), uma a Layla (investigar o chá). Mathias reluta em partir, mas obedece. Ossan pergunta o que farão quando encontrarem Mário. Nolan responde: convencê-lo de que é o único aliado que ele tem.
 
 ## Personagens
 
@@ -85,10 +85,10 @@ POV Nolan. Nolan alcança o assentamento de refugiados onde Mário curou a crian
 
 ## Sementes e Conexões
 
-- **Semente #6 (vembra)**: Nolan escreve a Layla — investigação do chá de Dagmar fermenta até o cap. 30
+- **Semente #6 (vembra)**: Nolan escreve a Layla — investigação do chá de Dagmar fermenta até o cap. 32
 - **Souhma ancorado**: a velha do assentamento murmura "o Souhma" — Nolan ouve o termo na caçada e o guarda (usado depois na carta a Koda). Nolan sabe a distinção: Souhma é o nome popular ("telefone sem fio") da figura lendária que o Llyfr chama de **Estrangeiro** — o profetizado que os eruditos discutem e o povo espera.
-- **Mentira fundadora**: Nolan decide se apresentar como aliado a Mário — prepara o cap. 31 (aproximação)
+- **Mentira fundadora**: Nolan decide se apresentar como aliado a Mário — prepara o cap. 32 (aproximação)
 - **Mathias na Metrópole**: levou as cartas; pode retornar com informações ou ficar como asset de Nolan no Conselho
 - **Ossan**: pergunta sem resposta — Nolan não confia plenamente; a tensão pode germinar no L2
-- **Conexão cap. 22**: Nolan confirma o que Kate e Mário fizeram no assentamento — a linha do tempo fecha
-- **Conexão cap. 24**: Nolan está a 2-3 dias de distância; Mário está na Feira de Tronk — as linhas convergem
+- **Conexão cap. 23**: Nolan confirma o que Kate e Mário fizeram no assentamento — a linha do tempo fecha
+- **Conexão cap. 25**: Nolan está a 2-3 dias de distância; Mário está na Feira de Tronk — as linhas convergem

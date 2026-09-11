@@ -25,7 +25,7 @@ território onde Kate caça e onde Gaviorn'l a deixou anos atrás.
 - Massacra 5 rampillas e um xamã de Devour perto da fortaleza
 - A brasa/fúria aponta para a Metrópole
 
-### Capítulo 19 — O Incêndio
+### Capítulo 20 — O Incêndio
 
 - Lakand ateia fogo de propósito na toca dos rampillas e no castelo (tochas
   de óleo do salão) como cobertura para libertar Kate (canon 2026-08-03)

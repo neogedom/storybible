@@ -59,7 +59,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 | Termo (planejamento) | Renderização na prosa                                                                                                                 |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **cairn**            | "monte de pedras" / "marco de pedras" — nunca a palavra inglesa no texto do livro (é POV ornickenho; ex.: o marco de Dagmar, cap. 21) |
+| **cairn**            | "monte de pedras" / "marco de pedras" — nunca a palavra inglesa no texto do livro (é POV ornickenho; ex.: o marco de Dagmar, cap. 22) |
 
 > Glossário completo com ~80 termos no arquivo-fonte original.
 > Para consulta detalhada, ver `.github/storybible/GLOSSARIO.md` no repo `livro`.

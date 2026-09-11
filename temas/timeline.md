@@ -31,11 +31,11 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cap.  | POV              | Evento                                                |
 | ----- | ---------------- | ----------------------------------------------------- |
 | 0     | Nolan + Kate     | Prólogo: Sinal falha; Kate sente Hícse                |
-| 1-2   | Mário            | Sonho; sequestro; Inquiridor atira                    |
-| 3     | Nolan            | Koda pede confronto com Genocydo                      |
-| 4-8   | Mário/Kate/Nolan | Paralelo: Mário em Opium; Kate treina; Nolan consipra |
-| 9-12  | Mário/Kate/Nolan | Bíblia; Charles; Lakand; nômades                      |
-| 13-18 | Nolan/Kate/Mário | Conselho; viagem; captura; Dagmar morre               |
-| 19    | Kate             | Milagre de Saboc; Kate escolhe Mário                  |
+| 1-3   | Mário            | Sonho; sequestro; Inquiridor atira                    |
+| 4     | Nolan            | Koda pede confronto com Genocydo                      |
+| 5-9   | Mário/Kate/Nolan | Paralelo: Mário em Opium; Kate treina; Nolan consipra |
+| 10-13 | Mário/Kate/Nolan | Bíblia; Charles; Lakand; nômades                      |
+| 14-19 | Nolan/Kate/Mário | Conselho; viagem; captura; Dagmar morre               |
+| 20    | Kate             | Milagre de Saboc; Kate escolhe Mário                  |
 
 _Timeline parcial — expandir a cada INGEST de capítulo._

@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 17 — Devour"
+title: "Capítulo 18 — Devour"
 description: "Kate e Mário são capturados pelos rampillas. Devour revela a intimação dos Inquiridores. Kate e Mário têm o primeiro diálogo."
 pov: [Kate]
 stc-beat: "Debate / Break Into 2 (~53-57%)"
-timeline: "Imediatamente após cap. 15 — noite"
+timeline: "Imediatamente após cap. 16 — noite"
 tags: [L1, kate, mario, devour, rampillas, inquiridores]
 timestamp: 2026-07-25T12:00:00-03:00
 ---
@@ -69,12 +69,12 @@ vibração e calor — cada passo de Mário na floresta foi um alerta.
 - 🌱 **"Kate"**: Primeiro nome. Primeiro fio de confiança entre eles.
 - 🌱 **Dívida de sangue com Devour**: Kate matou um filho dele na clareira
   (cap. 0) e ele sabe (plantas-espia). Kate não nega. Conta registrada em
-  aberto — paira sobre a prisão dela (caps. 18-19).
+  aberto — paira sobre a prisão dela (caps. 19-20).
 
 ## Conexões
 
-- [Capítulo 15](/capitulos/capitulo-15.md) — Kate capturou Mário no massacre
-- [Capítulo 2](/capitulos/capitulo-02.md) — Inquiridor atirou em Mário
+- [Capítulo 16](/capitulos/capitulo-16.md) — Kate capturou Mário no massacre
+- [Capítulo 3](/capitulos/capitulo-03.md) — Inquiridor atirou em Mário
 - [Inquiridores](/personagens/inquiridor.md) — Intimação formal
 - [Devour](/personagens/devour.md) — Agora tem os dois
 - [Diapasão](/conceitos/sinal-de-vonos.md) — Ferramenta de triangulação

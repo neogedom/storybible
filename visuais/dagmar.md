@@ -23,7 +23,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - _Não aparece_
 
-## Capítulo 19 — O Bebê (pós-morte)
+## Capítulo 20 — O Bebê (pós-morte)
 
 - Corpo envolto em lençol, manchado de vermelho na altura do ventre
 - Braço fino pendendo do lençol; anel de prata num dos dedos

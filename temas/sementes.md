@@ -17,8 +17,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 2. A Bíblia de Kraviam
 
-- **Plantio**: L1, Cap. 9 — Layla entrega a Bíblia a Nolan
-- **Plantio 2**: L1, Cap. 13 — Nolan tenta usar no Conselho; rejeitada
+- **Plantio**: L1, Cap. 10 — Layla entrega a Bíblia a Nolan
+- **Plantio 2**: L1, Cap. 14 — Nolan tenta usar no Conselho; rejeitada
 - **Germinação**: L2 — Nolan usa a Bíblia contra Mário
 - **Ironia**: Kraviam trouxe da Terra; Nolan a usará para corromper Mário.
   **Nota (canon 2026-08-11):** a Bíblia é prova da fachada — Kraviam era
@@ -26,12 +26,12 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 3. Gunad Deltëra
 
-- **Plantio**: L1, Cap. 6 — Koda menciona "Gunad não está"
+- **Plantio**: L1, Cap. 7 — Koda menciona "Gunad não está"
 - **Germinação**: L2 — Aparece como pregador dos becos
 
 ## 4. Layla — A Testemunha Viva
 
-- **Plantio**: L1, Caps. 9, 18, 22 — Espiã de Nolan
+- **Plantio**: L1, Caps. 10, 19, 23 — Espiã de Nolan
 - **Germinação**: L2 — Junta-se ao Remanescente como informante
 
 ## 5. O Sonho de Mário (Gabbriel, Vicent e Hícse)
@@ -40,7 +40,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Canon (2026-08-12) — temporalidade**: o sonho mostra a **Guerra
   Milenar** (memória histórica, NÃO profecia). O castelo de quartzo da visão
   foi destruído e **reconstruído** — é o mesmo que o leitor vê de pé no
-  prólogo (a Metrópole). Os ecos da Milenar no cap. 29 (Moribundos) são do
+  prólogo (a Metrópole). Os ecos da Milenar no cap. 30 (Moribundos) são do
   MESMO evento. "A guerra que não acabou" (sonho) = tese da saga: a Milenar
   pausa e recomeça (fim do L1: Alavria + Hícse solta; L2: a Hoste volta).
 - **O nome "Guerra Milenar" é LITERAL (canon 2026-08-12)**: não significa
@@ -81,34 +81,34 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 6. Juleen e a Morte de Dagmar
 
-- **Plantio**: L1, Cap. 3 — Juleen administra chá de cascas de vembra (abortivo)
-- **Plantio 2**: L1, Cap. 18 — Dagmar morre no parto (causa: o abortivo
+- **Plantio**: L1, Cap. 4 — Juleen administra chá de cascas de vembra (abortivo)
+- **Plantio 2**: L1, Cap. 19 — Dagmar morre no parto (causa: o abortivo
   acumulado); o bebê nasce sem ar
-- **Plantio 3**: L1, Cap. 23 — na estrada da caçada, a parteira-ama (conhece ervas) comenta de forma **despretensiosa** o cheiro de vembra na senhora (comentário casual sobre chá de melissa); **é Nolan quem liga os pontos** e escreve a Layla para investigar. NÃO é o "rampilla esperto" (autômatos não falam — ver `conceitos/rampillas.md`). (Correção 2026-08-30: a decisão 08-19 previa cap. 25, mas o cap. 25 é POV Kate — a revelação fica no cap. 23.)
-- **Plantio 4**: L1, Cap. 30 — Nolan descobre, enforca Juleen
-- **Misatribuição inicial (canon 2026-08-16)**: entre o cap. 18 (morte) e a
-  pista da vembra (cap. 23), a explicação operativa de Nolan é a ideologia:
+- **Plantio 3**: L1, Cap. 24 — na estrada da caçada, a parteira-ama (conhece ervas) comenta de forma **despretensiosa** o cheiro de vembra na senhora (comentário casual sobre chá de melissa); **é Nolan quem liga os pontos** e escreve a Layla para investigar. NÃO é o "rampilla esperto" (autômatos não falam — ver `conceitos/rampillas.md`). (Correção 2026-08-30: a decisão 08-19 previa cap. 26, mas o cap. 26 é POV Kate — a revelação fica no cap. 24.)
+- **Plantio 4**: L1, Cap. 32 — Nolan descobre, enforca Juleen
+- **Misatribuição inicial (canon 2026-08-16)**: entre o cap. 19 (morte) e a
+  pista da vembra (cap. 24), a explicação operativa de Nolan é a ideologia:
   Dagmar morreu pelo contato com humanos na viagem (eco do pai, que
   contraiu doença de prostituta humana — origem da Segregação). A pista de
-  Mira (cap. 23) vira nota privada que fermenta até o cap. 30. Ver cap. 23
+  Mira (cap. 23) vira nota privada que fermenta até o cap. 32. Ver cap. 24
   do esquema.
 - **Ódio racial: cristaliza na MISATRIBUÇÃO, não na verdade (canon
-  2026-08-16)**: é o período da crença falsa (caps. 18-25) que torna o ódio
+  2026-08-16)**: é o período da crença falsa (caps. 19-26) que torna o ódio
   racial de Nolan PESSOAL ("agora pessoal" do L2) — os humanos mataram a
-  esposa, como o pai. A descoberta do cap. 30 (Juleen, leviantar de casta
+  esposa, como o pai. A descoberta do cap. 32 (Juleen, leviantar de casta
   baixa dos burgos periféricos) NÃO dissolve o ódio: (a) o luto fica sem
-  fechamento (solo do ódio — cap. 21); (b) ódio sobrevive à própria
-  justificativa — a cena do cap. 30 deve mostrar o "não foram os humanos"
+  fechamento (solo do ódio — cap. 22); (b) ódio sobrevive à própria
+  justificativa — a cena do cap. 32 deve mostrar o "não foram os humanos"
   sem abrandar Nolan, apenas redirecionando-o; (c) a classe absorve a raça:
   Juleen é da PERIFERIA (o mesmo espaço de contágio do pai, cidades
   pré-Metrópole), e Nolan já despreza tudo fora do núcleo da Metrópole
-  (cap. 3) — a periferia é impura, humana OU leviantar de casta baixa. A
+  (cap. 4) — a periferia é impura, humana OU leviantar de casta baixa. A
   "inimiga estava dentro" NÃO reforma Nolan: o confirma na paranoia.
 - **Germinação**: L2 — Ódio racial de Nolan, agora pessoal
 
 ## 7. Nolan e o Controle dos Rampillas
 
-- **Plantio**: L1, cap. 21 (POV Nolan) — dois tempos: (a) na fuga do
+- **Plantio**: L1, cap. 22 (POV Nolan) — dois tempos: (a) na fuga do
   incêndio, Nolan vê os rampillas congelarem inertes quando Devour morre
   (observação do vínculo); (b) na vistoria pós-incêndio (castelo = base),
   o fogo queimou a vegetação de superfície e **expôs o jardim secreto** —
@@ -127,23 +127,23 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## 8. O Inquiridor do Sinal
 
 - **Plantio**: L1, Prólogo — Inquiridores mobilizados
-- **Plantio 2**: L1, Cap. 2 — Aparece fisicamente, atira em Mário
-- **Plantio 3**: L1, Caps. 3, 5, 6 — Mencionado como facção que compete por custódia
-- **Plantio 4**: L1, Cap. 17 — Intimação formal a Devour; diapasões na floresta
-- **Plantio 5**: L1, Cap. 18 — Devour aguarda escolta oficial dos Inquiridores
+- **Plantio 2**: L1, Cap. 3 — Aparece fisicamente, atira em Mário
+- **Plantio 3**: L1, Caps. 4, 6, 7 — Mencionado como facção que compete por custódia
+- **Plantio 4**: L1, Cap. 18 — Intimação formal a Devour; diapasões na floresta
+- **Plantio 5**: L1, Cap. 19 — Devour aguarda escolta oficial dos Inquiridores
 - **Germinação**: L2 — Reaparece como força antagonista que tenta centralizar Mário para o culto de Vonos
 
 ## 9. O Manto de Xilomagia de Tharin
 
-- **Plantio**: L1, Cap. 5 — Tharin rouba o manto de um xilomago de Devour;
+- **Plantio**: L1, Cap. 6 — Tharin rouba o manto de um xilomago de Devour;
   Kate o mata e o enterra **com o manto** no cemitério perto da cabana
-- **Recuperação**: L1, Cap. 20 — Kate desenterra Tharin e recupera o manto
+- **Recuperação**: L1, Cap. 21 — Kate desenterra Tharin e recupera o manto
   durante a fuga (desvio de minutos; ~3 km do castelo de Devour). Posse por
   conquista: "É a minha. Tomei de quem não sabia usar."
 - **Ativação (canon 2026-08-14)**: manto fechado sobre o corpo + imobilidade
   + respiração controlada (ciclo lento); camufla com a madeira presente
   (viva ou trabalhada) — floresta total, mina/cidade situacional, pedra nua
-  falha; tell: movimento/fôlego alto quebram a trama (cap. 5)
+  falha; tell: movimento/fôlego alto quebram a trama (cap. 6)
 - **Carga (canon 2026-08-14)**: xilomagia armazenada FINITA, gasta no uso;
   sem recarga natural — só ritual de xilomago (potencial: Ossan, irmão
   d'Tirath, asset de Nolan, L2; o manto provavelmente não chega a ele). Para
@@ -155,61 +155,61 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 10. A Glossolalia Invertida — "Eu Sou"
 
-- **Plantio**: L1, Cap. 19 — Mário, febril, ora em ornickenho ditado pela
+- **Plantio**: L1, Cap. 20 — Mário, febril, ora em ornickenho ditado pela
   Voz. Nomeia "Eu Sou" (deus acima do Limbo), recusa oferta, pede
   misericórdia. Kate ouve e entende.
-- **Fio 2**: L1, Cap. 20 — Kate pergunta "com quem você estava falando?"
+- **Fio 2**: L1, Cap. 21 — Kate pergunta "com quem você estava falando?"
 - **Arco (canon 2026-08-16, revisto)**: efeito sanfona — Mário identifica
-  a Voz como Deus no cap. 20 (identificação irada), mas deixa de orar: não
+  a Voz como Deus no cap. 21 (identificação irada), mas deixa de orar: não
   por cegueira cessacionista, mas por **recusa irada** (a inação de Deus na
   morte de Lucas). Continua fazendo o que a teologia manda (pregar,
   argumentar) sem a relação — o paradoxo de quem está com raiva de Deus e
   obedece à forma. **E prega com uma AGENDA OCULTA (canon 2026-08-16):**
   provar que os dogmas dele estão certos e, no limite, que Deus está errado
   e ele certo — sem verbalizar. Cada conversão é um veredito contra Deus; o
-  cap. 26 desnuda isso.
-- **Cap. 20 (canon 2026-08-16, revisto) — identificação irada**: após a
+  cap. 27 desnuda isso.
+- **Cap. 21 (canon 2026-08-16, revisto) — identificação irada**: após a
   ressurreição, Mário IDENTIFICA a Voz como Deus — a lógica o obriga, e a
   palavra pousa ("É Deus"). Mas a identificação não é confissão: é
   acusação. Ele sabe de quem, e a resposta é raiva (a inação na morte de
   Lucas). Segura os dogmas como escudo para não encarar a relação (não
-  ora). O cap. 26 desnuda essa raiva (eco de Jó): a Voz confronta não a
+  ora). O cap. 27 desnuda essa raiva (eco de Jó): a Voz confronta não a
   resistência à identidade, mas a raiva de quem já sabia.
-- **Germinação (local: a noite do cap. 26, junto ao hino — mantido;
+- **Germinação (local: a noite do cap. 27, junto ao hino — mantido;
   reavaliar ao escrever)**: a Voz confronta Mário e assume a autoria da
   glossolalia como
   testemunho de Deus aos ornickenhos. **Na MESMA conversa (decisão
   2026-08-10), a Voz apresenta um SEGUNDO argumento: a preservação do corpo
-  de Mário na chegada (caps. 2/4).** Mário foi ferido de verdade pela
+  de Mário na chegada (caps. 3/5).** Mário foi ferido de verdade pela
   implosão da Auditoria (clavícula despedaçada, pulmão colapsado, sangue) e
-  acordou inteiro — sem nenhum ferimento (cap. 4). A Voz reivindica a
+  acordou inteiro — sem nenhum ferimento (cap. 5). A Voz reivindica a
   preservação: "você chegou inteiro porque Eu te trouxe; Eu agia quando você
   não sabia". O contraste com **Kraviam** (que chegou FERIDO, sem
   intervenção) sustenta o argumento: o verdadeiro Souhma foi preservado, o
   falso não. A conversa desnuda a **raiva** de Mário (eco de Jó): ele identificou a
-  Voz como Deus no cap. 20 (identificação irada), ficou irado pela inação
+  Voz como Deus no cap. 21 (identificação irada), ficou irado pela inação
   na morte de Lucas e segurou os dogmas como escudo — mas não percebeu a
   ação contínua (fluência, preservação). O silêncio não era ausência.
 - **Sub-semente**: Mathias relata a Nolan "um deus acima do Limbo" — o
-  _click_ com a **Bíblia de Kraviam** (o "livro de Genocydo"; cap. 13). O
+  _click_ com a **Bíblia de Kraviam** (o "livro de Genocydo"; cap. 14). O
   click é de **categoria**, não de leitura: Nolan não consegue ler a Bíblia
-  (cap. 13: "ninguém reconhece a língua") — ele reconhece a heresia "um
+  (cap. 14: "ninguém reconhece a língua") — ele reconhece a heresia "um
   deus fora da fileira do Conselho" pela procedência do livro e pela
-  estrutura do panteão (Llyfr, cap. 6). "Eu Sou" é o detalhe de Mathias; o
+  estrutura do panteão (Llyfr, cap. 7). "Eu Sou" é o detalhe de Mathias; o
   que Nolan arquiva é a classe da reivindicação. NÃO confundir com o diário
   de Genocydo (semente #15) — fios distintos; o padrão completo (Kraviam =
-  terráqueo) só fecha no cap. 31+.
+  terráqueo) só fecha no cap. 32+.
 - **Nota**: Texto canônico e justificativa em
-  `decisoes/glossolalia-invertida-oracao-cap19.md`.
+  `decisoes/glossolalia-invertida-oracao-cap20.md`.
 
 ## 11. O Desejo Enterrado de Kate
 
-- **Plantio**: L1, Cap. 8 — Lakand brinca sobre "um filhote com sua cara".
+- **Plantio**: L1, Cap. 9 — Lakand brinca sobre "um filhote com sua cara".
   Kate sente o **formigamento incômodo nas mãos** (sintoma corporal não
   nomeado) e racionaliza: "Daërunmeges são estéreis". O desejo de ter
   filhos está enterrado; não ter filhos tem relação com o mundo ser
   violento demais.
-- **Reforço (contexto)**: L1, Cap. 19 — Kate presencia o parto de Dagmar
+- **Reforço (contexto)**: L1, Cap. 20 — Kate presencia o parto de Dagmar
   e a ressurreição de Saboc. O capítulo mostra o modo defesa (ódio ao
   parto), sem abrir a fresta — o desejo permanece sepultado.
 - **Germinação**: L2 — Kate **aceita ter filhos de Mário** e os tem: os
@@ -232,20 +232,20 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 12. A Dívida do Fogo — "Queimei Saramant por você"
 
-- **Fato (canon)**: L1, Cap. 19 — Lakand ateou o incêndio **por amor a Kate**
+- **Fato (canon)**: L1, Cap. 20 — Lakand ateou o incêndio **por amor a Kate**
   (decisão 2026-08-03/04). Ela não sabe (POV).
-- **Plantio (colocação fechada 2026-08-04)**: L1, **Cap. 24 (POV Kate)**,
+- **Plantio (colocação fechada 2026-08-04)**: L1, **Cap. 26 (POV Kate)**,
   momento de quietude, **antes** da declaração "Ele é a chave... eu lidero"
   (alimentando-a causalmente). Fragmentos na voz de Lakand: "Saramant é
   cinza." / "E por quê?" / "Por você."
 - **Foco**: entregar a **DEVASTAÇÃO** (mortes, deslocados, a floresta que ele
-  mesmo caçava), NÃO o amor (já percebido por Kate no cap. 19 — redundância).
+  mesmo caçava), NÃO o amor (já percebido por Kate no cap. 20 — redundância).
   Kate refaz como transação ("Você não queimou por mim. Queimou para me tirar
   de lá") — meia-verdade defensiva.
 - **Fissura corporal**: o **formigamento nas mãos** (callback semente #11) —
   reflexo do **desejo enterrado** (vida/filhos), NÃO paixão por Lakand (senão
   colide com a germinação L2: filhos de Mário). Renderizar com a mesma
-  sintaxe do cap. 8; fechar em seguida.
+  sintaxe do cap. 9; fechar em seguida.
 - **Efeito**: cria uma **dívida** que Kate (que odeia dever) nunca pediu;
   dívida **em aberto** no L1 — nunca resolvida moralmente (guardrail "final
   justo demais").
@@ -264,10 +264,10 @@ timestamp: 2026-07-24T12:00:00-03:00
   desumanização), agora comanda um exército de humanos zumbificados — a
   "ordem" dele é feita de gente que virou ferramenta. O eco com a Segregação
   não é acidental.
-- **Plantio (a definir; recomendado cap. 21 via Ossan ou cap. 25)**: a
+- **Plantio (a definir; recomendado cap. 22 via Ossan ou cap. 26)**: a
   verdade aterra num personagem — ex: **Ossan** (xamã, filho de Devour)
   revela o que os rampillas eram; ou alguém reconhece um rosto num zumbi.
-  Kate matou rampillas sem saber (caps. 0 e 19) — a revelação mancha o
+  Kate matou rampillas sem saber (caps. 0 e 20) — a revelação mancha o
   passado dela também.
 - **Germinação**: L2 — a Inquisição de Nolan com os rampillas como braço
   armado; e/ou a revelação vira condenação pública ou privada.
@@ -278,14 +278,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 14. A Renúncia do Batismo — Declaração de Guerra
 
-- **Fato (canon 2026-08-10)**: no primeiro batismo da jornada (L1, cap. 30),
+- **Fato (canon 2026-08-10)**: no primeiro batismo da jornada (L1, cap. 31),
   Mário adapta a abrenuntio da igreja primitiva: cada convertido renuncia em
   voz alta aos deuses de Ornick ("Renuncio aos falsos deuses do Limbo, a
   todas as suas obras e a toda a sua pompa. Sou de Javé."). A fórmula é
   **genérica** — ornickenhos não conhecem Marduk; "Limbo" é a palavra deles
   para a terra dos deuses (refinamento 2026-08-10).
-- **Reveal de "Javé" (canon 2026-08-10)**: cap. 30 é a PRIMEIRA aparição do
-  nome próprio no livro (caps. 0-19 usam "Deus"/"Eu Sou"); caps. 20-29 não
+- **Reveal de "Javé" (canon 2026-08-10)**: cap. 31 é a PRIMEIRA aparição do
+  nome próprio no livro (caps. 0-30 usam "Deus"/"Eu Sou"); caps. 21-30 não
   devem usá-lo.
 - **Dupla camada**: declaração de fidelidade a Javé (superfície) + declaração
   de guerra aos deuses falsos de Ornick (pano de fundo; lente de Heiser — os
@@ -300,13 +300,13 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 15. O Diário de Genocydo — a Revelação de Kraviam
 
-- **Plantio**: L1, caps. 9 e 13 — Layla rouba o diário de Genocydo; Nolan o
+- **Plantio**: L1, caps. 10 e 14 — Layla rouba o diário de Genocydo; Nolan o
   queria para subverter o Conselho (obtém tardiamente).
-- **Germinação (a definir; sugerido na aliança Nolan-Mário, cap. 31+)**: Nolan
+- **Germinação (a definir; sugerido na aliança Nolan-Mário, cap. 32+)**: Nolan
   entrega o diário a Mário; Mário lê e revela o conteúdo — **Genocydo é
   Kraviam, um terráqueo** (como Mário). Só aí Nolan fecha o padrão de Vonos:
   um terráqueo no trono (Kraviam) → agora outro (Mário). **Esse elo NÃO está
-  disponível a Nolan no cap. 28** (correção 2026-08-10) — em caps. 25/28,
+  disponível a Nolan no cap. 29** (correção 2026-08-10) — em caps. 26/29,
   Nolan deduz apenas que querem Mário vivo, sem saber por quê.
 - **A SEMENTE DA APOSTASIA (refinamento 2026-08-10; correção 2026-08-11)**: mais
   do que a lógica política, o diário revela a **mentira fundadora**: Vonos — o
@@ -330,15 +330,15 @@ timestamp: 2026-07-24T12:00:00-03:00
   Devour que era **filho do lorde** (linhagem d'Tirath). Ela soube da
   filiação antes de matar ("Meu pai..." / "Seu pai... me deve
   entretenimento") — e matou mesmo assim.
-- **Plantio**: L1, Cap. 0 — filiação explícita e natural (não-cliffhanger):
+- **Plantio**: L1, Cap. 0 — filiação explícita e natural (sem gancho de suspense):
   o xamã invoca "meu pai"; eco visual (olhos "carvão molhado") liga à
   linhagem.
-- **Colheita (fechada 2026-08-08)**: L1, Cap. 17 — Devour confronta Kate no
+- **Colheita (fechada 2026-08-08)**: L1, Cap. 18 — Devour confronta Kate no
   salão. Sabe via plantas-espia (raízes sentem vibração/calor na clareira).
   Kate não nega. Devour registra a conta e não age (calculista — prioriza
   decidir o destino do Souhma).
 - **Estado**: dívida **em aberto** no L1 — paira sobre a prisão de Kate
-  (caps. 18-19). Devour morre no incêndio (cap. 19) antes de cobrá-la.
+  (caps. 19-20). Devour morre no incêndio (cap. 20) antes de cobrá-la.
 - **Germinação (L2, a definir)**: a casa d'Tirath tem um sobrevivente —
   **Ossan** (asset de Nolan). Eco potencial: Ossan descobre que Kate matou o
   irmão; tensão entre o herdeiro despojado e a caçadora de Mário. Ou a
@@ -351,9 +351,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## 17. A Voz de Benjamim em Ação — cena de manipulação
 
 - **Problema (canon 2026-08-15)**: Benjamim Cressadar tem apenas 2 falas
-  diretas nos caps. 0-20 (cap. 0, ambas OK) — a "voz como arma" é narrada
+  diretas nos caps. 0-21 (cap. 0, ambas OK) — a "voz como arma" é narrada
   por outros, nunca encenada.
-- **Semente**: uma cena de corte onde o verniz piedoso atue — ex.: cap. 13
+- **Semente**: uma cena de corte onde o verniz piedoso atue — ex.: cap. 14
   (onde Nuh o invoca) ou a intermediação do contrato da apoteose — antes da
   via crucis final.
 - **Função**: o leitor precisa EXPERIMENTAR o desconforto do manipular antes
@@ -363,18 +363,23 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - **Fato (canon 2026-08-15)**: quando Gaviorn'l morrer (clímax do L1),
   **Estruzzo** assume a liderança dos gornads.
-- **Necessidade de presença**: Estruzzo aparece só no cap. 11 — precisa de
-  mais caracterização (voz fixada no cap. 11; presença no fim de jogo do L1)
+- **Necessidade de presença**: Estruzzo aparece só no cap. 12 — precisa de
+  mais caracterização (voz fixada no cap. 12; presença no fim de jogo do L1)
   para que a transição de liderança aterre no leitor.
 - **Germinação**: L2 — Estruzzo como líder gornad (e sua relação com o que
   restou da Hoste/vagas de Gaviorn'l).
 
 ## 19. A Ferida que Não Cobrou
 
-- **Plantio (previsto — cap. 28, confronto com os Inquiridores)**: Kate leva
+- **Plantio (previsto — cap. 29, confronto com os Inquiridores)**: Kate leva
   arranhões de renanthao no corpo a corpo e **não apodrece** — a vantagem de
   ser gnock (sem magia no sangue). A Ordem registra a anomalia: um corpo que
-  recebeu o aço do Sinal e não cobrou.
+  recebeu o aço da Ordem e não cobrou.
+- **Vetor do registro (canon 2026-09-10)**: um **escriba** que acompanha a
+  patrulha — do corpo do Escriba-Mestre (Prólogo) — observa o combate sem
+  lutar, anota e recua (fecha o cap. 28). Na cena, os Inquiridores deduzem
+  **"Gnock"** com surpresa (raridade — pela habilidade dela sabiam que era
+  mais que humana; a ausência do apodrecimento os espanta).
 - **Germinação (L2)**: a Ordem quer entender/possuir/destruir a anomalia;
   liga-se ao arco de Kate no L2 (a dádiva como apagamento; o descarte de
   Benjamim).

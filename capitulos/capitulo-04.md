@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 3 — A Conspiração"
+title: "Capítulo 4 — A Conspiração"
 description: "Nolan volta do tribunal. Koda revela que Genocydo está drenando os cofres. A semente da conspiração é plantada."
 pov: [Nolan]
 stc-beat: "Configuração / Debate (~7-10%)"
-timeline: "Mesma janela dos caps. 1-2 — noite"
+timeline: "Mesma janela dos caps. 1-3 — noite"
 tags: [L1, nolan, metropole, koda, genocydo, segregação, conspiracao]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
@@ -77,11 +77,11 @@ Nolan sorri pela primeira vez na noite. O verme da conspiração está plantado.
 - [Benjamim Cressadar](/personagens/benjamim.md) — Nolan deduz a manipulação dele
 - [Segregação](/conceitos/segregacao.md) — Idealizada por Nolan (revelação)
 - [Capítulo 0](/capitulos/capitulo-00.md) — A caça ao Souhma já começou
-- [Capítulo 2](/capitulos/capitulo-02.md) — Mário sequestrado; Genocydo financiou a infraestrutura
+- [Capítulo 3](/capitulos/capitulo-03.md) — Mário sequestrado; Genocydo financiou a infraestrutura
 
 ## Notas de INGEST
 
 - **Correção de lore**: A Segregação foi criada por Nolan, não por Genocydo.
   Genocydo a implementou, mas o arquiteto é Nolan (trauma do pai).
 - Nolan usa **óculos** (confirma: "tirou os óculos pela armação de ébano").
-- A conspiração nasce aqui, não no cap. 13.
+- A conspiração nasce aqui, não no cap. 14.

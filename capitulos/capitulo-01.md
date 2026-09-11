@@ -65,7 +65,7 @@ morre nos braços de Mário. Última fala: _"Valeu... por tentar."_
 - 🌱 **Hoste da Purgação**: Exército de Hícse. Semente para L2
   (Hícse constrói sua própria Hoste).
 - 🌱 **A Recusa de Mário**: Mário recusa fazer o milagre. A Voz insiste.
-  Primeiro teste de fé — e ele falha. Isso ecoará no cap. 2 e no Break Into 2.
+  Primeiro teste de fé — e ele falha. Isso ecoará no cap. 3 e no Break Into 2.
 - 🌱 **Hícse nominada**: Pela primeira vez, Hícse é chamada de "falsa deusa
   da guerra" — estabelece o nome para o leitor.
 

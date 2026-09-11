@@ -14,7 +14,7 @@ A Segregação foi **idealizada por Nolan** (trauma pessoal: seu pai contraiu
 doença de uma prostituta humana nas cidades pré-Metrópole). Foi **implementada
 por Genocydo** como política de estado.
 
-> **Nota do cap. 3**: Poucos sabem que Nolan é o arquiteto. O capítulo 3
+> **Nota do cap. 4**: Poucos sabem que Nolan é o arquiteto. O capítulo 4
 > revela que Nolan desenhou o Great Gateway e a estrutura de separação;
 > Genocydo apenas a sancionou publicamente.
 ## Consequências
@@ -30,7 +30,7 @@ por Genocydo** como política de estado.
   escravidão de humanos** com a Segregação — antes, era mina com outras
   formas de trabalho (não especificado).
 - As **vítimas se tornaram especificamente humanos** após a Segregação.
-- Coerência temporal (cap. 20): a Segregação começou na adolescência de Kate
+- Coerência temporal (cap. 21): a Segregação começou na adolescência de Kate
   (após a Guerra do Grifo) — "cresci ouvindo isso" cobre os anos sob a
   Segregação.
 

@@ -11,7 +11,7 @@ timestamp: 2026-08-03T00:00:00-03:00
 ## Visão Geral
 
 Leviantar, **Espada da Lei** e mão-direita de Nolan Guenayer. Foi quem
-carregou o corpo de Saboc ao calabouço no cap. 19 e testemunhou o milagre.
+carregou o corpo de Saboc ao calabouço no cap. 20 e testemunhou o milagre.
 É quem garante a sobrevivência de Nolan e do bebê no incêndio do Castelo de
 Devour.
 
@@ -19,7 +19,7 @@ Devour.
 
 - **Treino padrão dos Espadas da Lei:** colocar fogo nas armas. A origem está
   na tradição militar da linhagem Addorbek (fogo), da qual Dagmar descendia.
-- **Extensão (com limite estrito):** durante a fuga do incêndio (cap. 21,
+- **Extensão (com limite estrito):** durante a fuga do incêndio (cap. 22,
   cold-open, POV Nolan), Mathias usa **contra-fogo/firebreak** (queimar uma
   faixa à frente para parar o incêndio — técnica realista de combate a fogo)
   e **escudo de calor localizado** (segundos, raio curto) para abrir caminho
@@ -42,7 +42,7 @@ Devour.
 
 ## Arco
 
-### Capítulo 19 — O Bebê
+### Capítulo 20 — O Bebê
 
 - Desce ao calabouço com o corpo de Saboc (morto) — foge de Nolan, que não
   sabe que o corpo foi tirado do quarto
@@ -50,20 +50,20 @@ Devour.
 - Fica no castelo quando Kate/Mário/Lakand fogem — "o bebê chorava nos braços
   do soldado" (última imagem de Kate)
 - **POV (canon)**: para Kate ele é apenas "o soldado do conselheiro" — o nome
-  nunca é dito no cap. 19. A identificação como Mathias é canon de apoio.
+  nunca é dito no cap. 20. A identificação como Mathias é canon de apoio.
 - **Não implora**: é Mário quem inicia o pedido ("Traga ele aqui." / "Traga.
   Por favor."); Mathias obedece em silêncio, por desespero.
 
-### Capítulo 21 — O Enterro e a Dívida (cold-open, POV Nolan)
+### Capítulo 22 — O Enterro e a Dívida (cold-open, POV Nolan)
 
 - Salva Nolan e Saboc do incêndio usando contra-fogo + escudo de calor
 - Leva o bebê ao colo de Nolan; Saboc sobrevive (ama de leite)
 
 ### Outros
 
-- Cap. 16: no comboio, prova a comida antes de Nolan; colhe o rumor do
+- Cap. 17: no comboio, prova a comida antes de Nolan; colhe o rumor do
   massacre na Estalagem do Vau
-- Cap. 23: mensageiro de Nolan (três cartas — Genocydo censurada, Koda
+- Cap. 24: mensageiro de Nolan (três cartas — Genocydo censurada, Koda
   completa, Layla investigação da vembra; decisão 2026-08-30)
 - Sub-semente: ouviu a oração "Eu Sou" — relata a Nolan "um deus acima
   do Limbo" em tom plano, militar, reinterrogado sem variação (a
@@ -75,7 +75,7 @@ Devour.
 
 - [Nolan](/personagens/nolan.md) — mão-direita; lealdade profissional
 - Dagmar — serviu à esposa do conselheiro (linhagem militar Addorbek)
-- Saboc — portador/protetor desde o cap. 19
+- Saboc — portador/protetor desde o cap. 20
 
 ## Prompt de Referência Canônica
 

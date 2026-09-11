@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 12 — A Jaula"
+title: "Capítulo 13 — A Jaula"
 description: "Mário chega ao acampamento dos daërunmeges. Kenod define o prazo. Lakand faz a primeira pergunta. Mário foge na 3ª noite."
 pov: [Mário]
 stc-beat: "Debate (~36-40%)"
-timeline: "3 dias — cap. 12 termina com a fuga de Mário"
+timeline: "3 dias — cap. 13 termina com a fuga de Mário"
 tags: [L1, mario, alcateia, kenod, lakand, decian, charles]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
@@ -71,7 +71,7 @@ sujar as mãos de sangue?"_ — primeiro fio de conexão entre eles.
 - [Lakand](/personagens/lakand.md) — Primeiro diálogo real com Mário
 - [Decian](/personagens/decian.md) — Cuidado silencioso
 - [Charles](/personagens/charles.md) — Motivação exposta
-- [Capítulo 10](/capitulos/capitulo-10.md) — Mário foi levado como carga
+- [Capítulo 11](/capitulos/capitulo-11.md) — Mário foi levado como carga
 - [Inquiridores](/personagens/inquiridor.md) — Disputam a compra
 
 ## Notas de INGEST
@@ -80,6 +80,6 @@ sujar as mãos de sangue?"_ — primeiro fio de conexão entre eles.
   dom, mas não é possessão: ouve a própria voz, e a língua entra nele sem
   como arrancar.
 - Kenod menciona "Inquiridores" como potenciais compradores — conecta com
-  o cap. 2 (Inquiridor atirou em Mário) e cap. 0 (Inquiridores mobilizados).
+  o cap. 3 (Inquiridor atirou em Mário) e cap. 0 (Inquiridores mobilizados).
 - Lakand está exausto — retornou de patrulha, mas também há um cansaço
   existencial em sua voz.

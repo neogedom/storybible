@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 5 — A Selvagem"
+title: "Capítulo 6 — A Selvagem"
 description: "Kate treina e mata Tharin. Gaviorn'l revela que os espectros no Rohdis pararam — algo grande está acontecendo em Ornick."
 pov: [Kate]
 stc-beat: "Configuração / Debate (~13-16%)"
-timeline: "Mesma janela dos caps. 0-4 — noite"
+timeline: "Mesma janela dos caps. 0-5 — noite"
 tags: [L1, kate, saramant, gaviornl, tharin, rohdis]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
@@ -73,7 +73,7 @@ Kate entende: o caos está chegando. Finalmente, sua guerra.
 ## Conexões
 
 - [Capítulo 0](/capitulos/capitulo-00.md) — Kate sentiu o vazamento de Hícse
-- [Capítulo 2](/capitulos/capitulo-02.md) — Mário chegou a Ornick; o Rohdis sentiu
+- [Capítulo 3](/capitulos/capitulo-03.md) — Mário chegou a Ornick; o Rohdis sentiu
 - [Gaviorn'l](/personagens/gaviornl.md) — Selo de Hícse, mentor de Kate
 - [Inquiridores](/personagens/inquiridor.md) — Kate é imune às armas deles
 - [Cosmologia](/conceitos/cosmologia.md) — Rohdis (mundo dos mortos)

@@ -43,21 +43,21 @@ nação mais poderosa que as anteriores.
 - Sob o império de Gondor, os vampiros (Khainekravira) viveram sua
   **época de ouro**: alimentavam-se de sangue humano e gozavam de poder
   sobre os humanos que subjugavam — "parasitas do império de Gondor"
-  (cap. 9); "as festas regadas a sangue dos gondorianos" (cap. 7).
+  (cap. 10); "as festas regadas a sangue dos gondorianos" (cap. 8).
 - As "festas" eram banhadas no sangue de **humanos simpatizantes**
   (gondorianos) — origem do termo **künerv** (ver
   `conceitos/lordes-defuntos.md`).
 - A **Guerra dos Vampiros** (lobisomens vs. vampiros) é registrada como a
   origem dos Lordes Defuntos enquanto ordem — as "lutas de Gondor"
-  (cap. 10, fala do jardineiro).
+  (cap. 11, fala do jardineiro).
 
 ### A Queda e a Rebelião Fracassada
 
 - Os vampiros tentaram **pertencer** ao mundo (não apoteose, mas
-  pertença) e fracassaram — "confundiram poder com essência" (cap. 9).
+  pertença) e fracassaram — "confundiram poder com essência" (cap. 10).
 - Após a rebelião fracassada, os vampiros sobreviventes foram
   **empurrados para Saramant**. Os registros da queda não guardaram
-  piedade (cap. 9).
+  piedade (cap. 10).
 
 ### Guerra do Grifo
 

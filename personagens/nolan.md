@@ -213,7 +213,7 @@ são as premissas.
   cumprindo o rito fúnebre de Vonos (a pira involuntária de Lakand — enterro
   simbólico). **Mira** (parteira-ama, ver `personagens/mira.md`) sobrevive e
   vira ama de leite de Saboc; ela comenta o cheiro de vembra (semente Juleen
-  — cap. 30). Na vistoria pós-incêndio, o fogo expôs o jardim secreto: Nolan
+  — cap. 32). Na vistoria pós-incêndio, o fogo expôs o jardim secreto: Nolan
   encontra a raiz-mestra e passa a controlar os rampillas sobreviventes
   (~uma dezena). Reúne-os e parte atrás de Mário — não para matá-lo, para
   possuí-lo.
@@ -222,7 +222,7 @@ são as premissas.
   humanos na viagem — eco do pai, prostituta humana). Segura as duas
   molduras sem ver a contradição: "os humanos adoeceram minha esposa" +
   "o Souhma trouxe meu filho de volta". A pista de Mira vira nota privada
-  até o cap. 30. O click com a Bíblia de Kraviam é de categoria (um deus
+  até o cap. 32. O click com a Bíblia de Kraviam é de categoria (um deus
   fora do Conselho), não de leitura.
 
 _Atualizado a cada INGEST de capítulo._

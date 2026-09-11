@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 4 — Opium"
+title: "Capítulo 5 — Opium"
 description: "Mário acorda curado em Ornick. Descobre que está na Vila de Opium, um povoado massacrado. É capturado por vampiros."
 pov: [Mário]
 stc-beat: "Catalisador / Debate (~10-13%)"
-timeline: "Imediatamente após cap. 2"
+timeline: "Imediatamente após cap. 3"
 tags: [L1, mario, opium, vampiros, ornick, mesmia]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
@@ -61,7 +61,7 @@ Mário é descoberto e capturado por um vampiro de olhos vermelhos.
 - 🌱 **Mesmia**: Altar dedicado à elohim dos lobisomens. Primeira menção
   a uma divindade de Ornick além de Vonos.
 - 🌱 **Vila de Opium**: Charles e Decian se infiltraram aqui. Charles
-  massacrou o vilarejo. Semente para cap. 8 e 10.
+  massacrou o vilarejo. Semente para cap. 9 e 11.
 - 🌱 **Tradução automática**: Mário entende idiomas de Ornick sem
   aprender. Dom da Voz? Ou algo inerente ao Souhma?
 - 🌱 **Lordes Defuntos**: Sociedade de vampiros. Agora sabem que os
@@ -69,7 +69,7 @@ Mário é descoberto e capturado por um vampiro de olhos vermelhos.
 
 ## Conexões
 
-- [Capítulo 2](/capitulos/capitulo-02.md) — Mário levou 3 tiros e acordou curado
+- [Capítulo 3](/capitulos/capitulo-03.md) — Mário levou 3 tiros e acordou curado
 - [Charles](/personagens/charles.md) — Foi ele quem massacrou Opium
 - [Decian](/personagens/decian.md) — Sobreviveu a Opium sem matar ninguém
 - [Cosmologia](/conceitos/cosmologia.md) — Duas luas confirmam Ornick

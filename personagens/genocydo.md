@@ -29,12 +29,12 @@ reencarnado" foi a interpretação errônea do povo, não a intenção de Vonos.
 
 **Formação e língua (canon 2026-08-15):** Kraviam foi academicamente
 **instruído em Química na Terra** — é o que explica a guerra biológica da
-Guerra do Grifo (antraz; as cartas forradas de "pó letal" do cap. 6; o
+Guerra do Grifo (antraz; as cartas forradas de "pó letal" do cap. 7; o
 câncer que corroeu os próprios lábios, vindo do laboratório secreto).
 Cristão **nominal** (não fiel): tinha o verniz religioso, nunca foi eleito
 (semente de Nachash). **Aprendeu ornickenho com os Guenayer** ao chegar —
 por esforço humano, NÃO por milagre. Contraste com Mário: o verdadeiro
-Souhma chegou inteiro e recebeu a língua da Voz (cap. 12); o falso falou por
+Souhma chegou inteiro e recebeu a língua da Voz (cap. 13); o falso falou por
 aprendizado, o verdadeiro por dom.
 
 ## Aparência Canônica
@@ -60,7 +60,7 @@ Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
 ### Livro 1
 
 1. **Prólogo**: O oráculo falha. Genocydo ordena a caça ao Souhma com
-   recompensa de **resgate** (quer o Souhma VIVO — canon cap. 17: "Quem o
+   recompensa de **resgate** (quer o Souhma VIVO — canon cap. 18: "Quem o
    encontrar, prenda. Vivo.")
 2. Durante o L1, alimentado por Benjamim, busca a **apoteose** — o
    **contrato com Terbs** (correção 2026-08-10): se Genocydo **levar Mário

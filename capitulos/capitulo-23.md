@@ -1,7 +1,7 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 22
+capitulo: 23
 titulo: "O Assentamento"
 pov: Kate
 beat_stc: Jogos e Diversão
@@ -27,7 +27,7 @@ sementes:
   - Lakand testemunha a cura e pergunta "com magia?" — frame de magia/feitçaria, não milagre
 ---
 
-# Capítulo 22 — O Assentamento
+# Capítulo 23 — O Assentamento
 
 ## Resumo
 
@@ -63,7 +63,7 @@ Mário não come. Não ora. Fica sentado perto das crianças, as mãos paradas, 
 ### Lakand
 
 - Caminha à frente, deslocado de Kate
-- **Primeira fala pós-endurecimento** (caps. 19-20 = fera silenciosa): "O que ele está fazendo?" / "Ele... curou? Com magia?" — falas curtas, funcionais, de testemunha
+- **Primeira fala pós-endurecimento** (caps. 20-21 = fera silenciosa): "O que ele está fazendo?" / "Ele... curou? Com magia?" — falas curtas, funcionais, de testemunha
 - Frame de magia/feitçaria, não milagre — não viu a ressurreição de Saboc
 - Aceita a carne que Mário recusa, sem comentário
 
@@ -79,8 +79,8 @@ Mário não come. Não ora. Fica sentado perto das crianças, as mãos paradas, 
 
 ## Fronteira
 
-- **Cap. 21 termina**: Nolan parte para o norte — "Não para matá-lo. Para possuí-lo."
-- **Cap. 22 começa**: Kate, Mário e Lakand já estão a dias de caminhada para o norte.
-- **Cap. 23 (previsto)**: POV Mário — pregação aos refugiados, falha retumbante, a teologia da graça gratuita como ofensa num mundo de dívidas.
-- **Nota de continuidade**: o jejum de Mário e o silêncio da Voz são a ponte direta para a crise do cap. 23 — ele tenta pregar sem ter orado, sem direção, e falha. O gancho "E se a cura cessasse, as palavras dele morriam junto" (Kate) prepara exatamente isso.
-- **Nota de canon**: Lakand fala pela primeira vez pós-endurecimento no cap. 22 — o cap. 24 ("Saramant é cinza") não deve repetir o "primeiro som"; a confissão emocional dele continua sendo o clímax do cap. 24.
+- **Cap. 22 termina**: Nolan parte para o norte — "Não para matá-lo. Para possuí-lo."
+- **Cap. 23 começa**: Kate, Mário e Lakand já estão a dias de caminhada para o norte.
+- **Cap. 24 (escrito)**: POV Nolan — "O Rastro" (milagre replicável; vembra; as três cartas).
+- **Ponte da pregação (plano refeito 2026-09-10)**: o antigo beat "pregação aos refugiados, falha retumbante" não virou capítulo próprio — foi redistribuído. O jejum e o silêncio da Voz seguem como pano de fundo até a Feira de Tronk (cap. 25): lá Mário prega por iniciativa própria, a graça entra pela ponte da dívida herdada (tradução decidida em 2026-08-30) e a cura intencional funciona — a "falha" deixou de ser a cura que cessa; é de comunhão. A oposição vem na segunda pregação (cap. 26): o carroceiro de Tronk retorna, a multidão divide, a recompensa é reconhecida — e o grupo foge. O gancho "E se a cura cessasse, as palavras dele morriam junto" (Kate) aponta para essa cadeia: a cura como credencial (25) e o preço que ela cobra no mundo (26).
+- **Nota de canon**: Lakand fala pela primeira vez pós-endurecimento no cap. 23 — o cap. 26 ("Saramant é cinza") não deve repetir o "primeiro som"; a confissão emocional dele continua sendo o clímax do cap. 26.

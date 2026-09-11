@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 8 — A Caverna"
+title: "Capítulo 9 — A Caverna"
 description: "Kate e Lakand caçam vampiros mortos. Lakand revela que Charles foi para Opium atrás da recompensa pelo Souhma."
 pov: [Kate]
 stc-beat: "Debate (~23-26%)"
-timeline: "Mesmo período dos caps. 4-7"
+timeline: "Mesmo período dos caps. 5-8"
 tags: [L1, kate, lakand, saramant, vampiros, charles, recompensa]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
@@ -44,14 +44,14 @@ assim para evitar amarras sentimentais).
 
 ## Sementes Plantadas
 
-- 🌱 **Charles em Opium**: Ele estava no mesmo lugar que Mário (cap. 4 e 7).
+- 🌱 **Charles em Opium**: Ele estava no mesmo lugar que Mário (caps. 5 e 8).
   Charles encontrou Mário e quer a recompensa.
 - 🌱 **Devour na disputa**: O lorde rampilla também quer o Souhma.
 - 🌱 **Esterilidade dos daërunmeges**: Mesmia os criou sem reprodução.
 
 ## Conexões
 
-- [Capítulo 4](/capitulos/capitulo-04.md) — Opium: onde Mário acordou
-- [Capítulo 7](/capitulos/capitulo-07.md) — Charles se revela em Opium
+- [Capítulo 5](/capitulos/capitulo-05.md) — Opium: onde Mário acordou
+- [Capítulo 8](/capitulos/capitulo-08.md) — Charles se revela em Opium
 - [Charles](/personagens/charles.md) — Caçador de Mário
 - [Lakand](/personagens/lakand.md) — Relação com Kate

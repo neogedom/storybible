@@ -11,22 +11,22 @@ timestamp: 2026-08-06T00:00:00-03:00
 ## Visão Geral
 
 Uma das **parteiras que atenderam o parto de Dagmar** no castelo de Devour
-(cap. 18). Sobrevive ao incêndio (cap. 19) e, deslocada (Devour morto,
+(cap. 19). Sobrevive ao incêndio (cap. 20) e, deslocada (Devour morto,
 castelo em ruínas), entra para o séquito de Nolan como **ama de leite de
-Saboc** (cap. 21). Conhece ervas — é ela quem reconhece o veneno.
+Saboc** (cap. 22). Conhece ervas — é ela quem reconhece o veneno.
 
 ## Papel na História
 
-- **Cap. 18**: entre as parteiras do quarto do parto — viu Dagmar morrer e o
+- **Cap. 19**: entre as parteiras do quarto do parto — viu Dagmar morrer e o
   bebê nascer sem ar.
-- **Cap. 21**: sobrevive ao incêndio; vira **ama de leite de Saboc**. Viu o
+- **Cap. 22**: sobrevive ao incêndio; vira **ama de leite de Saboc**. Viu o
   bebê morto e o vê vivo — **testemunha silenciosa da ressurreição do lado de
   Nolan** (semente: a casa de Nolan abriga alguém que sabe do impossível).
-- **Cap. 23 (correção 2026-08-30 — era cap. 25 na decisão 08-19, mas o cap. 25 é POV Kate)**: na estrada da caçada, comenta de forma
+- **Cap. 24 (correção 2026-08-30 — era cap. 26 na decisão 08-19, mas o cap. 26 é POV Kate)**: na estrada da caçada, comenta de forma
   **despretensiosa** o cheiro de **vembra** em Dagmar ("a senhora cheirava
   a vembra, senhor") — um comentário solto, sem intenção; ela não sabe o
   que está revelando. **É Nolan quem liga os pontos** e anota mentalmente
-  (reveal de Juleen no cap. 30; ver `temas/sementes.md` #6).
+  (reveal de Juleen no cap. 32; ver `temas/sementes.md` #6).
 - O filho morto dela é só fundo — nunca mencionado no texto.
 
 ## Relações
@@ -40,7 +40,7 @@ Saboc** (cap. 21). Conhece ervas — é ela quem reconhece o veneno.
 ## Notas
 
 - Nome definido em 2026-08-06.
-- É uma figura de fundo no cap. 21: funcional (amamentar), não protagonista
+- É uma figura de fundo no cap. 22: funcional (amamentar), não protagonista
   do luto de Nolan. O peso dela está na semente do veneno e na testemunha da
   ressurreição, que podem render em capítulos futuros.
 

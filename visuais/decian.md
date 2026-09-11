@@ -1,13 +1,13 @@
 ---
 type: Visual
 character: Decian
-primeiro_capitulo: 18
-ultimo_capitulo: 18
+primeiro_capitulo: 19
+ultimo_capitulo: 19
 ---
 
 # Decian — Registro Visual
 
-## Capítulo 18 (introdução)
+## Capítulo 19 (introdução)
 
 - **Forma**: Humana (não assume forma de lobisomem neste capítulo)
 - **Postura**: Encolhido contra a parede de pedra, joelhos junto ao peito

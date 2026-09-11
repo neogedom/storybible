@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 10 — A Carga"
+title: "Capítulo 11 — A Carga"
 description: "Charles e Decian limpam a torre. Decian cura Mário. Mário descobre que é uma mercadoria — Charles quer a recompensa."
 pov: [Mário]
 stc-beat: "Debate (~30-33%)"
-timeline: "Amanhecer — imediatamente após cap. 7"
+timeline: "Amanhecer — imediatamente após cap. 8"
 tags: [L1, mario, opium, charles, decian, mesmia]
 timestamp: 2026-07-24T12:00:00-03:00
 ---
@@ -60,5 +60,5 @@ Ao amanhecer, o sol queima os corpos dos vampiros — a pele frita e chiando.
 
 - [Charles](/personagens/charles.md) — Caçador de Mário, pragmático
 - [Decian](/personagens/decian.md) — Curandeiro, consciência hesitante
-- [Capítulo 7](/capitulos/capitulo-07.md) — Charles se revelou; agora age
-- [Capítulo 8](/capitulos/capitulo-08.md) — Lakand revelou que Charles foi para Opium
+- [Capítulo 8](/capitulos/capitulo-08.md) — Charles se revelou; agora age
+- [Capítulo 9](/capitulos/capitulo-09.md) — Lakand revelou que Charles foi para Opium

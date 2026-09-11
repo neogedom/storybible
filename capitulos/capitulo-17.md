@@ -1,10 +1,10 @@
 ---
 type: Chapter
-title: "Capítulo 16 — A Travessia"
+title: "Capítulo 17 — A Travessia"
 description: "Nolan cruza o Cran com Dagmar. A tensão explode. Ele dá um tapa nela — ponto de não retorno."
 pov: [Nolan]
 stc-beat: "Debate (~50-53%)"
-timeline: "3 dias de viagem — após cap. 13"
+timeline: "3 dias de viagem — após cap. 14"
 tags: [L1, nolan, dagmar, viagem, tapa, crise]
 timestamp: 2026-07-25T12:00:00-03:00
 ---
@@ -54,7 +54,7 @@ O silêncio pós-tapa é pior que o grito. Nolan não pede desculpas.
 ## Sementes Plantadas
 
 - 🌱 **O tapa**: Ponto de não retorno no casamento. O tapa não mata Dagmar
-  — é o **chá de cascas de olmo** (dado por Juleen no cap. 3) que causa
+  — é o **chá de cascas de olmo** (dado por Juleen no cap. 4) que causa
   a morte dela e de Saboc. O tapa expõe a falência do casamento.
 - 🌱 **Tyott Guenayer**: O pai de Nolan, hedonista, recusou o trono.
   Nolan repete os mesmos erros que condena no pai.
@@ -62,8 +62,8 @@ O silêncio pós-tapa é pior que o grito. Nolan não pede desculpas.
 
 ## Conexões
 
-- [Capítulo 9](/capitulos/capitulo-09.md) — Layla foi ao palacete; Dagmar viu
-- [Capítulo 13](/capitulos/capitulo-13.md) — Nolan decidiu viajar
+- [Capítulo 10](/capitulos/capitulo-10.md) — Layla foi ao palacete; Dagmar viu
+- [Capítulo 14](/capitulos/capitulo-14.md) — Nolan decidiu viajar
 - [Dagmar](/personagens/dagmar.md) — O tapa acelera o desfecho dela
 - [Taverna do Porto Seco](*lugares/taverna-porto-seco.md) — Primeira parada
 

@@ -6,7 +6,7 @@ tags: [visual, timeline, ossan]
 timestamp: 2026-08-26
 ---
 
-## Capítulo 23 — O Rastro
+## Capítulo 24 — O Rastro
 
 - **Vestimenta**: trajes de xamã (sobreviventes do incêndio), sóbrios, funcionais
 - **Postura**: imóvel, observando os rampillas com atenção de quem ainda os aprende

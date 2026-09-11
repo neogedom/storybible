@@ -38,6 +38,12 @@ Definition of Done (prosa completa, fronteira ok).
 | Visual de cada personagem que aparece | `index.md`, log detalhado, expansão de conceitos |
 | Ponto de partida do próximo capítulo | Polimento (densidade fina/linguística), áudio, reconciliação com versão pública 0-19 |
 
+> **Exceção (decisão do autor, 2026-09-10):** o **passe anti-slop** (cirurgia
+> local — teste F13) roda **a cada capítulo fechado**, na mesma janela do
+> Mini-INGEST — ou fica estacionado para um lote, a pedido. Não espera o
+> congelamento; lá permanece só a **varredura final leve** (uniformidade +
+> capítulos com reescrita pesada).
+
 Regra de bolso: `personagens/<nome>.md` só muda quando um **fato duro** muda
 (nova habilidade, morte, mudança de papel). Estado cena-a-cena vive em
 `capitulos/capitulo-XX.md`.
@@ -54,11 +60,12 @@ Ideias absorvem para frente.
 ### Definition of Done (modo privado)
 
 1. Prosa completa em `Livro 1/capituloXX.md` (sem markdown, POV do beat).
-2. Mini-INGEST feito.
-3. Checagem de fronteira ok.
-4. Nenhuma pergunta em aberto bloqueando o próximo capítulo (resolvida ou estacionada em `insights/`).
-5. Canon duro novo registrado (ou estacionado).
-6. Próximo capítulo NÃO começa antes do Mini-INGEST.
+2. Passe anti-slop do capítulo rodado (cirurgia local — teste F13; ou estacionado para lote, a pedido).
+3. Mini-INGEST feito.
+4. Checagem de fronteira ok.
+5. Nenhuma pergunta em aberto bloqueando o próximo capítulo (resolvida ou estacionada em `insights/`).
+6. Canon duro novo registrado (ou estacionado).
+7. Próximo capítulo NÃO começa antes do Mini-INGEST.
 
 ---
 

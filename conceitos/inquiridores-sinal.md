@@ -1,10 +1,16 @@
 ---
 type: Concept
 name: Inquiridores do Sinal
-ultimo_capitulo: 18
+ultimo_capitulo: 19
 ---
 
 # Inquiridores do Sinal
+
+> **Nomenclatura (canon 2026-09-10):** o corpo chama-se **Ordem dos
+> Inquiridores do Sinal** — agentes a serviço do **Templo de Vonos**, em
+> **Rifte** (reino vizinho). O **Sinal** é a frequência de aferição (ver
+> `conceitos/sinal-de-vonos.md`) — não a Ordem; na prosa, não usar "o Sinal"
+> como sinônimo de "a Ordem".
 
 ## Descrição
 
@@ -33,9 +39,9 @@ Quando Kate passou carregando Mário perto de um diapasão, a nota subiu de tom 
 
 ## O Revólver de Auditoria (canon 2026-08-10)
 
-Arma dos Inquiridores (caps. 2 e 27). **Não dispara balas.** Dispara uma
+Arma dos Inquiridores (caps. 3 e 28). **Não dispara balas.** Dispara uma
 **descarga de aferição** — um pulso de compressão geométrica do Sinal,
-focalizado pelo **quartzo** (o médium que "audita sem distorcer"). O cap. 2 já
+focalizado pelo **quartzo** (o médium que "audita sem distorcer"). O cap. 3 já
 estabelece: o cilindro "não lembrava munições de pólvora, mas um mecanismo de
 compressão geométrica e exata", e "o impacto não foi o de uma bala perfurando
 a carne. Foi uma implosão".
@@ -60,15 +66,15 @@ do alvo, não tudo que toca) e (c) a **compressão geométrica** que rompe a
 âncora. Forma um circuito ressonante: talismã do Inquiridor (quartzo) →
 descarga → Monólito (quartzo). O MESMO canal em que Mário "ocupou a
 frequência" — por isso o sistema o sente e por isso ele o quebra. Bônus
-temático: o quartzo é o "mineral da autodisciplina" do folclore (cap. 6) —
+temático: o quartzo é o "mineral da autodisciplina" do folclore (cap. 7) —
 a ordem burocrática cristalizada.
 
 **"Bala/tiros/pólvora" são a impressão de Mário** (leitura de um humano da
 Terra de um fenômeno que não conhece). A implosão é REAL e **fere de
-verdade** (clavícula despedaçada, pulmão colapsado, sangue — cap. 2). A
+verdade** (clavícula despedaçada, pulmão colapsado, sangue — cap. 3). A
 descarga é de **transporte/captura**, não de execução — mas o dano persiste
 em quem é ferido e transportado. **Mário acordou SEM um ferimento sequer
-(cap. 4) NÃO por causa do mecanismo, mas por ação da Voz/Deus** (decisão
+(cap. 5) NÃO por causa do mecanismo, mas por ação da Voz/Deus** (decisão
 2026-08-10): uma preservação soberana que ele não percebeu — e que a Voz
 usará como argumento (ver `temas/sementes.md`, #10). **Kraviam, sem essa
 intervenção, chegou FERIDO em Ornick**: o dano da implosão persistiu — o
@@ -80,7 +86,7 @@ diapasões, bacias métricas) — NÃO participa do transporte (não há projét
 O quartzo é o **foco/médium** da descarga. Sem conflito de material.
 
 **Uso em batalha:** remoção/captura — a patrulha dispara para **transportar
-Mário vivo** à custódia (cap. 27): um acerto o relocaria para a Metrópole —
+Mário vivo** à custódia (cap. 28): um acerto o relocaria para a Metrópole —
 não o mataria. A fraqueza tática é o gesto de **aferição** (meio segundo
 antes da descarga, o "papel" que calibra o alvo) — a pausa que Mário lê
 para se jogar no chão.
