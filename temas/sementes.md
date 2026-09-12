@@ -12,6 +12,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - **Plantio**: L1, cap. 27 (numeração nova; "cap. 26" na antiga) — Mário canta em português para Kate
 - **Beat novo (2026-09-09)**: em capítulo futuro do L1, **Kate pergunta o que ele cantou** — pagamento próximo da semente
+- **Executado (2026-09-11)**: o hino entrou no cap. 27 fechado — Kate ouviu, não perguntou; a pergunta segue pendente
 - **Germinação**: L2 — Gunad canta nos becos; Kate reconhece a melodia
 - **Risco**: A cena do L1 precisa ser memorável para o leitor reconhecer no L2
 
@@ -175,8 +176,7 @@ timestamp: 2026-07-24T12:00:00-03:00
   Lucas). Segura os dogmas como escudo para não encarar a relação (não
   ora). O cap. 27 desnuda essa raiva (eco de Jó): a Voz confronta não a
   resistência à identidade, mas a raiva de quem já sabia.
-- **Germinação (local: a noite do cap. 27, junto ao hino — mantido;
-  reavaliar ao escrever)**: a Voz confronta Mário e assume a autoria da
+- **Germinação (EXECUTADA no cap. 27, fechado 2026-09-11)**: a Voz confronta Mário e assume a autoria da
   glossolalia como
   testemunho de Deus aos ornickenhos. **Na MESMA conversa (decisão
   2026-08-10), a Voz apresenta um SEGUNDO argumento: a preservação do corpo

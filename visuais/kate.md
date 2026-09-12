@@ -19,6 +19,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma canônica definida                     |
 | Expressão  | Fria, nojo, determinação                      |
 
+## Capítulo 27 — O Cerco
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Roupas     | Couro remendado de caçadora, manto de xilomagia de Tharin              |
+| Armas      | Faca de caça (usada na emboscada — abre a coxa de um mercenário)       |
+| Ferimentos | Nenhum novo                                                            |
+| Expressão  | Vigilância (sentinela na boca da fenda); frieza prática ("Isso pode demorar"); cabeça virada ao ouvir a oração em ornickenho |
+| Postura    | Parada na boca da fenda, de costas — silhueta preta contra o céu       |
+| Sujeira    | Poeira da estrada                                                      |
+| Iluminação | Noite; o pouco de céu na boca da fenda                                 |
+
 ## Capítulo 26 — O Preço da Fama
 
 | Atributo   | Estado                                                                 |

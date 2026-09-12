@@ -90,9 +90,8 @@ ressurreição é um **atributo em ato**, não resposta a fórmula.
   usando o dom para provar que não precisa de Deus).
 - **Custo preservado:** a cura funciona, mas o capítulo fecha com a
   consciência sussurrando "Você só quer vencer". O milagre não o confirma;
-  expõe a fissura. (Nota: a conclusão de Mário sobre Kate — "como quem mede
-  uma ferramenta" — saiu do cap. 25 na revisão de 2026-08-30; vai para o
-  cap. 27.)
+  expõe a fissura. (Nota: a percepção de Mário sobre o jeito de Kate medir as pessoas — "como quem mede
+  uma ferramenta" — saiu do cap. 25 na revisão de 2026-08-30; não entrou no cap. 27 — beat pendente de realocação no L1, decisão no checkpoint de beat: ver [insight](/insights/kate-mede-ferramenta.md).)
 
 ## "Acima do Limbo" — ontológico, não posicional
 

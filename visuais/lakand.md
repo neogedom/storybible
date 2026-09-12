@@ -19,6 +19,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Múltiplas, visíveis                |
 | Expressão  | Predatória, alerta                 |
 
+## Capítulo 27 — O Cerco
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Forma      | Híbrida atenuada (mais homem do que fera)                              |
+| Pelagem    | Chamuscada do fogo (cap. 20), ainda marcada                            |
+| Ação       | Puxa Mário para a fenda; puxa o lanceiro para dentro (o grito para de repente) |
+| Postura    | Deitado na pedra, virado para fora; à noite, levanta a cabeça devagar e abre as narinas no escuro |
+| Expressão  | Alerta silencioso — fareja a mudança no silêncio                       |
+
 ## Capítulo 26 — O Preço da Fama
 
 | Atributo   | Estado                                                                 |

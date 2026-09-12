@@ -75,8 +75,17 @@ Se alguma cena da lista não tem conflito E ponto de virada, **corte ou transfor
 
 ### F3. Teste de Ação e Reação (Swain)
 
+> **Anatomia da unidade** — cena (ação) = objetivo → conflito → desastre;
+> sequel (reação) = reação → dilema → decisão. O teste **marca dívida, não
+> defeito**: decisão fora da página é anotada (próximo capítulo ou adiamento
+> deliberado), não "corrigida" na hora.
+
+- [ ] Cada cena tem **objetivo → conflito → desastre**? (terminar em vitória limpa sem custo, ou em "e então", merece revisão)
+- [ ] Cada sequel tem **reação → dilema → decisão**? Onde fica a decisão — no capítulo, no seguinte, ou deliberadamente adiada? (anotar)
 - [ ] Cada cena de ação (algo acontece) tem uma cena de reação correspondente (alguém processa)? — pode ser no mesmo capítulo ou no seguinte
 - [ ] Se uma ação grande ficou sem reação: **adicionar sequel** ou sinalizar para o próximo capítulo
+- [ ] **Com que unidade o capítulo fecha?** — desastre (o próximo abre processando) ou decisão (o próximo abre executando)
+- [ ] Alguma decisão adiada há mais de 2 capítulos? → decidir na página do próximo ou registrar a dívida no esquema
 
 ### F4. Teste de "Entra Tarde, Sai Cedo"
 

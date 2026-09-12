@@ -18,6 +18,19 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma                             |
 | Expressão  | Medo, desespero                     |
 
+## Capítulo 27 — O Cerco
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Roupas     | Camiseta urbana, calça jeans, tênis — poeira; **mancha escura (sangue de outros) entre as costuras, ainda lá** |
+| Acessórios | Sem óculos (perdidos na travessia)                                     |
+| Ferimentos | Nenhum novo; sede; exaustão                                            |
+| Sujeira    | Poeira da estrada; terra da caverna nos dedos (do choro)               |
+| Expressão  | Culpa → confissão (choro sem barulho) → canto → oração → escuta tensa  |
+| Postura    | Sentado contra a pedra; mão à clavícula (ao ouvir a Voz)               |
+| Iluminação | Noite na caverna; fogueiras dos mercenários do lado de fora            |
+| Fundo      | Caverna estreita (fenda na rocha) sob cerco                            |
+
 ## Capítulo 26 — O Preço da Fama
 
 | Atributo   | Estado                                                                 |

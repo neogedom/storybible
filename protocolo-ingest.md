@@ -26,8 +26,18 @@ Definition of Done (prosa completa, fronteira ok).
    de relação/posição → `conceitos/`; semente cross-livro nova → `temas/sementes.md`.
 4. Atualizar a tabela de progresso em `temas/esquema-l1.md` (1 linha).
 5. Checagem de fronteira: reler o Mini-INGEST do capítulo anterior + o bloco
-   do próximo no esquema (sem contradição; ponto de partida claro).
+   do próximo no esquema (sem contradição; ponto de partida claro). Anotar
+   **como o capítulo fecha** — decisão (personagem escolhe) ou desastre
+   (algo dá errado)? Desastre sem sequel → o próximo abre processando;
+   decisão → o próximo abre executando. Decisão adiada há mais de 2
+   capítulos: sinalizar no esquema (dívida — não reescrever).
 6. `log.md`: 1 linha (pode ser batch a cada 5 caps).
+7. Contador de checkpoint: verificar quantos capítulos passaram desde o
+   último checkpoint registrado no `log.md` (se nunca houve, contar desde o
+   início do bloco/beat). Da **6ª** marca em diante → **oferecer ao autor**
+   o checkpoint leve do Arquiteto de Densidade nas fronteiras de beat
+   (corrige o mapa para frente, nunca o texto). Executado, registrar no
+   `log.md`.
 
 ### Obrigatório agora vs. espera o congelamento
 

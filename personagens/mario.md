@@ -96,6 +96,10 @@ responsabilidade deles pedia.
   a Voz nunca pediu que Mário agisse pelo irmão, e Mário não viu o corpo
   dele. Lucas morreu antes do castelo de dogmas (a teologia foi construída
   DEPOIS, por culpa) — a sombra dele é a inadequação, não a recusa.
+- **Fase escolar (canon 2026-09-11)**: quando Lucas morreu, Mário estava no
+  **ensino médio** — ainda não na faculdade. O Direito veio depois; na
+  época, ele tinha a palavra, não a ferramenta (fixado na confissão do cap.
+  27: "Não sabia fazer outra coisa").
 - **Frieza com a família**: a morte de Lucas deixou Mário mais frio com os
   pais e a irmã (Camilla) — no fundo, também os culpa por terem deixado
   Lucas entrar no mundo das drogas.

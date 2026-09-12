@@ -9,9 +9,11 @@ timestamp: 2026-09-10T12:00:00-03:00
 # Esquema do Livro 1
 
 > **Fonte de verdade para beats STC:** `temas/arco-stc.md`
-> **Capítulos já escritos (0-26):** `capitulos/capitulo-00.md` a `capitulos/capitulo-26.md`
+> **Capítulos já escritos (0-27):** `capitulos/capitulo-00.md` a `capitulos/capitulo-27.md`
 >
 > **⚠️ Recalibragem 2026-09-03:** Novo capítulo 2 inserido (Terra — "O Inquérito"). Toda a numeração de capítulos foi deslocada em +1 a partir do antigo cap. 2. A média de palavras por capítulo e a projeção total (~115.000 palavras) permanecem estáveis. As % reais abaixo foram recalibradas para refletir a nova contagem.
+>
+> **🔄 Ressincronização 2026-09-11:** a coluna **Palavras** foi medida diretamente nos arquivos do livro; a coluna **% Real** foi recalculada (**acumulado ÷ 115.000**). Capítulos revisados desde a última medição mudaram de número (diferenças maiores: caps. 2, 3 e 23).
 >
 > **📌 Sincronização 2026-09-10:** as seções de detalhe e as referências deste esquema foram re-numeradas para a **numeração nova** — a mesma dos arquivos do livro (`Livro 1/capituloN.md`) e da tabela abaixo. Equivalência nesta sincronização: referência antiga + 1 = referência nova (para capítulos a partir do antigo 2); os caps. 0-1 não mudaram.
 
@@ -21,34 +23,34 @@ timestamp: 2026-09-10T12:00:00-03:00
 
 | Capítulo | Beat STC                            | POV          | % Planejada (original) | % Real (recalibrada) | Palavras |
 | -------- | ----------------------------------- | ------------ | ---------------------- | -------------------- | -------- |
-| 0        | Imagem de Abertura                  | Nolan + Kate | ~0-2%                  | ~2,6%                | 3.033    |
-| 1        | Configuração                        | Mário        | ~2-5%                  | ~5,0%                | 2.727    |
-| 2        | Configuração (novo)                 | Mário        | ~5-7%                  | ~7,0%                | ~2.500   |
-| 3        | Configuração / Catalisador          | Mário        | ~7-10%                 | ~9,5%                | 2.333    |
-| 4        | Debate                              | Nolan        | ~10-12%                | ~11,5%               | 2.719    |
-| 5        | Debate                              | Mário        | ~12-14%                | ~13,5%               | 2.467    |
-| 6        | Debate                              | Kate         | ~14-16%                | ~15,5%               | 2.270    |
-| 7        | Debate                              | Nolan        | ~16-18%                | ~19,0%               | 4.488    |
-| 8        | Debate                              | Mário        | ~18-20%                | ~21,0%               | 2.416    |
-| 9        | Debate                              | Kate         | ~20-22%                | ~23,5%               | 2.844    |
-| 10       | Debate                              | Nolan        | ~22-24%                | ~26,0%               | 3.004    |
-| 11       | Debate                              | Mário        | ~24-26%                | ~27,5%               | 1.453    |
-| 12       | Debate                              | Kate         | ~14-16%                | ~30,5%               | 3.524    |
-| 13       | Debate                              | Mário        | ~26-28%                | ~33,5%               | 3.473    |
-| 14       | Debate                              | Nolan        | ~28-30%                | ~35,0%               | 1.967    |
-| 15       | Debate                              | Kate         | ~30-31%                | ~36,5%               | 1.776    |
-| 16       | Debate                              | Mário        | ~31-32%                | ~38,5%               | 2.510    |
-| 17       | Debate                              | Nolan        | ~32-33%                | ~40,5%               | 2.123    |
-| 18       | Debate                              | Kate         | ~33-35%                | ~43,0%               | 2.833    |
-| 19       | Break Into 2                        | Nolan        | ~35-38%                | ~45,0%               | 2.391    |
-| 20       | Break Into 2                        | Kate         | ~38-40%                | ~46,5%               | 1.829    |
-| 21       | Jogos e Diversão                    | Mário        | ~38-40%                | ~48,5%               | 2.301    |
-| 22       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~50,5%               | 2.531    |
-| 23       | Jogos e Diversão                    | Kate         | ~42-44%                | ~53,0%               | 2.963    |
-| 24       | Jogos e Diversão                    | Nolan        | ~44-46%                | ~57,0%               | 2.204    |
-| 25       | Jogos e Diversão                    | Mário        | ~46-48%                | ~59,5%               | 2.859    |
-| 26       | Jogos e Diversão                    | Kate         | ~48-50%                | —                     | —        |
-| 27       | Jogos e Diversão                    | Mário        | ~50-52%                | —                     | —        |
+| 0        | Imagem de Abertura                  | Nolan + Kate | ~0-2%                  | ~2,6%                | 2.948    |
+| 1        | Configuração                        | Mário        | ~2-5%                  | ~4,9%                | 2.727    |
+| 2        | Configuração (novo)                 | Mário        | ~5-7%                  | ~6,5%                | 1.855    |
+| 3        | Configuração / Catalisador          | Mário        | ~7-10%                 | ~7,7%                | 1.334    |
+| 4        | Debate                              | Nolan        | ~10-12%                | ~10,4%               | 3.044    |
+| 5        | Debate                              | Mário        | ~12-14%                | ~12,5%               | 2.492    |
+| 6        | Debate                              | Kate         | ~14-16%                | ~14,5%               | 2.292    |
+| 7        | Debate                              | Nolan        | ~16-18%                | ~18,5%               | 4.575    |
+| 8        | Debate                              | Mário        | ~18-20%                | ~20,6%               | 2.468    |
+| 9        | Debate                              | Kate         | ~20-22%                | ~23,1%               | 2.867    |
+| 10       | Debate                              | Nolan        | ~22-24%                | ~25,7%               | 3.004    |
+| 11       | Debate                              | Mário        | ~24-26%                | ~27,1%               | 1.556    |
+| 12       | Debate                              | Kate         | ~14-16%                | ~30,2%               | 3.524    |
+| 13       | Debate                              | Mário        | ~26-28%                | ~33,2%               | 3.527    |
+| 14       | Debate                              | Nolan        | ~28-30%                | ~35,1%               | 2.194    |
+| 15       | Debate                              | Kate         | ~30-31%                | ~36,7%               | 1.776    |
+| 16       | Debate                              | Mário        | ~31-32%                | ~38,9%               | 2.510    |
+| 17       | Debate                              | Nolan        | ~32-33%                | ~40,7%               | 2.123    |
+| 18       | Debate                              | Kate         | ~33-35%                | ~43,2%               | 2.833    |
+| 19       | Break Into 2                        | Nolan        | ~35-38%                | ~45,4%               | 2.531    |
+| 20       | Break Into 2                        | Kate         | ~38-40%                | ~47,0%               | 1.849    |
+| 21       | Jogos e Diversão                    | Mário        | ~38-40%                | ~49,0%               | 2.316    |
+| 22       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~51,2%               | 2.512    |
+| 23       | Jogos e Diversão                    | Kate         | ~42-44%                | ~53,5%               | 2.622    |
+| 24       | Jogos e Diversão                    | Nolan        | ~44-46%                | ~55,5%               | 2.397    |
+| 25       | Jogos e Diversão                    | Mário        | ~46-48%                | ~57,6%               | 2.314    |
+| 26       | Jogos e Diversão                    | Kate         | ~48-50%                | ~60,4%               | 3.245    |
+| 27       | Jogos e Diversão                    | Mário        | ~50-52%                | ~62,2%               | 2.050    |
 | 28       | Jogos e Diversão                    | Kate         | ~52-54%                | —                     | —        |
 | 29       | Jogos e Diversão                    | Nolan        | ~54-56%                | —                     | —        |
 | 30       | Jogos e Diversão                    | Mário        | ~56-58%                | —                     | —        |
@@ -337,7 +339,7 @@ o **O hino.** Baixinho, em português: "Mais perto quero estar". Kate não enten
 
 o **A oração.** A primeira desde a crise (cap. 21). Começa em português e escorrega para o ornickenho sem ele perceber — a primeira evidência entra viva na cena; Kate reconhece a língua da noite do bebê (cap. 20).
 
-o **O confronto da Voz (clímax; germinação da semente #10).** Responde não com socorro — com exposição: (1) a língua (cap. 13 — "Você nunca aprendeu aquelas palavras. Eu as pus na sua boca."); (2) o corpo (caps. 3/5 — "quebrado e inteiro"; reprise do que ele já concedeu na crise). Acusação curta, SEM explicar (decisão 2026-09-10): os dois argumentos bastam; no máximo uma pergunta (ex.: "Por que só agora?"). Bastidor (não vai ao texto): o medo de fundo (que o silêncio seja a resposta final) e a oração utilitária ficam no PENSAMENTO de Mário — a Voz não diagnostica. Mário resiste (cessacionismo teimoso) e não tem resposta para o corpo. A Voz cala; o silêncio pesa mais — silêncio ≠ ausência. Função: desnudar a raiva (eco de Jó). GUARDRAIL: sem resolução, sem conforto, sem resgate.
+o **O confronto da Voz (clímax; germinação da semente #10).** Responde não com socorro — com exposição: (1) a língua (cap. 13 — "Você nunca aprendeu aquelas palavras. Eu as pus na sua boca."); (2) o corpo (caps. 3/5 — "quebrado e inteiro"; reprise do que ele já concedeu na crise). Acusação curta, SEM explicar (decisão 2026-09-10): os dois argumentos bastam; a Voz fecha com a pergunta "Por que só agora?" (escolha do autor). Bastidor (não vai ao texto): o medo de fundo (que o silêncio seja a resposta final) e a oração utilitária ficam no PENSAMENTO de Mário — a Voz não diagnostica. Mário resiste (cessacionismo teimoso) e não tem resposta para o corpo. A Voz cala; o silêncio pesa mais — silêncio ≠ ausência. Função: desnudar a raiva (eco de Jó). GUARDRAIL: sem resolução, sem conforto, sem resgate.
 
 o **Fecho (gancho de suspense).** Antes da luz, as vozes do cerco param uma a uma; um som que Mário não sabe nomear. Os dois silêncios — o de dentro (a Voz) e o de fora (os homens) — e o de fora é pior.
 
@@ -502,7 +504,7 @@ o **Kate vê o exército que queria** — mas o preço foi mais alto que ela ima
 | Dupla Mário+Kate funcionando                       | Caps. 28 (ele lê, ela age), 30 (ele convence, ela confia), 32 (Nolan observa)                                                                                                                                      |
 | Caçadores de recompensa                            | Cap. 27 (mercenários menores)                                                                                                                                                                                      |
 | Inquiridores (Vonos quer Mário vivo como novo rei) | Cap. 28 (confronto), Cap. 29 (Nolan infere: querem Mário vivo, ativo do Sinal — o "novo rei" só fecha depois, com o diário de Genocydo)                                                                            |
-| Criaturas fantásticas                              | Cap. 27 (Vermes de Vidro), Cap. 30 (Moribundos)                                                                                                                                                                    |
+| Criaturas fantásticas                              | Cap. 30 (Moribundos)                                                                                                                                                                    |
 | O arco de Kate — da ferramenta ao protagonismo     | Cap. 20 (escolhe Mário como ferramenta), 23 (confirma: humanos são matéria-prima), 25 (Lakand percebe o plano), 28 (começa a semear), 31 (fissura: empatia nasce), 34 (Mário morde a isca), 35 (Mina no horizonte) |
 | Nolan — o arco do Rei                              | Caps. 22 (sonho: Mário como ferramenta contra doenças), 24 (certeza + veneno), 29 (confronto com Inquiridores), 32 (decide atrair como aliado)                                                                     |
 | Lakand — presente, reticente                       | Caps. 21, 25, 30, 31 (percebe paixão + trama de Kate)                                                                                                                                                              |

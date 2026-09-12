@@ -1,5 +1,43 @@
 # Log de Atualizações
 
+## 2026-09-11 (protocolo — lente Scene/Sequel no F3 + gatilho do checkpoint)
+
+- **F3 expandido** (`conceitos/checklist-capitulo.md`): Teste de Ação e
+  Reação (Swain) agora cobre a anatomia completa — cena = objetivo → conflito
+  → desastre; sequel = reação → dilema → decisão; "com que unidade o capítulo
+  fecha?"; decisão adiada >2 caps vira dívida registrada. Princípio: **marca
+  dívida, não defeito**.
+- **Mini-INGEST passo 5** (`protocolo-ingest.md`): checagem de fronteira
+  agora anota o fecho (decisão/desastre) e o que ele exige do próximo.
+- **Mini-INGEST passo 7 (novo)**: contador de checkpoint — ≥6 caps desde o
+  último checkpoint registrado → **oferecer ao autor** o checkpoint leve do
+  Arquiteto. Lacuna fechada: a regra existia em três lugares, mas sem gatilho
+  de disparo (nenhum checkpoint registrado até hoje).
+- **Referências sincronizadas**: `Livro/.github/copilot-instructions.md`
+  (Modo de Escrita Privada), `.github/agents/livro-writer.agent.md`,
+  `.github/agents/arquiteto-densidade.agent.md` (Pêndulo Ação vs. Reação).
+- **Janela aberta**: bloco Jogos 21-27 = 7 caps sem checkpoint → oferecer o
+  checkpoint leve (próximos marcos: Movimento 3, caps. 32-35; Ponto Central,
+  cap. 36).
+- **Arquivos**: `conceitos/checklist-capitulo.md`, `protocolo-ingest.md`,
+  `log.md` + repo Livro (3 arquivos).
+
+## 2026-09-11 (Mini-INGEST — cap. 27 fechado)
+
+- **Cap. 27 ("O Cerco", título provisório) COMPLETO**: 2.050 palavras (POV Mário). `capitulos/capitulo-27.md` criado (Resumo/Personagens/Eventos/Sementes e Conexões); visuais de Mário, Kate e Lakand atualizados; sementes #1 e #10 marcadas como executadas; tabela de progresso do `esquema-l1.md` atualizada e **ressincronizada** no mesmo dia (palavras medidas nos arquivos; % = acumulado ÷ 115.000: cap. 26 = 3.245/~60,4%; cap. 27 = 2.050/~62,2%).
+- **Canon**: fase escolar (colégio) já registrada na entrada anterior de 2026-09-11; o confronto da Voz saiu como planejado (língua + corpo + "Por que só agora?" + silêncio).
+- **Fronteira**: cap. 27 → cap. 28 ok (vozes do cerco morrem uma a uma = chegada dos Inquiridores de madrugada; sem contradições com o Mini-INGEST do cap. 26).
+- **Decisões do autor (mesmo dia)**: "Vermes de Vidro" RETIRADOS do plano (nota estrutural atualizada); tabela de progresso ressincronizada (palavras medidas; % = acumulado ÷ 115.000) — correção: os valores antes atribuídos aos caps. 25/26 estavam trocados (25 = 2.314; 26 = 3.245). Beat "mede uma ferramenta" esclarecido (percepção de Mário sobre Kate medir as pessoas como ferramentas) — **registrado em `insights/kate-mede-ferramenta.md`** (decisão do autor, 2026-09-11); realocação a decidir no checkpoint de beat.
+- **Pendente**: passe anti-slop (aguardando decisão do autor).
+- **Arquivos**: `capitulos/capitulo-27.md`, `visuais/{mario,kate,lakand}.md`, `temas/sementes.md`, `temas/esquema-l1.md`, `log.md`.
+
+## 2026-09-11 (canon — fase escolar de Mário na morte de Lucas: colégio)
+
+- **Decisão (autor)**: quando Lucas morreu, Mário estava no **ensino médio** — ainda não na faculdade; o Direito (e o método de jurista) veio depois. A inadequação da morte de Lucas fica pura: na época, ele tinha a palavra, não a ferramenta.
+- **Aplicado na prosa (cap. 27, confissão)**: "que era das leis" → "que acabou no direito"; "um problema de retórica" → "Como se tudo se resolvesse na conversa"; "aula de direito civil" → "aula de história".
+- **Ficha**: `personagens/mario.md` ganhou o bullet "Fase escolar (canon 2026-09-11)".
+- **Arquivos**: `Livro 1/capitulo27.md`, `personagens/mario.md`, `log.md`.
+
 ## 2026-09-10 (Resoluções pós-varredura — rascunho cap. 22, beat da pregação, Ponto Central, inquiridor)
 
 - **Rascunho do cap. 22 excluído pelo autor**: referência morta limpa em `capitulos/capitulo-21.md`; o trecho (amanhecer/Mina) permanece absorvido na abertura do cap. 23.
