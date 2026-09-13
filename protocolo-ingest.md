@@ -36,8 +36,9 @@ Definition of Done (prosa completa, fronteira ok).
    último checkpoint registrado no `log.md` (se nunca houve, contar desde o
    início do bloco/beat). Da **6ª** marca em diante → **oferecer ao autor**
    o checkpoint leve do Arquiteto de Densidade nas fronteiras de beat
-   (corrige o mapa para frente, nunca o texto). Executado, registrar no
-   `log.md`.
+   (corrige o mapa para frente, nunca o texto) **e rodar o passe anti-slop
+   em lote** sobre os capítulos fechados desde o último checkpoint.
+   Executado, registrar no `log.md`.
 
 ### Obrigatório agora vs. espera o congelamento
 
@@ -48,11 +49,11 @@ Definition of Done (prosa completa, fronteira ok).
 | Visual de cada personagem que aparece | `index.md`, log detalhado, expansão de conceitos |
 | Ponto de partida do próximo capítulo | Polimento (densidade fina/linguística), áudio, reconciliação com versão pública 0-19 |
 
-> **Exceção (decisão do autor, 2026-09-10):** o **passe anti-slop** (cirurgia
-> local — teste F13) roda **a cada capítulo fechado**, na mesma janela do
-> Mini-INGEST — ou fica estacionado para um lote, a pedido. Não espera o
-> congelamento; lá permanece só a **varredura final leve** (uniformidade +
-> capítulos com reescrita pesada).
+> **Anti-slop (decisão do autor, 2026-09-12):** o **passe anti-slop** (cirurgia
+> local — teste F13) roda **em lote no checkpoint de beat** (passo 7), cobrindo
+> os capítulos fechados desde o último checkpoint — não roda por capítulo no
+> modo privado. No congelamento permanece só a **varredura final leve**
+> (uniformidade + capítulos com reescrita pesada).
 
 Regra de bolso: `personagens/<nome>.md` só muda quando um **fato duro** muda
 (nova habilidade, morte, mudança de papel). Estado cena-a-cena vive em
@@ -70,11 +71,11 @@ Ideias absorvem para frente.
 ### Definition of Done (modo privado)
 
 1. Prosa completa em `Livro 1/capituloXX.md` (sem markdown, POV do beat).
-2. Passe anti-slop do capítulo rodado (cirurgia local — teste F13; ou estacionado para lote, a pedido).
-3. Mini-INGEST feito.
-4. Checagem de fronteira ok.
-5. Nenhuma pergunta em aberto bloqueando o próximo capítulo (resolvida ou estacionada em `insights/`).
-6. Canon duro novo registrado (ou estacionado).
+2. Mini-INGEST feito.
+3. Checagem de fronteira ok.
+4. Nenhuma pergunta em aberto bloqueando o próximo capítulo (resolvida ou estacionada em `insights/`).
+5. Canon duro novo registrado (ou estacionado).
+6. Anti-slop em dia: roda em lote no checkpoint (passo 7) — **não** é exigência por capítulo.
 7. Próximo capítulo NÃO começa antes do Mini-INGEST.
 
 ---

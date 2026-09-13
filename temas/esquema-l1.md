@@ -15,6 +15,8 @@ timestamp: 2026-09-10T12:00:00-03:00
 >
 > **🔄 Ressincronização 2026-09-11:** a coluna **Palavras** foi medida diretamente nos arquivos do livro; a coluna **% Real** foi recalculada (**acumulado ÷ 115.000**). Capítulos revisados desde a última medição mudaram de número (diferenças maiores: caps. 2, 3 e 23).
 >
+> **📐 Rebaseline 2026-09-12 (checkpoint 21-27):** a régua de 115.000 palavras não fecha com o ritmo real (~2.494 pal/cap). Régua provisória do L1: **~135-140 mil palavras** (a confirmar no congelamento). A coluna **% Planejada (original)** passa a ser **histórica** — não usar para aferição. Detalhe na nota do beat Jogos e Diversão.
+>
 > **📌 Sincronização 2026-09-10:** as seções de detalhe e as referências deste esquema foram re-numeradas para a **numeração nova** — a mesma dos arquivos do livro (`Livro 1/capituloN.md`) e da tabela abaixo. Equivalência nesta sincronização: referência antiga + 1 = referência nova (para capítulos a partir do antigo 2); os caps. 0-1 não mudaram.
 
 ---
@@ -60,7 +62,9 @@ timestamp: 2026-09-10T12:00:00-03:00
 
 ## Jogos e Diversão (~47-68%) — Caps. 21-35
 
-> **⚠️ Recalibrado 2026-08-26:** O beat começou antes do previsto (cap. 21 com ~47% em vez de ~38%) porque o Debate e Break Into 2 ocuparam mais palavras que o planejado. A janela do beat (~47-68%) ainda comporta os caps. 21-35 com folga. O Ponto Central (~68%) deve chegar no cap. 36 com ~80.000 palavras acumuladas.
+> **⚠️ Recalibrado 2026-08-26 (ver rebaseline abaixo):** o beat começou antes do previsto (cap. 21 com ~47% em vez de ~38%) porque o Debate e Break Into 2 ocuparam mais palavras que o planejado. A janela do beat segue comportando os caps. 21-35.
+>
+> **📐 Rebaseline 2026-09-11/12 (checkpoint):** a média real é ~2.494 palavras/capítulo. No ritmo real, o cap. 36 chega a **~94.000 palavras acumuladas** — o que, sobre a régua antiga (115k), poria o Ponto Central em **~82%**, não em ~68%. Para o Ponto Central bater ~68%, o **L1 ≈ 135-140 mil palavras** (régua provisória; confirmar no congelamento). A coluna **% Planejada (original)** da tabela é **histórica**; a referência de progresso é a coluna **% Real** sobre a régua provisória.
 
 > **Gênero STC:** Velocino de Ouro — jornada de Mário e Kate em busca de um objetivo (a libertação da Mina de Quartzo), enfrentando desafios, recrutando ajudantes ao longo do caminho, com a dupla funcionando em complemento: Mário pensa e articula (raciocínio abdutivo), Kate age e executa (força física e tática).
 
@@ -303,6 +307,8 @@ o **Kate e as moedas.** Mário recusa as moedas da mulher por princípio; ela in
 
 #### Capítulo 26 (PoV de Kate)
 
+> **Status (checkpoint 2026-09-11):** executado e conferido contra o manuscrito. Ficaram **de fora** dois beats desta seção: "Por que ficou?" (a cena Kate-Lakand virou a acusação do Theodore + "instrumento") e a "confissão-transação" (o manuscrito entrega a variante "você queimou porque escolheu"). A **sonda da Kate ao convertido** ("nunca mais escravos") abre o capítulo — confirmada na prosa.
+
 o **A segunda pregação (a oposição — revisão 2026-08-30; re-ingest do 25 em 2026-09-10).** Num posto de comércio ao norte de Tronk, Mário prega de novo — e a denúncia contamina a receptividade. **O carroceiro de Tronk** (o mesmo que esfaqueara o devedor) retorna e o acusa: "Feiticeiro!" — o milagre de Tronk lido como truque maligno. Mário argumenta (fato vs. conclusão; medo vs. pensamento), desmonta o acusador em debate, e a multidão se divide — uns atribuem o título de Souhma, outros negam.
 
 o **O preço da fama (o custo).** Um mercenário reconhece a recompensa de Genocydo em voz alta — a cobiça se acende; a acusação de Saramant escala; Lakand trucida um acusador; um mercenário do machado tenta capturar Mário **vivo** — Kate o fere. Fuga pelo lado norte; os convertidos de Tronk se perdem.
@@ -345,7 +351,7 @@ o **Fecho (gancho de suspense).** Antes da luz, as vozes do cerco param uma a um
 
 #### Capítulo 28 (PoV de Kate) — Reformulado
 
-o **Os Inquiridores do Sinal (canon 2026-09-09).** Uma patrulha os alcança (triangulação por diapasões). De madrugada, executam os mercenários que sitiavam a caverna: fincam a **Vara de Ofício** e a percutem — a vibração atordoa, não fere —, depois liquidam à lâmina, um a um; o grupo ouve de dentro. Contra o grupo: **Varas de Ofício** de renanthao (estocada e corte). Kate é Gnock — **o renanthao a corta, mas a sentença não a alcança** (o fio apodrece feridas de quem tem magia; ela não tem). O treino gornad a deixa esquivar, desviar e aguentar arranhões. Ela enfrenta dois Inquiridores em combate corpo a corpo e vence.
+o **Os Inquiridores do Sinal (canon 2026-09-09).** Uma patrulha os alcança (triangulação por diapasões). De madrugada, executam os mercenários que sitiavam a caverna: fincam a **Vara de Ofício** e a percutem — a vibração atordoa, não fere —, depois liquidam à lâmina, um a um; o grupo ouve de dentro. Contra o grupo: **Varas de Ofício** de renanthao (estocada e corte). Kate é Gnock — **o renanthao a corta, mas a sentença não a alcança** (o fio apodrece feridas de quem tem magia; ela não tem). O treino gornad a deixa esquivar, desviar e aguentar arranhões. Ela enfrenta dois Inquiridores em combate corpo a corpo e derruba os dois — **mas a patrulha é maior: o grupo não derrota todos** (decisão do autor 2026-09-12). Os restantes não se entregam a uma caçada cega; recolhem e recuam. O grupo não vence os Inquiridores: **sobrevive**.
 
 o **O perigo real:** Enquanto Kate luta, um terceiro Inquiridor aponta o Revólver de Auditoria para Mário. Kate não chega a tempo.
 
@@ -355,7 +361,11 @@ o **Mário usa raciocínio abdutivo em fração de segundo:** percebe o **ritual
 
 o Ela olha para Mário no chão: **ele não lutou. Leu o ritual e se moveu no tempo certo.** Pela primeira vez, Kate vê Mário não como fardo, mas como parceiro.
 
-o **O fecho e o registro (canon 2026-09-10).** Na luta, os Inquiridores deduzem, frios: _"Gnock."_ — surpresa verdadeira (gnocks são raros; pela habilidade dela já sabiam que era mais que humana — é a ausência do apodrecimento que os espanta). E um **escriba** que acompanha a patrulha (do corpo do Escriba-Mestre, Prólogo) observa sem lutar, anota e **recua sem pressa** — o capítulo TERMINA nele: alguém anotou tudo. (O beat "não é fardo" acontece antes, na fuga.)
+o **A cobertura da retirada e a observação (decisões do autor 2026-09-12 — fechamento da dívida de decisão).** Com a patrulha ainda de pé, Kate **decide ficar para trás**: manto de Tharin ativo (primeiro uso real desde o cap. 21), ela some na mata e cobre a retirada — Mário e Lakand correm; os Inquiridores perdem o rastro. Camuflada e imóvel, **ela observa o recolhimento**: o **procedimento** da Ordem (corpos "arquivados"; instrumentos de **leitura**, não de chacina; o léxico burocrático — aferir, em eixo, assentar) e o **escriba** anotando e recuando (imagem-síntese: alguém anotou tudo). **Pista sutil (foreshadow: querem Mário no trono — decisão do autor 2026-09-12):** opaca, nunca explícita — o Souhma é conduzido **vivo e inteiro**, e o padrão aponta para um **assento**: ordem escrita com padrão de captura + selo do Templo; marca de coroa/assento num objeto ritual; o léxico "assentar / em eixo" com duplo sentido; ou a ausência de ferimento letal nos corpos. **Kate não entende, não procura entender e guarda para si** — e não conta ao Mário (contar ao Mário estragaria o plano dela de usá-lo). O leitor compõe o padrão; ela fica com o enigma. **Germinação:** fio do diário de Genocydo (semente #15) e a coroação do final — o que ela guardou acontece. (Na escrita: guardar = memorizar/arquivar — evitar roubar objeto, que abriria outro fio; e **não verbalizar o motivo** da retenção — mostra-se pela ação.) **Gasto na página:** o uso contínuo queima a carga (os anéis perdendo o viço — o fim do manto se aproxima). Ao reencontrar o grupo, decide a rota: *"Não vamos pela estrada."*
+
+> **Dívida de decisão (checkpoint 2026-09-11; fechada em 2026-09-12):** os caps. 25, 26 e 27 fecham sem escolha na página (25: gesto; 26: "Depois eu decido"; 27: congelamento + gancho). **Pagamento neste capítulo:** a decisão nomeada da Kate (a volta ao acampamento + a rota, acima). Pagamentos seguintes: cap. 30 (atravessar sem armas), 33 (tornar o plano dele), 34 ("Então vamos").
+
+o **O fecho e o registro (canon 2026-09-10).** Na luta, os Inquiridores deduzem, frios: _"Gnock."_ — surpresa verdadeira (gnocks são raros; pela habilidade dela já sabiam que era mais que humana — é a ausência do apodrecimento que os espanta). E um **escriba** que acompanha a patrulha (do corpo do Escriba-Mestre, Prólogo) observa sem lutar, anota e **recua sem pressa** — o capítulo TERMINA nele: alguém anotou tudo. (O beat "não é fardo" acontece antes, na fuga.) **Pagamento (decisão 2026-09-12):** adiado — não no cap. 32; germinação no L2 (semente #19).
 
 #### Capítulo 29 (PoV de Nolan) — Reformulado
 
@@ -396,6 +406,8 @@ o **A renúncia (correção 2026-08-10):** Mário adapta a abrenuntio da igreja 
 
 o **Primeira aparição de "Javé" no livro (canon 2026-08-10):** o nome próprio só entra aqui — caps. 0-30 usam "Deus", "o Deus de Mário" e "Eu Sou" (cap. 20). É um reveal deliberado: o nome da aliança (Javé/YHWH) é pronunciado pela primeira vez no exato momento em que a primeira comunidade de aliança de Ornick se forma — um novo Sinai. **Caps. 21-30 NÃO devem usar "Javé" antes do cap. 31.**
 
+o **O hino (semente #1 — decisão do autor 2026-09-11).** Kate pergunta a Mário o que ele cantou na caverna (cap. 27, "Mais perto quero estar") — pagamento da pergunta em português, na janela **31-35** (aqui ou num capítulo próximo da janela).
+
 o **A fissura:** Kate observa uma criança cega abraçando a mãe depois que Mário ora por ela. A cena não a comove — mas algo a incomoda. Ela se pega pensando na libertação deles não como estratégia, mas como... necessidade? Abafa o pensamento.
 
 o **Kate identifica quem pode ser treinado.** Enquanto Mário batiza, Kate observa os convertidos com olhos de recrutadora. Identifica os mais jovens, os mais fortes, os que olham Mário com determinação em vez de devoção. Arquiva mentalmente. Não diz nada.
@@ -420,6 +432,8 @@ o **O enforcamento de Juleen (correção 2026-08-30 — era cap. 31, mas o cap.
   não quer escutar — o preconceito beirando a loucura, espiral descendente
   que o levará a Cressadar e Terbs no fim do L1. (Ver
   `personagens/juleen.md` e `decisoes/nolan-retorna-metropole-juleen-rampillas.md`.)
+
+o **Mathias de volta (decisão 2026-09-12).** O mensageiro do cap. 24 reaparece na Metrópole, de volta ao serviço de Nolan — e será **ativo na batalha da Metrópole** (clímax do L1). Papel a detalhar no planejamento do final.
 
 o **Observação via rampillas (decisão 2026-08-30).** Nolan alcança a
   vizinhança do grupo — não fisicamente, mas **através dos rampillas**
@@ -494,6 +508,10 @@ o **Mário sente que falhou.** O milagre gerou caos, não paz.
 
 o **Kate vê o exército que queria** — mas o preço foi mais alto que ela imaginava. Pela primeira vez, hesita.
 
+o **A percepção de Mário (beat realocado — insight `kate-mede-ferramenta`; decisão do autor 2026-09-12).** No rescaldo da carnificina, Mário percebe que Kate mede as pessoas como ferramentas — quem serve, quanto serve. **Só aqui (ou no primeiro capítulo pós-36):** a percepção chega como **detonação no pior momento** — não como plantio antecipado (o 33 foi descartado). Percepção concreta (um gesto, um olhar — ela medindo o pátio), sem veredito de narrador; a ficha caindo, não crise explicada.
+
+o **Colheitas deste capítulo (checkpoint 2026-09-11; ampliado 2026-09-12).** Eco de "Isso não é certo" (cap. 26) na carnificina; o nadir da Voz (cap. 27) como fundo emocional; **o convertido de Tronk reaparece entre os escravos da Mina** (colheita da sonda do cap. 26 — decidido pelo autor, 2026-09-11); a **culpa em livro-razão** (cap. 27) cobra o fecho — as contas dele explodem na carnificina (decidido 2026-09-12).
+
 ---
 
 ### Notas estruturais do beat
@@ -505,7 +523,7 @@ o **Kate vê o exército que queria** — mas o preço foi mais alto que ela ima
 | Caçadores de recompensa                            | Cap. 27 (mercenários menores)                                                                                                                                                                                      |
 | Inquiridores (Vonos quer Mário vivo como novo rei) | Cap. 28 (confronto), Cap. 29 (Nolan infere: querem Mário vivo, ativo do Sinal — o "novo rei" só fecha depois, com o diário de Genocydo)                                                                            |
 | Criaturas fantásticas                              | Cap. 30 (Moribundos)                                                                                                                                                                    |
-| O arco de Kate — da ferramenta ao protagonismo     | Cap. 20 (escolhe Mário como ferramenta), 23 (confirma: humanos são matéria-prima), 25 (Lakand percebe o plano), 28 (começa a semear), 31 (fissura: empatia nasce), 34 (Mário morde a isca), 35 (Mina no horizonte) |
+| O arco de Kate — da ferramenta ao protagonismo     | Cap. 20 (escolhe Mário como ferramenta), 23 (confirma: humanos são matéria-prima), 26 (Lakand percebe o plano e Kate faz a 1ª sonda), 28 (começa a semear), 31 (fissura: empatia nasce), 34 (Mário morde a isca), 35 (Mina no horizonte) |
 | Nolan — o arco do Rei                              | Caps. 22 (sonho: Mário como ferramenta contra doenças), 24 (certeza + veneno), 29 (confronto com Inquiridores), 32 (decide atrair como aliado)                                                                     |
 | Lakand — presente, reticente                       | Caps. 21, 25, 30, 31 (percebe paixão + trama de Kate)                                                                                                                                                              |
 

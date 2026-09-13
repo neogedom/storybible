@@ -31,7 +31,9 @@ Cada capítulo deve responder:
 
 ## Livro 1 — Progressão dos Beats (recalibrado 2026-08-26)
 
-> **Nota de recalibragem:** As % abaixo foram ajustadas para refletir o word count real do L1 (~115.000 palavras estimadas). O desvio médio é de ~+10 pontos em relação ao planejado original — o L1 está mais longo, mas o ritmo narrativo está saudável. A janela de cada beat foi expandida para acomodar o pacing real.
+> **Nota de recalibragem:** As % abaixo foram ajustadas para refletir o word count real do L1. O desvio médio é de ~+10 pontos em relação ao planejado original — o L1 está mais longo, mas o ritmo narrativo está saudável. A janela de cada beat foi expandida para acomodar o pacing real.
+>
+> **📐 Rebaseline 2026-09-12 (checkpoint 21-27):** a régua de ~115.000 palavras não fecha com o ritmo real (~2.494 pal/cap). Régua provisória do L1: **~135-140 mil palavras** (a confirmar no congelamento); a % do Ponto Central fica condicionada ao total fechado.
 
 | Estágio STC              | % (recalibrado) | Capítulos | Status       |
 | ------------------------ | --------------- | --------- | ------------ |
@@ -49,7 +51,7 @@ Cada capítulo deve responder:
 | Final                    | ~80-99%         | —         | 📝 Planejado |
 | Imagem Final             | ~99-100%        | —         | 📝 Planejado |
 
-> **Projeção:** Mantido o ritmo atual (~2.600 palavras/capítulo), o Ponto Central (~68%) chegará no cap. 36 com ~80.000 palavras acumuladas. O L1 total deve ficar entre 110.000 e 120.000 palavras.
+> **Projeção (corrigida 2026-09-12):** no ritmo real (~2.494 palavras/capítulo), o cap. 36 chega com **~94.000 palavras acumuladas**. Com L1 ≈ 135-140k, o Ponto Central cai em **~68%** (consistente com o plano); com L1 ≈ 115k, cairia em ~82%. Régua provisória: **~135-140 mil palavras** — confirmar no congelamento.
 
 ---
 

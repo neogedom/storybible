@@ -59,6 +59,13 @@ Devour.
 - Salva Nolan e Saboc do incêndio usando contra-fogo + escudo de calor
 - Leva o bebê ao colo de Nolan; Saboc sobrevive (ama de leite)
 
+### Capítulo 32 — A Volta (decisão 2026-09-12)
+
+- Reaparece na **Metrópole**, de volta da missão de mensageiro (as cartas do
+  cap. 24). Volta a servir Nolan no centro do poder.
+- **Ativo na batalha da Metrópole** (clímax do L1 — a incursão de Kate/Alavria):
+  papel a detalhar no planejamento do final.
+
 ### Outros
 
 - Cap. 17: no comboio, prova a comida antes de Nolan; colhe o rumor do

@@ -152,12 +152,12 @@ Confira o ritmo esperado na tabela abaixo. O capítulo está alinhado?
 
 ### F13. Teste Anti-Slop ("gosto de IA")
 
-> Caça ao texto com cara de gerado. **No modo privado roda a cada capítulo
-> fechado** (cirurgia local, na janela do Mini-INGEST — ou estacionado em
-> lote, a pedido). No ciclo de revisão (congelamento), roda **entre a
-> coerência (2) e o polimento linguístico (3)** — a linguística fica como rede
-> de segurança da cirurgia. Quando rodar junto do fechamento, aplicar **antes**
-> do veredito (F12).
+> Caça ao texto com cara de gerado. **No modo privado roda em lote no checkpoint
+> de beat** (junto do Arquiteto, a cada ~6–10 caps — decisão do autor,
+> 2026-09-12), cobrindo os capítulos fechados desde o último checkpoint. No
+> ciclo de revisão (congelamento), roda **entre a coerência (2) e o polimento
+> linguístico (3)** — a linguística fica como rede de segurança da cirurgia.
+> Quando rodar junto do fechamento, aplicar **antes** do veredito (F12).
 > Lista calibrada pelo piloto do cap. 26 (2026-09-10). Atualizar a cada passe
 > com achados do material — priorizar contadores de densidade, não listas
 > genéricas de tradução.

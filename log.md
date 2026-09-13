@@ -1,5 +1,119 @@
 # Log de Atualizações
 
+## 2026-09-12 (cap. 28 — design da fuga/observação; cortes de brainstorm)
+
+- **Cap. 28, design final (decisões do autor):** a patrulha **não é toda
+  derrotada**; com Inquiridores ainda de pé, Kate **fica para trás** com o
+  manto de Tharin e **cobre a retirada** (Mário e Lakand correm; os
+  Inquiridores perdem o rastro e recolhem). Camuflada, ela **observa o
+  recolhimento** — procedimento da Ordem, instrumentos, o escriba anotando e
+  recuando — e guarda a **pista sutil** do intento de Vonos (o Souhma
+  conduzido vivo e inteiro). O uso contínuo **queima a carga** (gasto na
+  página). Seção do 28 do esquema atualizada.
+- **Pista (refinamento do autor, mesmo dia):** o foreshadow no 28 aponta que querem Mário **no trono** — mas **opaco**: Kate não entende, não procura entender e **guarda para si**; não conta ao Mário (contar estragaria o plano dela de usá-lo). Germinação: fio do diário de Genocydo (semente #15) + a coroação do final.
+- **Cortados (brainstorm avaliado e rejeitado):** (1) custo do manto ligado a
+  Hícse — sem raiz de canon; o custo natural é a carga finita; o canal de
+  Hícse é o formigamento (semente #11), separado. (2) Lakand arranhado por
+  renanthao + recurso ao Decian — fio sem cura conhecida; Decian (curandeiro
+  de ervas) está fora de rota; a cena já está cheia; quem leva os arranhões que
+  não apodrecem é a Kate (semente #19). Registrados em `ideias-rejeitadas/`.
+- **Arquivos**: `temas/esquema-l1.md`, `ideias-rejeitadas/`, `log.md`.
+
+## 2026-09-12 (decisões — percepção no 36; cena da volta no 28)
+
+- **Beat `kate-mede-ferramenta`**: realocação decidida — sai do cap. 33 e entra no
+  **cap. 36** (rescaldo da Mina; ou primeiro capítulo pós-36), como detonação
+  (decisão do autor). Insight e seções do esquema (33/36) atualizados.
+- **Cap. 28 — a volta ao acampamento (decisão do autor)**: depois do combate,
+  Kate decide voltar sozinha ao acampamento dos mercenários (com o manto de
+  Tharin; primeiro uso desde o cap. 21, com gasto visível) e descobre o
+  **procedimento** da Ordem; **pista sutil** do intento de Vonos (o Souhma
+  conduzido vivo e inteiro). Fecha a dívida de decisão (nota atualizada na
+  seção do 28).
+- **Em avaliação (resposta enviada)**: manto na fuga do 28 (recomendação:
+  adotar, com a mecânica corrigida — o manto cobre a portadora); custo do manto
+  ligado a Hícse (recomendação: **não** ligar — sem raiz de canon; custo natural
+  = a carga); Lakand ferido por renanthao + Decian (recomendação: **cortar** —
+  fio sem cura e fora de rota). Aguardando decisão do autor.
+- **Arquivos**: `temas/esquema-l1.md`, `insights/kate-mede-ferramenta.md`,
+  `log.md`.
+
+## 2026-09-12 (anti-slop em lote no checkpoint + escriba adiado)
+
+- **Política (decisão do autor):** o passe anti-slop deixa de rodar por
+  capítulo no modo privado — passa a rodar **em lote no checkpoint de beat**
+  (a cada ~6–10 caps, junto do Arquiteto), cobrindo os capítulos do bloco.
+  Sincronizados: `conceitos/checklist-capitulo.md` (F13),
+  `protocolo-ingest.md` (nota + DoD + passo 7), repo Livro
+  (`copilot-instructions.md`, `livro-writer.agent.md`,
+  `editor-anti-slop.agent.md`, `passe-anti-slop.prompt.md`).
+- **Escriba (cap. 28):** pagamento do registro **adiado** (não no 32) —
+  germinação no L2 (semente #19). Registrado na seção do 28 do esquema.
+- **Arquivos**: os acima + `log.md`.
+
+## 2026-09-12 (fios do checkpoint — decisões do autor)
+
+- **Mathias**: reaparece no cap. 32 (de volta da missão de mensageiro) e será
+  **ativo na batalha da Metrópole** (clímax do L1) — registrado em
+  `personagens/mathias.md` e na seção do 32 do esquema.
+- **Culpa em livro-razão (cap. 27)**: pagamento no cap. 36 (as contas explodem
+  na carnificina) — colheita marcada na seção do 36.
+- **Passe anti-slop do cap. 27**: **estacionado** (decisão do autor);
+  proposta de mover o anti-slop para o checkpoint (a decidir).
+- **Escriba (28)**: motivo reconstruído (vetor do registro da anomalia de Kate
+  — semente #19; germinação no L2). Recomendação: manter no 28, sem forçar
+  presença no 32. Aguardando decisão do autor.
+- **Arquivos**: `personagens/mathias.md`, `temas/esquema-l1.md`, `log.md`.
+
+## 2026-09-12 (rebase da régua + pacote mecânico do checkpoint 21-27)
+
+- **Rebase da régua (decisão do autor):** L1 passa de ~115k para **~135-140k**
+  provisório (a confirmar no congelamento). Notas atualizadas em
+  `temas/esquema-l1.md` (cabeçalho + nota do beat Jogos) e `temas/outline.md`
+  (nota de recalibragem + projeção). A coluna **% Planejada** vira histórica
+  — não usar para aferição.
+- **Pacote mecânico (checkpoint):** seção do cap. 26 ganhou nota de status
+  (beats executados / fora); tabela de arco corrigida ("25 (Lakand percebe)"
+  → 26); beat `kate-mede-ferramenta` realocado para o cap. 33; colheitas
+  marcadas no cap. 36 (eco de "Isso não é certo", nadir da Voz, convertido de
+  Tronk reaparece — decisão do autor); semente #1 (hino) com pagamento na
+  janela 31-35; dívida de decisão 25-27 registrada na seção do 28 (pagamentos
+  30/33/34; decisão no 28 em aberto).
+- **`capitulos/capitulo-26.md` completado** (Resumo/Personagens/Eventos/Sementes
+  e Conexões — estava só com frontmatter).
+- **Fios:** convertido de Tronk = reaparece entre escravos (ok do autor);
+  hino = 31-35 (ok). Mathias / escriba / culpa em livro-razão: explicações
+  enviadas; destino pendente de decisão do autor.
+- **Arquivos:** `temas/esquema-l1.md`, `temas/outline.md`,
+  `capitulos/capitulo-26.md`, `log.md`.
+
+## 2026-09-11 (checkpoint de beat — bloco 21-27 executado; 1º da era privada)
+
+- **Executado** (Arquiteto de Densidade, leve — gatilho novo do passo 7):
+  aterrissagem do beat Jogos = boa (exploração, tentativa-e-erro, altos e
+  baixos, fama); densidade saudável (21/23/27 equilibrados; 22/24/25/26
+  densos funcionais); díptico 25-27 bem costurado (ganho → preço →
+  consequência); encadeamento 26→27 ok. Lacuna única: "construção de
+  aliados" com zero ganho líquido (reposição mapeada em 31/35).
+- **Achado 1 — régua de calibração furada**: média real ≈ 2.494 pal/cap →
+  cap. 35 fecha ~80% e Ponto Central ~82% da régua de 115k. Para o Ponto
+  Central bater ~68%, L1 ≈ 135-140k. Recomendação: **rebasear a régua**
+  (não mover fronteiras; manter 115k exigiria Ponto Central nos caps.
+  30-31). Pendente de decisão do autor.
+- **Achado 2 — dívida de decisão** (25-27): 25 fecha em gesto; 26 em
+  adiamento nomeado ("Depois eu decido"); 27 em congelamento + gancho.
+  Pagamentos já mapeados: 30, 33, 34. Opcional: decisão curta da Kate no
+  28, antes do escriba.
+- **Achado 3 — desalinhamentos**: seção do 26 com beats não executados
+  ("semente de rebelião"); tabela de arco (:508) "25 (Lakand percebe)" →
+  26; beat `kate-mede-ferramenta` → alocar no 33; `capitulos/capitulo-26.md`
+  sem corpo.
+- **Fios órfãos (destino a decidir)**: convertido de Tronk (25), Mathias
+  (24), escriba/"Gnock" (28), pergunta do hino (27) + pergunta de Kate
+  (21), culpa em livro-razão (27).
+- **Arquivos**: nenhum editado — correções no esquema/outline aguardam
+  decisão do autor; `log.md` atualizado.
+
 ## 2026-09-11 (protocolo — lente Scene/Sequel no F3 + gatilho do checkpoint)
 
 - **F3 expandido** (`conceitos/checklist-capitulo.md`): Teste de Ação e
