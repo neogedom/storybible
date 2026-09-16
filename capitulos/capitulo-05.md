@@ -82,3 +82,19 @@ Mário é descoberto e capturado por um vampiro de olhos vermelhos.
   da própria sanidade.
 - A primeira palavra em ornickenho que Mário traduz é um altar a Mesmia.
 - O vampiro que o captura tem olhos vermelhos e rosto esquálido.
+
+## Atualização (2026-09-13)
+
+- **Pista falsa do Castelo de Devour — elo 1 (a forma sem nome).** Antes de
+  descer para o depósito, Mário sobe pela escada externa até o posto de
+  observação e vê o mundo de cima: o povoado queimando pequeno, a floresta
+  "como uma pele", e uma estradinha fina que sai do povoado, atravessa a
+  mata e some "numa dobra de terra como quem entra num túnel". Na direção
+  dela, muito longe, uma coisa escura que não é floresta, com "o desenho de
+  coisa construída". Sem nome, sem distância: "Guardou como se guarda um
+  endereço."
+- O canon da torre segue intacto — ele desce, se enfia no depósito, ouve a
+  luz sob a soleira e é capturado como antes. A vista não atrasa a captura;
+  só planta a imagem que o cap. 13 vai nomear e o cap. 18 vai matar.
+- Referência: `temas/esquema-l1.md`, seção "Cadeia da pista falsa — o
+  Castelo de Devour".

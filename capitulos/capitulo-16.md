@@ -68,3 +68,23 @@ Os rampillas recuam. Kate puxa Mário para longe do massacre.
 - Charles e Kenod não participaram do ataque — pode ser relevante
 - A culpa de Mário é um tema forte aqui: ele guiou os lobisomens até o
   acampamento. As mortes são responsabilidade dele.
+
+## Atualização (2026-09-13)
+
+- **Pista falsa do Castelo de Devour — elo 3 (a pergunta que não encaixa).**
+  Entre o primeiro e o segundo uivo, Mário agarra um homem do comboio que
+  passa arrastando uma barra de ferro e pergunta pelo castelo de pedra e
+  "pra onde eles levam" (os homens com a pedra amarrada no pescoço). O
+  homem não entende: "Mário viu na cara dele que a pergunta não tinha onde
+  encaixar." Resposta: "Sai por onde se entrou. Foge, forasteiro. É o que eu
+  vou fazer." — e é o mesmo homem que, segundos depois, tenta brandir a
+  barra de ferro e é jogado contra a carroça.
+- Teste social da pista falsa: ninguém em Ornick sabe nada sobre o caminho
+  de casa. A esperança de Mário fica sem apoio nenhum — o que ajuda o
+  desencanto do cap. 18.
+- ⚠️ **Desvio de mapa (registrado):** o pedido era o beat *antes* do
+  massacre; não existe janela canônica entre os caps. 15 e 16 (o 15 termina
+  com o uivo chegando antes da fala de Mário), então o beat ficou na única
+  fenda possível — durante o ataque.
+- Referência: `temas/esquema-l1.md`, seção "Cadeia da pista falsa — o
+  Castelo de Devour".

@@ -79,3 +79,10 @@ Sementes no frontmatter. Continuidade:
 - "Isso não é certo" — primeira fissura moral de Mário (eco previsto no Ponto Central, cap. 36)
 - A sonda da Kate ao convertido — 1ª semente da rebelião (consolidada no cap. 28+, conforme checkpoint 09-11)
 - A dívida de Lakand (Saramant) — em aberto, nunca resolvida no L1
+
+## Atualização (2026-09-13)
+
+- **Cliffhanger de virada de página (aplicado).** O capítulo agora fecha depois do último beat que já existia (Kate olhando o norte, com a faca e o caminho), em quatro batimentos: Lakand fareja e diz **"— Gente." / "— Muitos."**; atrás das copas há **uma claridade laranja fora de hora** ("Não era o sol. Não era aquela hora."); Kate fecha — **"— Acorda ele. — Sem barulho. A gente anda no escuro."**
+- Guardrail: **o fogo é visto, nunca explicado.** O leitor vira a página com pergunta, não com resposta. O cap. 27 emenda direto ("Fugiam desde o escuro.") e revela a caçada na primeira linha.
+- Nada foi reposicionado no capítulo — o cliffhanger entra ao final, sem tocar nos beats anteriores.
+- Referência: `temas/esquema-l1.md`, bloco do cap. 26.

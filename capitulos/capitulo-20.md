@@ -276,3 +276,10 @@ Revisão do INGEST contra o texto final publicado (LINT). Correções aplicadas:
 - [Lakand](/personagens/lakand.md)
 - [Devour](/personagens/devour.md)
 - [Dagmar](/personagens/dagmar.md)
+
+## Atualização (2026-09-13)
+
+- **Pista falsa do Castelo de Devour — elo 5 (a obediência como contrato).** Antes de agir sobre o bebê, Mário murmura: **"Se eu fizer o que você manda... Você me trouxe pra cá. Se eu fizer o que você manda, você me leva de volta."** A Voz não responde — erro teológico correto (obediência lida como contrato de troca), coerente com o método jurídico dele.
+- É a válvula de segurança do arco: a esperança na pista falsa morreu no cap. 18; aqui ele reabre outra, mais perto de casa e mais perigosa. É o que o mantém obedecendo sem estar rendido.
+- Nada mais mudou no capítulo: o milagre, o incêndio e o custo seguem como estavam.
+- Referência: `temas/esquema-l1.md`, seção "Cadeia da pista falsa — o Castelo de Devour".

@@ -325,7 +325,11 @@ o Lakand percebe: Kate não está apaixonada por Mário — está **usando** Má
 
 o Kate toma a decisão: manter Mário vivo e funcionando até que ele inspire o que ela precisa inspirar. Depois disso, o plano é dela.
 
+o **🔪 Cliffhanger de virada de página (decisão do autor 2026-09-13; aplicado).** O capítulo não fecha em "a faca e o caminho": fechar com a caçada chegando. Ordem: (1) Lakand com o rosto virado para o escuro, a cabeça subindo "do jeito de quem escuta uma coisa que ainda não chegou", narinas abrindo — "— Gente."; (2) "— Quantos?" / "— Muitos."; (3) claridade laranja subindo atrás das copas, cada vez maior — "Não era o sol. Não era aquela hora."; (4) fecho de Kate: "— Acorda ele. Sem barulho. A gente anda no escuro." Emenda direta no "Fugiam desde o escuro." do cap. 27. **Por que funciona:** o leitor vira a página sem respirar, e o cap. 27 deixa de abrir em marcha lenta — abre em fuga. Guardrail: o fogo é visto, nunca explicado (o cap. 27 não deve dar conta dele).
+
 #### Capítulo 27 (PoV de Mário) — Reformulado (canon 2026-09-10)
+
+o **Abertura reestruturada (aplicado 2026-09-13) — a fuga primeiro.** Cinco passos, antes de retomar o canon a partir das pegadas: (1) "Fugiam desde o escuro." — a caçada desde a madrugada, Mário inútil ("as pernas respondiam cada vez com mais atraso"), Kate escolhendo o terreno onde a bota não deixa marca; (2) **é Lakand quem acha o primeiro refúgio** — o buraco deixado pelo torrão de uma árvore tombada, fundo e comprido, teto de raízes, cabem três deitados e ninguém em pé; (3) cavalos passam na estrada acima — "Não era um nem dois. Era um bando, com estribos, com vozes que iam e voltavam, e um deles riu."; (4) a água acaba **dentro** do refúgio, ao amanhecer ("A água tinha acabado naquela manhã."); (5) a espinha canônica recomposta: "Mário não sabia se virar no mato. Kate e Lakand sabiam. Mas ele tinha encontrado a oportunidade de se mostrar útil. Tinha uma observação a fazer." ⚠️ **Regra de espaço:** o primeiro refúgio (raízes) e o segundo (a fenda/caverna de entrada única) têm de ser fisicamente distintos — não usar "fenda" na abertura, nem ecoar "barrancos de raízes expostas" (cap. 15). **Ganho causal:** os cavalos passam à noite e seguem na frente — o leitor relê o cerco da bacia como armadilha *postada*, não improvisada.
 
 o **Sumário de abertura (curto).** Dias de marcha ao norte; a água está no fim. Mário percebe a frieza entre Kate e Lakand sem entender (dormiu no cap. 26). Interioridade em três toques: o abalo de Tronk ("isso não é certo"); a Voz em silêncio e a não-busca (ele não ora — a recusa pelos gestos que não faz); a culpa em livro-razão ("tudo que chega perto de mim morre").
 
@@ -378,6 +382,8 @@ o **O retorno à Metrópole (decisão 2026-08-30).** Nolan recebe a **carta de
   Inquiridores ganham vantagem. Mas agora ele tem os **olhos dos rampillas**
   (sentidos à distância, operados por Ossan — ver `conceitos/rampillas.md`).
 
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — fechar no instante da escolha irrevogável (voltar = entregar a dianteira da corrida), com botão de ameaça; **não** fechar em deslocamento. Não usar "olhou/partiu para o norte" (gesto já repetido nos caps. 22, 23, 24, 26 e 28). ⚠️ O bullet "A decisão" acima repete o que o cap. 24 já executou em cena ("a única forma de possuí-lo era fazer com que ele quisesse ficar") — o que é novo aqui é **voltar**, não voltar a ser aliado.
+
 #### Capítulo 30 (PoV de Mário) — Novo (Criatura Fantástica)
 
 o **Os Moribundos.** Para evitar nova patrulha dos Inquiridores, Mário, Kate e Lakand entram num território deformado: um campo de batalha da **Guerra Milenar** onde o trauma foi tão intenso que deixou uma cicatriz física no mundo. Os Moribundos não são almas penadas — são **ecos**, resíduos de um conflito entre deuses (elohins) que rompeu a realidade e deixou cópias sensoriais dos soldados presas num loop de batalha.
@@ -387,6 +393,8 @@ o **Lakand reconhece o campo.** No meio da travessia, Lakand para. Reconhece aqu
 o Mário convence Kate a depositar as armas e atravessar em silêncio. Ela reluta — cada instinto grita para lutar — mas cede. **Atravessam o exército de mortos em névoa, sem um golpe.** Momento de fantasia pura.
 
 o **Lakand observa em silêncio.** Viu Mário ler o comportamento dos mortos. Viu Kate confiar contra o instinto. Algo mudou na dinâmica do grupo — e Lakand sabe que está de fora.
+
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — a travessia termina e o capítulo fecha no que Mário **vê** em Lakand depois da névoa, não em paisagem. Alternativa mais page-turner: **Corte A** na revelação do exército de ecos, antes de atravessar (a travessia então abre o cap. 31). ⚠️ O bullet acima está em POV de Lakand ("Lakand sabe que está de fora") — o fecho precisa ser filtrado por Mário.
 
 #### Capítulo 31 (PoV de Kate) — Reformulado
 
@@ -403,6 +411,8 @@ o **Kate identifica quem pode ser treinado.** Enquanto Mário batiza, Kate obser
 o **Lakand à margem.** Uma criança batizada passa por Lakand sem medo. Olha para ele, sorri, e segue. Lakand não se move. Não sabe o que fazer com aquilo. Pela primeira vez, foi visto como "gente" — e não sabe como responder.
 
 o **Lakand se aproxima:** _"Você está apaixonada."_ Kate não nega — mas também não confirma. Lakand vê algo mais: Kate ainda quer protagonismo. Ela não protege Mário — ela o **usa**. E talvez esteja começando a sentir culpa por isso. Lakand não diz nada. O olhar entre os dois é o de um abismo silencioso.
+
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte D com aresta** — fechar na fissura de Kate (a libertação pensada como necessidade, o pensamento abafado), que é a mudança de estado dela. Não fechar em "a Mina fica a dias dali" (repetição do fecho do cap. 26). O recrutamento fica dentro da cena, não no fecho — e é candidato a migrar para o cap. 34 (ver nota de ritmo do bloco).
 
 ---
 
@@ -440,6 +450,8 @@ o **A mentira fundadora.** Nolan nunca dirá que quer Mário como ferramenta de 
 
 o **Desafio fantástico na marcha (tempestade de quartzo).** Antes de Nolan se aproximar, o grupo enfrenta uma **tempestade de quartzo** — vento que carrega fragmentos de quartzo da Mina, cortando a pele exposta, cegando temporariamente quem respira a poeira. O grupo se abriga numa fenda na rocha. Kate improvisa proteção com o manto de xilomagia. Lakand usa o corpo como escudo para as crianças. Mário ora em silêncio — não pede, apenas observa. A tempestade passa. O grupo sai mais unido. **Nolan observa tudo de longe e vê: eles sobrevivem juntos. Isso os torna perigosos.**
 
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — fechar no impacto da justaposição (o corpo de Juleen e, pelos olhos dos rampillas, Mário vivo na tempestade), sem deslocamento e sem explicação. É o fecho mais forte do bloco: não diluir com aftermath.
+
 #### Capítulo 33 (PoV de Mário) — Reformulado
 
 o **A decisão que já estava tomada.** Mário passa os dias anteriores processando tudo: os refugiados, os escravos na Mina, a perseguição, o silêncio da Voz. Kate já o convenceu a tomar a Mina desde a fuga do castelo — mas naquela hora foi arrastado pelo desespero e pela argumentação dela. Agora, sozinho, ele **reconecta os pontos por conta própria**.
@@ -449,6 +461,8 @@ o Ele refaz o caminho lógico (abdução): a Mina financia a Metrópole → libe
 o **A ironia:** Ele acha que está tendo uma convicção original. O leitor sabe que Kate plantou cada semente — e que a decisão já estava tomada antes de saírem do castelo. Mas a diferença é que agora Mário **quer** ir. Não é mais convencimento — é convicção.
 
 o Decide: vai até a Mina de Quartzo. Não para tomar poder — para libertar os escravos.
+
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C com gancho de ironia** — fechar no momento em que a decisão se forma (ele *quer* ir), deixando o leitor com o que ele não sabe: que a convicção foi plantada. Não transformar o capítulo em ensaio interior — a decisão é o clímax; cortar nela.
 
 #### Capítulo 34 (PoV de Kate) — Reformulado
 
@@ -461,6 +475,8 @@ o **Por dentro:** Kate confirma que ele mordeu a isca. As sementes plantadas nos
 o **Kate revela o plano a Lakand.** Antes de "descobrir" o plano de Mário, Kate tem uma conversa com Lakand. _"Depois que a Mina cair, eu treino os sobreviventes. Mário inspira. Eu lidero."_ Lakand ouve em silêncio. Não concorda. Não discorda. Mas o olhar dele diz: _você está repetindo o erro deles._ Kate ignora.
 
 o _"Então vamos."_ — Kate pega as armas. A Mina será libertada. Depois, ela será a base militar. E quando os humanos estiverem prontos, Kate será a líder da guerra contra a Metrópole. Mário é só o começo.
+
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte B** — fechar no olhar de Lakand ("você está repetindo o erro deles") que Kate ignora: pergunta moral no ar, resposta adiada. Evitar fechar em "pega as armas" (deslocamento). Casa natural para receber o **recrutamento** migrado do cap. 31.
 
 #### Capítulo 35 (PoV de Mário) — Reformulado
 
@@ -475,6 +491,12 @@ o Mário ora em silêncio. A Voz não diz nada. Mas ele sente — pela primeira 
 o **🌱 SEMENTE (Etemenanki):** Durante a marcha, o grupo cruza uma caverna comum. Numa parede de rocha há um zigurate entalhado em alto-relevo — mas Mário não o identifica como tal. Parece uma torre escalonada, um templo antigo, algo que ele deveria conhecer mas o nome não vem. No topo, uma **serpente alada** esculpida. Abaixo, uma inscrição cuneiforme: _Etemenanki_. Mário passa o dedo sobre os sulcos. Conhece aquele nome. Já viu antes. Onde? Não lembra. "Devo ter lido num artigo qualquer. Rochas formam padrões. Não é nada." Kate passa direto, indiferente. Mário engole a dúvida, mas a serpente alada fica — não como pensamento, como arrepio. _A semente está plantada — ver `temas/sementes.md`, entrada #19._
 
 o Kate olha para a Mina no horizonte. Lá dentro, escravos — humanos quebrados que Mário vai inspirar. Depois que a Mina cair, ela os terá. E com eles, começará a guerra que Gaviorn'l lhe prometeu.
+
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte A** — fechar na semente Etemenanki (a serpente alada como arrepio, não como pensamento): revelação + mistério, antes de qualquer reação, colado no Ponto Central. ⚠️ **Não** fechar com "Kate olha para a Mina no horizonte": além de repetir o gesto de horizonte dos caps. 22-28, é escapada de POV num capítulo de Mário.
+
+> **✂️ Notas de corte e ritmo — Movimento 3 (proposta 2026-09-13).** Mistura de cortes do bloco 29-35: **C** (29), **C/A** (30), **D com aresta** (31), **C** (32), **C com ironia** (33), **B** (34), **A** (35). Nenhum fecho em partida, nenhum "olhar para o norte", nenhum par de fechos do mesmo tipo em sequência. **Regra de trabalho:** nunca dois capítulos seguidos fechando com o mesmo gesto (o bloco 21-28 quebrou essa regra — cinco capítulos fecham olhando ou indo para o norte, e dois deles seguidos, 22 e 23, fecham em partida). A frase-botão também viciou: quatro fechos de 21 a 28 começam com "E" ("E adormeceu", "E Nolan era muito bom...", "E ela ainda tinha a faca e o caminho", "E o de fora"). Alternar a construção do fecho.
+>
+> **Sete capítulos ou menos?** Manter **sete**, com três ajustes: (a) 33 e 34 são capítulos de véspera — escrevê-los curtos (precedente no livro: caps. 3, 11, 14 e 15 entre ~1.300 e ~2.200 palavras), porque **três capítulos de véspera seguidos (33-35) freiam justo antes do Ponto Central**; (b) mover o **recrutamento** de Kate (bullet do cap. 31) para o cap. 34, que é POV dela — o 31 é o capítulo mais sobrecarregado do bloco (batismo + renúncia + "Javé" + fissura + recrutamento + Lakand); (c) o 35 termina em tensão e emenda direto no 36. Se o ritmo ainda pesar, a compressão possível é **fundir 33+34** — perde-se a ironia dupla (Mário convicto de ter decidido sozinho × Kate vendo a isca morder), por isso não é a primeira escolha.
 
 ---
 
@@ -500,7 +522,8 @@ o **Kate vê o exército que queria** — mas o preço foi mais alto que ela ima
 
 | Elemento                                           | Onde aparece                                                                                                                                                                                                       |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Raciocínio abdutivo de Mário                       | Caps. 21 (ronda), 27 (água/rota), 28 (ritual Inquiridor), 30 (Moribundos), 33 (conexão Mina)                                                                                                                       |
+| Raciocínio abdutivo de Mário                       | Caps. 5 (vista do alto — o mapa antes da ação), 13 (a rota que chega e sai), 16 (a pergunta que não encaixa na cara do nômade), 21 (ronda), 27 (água/rota), 28 (ritual Inquiridor), 30 (Moribundos), 33 (conexão Mina)                                                                                                                       |
+| Pista falsa do Castelo de Devour (plantio)         | Caps. 5 (a forma sem nome vista da torre de Opium), 13 (o nome — "castelo de pedra" na boca dos lobisomens), 16 (a pergunta ao nômade), 18 (a esperança morta por Kate — "por que iriam querer te levar de volta?"), 20 (a obediência como contrato: "Se eu fizer o que você manda, você me leva de volta"), 26 (o orgulho reconstruído), 27 (o orgulho quebrado: "Você não é o centro de tudo") |
 | Dupla Mário+Kate funcionando                       | Caps. 28 (ele lê, ela age), 30 (ele convence, ela confia), 32 (Nolan observa)                                                                                                                                      |
 | Caçadores de recompensa                            | Cap. 27 (mercenários menores)                                                                                                                                                                                      |
 | Inquiridores (Vonos quer Mário vivo como novo rei) | Cap. 28 (confronto), Cap. 29 (Nolan infere: querem Mário vivo, ativo do Sinal — o "novo rei" só fecha depois, com o diário de Genocydo)                                                                            |
@@ -508,6 +531,26 @@ o **Kate vê o exército que queria** — mas o preço foi mais alto que ela ima
 | O arco de Kate — da ferramenta ao protagonismo     | Cap. 20 (escolhe Mário como ferramenta), 23 (confirma: humanos são matéria-prima), 25 (Lakand percebe o plano), 28 (começa a semear), 31 (fissura: empatia nasce), 34 (Mário morde a isca), 35 (Mina no horizonte) |
 | Nolan — o arco do Rei                              | Caps. 22 (sonho: Mário como ferramenta contra doenças), 24 (certeza + veneno), 29 (confronto com Inquiridores), 32 (decide atrair como aliado)                                                                     |
 | Lakand — presente, reticente                       | Caps. 21, 25, 30, 31 (percebe paixão + trama de Kate)                                                                                                                                                              |
+
+## Cadeia da pista falsa — o Castelo de Devour (plantio aplicado 2026-09-13)
+
+> **Função na arquitetura:** dar **direção** à fuga de Mário (caps. 16–18) sem vender os Inquiridores como caminho de casa. A pista nasce na torre, ganha nome no cativeiro, é testada no massacre e morre pela boca de Kate. É a mesma "espinha da fama": o que a boca promete, a boca desfaz.
+
+- **Elo 1 — cap. 5 (a forma sem nome), POV Mário.** Na torre de Opium, antes de descer para o depósito, Mário sobe pela escada externa até o posto de observação (canon da varanda e da escada já existia): vê o povoado queimando pequeno, a floresta "como uma pele" e **uma estradinha fina que sai do povoado, atravessa a mata e some numa dobra de terra**; na direção dela, muito longe, "uma coisa escura que não era floresta... tinha o desenho de coisa construída". Sem nome, sem distância, sem compasso — "Guardou como se guarda um endereço." ⚠️ O canon da torre segue intacto: ele desce e a luz sob a soleira acontece depois.
+
+- **Elo 2 — cap. 13 (o nome), POV Mário.** Na jaula dos daërunmeges, depois de ouvir Kenod (a recompensa e o prazo das duas luas escuras), Mário passa a noite acordado ouvindo dois lobisomens conferirem carga: "— ...fecha quando as carroças estiverem cheias. Junta tudo e entrega no mesmo lugar de sempre. / — O castelo de pedra. / — ... A gente entrega e recebe." Ele **reconhece o lugar que guardara sem nome** e fecha a abdução: se existe caminho de chegada, existe caminho de saída. "Não era um plano. Era uma direção, e por enquanto bastava." (Planta também o argumento que o cap. 18 vai matar.)
+
+- **Elo 3 — cap. 16 (a pergunta ao nômade), POV Mário.** No início do massacre, no instante entre o primeiro e o segundo uivo, Mário agarra um homem que passa arrastando a barra de ferro e pergunta pelo castelo, pelos homens com a pedra no pescoço — "Pra onde eles levam?". O homem **não entende**: "Mário viu na cara dele que a pergunta não tinha onde encaixar." Resposta seca: "— Sai por onde se entrou. Foge, forasteiro." ⚠️ **Desvio de mapa (2026-09-13):** o pedido do autor era o beat *antes* do massacre; entre os caps. 15 e 16 não existe janela canônica (o cap. 15 termina com o uivo chegando antes da fala de Mário; o 16 abre com a clareira congelada). O beat ficou na única fenda possível — durante, já com a clareira em pânico. Efeito colateral registrado: a desesperança de Mário fica exposta em público, o que ajuda o cap. 18.
+
+- **Elo 4 — cap. 18 (a esperança morta por Kate), POV Kate.** Na cela ao lado, depois do massacre, Mário apresenta o argumento como prova: a pedra no pescoço, a arma de prata sem cano nem tambor ("Se vieram, existe caminho... e se existe caminho de chegada, existe caminho de volta"), e o desencanto concreto — "Este castelo é o castelo de pedra, não é? Eu cheguei." Ele chegou: a cela é o que o endereço continha. Kate nomeia os inquiridores, as ferramentas do Ofício, o revólver de Auditoria como **arma de prender**, e corta: "Eles não vêm buscar. Eles recolhem. Quem eles levam não reaparece. Nem o corpo." Fecho: "— Pensa bem. Se te trouxeram pra cá, como você diz, por que iriam querer te levar de volta?" **É aqui que a pista falsa morre** — e é o que torna o cap. 28 (a fuga do Revólver) coerente: ele foge *recolhido*, não salvo.
+
+- **Elo 5 — cap. 20 (a obediência como contrato), POV Kate.** Na cela, com o bebê sem ar, Mário murmura: "Se eu fizer o que você manda... Você me trouxe pra cá. Se eu fizer o que você manda, você me leva de volta." Ninguém responde. Erro teológico correto (obediência lida como contrato comercial), prepara o cap. 21 e **não** promete retorno — a Voz não responde a comando.
+
+- **Válvula de segurança (por que ele foge e não se entrega).** "Recolhido" ≠ de volta para casa, e a carga que se entrega deixa de ter voz: quem tem caso a apresentar tem de continuar em movimento. O prazo de Kenod (duas luas escuras) reforça a pressa — ele foge como peticionário, não como desistente.
+
+- **Fronteira / payoff.** Debate dos caps. 21–26 = o orgulho reconstruído (fama, convertidos, "dando certo"); cap. 27 mata o orgulho com uma linha: "Você não é o centro de tudo."; cap. 28 reacende o medo com o Revólver de Auditoria e com a palavra **"recolher"** já registrada no cap. 18. Contagem sugerida: o medo dos Inquiridores deve **decair visivelmente** entre os caps. 21 e 26 para o cap. 28 funcionar como recaída, não como repetição.
+
+> **🗺️ Nota de mapa (revisão 2026-09-13):** a geografia do arco fecha em três pontos — a **torre de Opium** (ponto de vista; de lá se vê a estradinha e a silhueta sem nome), o **castelo de Devour** (o destino que ele nunca alcança por escolha própria: é o castelo que chega nele, via rampillas) e a **Mina de Quartzo** (o destino verdadeiro, plantado pela boca de Kate no cap. 23). A estradinha vista do alto é a mesma rota de carga que os daërunmeges alimentam — Mário a lê como saída e Kate a relê como sistema, mais adiante.
 
 > **⚠️ AVISO:** O conteúdo abaixo (Vilões se Aproximam em diante) ainda não foi planejado cap-a-cap — ao detalhá-lo, usar sempre a numeração nova (a mesma dos arquivos do livro).
 

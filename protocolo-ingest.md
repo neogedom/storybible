@@ -30,14 +30,21 @@ Definition of Done (prosa completa, fronteira ok).
    **como o capítulo fecha** — decisão (personagem escolhe) ou desastre
    (algo dá errado)? Desastre sem sequel → o próximo abre processando;
    decisão → o próximo abre executando. Decisão adiada há mais de 2
-   capítulos: sinalizar no esquema (dívida — não reescrever).
+   capítulos: sinalizar no esquema (dívida — não reescrever). Anotar também
+   **onde o capítulo corta** (A/B/C/D — ver `passe-fechos.prompt.md`, no
+   Livro): é o dado que alimenta o passe de fechos do checkpoint.
 6. `log.md`: 1 linha (pode ser batch a cada 5 caps).
 7. Contador de checkpoint: verificar quantos capítulos passaram desde o
    último checkpoint registrado no `log.md` (se nunca houve, contar desde o
    início do bloco/beat). Da **6ª** marca em diante → **oferecer ao autor**
-   o checkpoint leve do Arquiteto de Densidade nas fronteiras de beat
-   (corrige o mapa para frente, nunca o texto) **e rodar o passe anti-slop
-   em lote** sobre os capítulos fechados desde o último checkpoint.
+   o checkpoint leve (decisão do autor, 2026-09-14), que roda sobre os
+   capítulos fechados desde o último checkpoint:
+   - **Arquiteto de Densidade** — leve, nas fronteiras de beat: corrige o
+     mapa para frente, nunca o texto.
+   - **Passe anti-slop em lote** — cirurgia local (teste F13).
+   - **Passe de fechos** — cortes A/B/C/D do bloco, repetição de gesto
+     final, rotação de POV e quem decide em cada capítulo
+     (`passe-fechos.prompt.md`, no Livro).
    Executado, registrar no `log.md`.
 
 ### Obrigatório agora vs. espera o congelamento
@@ -54,6 +61,14 @@ Definition of Done (prosa completa, fronteira ok).
 > os capítulos fechados desde o último checkpoint — não roda por capítulo no
 > modo privado. No congelamento permanece só a **varredura final leve**
 > (uniformidade + capítulos com reescrita pesada).
+
+> **Passe de fechos (decisão do autor, 2026-09-14):** no mesmo checkpoint,
+> além do anti-slop, roda o **passe de fechos** (`passe-fechos.prompt.md`, no
+> Livro). Ele lê o bloco **como sequência**, não capítulo a capítulo: onde
+> cada capítulo corta (A/B/C/D), se dois fechos seguidos repetem o mesmo
+> gesto ("norte", corpo em movimento, "E" inicial), como girou o POV e quem
+> **decidiu** em cada capítulo. Diagnóstico + marcas no `esquema-l1.md` para
+> os caps. futuros — nunca reescreve prosa no modo privado.
 
 Regra de bolso: `personagens/<nome>.md` só muda quando um **fato duro** muda
 (nova habilidade, morte, mudança de papel). Estado cena-a-cena vive em
@@ -75,7 +90,7 @@ Ideias absorvem para frente.
 3. Checagem de fronteira ok.
 4. Nenhuma pergunta em aberto bloqueando o próximo capítulo (resolvida ou estacionada em `insights/`).
 5. Canon duro novo registrado (ou estacionado).
-6. Anti-slop em dia: roda em lote no checkpoint (passo 7) — **não** é exigência por capítulo.
+6. Anti-slop e passe de fechos em dia: rodam em lote no checkpoint (passo 7) — **não** são exigência por capítulo.
 7. Próximo capítulo NÃO começa antes do Mini-INGEST.
 
 ---

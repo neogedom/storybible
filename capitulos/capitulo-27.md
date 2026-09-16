@@ -90,3 +90,10 @@ Mais tarde, ele canta baixinho "Mais perto quero estar" (em português); depois 
 - **Conexão cap. 1**: "Foi a primeira vez que pediram alguma coisa de mim" — o rapaz da calçada dentro da confissão
 - **Conexão caps. 20/21**: a língua da noite do bebê (Kate reconhece o ornickenho); a raiva pela inação de Deus desnudada (eco de Jó)
 - **Nota de ingest (2026-09-11)**: fechamento no loop privado; passe anti-slop na janela ou estacionado em lote
+
+## Atualização (2026-09-13)
+
+- **Abertura reestruturada — a fuga primeiro.** O capítulo abre agora com "Fugiam desde o escuro.": a caçada na madrugada (o braço ferido batendo na costela, Kate escolhendo o terreno), **Lakand** achando o primeiro refúgio (o buraco do torrão de uma árvore tombada, teto de raízes), cavalos passando na estrada ("Não era um nem dois: era um bando, com estribos, com vozes que iam e voltavam"), a noite sem sono e o amanhecer ainda escondidos. Só então entra o canon que já existia ("A água tinha acabado naquela manhã...").
+- Ganho causal: os mercenários passaram por ali naquela noite — o cerco da bacia (as pegadas falsas, o virote) deixa de ser coincidência e passa a ser armadilha **postada**.
+- Canon preservado: "Deu certo.", a fenda-refúgio do cerco, a fala de Kate ("Você não é o centro de tudo") e o relato sobre Lucas. O refúgio da abertura é lugar diferente da fenda.
+- Referência: `temas/esquema-l1.md`, bloco do cap. 27.

@@ -83,3 +83,17 @@ sujar as mãos de sangue?"_ — primeiro fio de conexão entre eles.
   o cap. 3 (Inquiridor atirou em Mário) e cap. 0 (Inquiridores mobilizados).
 - Lakand está exausto — retornou de patrulha, mas também há um cansaço
   existencial em sua voz.
+
+## Atualização (2026-09-13)
+
+- **Pista falsa do Castelo de Devour — elo 2 (o nome e o caminho).** Na
+  noite seguinte ao veredito de Kenod, Mário fica acordado ouvindo e pega
+  dois lobisomens conferindo carga: "entrega no mesmo lugar de sempre" /
+  "O castelo de pedra" / "a gente entrega e recebe". Ele reconhece ali o
+  lugar que guardara sem nome na torre de Opium (cap. 5) e fecha o
+  raciocínio: se existe estrada de ida, existe estrada de volta. "Não era
+  um plano. Era uma direção, e por enquanto bastava."
+- A fuga da 3ª noite passa a ter para onde ir. Esse é o argumento que o
+  cap. 18 mata pela boca de Kate ("Eles não vêm buscar. Eles recolhem.").
+- Referência: `temas/esquema-l1.md`, seção "Cadeia da pista falsa — o
+  Castelo de Devour".
