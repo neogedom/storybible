@@ -1,5 +1,34 @@
 # Log de Atualizações
 
+## 2026-09-18 (canon — a carruagem vira a carroça do cap. 24; Mira e Saboc retornam à Metrópole)
+
+- **Pergunta do autor (2026-09-18)**: (1) a viagem de Nolan da Metrópole ao
+  castelo de Devour é de carruagem? (2) Depois do incêndio, Mira volta com
+  ele dentro da carruagem ou fica como está, na mula com Saboc no colo?
+- **Verificado no texto**: carruagem **confirmada** nos caps. 17 e 19 (Dagmar
+  dentro; cocheiro contratado na última hora; seis dias de viagem). Depois do
+  incêndio (cap. 20) a carruagem **desaparece do texto**; o cap. 24 traz
+  **carroça** de roda empenada e lona chamuscada, com Mira **na mula**. O
+  séquito vai para o **norte** (cap. 22) — a "volta" só existe a partir do
+  cap. 29 (planejado).
+- **Decisões do autor**: (1) a carruagem **virou a carroça do cap. 24**
+  (degradação pelo incêndio: capota comida pelo fogo, roda empenada, lona
+  chamuscada); (2) Mira **fica na mula** na marcha ao norte; (3) Mira e Saboc
+  **retornam com Nolan à Metrópole** (caps. 29-32) — o esquema já exigia
+  Saboc fisicamente com Nolan (Noite Escura).
+- **Novo arquivo**: `decisoes/carruagem-vira-carroca-cap24.md`.
+- **Plant opcional na prosa** (não aplicado — aguarda o autor): uma cláusula
+  ligando a carroça à carruagem — cap. 22 (vistoria: "contando perdas,
+  medindo o que servia") ou cap. 24 (descrição do veículo).
+- **Ponto aberto**: transporte do retorno à Metrópole — a carroça consertada
+  (recomendado, sem objeto novo) ou veículo trazido da Metrópole por Mathias.
+- **Pendente**: Mini-INGEST do **cap. 28** (escrito; `capitulos/` vai até o
+  `capitulo-27.md`) — próximo capítulo só começa depois dele.
+- **Arquivos**: `decisoes/carruagem-vira-carroca-cap24.md`,
+  `decisoes/nolan-retorna-metropole-juleen-rampillas.md`,
+  `capitulos/{capitulo-22,capitulo-24}.md`, `visuais/{nolan,mira}.md`,
+  `personagens/{mira,dagmar}.md`, `temas/esquema-l1.md`, `log.md`.
+
 ## 2026-09-11 (protocolo — lente Scene/Sequel no F3 + gatilho do checkpoint)
 
 - **F3 expandido** (`conceitos/checklist-capitulo.md`): Teste de Ação e

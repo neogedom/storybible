@@ -27,6 +27,11 @@ Saboc** (cap. 22). Conhece ervas — é ela quem reconhece o veneno.
   a vembra, senhor") — um comentário solto, sem intenção; ela não sabe o
   que está revelando. **É Nolan quem liga os pontos** e anota mentalmente
   (reveal de Juleen no cap. 32; ver `temas/sementes.md` #6).
+- **Caps. 29-32 (planejado — decisão do autor 2026-09-18)**: acompanha Nolan
+  no **retorno à Metrópole**, com Saboc. É a ama de leite: vai onde o bebê vai.
+  O esquema exige Saboc fisicamente com Nolan na Metrópole (Noite Escura:
+  "Nolan, movido pelo filho Saboc, leva água e comida escondido" ao calabouço
+  de Mário).
 - O filho morto dela é só fundo — nunca mencionado no texto.
 
 ## Relações

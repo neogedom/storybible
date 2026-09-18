@@ -19,6 +19,7 @@ lugares:
   - Acampamento noturno (clareira protegida)
 conceitos:
   - Milagre replicável (Nolan confirma: Saboc + criança paralítica = padrão)
+  - Carruagem degradada em carroça (decisão 2026-09-18 — a carroça é o que restou do veículo dos caps. 17-19)
   - Vembra (erva abortiva; Mira reconhece o cheiro em Dagmar)
   - Misatribuição preservada (Nolan ainda culpa humanos — "o contato com humanos acelerara seus efeitos")
   - Três cartas (Rei, Koda, Layla) — Nolan opera em múltiplas camadas políticas
@@ -72,7 +73,7 @@ POV Nolan. Nolan alcança o assentamento de refugiados onde Mário curou a crian
 2. Menina curada se apresenta; Nolan examina a cicatriz e confirma o milagre
 3. Nolan reflete: Mário curou e foi embora sem cobrar — "qual era o preço dele?"
 4. Nolan descobre que Kate e "um grandalhão de poucas palavras" (Lakand) acompanham Mário
-5. Retomada da marcha; Nolan monta cavalo (carroça danificada no incêndio)
+5. Retomada da marcha; Nolan monta cavalo (carroça danificada no incêndio = o que restou da carruagem do comboio — decisão 2026-09-18)
 6. Mira confirma o nascimento morto de Saboc (segurou o corpo)
 7. Conversa sobre chá de melissa → Mira revela o cheiro de vembra em Dagmar
 8. Nolan processa: Dagmar, o chá, Juleen — "homens não prestam atenção a essas coisas"
@@ -92,3 +93,4 @@ POV Nolan. Nolan alcança o assentamento de refugiados onde Mário curou a crian
 - **Ossan**: pergunta sem resposta — Nolan não confia plenamente; a tensão pode germinar no L2
 - **Conexão cap. 23**: Nolan confirma o que Kate e Mário fizeram no assentamento — a linha do tempo fecha
 - **Conexão cap. 25**: Nolan está a 2-3 dias de distância; Mário está na Feira de Tronk — as linhas convergem
+- **Carruagem → carroça (decisão 2026-09-18)**: o veículo da marcha é o mesmo que trouxe Dagmar da Metrópole (caps. 17-19), degradado pelo incêndio (capota queimada, roda empenada, lona chamuscada). Mira viaja na mula porque a carroça leva a carga e a roda empenada não serve ao recém-nascido — ver `decisoes/carruagem-vira-carroca-cap24.md`

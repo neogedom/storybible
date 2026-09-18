@@ -22,6 +22,7 @@ conceitos:
   - Misatribuição (morte de Dagmar atribuída a humanos)
   - Glossolalia invertida (click via Mathias — "um deus acima do Limbo")
   - Bíblia de Kraviam (click por categoria)
+  - Carruagem degradada (o veículo do comboio queima no incêndio e segue ao norte como carroça — decisão 2026-09-18)
 sementes:
   - Anel de Dagmar no marco (única herança para Saboc — germinação L2)
   - Raiz-mestra / rampillas sob Nolan (germinação L2 — Inquisição)

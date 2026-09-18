@@ -2,7 +2,7 @@
 type: Decision
 title: Nolan retorna à Metrópole para matar Juleen; caçada de Mário via rampillas (sentidos à distância)
 description: Nolan recebe a resposta de Layla sobre a vembra e decide voltar à Metrópole para resolver pessoalmente. Deixa rampillas no encalço de Mário e observa à distância através deles (mecanismo de sentidos operado por Ossan). O enforcamento de Juleen (cap. 32) acontece no fio de Nolan, em paralelo à linha de Kate/Mário.
-tags: [decisao, L1, cap-29, cap-31, cap-32, nolan, juleen, ossan, rampillas, metropole]
+tags: [decisao, L1, cap-29, cap-31, cap-32, nolan, juleen, ossan, rampillas, metropole, mira, saboc]
 timestamp: 2026-08-30T12:00:00-03:00
 ---
 
@@ -71,6 +71,24 @@ criaturas ("extensão do corpo de Devour"). Isso permite:
 > assentamento. Movido para o **cap. 32 (POV Nolan)**, que abre com o
 > enforcamento e segue para a observação via rampillas.
 
+### 6. Mira e Saboc retornam com Nolan (canon 2026-09-18 — decisão do autor)
+
+Mira e Saboc **vão no retorno à Metrópole**. Consequências:
+
+- **O herdeiro entra na Metrópole**: o bebê dado por morto chega vivo, com
+  Nolan. Peso contra Juleen no cap. 32 (a mulher que o matou, diante dele) e
+  contra quem deu Dagmar por perdida.
+- O esquema já exige Saboc **fisicamente** com Nolan no fim do L1 — Noite
+  Escura: "Nolan, movido pelo filho Saboc, leva água e comida escondido" ao
+  calabouço de Mário.
+- **Mira é a ama de leite** — vai onde o bebê vai; é ela quem reconhece o
+  cheiro de vembra (o fio que leva a Juleen).
+- **Transporte (ponto aberto)**: a carruagem do comboio virou carroça no
+  incêndio (ver `decisoes/carruagem-vira-carroca-cap24.md`). No retorno, ou a
+  **carroça consertada**, ou um veículo trazido da Metrópole por **Mathias**
+  (enviado ao sul no cap. 24, com ordem de voltar). Recomendação: a carroça
+  consertada, sem objeto novo.
+
 ## Impacto na timeline
 
 - **Cap. 29**: Nolan confronta os Inquiridores e deduz que querem Mário vivo
@@ -79,6 +97,8 @@ criaturas ("extensão do corpo de Devour"). Isso permite:
 - **Cap. 32**: enforcamento de Juleen (abre o capítulo) + observação de
   Mário/Kate/Lakand **através dos rampillas** — vê a dupla funcionando, a
   tempestade de quartzo, e decide atrair Mário como aliado
+- **Com ele na Metrópole**: Mira e Saboc (decisão 2026-09-18) — o herdeiro
+  vivo dentro da Metrópole, na mesma cidade onde Juleen é enforcada
 
 ## Arquivos afetados
 
@@ -87,4 +107,6 @@ criaturas ("extensão do corpo de Devour"). Isso permite:
 - `personagens/juleen.md` (cena do enforcamento com rampillas)
 - `conceitos/rampillas.md` (mecanismo de sentidos à distância)
 - `temas/sementes.md` (#6 — enforcamento no fio de Nolan)
+- `decisoes/carruagem-vira-carroca-cap24.md` (transporte; Mira e Saboc)
+- `personagens/mira.md`, `visuais/mira.md`
 - `log.md`
