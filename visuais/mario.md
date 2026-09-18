@@ -18,6 +18,19 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma                             |
 | Expressão  | Medo, desespero                     |
 
+## Capítulo 28 — Não Apodreceu
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Roupas     | Camiseta urbana, calça jeans, tênis — poeira e terra                    |
+| Acessórios | Sem óculos (perdidos na travessia)                                     |
+| Ferimentos | Nenhum novo (a descarga passa por cima dele); terra na boca e no olho   |
+| Sujeira    | Poeira da estrada; terra do chão do mato no rosto                       |
+| Expressão  | Dedução calma ("Eles não vão embora"; "Inquiridores?"); colapso sob o som (de joelhos); fuga |
+| Postura    | Costas na parede da fenda → de joelhos com o som das varas → se joga no chão antes da descarga (fato não visto por Kate) → corre para o mato, puxado por Lakand |
+| Iluminação | Antes da luz (madrugada); poeira da descarga suspensa no ar             |
+| Fundo      | Saída da fenda; mato alto ao lado do acampamento dos mercenários        |
+
 ## Capítulo 27 — O Cerco
 
 | Atributo   | Estado                                                                 |

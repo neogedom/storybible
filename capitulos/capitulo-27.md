@@ -84,7 +84,7 @@ Mais tarde, ele canta baixinho "Mais perto quero estar" (em português); depois 
 
 - **Semente #1 (o hino)**: plantio executado — Kate ouviu, não perguntou; a pergunta dela segue pendente
 - **Semente #10 (confronto da Voz)**: germinação executada como planejado; resta o silêncio — "silêncio ≠ ausência"
-- **Fronteira (cap. 28)**: o capítulo fecha no escuro, com os mercenários silenciados um a um — o cap. 28 abre de madrugada com a patrulha dos Inquiridores (diapasão; a execução ouvida de dentro)
+- **Fronteira (cap. 28)**: o capítulo fecha no escuro, com os mercenários silenciados um a um — o cap. 28 abre de madrugada com a patrulha dos Inquiridores (diapasão; a execução ouvida de dentro) **[CONFIRMADO no Mini-INGEST do 28, 2026-09-18 — o 28 abre exatamente nesse som: o terceiro mercenário para no meio de uma palavra e Kate nomeia "Varas de ofício"]**
 - **O carroceiro**: arco fechado — a derrota no debate virou a vingança que armou o cerco (eco do cap. 26)
 - **Culpa em livro-razão**: "as contas que ele fazia... começavam todas no mesmo lugar" — motivo que reaparece adiante
 - **Conexão cap. 1**: "Foi a primeira vez que pediram alguma coisa de mim" — o rapaz da calçada dentro da confissão

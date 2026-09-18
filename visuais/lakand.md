@@ -19,6 +19,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Múltiplas, visíveis                |
 | Expressão  | Predatória, alerta                 |
 
+## Capítulo 28 — Não Apodreceu
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Forma      | Híbrida atenuada (mais homem do que fera)                              |
+| Pelagem    | Chamuscada do fogo (cap. 20), ainda marcada                            |
+| Ação       | Rosto no chão, braços abertos, sem defesa sob o som das varas; engatinha para trás ao aviso de Kate; levanta torto e puxa Mário por um braço só |
+| Ferimentos | Nenhum novo registrado                                                 |
+| Expressão  | Apagada sob a vara, alerta no instante seguinte                        |
+| Postura    | Deitado virado para fora → engatinhando para trás → de pé torto, fugindo para o mato |
+| Fundo      | Boca da fenda; mato alto ao lado do acampamento                        |
+
 ## Capítulo 27 — O Cerco
 
 | Atributo   | Estado                                                                 |

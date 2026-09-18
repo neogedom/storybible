@@ -52,6 +52,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 24 — O Rastro](capitulos/capitulo-24.md) — Nolan confirma o milagre replicável; revelação da vembra; escreve três cartas; decide se apresentar como aliado a Mário.
 - [Capítulo 25 — A Feira de Tronk](capitulos/capitulo-25.md) — Mário cura de propósito e prega; primeira conversão genuína; descobre a Metrópole; fecha indo até Lakand na borda da feira.
 - [Capítulo 26 — O Preço da Fama](capitulos/capitulo-26.md) — Kate POV: segunda pregação e oposição; reconhecimento público da recompensa; fuga; confissão de Lakand ("Saramant é cinza").
+- [Capítulo 27 — O Cerco](capitulos/capitulo-27.md) — Mário POV: mercenários sitiam a caverna; oração que escorrega para o ornickenho; o confronto da Voz; às escuras, um som que ele não sabe nomear.
+- [Capítulo 28 — Não Apodreceu](capitulos/capitulo-28.md) — Kate POV: os Inquiridores executam o cerco; o fio não cobra a ferida dela ("é uma gnock?"); o escriba registra — "Ela não apodrece. Precisamos enquadrá-la."; Kate guarda as palavras do trono.
 
 ## Visuais (Timelines)
 

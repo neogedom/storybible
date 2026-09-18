@@ -132,6 +132,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Plantio 3**: L1, Caps. 4, 6, 7 — Mencionado como facção que compete por custódia
 - **Plantio 4**: L1, Cap. 18 — Intimação formal a Devour; diapasões na floresta
 - **Plantio 5**: L1, Cap. 19 — Devour aguarda escolta oficial dos Inquiridores
+- **Plantio 6 (canon 2026-09-18)**: L1, Cap. 28 — a facção deixa de ser menção e vira corpo em cena: patrulha de **5 varas + 1 escriba** executa os mercenários na madrugada e cerca a fenda. Kate mata três; descobre-se que **o fio do renanthao não cobra a ferida dela**. O escriba registra: "Ela não apodrece. Precisamos enquadrá-la." A Ordem não recua: "Sua frequência é conhecida. Não será difícil reencontrá-lo. Ele terá o trono. Vonos garante."
 - **Germinação**: L2 — Reaparece como força antagonista que tenta centralizar Mário para o culto de Vonos
 
 ## 9. O Manto de Xilomagia de Tharin
@@ -151,6 +152,12 @@ timestamp: 2026-07-24T12:00:00-03:00
   Kate no L1: efeitos acabam — depleção NA PÁGINA (momento crítico)
 - **Uso**: camuflagem na jornada para a Mina de Quartzo (Kate não volta à
   floresta no L1)
+- **Primeiro uso na prosa (canon 2026-09-18)**: L1, Cap. 28 — Kate se esconde
+  sob uma moita, puxa o manto por cima da cabeça, das costas e das pernas, e
+  conta a respiração (quatro para puxar, quatro para soltar). "Nunca tinha
+  usado um manto de xilomagia." Um Inquiridor passa a **seis passos**; uma
+  folha cai e um anel bate no outro — "o som foi do tamanho de um mundo". A
+  carga FINITA começa a queimar aqui, na página.
 - **Risco**: Não virar superpoder — ferramenta tática com limite
 - **Nota**: Decisão registrada em `decisoes/manto-xilomagia-tharin.md`
 
@@ -371,19 +378,46 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 19. A Ferida que Não Cobrou
 
-- **Plantio (previsto — cap. 29, confronto com os Inquiridores)**: Kate leva
-  arranhões de renanthao no corpo a corpo e **não apodrece** — a vantagem de
-  ser gnock (sem magia no sangue). A Ordem registra a anomalia: um corpo que
-  recebeu o aço da Ordem e não cobrou.
-- **Vetor do registro (canon 2026-09-10)**: um **escriba** que acompanha a
-  patrulha — do corpo do Escriba-Mestre (Prólogo) — observa o combate sem
-  lutar, anota e recua (fecha o cap. 28). Na cena, os Inquiridores deduzem
-  **"Gnock"** com surpresa (raridade — pela habilidade dela sabiam que era
-  mais que humana; a ausência do apodrecimento os espanta).
+- **Plantio executado (canon 2026-09-18 — Cap. 28, NÃO cap. 29)**: no combate
+  do acampamento, o segundo Inquiridor abre o antebraço esquerdo de Kate
+  (face externa) — sangue, ardência quente, dor aguda — e a pele fica
+  **vermelha e normal**, sem escurecer: o efeito maligno das lâminas não
+  avança sobre ela (os instrutores do Rohdis já tinham dito). O Inquiridor
+  espanta-se e nomeia: **"Não apodreceu... Não há... é uma gnock?"** — e
+  morre na jugular sem terminar a frase.
+- **Vetor do registro (executado no cap. 28)**: o **escriba** da patrulha —
+  sem manto escuro, mesmo colar de pedra azul, bolsa e rolo de papel —
+  acompanha sem lutar, escreve atrás e é ele quem dá a ordem depois do
+  combate: **"Ela não apodrece. Precisamos enquadrá-la."** O registro vence a
+  execução: Kate deixa de ser alvo a eliminar e passa a ser **caso a medir**.
+- **Nota de desvio**: o capítulo fecha em **Kate** (guardando as palavras do
+  trono), não no escriba. O gancho do cap. 28 é a informação que ela não
+  entende, não o encerramento burocrático da Ordem.
 - **Germinação (L2)**: a Ordem quer entender/possuir/destruir a anomalia;
   liga-se ao arco de Kate no L2 (a dádiva como apagamento; o descarte de
   Benjamim).
-- **Risco**: a cena do L1 precisa deixar claro que ela FOI ferida (sangue e
-  ardência) — sem isso, a anomalia que a Ordem registra não aterra.
+- **Risco (resolvido)**: a cena deixou claro que ela FOI ferida — sangue e
+  ardência na página antes do espanto do Inquiridor.
+
+## 20. O Trono do Estrangeiro — a Ordem afirma
+
+- **Plantio executado (canon 2026-09-18 — Cap. 28)**: no fecho, entre si, os
+  Inquiridores registram a perda sem drama e declaram o objetivo de fundo:
+  **"Perdemos o Estrangeiro."** / **"Por enquanto. Sua frequência é
+  conhecida. Não será difícil reencontrá-lo. Ele terá o trono. Vonos
+  garante."** Kate ouve tudo, entende menos ainda, acha importante e confuso
+  — e **guarda as palavras** "até que ela soubesse o que fazer com elas".
+- **Vetor**: Kate sabe o que ninguém do grupo sabe (nem Mário, nem Nolan). A
+  informação fica trancada na memória de quem não tem poder político — e vai
+  ser destrancada na hora errada, para a pessoa errada.
+- **Ironia dramática**: o leitor do L1 (e depois o do L2) já sabe o que "o
+  trono" significa antes de Kate; ela guarda uma sentença sobre o próprio
+  aliado sem ler o que guardou.
+- **Germinação**: L1, caps. 32+ (a Ordem age com base na certeza de que o
+  Estrangeiro é coroável) e L2 — fecha com o **diário de Genocydo** (#15):
+  as duas instituições, de lados opostos, dizem a mesma coisa sobre Mário sem
+  que ele saiba.
+- **Risco**: não explicar o trono na página do cap. 28. A frase fica como
+  frase de ofício — quem ouve não pergunta e o leitor fica com a pulga.
 
 _Atualizar a cada INGEST de capítulo._

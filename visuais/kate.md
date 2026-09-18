@@ -19,6 +19,19 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma canônica definida                     |
 | Expressão  | Fria, nojo, determinação                      |
 
+## Capítulo 28 — Não Apodreceu
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Roupas     | Couro remendado de caçadora; **manto de xilomagia de Tharin em uso pela primeira vez** (puxado por cima da cabeça, das costas e das pernas; até então levado dobrado) |
+| Armas      | Faca de caça (três Inquiridores: por trás sob o queixo; corte na jugular; estocada de baixo para cima no lado do pescoço) |
+| Ferimentos | Corte no antebraço esquerdo (face externa) — ardência quente, dor aguda; **pele vermelha de sangue e normal, sem escurecer** (o renanthao não a cobra); pingos de sangue caindo a cada dois passos |
+| Expressão  | Frieza tática (arma a fuga em segundos); tensão imóvel sob a moita; desconfiança ao ouvir a palavra "trono" |
+| Postura    | De gatinho para fora da fenda; corre alta, sem esconder o braço (isca); imóvel sob os galhos, respiração contada (quatro para puxar, quatro para soltar) |
+| Sujeira    | Poeira da estrada; sangue no antebraço e na mão da faca                          |
+| Iluminação | Antes da luz (madrugada); o escuro da fenda, depois o cinza do mato              |
+| Fundo      | Beira da água com os mercenários em fila, os cavalos sem sela, as três caixas; mato alto e moita fechada de galho morto |
+
 ## Capítulo 27 — O Cerco
 
 | Atributo   | Estado                                                                 |

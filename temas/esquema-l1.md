@@ -51,7 +51,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 25       | Jogos e Diversão                    | Mário        | ~46-48%                | ~57,6%               | 2.314    |
 | 26       | Jogos e Diversão                    | Kate         | ~48-50%                | ~60,4%               | 3.245    |
 | 27       | Jogos e Diversão                    | Mário        | ~50-52%                | ~62,2%               | 2.050    |
-| 28       | Jogos e Diversão                    | Kate         | ~52-54%                | —                     | —        |
+| 28       | Jogos e Diversão                    | Kate         | ~52-54%                | ~64,5%               | 2.352    |
 | 29       | Jogos e Diversão                    | Nolan        | ~54-56%                | —                     | —        |
 | 30       | Jogos e Diversão                    | Mário        | ~56-58%                | —                     | —        |
 | 31       | Jogos e Diversão                    | Kate         | ~58-60%                | —                     | —        |
@@ -360,6 +360,8 @@ o **Mário usa raciocínio abdutivo em fração de segundo:** percebe o **ritual
 o Ela olha para Mário no chão: **ele não lutou. Leu o ritual e se moveu no tempo certo.** Pela primeira vez, Kate vê Mário não como fardo, mas como parceiro.
 
 o **O fecho e o registro (canon 2026-09-10).** Na luta, os Inquiridores deduzem, frios: _"Gnock."_ — surpresa verdadeira (gnocks são raros; pela habilidade dela já sabiam que era mais que humana — é a ausência do apodrecimento que os espanta). E um **escriba** que acompanha a patrulha (do corpo do Escriba-Mestre, Prólogo) observa sem lutar, anota e **recua sem pressa** — o capítulo TERMINA nele: alguém anotou tudo. (O beat "não é fardo" acontece antes, na fuga.)
+
+o **Nota de execução (2026-09-18 — desvios do cap. 28 na prosa).** (1) O capítulo **não termina no escriba**: o escriba fala antes ("Ela não apodrece. Precisamos enquadrá-la.") e o fecho fica em **Kate**, que guarda as palavras da Ordem sem entendê-las ("Ele terá o trono. Vonos garante.") — o gancho do 28 é informação, não perseguição. (2) O beat "não é fardo" aterrissou na caverna (ela nota que Mário deduz sozinho quem são os que matam lá fora) e o "se jogou no chão" é narrado **fora do campo de visão de Kate** — ela ouve o disparo passar e depois o vê no chão. (3) Kate mata **três** Inquiridores (por trás, jugular, estocada de baixo), não dois em corpo a corpo. O gatilho do cap. 29 permanece: corpos de Inquiridores no terreno e **Mário fora de alcance**.
 
 #### Capítulo 29 (PoV de Nolan) — Reformulado
 

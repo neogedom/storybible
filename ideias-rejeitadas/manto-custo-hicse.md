@@ -23,6 +23,11 @@ No cap. 28 (fuga da patrulha dos Inquiridores), o uso do manto de Tharin por Kat
 - Custo do manto no 28 = **a carga queimando** (gasto visível na página).
 - Eco de Hícse (se usado) = pós-combate, via formigamento — em outra cena, sem sobrecarregar o 28.
 
+## Execução no cap. 28 (2026-09-18)
+
+- A prosa usa o manto pela **primeira vez** (Kate sob a moita, respiração contada; um Inquiridor passa a seis passos) — e **não mostra o viço dos anéis caindo**. O gasto fica fora da página, no que ela ainda **não** sabe medir: "Nunca tinha usado um manto de xilomagia."
+- A depleção visível continua disponível para o **próximo** uso — é lá que a carga queimada vira preço na cara do leitor.
+
 ## Conexões
 
 - [Manto de xilomagia — decisão](/decisoes/manto-xilomagia-tharin.md)

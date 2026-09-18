@@ -26,7 +26,10 @@ nas fronteiras do Reino e além.
 
 A Ordem leva consigo **escribas** — do corpo do **Escriba-Mestre** (Prólogo;
 ver `conceitos/sinal-de-vonos.md`) — que documentam as operações: não lutam;
-observam, registram e recuam (um deles testemunha o confronto do cap. 28).
+observam, registram e **dão a ordem depois do combate** (o escriba do cap. 28,
+no papel, é quem nomeia o problema: "Ela não apodrece. Precisamos enquadrá-la.").
+O escriba não usa o manto escuro dos cinco: veste comum, com o **mesmo colar de
+pedra azul**; carrega bolsa e rolo de papel.
 
 ## Identificação
 
@@ -35,6 +38,8 @@ observam, registram e recuam (um deles testemunha o confronto do cap. 28).
 - **Revólver de Auditoria**: arma de captura/transporte (não de execução) — ver `conceitos/inquiridores-sinal.md`
 - **Diapasões de renanthao**: usados para triangular a assinatura de Mário
 - **Cicatrizes rituais** (o Inquiridor que atira em Mário no cap. 3 tem uma cicatriz no rosto)
+- **Escala de uma patrulha (cap. 28)**: cinco Inquiridores com Vara de Ofício + **um escriba** (sem manto escuro; mesmo colar de pedra azul; bolsa e rolo de papel)
+- **Bacia métrica**: água em bacia de metal polido, com o diapasão cravado em rachadura da pedra ao lado — os padrões na superfície desenham a leitura
 
 ## Membros Conhecidos
 
@@ -60,6 +65,7 @@ longo da narrativa.
 | **Cap. 13**          | Kenod ouve que os Inquiridores também o querem — a alcateia negocia por oferta (sem oferta melhor, entrega ao Rei)                                                          |
 | **Cap. 18**          | Intimação formal chega a Devour. Diapasão de renanthao cravado na floresta — triangulando a assinatura de Mário |
 | **Cap. 19**          | Devour segura Mário para a escolta oficial                                                                      |
+| **Cap. 28**          | Patrulha (5 varas + 1 escriba) executa os mercenários da recompensa na madrugada e cerca a fenda. Kate lê o som pelo treino gornad e mata três — o segundo a fere no antebraço esquerdo e ela **não apodrece**: "Não apodreceu... é uma gnock?". O escriba registra: "Ela não apodrece. Precisamos enquadrá-la." Os sobreviventes recolhem os próprios mortos, fecham as três caixas ("Em eixo." / "Falta assentar.") e encerram: "Perdemos o Estrangeiro." / "Sua frequência é conhecida. Não será difícil reencontrá-lo. Ele terá o trono. Vonos garante." |
 
 ## Arco Planejado
 

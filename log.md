@@ -1,5 +1,68 @@
 # Log de Atualizações
 
+## 2026-09-18 (canon 3 — Mini-INGEST do cap. 28: "Não Apodreceu"; janela de checkpoint do bloco Jogos)
+
+- **Capítulo fechado**: `Livro 1/capitulo28.md` (POV Kate, beat Jogos e
+  Diversão, **~64,5%** do L1, **2.352 palavras**). Sem marcadores `(* ...)`
+  restantes. **Título "Não Apodreceu"** proposto no INGEST — vetável pelo
+  autor.
+- **Canon novo (cap. 28)**:
+  (1) **Vara de Ofício — alcance, não intensidade**: o fuste graduado mede
+  **até onde o som chega**; cravar fundo **encurta** o raio (regra fixada com
+  o autor). O som derruba quem está de joelhos ou deitado; não derruba quem
+  tem preparação.
+  (2) **Timbre irmão**: o som da vara e o tom do diapasão são **irmãos**
+  (mesmo renanthao); só o treino separa os dois — Kate aprendeu no **Rohdis**
+  (varas batidas no aço da armadura de Gaviorn'l).
+  (3) **O fio não cobra a ferida de Kate** (semente #19, plantio executado no
+  28, não no 29): corte no antebraço esquerdo, sangue e ardência, pele
+  vermelha normal → o Inquiridor: "Não apodreceu... é uma gnock?".
+  (4) **Registro acima da execução**: o escriba (sem manto escuro, colar de
+  pedra azul, bolsa e rolo) não luta, escreve atrás e manda: **"Ela não
+  apodrece. Precisamos enquadrá-la."** — Kate é caso a medir, não alvo a
+  matar.
+  (5) **Rotina das três caixas** na recolha (água da bacia métrica; Revólver
+  de Auditoria; diapasão limpo com pano, na sequência, em silêncio de
+  ritual) + os próprios mortos alinhados **pela cabeça**, sem pesar.
+  (6) **Vocabulário de ofício**: "Em eixo." / "Falta assentar." (aferição,
+  não acordo).
+  (7) **Composição de patrulha**: 5 varas + 1 escriba.
+  (8) **"Sua frequência é conhecida"** + **"Ele terá o trono. Vonos
+  garante."** — a Ordem declara o objetivo de fundo e não recua (semente
+  #20). O capítulo fecha **em Kate**, que guarda as palavras sem entendê-las.
+- **Sementes**: #19 atualizada (plantio executado; correção da previsão que
+  apontava o cap. 29) · **#20 nova** ("O Trono do Estrangeiro — a Ordem
+  afirma") · #8 (Plantio 6, cap. 28) · #9 (primeiro uso do manto de xilomagia
+  na prosa — a carga finita começa a queimar).
+- **Visuais**: `visuais/kate.md`, `visuais/mario.md`, `visuais/lakand.md`
+  (seção "## Capítulo 28 — Não Apodreceu"). Nolan não aparece no capítulo —
+  `visuais/nolan.md` não foi tocado.
+- **Fronteira 28→29**: o 27 fechava com as vozes do cerco morrendo uma a uma;
+  o 28 abre exatamente nesse som (continuidade confirmada). Como o 27, o
+  fecho do 28 é **misto** (fuga + informação), não desastre puro — o gancho
+  do 29 é o terreno com os **corpos de Inquiridores** e **Mário fora de
+  alcance**, com Nolan deduzindo "Não foi Kate. Foi Mário." O 28 mistura
+  fuga e informação, e deixa em aberto para o passe de fechos o fato de Kate
+  **não converter em decisão** o que ouviu (ela só guarda).
+- **Desvios vs. o bloco do esquema** (mapa corrigido para frente, nunca o
+  texto): (a) o capítulo **não termina no escriba** — fecha em Kate; (b) o
+  beat "não é fardo" aterrissou na caverna e o "se jogou no chão" é narrado
+  **fora do campo de visão** de Kate; (c) Kate mata **três** Inquiridores
+  (por trás, jugular, estocada de baixo), não dois em corpo a corpo. Nota de
+  execução registrada em `temas/esquema-l1.md` (bloco do cap. 28).
+- **Passo 7 — contador de checkpoint**: bloco **Jogos e Diversão (caps.
+  21-28) = 8 capítulos sem checkpoint** → **oferecido ao autor** (Arquiteto
+  de Densidade leve nas fronteiras de beat + **anti-slop em lote** +
+  **passe de fechos**). A janela já estava aberta desde 2026-09-11 para os
+  caps. 21-27 (7 caps) e permanece pendente de decisão.
+- **Arquivos**: `capitulos/capitulo-28.md` (novo),
+  `conceitos/inquiridores-sinal.md` (seção "A patrulha em operação"),
+  `personagens/inquiridor.md` (escribas, identificação, tabela de aparições),
+  `conceitos/glossario.md` (Vara de Ofício; "Em eixo"/assentar),
+  `temas/sementes.md` (#8, #9, #19, #20), `temas/esquema-l1.md` (tabela +
+  nota de execução), `index.md` (caps. 27 e 28 repostos na sequência),
+  `log.md`.
+
 ## 2026-09-18 (canon 2 — plant aplicado no cap. 24; carroça consertada em Tronk)
 
 - **Decisões do autor (mesmo dia, complemento)**: (1) o veículo do retorno é a
@@ -41,7 +104,8 @@
 - **Ponto aberto**: transporte do retorno à Metrópole — a carroça consertada
   (recomendado, sem objeto novo) ou veículo trazido da Metrópole por Mathias.
 - **Pendente**: Mini-INGEST do **cap. 28** (escrito; `capitulos/` vai até o
-  `capitulo-27.md`) — próximo capítulo só começa depois dele.
+  `capitulo-27.md`) — próximo capítulo só começa depois dele. **[FECHADO em
+  2026-09-18: ver a entrada "canon 3" no topo — cap. 28 = "Não Apodreceu".]**
 - **Arquivos**: `decisoes/carruagem-vira-carroca-cap24.md`,
   `decisoes/nolan-retorna-metropole-juleen-rampillas.md`,
   `capitulos/{capitulo-22,capitulo-24}.md`, `visuais/{nolan,mira}.md`,
