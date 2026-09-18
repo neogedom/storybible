@@ -83,11 +83,11 @@ Mira e Saboc **vão no retorno à Metrópole**. Consequências:
   calabouço de Mário.
 - **Mira é a ama de leite** — vai onde o bebê vai; é ela quem reconhece o
   cheiro de vembra (o fio que leva a Juleen).
-- **Transporte (ponto aberto)**: a carruagem do comboio virou carroça no
-  incêndio (ver `decisoes/carruagem-vira-carroca-cap24.md`). No retorno, ou a
-  **carroça consertada**, ou um veículo trazido da Metrópole por **Mathias**
-  (enviado ao sul no cap. 24, com ordem de voltar). Recomendação: a carroça
-  consertada, sem objeto novo.
+- **Transporte (decidido 2026-09-18)**: a carruagem do comboio virou carroça
+  no incêndio e é **consertada na Feira de Tronk** — carroceiros e forja no
+  cruzamento da estrada da Mina com a **estrada para o sul**, o ponto exato
+  onde a volta começa. Sem objeto novo; Mathias não precisa trazer veículo.
+  Ver `decisoes/carruagem-vira-carroca-cap24.md`.
 
 ## Impacto na timeline
 

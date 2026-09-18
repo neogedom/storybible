@@ -383,9 +383,11 @@ o **O retorno à Metrópole (decisão 2026-08-30).** Nolan recebe a **carta de
   (sentidos à distância, operados por Ossan — ver `conceitos/rampillas.md`).
 
 o **Quem volta com ele (decisão 2026-09-18).** Mira e Saboc vão no retorno —
-  o herdeiro entra na Metrópole (peso contra Juleen no cap. 32). Transporte
-  pendente: a carroça consertada (a que virou do incêndio) ou veículo trazido
-  da Metrópole por Mathias — ver `decisoes/carruagem-vira-carroca-cap24.md`.
+  o herdeiro entra na Metrópole (peso contra Juleen no cap. 32). Transporte:
+  a carroça do incêndio, **consertada na Feira de Tronk** (carroceiros/forja;
+  cruzamento da estrada da Mina com a estrada para o sul) — a volta começa no
+  mesmo lugar onde a roda foi emendada, e Nolan ainda ouve ali o rastro do
+  "feiticeiro" que caça. Ver `decisoes/carruagem-vira-carroca-cap24.md`.
 
 o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — fechar no instante da escolha irrevogável (voltar = entregar a dianteira da corrida), com botão de ameaça; **não** fechar em deslocamento. Não usar "olhou/partiu para o norte" (gesto já repetido nos caps. 22, 23, 24, 26 e 28). ⚠️ O bullet "A decisão" acima repete o que o cap. 24 já executou em cena ("a única forma de possuí-lo era fazer com que ele quisesse ficar") — o que é novo aqui é **voltar**, não voltar a ser aliado.
 

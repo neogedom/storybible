@@ -93,7 +93,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Local**: assentamento de refugiados → estrada → acampamento noturno
 - **Expressão**: analítico, intrigado ("ninguém faz algo por nada"), depois sombrio (revelação da vembra)
 - **Ação**: ajoelha-se para examinar o joelho da menina; escreve cartas; monta cavalo
-- **Objeto**: três cartas seladas; cavalo (carroça danificada — o que restou da carruagem do comboio, capota comida pelo fogo no incêndio)
+- **Objeto**: três cartas seladas; cavalo (carroça danificada — o que restou da carruagem do comboio, capota comida pelo fogo no incêndio; a roda é emendada na Feira de Tronk, de onde sai a volta à Metrópole — decisão 2026-09-18)
 - **Relação**: interroga Mira; envia Mathias; confia em Ossan por controle (raiz-mestra), não por lealdade
 - **Séquito**: rampillas (~dezena), Mira com Saboc, Mathias montado, Ossan, cocheiro (guia a carroça), dois servos
 

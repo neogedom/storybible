@@ -1,5 +1,23 @@
 # Log de Atualizações
 
+## 2026-09-18 (canon 2 — plant aplicado no cap. 24; carroça consertada em Tronk)
+
+- **Decisões do autor (mesmo dia, complemento)**: (1) o veículo do retorno é a
+  **carroça consertada** — e o conserto é **na Feira de Tronk** (carroceiros e
+  forja; cruzamento da estrada da Mina com a **estrada para o sul**, o ponto
+  onde a volta começa); (2) **plant aprovado e aplicado**.
+- **Prosa alterada**: `Livro 1/capitulo24.md:53` — entrou "Era o que restara da
+  carruagem que trouxera Dagmar da Metrópole: a caçamba, a capota comida pelo
+  fogo." Uma frase; sem Markdown; sem travessão na narração.
+- **Distâncias registradas**: Metrópole → castelo = 6 dias (cap. 19); o
+  assentamento do cap. 24 a 3 dias ao norte de Saramant; Tronk a 2 dias do
+  assentamento (cap. 23:165); **Tronk → Metrópole ≈ 11 dias**.
+- **Arquivos**: `decisoes/carruagem-vira-carroca-cap24.md` (conserto em Tronk,
+  distâncias, plant marcado como aplicado),
+  `decisoes/nolan-retorna-metropole-juleen-rampillas.md`,
+  `capitulos/capitulo-24.md`, `temas/esquema-l1.md`, `log.md`; prosa:
+  `Livro 1/capitulo24.md`.
+
 ## 2026-09-18 (canon — a carruagem vira a carroça do cap. 24; Mira e Saboc retornam à Metrópole)
 
 - **Pergunta do autor (2026-09-18)**: (1) a viagem de Nolan da Metrópole ao

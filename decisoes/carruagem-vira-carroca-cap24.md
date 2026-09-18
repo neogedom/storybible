@@ -45,21 +45,30 @@ Saboc no colo?
 
 ## Implicações
 
-- **Não existe carruagem intacta no norte.** Se o retorno à Metrópole pedir um
-  veículo melhor que a carroça, ele tem de vir da Metrópole (Mathias foi
-  enviado ao sul no cap. 24 e deve voltar). Alternativa sem objeto novo: a
-  **carroça consertada** — a mesma que trouxe Dagmar grávida e leva Saboc para
-  fora em ruínas. **Ponto aberto** — escolha do autor.
+- **Não existe carruagem intacta no norte.** Decidido (2026-09-18): o veículo
+  do retorno é a **carroça consertada** — a mesma que trouxe Dagmar grávida e
+  leva Saboc para fora em ruínas. Sem objeto novo; Mathias fica desobrigado de
+  trazer veículo da Metrópole.
+- **Conserto: na Feira de Tronk.** É o único ponto do caminho com carroceiros
+  e forja (`capitulo25.md:1`: "Barracas de lona, carroças quebradas, fogueiras
+  acesas no meio do dia"), e é o **cruzamento da estrada da Mina com a estrada
+  para o sul** — o lugar exato onde a volta começa. Economia dupla: nada de
+  desvio novo, e Nolan ouve ali o rastro do "feiticeiro" que caça
+  (`capitulo25.md`, `capitulo26.md:61`). A roda empenada se conserta na
+  subida; a volta já sai com o veículo servido.
+- **Distâncias** (para a viagem de volta com recém-nascido): Metrópole →
+  castelo de Devour = 6 dias (cap. 19); o assentamento do cap. 24 fica a 3
+  dias ao norte de Saramant; Tronk, a 2 dias do assentamento (cap. 23:165).
+  **Tronk → Metrópole ≈ 11 dias de estrada.**
 - **Travessia de dias com recém-nascido** (retorno): Mira e Saboc **dentro**
   do veículo, não na mula. O trote da mula foi solução de marcha curta, não de
   viagem longa. A fala do cap. 24 ("Espero que não precisemos sempre estar em
   cima de uma mula para que ele adormeça") pode pagar aí, sem sublinhar.
-- **Linhagem na prosa é bônus, não obrigação**: sem marcação, o leitor lê uma
-  carroça de comboio qualquer e não tropeça. **Plant sugerido (opcional)** —
-  uma cláusula na vistoria do cap. 22 ("contando perdas, medindo o que
-  servia") ou na descrição da carroça no cap. 24, ex.: *o que restara da
-  carruagem: o chassi e a caçamba, a capota comida pelo fogo, uma lona por
-  cima*. **Não aplicado** — aguarda decisão do autor.
+- **Plant aplicado (2026-09-18, autor aprovou)**: em `Livro 1/capitulo24.md`,
+  na descrição da carroça, entrou "Era o que restara da carruagem que trouxera
+  Dagmar da Metrópole: a caçamba, a capota comida pelo fogo." Sem o plant, o
+  leitor lia carroça de comboio qualquer e não tropeçava — o plant só paga a
+  linhagem, sem custo de cena.
 - **Dagmar**: o veículo que a transportou viva (e grávida) é o mesmo que
   transporta o filho para fora de Saramant, degradado — imagem de queda de
   Nolan que já está em cena, sem custo de palavras.
@@ -74,5 +83,8 @@ Saboc no colo?
 
 ## Arquivo marcado
 
-- `Livro 1/capitulo24.md:53` — descrição da carroça (roda empenada, lona chamuscada)
-- `Livro 1/capitulo22.md:91` — vistoria das perdas (local natural do plant)
+- `Livro 1/capitulo24.md:53` — descrição da carroça: **plant aplicado**
+  ("Era o que restara da carruagem que trouxera Dagmar da Metrópole: a
+  caçamba, a capota comida pelo fogo.")
+- `Livro 1/capitulo22.md:91` — vistoria das perdas (local alternativo do
+  plant; **não usado** — o cap. 24 bastou)
