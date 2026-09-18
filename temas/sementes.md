@@ -32,7 +32,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 4. Layla — A Testemunha Viva
 
-- **Plantio**: L1, Caps. 10, 19, 23 — Espiã de Nolan
+- **Plantio**: L1, Caps. 10, 19 — Espiã de Nolan (o cap. 23 saiu da lista em 2026-09-18: nem a prosa nem o ingest do 23 mencionam Layla; o fio passa pelo cap. 24 — carta que Nolan envia a ela — e pelo cap. 29, com a resposta)
 - **Germinação**: L2 — Junta-se ao Remanescente como informante
 
 ## 5. O Sonho de Mário (Gabbriel, Vicent e Hícse)
@@ -280,8 +280,10 @@ timestamp: 2026-07-24T12:00:00-03:00
   armado; e/ou a revelação vira condenação pública ou privada.
 - **Risco**: não pregar. A verdade cai como reconhecimento frio, não como
   sermão (guardrail: sofrer é parte da prosa).
-- **Nota de numeração**: sementes #13-19 do esquema (Etemenanki etc.) ainda
-  não têm verbete no arquivo — renumerar quando forem registradas.
+- **Nota de numeração (corrigida em 2026-09-18)**: a numeração 13-20 já está
+  ocupada pelos verbetes deste arquivo; as sementes do esquema ainda sem
+  verbete recebem numeração nova, **a partir de #21** (Etemenanki = #21,
+  prevista no cap. 35), quando forem registradas.
 
 ## 14. A Renúncia do Batismo — Declaração de Guerra
 

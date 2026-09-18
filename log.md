@@ -1,5 +1,43 @@
 # Log de Atualizações
 
+## 2026-09-18 (checkpoint de beat — fecho do bloco "Jogos e Diversão", caps. 21-28)
+
+- **Anti-slop em lote** nos 8 capítulos fechados (21-28): **85 cirurgias**
+  aplicadas na prosa, ~794 palavras cortadas (20.129 → 19.335). Verificação
+  mecânica: zero `*`, zero marcadores `(* ...)`, zero `---` nos 8 arquivos. O
+  cap. 26 foi o mais contaminado do bloco.
+- **Régua de % remedida**: coluna **Palavras** conferida arquivo por arquivo;
+  coluna **% Real** = **acumulado ÷ 115.000**. Cinco linhas antigas estavam
+  defasadas (caps. **5, 13, 16, 18 e 20**) e foram corrigidas; as linhas 21-28
+  já estavam certas. A hipótese de "drift uniforme ÷100.678" foi descartada
+  (essa divisão não existe em nenhum arquivo). Cap. 28: **2.336 palavras**
+  após o anti-slop (o INGEST do capítulo registrou 2.352 — medição anterior às
+  cirurgias). Coluna **% Plan** segue parada em "~38-40%" do cap. 20 em diante
+  — realinhar no congelamento.
+- **Passe de fechos** (3ª parte do checkpoint): mapa dos caps. 21-28 —
+  C-D-D-D-C-A-A-D (**A=2, B=0, C=2, D=4**). Alertas registrados: freada de
+  três D seguidos (22-23-24); 25 fecha sem gancho; **zero cortes B** no bloco;
+  "norte" sela os fechos de 22, 23, 24 e 26; "E" arremata 21, 24, 26 e 27;
+  **Mário reativo em 26-28** (risco estrutural #1) → decisão devolvida a ele
+  no cap. 30 e no cap. 33. Regra de fecho para 29-35 gravada no esquema (fora
+  do fecho: "norte", "escuro", "silêncio"; não abrir o fecho com "E").
+- **Mapa corrigido para frente** (`temas/esquema-l1.md`): nota de réguas no
+  topo; linhas 5-20 da tabela; notas do Movimento 3; marcas de abertura/corte
+  nos blocos dos caps. 29, 30, 31, 33 e 36 (beat "Kate mede ferramentas"
+  realocado ao 36); semente #20 (trono) acrescentada à linha dos Inquiridores;
+  arco de Kate e Lakand atualizados.
+- **Ponteiros corrigidos**: `capitulos/capitulo-26.md` (a rebelião consolida
+  no **cap. 31**, não em "29+"); `capitulos/capitulo-25.md` (beat pendente
+  resolvido: realocado ao **cap. 36**); `temas/sementes.md` (#4 Layla — o cap.
+  23 não tem menção, o fio passa pelo 24 e pelo 29; numeração nova a partir de
+  **#21**, com Etemenanki = #21).
+- **Fila para o congelamento**: 17 pontos de polimento linguístico anotados,
+  respiro do cap. 26 (o concentrador do bloco: 3.162 palavras, 7 eventos, 6
+  sementes) e endurecimento da coluna Nolan (os caps. 22, 24 e 29 usam o mesmo
+  molde "chegar-examinar-decidir").
+- **Payoffs do bloco**: todos entregues; a semente do trono foi executada um
+  capítulo antes do previsto (28, em vez de 29).
+
 ## 2026-09-18 (canon 3 — Mini-INGEST do cap. 28: "Não Apodreceu"; janela de checkpoint do bloco Jogos)
 
 - **Capítulo fechado**: `Livro 1/capitulo28.md` (POV Kate, beat Jogos e

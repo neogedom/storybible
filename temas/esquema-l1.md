@@ -15,6 +15,8 @@ timestamp: 2026-09-10T12:00:00-03:00
 >
 > **🔄 Ressincronização 2026-09-11:** a coluna **Palavras** foi medida diretamente nos arquivos do livro; a coluna **% Real** foi recalculada (**acumulado ÷ 115.000**). Capítulos revisados desde a última medição mudaram de número (diferenças maiores: caps. 2, 3 e 23).
 >
+> **📏 Réguas de % — decisão de checkpoint (2026-09-18):** a coluna **% Real** é **acumulado real ÷ 115.000** (nominal, até o congelamento). A régua de **planejamento** é o rebaseline de 2026-09-12 (`outline.md`): total provisório **~135.000-140.000**, com o **Ponto Central a ~68% mantido no cap. 36** (≈91.800-95.200 palavras acumuladas). Não existe divisão por ~100.678 em nenhum arquivo — descartada. **Higiene de 2026-09-18:** cinco linhas antigas (caps. 5, 13, 16, 18 e 20) estavam medidas a menos; Palavras e % foram remedidas nos arquivos e corrigidas. As linhas 21-28 (pós anti-slop) já estavam corretas. ⚠️ A coluna **% Plan** está parada em "~38-40%" do cap. 20 em diante (valor copiado da linha anterior) — realinhar no congelamento, junto com as bandas de planejamento.
+>
 > **📌 Sincronização 2026-09-10:** as seções de detalhe e as referências deste esquema foram re-numeradas para a **numeração nova** — a mesma dos arquivos do livro (`Livro 1/capituloN.md`) e da tabela abaixo. Equivalência nesta sincronização: referência antiga + 1 = referência nova (para capítulos a partir do antigo 2); os caps. 0-1 não mudaram.
 
 ---
@@ -28,30 +30,30 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 2        | Configuração (novo)                 | Mário        | ~5-7%                  | ~6,5%                | 1.855    |
 | 3        | Configuração / Catalisador          | Mário        | ~7-10%                 | ~7,7%                | 1.334    |
 | 4        | Debate                              | Nolan        | ~10-12%                | ~10,4%               | 3.044    |
-| 5        | Debate                              | Mário        | ~12-14%                | ~12,5%               | 2.492    |
-| 6        | Debate                              | Kate         | ~14-16%                | ~14,5%               | 2.292    |
-| 7        | Debate                              | Nolan        | ~16-18%                | ~18,5%               | 4.575    |
-| 8        | Debate                              | Mário        | ~18-20%                | ~20,6%               | 2.468    |
-| 9        | Debate                              | Kate         | ~20-22%                | ~23,1%               | 2.867    |
-| 10       | Debate                              | Nolan        | ~22-24%                | ~25,7%               | 3.004    |
-| 11       | Debate                              | Mário        | ~24-26%                | ~27,1%               | 1.556    |
-| 12       | Debate                              | Kate         | ~14-16%                | ~30,2%               | 3.524    |
-| 13       | Debate                              | Mário        | ~26-28%                | ~33,2%               | 3.527    |
-| 14       | Debate                              | Nolan        | ~28-30%                | ~35,1%               | 2.194    |
-| 15       | Debate                              | Kate         | ~30-31%                | ~36,7%               | 1.776    |
-| 16       | Debate                              | Mário        | ~31-32%                | ~38,9%               | 2.510    |
-| 17       | Debate                              | Nolan        | ~32-33%                | ~40,7%               | 2.123    |
-| 18       | Debate                              | Kate         | ~33-35%                | ~43,2%               | 2.833    |
-| 19       | Break Into 2                        | Nolan        | ~35-38%                | ~45,4%               | 2.531    |
-| 20       | Break Into 2                        | Kate         | ~38-40%                | ~47,0%               | 1.849    |
-| 21       | Jogos e Diversão                    | Mário        | ~38-40%                | ~49,0%               | 2.316    |
-| 22       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~51,2%               | 2.512    |
-| 23       | Jogos e Diversão                    | Kate         | ~42-44%                | ~53,5%               | 2.622    |
-| 24       | Jogos e Diversão                    | Nolan        | ~44-46%                | ~55,5%               | 2.397    |
-| 25       | Jogos e Diversão                    | Mário        | ~46-48%                | ~57,6%               | 2.314    |
-| 26       | Jogos e Diversão                    | Kate         | ~48-50%                | ~60,4%               | 3.245    |
-| 27       | Jogos e Diversão                    | Mário        | ~50-52%                | ~62,2%               | 2.050    |
-| 28       | Jogos e Diversão                    | Kate         | ~52-54%                | ~64,5%               | 2.352    |
+| 5        | Debate                              | Mário        | ~12-14%                | ~12,7%               | 2.721    |
+| 6        | Debate                              | Kate         | ~14-16%                | ~14,7%               | 2.292    |
+| 7        | Debate                              | Nolan        | ~16-18%                | ~18,7%               | 4.575    |
+| 8        | Debate                              | Mário        | ~18-20%                | ~20,8%               | 2.468    |
+| 9        | Debate                              | Kate         | ~20-22%                | ~23,3%               | 2.867    |
+| 10       | Debate                              | Nolan        | ~22-24%                | ~25,9%               | 3.004    |
+| 11       | Debate                              | Mário        | ~24-26%                | ~27,3%               | 1.556    |
+| 12       | Debate                              | Kate         | ~14-16%                | ~30,4%               | 3.524    |
+| 13       | Debate                              | Mário        | ~26-28%                | ~33,7%               | 3.796    |
+| 14       | Debate                              | Nolan        | ~28-30%                | ~35,6%               | 2.194    |
+| 15       | Debate                              | Kate         | ~30-31%                | ~37,1%               | 1.776    |
+| 16       | Debate                              | Mário        | ~31-32%                | ~39,4%               | 2.649    |
+| 17       | Debate                              | Nolan        | ~32-33%                | ~41,3%               | 2.123    |
+| 18       | Debate                              | Kate         | ~33-35%                | ~43,9%               | 3.070    |
+| 19       | Break Into 2                        | Nolan        | ~35-38%                | ~46,1%               | 2.531    |
+| 20       | Break Into 2                        | Kate         | ~38-40%                | ~47,8%               | 1.912    |
+| 21       | Jogos e Diversão                    | Mário        | ~38-40%                | ~49,8%               | 2.263    |
+| 22       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~51,9%               | 2.486    |
+| 23       | Jogos e Diversão                    | Kate         | ~42-44%                | ~54,0%               | 2.397    |
+| 24       | Jogos e Diversão                    | Nolan        | ~44-46%                | ~56,0%               | 2.266    |
+| 25       | Jogos e Diversão                    | Mário        | ~46-48%                | ~57,9%               | 2.226    |
+| 26       | Jogos e Diversão                    | Kate         | ~48-50%                | ~60,7%               | 3.162    |
+| 27       | Jogos e Diversão                    | Mário        | ~50-52%                | ~62,6%               | 2.199    |
+| 28       | Jogos e Diversão                    | Kate         | ~52-54%                | ~64,6%               | 2.336    |
 | 29       | Jogos e Diversão                    | Nolan        | ~54-56%                | —                     | —        |
 | 30       | Jogos e Diversão                    | Mário        | ~56-58%                | —                     | —        |
 | 31       | Jogos e Diversão                    | Kate         | ~58-60%                | —                     | —        |
@@ -60,7 +62,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 
 ## Jogos e Diversão (~47-68%) — Caps. 21-35
 
-> **⚠️ Recalibrado 2026-08-26:** O beat começou antes do previsto (cap. 21 com ~47% em vez de ~38%) porque o Debate e Break Into 2 ocuparam mais palavras que o planejado. A janela do beat (~47-68%) ainda comporta os caps. 21-35 com folga. O Ponto Central (~68%) deve chegar no cap. 36 com ~80.000 palavras acumuladas.
+> **⚠️ Recalibrado 2026-08-26:** O beat começou antes do previsto (cap. 21 com ~47% em vez de ~38%) porque o Debate e Break Into 2 ocuparam mais palavras que o planejado. A janela do beat (~47-68%) ainda comporta os caps. 21-35 com folga. O Ponto Central (~68%) deve chegar no cap. 36 com **~91.800-95.200 palavras acumuladas** (rebaseline 2026-09-12: total provisório ~135-140k; o "~80.000" era a projeção ÷115.000).
 
 > **Gênero STC:** Velocino de Ouro — jornada de Mário e Kate em busca de um objetivo (a libertação da Mina de Quartzo), enfrentando desafios, recrutando ajudantes ao longo do caminho, com a dupla funcionando em complemento: Mário pensa e articula (raciocínio abdutivo), Kate age e executa (força física e tática).
 
@@ -363,6 +365,8 @@ o **O fecho e o registro (canon 2026-09-10).** Na luta, os Inquiridores deduzem,
 
 o **Nota de execução (2026-09-18 — desvios do cap. 28 na prosa).** (1) O capítulo **não termina no escriba**: o escriba fala antes ("Ela não apodrece. Precisamos enquadrá-la.") e o fecho fica em **Kate**, que guarda as palavras da Ordem sem entendê-las ("Ele terá o trono. Vonos garante.") — o gancho do 28 é informação, não perseguição. (2) O beat "não é fardo" aterrissou na caverna (ela nota que Mário deduz sozinho quem são os que matam lá fora) e o "se jogou no chão" é narrado **fora do campo de visão de Kate** — ela ouve o disparo passar e depois o vê no chão. (3) Kate mata **três** Inquiridores (por trás, jugular, estocada de baixo), não dois em corpo a corpo. O gatilho do cap. 29 permanece: corpos de Inquiridores no terreno e **Mário fora de alcance**.
 
+o **🏁 Nota de checkpoint (2026-09-18 — fecho do beat "Jogos e Diversão", caps. 21-28).** Anti-slop em lote nos 8 capítulos: **85 cirurgias**, ~794 palavras cortadas (20.129 → 19.335). Régua remedida nos arquivos (ver "Réguas de %" no topo). Passe de fechos: mapa e regra herdada na nota do Movimento 3. Nenhum payoff em falta; a semente do trono foi executada **um capítulo antes do previsto** (28, em vez de 29) — por isso o "novo rei" só fecha no cap. 32. Próximo checkpoint: fronteira do Ponto Central (cap. 36).
+
 #### Capítulo 29 (PoV de Nolan) — Reformulado
 
 o **O encontro com os Inquiridores.** Nolan chega ao local da emboscada. Os Inquiridores ainda estão lá, recolhendo os corpos dos companheiros que Kate abateu. **Mário escapou.**
@@ -391,7 +395,9 @@ o **Quem volta com ele (decisão 2026-09-18).** Mira e Saboc vão no retorno —
   mesmo lugar onde a roda foi emendada, e Nolan ainda ouve ali o rastro do
   "feiticeiro" que caça. Ver `decisoes/carruagem-vira-carroca-cap24.md`.
 
-o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — fechar no instante da escolha irrevogável (voltar = entregar a dianteira da corrida), com botão de ameaça; **não** fechar em deslocamento. Não usar "olhou/partiu para o norte" (gesto já repetido nos caps. 22, 23, 24, 26 e 28). ⚠️ O bullet "A decisão" acima repete o que o cap. 24 já executou em cena ("a única forma de possuí-lo era fazer com que ele quisesse ficar") — o que é novo aqui é **voltar**, não voltar a ser aliado.
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — fechar no instante da escolha irrevogável (voltar = entregar a dianteira da corrida), com botão de ameaça; **não** fechar em deslocamento. Não usar "olhou/partiu para o norte" (gesto repetido nos caps. 22, 23, 24 e 26) nem "escuro" ou "silêncio" no fecho. ⚠️ O bullet "A decisão" acima repete o que o cap. 24 já executou em cena ("a única forma de possuí-lo era fazer com que ele quisesse ficar") — o que é novo aqui é **voltar**, não voltar a ser aliado.
+
+o **⚑ Abertura (passe de fechos, 2026-09-18):** abrir **executando** — Nolan já em cima do terreno (corpos, interrogatório, rastro), não avaliando de longe. A dedução-virada é **"Não foi Kate. Foi Mário."**
 
 #### Capítulo 30 (PoV de Mário) — Novo (Criatura Fantástica)
 
@@ -405,6 +411,8 @@ o **Lakand observa em silêncio.** Viu Mário ler o comportamento dos mortos. Vi
 
 o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — a travessia termina e o capítulo fecha no que Mário **vê** em Lakand depois da névoa, não em paisagem. Alternativa mais page-turner: **Corte A** na revelação do exército de ecos, antes de atravessar (a travessia então abre o cap. 31). ⚠️ O bullet acima está em POV de Lakand ("Lakand sabe que está de fora") — o fecho precisa ser filtrado por Mário.
 
+o **✂️ Marca do passe de fechos (2026-09-18):** o fecho tem de **devolver a decisão a Mário** — é ele quem decide atravessar em silêncio. Manter **Corte C**, sem paisagem no fecho e sem abrir com "E".
+
 #### Capítulo 31 (PoV de Kate) — Reformulado
 
 o Chegam a **outro assentamento**. Gente mais pobre que a anterior — famílias inteiras dormindo ao relento, crianças com olhos de vidro (a doença da Mina). Mário prega novamente — agora com a segurança de quem já viu a teologia funcionar. Depois de curar algumas crianças, um grupo de adultos se aproxima: não querem mais milagres, querem entender. **Mário os batiza no riacho próximo.** É o primeiro batismo da jornada. As pessoas não entendem tudo — a teologia da substituição, a Trindade, a dupla natureza de Cristo — mas entenderam o suficiente: há um Deus que não cobra. E isso, num mundo de dívidas impagáveis, é a notícia mais revolucionária que já ouviram.
@@ -415,13 +423,13 @@ o **Primeira aparição de "Javé" no livro (canon 2026-08-10):** o nome própri
 
 o **A fissura:** Kate observa uma criança cega abraçando a mãe depois que Mário ora por ela. A cena não a comove — mas algo a incomoda. Ela se pega pensando na libertação deles não como estratégia, mas como... necessidade? Abafa o pensamento.
 
-o **Kate identifica quem pode ser treinado.** Enquanto Mário batiza, Kate observa os convertidos com olhos de recrutadora. Identifica os mais jovens, os mais fortes, os que olham Mário com determinação em vez de devoção. Arquiva mentalmente. Não diz nada.
+o **Kate identifica quem pode ser treinado.** Enquanto Mário batiza, Kate observa os convertidos com olhos de recrutadora. Identifica os mais jovens, os mais fortes, os que olham Mário com determinação em vez de devoção. Arquiva mentalmente. Não diz nada. **(É aqui que a semente da rebelião se consolida — o ponteiro antigo dizia "cap. 29+"; ver o ingest do cap. 26.)**
 
 o **Lakand à margem.** Uma criança batizada passa por Lakand sem medo. Olha para ele, sorri, e segue. Lakand não se move. Não sabe o que fazer com aquilo. Pela primeira vez, foi visto como "gente" — e não sabe como responder.
 
 o **Lakand se aproxima:** _"Você está apaixonada."_ Kate não nega — mas também não confirma. Lakand vê algo mais: Kate ainda quer protagonismo. Ela não protege Mário — ela o **usa**. E talvez esteja começando a sentir culpa por isso. Lakand não diz nada. O olhar entre os dois é o de um abismo silencioso.
 
-o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte D com aresta** — fechar na fissura de Kate (a libertação pensada como necessidade, o pensamento abafado), que é a mudança de estado dela. Não fechar em "a Mina fica a dias dali" (repetição do fecho do cap. 26). O recrutamento fica dentro da cena, não no fecho — e é candidato a migrar para o cap. 34 (ver nota de ritmo do bloco).
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte D com aresta** — fechar na fissura de Kate (a libertação pensada como necessidade, o pensamento abafado), que é a mudança de estado dela. Não fechar em "a Mina fica a dias dali" (repetição do fecho do cap. 26). O recrutamento fica dentro da cena, não no fecho — e é candidato a migrar para o cap. 34 (ver nota de ritmo do bloco). Não fechar em partida nem com "norte". **Marca do passe de fechos (2026-09-18):** manter **D com aresta** — a fissura de Kate é a mudança de estado dela; a decisão grande continua sendo de Mário.
 
 ---
 
@@ -471,7 +479,7 @@ o **A ironia:** Ele acha que está tendo uma convicção original. O leitor sabe
 
 o Decide: vai até a Mina de Quartzo. Não para tomar poder — para libertar os escravos.
 
-o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C com gancho de ironia** — fechar no momento em que a decisão se forma (ele *quer* ir), deixando o leitor com o que ele não sabe: que a convicção foi plantada. Não transformar o capítulo em ensaio interior — a decisão é o clímax; cortar nela.
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C com gancho de ironia** — fechar no momento em que a decisão se forma (ele *quer* ir), deixando o leitor com o que ele não sabe: que a convicção foi plantada. Não transformar o capítulo em ensaio interior — a decisão é o clímax; cortar nela. **Marca do passe de fechos (2026-09-18):** a decisão grande tem de ser **de Mário na página** (os caps. 26-28 o deixaram reativo); não fechar em deslocamento, nem com "norte".
 
 #### Capítulo 34 (PoV de Kate) — Reformulado
 
@@ -497,15 +505,19 @@ o **Criança toca Lakand.** Durante a marcha, uma criança — a mesma que sorri
 
 o Mário ora em silêncio. A Voz não diz nada. Mas ele sente — pela primeira vez — que não está sozinho.
 
-o **🌱 SEMENTE (Etemenanki):** Durante a marcha, o grupo cruza uma caverna comum. Numa parede de rocha há um zigurate entalhado em alto-relevo — mas Mário não o identifica como tal. Parece uma torre escalonada, um templo antigo, algo que ele deveria conhecer mas o nome não vem. No topo, uma **serpente alada** esculpida. Abaixo, uma inscrição cuneiforme: _Etemenanki_. Mário passa o dedo sobre os sulcos. Conhece aquele nome. Já viu antes. Onde? Não lembra. "Devo ter lido num artigo qualquer. Rochas formam padrões. Não é nada." Kate passa direto, indiferente. Mário engole a dúvida, mas a serpente alada fica — não como pensamento, como arrepio. _A semente está plantada — ver `temas/sementes.md`, entrada #19._
+o **🌱 SEMENTE (Etemenanki):** Durante a marcha, o grupo cruza uma caverna comum. Numa parede de rocha há um zigurate entalhado em alto-relevo — mas Mário não o identifica como tal. Parece uma torre escalonada, um templo antigo, algo que ele deveria conhecer mas o nome não vem. No topo, uma **serpente alada** esculpida. Abaixo, uma inscrição cuneiforme: _Etemenanki_. Mário passa o dedo sobre os sulcos. Conhece aquele nome. Já viu antes. Onde? Não lembra. "Devo ter lido num artigo qualquer. Rochas formam padrões. Não é nada." Kate passa direto, indiferente. Mário engole a dúvida, mas a serpente alada fica — não como pensamento, como arrepio. _A semente está plantada — ver `temas/sementes.md`, entrada #21 (a registrar)._
 
 o Kate olha para a Mina no horizonte. Lá dentro, escravos — humanos quebrados que Mário vai inspirar. Depois que a Mina cair, ela os terá. E com eles, começará a guerra que Gaviorn'l lhe prometeu.
 
 o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte A** — fechar na semente Etemenanki (a serpente alada como arrepio, não como pensamento): revelação + mistério, antes de qualquer reação, colado no Ponto Central. ⚠️ **Não** fechar com "Kate olha para a Mina no horizonte": além de repetir o gesto de horizonte dos caps. 22-28, é escapada de POV num capítulo de Mário.
 
-> **✂️ Notas de corte e ritmo — Movimento 3 (proposta 2026-09-13).** Mistura de cortes do bloco 29-35: **C** (29), **C/A** (30), **D com aresta** (31), **C** (32), **C com ironia** (33), **B** (34), **A** (35). Nenhum fecho em partida, nenhum "olhar para o norte", nenhum par de fechos do mesmo tipo em sequência. **Regra de trabalho:** nunca dois capítulos seguidos fechando com o mesmo gesto (o bloco 21-28 quebrou essa regra — cinco capítulos fecham olhando ou indo para o norte, e dois deles seguidos, 22 e 23, fecham em partida). A frase-botão também viciou: quatro fechos de 21 a 28 começam com "E" ("E adormeceu", "E Nolan era muito bom...", "E ela ainda tinha a faca e o caminho", "E o de fora"). Alternar a construção do fecho.
+> **✂️ Notas de corte e ritmo — Movimento 3 (proposta 2026-09-13).** Mistura de cortes do bloco 29-35: **C** (29), **C/A** (30), **D com aresta** (31), **C** (32), **C com ironia** (33), **B** (34), **A** (35). Nenhum fecho em partida, nenhum "olhar para o norte", nenhum par de fechos do mesmo tipo em sequência. **Regra de trabalho:** nunca dois capítulos seguidos fechando com o mesmo gesto. O bloco 21-28 quebrou essa regra — **medição de 2026-09-18**: quatro capítulos fecham olhando ou indo para o norte (22, 23, 24 e 26; 22-24 são três seguidos), e o 25 fecha em caminhada sem gancho. A frase-botão também viciou: quatro fechos de 21 a 28 arrematam com "E" ("E adormeceu" (21), "E Nolan era muito bom..." (24), "E ela ainda tinha a faca e o caminho" (26, fim de cena), "E o de fora. Esse era pior." (27)). Alternar a construção do fecho.
 >
 > **Sete capítulos ou menos?** Manter **sete**, com três ajustes: (a) 33 e 34 são capítulos de véspera — escrevê-los curtos (precedente no livro: caps. 3, 11, 14 e 15 entre ~1.300 e ~2.200 palavras), porque **três capítulos de véspera seguidos (33-35) freiam justo antes do Ponto Central**; (b) mover o **recrutamento** de Kate (bullet do cap. 31) para o cap. 34, que é POV dela — o 31 é o capítulo mais sobrecarregado do bloco (batismo + renúncia + "Javé" + fissura + recrutamento + Lakand); (c) o 35 termina em tensão e emenda direto no 36. Se o ritmo ainda pesar, a compressão possível é **fundir 33+34** — perde-se a ironia dupla (Mário convicto de ter decidido sozinho × Kate vendo a isca morder), por isso não é a primeira escolha.
+
+> **✂️ Passe de fechos — bloco 21-28 (checkpoint 2026-09-18).** Mapa medido: 21 fecha em sono/febre (C), 22 em marco guardado (D), 23 em partida para o norte (D), 24 em frase-síntese de Nolan (D), 25 em caminhada até Lakand (C), 26 em ameaça que se aproxima (A), 27 em dois silêncios (A), 28 em **retenção** — guardar sem entender (D). Contagem **A=2, B=0, C=2, D=4** (sequência C-D-D-D-C-A-A-D). Alertas: (a) freada de três D seguidos (22-23-24) e 25 fechando sem gancho; (b) **zero cortes B** no bloco — falta o corte que quebra a expectativa no meio da cena; (c) o 26 é o concentrador (3.162 palavras, 7 eventos, 6 sementes) — testar respiro no congelamento; (d) sem sequência da dupla Mário+Kate entre 26-28; (e) **Mário reativo em 26-28** (risco estrutural #1 aceso) — devolver decisão a ele no cap. 30 e no cap. 33; (f) os casos duvidosos ficaram protegidos por canon (cura do 23 = evento do mundo; cura do 25 = Crise interna ignorada pelo próprio Mário; a Voz do 27 expõe sem socorrer).
+>
+> **Regra de fecho para 29-35 (herdada do checkpoint):** fora do fecho — "norte", "escuro" e "silêncio"; não abrir o fecho com "E"; nunca dois capítulos seguidos com o mesmo tipo de corte; nenhum capítulo fecha em deslocamento de grupo.
 
 ---
 
@@ -525,6 +537,8 @@ o **Mário sente que falhou.** O milagre gerou caos, não paz.
 
 o **Kate vê o exército que queria** — mas o preço foi mais alto que ela imaginava. Pela primeira vez, hesita.
 
+o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas** — beat realocado do cap. 25 (ver `insights/kate-mede-ferramenta.md`): ela lê os sobreviventes como força militar, e a fissura nasce do **preço**, não do arrependimento.
+
 ---
 
 ### Notas estruturais do beat
@@ -535,11 +549,11 @@ o **Kate vê o exército que queria** — mas o preço foi mais alto que ela ima
 | Pista falsa do Castelo de Devour (plantio)         | Caps. 5 (a forma sem nome vista da torre de Opium), 13 (o nome — "castelo de pedra" na boca dos lobisomens), 16 (a pergunta ao nômade), 18 (a esperança morta por Kate — "por que iriam querer te levar de volta?"), 20 (a obediência como contrato: "Se eu fizer o que você manda, você me leva de volta"), 26 (o orgulho reconstruído), 27 (o orgulho quebrado: "Você não é o centro de tudo") |
 | Dupla Mário+Kate funcionando                       | Caps. 28 (ele lê, ela age), 30 (ele convence, ela confia), 32 (Nolan observa)                                                                                                                                      |
 | Caçadores de recompensa                            | Cap. 27 (mercenários menores)                                                                                                                                                                                      |
-| Inquiridores (Vonos quer Mário vivo como novo rei) | Cap. 28 (confronto), Cap. 29 (Nolan infere: querem Mário vivo, ativo do Sinal — o "novo rei" só fecha depois, com o diário de Genocydo)                                                                            |
+| Inquiridores (Vonos quer Mário vivo como novo rei) | Cap. 28 (confronto + o escriba da Ordem: "Ela não apodrece. Precisamos enquadrá-la" — semente #20, o trono), Cap. 29 (Nolan infere: querem Mário vivo, ativo do Sinal — o "novo rei" só fecha depois, com o diário de Genocydo)                                                                            |
 | Criaturas fantásticas                              | Cap. 30 (Moribundos)                                                                                                                                                                    |
-| O arco de Kate — da ferramenta ao protagonismo     | Cap. 20 (escolhe Mário como ferramenta), 23 (confirma: humanos são matéria-prima), 25 (Lakand percebe o plano), 28 (começa a semear), 31 (fissura: empatia nasce), 34 (Mário morde a isca), 35 (Mina no horizonte) |
+| O arco de Kate — da ferramenta ao protagonismo     | Cap. 20 (escolhe Mário como ferramenta), 23 (confirma: humanos são matéria-prima), 25 (Lakand percebe o plano), 26 (sonda o convertido; Lakand a desmascara), 28 (fecha guardando as palavras do trono — retenção, não semeadura), 31 (fissura: empatia nasce), 34 (Mário morde a isca), 35 (Mina no horizonte) |
 | Nolan — o arco do Rei                              | Caps. 22 (sonho: Mário como ferramenta contra doenças), 24 (certeza + veneno), 29 (confronto com Inquiridores), 32 (decide atrair como aliado)                                                                     |
-| Lakand — presente, reticente                       | Caps. 21, 25, 30, 31 (percebe paixão + trama de Kate)                                                                                                                                                              |
+| Lakand — presente, reticente                       | Caps. 21, 25, 26, 30, 31 (percebe paixão + trama de Kate)                                                                                                                                                              |
 
 ## Cadeia da pista falsa — o Castelo de Devour (plantio aplicado 2026-09-13)
 
