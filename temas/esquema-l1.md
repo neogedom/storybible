@@ -11,11 +11,11 @@ timestamp: 2026-09-10T12:00:00-03:00
 > **Fonte de verdade para beats STC:** `temas/arco-stc.md`
 > **Capítulos já escritos (0-27):** `capitulos/capitulo-00.md` a `capitulos/capitulo-27.md`
 >
-> **⚠️ Recalibragem 2026-09-03:** Novo capítulo 2 inserido (Terra — "O Inquérito"). Toda a numeração de capítulos foi deslocada em +1 a partir do antigo cap. 2. A média de palavras por capítulo e a projeção total (~115.000 palavras) permanecem estáveis. As % reais abaixo foram recalibradas para refletir a nova contagem.
+> **⚠️ Recalibragem 2026-09-03:** Novo capítulo 2 inserido (Terra — "O Inquérito"). Toda a numeração de capítulos foi deslocada em +1 a partir do antigo cap. 2. A média de palavras por capítulo e a projeção total (~115.000 palavras) permanecem estáveis. As % reais abaixo foram recalibradas para refletir a nova contagem. (Projeção de ~115.000 palavras **superada** em 2026-09-18 — ver nota de réguas abaixo.)
 >
-> **🔄 Ressincronização 2026-09-11:** a coluna **Palavras** foi medida diretamente nos arquivos do livro; a coluna **% Real** foi recalculada (**acumulado ÷ 115.000**). Capítulos revisados desde a última medição mudaram de número (diferenças maiores: caps. 2, 3 e 23).
+> **🔄 Ressincronização 2026-09-11:** a coluna **Palavras** foi medida diretamente nos arquivos do livro; a coluna **% Real** foi recalculada (**acumulado ÷ 115.000**, na ocasião). Capítulos revisados desde a última medição mudaram de número (diferenças maiores: caps. 2, 3 e 23). (Denominador **trocado para ÷ 137.500** em 2026-09-18 — ver nota de réguas abaixo.)
 >
-> **📏 Réguas de % — decisão de checkpoint (2026-09-18):** a coluna **% Real** é **acumulado real ÷ 115.000** (nominal, até o congelamento). A régua de **planejamento** é o rebaseline de 2026-09-12 (`outline.md`): total provisório **~135.000-140.000**, com o **Ponto Central a ~68% mantido no cap. 36** (≈91.800-95.200 palavras acumuladas). Não existe divisão por ~100.678 em nenhum arquivo — descartada. **Higiene de 2026-09-18:** cinco linhas antigas (caps. 5, 13, 16, 18 e 20) estavam medidas a menos; Palavras e % foram remedidas nos arquivos e corrigidas. As linhas 21-28 (pós anti-slop) já estavam corretas. ⚠️ A coluna **% Plan** está parada em "~38-40%" do cap. 20 em diante (valor copiado da linha anterior) — realinhar no congelamento, junto com as bandas de planejamento.
+> **📏 Réguas de % — decisão de checkpoint (2026-09-18; régua de 137,5k ADOTADA pelo autor):** a coluna **% Real** é **acumulado real ÷ 137.500** — a régua de *planejamento* (rebaseline de 2026-09-12, `outline.md`: total provisório **~135.000-140.000**) substituiu o denominador nominal de 115.000, que **inflava a posição em ~10 pontos** (o cap. 28 aparecia com ~64,6%; na régua real está com **~54,0%**). A divisão por ~100.678 não existe em nenhum arquivo — descartada. **Higiene de 2026-09-18:** cinco linhas antigas (caps. 5, 13, 16, 18 e 20) estavam medidas a menos; Palavras e % foram remedidas nos arquivos e corrigidas. As linhas 21-28 (pós anti-slop) já estavam corretas. **Margem conferida na régua nova:** acumulado até o cap. 28 = **74.301 palavras**; para o Ponto Central chegar no cap. 36 com ≈91.800-95.200, faltam ~2.460/capítulo nos caps. 29-36 (a média do bloco 21-28 foi 2.417/cap) — no ritmo, sem compressão nem folga. ⚠️ A coluna **% Plan** está parada em "~38-40%" do cap. 20 em diante (valor copiado da linha anterior) — realinhar no congelamento, junto com as bandas de planejamento.
 >
 > **📌 Sincronização 2026-09-10:** as seções de detalhe e as referências deste esquema foram re-numeradas para a **numeração nova** — a mesma dos arquivos do livro (`Livro 1/capituloN.md`) e da tabela abaixo. Equivalência nesta sincronização: referência antiga + 1 = referência nova (para capítulos a partir do antigo 2); os caps. 0-1 não mudaram.
 
@@ -23,37 +23,37 @@ timestamp: 2026-09-10T12:00:00-03:00
 
 ## Progressão por Capítulo (Escritos)
 
-| Capítulo | Beat STC                            | POV          | % Planejada (original) | % Real (recalibrada) | Palavras |
+| Capítulo | Beat STC                            | POV          | % Planejada (original) | % Real (÷137,5k)     | Palavras |
 | -------- | ----------------------------------- | ------------ | ---------------------- | -------------------- | -------- |
-| 0        | Imagem de Abertura                  | Nolan + Kate | ~0-2%                  | ~2,6%                | 2.948    |
-| 1        | Configuração                        | Mário        | ~2-5%                  | ~4,9%                | 2.727    |
-| 2        | Configuração (novo)                 | Mário        | ~5-7%                  | ~6,5%                | 1.855    |
-| 3        | Configuração / Catalisador          | Mário        | ~7-10%                 | ~7,7%                | 1.334    |
-| 4        | Debate                              | Nolan        | ~10-12%                | ~10,4%               | 3.044    |
-| 5        | Debate                              | Mário        | ~12-14%                | ~12,7%               | 2.721    |
-| 6        | Debate                              | Kate         | ~14-16%                | ~14,7%               | 2.292    |
-| 7        | Debate                              | Nolan        | ~16-18%                | ~18,7%               | 4.575    |
-| 8        | Debate                              | Mário        | ~18-20%                | ~20,8%               | 2.468    |
-| 9        | Debate                              | Kate         | ~20-22%                | ~23,3%               | 2.867    |
-| 10       | Debate                              | Nolan        | ~22-24%                | ~25,9%               | 3.004    |
-| 11       | Debate                              | Mário        | ~24-26%                | ~27,3%               | 1.556    |
-| 12       | Debate                              | Kate         | ~14-16%                | ~30,4%               | 3.524    |
-| 13       | Debate                              | Mário        | ~26-28%                | ~33,7%               | 3.796    |
-| 14       | Debate                              | Nolan        | ~28-30%                | ~35,6%               | 2.194    |
-| 15       | Debate                              | Kate         | ~30-31%                | ~37,1%               | 1.776    |
-| 16       | Debate                              | Mário        | ~31-32%                | ~39,4%               | 2.649    |
-| 17       | Debate                              | Nolan        | ~32-33%                | ~41,3%               | 2.123    |
-| 18       | Debate                              | Kate         | ~33-35%                | ~43,9%               | 3.070    |
-| 19       | Break Into 2                        | Nolan        | ~35-38%                | ~46,1%               | 2.531    |
-| 20       | Break Into 2                        | Kate         | ~38-40%                | ~47,8%               | 1.912    |
-| 21       | Jogos e Diversão                    | Mário        | ~38-40%                | ~49,8%               | 2.263    |
-| 22       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~51,9%               | 2.486    |
-| 23       | Jogos e Diversão                    | Kate         | ~42-44%                | ~54,0%               | 2.397    |
-| 24       | Jogos e Diversão                    | Nolan        | ~44-46%                | ~56,0%               | 2.266    |
-| 25       | Jogos e Diversão                    | Mário        | ~46-48%                | ~57,9%               | 2.226    |
-| 26       | Jogos e Diversão                    | Kate         | ~48-50%                | ~60,7%               | 3.162    |
-| 27       | Jogos e Diversão                    | Mário        | ~50-52%                | ~62,6%               | 2.199    |
-| 28       | Jogos e Diversão                    | Kate         | ~52-54%                | ~64,6%               | 2.336    |
+| 0        | Imagem de Abertura                  | Nolan + Kate | ~0-2%                  | ~2,1%                | 2.948    |
+| 1        | Configuração                        | Mário        | ~2-5%                  | ~4,1%                | 2.727    |
+| 2        | Configuração (novo)                 | Mário        | ~5-7%                  | ~5,5%                | 1.855    |
+| 3        | Configuração / Catalisador          | Mário        | ~7-10%                 | ~6,4%                | 1.334    |
+| 4        | Debate                              | Nolan        | ~10-12%                | ~8,7%                | 3.044    |
+| 5        | Debate                              | Mário        | ~12-14%                | ~10,6%               | 2.721    |
+| 6        | Debate                              | Kate         | ~14-16%                | ~12,3%               | 2.292    |
+| 7        | Debate                              | Nolan        | ~16-18%                | ~15,6%               | 4.575    |
+| 8        | Debate                              | Mário        | ~18-20%                | ~17,4%               | 2.468    |
+| 9        | Debate                              | Kate         | ~20-22%                | ~19,5%               | 2.867    |
+| 10       | Debate                              | Nolan        | ~22-24%                | ~21,7%               | 3.004    |
+| 11       | Debate                              | Mário        | ~24-26%                | ~22,8%               | 1.556    |
+| 12       | Debate                              | Kate         | ~14-16%                | ~25,4%               | 3.524    |
+| 13       | Debate                              | Mário        | ~26-28%                | ~28,2%               | 3.796    |
+| 14       | Debate                              | Nolan        | ~28-30%                | ~29,7%               | 2.194    |
+| 15       | Debate                              | Kate         | ~30-31%                | ~31,0%               | 1.776    |
+| 16       | Debate                              | Mário        | ~31-32%                | ~33,0%               | 2.649    |
+| 17       | Debate                              | Nolan        | ~32-33%                | ~34,5%               | 2.123    |
+| 18       | Debate                              | Kate         | ~33-35%                | ~36,7%               | 3.070    |
+| 19       | Break Into 2                        | Nolan        | ~35-38%                | ~38,6%               | 2.531    |
+| 20       | Break Into 2                        | Kate         | ~38-40%                | ~40,0%               | 1.912    |
+| 21       | Jogos e Diversão                    | Mário        | ~38-40%                | ~41,6%               | 2.263    |
+| 22       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~43,4%               | 2.486    |
+| 23       | Jogos e Diversão                    | Kate         | ~42-44%                | ~45,2%               | 2.397    |
+| 24       | Jogos e Diversão                    | Nolan        | ~44-46%                | ~46,8%               | 2.266    |
+| 25       | Jogos e Diversão                    | Mário        | ~46-48%                | ~48,4%               | 2.226    |
+| 26       | Jogos e Diversão                    | Kate         | ~48-50%                | ~50,7%               | 3.162    |
+| 27       | Jogos e Diversão                    | Mário        | ~50-52%                | ~52,3%               | 2.199    |
+| 28       | Jogos e Diversão                    | Kate         | ~52-54%                | ~54,0%               | 2.336    |
 | 29       | Jogos e Diversão                    | Nolan        | ~54-56%                | —                     | —        |
 | 30       | Jogos e Diversão                    | Mário        | ~56-58%                | —                     | —        |
 | 31       | Jogos e Diversão                    | Kate         | ~58-60%                | —                     | —        |
@@ -62,7 +62,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 
 ## Jogos e Diversão (~47-68%) — Caps. 21-35
 
-> **⚠️ Recalibrado 2026-08-26:** O beat começou antes do previsto (cap. 21 com ~47% em vez de ~38%) porque o Debate e Break Into 2 ocuparam mais palavras que o planejado. A janela do beat (~47-68%) ainda comporta os caps. 21-35 com folga. O Ponto Central (~68%) deve chegar no cap. 36 com **~91.800-95.200 palavras acumuladas** (rebaseline 2026-09-12: total provisório ~135-140k; o "~80.000" era a projeção ÷115.000).
+> **⚠️ Recalibrado 2026-08-26** (números na régua antiga de 115k; na régua de 137,5k adotada em 2026-09-18: cap. 21 = ~41,6% e cap. 28 = ~54,0%)**:** O beat começou antes do previsto (cap. 21 com ~47% em vez de ~38%) porque o Debate e Break Into 2 ocuparam mais palavras que o planejado. A janela do beat (~47-68%) ainda comporta os caps. 21-35 com folga. O Ponto Central (~68%) deve chegar no cap. 36 com **~91.800-95.200 palavras acumuladas** (rebaseline 2026-09-12: total provisório ~135-140k; o "~80.000" era a projeção ÷115.000).
 
 > **Gênero STC:** Velocino de Ouro — jornada de Mário e Kate em busca de um objetivo (a libertação da Mina de Quartzo), enfrentando desafios, recrutando ajudantes ao longo do caminho, com a dupla funcionando em complemento: Mário pensa e articula (raciocínio abdutivo), Kate age e executa (força física e tática).
 
@@ -375,8 +375,6 @@ o **O confronto hierárquico.** Nolan exige informações. O líder dos Inquirid
 
 o **Os concorrentes — os três caçadores.** Nolan fecha o mapa da corrida: os Inquiridores (Vonos) e ele próprio não são os únicos. Há um terceiro: o próprio Rei. A recompensa é de resgate — "prenda, vivo" — não de cabeça. Genocydo não quer matar o Souhma: **quer possuí-lo como chave da própria divindade.** Três caçadores vivos, três usos de Mário (Estado, trono, apoteose) — nenhum para o bem do próprio Mário.
 
-o **A inteligência de Mário.** Nolan examina o terreno. Percebe: alguém **leu o padrão dos Inquiridores**. Reconheceu a pausa do ritual e se antecipou ao disparo. Não foi Kate. Foi Mário.
-
 o **Nolan entende:** Mário não é só um milagre ambulante. É um **cérebro** que lê padrões, antecipa movimentos, articula soluções. Capturá-lo pela força é impossível — e mesmo que conseguisse, Mário não cooperaria.
 
 o **A decisão:** Nolan precisa chegar antes dos Inquiridores. E quando chegar, precisa se apresentar não como inimigo, mas como **aliado**. A única forma de possuir Mário é fazer com que ele **queira** ficar.
@@ -395,7 +393,7 @@ o **Quem volta com ele (decisão 2026-09-18).** Mira e Saboc vão no retorno —
   mesmo lugar onde a roda foi emendada, e Nolan ainda ouve ali o rastro do
   "feiticeiro" que caça. Ver `decisoes/carruagem-vira-carroca-cap24.md`.
 
-o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — fechar no instante da escolha irrevogável (voltar = entregar a dianteira da corrida), com botão de ameaça; **não** fechar em deslocamento. Não usar "olhou/partiu para o norte" (gesto repetido nos caps. 22, 23, 24 e 26) nem "escuro" ou "silêncio" no fecho. ⚠️ O bullet "A decisão" acima repete o que o cap. 24 já executou em cena ("a única forma de possuí-lo era fazer com que ele quisesse ficar") — o que é novo aqui é **voltar**, não voltar a ser aliado.
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — fechar no instante da escolha irrevogável (voltar = entregar a dianteira da corrida), com botão de ameaça; **não** fechar em deslocamento. **Regra do C (passe de fechos, 2026-09-18):** no instante do corte a consequência tem de ser **simples e visível** — uma imagem (a carroça do incêndio virando para o sul), não um cálculo; consequência complexa no corte lê como abrupto. Não usar "olhou/partiu para o norte" (gesto repetido nos caps. 22, 23, 24 e 26) nem "escuro" ou "silêncio" no fecho. ⚠️ O bullet "A decisão" acima repete o que o cap. 24 já executou em cena ("a única forma de possuí-lo era fazer com que ele quisesse ficar") — o que é novo aqui é **voltar**, não voltar a ser aliado.
 
 o **⚑ Abertura (passe de fechos, 2026-09-18):** abrir **executando** — Nolan já em cima do terreno (corpos, interrogatório, rastro), não avaliando de longe. A dedução-virada é **"Não foi Kate. Foi Mário."**
 
@@ -429,7 +427,7 @@ o **Lakand à margem.** Uma criança batizada passa por Lakand sem medo. Olha pa
 
 o **Lakand se aproxima:** _"Você está apaixonada."_ Kate não nega — mas também não confirma. Lakand vê algo mais: Kate ainda quer protagonismo. Ela não protege Mário — ela o **usa**. E talvez esteja começando a sentir culpa por isso. Lakand não diz nada. O olhar entre os dois é o de um abismo silencioso.
 
-o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte D com aresta** — fechar na fissura de Kate (a libertação pensada como necessidade, o pensamento abafado), que é a mudança de estado dela. Não fechar em "a Mina fica a dias dali" (repetição do fecho do cap. 26). O recrutamento fica dentro da cena, não no fecho — e é candidato a migrar para o cap. 34 (ver nota de ritmo do bloco). Não fechar em partida nem com "norte". **Marca do passe de fechos (2026-09-18):** manter **D com aresta** — a fissura de Kate é a mudança de estado dela; a decisão grande continua sendo de Mário.
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte D com aresta** — fechar na fissura de Kate (a libertação pensada como necessidade, o pensamento abafado), que é a mudança de estado dela. Não fechar em "a Mina fica a dias dali" (repetição do fecho do cap. 26). O recrutamento fica dentro da cena, não no fecho — e é candidato a migrar para o cap. 34 (ver nota de ritmo do bloco). Não fechar em partida nem com "norte". **Marca do passe de fechos (2026-09-18):** manter **D com aresta** — a fissura de Kate é a mudança de estado dela; a decisão grande continua sendo de Mário. **Candidato a Corte B (2026-09-18):** o bloco 21-28 fechou com **zero B** — sintoma do risco estrutural #1 (sem decisão em cena não há dilema para cortar). A casa natural do próximo B é aqui: cortar na **crise do dilema de Kate** (Lakand vê que ela usa Mário; ela não nega, não confirma) em vez da fissura — **troca do ponto de corte, não reescrita da cena**. Reavaliar ao fechar o cap. 30.
 
 ---
 

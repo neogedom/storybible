@@ -5,7 +5,7 @@ capitulo: 23
 titulo: "O Assentamento"
 pov: Kate
 beat_stc: Jogos e Diversão
-percentual_l1: ~42-44%
+percentual_l1: ~45,2% (real, régua 137,5k)
 data_ingest: 2026-08-22
 personagens:
   - Kate (POV)

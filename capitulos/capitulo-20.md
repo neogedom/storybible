@@ -5,7 +5,7 @@ capitulo: 20
 titulo: "O Bebê"
 pov: Kate
 beat_stc: Break Into 2
-percentual_l1: ~38-40%
+percentual_l1: ~40,0% (real, régua 137,5k)
 data_ingest: 2026-07-31
 revisado: 2026-08-06 (sincronizado com o texto final publicado)
 personagens:

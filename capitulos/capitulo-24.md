@@ -5,7 +5,7 @@ capitulo: 24
 titulo: "O Rastro"
 pov: Nolan
 beat_stc: Jogos e Diversão
-percentual_l1: ~44-46%
+percentual_l1: ~46,8% (real, régua 137,5k)
 data_ingest: 2026-08-26
 personagens:
   - Nolan (POV)

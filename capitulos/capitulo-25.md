@@ -5,7 +5,7 @@ capitulo: 25
 titulo: "A Feira de Tronk"
 pov: Mário
 beat_stc: Jogos e Diversão
-percentual_l1: ~58-60%
+percentual_l1: ~48,4% (real, régua 137,5k)
 data_ingest: 2026-09-10
 personagens:
   - Mário (POV)

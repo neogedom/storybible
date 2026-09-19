@@ -8,7 +8,7 @@ timestamp: 2026-08-26T12:00:00-03:00
 
 # Arco STC — Livro 1
 
-> **⚠️ Recalibrado 2026-08-26:** As % abaixo refletem a posição real no word count acumulado (~115.000 palavras estimadas). O L1 está ~10 pontos percentuais à frente do planejado original — o que significa que os beats estão começando mais tarde no word count, não que o ritmo narrativo está errado. O desvio foi incorporado às novas %.
+> **⚠️ Recalibrado 2026-08-26:** As % abaixo refletem a posição real no word count acumulado. **Régua atualizada em 2026-09-18:** a estimativa de ~115.000 palavras para o L1 caiu — a régua de planejamento é o rebaseline de 2026-09-12 (`outline.md`), **~135.000-140.000 palavras**, e a coluna **% Real** do `esquema-l1.md` passou a dividir por **137.500** (a régua antiga inflava a posição em ~10 pontos). O L1 está ~10 pontos percentuais à frente do planejado original — o que significa que os beats estão começando mais tarde no word count, não que o ritmo narrativo está errado. O desvio foi incorporado às novas %.
 >
 > **Consulta detalhada:** `temas/esquema-l1.md` (tabela cap-a-cap com % reais).
 

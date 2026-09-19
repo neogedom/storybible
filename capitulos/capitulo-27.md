@@ -5,7 +5,7 @@ capitulo: 27
 titulo: "O Cerco"
 pov: Mário
 beat_stc: Jogos e Diversão
-percentual_l1: ~62-64%
+percentual_l1: ~52,3% (real, régua 137,5k)
 data_ingest: 2026-09-11
 personagens:
   - Mário (POV)

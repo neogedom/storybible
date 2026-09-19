@@ -5,7 +5,7 @@ capitulo: 28
 titulo: "Não Apodreceu"
 pov: Kate
 beat_stc: Jogos e Diversão
-percentual_l1: ~62-64% (real ~64,5%)
+percentual_l1: ~54,0% (real, régua 137,5k)
 data_ingest: 2026-09-18
 personagens:
   - Kate (POV)

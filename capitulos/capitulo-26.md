@@ -5,7 +5,7 @@ capitulo: 26
 titulo: "O Preço da Fama"
 pov: Kate
 beat_stc: Jogos e Diversão
-percentual_l1: ~60-62%
+percentual_l1: ~50,7% (real, régua 137,5k)
 data_ingest: 2026-09-02
 personagens:
   - Kate (POV)

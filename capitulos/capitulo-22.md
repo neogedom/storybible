@@ -5,7 +5,7 @@ capitulo: 22
 titulo: "A Pira Involuntária"
 pov: Nolan
 beat_stc: Jogos e Diversão
-percentual_l1: ~40-42%
+percentual_l1: ~43,4% (real, régua 137,5k)
 data_ingest: 2026-08-20
 personagens:
   - Nolan

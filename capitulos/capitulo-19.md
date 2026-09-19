@@ -5,7 +5,7 @@ capitulo: 19
 titulo: "O Castelo de Devour"
 pov: Nolan
 beat_stc: Debate -> Break Into 2 (transição)
-percentual_l1: ~33%
+percentual_l1: ~38,6% (real, régua 137,5k)
 data_ingest: 2026-07-26
 personagens:
   - Nolan

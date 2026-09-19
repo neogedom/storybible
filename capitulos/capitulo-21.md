@@ -5,7 +5,7 @@ capitulo: 21
 titulo: "A Crise da Voz"
 pov: Mário
 beat_stc: Jogos e Diversão
-percentual_l1: ~38-40%
+percentual_l1: ~41,6% (real, régua 137,5k)
 data_ingest: 2026-08-17
 personagens:
   - Mário

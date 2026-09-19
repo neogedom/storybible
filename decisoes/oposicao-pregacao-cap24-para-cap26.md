@@ -10,7 +10,8 @@ timestamp: 2026-08-30T12:00:00-03:00
 
 ## Contexto
 
-No cap. 25 (Feira de Tronk, PoV de Mário, Jogos e Diversão ~58,6%), a cena do
+No cap. 25 (Feira de Tronk, PoV de Mário, Jogos e Diversão ~48,4%, régua de
+137,5k), a cena do
 carroceiro que volta para desafiar Mário após a pregação foi identificada como
 **desconexa**: a multidão acabara de ser tocada pelo evangelho ("uma notícia
 que não era uma ameaça"), e um homem que viu o milagre com os próprios olhos

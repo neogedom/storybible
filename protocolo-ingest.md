@@ -18,7 +18,9 @@ Definition of Done (prosa completa, fronteira ok).
 ### Passos (agente, ~15-20 min)
 
 1. Criar `capitulos/capitulo-XX.md` (type: Chapter) com frontmatter mínimo
-   (`pov`, `beat_stc`, `percentual_l1`) e 4 seções curtas: Resumo (3-6 linhas),
+   (`pov`, `beat_stc`, `percentual_l1` — a **posição real** do capítulo na
+   régua vigente; ver nota de réguas em `temas/esquema-l1.md`) e 4 seções
+   curtas: Resumo (3-6 linhas),
    Personagens, Eventos, Sementes e Conexões.
 2. Append em `visuais/<nome>.md`: estado visual de quem apareceu; "não
    aparece" dos esperados.

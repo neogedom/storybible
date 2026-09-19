@@ -2,18 +2,60 @@
 
 ## 2026-09-18 (checkpoint de beat — fecho do bloco "Jogos e Diversão", caps. 21-28)
 
-- **Anti-slop em lote** nos 8 capítulos fechados (21-28): **85 cirurgias**
-  aplicadas na prosa, ~794 palavras cortadas (20.129 → 19.335). Verificação
-  mecânica: zero `*`, zero marcadores `(* ...)`, zero `---` nos 8 arquivos. O
-  cap. 26 foi o mais contaminado do bloco.
+- **Anti-slop em lote** nos 8 capítulos fechados (21-28): **153 mudanças em
+  120 linhas**, medido por `git diff --word-diff` (o "85" do relatório inicial
+  dos agentes era contagem agrupada e **não se reproduz**); ~**794 palavras**
+  cortadas (20.129 → 19.335, contagem oficial nos arquivos — a soma por
+  capítulo pelo diff dá −798, diferença de ±4 por tokenização). Por capítulo
+  (mudanças/linhas/palavras finais): 21 14/12/2.263 · 22 6/5/2.486 · 23
+  38/27/2.397 · 24 26/24/2.266 · 25 21/13/2.226 · 26 36/30/3.162 · 27
+  8/6/2.199 · 28 4/3/2.336. **Os dois mais contaminados são o 26** (maior
+  perda: −222 palavras) **e o 23** (maior número de intervenções: 38, e −215
+  palavras) — a formulação "o 26 foi o mais contaminado" era imprecisa.
+  Muleta dominante do bloco: a construção **"como quem..."** (11 cortadas
+  aqui, 17 sobraram → passe curto em 2026-09-18, bullet abaixo). Verificação
+  mecânica: zero `*`, zero marcadores `(* ...)`, zero `---` nos 8 arquivos.
+  Lista completa das 153 mudanças: relatório `anti-slop-21-28-revisao.md`
+  (workspace da sessão, não versionado) ou `git diff bd6af8a^ bd6af8a` no
+  repo do livro.
 - **Régua de % remedida**: coluna **Palavras** conferida arquivo por arquivo;
-  coluna **% Real** = **acumulado ÷ 115.000**. Cinco linhas antigas estavam
-  defasadas (caps. **5, 13, 16, 18 e 20**) e foram corrigidas; as linhas 21-28
-  já estavam certas. A hipótese de "drift uniforme ÷100.678" foi descartada
-  (essa divisão não existe em nenhum arquivo). Cap. 28: **2.336 palavras**
-  após o anti-slop (o INGEST do capítulo registrou 2.352 — medição anterior às
-  cirurgias). Coluna **% Plan** segue parada em "~38-40%" do cap. 20 em diante
-  — realinhar no congelamento.
+  coluna **% Real** recalculada (na ocasião, acumulado ÷ 115.000). Cinco
+  linhas antigas estavam defasadas (caps. **5, 13, 16, 18 e 20**) e foram
+  corrigidas; as linhas 21-28 já estavam certas. A hipótese de "drift uniforme
+  ÷100.678" foi descartada (essa divisão não existe em nenhum arquivo). Cap.
+  28: **2.336 palavras** após o anti-slop (o INGEST do capítulo registrou
+  2.352 — medição anterior às cirurgias). Coluna **% Plan** segue parada em
+  "~38-40%" do cap. 20 em diante — realinhar no congelamento.
+- **Régua de % ADOTADA (2026-09-18, decisão do autor)**: a coluna **% Real**
+  passou a ser **acumulado real ÷ 137.500** — a régua de *planejamento*
+  (rebaseline de 2026-09-12), no lugar do denominador nominal de 115.000, que
+  **inflava a posição em ~10 pontos**. Denominador refeito nas linhas 0-28 do
+  `esquema-l1.md` (cabeçalho e nota de réguas atualizados) e linha obsoleta do
+  `temas/arco-stc.md` corrigida. Efeito imediato: o cap. 28 sai de "~64,6%"
+  para **~54,0%**. Motivo: as bandas do STC (Jogos até ~68%, Ponto Central no
+  cap. 36 com ≈91.800-95.200 palavras acumuladas) só fecham nesta régua — a
+  régua velha criava pressão para apressar os caps. 29-35.
+- **Margem de palavras conferida**: acumulado até o cap. 28 = **74.301**
+  palavras. Para o cap. 36 chegar em ~94.000, faltam ~19.700 em 8 capítulos =
+  **~2.460/capítulo**; a média real do bloco 21-28 foi 2.417/capítulo →
+  **no ritmo, sem necessidade de compressão nem folga para esticar**.
+- **Passe de fechos — régua do autor gravada (2026-09-18)**: as quatro
+  definições de corte (A/B/C/D: intenção, quando usar, risco) e o **checklist
+  de 3 perguntas** foram gravados em `.github/prompts/passe-fechos.prompt.md`
+  (repo do livro), com uma **emenda**: a pergunta 2 ("mudou de POV? favoreça
+  A/B") não vale automaticamente neste livro, onde o POV gira em quase todo
+  capítulo — vale como **escalada** (favorece A/B só quando o capítulo que sai
+  deixa perigo ou dilema em aberto). O material **confirma** o mapa do bloco
+  21-28 (A=2, B=0, C=2, D=4) e **dá nome ao zero B**: B é o corte da pergunta
+  "quem o personagem vai escolher ser" — sem decisão em cena, não existe B
+  (mesmo ferimento do risco estrutural #1). Registrado também o **risco do
+  Corte C**: no instante do corte, a consequência tem de ser simples e
+  visível.
+- **Candidato a Corte B no cap. 31** (marca gravada no `esquema-l1.md`): a
+  fissura de Kate comporta B se o fecho cortar **na pergunta** (ela vai
+  admitir?), em vez de depois do pensamento abafado (D). É troca do ponto de
+  corte, não reescrita — decisão do autor pendente. A marca do **Corte C no
+  cap. 29** ganhou a exigência acima.
 - **Passe de fechos** (3ª parte do checkpoint): mapa dos caps. 21-28 —
   C-D-D-D-C-A-A-D (**A=2, B=0, C=2, D=4**). Alertas registrados: freada de
   três D seguidos (22-23-24); 25 fecha sem gancho; **zero cortes B** no bloco;
