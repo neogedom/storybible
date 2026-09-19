@@ -375,6 +375,8 @@ o **O confronto hierárquico.** Nolan exige informações. O líder dos Inquirid
 
 o **Os concorrentes — os três caçadores.** Nolan fecha o mapa da corrida: os Inquiridores (Vonos) e ele próprio não são os únicos. Há um terceiro: o próprio Rei. A recompensa é de resgate — "prenda, vivo" — não de cabeça. Genocydo não quer matar o Souhma: **quer possuí-lo como chave da própria divindade.** Três caçadores vivos, três usos de Mário (Estado, trono, apoteose) — nenhum para o bem do próprio Mário.
 
+o **A inteligência de Mário.** Nolan examina o terreno. Percebe: alguém **leu o padrão dos Inquiridores**. Reconheceu a pausa do ritual e se antecipou ao disparo. Não foi Kate. Foi Mário.
+
 o **Nolan entende:** Mário não é só um milagre ambulante. É um **cérebro** que lê padrões, antecipa movimentos, articula soluções. Capturá-lo pela força é impossível — e mesmo que conseguisse, Mário não cooperaria.
 
 o **A decisão:** Nolan precisa chegar antes dos Inquiridores. E quando chegar, precisa se apresentar não como inimigo, mas como **aliado**. A única forma de possuir Mário é fazer com que ele **queira** ficar.

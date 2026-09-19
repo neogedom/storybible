@@ -18,6 +18,24 @@
   Lista completa das 153 mudanças: relatório `anti-slop-21-28-revisao.md`
   (workspace da sessão, não versionado) ou `git diff bd6af8a^ bd6af8a` no
   repo do livro.
+- **Passe curto "como quem..." (2026-09-18, mesmo checkpoint)**: das 17
+  ocorrências remanescentes, **15 cortadas** e **2 mantidas com motivo** —
+  `capitulo21.md:105` (a fórmula fica: caracteriza palavras decoradas e fora
+  do controle de Mário, e ficou única depois que o par duplicado do cap. 23
+  saiu) e `capitulo27.md:61` ("como quem puxa água de um poço": a imagem do
+  puxão de poço não tem substituto sem perder a metáfora). Duas cirurgias
+  resolveram defeito junto: `capitulo22.md:89` ("como quem inventaria" →
+  "inventariando" — o verbo era *inventariar*, não *inventar*) e
+  `capitulo23.md:47` (`Ela falava como quem recita um mapa.` → `A voz dela era
+  mapa.`, que preserva o eco com `capitulo23.md:71`, "a voz não era mapa, era
+  negociação"). **−25 palavras** no bloco (21 −3 · 22 −10 · 23 −4 · 25 −2 ·
+  26 −3 · 27 −3); zero Markdown/travessão introduzido; zero `(* ...)` tocado.
+  **Saldo da muleta no livro inteiro: 21** — as 2 mantidas acima + **19 fora
+  do bloco** (caps. 0-20; concentração no **cap. 18 = 5** e cap. 15 = 3) →
+  candidato a passe próprio, de preferência no congelamento.
+- **⏳ Decisão pendente do autor (`capitulo23.md:47`)**: a linha ficou `A voz
+  dela era mapa.`; se o autor preferir o verbo de fala explícito, alternativas
+  são `Ela falava o mapa de cor.` ou o corte seco do beat.
 - **Régua de % remedida**: coluna **Palavras** conferida arquivo por arquivo;
   coluna **% Real** recalculada (na ocasião, acumulado ÷ 115.000). Cinco
   linhas antigas estavam defasadas (caps. **5, 13, 16, 18 e 20**) e foram
