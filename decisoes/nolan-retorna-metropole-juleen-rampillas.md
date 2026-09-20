@@ -64,6 +64,14 @@ criaturas ("extensão do corpo de Devour"). Isso permite:
   humana; ela se defende (é leviantar de casta baixa); Nolan não quer
   escutar — o preconceito beirando a loucura, espiral descendente que o
   levará a Cressadar e Terbs no fim do L1
+- **A injustiça é o julgamento negado (canon 2026-09-19)**: ela mata por
+  paga, mas o que Nolan lhe nega não é resposta — é processo ("gente como
+  você não merece um julgamento"). Juleen pode pedir julgamento justo ao
+  morrer: a perda da personalidade do homem do método.
+- **A fala-plant (canon 2026-09-19)**: "— Primeiro me pediram só notícia.
+  Depois pediram o resto." Nolan **ouve e descarta**; o leitor guarda. O
+  mandante fica em aberto no L1. Ver
+  `decisoes/mandante-juleen-alvo-linhagem.md`.
 
 > **Correção de localização (2026-08-30):** o enforcamento foi inicialmente
 > registrado no cap. 31, mas o cap. 31 é **POV Kate** (o batismo) — o
@@ -91,8 +99,27 @@ Mira e Saboc **vão no retorno à Metrópole**. Consequências:
 
 ## Impacto na timeline
 
-- **Cap. 29**: Nolan confronta os Inquiridores e deduz que querem Mário vivo
-  (recompensa de resgate) — acontece **antes** do retorno
+- **Cap. 29 (executado, 2026-09-19)**: Nolan colide com os Inquiridores pela
+  custódia — eles **negam** registro e informação ("A Ordem não registra para
+  conselheiros", "Nesta estrada, senhor, quem responde é o Templo"), recolhem
+  os três mortos da Ordem e os instrumentos e deixam os oito mercenários sem
+  nome, sem cova e sem inquérito. O dado que fica: **não lhe perguntam nada**
+  — homens que precisam do rastro perguntam pelo rastro. Nolan **não conclui
+  nada**; fica com a pulga (dose fechada em `personagens/nolan.md`,
+  2026-09-19). Ver `capitulos/capitulo-29.md`.
+- **A carta de Layla sobe pela mala do Trono (canon 2026-09-19)**: Nolan é
+  ainda **Mestre dos Correios** — o ofício não foi destituído. A resposta
+  chega pela posta, endereçada ao nome dele, e o espera na gaveta da casa de
+  correios de Tronk. A mala não espera por ninguém; papel que passa por
+  aquele saco passa por mãos antes de chegar às dele. Ver
+  `conceitos/correios-e-postas.md`.
+- **O gatilho do dilema é o cartaz**, não uma descoberta: a soma oferecida por
+  "o homem que cura" vira dívida no dia em que alguém a cobra, e o cofre está
+  empenhado até a safra (o número bate com a coluna de Koda, cap. 24).
+- **A decisão é tomada em Tronk**, ao anoitecer: seis rampillas sobem a
+  estrada da Mina atrás de Mário e Kate; a raiz-mestra viaja com Nolan no
+  caixote de terra (o nó que sustenta os sentidos à distância). O capítulo
+  fecha em decisão — e no nome de Juleen.
 - **Cap. 31**: batismo no fio de Kate (sem o enforcamento — POV Kate)
 - **Cap. 32**: enforcamento de Juleen (abre o capítulo) + observação de
   Mário/Kate/Lakand **através dos rampillas** — vê a dupla funcionando, a
@@ -109,4 +136,11 @@ Mira e Saboc **vão no retorno à Metrópole**. Consequências:
 - `temas/sementes.md` (#6 — enforcamento no fio de Nolan)
 - `decisoes/carruagem-vira-carroca-cap24.md` (transporte; Mira e Saboc)
 - `personagens/mira.md`, `visuais/mira.md`
+- `capitulos/capitulo-29.md` (INGEST do capítulo — 2026-09-19)
+- `conceitos/correios-e-postas.md` (mala do Trono, prazos, plantios dos caps.
+  19, 25 e 29)
+- `decisoes/mandante-juleen-alvo-linhagem.md` (o alvo é a linhagem)
+- `personagens/dagmar.md` (o que ia nascer), `personagens/nolan.md` (a pulga
+  do cap. 29 + o ofício dos Correios), `conceitos/inquiridores-sinal.md` (a
+  negativa da custódia), `visuais/nolan.md`, `temas/timeline.md` (caps. 21-29)
 - `log.md`

@@ -62,3 +62,16 @@ fora está dentro.
   (por que envenenou Dagmar) permanece sem resposta explícita no L1.
 - Ficha criada 2026-08-16 (personagem antes sem ficha, citada nos caps. 4,
   19 e 32).
+- **Canon 2026-09-19 — o alvo era a linhagem.** Ela não foi comprada para
+  matar Dagmar: foi comprada para matar **o que ia nascer** — o herdeiro que
+  uniria a casa Guenayer (política, conhecimento) à Addorbek (linhagem do
+  primeiro leviantar de fogo, as Espadas da Lei). Primeiro pediram notícia,
+  depois o resto. Ver `decisoes/mandante-juleen-alvo-linhagem.md`.
+- **Canon 2026-09-19 — a fala antes de morrer (cap. 32).** "— Primeiro me
+  pediram só notícia. Depois pediram o resto." Nolan **ouve e descarta** (lê
+  como desculpa de condenada); o leitor guarda. Juleen pode pedir julgamento
+  justo ao morrer — a resposta dele é preconceito, não justiça.
+- **Canon 2026-09-19 — o fecho do cap. 29.** Nolan passa a ter nome, endereço
+  e prazo: ela está viva, num burgo de humanos na beira do Cran, pedindo
+  trabalho em cozinha de estalagem. É a conta que ele decide fechar com a
+  própria mão.

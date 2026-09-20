@@ -20,6 +20,12 @@ Espada da Lei é Addorbek, mas todos são descendentes distantes (primos dos
 Addorbek). O pai de Dagmar, General Valinor Addorbek, é a ponta visível dessa
 conexão no L1.
 
+**O alvo da morte (canon 2026-09-19):** Juleen foi comprada para matar **o que
+ia nascer** — o filho que uniria a casa Guenayer (política e conhecimento) à
+Addorbek (linhagem do primeiro leviantar de fogo, as Espadas da Lei). O que se
+mata não é a esposa: é a **linhagem** — e é isso que Nolan nunca chega a
+nomear. Ver `decisoes/mandante-juleen-alvo-linhagem.md`.
+
 Sua função narrativa: ser o espelho que Nolan não quer olhar. Enquanto Nolan
 calcula variáveis geopolíticas, Dagmar está ali, silenciosa, gestante,
 morrendo aos poucos dentro da carruagem.

@@ -87,6 +87,20 @@ timestamp: 2026-07-24T12:00:00-03:00
   acumulado); o bebê nasce sem ar
 - **Plantio 3**: L1, Cap. 24 — na estrada da caçada, a parteira-ama (conhece ervas) comenta de forma **despretensiosa** o cheiro de vembra na senhora (comentário casual sobre chá de melissa); **é Nolan quem liga os pontos** e escreve a Layla para investigar. NÃO é o "rampilla esperto" (autômatos não falam — ver `conceitos/rampillas.md`). (Correção 2026-08-30: a decisão 08-19 previa cap. 26, mas o cap. 26 é POV Kate — a revelação fica no cap. 24.)
 - **Plantio 4**: L1, Cap. 32 — Nolan descobre, enforca Juleen
+- **Plantio 5 + mandante (canon 2026-09-19)**: L1, Cap. 32 — antes de morrer,
+  Juleen fala: "— Primeiro me pediram só notícia. Depois pediram o resto."
+  Plantio do **mandante** (ela foi comprada em duas etapas). Nolan **ouve e
+  descarta** (lê como desculpa de condenada); o leitor guarda. Sem nome, sem
+  autor, sem motivo em cena — o mistério fica aberto no L1.
+  Ver `decisoes/mandante-juleen-alvo-linhagem.md`.
+- **O alvo era a linhagem (canon 2026-09-19)**: o que se mata não é Dagmar —
+  é **o que ia nascer**: o filho uniria a casa **Guenayer** (política,
+  conhecimento) à **Addorbek** (linhagem do primeiro leviantar de fogo; as
+  Espadas da Lei). A falha do Sinal reabre o cálculo; Terbs compra pelo canal
+  de Benjamim, que compra quem já está dentro (a aia).
+- **A injustiça de Nolan (canon 2026-09-19)**: o erro do cap. 32 não é matar
+  Juleen — é **negar-lhe julgamento**. Juleen pode pedir julgamento justo
+  quando estiver morrendo: a perda da personalidade do homem do método.
 - **Misatribuição inicial (canon 2026-08-16)**: entre o cap. 19 (morte) e a
   pista da vembra (cap. 24), a explicação operativa de Nolan é a ideologia:
   Dagmar morreu pelo contato com humanos na viagem (eco do pai, que
@@ -316,7 +330,9 @@ timestamp: 2026-07-24T12:00:00-03:00
   Kraviam, um terráqueo** (como Mário). Só aí Nolan fecha o padrão de Vonos:
   um terráqueo no trono (Kraviam) → agora outro (Mário). **Esse elo NÃO está
   disponível a Nolan no cap. 29** (correção 2026-08-10) — em caps. 26/29,
-  Nolan deduz apenas que querem Mário vivo, sem saber por quê.
+  **Nolan não deduz nada**: mede o que falta (corpos deles, instrumentos,
+  registro negado) e fica com a pulga de que há algo a mais que não está sendo
+  dito. Dose fechada em `personagens/nolan.md` (2026-09-19).
 - **A SEMENTE DA APOSTASIA (refinamento 2026-08-10; correção 2026-08-11)**: mais
   do que a lógica política, o diário revela a **mentira fundadora**: Vonos — o
   deus da VERDADE — trouxe Kraviam para o EXPERIMENTO (um "filho de Deus" no
@@ -421,5 +437,43 @@ timestamp: 2026-07-24T12:00:00-03:00
   que ele saiba.
 - **Risco**: não explicar o trono na página do cap. 28. A frase fica como
   frase de ofício — quem ouve não pergunta e o leitor fica com a pulga.
+
+## 21. Germinação do Evangelho — o status em Ornick
+
+- **O que é**: não é o "boato do Souhma" (#8), é a **doutrina** correndo por
+  conta própria, sem Mário e sem instituição. O medidor não é o que se prega:
+  é **o que estranhos repetem de ouvido**, já torto, em feira de beira de
+  estrada.
+- **Plantios executados**:
+  - Cap. 23:135 — o boato do Souhma como "fogo em palha seca".
+  - Cap. 25 — Feira de Tronk (PoV Mário): a cura, o sermão em quatro
+    movimentos, a primeira conversão. A doutrina ganha nome e forma.
+  - Cap. 26 — a oposição: "feiticeiro", a multidão racha, o convertido se
+    perde. Germinar não é crescer: é contaminar e ser rejeitado.
+  - **Cap. 29 (executado, 2026-09-19) — Feira de Tronk, PoV Nolan**: ele ouve
+    pedaços tortos do sermão na boca do povo (a mulher que não precisa pagar,
+    o menino da água, o homem de dente podre: "há alguém que assina por quem
+    não podia assinar"). O reconhecimento é do **desenho da frase** — a
+    doutrina do livro que ele levou ao Conselho anda sem dono e não precisa
+    dele para andar. Mesmo lugar do cap. 25, olhos opostos.
+- **Função no cap. 29 — o que isso muda em Nolan** (exigência do autor: a cena
+  precisa avançar o fio, não decorar):
+  1. **Reconhecimento** — as frases deformadas soam como o **livro** que ele
+     levou ao Conselho: a Bíblia de Kraviam (#2), o livro que ninguém leu. A
+     doutrina que ele usou como instrumento contra Genocydo está viva na boca
+     de camponeses: o instrumento escapou da mão dele.
+  2. **Aritmética fiscal** — o que circula promete salvação **sem pagamento**,
+     e a Metrópole vive de dívida herdada (cap. 25, a economia da Mina). Um
+     credo que anula dívida, sem templo e sem cofre, é ameaça que Nolan sabe
+     medir em números. Mário deixa de ser "farsante fugitivo" e passa a ser
+     **portador de algo que anda sozinho** — e é isso que dá urgência à
+     decisão dele no fim do capítulo.
+  - ⚠️ O narrador **não nomeia** nada disso. Sai em fala de estranho, em verso
+    torto repetido, e no silêncio de Nolan depois de ouvir.
+- **Germinação (futuro)**: L1 caps. 30+ (a doutrina chega a quem Nolan não
+  controla) e L2 (a instituição tentando enquadrar o que já não tem dono).
+  Liga-se a #2 (Bíblia de Kraviam), #8 (Inquiridor do Sinal) e #20 (o trono).
+- **Risco**: virar cena de exposição sociológica. Se o leitor não ouvir **duas
+  ou três frases tortas concretas**, o fio não conta.
 
 _Atualizar a cada INGEST de capítulo._

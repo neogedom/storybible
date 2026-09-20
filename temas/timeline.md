@@ -37,5 +37,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 | 10-13 | Mário/Kate/Nolan | Bíblia; Charles; Lakand; nômades                      |
 | 14-19 | Nolan/Kate/Mário | Conselho; viagem; captura; Dagmar morre               |
 | 20    | Kate             | Milagre de Saboc; Kate escolhe Mário                  |
+| 21    | Mário            | Fuga do castelo em chamas; 1ª leitura abdutiva; "com quem você estava falando?" |
+| 22    | Nolan            | A pira involuntária; Mathias salva Saboc; a aliança de prata arrancada do dedo morto |
+| 23    | Kate             | O assentamento: a cura sem intenção da menina paralítica; os primeiros que se ajoelham |
+| 24    | Nolan            | O rastro: o milagre é replicável; Mira e o cheiro de vembra; as três cartas; Mathias parte |
+| 25    | Mário            | A feira de Tronk: a cura intencional; o evangelho; a conversão genuína |
+| 26    | Kate             | O preço da fama: "feiticeiro"; o debate; a recompensa escala; os convertidos se perdem |
+| 27    | Mário            | O cerco da caverna; o confronto com A Voz |
+| 28    | Kate             | A emboscada dos Inquiridores; Kate não apodrece; "Ele terá o trono. Vonos garante." |
+| 29    | Nolan            | A negativa da custódia; a doutrina torta em Tronk; o cartaz; a carta de Layla; ordem à Mina e partida ao sul |
 
 _Timeline parcial — expandir a cada INGEST de capítulo._

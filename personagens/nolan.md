@@ -225,6 +225,70 @@ são as premissas.
   até o cap. 32. O click com a Bíblia de Kraviam é de categoria (um deus
   fora do Conselho), não de leitura.
 
+### A escada Nolan ↔ Inquiridores — 5 passos (canon 2026-09-19)
+
+A colisão do cap. 29 não é ruptura súbita: é o **quinto degrau**. Escada
+fechada pelo autor para que Nolan não "vire" cedo contra Vonos.
+
+1. **Cap. 7 — a Ordem como garantia.** Nolan quer que os Inquiridores
+   enquadrem o boato do souhma como farsa: supõe que leriam a situação como
+   ele lê (não há souhma real). Não são adversários — são o braço doutrinário
+   do próprio juízo dele.
+2. **O Templo de Rifte se esvazia** (a plantar no cap. 29 como **memória**,
+   não como revelação). Ele sabe que os Inquiridores deixaram o Templo e estão
+   na estrada atrás de um homem que chamam de souhma — **semanas antes** de
+   qualquer ordem dele. Estranheza sem conclusão: por que uma instituição
+   deslocaria gente por um farsante?
+3. **Cap. 19 — a intimação a Devour.** Os Inquiridores reclamam a custódia de
+   Mário. Nolan ainda crê que querem o mesmo que ele (provar a farsa); no
+   máximo quer chegar primeiro, para usar a exposição pública do farsante
+   contra os boatos do Sinal falhado.
+4. **Caps. 19-20 — depois de Saboc.** O milagre derruba a moldura privada: o
+   Estrangeiro é real. Nolan liga o interesse da Ordem ao poder de Mário — mas
+   ainda supõe que eles **não vetariam** sua custódia (mesma fé; e a custódia
+   é dele por selo e posição).
+5. **Cap. 29 — a colisão.** Os Inquiridores **negam** a informação que têm
+   sobre Mário. É aqui que ele entende que os interesses deles estão **contra**
+   os seus, não ao lado. Vonos deixa de ser o fiador do juízo de Nolan e passa
+   a ser dono de outro projeto. **Primeiro degrau da deserção — não a
+   deserção.**
+
+### Cap. 29 — a pulga: direção certa, dose fechada (canon 2026-09-19)
+
+**Nolan não conclui nada** no cap. 29 sobre forasteiros no trono. Ele não sabe
+— nem pode saber — que Genocydo ou Mário são de fora de Ornick (isso só fecha
+com o diário, semente #15). O que existe na página é **aritmética da ausência**,
+em vocabulário de juiz:
+
+- **zero** mortos deles no terreno (levaram os três corpos da Ordem);
+- **zero** instrumentos (bacia, revólver e o diapasão limpo, encaixotado —
+  resta o entalhe vazio na pedra);
+- **os mercenários ficam no chão** sem registro, sem inquérito, sem cova: para
+  o Templo, gente que nunca existiu;
+- o **registro negado** a quem tem selo para registrá-lo.
+
+No arquivo de mão própria, a linha com a coluna **"natureza" em branco**: fatos
+sem crime. Ele sabe que há algo a mais que não está sendo dito e que **isso
+pesa** — e não consegue nomear o quê. Nunca usar o narrador para nomear a pulga
+("sentiu que havia algo maior"). A conclusão sobre Vonos enchendo o trono de
+forasteiros é germinação futura, não fala do 29.
+
+### Cap. 29 — o ofício dos Correios continua no nome dele (canon 2026-09-19)
+
+**Nolan ainda é Mestre dos Correios no L1** — o ofício não foi destituído.
+Provas: no cap. 7 é a **ele** que Genocydo pergunta pelas cartas com o selo de
+Lorde Devour, e é ele quem diz "fui eu quem as despachei" (o antraz da Guerra
+do Grifo). No cap. 29 a máquina aparece em cena pela primeira vez com
+mecanismo completo: a resposta de Layla sobe de posta em posta, endereçada ao
+nome dele, e o espera na gaveta da casa de correios de Tronk. **A mala não
+esperava por ninguém, nem por ele.**
+
+Ironia do capítulo: o instrumento que ele criou funciona sem ele — e papel que
+passa por aquele saco passa por mãos antes de chegar às dele, inclusive as que
+decidem sem ele. Correção de canon: o correio é instrumento de Nolan, não
+canal de Benjamim (os canais de Benjamim são o Rei, os resultados públicos da
+corte e o livro privado da aia). Ver `conceitos/correios-e-postas.md`.
+
 _Atualizado a cada INGEST de capítulo._
 
 ## Citações

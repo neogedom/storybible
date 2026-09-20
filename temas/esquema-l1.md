@@ -54,7 +54,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 26       | Jogos e Diversão                    | Kate         | ~48-50%                | ~50,7%               | 3.162    |
 | 27       | Jogos e Diversão                    | Mário        | ~50-52%                | ~52,3%               | 2.199    |
 | 28       | Jogos e Diversão                    | Kate         | ~52-54%                | ~54,0%               | 2.336    |
-| 29       | Jogos e Diversão                    | Nolan        | ~54-56%                | —                     | —        |
+| 29       | Jogos e Diversão                    | Nolan        | ~54-56%                | ~55,9%               | 2.624    |
 | 30       | Jogos e Diversão                    | Mário        | ~56-58%                | —                     | —        |
 | 31       | Jogos e Diversão                    | Kate         | ~58-60%                | —                     | —        |
 
@@ -371,15 +371,54 @@ o **🏁 Nota de checkpoint (2026-09-18 — fecho do beat "Jogos e Diversão", c
 
 o **O encontro com os Inquiridores.** Nolan chega ao local da emboscada. Os Inquiridores ainda estão lá, recolhendo os corpos dos companheiros que Kate abateu. **Mário escapou.**
 
-o **O confronto hierárquico.** Nolan exige informações. O líder dos Inquiridores recusa — eles respondem a Nuh d'Teraghar e a Vonos, não a Nolan. **Mas a recusa em si é confissão** (dedução de Nolan, não informação dada): os corpos no terreno mostram uma tentativa de **relocar** o Souhma — a função conhecida dos Revólveres de Auditoria — não de executá-lo; e a hierarquia fechada prova que Mário é tratado como **ativo do Sinal**: algo que Vonos quer intacto e na própria custódia. **Nolan NÃO sabe ainda por quê — e isso é de propósito.**
+o **A memória do passo 2 (plantio 2026-09-19).** Uma frase, sem comentário: os
+  Inquiridores **saíram do Templo de Rifte e estavam na estrada semanas antes**
+  de qualquer ordem dele — atrás de um homem que chamavam de souhma. Não fazia
+  sentido então, e não faz agora. É o degrau que sustenta o que vem depois
+  (escada de 5 passos em `personagens/nolan.md`).
 
-o **Os concorrentes — os três caçadores.** Nolan fecha o mapa da corrida: os Inquiridores (Vonos) e ele próprio não são os únicos. Há um terceiro: o próprio Rei. A recompensa é de resgate — "prenda, vivo" — não de cabeça. Genocydo não quer matar o Souhma: **quer possuí-lo como chave da própria divindade.** Três caçadores vivos, três usos de Mário (Estado, trono, apoteose) — nenhum para o bem do próprio Mário.
+o **A colisão da custódia (2026-09-19 — o 5º degrau).** Nolan exige o registro
+  da ação; o líder dos Inquiridores recusa — respondem a Nuh d'Teraghar e a
+  Vonos, não a um conselheiro com selo. **Não há confissão nenhuma na recusa**,
+  e Nolan **não deduz nada** do que vê: o que existe é a informação **negada** a
+  quem tem autoridade para registrá-la. É aqui que ele entende, sem nomear, que
+  os interesses da Ordem estão **contra** os seus — não ao lado.
 
-o **A inteligência de Mário.** Nolan examina o terreno. Percebe: alguém **leu o padrão dos Inquiridores**. Reconheceu a pausa do ritual e se antecipou ao disparo. Não foi Kate. Foi Mário.
+o **A aritmética da ausência (a pulga — dose fechada pelo autor, 2026-09-19).**
+  Nolan lê o terreno medindo o que falta: **zero** mortos deles no chão (levaram
+  os três corpos da Ordem), **zero** instrumentos (bacia, revólver, diapasão
+  limpo — resta o **entalhe vazio na pedra**) e os **mercenários abandonados**
+  sem registro, sem inquérito, sem cova: para o Templo, gente que nunca
+  existiu. No arquivo de mão própria, a linha com a coluna **"natureza" em
+  branco** — fatos sem crime. Ele sabe que há algo a mais que não está sendo
+  dito e que **isso pesa**; não consegue nomear o quê. ⚠️ Nada de "Vonos põe
+  forasteiros no trono": ele nem sabe que Genocydo ou Mário são de fora de
+  Ornick (só o diário fecha isso, semente #15). Nada de narrador nomeando a
+  pulga.
 
-o **Nolan entende:** Mário não é só um milagre ambulante. É um **cérebro** que lê padrões, antecipa movimentos, articula soluções. Capturá-lo pela força é impossível — e mesmo que conseguisse, Mário não cooperaria.
+o **Os mercenários e o edital (gatilho, não informação nova).** Nolan vê o
+  **edital de recompensa** ("prenda, vivo") e faz a conta que importa: os
+  mercenários estão na estrada, e quem vai para a Metrópole entrega Mário a
+  eles antes de chegar. O mapa dos três caçadores o leitor já tem — aqui ele só
+  **decide**.
 
-o **A decisão:** Nolan precisa chegar antes dos Inquiridores. E quando chegar, precisa se apresentar não como inimigo, mas como **aliado**. A única forma de possuir Mário é fazer com que ele **queira** ficar.
+o **A doutrina na boca do povo (semente #21 — a germinação).** Na mesma feira,
+  Nolan ouve pedaços tortos do sermão do cap. 25 repetidos por estranhos, e as
+  frases soam como o **livro** que ele levou ao Conselho (a Bíblia de Kraviam —
+  clique de categoria, sem revelar que era a Bíblia). Duas consequências, sem
+  narrador explicando: (1) o instrumento que ele usou contra Genocydo **anda
+  sozinho** — não precisa de Mário para circular; (2) um credo que promete
+  salvação **sem pagamento** numa terra que vive de dívida herdada é ameaça que
+  ele sabe medir em números. Mário deixa de ser farsante fugitivo e passa a ser
+  **portador de algo que se espalha**. A feira também lhe dá a **direção** (a
+  estrada da Mina).
+
+o **O dilema da bifurcação.** Em Tronk a estrada racha: **ao sul, onze dias até
+  a Metrópole** (a carta de Layla, a vembra, Juleen, Saboc vivo — o que só ele
+  pode resolver); **ao norte, a estrada da Mina**, atrás de Mário e Kate. Ir ao
+  sul é entregar a dianteira e o homem aos mercenários; ir ao norte é deixar a
+  Metrópole decidir a vida dele sem ele. Não é escolha entre dois bens: é
+  escolha entre duas perdas — e ele escolhe a que dá para segurar de longe.
 
 o **O retorno à Metrópole (decisão 2026-08-30).** Nolan recebe a **carta de
   resposta de Layla** sobre a vembra e decide que precisa voltar para
@@ -395,9 +434,30 @@ o **Quem volta com ele (decisão 2026-09-18).** Mira e Saboc vão no retorno —
   mesmo lugar onde a roda foi emendada, e Nolan ainda ouve ali o rastro do
   "feiticeiro" que caça. Ver `decisoes/carruagem-vira-carroca-cap24.md`.
 
-o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — fechar no instante da escolha irrevogável (voltar = entregar a dianteira da corrida), com botão de ameaça; **não** fechar em deslocamento. **Regra do C (passe de fechos, 2026-09-18):** no instante do corte a consequência tem de ser **simples e visível** — uma imagem (a carroça do incêndio virando para o sul), não um cálculo; consequência complexa no corte lê como abrupto. Não usar "olhou/partiu para o norte" (gesto repetido nos caps. 22, 23, 24 e 26) nem "escuro" ou "silêncio" no fecho. ⚠️ O bullet "A decisão" acima repete o que o cap. 24 já executou em cena ("a única forma de possuí-lo era fazer com que ele quisesse ficar") — o que é novo aqui é **voltar**, não voltar a ser aliado.
+o **⚑ A raiz-mestra e o campo (pedido do autor, 2026-09-19 — mecanismo
+  fechado no texto).** Nolan despacha a caçada e abre o canal com Ossan: a raiz-mestra
+  volta ao palco com corpo, não como lembrança. Fatos que restringem a cena:
+  (a) o controle exige **contato** com a raiz (cap. 22) e o alcance é limitado
+  por ela — "ou exige um nó intermediário" (`conceitos/rampillas.md`); (b)
+  Nolan **não pode** voltar ao castelo; (c) os rampillas já viajam com ele
+  desde o castelo (cap. 24) e obedecem no campo. **Proposta do agente**: um
+  **nó/corte da raiz-mestra** viaja no caixote de terra, na carroça — resolve
+  (a) e (b), dá corpo físico à coleira de Ossan e explica retroativamente o
+  cap. 24. **Função dramática no 29**: a força equivalente a Inquiridores e
+  mercenários existe — mas é operada pelo único homem em quem Nolan não pode
+  confiar. Violência igual, precisão menor (não rastreiam como a "frequência"
+  dos Inquiridores; a inteligência do rastro é do Ossan). ✔ **Executado no
+  cap. 29 (2026-09-19):** o corte da raiz viaja no caixote de terra preta, na
+  carroça; Ossan põe a mão aberta na terra e as seis criaturas se põem de pé
+  ao mesmo tempo. O preço vai dito em cena: "Sem ela, eles param onde
+  estiverem. E o senhor para de ver por eles."
 
-o **⚑ Abertura (passe de fechos, 2026-09-18):** abrir **executando** — Nolan já em cima do terreno (corpos, interrogatório, rastro), não avaliando de longe. A dedução-virada é **"Não foi Kate. Foi Mário."**
+o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — fechar no instante da escolha irrevogável (voltar = entregar a dianteira da corrida), com botão de ameaça; **não** fechar em deslocamento. **Regra do C (passe de fechos, 2026-09-18):** no instante do corte a consequência tem de ser **simples e visível** — uma imagem (a carroça do incêndio virando para o sul), não um cálculo; consequência complexa no corte lê como abrupto. Não usar "olhou/partiu para o norte" (gesto repetido nos caps. 22, 23, 24 e 26) nem "escuro" ou "silêncio" no fecho. ⚠️ O que é novo neste capítulo é **voltar** (o cap. 24 já executou em cena que a única forma de possuir Mário é fazer com que ele queira ficar) — e o que o retorno custa: a caçada segue sem ele.
+
+o **⚑ Abertura (passe de fechos, 2026-09-18):** abrir **executando** — Nolan já em cima do terreno (corpos, interrogatório, rastro), não avaliando de longe. A virada não é dedução sobre Mário (essa leitura saiu do capítulo, 2026-09-19): é a **aritmética da ausência** — ele mede o que falta no terreno antes de ter nome para o que mede.
+
+o **✔ Escrito (2026-09-19).** Cap. 29 fechado em 2.624 palavras (acumulado
+  76.925 = ~55,9% da régua). Ver `capitulos/capitulo-29.md`.
 
 #### Capítulo 30 (PoV de Mário) — Novo (Criatura Fantástica)
 

@@ -183,3 +183,30 @@ alvo a eliminar: é **caso a medir**.
 frequência é conhecida. Não será difícil reencontrá-lo."** O objetivo de
 fundo eles declaram entre si: **"Ele terá o trono. Vonos garante."** (semente
 #20; ver `temas/sementes.md`).
+
+## A negativa da custódia (canon 2026-09-19 — cap. 29)
+
+Primeira colisão aberta entre a Ordem e a Coroa, na pessoa de um conselheiro
+com selo. Os Inquiridores **não** registram, **não** repartem informação e
+**não** perguntam:
+
+- **"A Ordem não registra para conselheiros."** O pedido de registro cai em
+  jurisdição, não em conflito — e a jurisdição é declarada em voz alta: **"A
+  Ordem responde a Nuh d'Teraghar."**
+- **"Nesta estrada, senhor, quem responde é o Templo."** A Ordem se coloca
+  como a autoridade local, acima do selo do Trono.
+- **"Não entram no livro — nem os vivos, nem os mortos."** O escriba recusa o
+  registro até dos mercenários que trabalhavam com eles. Nolan paga do bolso
+  para cobrir os mortos com pedra; o nome não existe em lugar nenhum.
+- **A ausência de perguntas é o dado.** Nolan oferece repartir o que a Ordem
+  sabe e ninguém lhe pergunta pelo homem, pela hora, pelo número, pela
+  direção: "Homens que precisam do rastro perguntam pelo rastro." Quem não
+  pergunta já sabe.
+- **A recolha é parte do fecho**: levam os três mortos da Ordem, as três
+  caixas e o rolo de papel com o registro. Deixam oito corpos sem cova, sem
+  nome e sem inquérito — para o Templo, gente que nunca existiu.
+
+**Efeito em Nolan:** a custódia deixa de ser assunto comum entre a Ordem e a
+Coroa. Ele **nota** que há algo que não está sendo dito e **não conclui**
+nada — a pulga (dose fechada em `personagens/nolan.md`). Ver
+`capitulos/capitulo-29.md`.

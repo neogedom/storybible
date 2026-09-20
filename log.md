@@ -1,5 +1,50 @@
 # Log de Atualizações
 
+## 2026-09-19 (cap. 29 fechado — Mini-INGEST)
+
+- **Cap. 29 escrito e fechado** (PoV Nolan): 167 linhas / **2.624 palavras**;
+  acumulado **76.925 = ~55,9%** da régua de 137,5k. Prosa em
+  `Livro 1/capitulo29.md`. Título de trabalho: **"A Conta"** (provisório,
+  sujeito ao autor).
+- **Mini-INGEST criado**: `capitulos/capitulo-29.md`,
+  `conceitos/correios-e-postas.md`,
+  `decisoes/mandante-juleen-alvo-linhagem.md`. Atualizados: `temas/sementes.md`
+  (#6, #21), `conceitos/inquiridores-sinal.md`, `personagens/juleen.md`,
+  `personagens/nolan.md`, `personagens/dagmar.md`, `visuais/nolan.md`,
+  `temas/esquema-l1.md` (tabela + bloco), `temas/timeline.md` (caps. 21-29),
+  `decisoes/nolan-retorna-metropole-juleen-rampillas.md`.
+- **Canon corrigido — os Correios.** Nolan **continua Mestre dos Correios** no
+  L1; o correio é instrumento **dele**, não canal de Benjamim (canais de
+  Benjamim: o Rei, os resultados públicos da corte, o livro privado da aia).
+  Provas: cap. 7 (Genocydo pergunta a ele pelas cartas com o selo de Lorde
+  Devour; e "fui eu quem as despachei") e cap. 29 ("O ofício continuava no
+  nome dele"). Mecanismo completo em `conceitos/correios-e-postas.md`.
+- **Plantios da infraestrutura de correios** (para não soar conveniência no
+  29): `capitulo25.md:3` (casa de taipa, cavalo trocado a galope, saco
+  lacrado) e `capitulo19.md:27` (dois cavalos selados atrás do curral; "a mala
+  do Trono passava por ali").
+- **Cortes aprovados**: `capitulo24.md` perdeu as duas frases finais — a
+  explicitação da estratégia ("A única forma de possuí-lo era fazer com que
+  ele quisesse ficar") e o remate ("E Nolan era muito bom em fazer as pessoas
+  quererem o que ele queria"). O capítulo fecha em "…mas como aliado."; a
+  formulação da estratégia fica para o cap. 32, e o 29 firma a decisão de ir
+  à Metrópole. O 29, por sua vez, perdeu a cena que levava Nolan a concluir
+  que Mário agiu contra o revólver (lida como fraca pelo autor).
+- **Decisões aprovadas**: (a) alvo de Juleen = **a linhagem** (o que ia
+  nascer), não a esposa — `decisoes/mandante-juleen-alvo-linhagem.md`;
+  (b) injustiça de Nolan = **julgamento negado**, não a morte; (c) fala-plant
+  do cap. 32 aprovada ("— Primeiro me pediram só notícia. Depois pediram o
+  resto."), a ser ouvida e descartada por Nolan; (d) a pulga do 29 = aritmética
+  da ausência (corpos, instrumentos, registro negado), **sem** conclusão sobre
+  Vonos ou forasteiros no trono; (e) a raiz-mestra volta por um nó/corte no
+  caixote de terra, com os rampillas em campo (executado no texto).
+- **Fecho do 29**: a decisão em Tronk fecha com o **nome** (Juleen), não com
+  deslocamento — o cartaz na banca é o gatilho, não informação nova.
+- **Checkpoint de beat (passo 7 do Mini-INGEST)**: **1 capítulo** desde
+  2026-09-18 (bloco 21-28) → **não oferecer**; dispara por volta do cap. 34.
+- **Pendências**: título do cap. 29 a confirmar; commits nos dois repos
+  (Livro e storybible) ainda não feitos.
+
 ## 2026-09-18 (checkpoint de beat — fecho do bloco "Jogos e Diversão", caps. 21-28)
 
 - **Anti-slop em lote** nos 8 capítulos fechados (21-28): **153 mudanças em

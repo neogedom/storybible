@@ -97,6 +97,42 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Relação**: interroga Mira; envia Mathias; confia em Ossan por controle (raiz-mestra), não por lealdade
 - **Séquito**: rampillas (~dezena), Mira com Saboc, Mathias montado, Ossan, cocheiro (guia a carroça), dois servos
 
+## Capítulos 25-28 — ausente
+
+- _Não aparece em cena_ (POVs de Mário e Kate: a feira de Tronk, o cerco, a
+  fuga pela caverna). No cap. 29 Nolan está dois dias atrás dos
+  acontecimentos, no terreno onde tudo terminou.
+
+## Capítulo 29 — A Conta
+
+- **Vestimenta**: roupas de viagem escuras e práticas, sujas de dois dias de
+  estrada; botas de campo
+- **Óculos**: sim
+- **Acessórios**: o caderno de registro e a bolsa de campo; a faca com que
+  abre a tampa do caixote
+- **Local**: o terreno da água e da fenda (sítio da emboscada do cap. 28,
+  dois dias ao norte de Tronk) → a feira de Tronk (banca do tabelião, forja,
+  casa de correios) → a estrada do sul, ao anoitecer
+- **Expressão**: frieza de trabalho no terreno (percorre os mortos como uma
+  folha de inventário); atenção sem testemunhas na feira; nenhuma fúria em
+  cena — e, no fecho, uma firmeza baixa, dita para a estrada
+- **Ação**: pede o registro da ação e é negado; manda cobrir os oito mortos
+  com pedra e anotar data e número; ouve a doutrina torta na feira; lê o
+  cartaz da recompensa; recebe a carta de Layla na casa de correios; abre o
+  caixote e encosta dois dedos na terra; dá a ordem a Ossan; parte ao sul
+- **Objetos de cena**: o caderno com a palavra *natureza* e o espaço em
+  branco ao lado; o cartaz com o selo do Trono pregado por quatro cravos; o
+  papel dobrado em quatro com o lacre do Trono inteiro; o corte de
+  raiz-mestra vivo no caixote de terra preta
+- **Relação**: com os Inquiridores, a primeira derrota aberta — e por
+  desprezo, não por força; com Ossan, a ordem dada e o preço dito em voz
+  alta; com Mira e Saboc, nenhuma palavra; com Juleen, o nome que ele diz
+  sozinho no fim
+- **Séquito**: Ossan; seis rampillas (partem para a estrada da Mina); Mira
+  com Saboc no colo; o carroceiro e a carroça de roda emendada
+- **Iluminação**: sol alto e poeira no terreno → luz de fim de tarde na feira
+  → anoitecer na estrada do sul
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->
