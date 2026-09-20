@@ -450,12 +450,16 @@ timestamp: 2026-07-24T12:00:00-03:00
     movimentos, a primeira conversão. A doutrina ganha nome e forma.
   - Cap. 26 — a oposição: "feiticeiro", a multidão racha, o convertido se
     perde. Germinar não é crescer: é contaminar e ser rejeitado.
-  - **Cap. 29 (executado, 2026-09-19) — Feira de Tronk, PoV Nolan**: ele ouve
+  - **Cap. 29 (executado 2026-09-19; reestruturado 2026-09-20) — Feira de
+    Tronk, na subida, PoV Nolan**: ele ouve
     pedaços tortos do sermão na boca do povo (a mulher que não precisa pagar,
     o menino da água, o homem de dente podre: "há alguém que assina por quem
     não podia assinar"). O reconhecimento é do **desenho da frase** — a
     doutrina do livro que ele levou ao Conselho anda sem dono e não precisa
     dele para andar. Mesmo lugar do cap. 25, olhos opostos.
+  - **Plantio novo (2026-09-20)**: a caçada no rastro errado — os seis entram
+    no mato atrás do sangue-isca que Kate deixou de propósito (cap. 28). O
+    leitor sabe; Nolan não. Numerar quando o índice de sementes for revisado.
 - **Função no cap. 29 — o que isso muda em Nolan** (exigência do autor: a cena
   precisa avançar o fio, não decorar):
   1. **Reconhecimento** — as frases deformadas soam como o **livro** que ele
@@ -467,7 +471,8 @@ timestamp: 2026-07-24T12:00:00-03:00
      credo que anula dívida, sem templo e sem cofre, é ameaça que Nolan sabe
      medir em números. Mário deixa de ser "farsante fugitivo" e passa a ser
      **portador de algo que anda sozinho** — e é isso que dá urgência à
-     decisão dele no fim do capítulo.
+     decisão dele (a carta de Layla é o gatilho; a doutrina é a segunda
+     pancada, agora na subida).
   - ⚠️ O narrador **não nomeia** nada disso. Sai em fala de estranho, em verso
     torto repetido, e no silêncio de Nolan depois de ouvir.
 - **Germinação (futuro)**: L1 caps. 30+ (a doutrina chega a quem Nolan não

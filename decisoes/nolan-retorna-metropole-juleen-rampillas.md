@@ -99,27 +99,35 @@ Mira e Saboc **vão no retorno à Metrópole**. Consequências:
 
 ## Impacto na timeline
 
-- **Cap. 29 (executado, 2026-09-19)**: Nolan colide com os Inquiridores pela
-  custódia — eles **negam** registro e informação ("A Ordem não registra para
-  conselheiros", "Nesta estrada, senhor, quem responde é o Templo"), recolhem
-  os três mortos da Ordem e os instrumentos e deixam os oito mercenários sem
-  nome, sem cova e sem inquérito. O dado que fica: **não lhe perguntam nada**
-  — homens que precisam do rastro perguntam pelo rastro. Nolan **não conclui
-  nada**; fica com a pulga (dose fechada em `personagens/nolan.md`,
-  2026-09-19). Ver `capitulos/capitulo-29.md`.
+- **Cap. 29 (executado 2026-09-19; reestruturado 2026-09-20)**: Nolan colide
+  com os Inquiridores pela custódia — eles **negam** registro e informação ("A
+  Ordem não registra para conselheiros", "Nesta estrada, senhor, quem responde
+  é o Templo"), recolhem os três mortos da Ordem e os instrumentos e deixam os
+  oito mercenários sem nome, sem cova e sem inquérito. O dado que fica: **não
+  lhe perguntam nada** — homens que precisam do rastro perguntam pelo rastro.
+  Nolan **não conclui nada**; fica com a pulga (dose fechada em
+  `personagens/nolan.md`, 2026-09-19). Ver `capitulos/capitulo-29.md`.
+- **Dois movimentos (2026-09-20)**: Tronk na subida (a roda, a feira e a
+  doutrina, a carta de Layla, a provisão de onze dias) e o sítio (os oito, o
+  edital no bolso do homem do machado, a negativa da custódia, a ordem). A
+  caçada sai **no sítio**, sem retraçar caminho: os seis entram no mato pela
+  boca da fenda; Ossan desce com Nolan.
 - **A carta de Layla sobe pela mala do Trono (canon 2026-09-19)**: Nolan é
   ainda **Mestre dos Correios** — o ofício não foi destituído. A resposta
   chega pela posta, endereçada ao nome dele, e o espera na gaveta da casa de
   correios de Tronk. A mala não espera por ninguém; papel que passa por
   aquele saco passa por mãos antes de chegar às dele. Ver
   `conceitos/correios-e-postas.md`.
-- **O gatilho do dilema é o cartaz**, não uma descoberta: a soma oferecida por
-  "o homem que cura" vira dívida no dia em que alguém a cobra, e o cofre está
-  empenhado até a safra (o número bate com a coluna de Koda, cap. 24).
-- **A decisão é tomada em Tronk**, ao anoitecer: seis rampillas sobem a
-  estrada da Mina atrás de Mário e Kate; a raiz-mestra viaja com Nolan no
-  caixote de terra (o nó que sustenta os sentidos à distância). O capítulo
-  fecha em decisão — e no nome de Juleen.
+- **O gatilho do retorno é a carta de Layla** (correção 2026-09-20), lida em
+  Tronk **na subida**: Juleen viva e localizável, e o Conselho reunido duas
+  vezes sem ele. O **edital** entra depois, no bolso de um mercenário morto, e
+  apenas **materializa** a soma que ele já conhecia de ouvir dizer — sem
+  cálculo contra o cofre.
+- **O fim da caça se dá no sítio** (correção 2026-09-20): a Ordem tomou o
+  rastro. A decisão é falada ali mesmo, com Ossan — Nolan desce para a
+  Metrópole e deixa os **seis na rota, sem condutor**; a raiz-mestra viaja com
+  ele (o nó que sustenta os sentidos à distância, cap. 32). O capítulo fecha
+  nos seis entrando no mato e **não** nomeia Juleen.
 - **Cap. 31**: batismo no fio de Kate (sem o enforcamento — POV Kate)
 - **Cap. 32**: enforcamento de Juleen (abre o capítulo) + observação de
   Mário/Kate/Lakand **através dos rampillas** — vê a dupla funcionando, a

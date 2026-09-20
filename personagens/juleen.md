@@ -71,7 +71,7 @@ fora está dentro.
   pediram só notícia. Depois pediram o resto." Nolan **ouve e descarta** (lê
   como desculpa de condenada); o leitor guarda. Juleen pode pedir julgamento
   justo ao morrer — a resposta dele é preconceito, não justiça.
-- **Canon 2026-09-19 — o fecho do cap. 29.** Nolan passa a ter nome, endereço
-  e prazo: ela está viva, num burgo de humanos na beira do Cran, pedindo
-  trabalho em cozinha de estalagem. É a conta que ele decide fechar com a
-  própria mão.
+- **Canon 2026-09-19; posição ajustada 2026-09-20 — a carta do cap. 29.** O
+  nome entra pela carta de Layla, lida em Tronk **na subida** (não no fecho):
+  ela está viva, num burgo de humanos na beira do Cran, pedindo trabalho em
+  cozinha de estalagem. É a conta que ele decide fechar com a própria mão.

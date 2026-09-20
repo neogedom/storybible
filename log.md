@@ -1,5 +1,37 @@
 # Log de Atualizações
 
+## 2026-09-20 (cap. 29 reestruturado — ordem causal corrigida)
+
+- **Problema:** o cap. 29 lia como se Nolan desistisse de Mário **antes** de
+  receber a carta. A ordem causal foi invertida: **carta → sítio → ordem aos
+  seis**.
+- **Prosa reescrita** (`Livro 1/capitulo29.md`, **2.740 palavras**; antes
+  2.624): dois movimentos — **Tronk na subida** (a roda, a feira e a doutrina,
+  a carta, a notícia do ferreiro, a provisão de onze dias) e **o sítio** (os
+  oito, o edital no bolso, a negativa da custódia, a ordem aos seis, o fecho no
+  mato). O capítulo **não** volta a Tronk.
+- **O edital** deixou de ser cartaz no poste: entra pelo bolso do **homem do
+  machado do cap. 26** — o que anunciou a recompensa e recrutou os oito —, com
+  a soma por extenso e em números (materialização da ordem de grandeza, sem
+  cálculo contra o cofre).
+- **Plant aplicado no cap. 28**: Kate reconhece o homem do machado pelo corte
+  que ela mesma lhe abriu entre as costelas.
+- **Fecho novo:** Ossan lê o valor ("um valor grande o bastante para colocar
+  meio mundo atrás dele") e pergunta se ele vai largar a caçada; Nolan não
+  larga — força do mesmo peso, mais rápida sem carroça, sem mula e sem
+  farinha, um objetivo só —, desce para a Metrópole e os seis entram no mato
+  atrás do **sangue-isca da Kate**. **Ossan vai com ele**: os seis ficam sem
+  condutor.
+- **Cuidados de continuidade (posto ao norte do cap. 26):** Nolan passa pelo
+  posto **sem parar** (ninguém sai, ninguém olha) e a notícia em Tronk fala só
+  dos que subiram **por conta da soma**.
+- **Decisões derrubadas:** "abrir executando" no terreno; decisão tomada em
+  Tronk ao anoitecer; o número contra a coluna de Koda; o fecho nomeando
+  Juleen. A corrigir em `temas/esquema-l1.md` e
+  `decisoes/nolan-retorna-metropole-juleen-rampillas.md`.
+- **Arquivos:** `capitulos/capitulo-29.md`, `capitulos/capitulo-28.md`,
+  `temas/timeline.md`, `visuais/nolan.md`, `log.md`.
+
 ## 2026-09-19 (cap. 29 fechado — Mini-INGEST)
 
 - **Cap. 29 escrito e fechado** (PoV Nolan): 167 linhas / **2.624 palavras**;

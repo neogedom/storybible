@@ -273,6 +273,27 @@ pesa** — e não consegue nomear o quê. Nunca usar o narrador para nomear a pu
 ("sentiu que havia algo maior"). A conclusão sobre Vonos enchendo o trono de
 forasteiros é germinação futura, não fala do 29.
 
+### Cap. 29 — a ordem aos seis e a volta (canon 2026-09-20)
+
+**Estrutura do capítulo (reestruturado a pedido do autor).** Ordem causal: a
+**carta** (Tronk, na subida) torna o retorno necessário; o **sítio** mata a
+caça (a Ordem tomou o rastro); a **ordem** acontece ali. Ele sobe mesmo depois
+de ler a carta por razão de método: notícia de feira não é registro, e sem
+saber em que mão o homem caiu os seis não têm rastro para onde ir.
+
+**A ordem.** Ossan lê o edital ("É um valor grande o bastante para colocar meio
+mundo atrás dele") e pergunta se ele vai largar a caçada. Nolan não larga:
+força do mesmo peso na rota, mais rápida sem carroça, sem mula e sem os onze
+dias de farinha, um objetivo só (achar os dois, seguir de longe, segurar se a
+recompensa chegar perto primeiro). Ele desce para a Metrópole — "O que é meu,
+eu fecho com a minha mão" — e **não nomeia Juleen em cena**; o nome entrou pela
+carta.
+
+**O preço.** A raiz viaja com ele e com Ossan; a fala que fecha a coleira é
+"Enquanto a raiz estiver com o senhor, elas fazem o que o senhor mandou. Nada
+mais." Os seis vão **sem condutor** — e tomam o rastro mais novo, que é o
+sangue-isca que Kate deixou de propósito (o leitor sabe; ele não).
+
 ### Cap. 29 — o ofício dos Correios continua no nome dele (canon 2026-09-19)
 
 **Nolan ainda é Mestre dos Correios no L1** — o ofício não foi destituído.

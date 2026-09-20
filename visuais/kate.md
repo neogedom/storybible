@@ -30,7 +30,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Postura    | De gatinho para fora da fenda; corre alta, sem esconder o braço (isca); imóvel sob os galhos, respiração contada (quatro para puxar, quatro para soltar) |
 | Sujeira    | Poeira da estrada; sangue no antebraço e na mão da faca                          |
 | Iluminação | Antes da luz (madrugada); o escuro da fenda, depois o cinza do mato              |
-| Fundo      | Beira da água com os mercenários em fila, os cavalos sem sela, as três caixas; mato alto e moita fechada de galho morto |
+| Fundo      | Beira da água com os mercenários em fila, os cavalos sem sela, as três caixas; mato alto e moita fechada de galho morto. Na fila, **reconhece o homem do machado do cap. 26** pelo corte que ela mesma lhe abriu entre as costelas (plant do cap. 29 — 2026-09-20) |
 
 ## Capítulo 27 — O Cerco
 

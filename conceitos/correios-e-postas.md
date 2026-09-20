@@ -73,9 +73,10 @@ ordens que o dispensem. É a versão logística do que a doutrina faz no cap. 29
   casaco de couro chega a galope, passa um saco lacrado pela janelinha e leva
   o cavalo sem desmontar. "Ninguém na feira achou aquilo digno de olhar duas
   vezes."
-- **Cap. 29 (POV Nolan).** Execução: ele dá o nome, o dono da casa de
-  correios abre a gaveta e tira a resposta de Layla. É o mesmo cômodo de
-  taipa que Mário viu de longe no cap. 25.
+- **Cap. 29 (POV Nolan — na subida).** Execução: ele dá o nome, o dono da casa
+  de correios abre a gaveta e tira a resposta de Layla. É o mesmo cômodo de
+  taipa que Mário viu de longe no cap. 25. A carta é lida **antes** do sítio —
+  é ela que torna o retorno necessário (reestruturação de 2026-09-20).
 
 ## Fronteira
 

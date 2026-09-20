@@ -28,6 +28,7 @@ sementes:
   - "#20 — O Trono do Estrangeiro: plantio executado (as palavras que Kate guarda)"
   - "#9 — O manto de xilomagia: primeiro uso na prosa (a carga começa a queimar)"
   - "\"Sua frequência é conhecida\" — a caça não recua (gancho do cap. 29)"
+  - "O homem do machado do cap. 26 na fila dos mortos: Kate reconhece o corte que ela mesma lhe abriu no lado (plant para o cap. 29 — 2026-09-20)"
 ---
 
 # Capítulo 28 — Não Apodreceu
@@ -94,7 +95,7 @@ Os três que sobram param. Kate grita a rota, corre alta deixando rastro de sang
 - **Diapasão de Saramant (caps. 18/19).** Retomado por Kate: o tom subiu quando ela e Mário se aproximaram — agora ela fecha a inferência (o Sinal marcou Mário) e escolhe o silêncio.
 - **"Três chifres" (caps. 6 e 21).** O manto vem de Tharin — "o três chifres inútil, agora morto" — a posse por conquista registrada na fenda da semente #9.
 - **Rohdis (canon do autor, 2026-09-18).** "Seus instrutores do Rohdis lhe tinham dito" — os gornads vêm do Rohdis; o treino de Kate é lá.
-- **Fronteira (cap. 29).** Fecho misto: fuga + informação. Como o cap. 27, o gancho não é perseguição, é revelação — a Ordem recolhe os mortos e afirma que voltará. O cap. 29 abre com Nolan no mesmo terreno, com os Inquiridores ainda recolhendo os companheiros que Kate abateu e Mário já fora do alcance.
+- **Fronteira (cap. 29).** Fecho misto: fuga + informação. Como o cap. 27, o gancho não é perseguição, é revelação — a Ordem recolhe os mortos e afirma que voltará. O cap. 29 passa por **Tronk, na subida**, antes de chegar ao mesmo terreno, dois dias depois: os Inquiridores ainda recolhem os companheiros que Kate abateu, e Mário segue fora do alcance. O reconhecimento do homem do machado, aqui, é o plant do **edital** que Nolan encontra no bolso dele.
 
 ## Notas de ingest (2026-09-18)
 

@@ -45,6 +45,6 @@ timestamp: 2026-07-24T12:00:00-03:00
 | 26    | Kate             | O preço da fama: "feiticeiro"; o debate; a recompensa escala; os convertidos se perdem |
 | 27    | Mário            | O cerco da caverna; o confronto com A Voz |
 | 28    | Kate             | A emboscada dos Inquiridores; Kate não apodrece; "Ele terá o trono. Vonos garante." |
-| 29    | Nolan            | A negativa da custódia; a doutrina torta em Tronk; o cartaz; a carta de Layla; ordem à Mina e partida ao sul |
+| 29    | Nolan            | Tronk na subida: a carta de Layla (Juleen viva; o Conselho sem ele), a doutrina torta na feira; dois dias ao norte, a fila dos oito, o edital no bolso de um morto e a negativa da custódia; ordem aos seis e volta à Metrópole |
 
 _Timeline parcial — expandir a cada INGEST de capítulo._

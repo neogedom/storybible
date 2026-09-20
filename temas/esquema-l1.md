@@ -402,23 +402,24 @@ o **Os mercenários e o edital (gatilho, não informação nova).** Nolan vê o
   eles antes de chegar. O mapa dos três caçadores o leitor já tem — aqui ele só
   **decide**.
 
-o **A doutrina na boca do povo (semente #21 — a germinação).** Na mesma feira,
-  Nolan ouve pedaços tortos do sermão do cap. 25 repetidos por estranhos, e as
-  frases soam como o **livro** que ele levou ao Conselho (a Bíblia de Kraviam —
-  clique de categoria, sem revelar que era a Bíblia). Duas consequências, sem
-  narrador explicando: (1) o instrumento que ele usou contra Genocydo **anda
-  sozinho** — não precisa de Mário para circular; (2) um credo que promete
-  salvação **sem pagamento** numa terra que vive de dívida herdada é ameaça que
-  ele sabe medir em números. Mário deixa de ser farsante fugitivo e passa a ser
-  **portador de algo que se espalha**. A feira também lhe dá a **direção** (a
-  estrada da Mina).
+o **A doutrina na boca do povo (semente #21 — a germinação).** Na feira, na
+  **subida**, Nolan ouve pedaços tortos do sermão do cap. 25 repetidos por
+  estranhos, e as frases soam como o **livro** que ele levou ao Conselho (a
+  Bíblia de Kraviam — clique de categoria, sem revelar que era a Bíblia). Duas
+  consequências, sem narrador explicando: (1) o instrumento que ele usou contra
+  Genocydo **anda sozinho** — não precisa de Mário para circular; (2) um credo
+  que promete salvação **sem pagamento** numa terra que vive de dívida herdada
+  é ameaça que ele sabe medir em números. Mário deixa de ser farsante fugitivo
+  e passa a ser **portador de algo que se espalha**. A feira também lhe dá a
+  **direção** (a estrada da Mina).
 
-o **O dilema da bifurcação.** Em Tronk a estrada racha: **ao sul, onze dias até
-  a Metrópole** (a carta de Layla, a vembra, Juleen, Saboc vivo — o que só ele
-  pode resolver); **ao norte, a estrada da Mina**, atrás de Mário e Kate. Ir ao
-  sul é entregar a dianteira e o homem aos mercenários; ir ao norte é deixar a
-  Metrópole decidir a vida dele sem ele. Não é escolha entre dois bens: é
-  escolha entre duas perdas — e ele escolhe a que dá para segurar de longe.
+o **O dilema (corrigido em 2026-09-20).** O gatilho do retorno é a **carta de
+  Layla**, lida em Tronk **na subida**: Juleen viva e localizável, o Conselho
+  reunido duas vezes sem ele. Nolan compra provisão para onze dias — de volta —
+  e **sobe assim mesmo**: não decide sobre boato, e sem saber em que mão o
+  homem caiu os seis não têm rastro para onde ir. O fim da caça acontece no
+  **sítio**, não no cruzamento — a Ordem tomou o rastro. Ele não escolhe entre
+  dois bens: escolhe a perda que dá para segurar de longe.
 
 o **O retorno à Metrópole (decisão 2026-08-30).** Nolan recebe a **carta de
   resposta de Layla** sobre a vembra e decide que precisa voltar para
@@ -427,12 +428,13 @@ o **O retorno à Metrópole (decisão 2026-08-30).** Nolan recebe a **carta de
   Inquiridores ganham vantagem. Mas agora ele tem os **olhos dos rampillas**
   (sentidos à distância, operados por Ossan — ver `conceitos/rampillas.md`).
 
-o **Quem volta com ele (decisão 2026-09-18).** Mira e Saboc vão no retorno —
-  o herdeiro entra na Metrópole (peso contra Juleen no cap. 32). Transporte:
-  a carroça do incêndio, **consertada na Feira de Tronk** (carroceiros/forja;
-  cruzamento da estrada da Mina com a estrada para o sul) — a volta começa no
-  mesmo lugar onde a roda foi emendada, e Nolan ainda ouve ali o rastro do
-  "feiticeiro" que caça. Ver `decisoes/carruagem-vira-carroca-cap24.md`.
+o **Quem volta com ele (decisão 2026-09-18; ajuste 2026-09-20).** Mira e
+  Saboc vão no retorno — o herdeiro entra na Metrópole (peso contra Juleen no
+  cap. 32) — e **Ossan também** ("Preciso de rampillas na Metrópole também").
+  Transporte: a carroça do incêndio, **consertada na forja de Tronk, na
+  subida** (cruzamento da estrada da Mina com a estrada para o sul) — e é ali,
+  na subida, que ele ouve o rastro do "feiticeiro" que caça. Ver
+  `decisoes/carruagem-vira-carroca-cap24.md`.
 
 o **⚑ A raiz-mestra e o campo (pedido do autor, 2026-09-19 — mecanismo
   fechado no texto).** Nolan despacha a caçada e abre o canal com Ossan: a raiz-mestra
@@ -447,17 +449,32 @@ o **⚑ A raiz-mestra e o campo (pedido do autor, 2026-09-19 — mecanismo
   mercenários existe — mas é operada pelo único homem em quem Nolan não pode
   confiar. Violência igual, precisão menor (não rastreiam como a "frequência"
   dos Inquiridores; a inteligência do rastro é do Ossan). ✔ **Executado no
-  cap. 29 (2026-09-19):** o corte da raiz viaja no caixote de terra preta, na
-  carroça; Ossan põe a mão aberta na terra e as seis criaturas se põem de pé
-  ao mesmo tempo. O preço vai dito em cena: "Sem ela, eles param onde
-  estiverem. E o senhor para de ver por eles."
+  cap. 29 (2026-09-19; ajustado em 2026-09-20):** o corte da raiz viaja no
+  caixote de terra preta, com **Nolan e Ossan** para o sul; Ossan põe a mão
+  aberta na terra e as seis criaturas se põem de pé ao mesmo tempo. O preço,
+  dito por ele: "Enquanto a raiz estiver com o senhor, elas fazem o que o
+  senhor mandou. **Nada mais**." Os seis vão **sem condutor** — e é isso que
+  torna a delegação assustadora.
 
-o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — fechar no instante da escolha irrevogável (voltar = entregar a dianteira da corrida), com botão de ameaça; **não** fechar em deslocamento. **Regra do C (passe de fechos, 2026-09-18):** no instante do corte a consequência tem de ser **simples e visível** — uma imagem (a carroça do incêndio virando para o sul), não um cálculo; consequência complexa no corte lê como abrupto. Não usar "olhou/partiu para o norte" (gesto repetido nos caps. 22, 23, 24 e 26) nem "escuro" ou "silêncio" no fecho. ⚠️ O que é novo neste capítulo é **voltar** (o cap. 24 já executou em cena que a única forma de possuir Mário é fazer com que ele queira ficar) — e o que o retorno custa: a caçada segue sem ele.
+o **✂️ Corte do capítulo (2026-09-13; reescrito 2026-09-20):** **Corte C** —
+fechar no instante da escolha irrevogável, com botão de ameaça; **não** fechar
+  em deslocamento de grupo. **Regra do C:** a consequência tem de ser **simples
+  e visível** — uma imagem, não um cálculo. No texto: a decisão falada (Ossan
+  pergunta se ele vai largar a caçada; Nolan responde que desce para a
+  Metrópole, "o que é meu, eu fecho com a minha mão") e, como consequência, os
+  **seis entrando no mato** atrás do sangue-isca da Kate. Não usar
+  "olhou/partiu para o norte" (gesto repetido nos caps. 22, 23, 24 e 26) nem
+  "escuro" ou "silêncio" no fecho.
 
-o **⚑ Abertura (passe de fechos, 2026-09-18):** abrir **executando** — Nolan já em cima do terreno (corpos, interrogatório, rastro), não avaliando de longe. A virada não é dedução sobre Mário (essa leitura saiu do capítulo, 2026-09-19): é a **aritmética da ausência** — ele mede o que falta no terreno antes de ter nome para o que mede.
+o **⚑ Abertura (2026-09-18; revista em 2026-09-20):** a regra de "abrir
+  executando no terreno" caiu com a reestruturação — o capítulo abre no
+  **cruzamento de Tronk**, com ele trabalhando (a roda na forja, a feira, o
+  correio), e o terreno passa a ser o segundo movimento. O que a regra
+  protegia continua de pé: ele não avalia de longe — age, e a virada segue
+  sendo a **aritmética da ausência**, medida no terreno.
 
-o **✔ Escrito (2026-09-19).** Cap. 29 fechado em 2.624 palavras (acumulado
-  76.925 = ~55,9% da régua). Ver `capitulos/capitulo-29.md`.
+o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 29 fechado em
+  **2.740 palavras** (antes 2.624). Ver `capitulos/capitulo-29.md`.
 
 #### Capítulo 30 (PoV de Mário) — Novo (Criatura Fantástica)
 

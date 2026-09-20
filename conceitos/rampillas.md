@@ -102,11 +102,13 @@ Nolan, conhecendo o jardim e a raiz-mestra (ver cap. 22 e
   alcance limitado pela raiz-mestra (a distância Metrópole→norte é o
   limite, ou exige um "nó" intermediário); foco dividido (sentir através de
   muitos ao mesmo tempo é custoso — Nolan alterna entre os que importam).
-- **Operado por Ossan (decisão 2026-08-30)**: quando Nolan retorna à
-  Metrópole (cap. 29-32), Ossan opera os sentidos dos rampillas deixados no
-  encalço de Mário. Nolan NÃO aprende o mecanismo — a dependência mantém a
+- **Operado por Ossan (decisão 2026-08-30; ajuste 2026-09-20)**: quando Nolan
+  retorna à Metrópole (cap. 29-32), Ossan **viaja com ele** e opera os sentidos
+  dos rampillas deixados no encalço de Mário — a partir do caixote com a raiz
+  que vai na carroça. Nolan NÃO aprende o mecanismo — a dependência mantém a
   tensão, e Ossan pode filtrar ou sabotar o que Nolan vê (bomba-relógio do
-  L2).
+  L2). Os seis que ficam no mato vão **sem condutor**: obedecer, obedecem; o
+  que não há é quem saiba pensar por eles (cap. 29).
 
 ## Prompt de Referência Canônica (criatura)
 
