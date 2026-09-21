@@ -1,7 +1,7 @@
 ---
 type: Concept
 name: Rampillas
-ultimo_capitulo: 22
+ultimo_capitulo: 29
 ---
 
 # Rampillas
@@ -61,8 +61,22 @@ Lanças e machados de lâmina larga.
   Ossan LHE ENTREGA o comando via raiz-mestra** — cede por sobrevivência,
   não lealdade; a entrega é a âncora da tensão (dependência mútua: Nolan
   precisa de quem sabe operar; Ossan precisa de quem o mantém vivo).
-  (correção 2026-08-10)
-
+  (correção 2026-08-10)- **Cap. 29 — a força delegada sem condutor (executado 2026-09-19).** Nolan
+  desce para a Metrópole levando **Ossan e o corte da raiz-mestra no caixote
+  de terra preta**; antes de partir, Ossan põe a mão aberta na terra e as
+  **seis** criaturas se põem de pé ao mesmo tempo. Elas entram no mato
+  **sem quem saiba pensar por elas**: executam a ordem guardada (achar o
+  homem que cura e a mulher que anda com ele; seguir de longe; segurar os
+  dois se a recompensa chegar perto primeiro) e **nada mais** — o preço dito
+  por Ossan: "Enquanto a raiz estiver com o senhor, elas fazem o que o senhor
+  mandou. Nada mais." **Consequência de escrita: as seis são perigosas e
+  burras.** Não improvisam, não adaptam e não desistem — mas também não
+  rastreiam como os Inquiridores (não leem "frequência"; tomam o rastro que
+  encontram, e o rastro que encontram é o **sangue-isca da Kate**).
+  ⚠️ **Não confundir as duas forças na mesma trilha:** as **seis** são
+  rampillas (Nolan, ordem guardada); os **dois com vara** são Inquiridores do
+  Sinal (Vonos, rastreiam o Mário pela frequência). Capitão: ver
+  `temas/esquema-l1.md`, seção do cap. 29.
 ## Nota de Coerência (2026-08-06)
 
 Rampillas são **autômatos sem consciência individual** — não têm voz, não

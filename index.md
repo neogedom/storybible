@@ -82,6 +82,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Protocolo de Sessão — Abertura e Fechamento de Capítulo](conceitos/checklist-capitulo.md) — Ritual de abertura (antes de escrever) e fechamento (depois de escrever): teste de PoV, stakes, cena vs. sumário, aderência STC, ação e reação, conexão causal, plantar e colher.
 - [Cosmologia de Ornick](conceitos/cosmologia.md) — Os três planos e a hierarquia divina.
 - [Milagre](conceitos/milagre.md) — Irrupção do Criador acima do Limbo; testemunho com custo, não ferramenta.
+- [Água e Seca](conceitos/agua-e-seca.md) — A seca como relógio do L1: a conta na página, a água como informação e poder, o custo em carne e a água que cobra na cicatriz (canon 2026-09-20).
 - [Marduk](conceitos/marduk.md) — Um dos 70, patrono de Babel, senhor ausente de Ornick.
 - [Vonos](conceitos/vonos.md) — Elohim da Verdade, servo-chefe rebelde contra Marduk.
 - [Terbs](conceitos/terbs.md) — Elohim da Corrupção/Apoteose.
@@ -124,6 +125,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Estratégia de Publicação do L1](decisoes/estrategia-publicacao-l1.md) — Escrever em privado → congelar canon → relançar serial + ebook → áudio por último → self-publish (2026-08-13).
 - [Regras de Áudio Minimax](decisoes/regras-audiochapter-acentuacao-ditongos.md) — Decisão sobre acentuação fonética de tritongos e extração rigorosa de narração (2026-07-27; correção 2026-08-06: só tritongos).
 - [Manto de Xilomagia de Tharin](decisoes/manto-xilomagia-tharin.md) — Chekhov's Gun recuperado no cap. 20; gatilho de ativação, carga finita, recarga por ritual de xilomago (canon 2026-08-14).
+- [Morte de Gaviorn'l antecipada](decisoes/gaviornl-morte-antecipada-hicse.md) — Kate mata Gaviorn'l em "Vilões se Aproximam"; Hícse livre cedo; o pagamento (a própria mão dela) fica em Gus (canon 2026-09-20).
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 
 ## Agentes (Workflow)

@@ -37,6 +37,7 @@ timestamp: 2026-08-26T12:00:00-03:00
 
 - [ ] Os stakes deste capítulo são **maiores** que os do capítulo anterior? (o custo de perder subiu?)
 - [ ] Se não: por que este capítulo existe agora? (pode ser respiro necessário — mas justifique)
+- [ ] **Capítulo de marcha:** os stakes de **água** subiram? (a conta está na página — quantos cantis, quantas bocas — e o dente do capítulo já foi tirado? ver `conceitos/agua-e-seca.md`)
 
 ### A4. Teste de Promessa (Premissa)
 
@@ -100,6 +101,7 @@ Se alguma cena da lista não tem conflito E ponto de virada, **corte ou transfor
 ### F6. Teste de Stakes
 
 - [ ] Os stakes do capítulo são maiores que os do capítulo anterior? (se não, justificar — respiro, preparação, mudança de PoV)
+- [ ] **Água (caps. de marcha, L1):** a água cobrou algo **neste** capítulo? (uma perda, nunca a mesma mecânica de antes — ver `conceitos/agua-e-seca.md`). Se a cena de água fechou em "e então encontraram", falta o preço e falta a escolha do personagem.
 
 ### F7. Teste de Plantar e Colher
 

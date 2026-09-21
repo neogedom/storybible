@@ -476,37 +476,127 @@ o **⚑ Abertura (2026-09-18; revista em 2026-09-20):** a regra de "abrir
 o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 29 fechado em
   **2.740 palavras** (antes 2.624). Ver `capitulos/capitulo-29.md`.
 
+> **⚑ Linha de estado — a ÁGUA (regra dura em `conceitos/agua-e-seca.md`; decisão do autor 2026-09-20).**
+> A seca é **prazo oficial** do bloco: sem água, morrem. ⚠️ **Vale a partir
+> daqui:** até Tronk e o posto de comércio havia água (o riacho do cap. 23, a
+> feira, o poço, a água vendida) — a **faixa seca começa na subida**, e é por
+> isso que a regra só morde deste capítulo em diante. A ameaça é a
+> **distância até a próxima fonte**, não o fim do cantil. Regras de escrita:
+> (1) **a conta na página** — "dois cantis, três bocas" (1 cantil = 1 dia de
+> humano; **meio dia** de Lakand — a transmorfia queima mais); (2) **um dente
+> por capítulo de marcha** — um capítulo pode passar sem água, dois não;
+> (3) **uma perda por aparição**, nunca a mesma mecânica (a mula, a carga
+> largada, as mãos rachadas, um convertido ficando, o **Lakand devendo**);
+> (4) toda cena de água fecha em **escolha com preço** — voltar (perder dias,
+> perder a corrida) ou seguir (arriscar o grupo) — e a decisão é do **Mário**;
+> (5) **milagre não dá água** e a Voz fica muda sobre água; "achei água" não é
+> confirmação do plano dele.
+> **Progressão (revisada 2026-09-20, 3ª vez):** 30 — **Mário e Lakand com
+> ZERO** (fugiram do cap. 28 sem nada; os odres dos mortos ficaram no
+> acampamento e **só a Kate os podia pegar**). O **orvalho** (noite fria de
+> outono) dá **meio cantil — água, mas insuficiente**. A volta à bacia é
+> recusada (o Mário lê o acampamento ocupado; o Lakand sente o cheiro dos
+> oito corpos e recusa sem explicar). Então **os Moribundos deixam de ser a
+> fonte e passam a ser a passagem**: é preciso atravessar o campo para
+> alcançar a água. **A ferida sangra água — e a água é imunda:** lagoa
+> lodosa com a crosta de mil anos de batalha por cima (ferrugem, osso,
+> gordura, podridão). **Abundante e intragável.** É aí que a destilação
+> serve: o trunfo do Mário **não é purificar, é extrair água de uma fonte
+> que não é água** (ferver o lodo, recolher o vapor). Entrada suja, saída
+> limpa. **E o que a destilação não faz é o coração do capítulo:** a água sai
+> **cristalina** e **cobra igual** — a conta não é química (o guardrail do
+> milagre com roupa nova: "minha técnica confirma meu plano"). **A conta da
+> água NÃO é cobrada no 30** (capítulo sobrecarregado): quem bebe sai com a
+> sede saciada e a batalha na cabeça. **O preço vem na falta** — a memória
+> com nome próprio se perde, e o pagamento fica para a **Noite Escura** (o
+> Mário procura o nome do irmão e não acha).
+> **A travessia em quatro tempos (decisão do autor, 2026-09-20):** (1) eles
+> fazem tudo certo; (2) **a lei funciona na frente do leitor** (um eco passa a
+> um braço de distância e não reage); (3) **a lei quebra mesmo assim, no meio
+> da travessia** — a morte de Gaviorn'l solta a Hícse e o campo vira (não é
+> castigo: **eles pagam sem ter errado**); (4) **quem paga é o Lakand** — foi
+> ele quem obedeceu, e é ele quem sangra (a causa concreta da rachadura com o
+> Mário). **O que muda é a direção:** os ecos deixam de repetir a batalha
+> antiga e passam a **repetir o presente** — a chegada deles. Depois da
+> travessia, **a ponte queima atrás:** o campo conhece os dois e a volta fica
+> fechada. O Mário **registra**, sem entender.
+> 31 — **Kate tem dois
+> cantis** (pegou depois que a Ordem recolheu e foi embora): ela é a água e
+> não sabe onde os dois estão — **o reencontro é literal, ela chega com
+> água**. 32-35 — a água vira **preço político** na subida à Mina.
+> ⚠️ **Os Moribundos ressurgem como eco da Hícse solta** → **o Gaviorn'l
+> morre no mesmo tempo do cap. 30**, na metade da Kate: as duas metades
+> acontecem **em paralelo e uma causa a outra**. O Mário **registra sem
+> entender** (nada de narrador explicando); **a ficha cai em Gus**, junto com
+> a dela.
+> ⚠️ **Cada metade tem o seu relógio** (Mário/Lakand contra a morte; Kate
+> contra a distância) — não somar os dois na mesma cena.
+> ⚠️ O relógio conta **dois capítulos, no máximo três** (§2 de
+> `conceitos/agua-e-seca.md`).
+> ⚠️ Vocabulário: *bacia de pedra* (bebedouro) ≠ *bacia métrica* (instrumento
+> de ofício) — nunca "bacia" sozinha.
+> **Pendência:** os PoVs de 30-32 estão em reestruturação — ver
+> `decisoes/gaviornl-morte-antecipada-hicse.md`; quem paga a memória no cap.
+> 30 é decisão aberta (recomendação: o Mário, e o que se perde é o **nome do
+> irmão**, cobrado depois, na Noite Escura).
+
+> **🗺️ MAPA DA REESTRUTURAÇÃO (2026-09-20) — a separação e o que ela moveu.**
+> Fonte única de verdade para PoV e conteúdo dos caps. 30-35.
+>
+> | Cap. | PoV | Conteúdo |
+> | --- | --- | --- |
+> | 30 | **Mário** | Orvalho (meio cantil) → volta à bacia recusada → **travessia dos Moribundos** (4 tempos; o campo vira; o Lakand paga; o reconhecimento do sonho do cap. 1) → a água imunda da ferida → **destilação** → cobra igual. Fecho: **a ponte queimada**. |
+> | 31 | **Kate** | Os odres dos mortos → o Inquiridor da cicatriz → **Gaviorn'l mata o Inquiridor** → **Kate mata Gaviorn'l** (Hícse solta) → a busca → **o reencontro** (fecho). |
+> | 32 | **Nolan** | Juleen (enforcamento) → a observação da **dupla** pelos rampillas → a decisão de **atrair** Mário. |
+> | 33 | **Mário** | O assentamento → **o batismo** (renúncia + 1º "Javé") e a água que cobra dos pobres → **a decisão da Mina**. |
+> | 34 | **Kate** | **A tempestade de quartzo** (o manto queima) → a fissura → o recrutamento → Lakand ("você está apaixonada") → a confirmação de que ele mordeu a isca. |
+> | 35 | **Mário** | A marcha → o ensaio do discurso → a criança toca o Lakand → **Etemenanki**. |
+> | 36 | **Mário** | A Mina (Ponto Central) — intacto. |
+>
+> **O que mudou:** o batismo saiu do antigo 31 → **33**; a fissura, o recrutamento e o Lakand saíram do antigo 31 → **34**; a tempestade saiu do 32 → **34**; o 31 passou a ser a **metade da Kate** (paralela ao 30). **O que NÃO mudou:** o 30 continua Mário, o 32 continua Nolan, o 33 continua a decisão do Mário, o 34 continua Kate, o 35 continua Mário, o 36 continua a Mina.
+> ⚠️ **Custo assumido:** o 33 carrega dois movimentos (batismo + decisão) — escrevê-lo **curto**, com a decisão como virada final (Corte C com ironia). O 34 carrega a tempestade + os beats de Kate — também **curto**, fechando no corte B.
+> ⚠️ **Perda declarada:** cai a justaposição "Nolan enforca Juleen × Mário sobrevive à tempestade" (a tempestade mudou de capítulo). O frio da cena passa a ser a **observação da dupla** logo depois do enforcamento.
+>
+> ⚠️ **Ordem fixa: 30 ANTES de 31.** O 31 fecha no **reencontro** — logo o 30 tem de vir primeiro, senão o leitor atravessa os Moribundos já sabendo que eles sobrevivem e que a Kate chega. A sequência emocional certa é: **30 = o medo** (o campo vira; eles vivos, mas sem volta; e onde está ela?) → **31 = o alívio** (ela vive, matou, e carrega a água).
+> **Amarrar as duas metades sem narrador:** a travessia e a luta acontecem **na mesma hora** — marcar a hora nas duas pontas (o sol a pino no 30; a luta “quando o sol virou” no 31). É o suficiente para o leitor juntar em **Gus**.
+
 #### Capítulo 30 (PoV de Mário) — Novo (Criatura Fantástica)
 
-o **Os Moribundos.** Para evitar nova patrulha dos Inquiridores, Mário, Kate e Lakand entram num território deformado: um campo de batalha da **Guerra Milenar** onde o trauma foi tão intenso que deixou uma cicatriz física no mundo. Os Moribundos não são almas penadas — são **ecos**, resíduos de um conflito entre deuses (elohins) que rompeu a realidade e deixou cópias sensoriais dos soldados presas num loop de batalha.
+o **Os Moribundos.** Para escapar de nova patrulha dos Inquiridores — e porque a água está do outro lado — **Mário e Lakand** entram num território deformado: um campo de batalha da **Guerra Milenar** onde o trauma foi tão intenso que deixou uma cicatriz física no mundo. Os Moribundos não são almas penadas — são **ecos**, resíduos de um conflito entre deuses (elohins) que rompeu a realidade e deixou cópias sensoriais dos soldados presas num loop de batalha. ⚠️ **A Kate está separada nesta altura** (ver `decisoes/gaviornl-morte-antecipada-hicse.md`) — a versão antiga deste bloco a colocava na cena.
 
-o **Lakand reconhece o campo.** No meio da travessia, Lakand para. Reconhece aquele lugar — perdeu alguém da alcateia ali, na Guerra Milenar. Não diz nada. Mas Mário vê o olhar dele mudar. Lakand sabe o que é atravessar um campo de mortos. A travessia silenciosa é, para ele, um ritual conhecido.
+o **A lei é do Lakand.** Quem sabe atravessar é o daërunmege — perdeu matilha ali. Ele para e reconhece o lugar; não diz nada, mas o olhar dele muda. **A lei:** os ecos reagem a violência, metal e ruído → armas no chão, silêncio, olhos baixos. **Quem lê o padrão e decide obedecer é o Mário** — é ele quem manda as armas para o chão.
 
-o Mário convence Kate a depositar as armas e atravessar em silêncio. Ela reluta — cada instinto grita para lutar — mas cede. **Atravessam o exército de mortos em névoa, sem um golpe.** Momento de fantasia pura.
+o **A travessia em quatro tempos (2026-09-20).** (1) Eles fazem tudo certo. (2) **A lei funciona na frente do leitor:** um eco passa a um braço de distância e **não reage** — uma respiração de alívio. (3) **A lei quebra mesmo assim, no meio da travessia** — a morte de Gaviorn'l soltou a Hícse e o campo vira: **eles pagam sem ter errado** (não é castigo, não é culpa deles). O que muda é a **direção**: os ecos deixam de repetir a batalha antiga e passam a **repetir o presente** — a chegada deles. (4) **Quem paga é o Lakand** — o que obedeceu é o que sangra; é a causa concreta da rachadura com o Mário ("obedeci e paguei"). **A ponte queima atrás:** o campo passa a conhecer os dois e **a volta fica fechada** — "só para frente" deixa de ser escolha e passa a ser sentença.
 
-o **Lakand observa em silêncio.** Viu Mário ler o comportamento dos mortos. Viu Kate confiar contra o instinto. Algo mudou na dinâmica do grupo — e Lakand sabe que está de fora.
+o **A água do outro lado.** Abundante e **intragável** (lodo com crosta de mil anos de batalha). **Mário monta a destilação** — o trunfo do século XXI: não purificar, mas **extrair água de uma fonte que não é água**. Fogo, combustível, espera: **o preço é a demora**, num lugar onde as seis rampillas andam. A água sai **cristalina** — e cobra igual (a conta não é química). **A memória não é cobrada aqui:** fica para a Noite Escura.
+
+o **O Mário registra sem entender.** O campo estava errado — mais presente, fora de fase. Ele anota o padrão que não encaixa e segue. **Nada de narrador explicando por quê**; a ficha cai em **Gus**, junto com a Kate.
+
+o **O eco que ele reconhece (bônus estrutural, 2026-09-20).** No meio da travessia, o campo repete a **cena do sonho do cap. 1** — irmão matando irmão. Mário **reconhece** (sem rostos nítidos) e o chão sob os pés muda: aquilo não era sonho, era lugar e tempo, e a guerra não acabou. Ele sai sabendo mais do **mundo** — e nada sobre a **causa** (Gus) nem sobre o **papel dele** (L2; guardrail do risco #4: tema claro cedo demais). Pagamento antecipado da semente #5.
+
+> ✅ **Seção fechada em 2026-09-20** — ver o **Mapa da Reestruturação** acima, antes da seção do cap. 30.
 
 o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — a travessia termina e o capítulo fecha no que Mário **vê** em Lakand depois da névoa, não em paisagem. Alternativa mais page-turner: **Corte A** na revelação do exército de ecos, antes de atravessar (a travessia então abre o cap. 31). ⚠️ O bullet acima está em POV de Lakand ("Lakand sabe que está de fora") — o fecho precisa ser filtrado por Mário.
 
 o **✂️ Marca do passe de fechos (2026-09-18):** o fecho tem de **devolver a decisão a Mário** — é ele quem decide atravessar em silêncio. Manter **Corte C**, sem paisagem no fecho e sem abrir com "E".
 
-#### Capítulo 31 (PoV de Kate) — Reformulado
+#### Capítulo 31 (PoV de Kate) — REESCRITO (reestruturação 2026-09-20)
 
-o Chegam a **outro assentamento**. Gente mais pobre que a anterior — famílias inteiras dormindo ao relento, crianças com olhos de vidro (a doença da Mina). Mário prega novamente — agora com a segurança de quem já viu a teologia funcionar. Depois de curar algumas crianças, um grupo de adultos se aproxima: não querem mais milagres, querem entender. **Mário os batiza no riacho próximo.** É o primeiro batismo da jornada. As pessoas não entendem tudo — a teologia da substituição, a Trindade, a dupla natureza de Cristo — mas entenderam o suficiente: há um Deus que não cobra. E isso, num mundo de dívidas impagáveis, é a notícia mais revolucionária que já ouviram.
+> **Esta seção guardava o assentamento e o batismo.** Esses beats **migraram**: batismo + renúncia + "Javé" → **cap. 33**; fissura + recrutamento + Lakand → **cap. 34**. O 31 passa a ser a **metade da Kate** da separação.
 
-o **A renúncia (correção 2026-08-10):** Mário adapta a abrenuntio da igreja primitiva (a renúncia a Satanás e a todas as suas obras e pompas) para os deuses de Ornick. Antes da água, cada convertido declara em voz alta: _"Renuncio aos falsos deuses do Limbo, a todas as suas obras e a toda a sua pompa. Sou de Javé."_ Na superfície, uma **declaração de fidelidade a Javé**; no pano de fundo, uma **declaração de guerra aos deuses falsos de Ornick**.
+o **A metade paralela ao cap. 30.** O capítulo cobre os **mesmos dias** do 30 — e é aqui que **Gaviorn'l morre**, no exato instante em que o campo dos Moribundos vira (ver `decisoes/gaviornl-morte-antecipada-hicse.md`). ⚠️ **Nenhuma ponte de narrador** entre os dois capítulos: quem junta é o leitor, e só em **Gus**.
 
-o **Primeira aparição de "Javé" no livro (canon 2026-08-10):** o nome próprio só entra aqui — caps. 0-30 usam "Deus", "o Deus de Mário" e "Eu Sou" (cap. 20). É um reveal deliberado: o nome da aliança (Javé/YHWH) é pronunciado pela primeira vez no exato momento em que a primeira comunidade de aliança de Ornick se forma — um novo Sinai. **Caps. 21-30 NÃO devem usar "Javé" antes do cap. 31.**
+o **Ela sai do esconderijo e pega os odres.** Depois que a Ordem recolhe e vai embora (ela viu a recolha inteira do esconderijo), Kate atravessa o acampamento dos mortos e tira dos arreios **dois cantis** — a única água limpa do sítio está dentro dos odres dos mortos. **Ela vira a água:** é a única pessoa com qualquer gota e não sabe onde os dois estão.
 
-o **A fissura:** Kate observa uma criança cega abraçando a mãe depois que Mário ora por ela. A cena não a comove — mas algo a incomoda. Ela se pega pensando na libertação deles não como estratégia, mas como... necessidade? Abafa o pensamento.
+o **O Inquiridor que a acha.** Um Inquiridor que ficou no terreno — **o da cicatriz do cap. 2**, a âncora reservada desde 2026-09-09 — a localiza: quer **resolver a anomalia** ("a que não consta"). A luta expõe o que ela não pode explicar: **o fio não a cobra** (semente #19).
 
-o **Kate identifica quem pode ser treinado.** Enquanto Mário batiza, Kate observa os convertidos com olhos de recrutadora. Identifica os mais jovens, os mais fortes, os que olham Mário com determinação em vez de devoção. Arquiva mentalmente. Não diz nada. **(É aqui que a semente da rebelião se consolida — o ponteiro antigo dizia "cap. 29+"; ver o ingest do cap. 26.)**
+o **Gaviorn'l chega.** Ele **mata o Inquiridor** — e a morte do sênior mostra a hierarquia (o que "dobra a auditoria" morre pelas costas de alguém acima dele). Então o confronto: ele veio por ordem de **Benjamim**, para **recolher a arma que ele mesmo forjou**. Kate recusa. **Ele abaixa a guarda por amor** (canon) — e ela o mata. **O selo rompe. Hícse sai.**
 
-o **Lakand à margem.** Uma criança batizada passa por Lakand sem medo. Olha para ele, sorri, e segue. Lakand não se move. Não sabe o que fazer com aquilo. Pela primeira vez, foi visto como "gente" — e não sabe como responder.
+o **A busca.** Com dois cantis e ninguém, Kate segue rastro. É o motor do capítulo: **ela tem o que eles precisam e não sabe onde estão.** Ironia dramática: o leitor sabe que ela carrega a água; o Mário, que acha que estão mortos em dois dias, não.
 
-o **Lakand se aproxima:** _"Você está apaixonada."_ Kate não nega — mas também não confirma. Lakand vê algo mais: Kate ainda quer protagonismo. Ela não protege Mário — ela o **usa**. E talvez esteja começando a sentir culpa por isso. Lakand não diz nada. O olhar entre os dois é o de um abismo silencioso.
+o **A máquina que ela vai quebrar (plantio novo, 2026-09-20).** Sozinha, ela **não recruta ninguém** — mas ao subir atravessa o **encanamento**: a estrada ao norte é por onde os devedores sobem a pé para a Mina (a dívida que passa de pai para filho, cap. 25; "nenhum dos que subiram por conta da soma apareceu de volta", cap. 29). Ela **conta**: quantos guardas, onde param, quantos vão amarrados, o que é levado além das pessoas. É intel de **raider**, não leitura de arquivo (canon: Kate não lê). E **guarda um rosto** — um homem na fila, marcado, que ela reconheceria depois: é o plantio de quem começa o motim lá dentro (cap. 36).
 
-o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte D com aresta** — fechar na fissura de Kate (a libertação pensada como necessidade, o pensamento abafado), que é a mudança de estado dela. Não fechar em "a Mina fica a dias dali" (repetição do fecho do cap. 26). O recrutamento fica dentro da cena, não no fecho — e é candidato a migrar para o cap. 34 (ver nota de ritmo do bloco). Não fechar em partida nem com "norte". **Marca do passe de fechos (2026-09-18):** manter **D com aresta** — a fissura de Kate é a mudança de estado dela; a decisão grande continua sendo de Mário. **Candidato a Corte B (2026-09-18):** o bloco 21-28 fechou com **zero B** — sintoma do risco estrutural #1 (sem decisão em cena não há dilema para cortar). A casa natural do próximo B é aqui: cortar na **crise do dilema de Kate** (Lakand vê que ela usa Mário; ela não nega, não confirma) em vez da fissura — **troca do ponto de corte, não reescrita da cena**. Reavaliar ao fechar o cap. 30.
+o **✂️ Corte do capítulo:** fechar no **reencontro** — ela chega com água. **Corte C** (a consequência é simples e visível: o cantil na mão, os dois vivos). Não fechar em "norte", "escuro", "silêncio", nem em olhar para o horizonte.
 
 ---
 
@@ -542,11 +632,17 @@ o **A decisão final.** Nolan não tentará capturar Mário. Tentará **atraí-l
 
 o **A mentira fundadora.** Nolan nunca dirá que quer Mário como ferramenta de Estado. Nunca dirá que o sonho dele é ser Rei. Vai esconder a Segregação, vai se fingir de reformista, vai falar de cura e esperança. **A primeira grande mentira de Nolan para Mário será a mais doce — e a mais perigosa.**
 
-o **Desafio fantástico na marcha (tempestade de quartzo).** Antes de Nolan se aproximar, o grupo enfrenta uma **tempestade de quartzo** — vento que carrega fragmentos de quartzo da Mina, cortando a pele exposta, cegando temporariamente quem respira a poeira. O grupo se abriga numa fenda na rocha. Kate improvisa proteção com o manto de xilomagia. Lakand usa o corpo como escudo para as crianças. Mário ora em silêncio — não pede, apenas observa. A tempestade passa. O grupo sai mais unido. **Nolan observa tudo de longe e vê: eles sobrevivem juntos. Isso os torna perigosos.**
+o **Desafio fantástico na marcha (tempestade de quartzo).** ⚠️ **MIGRADA para o cap. 34 (2026-09-20)** — a tempestade é ação da Kate (o manto queima nela) e a cena precisa do grupo já reunido e com convertidos, o que só acontece depois do batismo do cap. 33. Nolan **não** assiste à tempestade: o que ele observa é a **dupla funcionando** (bullets acima), e é isso que o faz decidir atrair o Mário.
 
-o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — fechar no impacto da justaposição (o corpo de Juleen e, pelos olhos dos rampillas, Mário vivo na tempestade), sem deslocamento e sem explicação. É o fecho mais forte do bloco: não diluir com aftermath.
+o **✂️ Corte do capítulo (proposta 2026-09-13; revista 2026-09-20):** **Corte C** — fechar no impacto da justaposição (o corpo de Juleen e, pelos olhos dos rampillas, a **dupla trabalhando**), sem deslocamento e sem explicação. É o fecho mais forte do bloco: não diluir com aftermath. ⚠️ A tempestade saiu daqui (ver nota acima); o frio da cena agora vem da **observação da dupla** logo depois do enforcamento.
 
-#### Capítulo 33 (PoV de Mário) — Reformulado
+o **O assentamento e o batismo (migrado do antigo cap. 31).** Chegam a **outro assentamento**. Gente mais pobre que a anterior — famílias inteiras dormindo ao relento, crianças com olhos de vidro (a doença da Mina). Mário prega novamente — agora com a segurança de quem já viu a teologia funcionar. Depois de curar algumas crianças, um grupo de adultos se aproxima: não querem mais milagres, querem entender. **Mário os batiza na água do assentamento** (poço racionado — ver `conceitos/agua-e-seca.md` §6). É o primeiro batismo da jornada.
+
+o **A água do batismo cobra dos pobres (proposta do autor, 2026-09-20).** O poço está baixo na estiagem e os refugiados bebem do mesmo fio. Mário pede água para o batismo; os convertidos **dão a própria ração** para ser derramada na cabeça. Ele **hesita e reduz** ("não precisa tanta água"), alguém insiste no gesto inteiro, e ele **cede** — a fissura não é o desperdício, é a **aceitação**.
+
+o **A renúncia (correção 2026-08-10):** Mário adapta a abrenuntio da igreja primitiva (a renúncia a Satanás e a todas as suas obras e pompas) para os deuses de Ornick. Antes da água, cada convertido declara em voz alta: _"Renuncio aos falsos deuses do Limbo, a todas as suas obras e a toda a sua pompa. Sou de Javé."_ Na superfície, uma **declaração de fidelidade a Javé**; no pano de fundo, uma **declaração de guerra aos deuses falsos de Ornick**.
+
+o **Primeira aparição de "Javé" no livro (canon 2026-08-10; renumerada em 2026-09-20):** o nome próprio só entra **aqui** — caps. 0-32 usam "Deus", "o Deus de Mário" e "Eu Sou" (cap. 20). É um reveal deliberado: o nome da aliança é pronunciado pela primeira vez no exato momento em que a primeira comunidade de aliança de Ornick se forma — um novo Sinai. **Caps. 21-32 NÃO devem usar "Javé".**
 
 o **A decisão que já estava tomada.** Mário passa os dias anteriores processando tudo: os refugiados, os escravos na Mina, a perseguição, o silêncio da Voz. Kate já o convenceu a tomar a Mina desde a fuga do castelo — mas naquela hora foi arrastado pelo desespero e pela argumentação dela. Agora, sozinho, ele **reconecta os pontos por conta própria**.
 
@@ -558,7 +654,17 @@ o Decide: vai até a Mina de Quartzo. Não para tomar poder — para libertar os
 
 o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C com gancho de ironia** — fechar no momento em que a decisão se forma (ele *quer* ir), deixando o leitor com o que ele não sabe: que a convicção foi plantada. Não transformar o capítulo em ensaio interior — a decisão é o clímax; cortar nela. **Marca do passe de fechos (2026-09-18):** a decisão grande tem de ser **de Mário na página** (os caps. 26-28 o deixaram reativo); não fechar em deslocamento, nem com "norte".
 
-#### Capítulo 34 (PoV de Kate) — Reformulado
+o **A tempestade de quartzo (migrada do cap. 32 — 2026-09-20).** Vento que carrega fragmentos de quartzo da Mina, cortando a pele exposta, cegando quem respira a poeira. O grupo se abriga numa fenda na rocha. **Kate improvisa proteção com o manto de xilomagia — e a carga queima aqui** (a depleção decidida em 2026-08-14 finalmente tem casa e tem preparação). Lakand usa o corpo como escudo para as crianças. Mário ora em silêncio — não pede, apenas observa. A tempestade passa e o grupo sai mais unido. ⚠️ **O manto morre na página**, não fora dela.
+
+o **A fissura (migrada do antigo cap. 31).** Kate observa uma criança cega abraçando a mãe depois que Mário ora por ela. A cena não a comove — mas algo a incomoda. Ela se pega pensando na libertação deles não como estratégia, mas como... necessidade? Abafa o pensamento.
+
+o **O recrutamento (já canon desde 2026-09-13).** Enquanto Mário batiza, Kate observa os convertidos com olhos de recrutadora. Identifica os mais jovens, os mais fortes, os que olham Mário com determinação em vez de devoção. Arquiva mentalmente. Não diz nada.
+
+o **Como ela recruta (canon 2026-09-20).** Não é sermão — é **alavanca**. E não é mensagem nova: **é a dele.** Os convertidos já são homens que acreditaram que ninguém precisa pagar; ela só lhes mostra o corpo da promessa. A pergunta canônica: _"E se houvesse um jeito de vocês nunca mais serem escravos de ninguém?"_ Ela não promete céu — promete a **conta fechada à força**. E **nunca diz "exército"**: chama de **treino**. É assim que mantém longe do Mário. ⚠️ **Nada de organização na página** — o leitor precisa de um **rosto** e de um **gesto**, não de uma rede. Ver `insights/recrutamento-da-kate.md`.
+
+o **Lakand se aproxima:** _"Você está apaixonada."_ Kate não nega — mas também não confirma. Lakand vê algo mais: Kate ainda quer protagonismo. Ela não protege Mário — ela o **usa**. E talvez esteja começando a sentir culpa por isso. Lakand não diz nada. O olhar entre os dois é o de um abismo silencioso.
+
+o **✂️ Corte do capítulo:** **Corte B** — fechar no olhar de Lakand ("você está repetindo o erro deles") que Kate ignora: pergunta moral no ar, resposta adiada. Evitar fechar em "pega as armas" (deslocamento). **O bloco 21-28 fechou com zero B** — sintoma do risco estrutural #1; esta é a casa natural do próximo B.
 
 o Kate "descobre" o plano de Mário. A Mina de Quartzo é fortificada.
 

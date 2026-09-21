@@ -1,5 +1,337 @@
 # Log de Atualizações
 
+## 2026-09-20 (ordem 30→31 fixada; o recrutamento da Kate)
+
+- **Ordem fixada: 30 (Mário) ANTES de 31 (Kate).** Não é preferência — é
+  estrutura: o 31 fecha no **reencontro**, logo o 30 tem de vir antes, senão o
+  leitor atravessa os Moribundos já sabendo que eles sobrevivem e que a Kate
+  chega. Sequência emocional correta: **30 = o medo** (o campo vira; vivos, mas
+  sem volta; e onde está ela?) → **31 = o alívio** (ela vive, matou, e carrega
+  a água).
+- **Amarrar as metades sem narrador:** a travessia e a luta acontecem na
+  **mesma hora** — marcar a hora nas duas pontas (o sol a pino no 30; a luta
+  "quando o sol virou" no 31). É o suficiente para o leitor juntar em **Gus**.
+- **Recrutamento da Kate** (`insights/recrutamento-da-kate.md`, novo): não é
+  sermão, é **alavanca** — e a mensagem não é nova, **é a dele**. Ela usa a
+  pregação como porta e oferece o **corpo da promessa** (a conta fechada à
+  força). Pergunta canônica: _"E se houvesse um jeito de vocês nunca mais serem
+  escravos de ninguém?"_
+- **Pool (tudo canon):** os convertidos que ficaram pelo caminho (caps. 26-27),
+  os devedores subindo a estrada do norte (o encanamento) e os refugiados dos
+  assentamentos.
+- **Na jornada solo (cap. 31) ela NÃO recruta** — não há quem. Ela (a) **aprende
+  a máquina** (conta guardas, paradas, amarrados; intel de raider, não de
+  arquivo) e (b) **guarda um rosto** — o homem na fila que começa o motim no
+  cap. 36, dando cara à carnificina.
+- **Disciplina:** nada de organização na página (um rosto e um gesto, não uma
+  rede); recrutamento silencioso e negável (é o que o mantém escondido do Mário
+  até o 36); e **nunca** a palavra "exército" na boca dela — é "treino".
+- **Arquivos:** `temas/esquema-l1.md` (mapa + seções 31 e 34),
+  `insights/recrutamento-da-kate.md`, `log.md`.
+
+## 2026-09-20 (fechada a reestruturação 30-35 + a fricção teológica do 30)
+
+**A. Reestruturação de PoV e conteúdo (30-35) — FECHADA.**
+
+| Cap. | PoV | Conteúdo |
+| --- | --- | --- |
+| 30 | Mário | Orvalho → recusa da bacia → travessia dos Moribundos (4 tempos, o reconhecimento do sonho) → água imunda da ferida → destilação → cobra igual. Fecho: **a ponte queimada**. |
+| 31 | **Kate** | Odres dos mortos → o Inquiridor da cicatriz → **Gaviorn'l mata o Inquiridor** → **Kate mata Gaviorn'l** (Hícse solta) → a busca → **o reencontro** (fecho). |
+| 32 | Nolan | Juleen → a observação da **dupla** pelos rampillas → a decisão de atrair. |
+| 33 | Mário | O assentamento → **o batismo** (renúncia + 1º "Javé" + a água que cobra dos pobres) → **a decisão da Mina**. |
+| 34 | **Kate** | **A tempestade de quartzo** (o manto queima na página) → a fissura → o recrutamento → Lakand ("você está apaixonada") → a confirmação da isca. |
+| 35 | Mário | A marcha → o ensaio do discurso → a criança toca o Lakand → Etemenanki. |
+| 36 | Mário | A Mina — **intacto**. |
+
+- **Movidos:** batismo/renúncia/"Javé" (antigo 31 → **33**); fissura +
+  recrutamento + Lakand (antigo 31 → **34**, já canon desde 2026-09-13 no caso
+  do recrutamento); **tempestade de quartzo (32 → 34)** — é ação da Kate (o
+  manto queima nela, dívida de 2026-08-14) e a cena precisa do grupo já
+  reunido e com convertidos, o que só existe depois do batismo.
+- **Custos assumidos:** o **33** carrega dois movimentos (batismo + decisão) —
+  escrever curto, decisão como virada final (Corte C com ironia); o **34**
+  carrega tempestade + beats de Kate — também curto, fechando no **Corte B**.
+  **Perda declarada:** cai a justaposição "Nolan enforca Juleen × Mário
+  sobrevive à tempestade"; o frio vem da **observação da dupla** logo após o
+  enforcamento.
+- **Mapa completo** inserido em `temas/esquema-l1.md`, antes da seção do cap.
+  30 (fonte única de verdade). Seção do 31 reescrita; batismo realocado no 33;
+  34 atualizado; 32 sem a tempestade.
+
+**B. Fricção teológica (cap. 30) — plantada.**
+
+- Depois dos Moribundos, a categorização dos deuses como **"demônios"** começa
+  a soar **pequena** para o Mário: a responsável pela guerra é **declarada
+  deusa**. O encaixe que falha: **"se passar por deus" pressupõe disfarce** — e
+  o que ele viu foi **poder** (guerra travada, prisão, ferida viva no chão).
+- ⚠️ **Desconforto, não conclusão.** Não é sincretismo nem descarte. A doutrina
+  não está errada; a palavra é pequena. A direção (nunca enunciada na página) é
+  o poder **real, caído e sob sentença** (Sl 82) — idioma reformado, nunca
+  Conselho Divino. Alimenta a promessa **"julgar os deuses"**.
+- **Custo:** a pregação perde a certeza fácil; o que cresce não é a dúvida
+  sobre Deus, é o **tamanho dos adversários**.
+- **Arquivos:** `insights/categoria-demonios-pequena.md` (novo),
+  `personagens/mario.md`, `temas/sementes.md` (#5).
+
+## 2026-09-20 (Moribundos — Mário reconhece a cena do sonho do cap. 1)
+
+- **Bônus do autor (travado):** os Moribundos são o **mesmo evento** do sonho
+  do cap. 1 → Mário **reconhece** a cena na travessia e passa a entender
+  melhor o mundo depois da experiência.
+- **O que ele reconhece:** o campo repete a cena do sonho — **irmão matando
+  irmão**, o "sangue do seu próprio sangue". Sem rostos nítidos.
+- **O que ele passa a saber:** aquilo **não era sonho, era lugar e tempo**, e
+  a guerra não acabou. Sai entendendo **o mundo** um pouco melhor.
+- **Disciplina (para não queimar os pagamentos seguintes):**
+  - **Nada sobre a causa** (que o campo virou porque a Hícse foi solta) — isso
+    é de **Gus**.
+  - **Nada sobre o papel dele** — faceta (4) do sonho fica para o **L2**
+    (guardrail: tema claro cedo demais = risco estrutural #4).
+  - ⚠️ **A faceta (2) "o lugar é real" fica intacta** para o Monólito (~75%):
+    lá ele reconhece o **monumento**; aqui, o **evento**.
+  - ⚠️ **Sem rostos nítidos** — os rostos e nomes ficam para a **gravura da
+    casa real no L2**, que é a confirmação do "não estou louco".
+- **Pagamento antecipado da semente #5**, que já registrava que os ecos do
+  cap. 30 são do mesmo evento da Milenar; agora o reconhecimento entra **na
+  página**, e não mais só como worldbuilding.
+- **Arquivos:** `temas/sementes.md` (#5), `conceitos/agua-e-seca.md`,
+  `temas/esquema-l1.md` (seção do cap. 30),
+  `decisoes/gaviornl-morte-antecipada-hicse.md`, `log.md`.
+
+## 2026-09-20 (travessia dos Moribundos — a lei funciona e quebra mesmo assim)
+
+- **Desenho do autor, travado:** eles **sabem** o que fazer para atravessar em
+  segurança, **fazem** — e a travessia deveria ser segura. Mas a **morte de
+  Gaviorn'l incita os Moribundos no meio da travessia**, mesmo com tudo feito
+  certo. Eles **pagam sem ter errado** — não é castigo e não é culpa deles.
+- **Estrutura em quatro tempos:** (1) fazem tudo certo; (2) **a lei funciona
+  na frente do leitor** (um eco passa a um braço de distância e não reage — uma
+  respiração de alívio; sem isso, "fizeram certo" fica dito, não mostrado);
+  (3) **a lei quebra no meio da travessia**; (4) **quem paga é o Lakand** — o
+  que obedeceu é o que sangra.
+- **Ganho estrutural:** a cena dá à rachadura **Lakand ↔ Mário** uma causa na
+  carne ("obedeci e paguei"), que a briga do herege vai usar depois. Deixa de
+  depender só do batismo.
+- **O que muda é a direção, não o volume:** os ecos deixam de repetir a
+  batalha antiga e passam a **repetir o presente** — a chegada deles. A guerra
+  de mil anos acha vivos de novo.
+- **A ponte queima atrás:** depois da travessia o campo conhece os dois e **a
+  volta fica fechada** — "só para frente" deixa de ser escolha e passa a ser
+  sentença. Nunca mais dá para voltar à bacia.
+- **Quem sabe a lei é o Lakand** (perdeu matilha ali); **quem lê o padrão e
+  decide obedecer é o Mário** — as duas metades do grupo fazem o seu trabalho
+  na mesma cena.
+- **Sincronizado no esquema:** a seção do cap. 30 foi reescrita (Kate **fora**
+  da cena, lei vinda do Lakand, quatro tempos, água imunda, destilação,
+  registro sem entender). Marcada como **em reestruturação** — o corte do
+  capítulo e a divisão de PoV com o 31/32 seguem pendentes.
+- **Arquivos:** `conceitos/agua-e-seca.md`,
+  `decisoes/gaviornl-morte-antecipada-hicse.md`, `temas/esquema-l1.md`,
+  `log.md`.
+
+## 2026-09-20 (água — a água da ferida é imunda; a conta chega depois)
+
+- **Furo apontado pelo autor:** "a água que ele acha já é limpa? então para que
+  a destilação?" — a versão anterior tinha a água **limpa e abundante**, o que
+  esvaziava o trunfo. **Correção:** a ferida sangra água **abundante e
+  intragável** (lagoa lodosa, água parada, crosta de mil anos de batalha por
+  cima: ferrugem, osso, gordura, podridão). **O trunfo do Mário não é
+  purificar — é extrair água de uma fonte que não é água** (ferver o lodo,
+  recolher o vapor). Entrada suja, saída limpa.
+- **Segunda pergunta do autor:** "por que precisamos pagar uma memória no 30?"
+  **Não precisamos — e não devemos.** O cap. 30 já carrega demais (orvalho +
+  recusa da bacia + travessia + alquimia + eco). **A conta da água não é
+  cobrada na hora — é cobrada na falta** (nova §5.1 de `agua-e-seca.md`):
+  quem bebe sai só com a batalha na cabeça, de vez em quando. **A memória com
+  nome próprio se perde, e o pagamento fica para a Noite Escura da Alma**
+  (~75%) — o Mário procura o nome do irmão e não acha. Alinha com a doutrina
+  de `conceitos/milagre.md` ("custo ≠ pagamento").
+- **Terceira observação do autor (aplicada como regra dura):** a região dos
+  Moribundos **precisa soar perigosa antes de a Hícse ser liberta** — o preço
+  da travessia tem de ficar na consciência do Mário e do Lakand. Fixado: **o
+  perigo é do campo** (ecos reagem a violência, metal e ruído; atravessar
+  exige **largar as armas e andar em silêncio**, com caçadores atrás) e **o
+  eco da Hícse amplifica, não cria** (ecos fora de fase, um loop que
+  acelerou). Nada de "o lugar acordou".
+- **Arquivos:** `conceitos/agua-e-seca.md` (§5 reescrito + §5.1 nova + §8),
+  `temas/esquema-l1.md` (progressão do bloco),
+  `decisoes/gaviornl-morte-antecipada-hicse.md` (nota do eco), `log.md`.
+
+## 2026-09-20 (água — a ferida sangra água; os Moribundos como eco da Hícse)
+
+- **Decisões do autor:** (1) **a destilação acontece na cicatriz** e **falha
+  no sagrado** — a água sai limpa, cristalina e **cobra igual**: a técnica
+  resolve a matéria e não toca no resto (o guardrail do milagre com roupa
+  nova: "minha técnica confirma meu plano"). (2) **A ordem se inverteu:** os
+  Moribundos **não são a fonte — são a passagem**. Eles precisam atravessar o
+  campo para alcançar a água, que vem **depois**. (3) **O orvalho substitui a
+  planta** como primeira tentativa: é água, e é insuficiente (meio cantil, um
+  dia comprado). A planta entra no máximo como **uma linha** dentro da cena do
+  orvalho — dois fracassos seguidos na mesma página é repetição.
+- **Mecânica nova — "a ferida sangra água":** onde a Guerra Milenar rasgou a
+  realidade brota água abundante e limpa, que não deveria estar ali. É por
+  isso que ela cobra: não é água de nascente, é água de ferida.
+- **Os Moribundos ressurgem como eco da Hícse solta.** Encaixe duro: a morte
+  de Gaviorn'l acontece **no mesmo tempo do cap. 30**, na metade da Kate — as
+  duas metades da separação correm **em paralelo e uma causa a outra**. Mário
+  quase morre por um efeito do golpe dela, e não sabe. Ele **registra sem
+  entender** (nada de narrador explicando); **a ficha cai em Gus**, junto com
+  a dela — as duas revelações são a mesma.
+- **Pendência do autor:** quem paga a memória no cap. 30 (recomendação: o
+  **Mário**, e o que se perde é o **nome do irmão** — ele continua lembrando
+  do irmão e não consegue lembrar o nome; a confissão do cap. 27 é o que faz
+  a faca entrar).
+- **Arquivos:** `conceitos/agua-e-seca.md` (§5 reescrito; §8 atualizada),
+  `temas/esquema-l1.md` (progressão do bloco),
+  `decisoes/gaviornl-morte-antecipada-hicse.md` (nova seção "Eco na página"),
+  `log.md`.
+
+## 2026-09-20 (água — trunfo do Mário: a planta fracassa, a destilação entra)
+
+- **Decisões do autor:** (1) a **planta** com um pouco de água entra como
+  **fracasso** — primeira tentativa do Mário, humilhante, que não resolve
+  (ele vem de escola, não de mato; água em planta é conhecimento local, de
+  batedor e daërunmege, não trunfo de civilização). Quem acha a planta é o
+  **Lakand**; quem se frustra é o Mário. (2) A **destilação** entra como o
+  trunfo verdadeiro: o Mário conhece o princípio (ferver e recolher o vapor)
+  — conhecimento escolar do século XXI, **alienígena** em Ornick, e **não é
+  milagre**.
+- **Por que a destilação não quebra a regra:** ela precisa de água suja para
+  começar, logo não cria água na faixa seca; e exige **fogo, combustível,
+  tempo e metal** — o preço é a **demora**, num lugar vigiado.
+- **Pendências do autor:** (a) **onde** a destilação acontece (na cicatriz,
+  onde falha no sagrado — recomendado — ou na bacia, onde resolve);
+  (b) se a **volta à bacia** acontece (recomendação: **não** — os dois
+  Inquiridores ficam **dois dias** no sítio, cap. 29, e a volta não pode
+  terminar em luta, senão colide com o capítulo fechado; a recusa tem três
+  razões na página: o Mário lê o acampamento, o **Lakand sente o cheiro dos
+  corpos** e recusa sem explicar, e o leitor sabe que a bacia virou cova);
+  (c) se o **orvalho** (noite fria de outono) salva o primeiro dia.
+- **Ideia registrada para o clímax da perseguição:** os rampillas são de
+  **resina** e queimam como tocha — **fogo é a resposta contra eles**, e o
+  Mário é o sujeito da técnica. Guardar.
+- **Correção de canon:** `conceitos/rampillas.md` estava com
+  `ultimo_capitulo: 22`. Atualizado para **29** com a nota da **força
+  delegada sem condutor** e o aviso para não confundir as duas forças na
+  mesma trilha (as **seis** = rampillas do Nolan, ordem guardada, seguindo o
+  sangue-isca da Kate; os **dois com vara** = Inquiridores de Vonos,
+  rastreando o Mário pela frequência).
+- **Confirmado:** Kate **não vê o Nolan** — ela sai do sítio no mesmo dia do
+  cap. 28; ele chega **dois dias depois**, e os dois Inquiridores ainda estão
+  lá quando ele chega. Opcional em aberto: ela vê as **seis** passarem do
+  alto, sem saber de quem são.
+- **Arquivos:** `conceitos/rampillas.md`, `log.md`.
+
+## 2026-09-20 (água — estação, relógio e os furos da ponte 27→30)
+
+- **Estação fixada pelo autor:** o L1 corre no **outono**, encostando no fim
+  do verão seco. Consequência travada: **a chuva não salva ninguém** — a
+  faixa seca da subida é seca o ano inteiro (quartzo, sem solo que guarde
+  água). O outono é frio e relógio, não solução. Registrado em
+  `temas/timeline.md` (que não tinha estações) e em `conceitos/agua-e-seca.md`.
+- **Furo 1 — o cantil.** O cantil acabou na **manhã do cap. 27**, antes do
+  cerco; eles fugiram do cap. 28 sem nada. **Ponte:** os cantis dos **oito
+  mercenários mortos** (o acampamento tinha cavalos e arreios). **Detalhe
+  travado:** **só a Kate** podia pegá-los — ela foi a única que esteve dentro
+  do acampamento, e pega **depois** que a Ordem recolhe e vai embora (ela vê
+  a recolha inteira do esconderijo). **Dois cantis**, para uma boca: Mário e
+  Lakand **não têm nada**. Se ela chegasse com água para todos, a crise
+  morreria no reencontro. **Consequência:** a **Kate vira a água** — única
+  com gota, sem saber onde eles estão; o reencontro é literal, ela chega com
+  água (cap. 31). Instala o motivo do livro: **a água que vem dos mortos**
+  (bacia-isca do 27 → odres do 28 → a cicatriz além dos Moribundos). Encaixe
+  material: os odres foram cheios **antes** de os corpos apodrecerem — a
+  única água limpa do sítio está dentro dos odres dos mortos.
+- **Cada metade tem o seu relógio:** Mário/Lakand correm contra a morte; Kate
+  corre contra a distância. Não somar os dois na mesma cena.
+- **Furo 2 — voltar à bacia.** A recusa **não pode ser por medo** (homem com
+  sede bebe de qualquer lugar). O motivo é concreto: **oito corpos na beira
+  da água**, dois dias de sol, corvos dentro (cap. 29) — a bacia virou cova.
+  E o risco da volta é outro: os dois Inquiridores que sobreviveram
+  **subiram atrás do Mário**.
+- **Furo 3 — quantos capítulos.** O relógio conta **dois, no máximo três**.
+  Cap. 30 = o relógio no fim (tentativa de voltar à bacia, fracasso, a
+  decisão de Mário); cap. 31 = a água (poço racionado e/ou a cicatriz).
+  Depois do 31 a água vira **preço político**, não risco de morte.
+- **Batismo (proposta, a confirmar com o autor):** a cena precisa de água —
+  logo acontece onde há água (assentamento com poço). O problema não é a
+  falta, é a **sobra**: os convertidos dão a própria ração para o gesto. A
+  rachadura com o Lakand nasce daí — não de debate teológico, mas da conta
+  que ele vê (e ele queima o dobro). ⚠️ Não fechar sem o autor: a cena
+  carrega o primeiro "Javé" (semente #14).
+- **Arquivos:** `conceitos/agua-e-seca.md`, `temas/timeline.md`, `log.md`.
+
+## 2026-09-20 (correção — a seca é gradiente, não estado)
+
+- **Furo apontado pelo autor:** "como sobreviveram até aqui? a regra se aplica
+  ao que já passou?" A página `conceitos/agua-e-seca.md` afirmava "a região
+  está em seca" — **falso em relação ao canon**.
+- **Canon que desmente:** cap. 23 (o **riacho**, e a Kate sabia que ia
+  encontrá-lo — lê a mata), Tronk (feira, poço, **menino vendendo água**, cap.
+  29), o **Cran** (rio; a Metrópole é ilha nele). Água nunca foi problema
+  porque eles nunca estiveram longe de uma fonte.
+- **Correção:** a regra passou a separar **consumo** (1 cantil = 1 dia) de
+  **distância entre fontes** — é a distância que mata. A seca é **gradiente**:
+  mata verde no baixo → último ponto de água em Tronk/posto de comércio →
+  **faixa seca na subida da Mina** (é aí que a regra morde) → a guarnição
+  controla no alto → a água da cicatriz, além dos Moribundos.
+- **Plantio já na prosa:** o ferreiro do cap. 29 ("levou água até a metade da
+  subida e voltou com os cabelos em pé") — quem sobe, carrega.
+- **A bacia do cap. 27** fica coerente: era água de verdade numa faixa onde
+  água é rara — por isso serviu de **isca**. Água rara é água guardada.
+- **Nota:** não há canon de estações no `temas/timeline.md`; "a seca" existe
+  só como fala do Mário (cap. 27). As unidades (1 dia / meio dia de Lakand) e
+  o mapa de pontos de água estão marcados como **proposta, a confirmar**.
+- **Arquivos:** `conceitos/agua-e-seca.md`, `temas/esquema-l1.md`, `log.md`.
+
+## 2026-09-20 (decisão — a água vira prazo oficial do L1)
+
+- **Pedido do autor:** tornar a água um perigo oficial ("sem água, morrem")
+  e parte do conflito a resolver — não cenário.
+- **Regra dura criada:** `conceitos/agua-e-seca.md` (novo). Contém: a conta na
+  página (1 cantil = 1 dia de humano; **meio dia** de Lakand — a transmorfia
+  queima mais), um dente por capítulo de marcha, uma perda por aparição
+  (nunca a mesma mecânica), a escolha com preço em toda cena de água, e os
+  guardrails (milagre **não** dá água; a Voz fica muda; "achei água" não é
+  confirmação do plano dele).
+- **Água como informação:** a seca faz da água uma questão de **poder** (quem
+  sabe onde ela está, manda na estrada) — o que devolve protagonismo ao
+  abdutivo do Mário (risco estrutural #1).
+- **A água da cicatriz:** para além dos Moribundos há água, e ela **cobra** —
+  não mata, liga (o bebedor ouve a batalha fora de hora e depois perde uma
+  memória). Dá **motivo** à travessia do cap. 30.
+- **Reencontro por causa:** é a água que traz a Kate de volta ao grupo.
+- **Sementes:** #22 (A Água como Relógio) e #23 (A Água da Cicatriz) em
+  `temas/sementes.md`.
+- **Esquema:** bloco "⚑ Linha de estado — a ÁGUA" inserido antes da seção do
+  cap. 30 em `temas/esquema-l1.md`, com a progressão 30→35.
+- **Checklist:** A3 e F6 ganharam a pergunta de água nos capítulos de marcha.
+- **Arquivos:** `conceitos/agua-e-seca.md`, `temas/sementes.md`,
+  `temas/esquema-l1.md`, `conceitos/checklist-capitulo.md`, `index.md`,
+  `log.md`.
+
+## 2026-09-20 (decisão — morte de Gaviorn'l antecipada; pagamento em Gus)
+
+- **Proposta do autor avaliada e aprovada com condições.** Registrada em
+  `decisoes/gaviornl-morte-antecipada-hicse.md`.
+- **Desenho:** Kate se desloca de Mário e Lakand; o **Inquiridor da
+  cicatriz (cap. 2)** a encontra; luta; **Gaviorn'l aparece e mata o
+  Inquiridor**; **Kate mata Gaviorn'l** → **Hícse livre** → cobra Terbs →
+  **plano dos Clãs de Sangue ganha motor**.
+- **O pagamento muda de lugar:** a ação vai para ~60%; o sentido (Kate
+  descobrindo em **Gus**, pós-Mina, que a própria mão soltou a Hícse) vai
+  para ~70% e passa a ser o terceiro pilar de "Tudo Está Perdido".
+- **Condições registradas:** manter o mecanismo do canon (Benjamim o
+  envia para recapturá-la; ele abaixa a guarda por amor — a morte é
+  escolha, não acidente); Hícse livre ≠ Hícse falante (regra nova a
+  definir); o Sinal **não para** — perde o objeto; reestruturar PoV de
+  30-32 e realocar o batismo/"Javé"; a reação do Lakand não pode virar
+  debate teológico.
+- **Plantios pagos:** a carta do cap. 0 (o abalo do Sinal → sede de sangue
+  na morte de Gaviorn'l) e a âncora do Inquiridor da cicatriz.
+- **Arquivos:** `decisoes/gaviornl-morte-antecipada-hicse.md`, `log.md`.
+  Pendente: reestruturar as seções 30-32 de `temas/esquema-l1.md`.
+
 ## 2026-09-20 (cap. 29 reestruturado — ordem causal corrigida)
 
 - **Problema:** o cap. 29 lia como se Nolan desistisse de Mário **antes** de

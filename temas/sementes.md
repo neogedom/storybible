@@ -44,6 +44,27 @@ timestamp: 2026-07-24T12:00:00-03:00
   prólogo (a Metrópole). Os ecos da Milenar no cap. 30 (Moribundos) são do
   MESMO evento. "A guerra que não acabou" (sonho) = tese da saga: a Milenar
   pausa e recomeça (fim do L1: Alavria + Hícse solta; L2: a Hoste volta).
+- **Pagamento no cap. 30 — Mário RECONHECE (canon 2026-09-20).** Na travessia
+  dos Moribundos, o campo repete a **cena que ele sonhou**: irmão matando
+  irmão, o "sangue do seu próprio sangue". Ele **reconhece** — e o chão sob
+  os pés muda: aquilo **não era sonho, era lugar e tempo**, e a guerra não
+  acabou. É a primeira parcela do sonho, paga antes do fim do L1, e o bônus do
+  capítulo: o Mário sai entendendo **o mundo** um pouco melhor.
+  - **O que ele NÃO entende:** por que o campo virou (a Hícse) — isso é de
+    **Gus**. E **nada** sobre o papel dele — a faceta (4) fica para o **L2**
+    (guardrail: tema claro cedo demais = risco #4).
+  - **Facetas parciais pagas aqui:** (1) poderes declarados agem — *sentido*,
+    não sabido; (3) a guerra não acabou — primeira parcela. ⚠️ **A faceta (2)
+    "o lugar é real" fica intacta** para o Monólito (~75%): lá ele reconhece
+    o **monumento**; aqui, o **evento**.
+  - ⚠️ **Sem rostos nítidos.** Ele reconhece a **cena**, não os dois homens —
+    os rostos e os nomes ficam para a **gravura da casa real no L2**, que é a
+    confirmação do "não estou louco" (perde força se ele já os tiver visto
+    limpos em L1).
+  - **Fricção teológica (2026-09-20):** é aqui que a categoria **"demônio"
+    começa a soar pequena** para ele — a responsável pela guerra é **declarada
+    deusa**. Desconforto, não conclusão. Ver
+    `insights/categoria-demonios-pequena.md`.
 - **O nome "Guerra Milenar" é LITERAL (canon 2026-08-12)**: não significa
   que a guerra durou mil anos. Os eruditos ornickenhos não entendiam o nome
   e criaram a explicação frágil de "efeitos longos" — aceitável porque é a
@@ -478,6 +499,42 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Germinação (futuro)**: L1 caps. 30+ (a doutrina chega a quem Nolan não
   controla) e L2 (a instituição tentando enquadrar o que já não tem dono).
   Liga-se a #2 (Bíblia de Kraviam), #8 (Inquiridor do Sinal) e #20 (o trono).
+
+## 22. A Água como Relógio — "sem água, morrem"
+
+- **O que é**: a seca deixa de ser cenário e passa a ser **prazo oficial** do
+  L1. Regra dura em `conceitos/agua-e-seca.md`.
+- **Plantio executado**: cap. 27 — "A água tinha acabado naquela manhã. Kate
+  sacudiu o cantil e o virou de cabeça para baixo. Não caiu nada." A água
+  acabou **dentro** do refúgio, e a bacia onde ela estava era a isca.
+- **Plantio a executar (caps. 30-35)**: a conta na página ("dois cantis, três
+  bocas"); um dente por capítulo de marcha; uma perda por aparição, nunca a
+  mesma mecânica.
+- **Vetor do Lakand**: ele bebe o dobro (a transmorfia queima mais) e fica
+  **devendo** — a dívida dentro do grupo vira rancor, e o rancor alimenta a
+  briga "você protege um herege". Liga-se a #18 e ao fio da queda do L2.
+- **Vetor do Mário**: é o abdutivo dele que encontra água (lendo rastro, não
+  por milagre) — a água devolve **protagonismo** a ele (risco #1).
+- **Vetor do reencontro**: é a água que traz a Kate de volta ao grupo.
+  Reencontro por causa, não por coincidência.
+- **Guardrail**: milagre **não** dá água; a Voz fica muda sobre água; "achei
+  água" não é confirmação do plano dele.
+
+## 23. A Água da Cicatriz — o que os Moribundos cobram
+
+- **O que é**: para além dos Moribundos há água — e é por isso que a
+  travessia acontece. A água do campo dos ecos **não mata: liga**. Quem bebe
+  começa a ouvir a batalha fora de hora e, depois, **perde uma memória** (a
+  primeira a ir é a que tem nome próprio).
+- **Função**: transforma o cap. 30 de set-piece de criatura fantástica em
+  **necessidade** — a travessia passa a ter motivo, e o motivo tem preço.
+- **A escolha**: água limpa (longe, guardada) contra água podre (à mão,
+  cobra). A decisão é do personagem na página.
+- **Germinação (L2)**: as memórias cobradas são o material com que a Hoste
+  de Hícse se alimenta — o que se bebeu aqui volta como dívida lá. Registrar
+  o que foi perdido, para colher.
+- **Risco**: se a água da cicatriz não cobrar nada, é só poço bonito.
+  O custo tem de aparecer **no mesmo capítulo**, ainda que pequeno.
 - **Risco**: virar cena de exposição sociológica. Se o leitor não ouvir **duas
   ou três frases tortas concretas**, o fio não conta.
 

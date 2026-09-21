@@ -173,6 +173,13 @@ sermão. A soberania ambígua (o bebê salvo; Lucas não; o garoto do beco não)
   reformado (um só Deus, demônios/poderes caídos, escravizadores); nunca
   jargão de Conselho Divino. O Heiser fica para a narração/worldbuilding do
   leitor, não para a boca de Mário.
+- **Fricção plantada no cap. 30 (canon 2026-09-20):** depois dos Moribundos, a
+  palavra **"demônio" começa a soar pequena** para ele — não errada.
+  "Se passar por deus" pressupõe **disfarce**, e o que ele viu foi **poder**:
+  uma guerra travada, uma prisão e uma ferida viva no chão. O estado é
+  **desconforto, não conclusão**; a direção (que ele NÃO enuncia na página) é o
+  poder **real, caído e sob sentença** — sempre no idioma reformado dele.
+  Ver `insights/categoria-demonios-pequena.md`.
 
 ## Papel na História
 

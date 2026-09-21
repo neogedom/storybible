@@ -47,4 +47,6 @@ timestamp: 2026-07-24T12:00:00-03:00
 | 28    | Kate             | A emboscada dos Inquiridores; Kate não apodrece; "Ele terá o trono. Vonos garante." |
 | 29    | Nolan            | Tronk na subida: a carta de Layla (Juleen viva; o Conselho sem ele), a doutrina torta na feira; dois dias ao norte, a fila dos oito, o edital no bolso de um morto e a negativa da custódia; ordem aos seis e volta à Metrópole |
 
+**Estação:** o Livro 1 corre no **outono**, encostando no fim do verão seco (canon 2026-09-20; caso do cap. 28, "as pernas que tinham dormido no frio"). A estiagem é geográfica — **faixa seca na subida da Mina** —, não geral; ver `conceitos/agua-e-seca.md`.
+
 _Timeline parcial — expandir a cada INGEST de capítulo._
