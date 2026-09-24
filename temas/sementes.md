@@ -311,6 +311,13 @@ timestamp: 2026-07-24T12:00:00-03:00
   revela o que os rampillas eram; ou alguém reconhece um rosto num zumbi.
   Kate matou rampillas sem saber (caps. 0 e 20) — a revelação mancha o
   passado dela também.
+- **Agravante (canon 2026-09-21) — cap. 34**: no combate, Kate **matou duas das
+  seis e fez os convertidos executarem a que sobrou** (ver
+  `insights/recrutamento-da-kate.md`). Ninguém sabia, ninguém foi avisado, e o
+  narrador não avisa. ⚠️ **Quando a revelação cair (L2), o leitor vai lembrar
+  disto:** ela ensinou civis a matar gente — e fez disso a lição que os
+  alistou. É a segunda mancha do passado dela, e é pior que a primeira.
+  **Não tocar no cap. 34.**
 - **Germinação**: L2 — a Inquisição de Nolan com os rampillas como braço
   armado; e/ou a revelação vira condenação pública ou privada.
 - **Risco**: não pregar. A verdade cai como reconhecimento frio, não como

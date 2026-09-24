@@ -49,6 +49,48 @@ falha de rito. É como se... como se algo estivesse ocupando o canal."_
 - Nolan teme revoltas antes do amanhecer
 - Benjamim interpreta a instabilidade como "abrir caminho" para o Souhma
 
+## Por que os Inquiridores nunca o alcançam — a regra em duas camadas (canon 2026-09-21)
+
+> Pergunta estrutural do autor. **A resposta não é conveniência: é o próprio
+> Mário — e depois é a Hícse.**
+
+### Camada 1 — antes da Hícse (caps. 0-31): **ele é a interferência**
+
+- O aparelho não erra **por estar quebrado — erra por causa dele.** A
+  frequência de Mário ocupa o canal: **o caçado é a falha do instrumento.**
+- **Consequência prática (é o que governa a caça no L1):** a Ordem **não
+  consegue travar** — consegue apenas **aproximar**. Os diapasões **sobem o
+  tom** perto dele (caps. 18 e 28) em vez de fixar. Por isso a caça é sempre
+  **por proximidade e triangulação**, nunca por rastreio a distância.
+- ⚠️ **Eles ALCANÇAM Mário — não conseguem é RASTREÁ-LO.** O cap. 28 prova:
+  a patrulha acha a fenda por triangulação. O que falha não é o encontro; é a
+  **perseguição**. Uma patrulha que acha o alvo paga o preço de achá-lo.
+
+### Camada 2 — depois da Hícse (a partir do cap. 31): **o Sinal perde o objeto**
+
+- O Sinal é o **eletrocardiograma do selo**. Rompido o selo
+  (`conceitos/hicse.md`, "Depois da soltura"), o aparelho **perde a
+  referência**: não é interferência, é **ausência de sujeito**. Não há selo
+  para medir.
+- ⚠️ **Não dizer "o Sinal parou"** — contradiz a decisão de 2026-09-05. O
+  certo: **perdeu o objeto**, e com ele a **linha de base**. O que sobra é
+  ruído — tudo lê como *"não consta"*.
+- **Consequência:** a Ordem continua caçando e **caça pior** — a pé, por
+  testemunho, por registro escrito. É por isso que, no bloco da Mina, a caça
+  é feita pelos **dois com vara que sobem atrás do Mário** (cap. 29), e não
+  por leitura a distância.
+- **O que a Ordem faz quando perde o instrumento:** aperta o protocolo.
+  Quer **enquadrar** o que não consegue mais medir — e é exatamente isso que
+  já diziam no cap. 28: *"Ela não apodrece. Precisamos enquadrá-la."*
+
+### O pagamento que isso abre (não dizer na página)
+
+A Ordem registrou Kate como **"a que não consta"** (semente #19). A partir do
+cap. 31, **é o mundo que não consta** — o registro perde o referente. Numa
+instituição cuja arma é o arquivo, isso é o princípio do fim: **a Ordem vai
+atrás da anomalia justamente quando deixou de saber medir qualquer coisa.**
+Alimenta a germinação de #19 no L2 (a Ordem atrás dela).
+
 ## Conexões
 
 - [Metrópole](/lugares/metropole.md) — Onde o Monólito está

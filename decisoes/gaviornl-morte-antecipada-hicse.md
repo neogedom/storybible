@@ -81,7 +81,12 @@ a carga e ainda paga dois plantios antigos (abaixo).
   **escolha**, não acidente nem ingratidão.
 - **Hícse livre ≠ Hícse falante.** Precisa de regra nova, curta, do que a
   Hícse livre faz e não faz em Kate. Sem ela, Kate fica possuída pelos 40%
-  restantes e a estrategista da Mina morre.
+  restantes e a estrategista da Mina morre. ✔ **RESOLVIDO em 2026-09-21:** a
+  regra está em `conceitos/hicse.md` ("Depois da soltura") — **a brasa acorda
+  com o ato de matar, e sobretudo com o de ensinar a matar.** Ela não sobe
+  quando Kate mata (hábito); sobe quando ela **vê alguém matar por causa
+  dela**. Sem voz, sem posse: somática. E **Kate não sabe** — lê como natureza
+  própria até Gus.
 - **O Sinal não "para".** Contradiz `decisoes/sinal-permanentemente-instavel.md`
   ("perde o eixo", nunca mudez). O certo: o instrumento **perde o objeto**
   — selo rompido não lê nada.

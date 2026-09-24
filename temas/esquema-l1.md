@@ -549,12 +549,13 @@ o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 29 fechado em
 > | 31 | **Kate** | Os odres dos mortos → o Inquiridor da cicatriz → **Gaviorn'l mata o Inquiridor** → **Kate mata Gaviorn'l** (Hícse solta) → a busca → **o reencontro** (fecho). |
 > | 32 | **Nolan** | Juleen (enforcamento) → a observação da **dupla** pelos rampillas → a decisão de **atrair** Mário. |
 > | 33 | **Mário** | O assentamento → **o batismo** (renúncia + 1º "Javé") e a água que cobra dos pobres → **a decisão da Mina**. |
-> | 34 | **Kate** | **A tempestade de quartzo** (o manto queima) → a fissura → o recrutamento → Lakand ("você está apaixonada") → a confirmação de que ele mordeu a isca. |
-> | 35 | **Mário** | A marcha → o ensaio do discurso → a criança toca o Lakand → **Etemenanki**. |
+> | 34 | **Kate** | **O combate dos rampillas** — as seis alcançam o grupo; ela mata duas e **faz os convertidos executarem o que sobra** (é o recrutamento, feito com as mãos deles) → a fissura → Lakand ("você está apaixonada") → a confirmação de que ele mordeu a isca. |
+> | 35 | **Mário** | A marcha → **a tempestade de quartzo** (migrada do 34; o manto queima na página) → o ensaio do discurso → a criança toca o Lakand → **Etemenanki**. |
 > | 36 | **Mário** | A Mina (Ponto Central) — intacto. |
 >
 > **O que mudou:** o batismo saiu do antigo 31 → **33**; a fissura, o recrutamento e o Lakand saíram do antigo 31 → **34**; a tempestade saiu do 32 → **34**; o 31 passou a ser a **metade da Kate** (paralela ao 30). **O que NÃO mudou:** o 30 continua Mário, o 32 continua Nolan, o 33 continua a decisão do Mário, o 34 continua Kate, o 35 continua Mário, o 36 continua a Mina.
-> ⚠️ **Custo assumido:** o 33 carrega dois movimentos (batismo + decisão) — escrevê-lo **curto**, com a decisão como virada final (Corte C com ironia). O 34 carrega a tempestade + os beats de Kate — também **curto**, fechando no corte B.
+> ⚠️ **Custo assumido:** o 33 carrega dois movimentos (batismo + decisão) — escrevê-lo **curto**, com a decisão como virada final (Corte C com ironia). O 34 carrega **o combate + a fissura + o Lakand** — também **curto**, fechando no corte B; a tempestade sai daqui. O 35 passa a carregar **a tempestade + a marcha + o ensaio + a criança** — o corte A (Etemenanki) fecha.
+> **Movido em 2026-09-21:** a **tempestade** saiu do 34 e foi para o **35** (abre o capítulo, como desafio fantástico na marcha) para dar lugar ao **combate dos rampillas** no 34 — que é o recrutamento e precisa do grupo já convertido.
 > ⚠️ **Perda declarada:** cai a justaposição "Nolan enforca Juleen × Mário sobrevive à tempestade" (a tempestade mudou de capítulo). O frio da cena passa a ser a **observação da dupla** logo depois do enforcamento.
 >
 > ⚠️ **Ordem fixa: 30 ANTES de 31.** O 31 fecha no **reencontro** — logo o 30 tem de vir primeiro, senão o leitor atravessa os Moribundos já sabendo que eles sobrevivem e que a Kate chega. A sequência emocional certa é: **30 = o medo** (o campo vira; eles vivos, mas sem volta; e onde está ela?) → **31 = o alívio** (ela vive, matou, e carrega a água).
@@ -591,6 +592,8 @@ o **Ela sai do esconderijo e pega os odres.** Depois que a Ordem recolhe e vai e
 o **O Inquiridor que a acha.** Um Inquiridor que ficou no terreno — **o da cicatriz do cap. 2**, a âncora reservada desde 2026-09-09 — a localiza: quer **resolver a anomalia** ("a que não consta"). A luta expõe o que ela não pode explicar: **o fio não a cobra** (semente #19).
 
 o **Gaviorn'l chega.** Ele **mata o Inquiridor** — e a morte do sênior mostra a hierarquia (o que "dobra a auditoria" morre pelas costas de alguém acima dele). Então o confronto: ele veio por ordem de **Benjamim**, para **recolher a arma que ele mesmo forjou**. Kate recusa. **Ele abaixa a guarda por amor** (canon) — e ela o mata. **O selo rompe. Hícse sai.**
+
+o **Os que ela não manda embora (plantio novo, 2026-09-21).** Na estrada, Kate **não treina e não recruta** — mas também **não expulsa** quem se junta a ela: a família de um devedor levado, um convertido perdido (caps. 26-27), um que voltou quebrado da caçada à recompensa. Ela não os acolhe nem os chama: **continua andando, e deixa que venham.** E o treino nasce como **vazamento de hábito** — ela corrige a mão de quem corta pão, mostra onde pisar para não deixar marca, põe um atrás do outro na subida. Perto do reencontro, ela já carrega **quatro ou cinco que andam como ela**. ⚠️ **Um deles é o rosto guardado na coluna** (o homem marcado — o que começa o motim no cap. 36).
 
 o **A busca.** Com dois cantis e ninguém, Kate segue rastro. É o motor do capítulo: **ela tem o que eles precisam e não sabe onde estão.** Ironia dramática: o leitor sabe que ela carrega a água; o Mário, que acha que estão mortos em dois dias, não.
 
@@ -632,7 +635,7 @@ o **A decisão final.** Nolan não tentará capturar Mário. Tentará **atraí-l
 
 o **A mentira fundadora.** Nolan nunca dirá que quer Mário como ferramenta de Estado. Nunca dirá que o sonho dele é ser Rei. Vai esconder a Segregação, vai se fingir de reformista, vai falar de cura e esperança. **A primeira grande mentira de Nolan para Mário será a mais doce — e a mais perigosa.**
 
-o **Desafio fantástico na marcha (tempestade de quartzo).** ⚠️ **MIGRADA para o cap. 34 (2026-09-20)** — a tempestade é ação da Kate (o manto queima nela) e a cena precisa do grupo já reunido e com convertidos, o que só acontece depois do batismo do cap. 33. Nolan **não** assiste à tempestade: o que ele observa é a **dupla funcionando** (bullets acima), e é isso que o faz decidir atrair o Mário.
+o **Desafio fantástico na marcha (tempestade de quartzo).** ⚠️ **MIGRADA para o cap. 35 (2026-09-21; antes prevista no 34 e, antes disso, no 32)** — a tempestade é desafio de marcha, e o grupo precisa estar reunido, convertido e **já com o combate dos rampillas no retrovisor** (cap. 34). Nolan **não** assiste à tempestade: o que ele observa é a **dupla funcionando** (bullets acima), e é isso que o faz decidir atrair o Mário.
 
 o **✂️ Corte do capítulo (proposta 2026-09-13; revista 2026-09-20):** **Corte C** — fechar no impacto da justaposição (o corpo de Juleen e, pelos olhos dos rampillas, a **dupla trabalhando**), sem deslocamento e sem explicação. É o fecho mais forte do bloco: não diluir com aftermath. ⚠️ A tempestade saiu daqui (ver nota acima); o frio da cena agora vem da **observação da dupla** logo depois do enforcamento.
 
@@ -644,7 +647,11 @@ o **A renúncia (correção 2026-08-10):** Mário adapta a abrenuntio da igreja 
 
 o **Primeira aparição de "Javé" no livro (canon 2026-08-10; renumerada em 2026-09-20):** o nome próprio só entra **aqui** — caps. 0-32 usam "Deus", "o Deus de Mário" e "Eu Sou" (cap. 20). É um reveal deliberado: o nome da aliança é pronunciado pela primeira vez no exato momento em que a primeira comunidade de aliança de Ornick se forma — um novo Sinai. **Caps. 21-32 NÃO devem usar "Javé".**
 
-o **A decisão que já estava tomada.** Mário passa os dias anteriores processando tudo: os refugiados, os escravos na Mina, a perseguição, o silêncio da Voz. Kate já o convenceu a tomar a Mina desde a fuga do castelo — mas naquela hora foi arrastado pelo desespero e pela argumentação dela. Agora, sozinho, ele **reconecta os pontos por conta própria**.
+o **A objeção — e o xeque-mate (canon 2026-09-21).** Ao ver o treino de madrugada, Mário **não fica calado**: ele **nomeia** ("Isso é um exército se formando, Kate" — eco do "Você quer uma guerra" do cap. 23), pois já recusara o pitch de guerra no cap. 23 ("Não vou ser o estopim de nada"). Kate **não nega** — reenquadra (a estrada é caçada; quem não aprende morre no primeiro cerco) — e fecha devolvendo **a frase dele**: _"Você disse que ninguém precisa pagar. Eu estou ensinando eles a não deixar cobrar."_ Ele não consegue refutar a própria sentença.
+
+o **O que ele faz em vez de proibir: supera.** Se ela vai dar armas, ele vai dar **liberdade**: decide tomar a Mina para soltar os escravos. ⚠️ **A decisão da Mina nasce da objeção ao treino** — ele não está só reconectando os pontos por si; está respondendo a algo que ela pôs na frente dele. **E acha que ganhou.** (É isso que dá à Kate o consentimento: o treino continua, agora *autorizado* por ele.)
+
+o **A decisão que já estava tomada.** Mário passa os dias anteriores processando tudo: os refugiados, os escravos na Mina, a perseguição, o silêncio da Voz. Kate já o convencera a tomar a Mina desde a fuga do castelo — mas naquela hora foi arrastado pelo desespero e pela argumentação dela. Agora, sozinho, ele **reconecta os pontos por conta própria**.
 
 o Ele refaz o caminho lógico (abdução): a Mina financia a Metrópole → libertar a Mina quebra o sistema → escravos libertos são testemunhas vivas. **A Voz não diz nada. Não há sonho, não há anjo. Mário não está descobrindo o plano — está tornando o plano dele.**
 
@@ -654,7 +661,13 @@ o Decide: vai até a Mina de Quartzo. Não para tomar poder — para libertar os
 
 o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C com gancho de ironia** — fechar no momento em que a decisão se forma (ele *quer* ir), deixando o leitor com o que ele não sabe: que a convicção foi plantada. Não transformar o capítulo em ensaio interior — a decisão é o clímax; cortar nela. **Marca do passe de fechos (2026-09-18):** a decisão grande tem de ser **de Mário na página** (os caps. 26-28 o deixaram reativo); não fechar em deslocamento, nem com "norte".
 
-o **A tempestade de quartzo (migrada do cap. 32 — 2026-09-20).** Vento que carrega fragmentos de quartzo da Mina, cortando a pele exposta, cegando quem respira a poeira. O grupo se abriga numa fenda na rocha. **Kate improvisa proteção com o manto de xilomagia — e a carga queima aqui** (a depleção decidida em 2026-08-14 finalmente tem casa e tem preparação). Lakand usa o corpo como escudo para as crianças. Mário ora em silêncio — não pede, apenas observa. A tempestade passa e o grupo sai mais unido. ⚠️ **O manto morre na página**, não fora dela.
+o **O combate dos rampillas (ideia do autor, 2026-09-21).** As **seis** alcançam o grupo. **Kate vence na frente dos convertidos** — e **poderia ter evitado** o encontro: não evita porque precisa que eles vejam. Ela mata **duas** (⚠️ não as seis — a delegação de Nolan não pode evaporar) e **faz os convertidos executarem o que sobra**. O último rampilla não é luta: é **abate**, com a faca na mão de quem nunca matou. É o recrutamento — feito **com as mãos deles**. ⚠️ **Nada de fogo** (a casca queima, mas essa descoberta é do Mário e fica guardada); ela vence com lâmina, peso e o fato de eles **não desviarem**. ⚠️ **A lição não sai da boca dela:** ela não diz *"comigo vocês vencem a Mina"* — **entrega a faca ao próximo**. E não promete vitória: a promessa é **parar de pagar**. ⚠️ **Não tocar na mina moral:** cada rampilla foi uma pessoa (semente #13) — ninguém sabe, o narrador não avisa, e a revelação é do L2.
+
+o **A brasa de volta (canon 2026-09-21).** Quando a faca do convertido entra no rampilla que sobra, **a coisa acorda em Kate** — somática, como no Prólogo: o dente travando, a pressão abaixo do osso, o sangue grosso. ⚠️ **Não sobe no abate dela** (isso é hábito): sobe porque ela **viu alguém matar por causa dela**. Nada de voz, nada de Hícse falando; e **ela lê como natureza própria** ("é o que eu sou") — a ficha só cai em **Gus**. Ver `conceitos/hicse.md` ("Depois da soltura"): cada convertido alistado é matéria-prima da Hoste do L2 — ela liberta a deusa da guerra e passa a alimentá-la sem saber.
+
+o **E o que o Lakand vê.** Ela fez com estranhos o que fizeram com ela. É aqui que cai o **"você está repetindo o erro deles"**.
+
+> A **tempestade de quartzo** saiu deste capítulo — foi para o **35** (ver seção do cap. 35).
 
 o **A fissura (migrada do antigo cap. 31).** Kate observa uma criança cega abraçando a mãe depois que Mário ora por ela. A cena não a comove — mas algo a incomoda. Ela se pega pensando na libertação deles não como estratégia, mas como... necessidade? Abafa o pensamento.
 
@@ -682,7 +695,9 @@ o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte B** — fechar no
 
 o Marcha em direção à Mina. O grupo cresceu: Kate, Lakand, convertidos do assentamento, alguns refugiados que creram. **Não é um exército — é um bando de quebrados.** Kate organiza a logística. Lakand lidera os batedores.
 
-o **Mário ensaia o discurso.** Durante uma parada, Mário se afasta do grupo. Kate o observa de longe: ele está falando sozinho, gesticulando, repetindo frases em voz baixa. **Está ensaiando o discurso para a Mina.** Não está orando. Não está pedindo direção. Está preparando o controle do resultado. Kate vê e arquiva: _"ele acha que palavras resolvem tudo."_ O leitor sente o desconforto — o pregador ensaia, mas não ora.
+o **A tempestade de quartzo (migrada para cá em 2026-09-21).** Abre o capítulo: vento que carrega fragmentos de quartzo da Mina, cortando a pele exposta, cegando quem respira a poeira. O grupo se abriga numa fenda na rocha. **Kate improvisa proteção com o manto de xilomagia — e a carga queima aqui** (a depleção decidida em 2026-08-14 finalmente tem casa e preparação). Lakand usa o corpo como escudo para as crianças. Mário ora em silêncio — não pede, apenas observa. A tempestade passa e o grupo sai mais unido. ⚠️ **O manto morre na página**, não fora dela. ⚠️ **E o que Mário viu no cap. 34** (os convertidos com a faca na mão) é o que dá urgência ao ensaio do discurso: ele está preparando **palavras contra o que já aconteceu.**
+
+o **Mário ensaia o discurso.** Durante uma parada, Mário se afasta do grupo. Kate o observa de longe: ele está falando sozinho, gesticulando, repetindo frases em voz baixa. **Está ensaiando o discurso para a Mina** — o discurso que, na cabeça dele, é a **resposta ao treino**: palavras no lugar de armas. Não está orando. Não está pedindo direção. Está preparando o controle do resultado. Kate vê e arquiva: _"ele acha que palavras resolvem tudo."_ O leitor sente o desconforto — o pregador ensaia, mas não ora.
 
 o **Criança toca Lakand.** Durante a marcha, uma criança — a mesma que sorriu para Lakand no batismo (cap. 31) — se aproxima dele sem medo. Toca o braço dele (forma híbrida ou humana). Pergunta: _"Você também é amigo do Mário?"_ Lakand congela. Não sabe responder. A criança aperta o braço dele e sai correndo. Lakand fica parado, processando. **Ele foi visto como "gente" por uma criança.** O desejo do cap. 13 reacende — mas ele não sabe o que fazer com isso.
 

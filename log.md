@@ -1,5 +1,248 @@
 # Log de Atualizações
 
+## 2026-09-21 (por que os Inquiridores nunca o alcançam — regra em duas camadas)
+
+- **Proposta do autor:** "com a Hícse solta, a medição dos Inquiridores não
+  funciona mais, e isso explica porque eles nunca alcançam Mário. Certo?"
+  **Parcialmente** — e a correção deixa melhor, porque a explicação principal
+  já estava no canon.
+- **Camada 1 — antes da Hícse (caps. 0-31): ele é a interferência.** O Sinal
+  falhou na chegada de Mário porque **a frequência dele ocupou o canal** (canon
+  2026-09-05): **o caçado é a falha do instrumento.** Consequência prática: a
+  Ordem **não trava** — só **aproxima** (os diapasões sobem o tom perto dele em
+  vez de fixar). A caça é sempre por **proximidade e triangulação**.
+  ⚠️ **Correção do pressuposto:** eles **alcançam** Mário (o cap. 28 prova — a
+  patrulha acha a fenda por triangulação). O que falha não é o encontro: é a
+  **perseguição**.
+- **Camada 2 — depois da Hícse (do cap. 31 em diante): o Sinal perde o OBJETO.**
+  O Sinal é o eletrocardiograma do selo; rompido o selo, **não há sujeito para
+  medir**. ⚠️ **Não dizer "o Sinal parou"** (contradiz a decisão de 2026-09-05):
+  o certo é **perdeu o objeto e a linha de base** — o que sobra lê como *"não
+  consta"*.
+- **A caça piora, não para:** a Ordem continua e caça **a pé, por testemunho e
+  por registro escrito** — é por isso que, no bloco da Mina, quem persegue são
+  **os dois com vara do cap. 29**, e não uma leitura a distância. E aperta o
+  protocolo: quer **enquadrar** o que não consegue medir.
+- **O pagamento que isso abre:** a Ordem registrou Kate como **"a que não
+  consta"** (semente #19) — e a partir do cap. 31 **é o mundo que não consta**.
+  Numa instituição cuja arma é o arquivo, o registro perde o referente. Ela vai
+  atrás da anomalia justamente quando deixou de saber medir qualquer coisa
+  (germinação de #19 no L2).
+- **Arquivos:** `conceitos/sinal-de-vonos.md` (regra completa),
+  `conceitos/hicse.md`, `log.md`.
+
+## 2026-09-21 (a brasa de volta — Hícse solta responde ao ensino)
+
+- **Ganho apontado pelo autor:** ela já matou Gaviorn'l e a Hícse já está
+  solta — logo **ensinar a matar acorda a brasa**, a sede de sangue.
+- **Isso FECHA uma pendência** que estava aberta desde a decisão do Gaviorn'l:
+  a regra de "Hícse livre ≠ Hícse falante". Ela está agora em
+  `conceitos/hicse.md` ("Depois da soltura").
+- **A regra:** **somática, nunca demoníaca** — nada de voz, nada de posse,
+  nada de diálogo. A pressão abaixo do osso, o dente travando, o sangue
+  grosso como metal. **Guerra.**
+- ⚠️ **A distinção que vale a cena:** a brasa **não sobe quando ela mata** (ela
+  mata desde criança — é hábito). Sobe quando ela **vê um estranho matar por
+  causa dela** — o instante em que a faca do convertido entra. Ela deixou de
+  ser a mão e virou a **forja** — e é isso que a coisa quer: não uma arma,
+  uma **fonte**.
+- ⚠️ **Ela não sabe.** Lê a brasa como natureza própria ("é o que eu sou") e
+  só descobre que libertou Hícse em **Gus**. É isso que a torna trágica: ela
+  se culpa por algo que fez a si mesma sem saber.
+- **A ironia estrutural (nunca na página):** o que ela constrói não é um
+  exército — é uma **congregação**. Cada convertido é **matéria-prima da
+  Hoste** que Hícse vai reconstruir no L2. Ela liberta a deusa da guerra e
+  depois passa a alimentá-la sem saber.
+- **Consequência com a Ordem:** com o selo rompido, o **Sinal perde o objeto**
+  (não "fica mudo" — ver `decisoes/sinal-permanentemente-instavel.md`). A
+  Ordem caça com um instrumento morto — e é por isso que querem **enquadrar**
+  o que não conseguem mais medir.
+- **Paga a cobrança do cap. 0** ("o abalo do Sinal → a sede de sangue de
+  Kate") com uma razão melhor que o abalo: **o selo rompido, e depois o
+  sangue.**
+- **Arquivos:** `conceitos/hicse.md`, `insights/recrutamento-da-kate.md`,
+  `temas/esquema-l1.md` (cap. 34),
+  `decisoes/gaviornl-morte-antecipada-hicse.md`, `log.md`.
+
+## 2026-09-21 (o batismo de sangue — os rampillas encontram Kate)
+
+- **Ideia do autor:** as seis rampillas alcançam Kate com os convertidos; ela
+  os defende, mata alguns, e **faz os convertidos matarem o que sobra**. Lição:
+  "comigo, vocês podem vencer a Mina". **Aprovada com três correções.**
+- **O que a ideia resolve:** as seis estavam soltas desde o cap. 29 (seguindo o
+  sangue-isca dela) **sem desfecho previsto**. A cena paga a dívida.
+- **Correção 1 — lugar: cap. 34, e a cena É o recrutamento.** Não é um beat a
+  mais; é **como** a lista se forma. Assim o 34 passa a ter o combate + a fissura
+  + o Lakand, e **a tempestade sai para o 35** (confirmação ao lado do corte A
+  de Etemenanki).
+- **Correção 2 — o gatilho é escolha dela.** ⚠️ Não é emboscada: **ela poderia
+  evitar** o encontro e **não evita, porque precisa que eles vejam.** A lição é
+  o motivo do combate — e é isso que faz a cena ser dela.
+- **Correção 3 — o que ela ensina não é uma frase.** Ela **não diz** "comigo
+  vocês vencem a Mina": isso é slogan e ela não faz slogan. O que acontece é
+  mais duro — ela mata a maioria e **faz os convertidos acabarem com o que
+  sobra**. Vencer não é o mesmo que executar, e o último rampilla **não é luta:
+  é abate**, com a faca na mão de quem nunca matou. A lição que o grupo tira
+  sozinho: *se ela fez a gente fazer isso, o resto também dá.* E o gesto final
+  dela é **entregar a faca ao próximo**, não discursar.
+- **Três disciplinas:** (a) **ela mata no máximo DUAS das seis** — se todas
+  morrerem, a delegação de Nolan evapora e o bloco da Mina perde pressão;
+  (b) **nada de fogo** — a casca de resina queima, mas essa descoberta é do
+  Mário e fica guardada para o clímax da perseguição; (c) **não tocar na mina
+  moral** — cada rampilla foi uma pessoa (semente #13), ninguém sabe, e o
+  narrador não avisa.
+- **O agravante registrado na semente #13:** quando a revelação cair (L2), o
+  leitor vai lembrar **disto** — ela ensinou civis a matar gente e fez disso a
+  lição que os alistou. Segunda mancha do passado dela, pior que a primeira.
+- **A ressonância a cuidar:** nos Moribundos a lei era **não revidar**; aqui é
+  o contrário. Não é contradição (lá são ecos sem corpo, aqui são corpos), mas
+  o contraste tem de ficar claro na página.
+- **E o que o Lakand vê:** ela fez com estranhos o que fizeram com ela — é aqui
+  que cai o *"você está repetindo o erro deles"*.
+- **Movido de novo:** a **tempestade de quartzo** sai do 34 e vai para o **35**
+  (abre o capítulo, como desafio de marcha). E o que Mário viu no 34 dá urgência
+  ao ensaio do discurso no 35: **palavras contra o que já aconteceu.**
+- **Arquivos:** `insights/recrutamento-da-kate.md`, `temas/esquema-l1.md`
+  (mapa + caps. 34 e 35), `temas/sementes.md` (#13), `log.md`.
+
+## 2026-09-21 (o treino na estrada do cap. 31 — companhia, não aula)
+
+- **Proposta do autor:** "poderíamos colocar o treinamento naqueles que Kate
+  encontra antes de reencontrar Mário?" **Sim — mas não como treino.**
+- **Por que não como treino:** uma mulher sozinha, caçada, com dois cantis, não
+  monta pátio de exercício na estrada. E se montasse, o leitor não acreditaria.
+- **O que ela faz: não manda embora.** É o gesto inteiro — a Kate que não tem
+  pena **não expulsa** quem se junta. Quem vai atrás é quem a estrada já quebrou
+  (a família de um devedor levado, um convertido perdido dos caps. 26-27, um que
+  voltou quebrado da caçada à recompensa). Ela não chama e não acolhe: **continua
+  andando e deixa que venham.**
+- **E o treino nasce como vazamento de hábito, não como aula:** ela corrige a
+  mão de quem corta pão, mostra onde pisar para não deixar marca, põe um atrás
+  do outro na subida. Não é didática — **é hábito escapando**, porque ela não
+  sabe estar perto de gente sem consertar gente.
+- **O que chega ao reencontro:** não um exército — **quatro ou cinco que já
+  andam como ela.** Mário vê, e é pior que um treino: é **prova de contágio**.
+- **A réplica dela:** *"Eu não ensinei nada. Eles só andaram comigo."* É
+  verdade, é esquiva, e é a resposta mais dela que existe.
+- **Um deles é o rosto guardado na coluna** (o homem marcado) — o que começa o
+  motim no cap. 36.
+- **⚠️ Não fazer dela mãe-de-tropa.** Ela não consola, não explica, não promete:
+  **anda e não manda embora.**
+- **A sequência travada:** estrada = **companhia** (31) → reencontro e a objeção
+  → **treino de verdade**, público e autorizado, no assentamento e na marcha
+  (33-35).
+- **Arquivos:** `insights/recrutamento-da-kate.md`, `temas/esquema-l1.md`
+  (cap. 31), `log.md`.
+
+## 2026-09-21 (Mário NÃO fica calado — a objeção que decide a Mina)
+
+- **Objeção do autor (correta):** "Não seria estranho, Mário, que já condenou
+  Kate por ela estar pensando em guerra, ver ela treinando gente e não falar
+  nada?" **É — e o canon sustenta:** cap. 23, ele **nomeia** (*"Você quer uma
+  guerra"*) e **recusa o pitch** (*"Não vou ser o estopim de nada"*).
+- **Correção aplicada:** o desenho anterior ("ele vê e aprova") cai. **Ele
+  fala — e perde ganhando:**
+  1. **Ele nomeia:** *"Isso é um exército se formando, Kate"* (eco do cap. 23).
+  2. **Ela não nega** — reenquadra: a estrada é caçada, e quem não aprende morre
+     no primeiro cerco.
+  3. **Xeque-mate com a frase dele:** *"Você disse que ninguém precisa pagar. Eu
+     estou ensinando eles a **não deixar cobrar**."* A pregação dele virada em
+     arma, dita na cara dele.
+  4. Ele não refuta a própria sentença — e **em vez de proibir, supera**: se ela
+     dá armas, ele dá **liberdade**. Decide tomar a Mina para soltar os escravos.
+- ⚠️ **Consequência estrutural (o ganho):** a **decisão da Mina nasce da objeção
+  ao treino.** Ele não reconecta os pontos só por si — está respondendo a algo
+  que ela pôs na frente dele. **E acha que ganhou.** É isso que dá à Kate o
+  consentimento que ela precisava: o treino continua, agora **autorizado** por
+  ele.
+- **A venda nos olhos dele mudou de lugar:** não é sobre a espada — é sobre a
+  **própria vitória**. Mesmo erro do cap. 33: julgar pela superfície, não por
+  quem plantou.
+- **Eco no cap. 35:** o discurso que ele ensaia é a **resposta ao treino** —
+  palavras no lugar de armas. Ele não está só preparando o controle do
+  resultado; está se preparando para ganhar a discussão.
+- **Arquivos:** `insights/recrutamento-da-kate.md`, `temas/esquema-l1.md`
+  (cap. 33 e 35), `log.md`.
+
+## 2026-09-21 (onde e quando ela treina — e o Mário vê)
+
+- **Perguntas do autor:** "onde e quando ela faz isso? Mário vê?"
+- **Onde:** no **assentamento** (cap. 33 — o poço, o acampamento) e em **cada
+  parada da marcha** (cap. 35).
+- **Quando:** de **madrugada**, antes de levantar acampamento — a hora que
+  ninguém quer e em que todos estão vendo.
+- **A justificativa é real:** eles estão sendo caçados (as seis rampillas, os
+  dois Inquiridores). *"Todo mundo aprende a se defender"* não é só cobertura —
+  é **necessidade**, e é isso que compra o consentimento dele.
+- **⚠️ O Mário VÊ — e isso é regra de canon.** O treino é público; escondê-lo
+  do sujeito que lê padrão seria erro, e o leitor não acreditaria.
+- **Ele não vê nada de errado porque, na página, nada está errado:** ele vê
+  gente aprendendo a se defender e **aprova**. **A venda nos olhos dele é a
+  própria teologia** — quem não acredita na espada lê um exercício como
+  **tarefa**, não como arma. Não é burrice; é doutrina.
+- **A lâmina, na imagem:** ele vê as **crianças pulando entre os quadrinhos
+  riscados na terra** e sorri — e o leitor reconhece o pátio de pedra do cap. 6.
+- **O quase:** ele pergunta *"por que os velhos também?"* e ela responde
+  *"porque a estrada não escolhe"*. Ele aceita. É a melhor resposta dela, e é
+  verdade.
+- **Quem vê:** o **Lakand** — e não diz nada ali, guarda para o cap. 34. A
+  triangulação é o grupo inteiro num quadro: Mário aprova, Kate constrói,
+  Lakand cala.
+- **Arquivos:** `insights/recrutamento-da-kate.md`, `log.md`.
+
+## 2026-09-21 (como a Kate treina — o treino é público, a seleção é privada)
+
+- **Pergunta do autor:** "e como ela treina?" — travado em
+  `insights/recrutamento-da-kate.md`.
+- **Regra-mãe: ela treina do jeito que foi treinada.** O método dos gornads — o
+  peso morto, a repetição até o gesto deixar de ser pensado, os **quadrinhos
+  desenhados a carvão** no chão (canon: cap. 6). **Ela passa a forja adiante** —
+  e é isso que dói, e o que o Lakand vai apontar no cap. 34. Nada de veredito na
+  página.
+- **Adaptação de material:** pedra, saco, balde cheio (peso morto barato); os
+  quadrinhos riscados **com graveto na terra**; e o que ela ensina **não é
+  esgrima** — ninguém terá espada: é o que a Mina dá (**picareta, corrente,
+  carrinho, a lâmpada e o escuro**) mais **anatomia, não honra**.
+- **A voz:** quase sem palavras — demonstra, eles imitam, ela corrige a mão.
+  Sem motivação, sem elogio (o elogio é dele). ⚠️ **Nada de sargento de
+  clichê:** ela não grita nem humilha — o castigo dela é **repetição**, e é aí
+  que se diferencia de Gaviorn'l sem perceber.
+- **A cobertura (o achado):** **ela treina todo mundo** — velhos, mulheres, os
+  que nunca pegarão numa arma. "Todo mundo aprende a se defender" é verdade **e**
+  é o disfarce: se todos treinam, não há recruta nem exército a ser encontrado.
+  **A parte visível é defesa; a parte invisível é a lista** — quem aguenta o
+  peso e olha com vontade de fazer ganha só um nome na cabeça dela.
+- **A honestidade seleciona:** ela **não promete que eles vão viver** — diz que
+  muitos vão morrer. A promessa é outra: **parar de pagar.** Quem aceita
+  sabendo o preço é exatamente a "determinação em vez de devoção"; quem queria
+  ser salvo vai embora ali mesmo.
+- **Arquivos:** `insights/recrutamento-da-kate.md`, `log.md`.
+
+## 2026-09-21 (recrutamento da Kate — quem ela chama e quem não)
+
+- **Pergunta do autor:** "ela chama os devedores e refugiados para seu
+  exército?" **Não** — e a distinção ficou travada em
+  `insights/recrutamento-da-kate.md`.
+- **Os devedores: ela NÃO os recruta.** Quem sobe a estrada do norte vai
+  **amarrado e escoltado** — não há conversa. Quem fica é a **família** (a mãe,
+  a mulher, o pai velho de quem a dívida levou). São esses que seguem quem
+  prometa quebrar a máquina, e são esses que a Mina nunca conta.
+- **Os refugiados: não a multidão.** Eles já vêm reunidos pela pregação; o que
+  ela faz no assentamento é **escolher**, com um filtro só (canon):
+  **determinação em vez de devoção** — quem olha o Mário querendo fazer, não
+  querendo ser salvo. É o oposto do público dele, de propósito.
+- **Como ela chama: treinando.** Nada de convite — quem aparece no treino está
+  recrutado. O **gesto é o recrutamento** (a mão que corrige a pegada na faca),
+  o espelho exato do método dele: **ele convence falando; ela convence fazendo.**
+- **A ordem que importa:** ela não recruta os escravos da Mina — **liberta**, e
+  ali a libertação **é** o recrutamento. Quem sobe no cap. 36 não é dela.
+  **O exército dela nasce depois, em Gus** — antes disso ela tem **nomes e
+  rostos, não tropa.**
+- **Disciplina de número:** no bloco da Mina, nada de massa. Se ela juntar
+  gente demais aqui, o motim do 36 perde a espontaneidade e o clímax do L1 fica
+  pré-queimado.
+- **Arquivos:** `insights/recrutamento-da-kate.md`, `log.md`.
+
 ## 2026-09-20 (ordem 30→31 fixada; o recrutamento da Kate)
 
 - **Ordem fixada: 30 (Mário) ANTES de 31 (Kate).** Não é preferência — é
