@@ -1,88 +1,99 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 26
-titulo: "O Preço da Fama"
-pov: Kate
+capitulo: 27
+titulo: "O Cerco"
+pov: Mário
 beat_stc: Jogos e Diversão
-percentual_l1: ~50,7% (real, régua 137,5k)
-data_ingest: 2026-09-02
+percentual_l1: ~52,3% (real, régua 137,5k)
+data_ingest: 2026-09-11
 personagens:
-  - Kate (POV)
-  - Mário
+  - Mário (POV)
+  - Kate
   - Lakand
-  - Carroceiro de Tronk (antagonista, derrotado em debate)
-  - Mercenário do machado (ferido por Kate)
-  - Convertidos de Tronk (perdidos na fuga)
-  - Mulher de avental (defende Mário)
+  - A Voz (confronto — clímax)
+  - Mercenários da recompensa (panos no rosto; sitiam a caverna; não nomeados)
+  - Carroceiro de Tronk (mencionado — vendeu o caminho; fecho da vingança)
+  - Lucas (na confissão — Terra; ele estava no colégio)
+  - O rapaz da calçada (na confissão — cap. 1)
 lugares:
-  - Posto de comércio a norte de Tronk (sem nome)
-  - Mata após a fuga
-  - Clareira do acampamento noturno
+  - Estrada seca ao norte de Tronk (rota da Mina)
+  - Bacia de pedra com água (a isca da armadilha)
+  - Caverna de entrada única (fenda na rocha — o cerco)
 conceitos:
-  - Souhma (título popular disputado — uns atribuem, outros negam)
-  - Recompensa de Genocydo (reconhecida por mercenário, incita cobiça)
-  - Raciocínio abdutivo de Mário (primeiro uso em argumentação, não em tática)
-  - Debate filosófico (fato vs. conclusão, medo vs. pensamento)
-  - Milagre com custo (a cura gera oposição, não só adesão)
+  - Voz (exposição em dois argumentos — língua e corpo; "Por que só agora?"; silêncio)
+  - Glossolalia invertida (a oração escorrega de português para ornickenho)
+  - Culpa em livro-razão ("as contas"; "números que não fechavam")
+  - Fase escolar de Mário (canon 2026-09-11 — colégio quando Lucas morreu; ver personagens/mario.md)
 sementes:
-  - Carroceiro humilhado no debate — cuspiu no chão na fuga (rancor → cap. 27 como informante dos caçadores)
-  - Mário questiona violência de Kate ("Isso não é certo") — primeira fissura moral (eco no Ponto Central, cap. 36)
-  - Lakand revela que queimou Saramant por Kate — dívida em aberto (nunca resolvida no L1)
-  - Lakand acusa Kate de estar se afeiçoando como Theodore — afastamento entre os dois
-  - Kate reafirma Mário como instrumento, nega o afeto ("Vou precisar que eles estejam de pé quando a hora chegar. Depois eu decido.")
-  - Recompensa reconhecida publicamente → caçadores no cap. 27
-  - Convertidos de Tronk perdidos — a esperança não sobreviveu à oposição
+  - O hino em português — Kate ouviu (semente #1; pergunta pendente para capítulo futuro)
+  - "Por que só agora?" + silêncio da Voz — nadir (alimenta o Ponto Central)
+  - Mercenários silenciam um a um — gancho direto do cap. 28
+  - A mancha de sangue na camiseta (culpa física — visual do Mário)
 ---
 
-# Capítulo 26 — O Preço da Fama
+# Capítulo 27 — O Cerco
 
 ## Resumo
 
-POV Kate. Marcha ao norte de Tronk com os convertidos da feira. Kate sonda um deles ("e se houvesse um jeito de vocês nunca mais serem escravos de ninguém?") — o homem não entende; ela não insiste. Num posto de comércio, Mário prega e o carroceiro de Tronk (o que fugira humilhado) o acusa de feiticeiro. Mário desmonta o acusador em debate (fato vs. conclusão; medo vs. pensamento) — mas a vitória acende a cobiça: um mercenário reconhece a recompensa do Rei; a acusação de Saramant escala; Lakand trucida um acusador; um mercenário toma Mário como refém e Kate o mata pela lateral. Fuga pelo norte; os convertidos de Tronk se perdem. À noite, na clareira, Lakand expõe o que queimou por ela e acusa: "você mudou... como se ele fosse o Theodore." Kate racionaliza ("Mário é um instrumento... Depois eu decido"). "Você mente bem. Mas não mente para mim." O espaço entre os dois cresce.
+POV Mário. Dias de marcha ao norte; a água acaba. Mário lê o tráfego no chão (pegadas descendo, rota de carroça) e encontra água numa bacia de pedra — que é isca: mercenários da recompensa fecham o cerco ("O feiticeiro! Prendam vivo!"). A fuga leva o grupo a uma caverna de entrada única; Lakand puxa para dentro o primeiro que tenta entrar (o grito para de repente) e o cerco se instala — os homens acampam sobre a água, à espera.
+
+À noite, as vozes trazem o preço ("vale uma fortuna") e a origem: o carroceiro de Tronk vendeu o caminho — a vitória do debate comprou a armadilha. Mário se culpa ("Fui eu"); Kate corta ("Você não é o centro de tudo"). Mário confessa Lucas — o irmão, as drogas, os dois anos de argumentos, a morte longe dele, o rapaz da calçada — e chora. Kate não consola: "Guarde a saliva e trate de se recompor. Isso pode demorar."
+
+Mais tarde, ele canta baixinho "Mais perto quero estar" (em português); depois ora — e a oração escorrega de português para ornickenho sem ele perceber. A Voz fala: reivindica a língua ("Eu as pus na sua boca") e o corpo (a implosão despedaçou sua clavícula e colapsou seu pulmão; ele acordou sem ferimento nenhum) — e fecha com "Por que só agora?". Silêncio. Antes da luz, as vozes do cerco morrem uma a uma ("Três. Duas. Uma.") e um som que ele não sabe nomear passa lá fora. O capítulo fecha nos dois silêncios — e o de fora é pior.
 
 ## Personagens
 
-### Kate (POV)
+### Mário (POV)
 
-- Sonda o convertido da feira (a "semente de rebelião" — 1ª plantada; sem insistência)
-- Assume o comando na fuga ("Chega. Vamos."); dobra o Lakand ("desde quando briga vira suicídio?")
-- Mata o mercenário do machado (a faca entra entre as costelas) — o ato que fratura a confiança de Mário
-- Recusa o afeto exposto por Lakand; reafirma Mário como instrumento e a si mesma como futura líder
+- Acerta a água, erra os homens — a vitória do abdutivo vira culpa ("Mário ganhou uma discussão e um cerco")
+- Confessa Lucas com precisão canônica: estava no colégio (ensino médio); a teologia veio depois, por culpa; a hesitação foi com o rapaz da calçada (cap. 1), nunca com Lucas; não viu o corpo
+- "Não sabia fazer outra coisa... Como se tudo se resolvesse na conversa" — a inadequação exposta
+- Canta em português; ora (PT → ornickenho); a Voz expõe a oração como autointeressada ("Por que só agora?")
+- Fecha: "Estou preso. Estou com medo" — as duas frases são a mesma frase
 
-### Mário
+### Kate
 
-- Prega no posto; vence o debate sozinho (não pede ajuda a Kate)
-- Primeira fissura moral com a violência dela: "Isso não é certo. Eu não vim para isso."
-- Dorme antes da conversa da clareira (não ouve a acusação do Theodore)
+- Sentinela na boca da fenda (a faca na mão / no colo)
+- Não consola — corta ("Então cala a boca"; "Você não é o centro de tudo") e depois sentencia: "Isso pode demorar."
+- Vira a cabeça quando a oração escorrega para o ornickenho; não pergunta nada
 
 ### Lakand
 
-- Perde o controle na acusação de Saramant e mata; discute com Kate na fuga
-- Confessa "Queimei Saramant por você"; expõe a mudança dela; "você mente bem, mas não mente para mim"
-- Afasta-se (o espaço entre os dois cresce)
+- Puxa Mário para a fenda; puxa o lanceiro para dentro ("como quem puxa água de um poço")
+- Deitado virado para fora; quando o silêncio de fora muda, levanta a cabeça devagar e abre as narinas no escuro
+
+### A Voz
+
+- Fala pela primeira vez desde a crise (cap. 21): expõe, não socorre — dois argumentos (língua e corpo) e a pergunta "Por que só agora?"
+- Cala depois; o silêncio pesa mais
 
 ## Eventos
 
-1. Marcha ao norte; Kate sonda o convertido (abertura) e desiste
-2. Posto de comércio: a pregação; a acusação do carroceiro; o debate (Mário vence)
-3. O mercenário reconhece a recompensa; a cobiça se acende
-4. Lakand trucida o acusador de Saramant
-5. O refém: o machado no pescoço de Mário; Kate mata o mercenário
-6. Fuga pelo norte; convertidos de Tronk não seguem
-7. Clareira: a confissão de Lakand ("por você"); "você mudou"; a acusação do Theodore; o afastamento
+1. Marcha ao norte; a água acaba; Mário lê o tráfego e encontra a água — que é isca
+2. Armadilha dos mercenários ("Prendam vivo!"); fuga para a caverna de entrada única
+3. Lakand puxa o lanceiro para dentro; o cerco se instala (acampam sobre a água)
+4. À noite: o preço (ouro) e a origem (o carroceiro de Tronk vendeu o caminho)
+5. Mário se culpa; Kate corta; Mário confessa Lucas — chora
+6. "Isso pode demorar." — o não-consolo de Kate
+7. Canta "Mais perto quero estar" (PT); ora (PT → ornickenho)
+8. A Voz expõe (língua + corpo); "Por que só agora?"; silêncio
+9. As vozes do cerco morrem uma a uma — gancho do cap. 28
 
 ## Sementes e Conexões
 
-Sementes no frontmatter. Continuidade:
-
-- "Isso não é certo" — primeira fissura moral de Mário (eco previsto no Ponto Central, cap. 36)
-- A sonda da Kate ao convertido — 1ª semente da rebelião (consolidada no **cap. 31**, conforme checkpoint de beat de 2026-09-18 — o ponteiro antigo dizia "cap. 29+"; o cap. 28 não toca o fio — INGEST 2026-09-18)
-- A dívida de Lakand (Saramant) — em aberto, nunca resolvida no L1
+- **Semente #1 (o hino)**: plantio executado — Kate ouviu, não perguntou; a pergunta dela segue pendente
+- **Semente #10 (confronto da Voz)**: germinação executada como planejado; resta o silêncio — "silêncio ≠ ausência"
+- **Fronteira (cap. 28)**: o capítulo fecha no escuro, com os mercenários silenciados um a um — o cap. 28 abre de madrugada com a patrulha dos Inquiridores (diapasão; a execução ouvida de dentro) **[CONFIRMADO no Mini-INGEST do 28, 2026-09-18 — o 28 abre exatamente nesse som: o terceiro mercenário para no meio de uma palavra e Kate nomeia "Varas de ofício"]**
+- **O carroceiro**: arco fechado — a derrota no debate virou a vingança que armou o cerco (eco do cap. 26)
+- **Culpa em livro-razão**: "as contas que ele fazia... começavam todas no mesmo lugar" — motivo que reaparece adiante
+- **Conexão cap. 1**: "Foi a primeira vez que pediram alguma coisa de mim" — o rapaz da calçada dentro da confissão
+- **Conexão caps. 20/21**: a língua da noite do bebê (Kate reconhece o ornickenho); a raiva pela inação de Deus desnudada (eco de Jó)
+- **Nota de ingest (2026-09-11)**: fechamento no loop privado; passe anti-slop na janela ou estacionado em lote
 
 ## Atualização (2026-09-13)
 
-- **Cliffhanger de virada de página (aplicado).** O capítulo agora fecha depois do último beat que já existia (Kate olhando o norte, com a faca e o caminho), em quatro batimentos: Lakand fareja e diz **"— Gente." / "— Muitos."**; atrás das copas há **uma claridade laranja fora de hora** ("Não era o sol. Não era aquela hora."); Kate fecha — **"— Acorda ele. — Sem barulho. A gente anda no escuro."**
-- Guardrail: **o fogo é visto, nunca explicado.** O leitor vira a página com pergunta, não com resposta. O cap. 27 emenda direto ("Fugiam desde o escuro.") e revela a caçada na primeira linha.
-- Nada foi reposicionado no capítulo — o cliffhanger entra ao final, sem tocar nos beats anteriores.
-- Referência: `temas/esquema-l1.md`, bloco do cap. 26.
+- **Abertura reestruturada — a fuga primeiro.** O capítulo abre agora com "Fugiam desde o escuro.": a caçada na madrugada (o braço ferido batendo na costela, Kate escolhendo o terreno), **Lakand** achando o primeiro refúgio (o buraco do torrão de uma árvore tombada, teto de raízes), cavalos passando na estrada ("Não era um nem dois: era um bando, com estribos, com vozes que iam e voltavam"), a noite sem sono e o amanhecer ainda escondidos. Só então entra o canon que já existia ("A água tinha acabado naquela manhã...").
+- Ganho causal: os mercenários passaram por ali naquela noite — o cerco da bacia (as pegadas falsas, o virote) deixa de ser coincidência e passa a ser armadilha **postada**.
+- Canon preservado: "Deu certo.", a fenda-refúgio do cerco, a fala de Kate ("Você não é o centro de tudo") e o relato sobre Lucas. O refúgio da abertura é lugar diferente da fenda.
+- Referência: `temas/esquema-l1.md`, bloco do cap. 27.

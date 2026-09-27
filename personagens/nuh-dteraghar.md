@@ -26,6 +26,11 @@ teológico**, não malícia.
 - **Cap. 14**: Rejeita a evidência da falência. Escolhe a apoteose.
   "Não importa. O ouro é métrica para homens mortais."
   Rejeita a Bíblia — não a reconhece.
+- **L1 (planejado — ideia do autor, 2026-09-26)**: a Ordem recusa a Nolan as
+  informações sobre o Estrangeiro (a Ordem responde a Nuh — canon cap. 28);
+  mais tarde, Nolan **cobra** a recusa dele — fatura institucional da escada
+  Nolan ↔ Inquiridores
+  ([insight](/insights/nolan-cobra-nuh-informacao-negada.md)).
 - **Final do L1**: Choque teológico: Vonos não estava no controle. Some.
 - **Entre L1 e L2**: Bêbado anônimo.
 - **L2**: Encontra o Remanescente. "Já é tarde."

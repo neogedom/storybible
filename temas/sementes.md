@@ -103,6 +103,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 6. Juleen e a Morte de Dagmar
 
+> **Status (2026-09-25): suspensa no texto.** O cap. 24 de Nolan foi cortado e a descoberta da vembra saiu do cap. 29 (parkada em `insights/vembra-e-a-morte-de-dagmar.md`; lugar a definir). Os plantios 3+ e o enforcamento (cap. 32) aguardam a realocação.
+
 - **Plantio**: L1, Cap. 4 — Juleen administra chá de cascas de vembra (abortivo)
 - **Plantio 2**: L1, Cap. 19 — Dagmar morre no parto (causa: o abortivo
   acumulado); o bebê nasce sem ar

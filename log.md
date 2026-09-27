@@ -1,5 +1,107 @@
 # Log de Atualizações
 
+## 2026-09-26 (cap. 28 — Tronk realinhado: só os três; o carroceiro abre o sítio)
+
+- A cena da banca foi refeita ao plano novo (pedido do autor): a carroça do
+  cruzamento traz **só os três Inquiridores** (os mercenários ficaram na
+  bacia); a negação do escriba + carteira ignorada continuam; **depois do
+  escriba sair**, o carroceiro informa: mais mortos na bacia de pedra (uns
+  oito/nove, largados), mostrou a água aos caçadores, e o feiticeiro esteve
+  por lá — **é o que motiva a subida ao sítio no próximo capítulo do Nolan**.
+  Sem decisão de volta à Metrópole; cartas postadas no correio (sem Mathias,
+  sem carta de Layla em cena).
+- **Migração proposta (a confirmar)**: furos de vara, machado do recrutador,
+  edital/soma, "Pago do meu bolso"/"sem nome" vão para o capítulo do sítio —
+  é onde os mortos sem sepulto e o homem do machado estão.
+- Implementados no texto: descrições do escriba, do tabelião e do
+  tabelionato (pedido em comentário); "homem do correio"; ajustes de língua
+  ("foi a pé", "atravessava", "opiniões", "as cartas"/"na mala").
+- Comentários resolvidos/removidos com o lote: fala do Mário, menina do
+  joelho, fila/tabelião; Ossan-caixote (canon ainda **em aberto**) e Opium
+  (renasce no sítio) saíram com o bloco antigo. Pendente no arquivo:
+  "(* homem do norte?)".
+
+## 2026-09-26 (Nuh — ideia nova: Nolan cobra a informação negada)
+
+- **Ideia do autor**: em algum momento do L1, Nolan **cobra de Nuh
+  d'Teraghar** o fato de a Ordem ter recusado a ele as informações do
+  Estrangeiro. Registrado em
+  `insights/nolan-cobra-nuh-informacao-negada.md`; ficha de Nuh atualizada
+  (arco). Função: payoff do 5º degrau (escada Nolan ↔ Inquiridores) + fatura
+  da ruptura com Vonos; eco do "O que é meu, eu fecho com a minha mão".
+- Janela a definir (antes do colapso de Nuh no fim do L1; provável retorno à
+  Metrópole / crise do Conselho). Calibragem aberta: com prova na mão ou só
+  a ferida institucional.
+- **Cap. 28**: fala do Nolan no assentamento ganhou o complemento do autor —
+  "Passou por aqui um homem de fora? Moço, magro?"
+
+## 2026-09-25 (renumeração executada; cap. 28 montado — ex-29)
+
+- **Renumerado (decisão do autor; o cap. 24 de Nolan não existe mais):**
+  manuscrito — 25→24 (Feira de Tronk), 26→25 (Oposição/2ª pregação), 27→26
+  (O Cerco), 28→27 (Não Apodreceu), 29→28 (A Conta). Regra: todo capítulo
+  do L1 ≥25 desce um número, inclusive os futuros. O capítulo cortado foi
+  para `Livro/cortes/capitulo24.md`; o ingest, para
+  `capitulos/cortados/capitulo-24.md`. Ver
+  `decisoes/renumeracao-l1-2026-09-25.md`.
+- **⚠️ Varredura de referências pendente:** ~425 menções a números ≥24 em
+  ~50 arquivos (storybible + `.github/` do Livro). Passe dedicado, com
+  cuidado: `log.md` não é reescrito (histórico); notas datadas mantêm o
+  número da época.
+- **Cap. 28 (ex-29) ganhou os movimentos novos:**
+  1. **Abertura — a parada no assentamento do primeiro milagre** (viagem de
+     investigação): Nolan confirma o milagre replicável ("O primeiro caso,
+     Nolan guardara como se guarda uma carta sem resposta. O segundo o
+     obrigava a escrever de novo."), recebe a direção ("para o norte...
+     sobe por Tronk") e a companhia ("uma mulher, que não largava a faca,
+     e um homem grande, calado"). Ódio aos humanos/doença na página (lenço,
+     água não bebida); o nobre metropolitano e a desconfiança (moeda
+     recusada, cuspe); rampillas escondidos além do morro (a mulher dos
+     gravetos).
+  2. **As duas cartas ganharam casa**: escritas no assentamento (Rei:
+     justifica a ausência + a recompensa nas mãos de mercenários; Koda: o
+     plano por inteiro — "faria o Estrangeiro ganhar o trono") e despachadas
+     no correio de Tronk ("O ofício continuava no nome dele.").
+  3. **Chegada da carroça encenada** ("Foi quando a feira se abriu em
+     duas...").
+  4. **Recusa do escriba escalada**: selo do ofício + "Juiz Nolan, da Coroa"
+     → "Cuide dos seus negócios, senhor. Eu cuido dos de Vonos." → "E o
+     Templo, em todos os anos de ofício de Nolan, nunca lhe negara uma
+     informação. Aquela era a primeira vez." + memória do Templo de Rifte
+     esvaziado.
+- **Carta ao Koda (confirmada pelo autor)**: o **Estrangeiro faria Nolan ganhar
+  o trono** — a sugestão que o próprio Koda fizera meses antes. Texto ajustado
+  no cap. 28, na própria redação da carta.
+- **Pendências**: varredura de referências; títulos internos dos ingests
+  renomeados; Mini-INGEST do cap. 28 novo; `decisoes/cartas-cap23-versao-b`
+  e `cartas-cap24-versao-b` (gêmeos) a aposentar/ajustar na varredura.
+
+## 2026-09-25 (fio do Nolan — cap. 24 cortado; vembra parkada; o nó do Tronk)
+
+- **Cap. 24 de Nolan CORTADO** (decisão do autor): o capítulo era fraco — o único
+  conflito era a descoberta do assassinato de Dagmar, desviando Nolan do
+  objetivo central (trazer o Estrangeiro para si). (Decisão: 24/25-09.)
+- **Descoberta da vembra PARKADA**: retirada do texto (bloco removido do
+  cap. 29; a carta de resposta de Layla perdeu a linha da Juleen) e guardada
+  em `insights/vembra-e-a-morte-de-dagmar.md` — **lugar a definir**. A cadeia
+  completa (Mira → suspeita → investigação → Juleen) fica aguardando
+  realocação; o enforcamento (cap. 32) depende disso.
+- **Cap. 29 — o nó do Tronk** (montado em 22-25/09): viagem de investigação
+  (assentamento do primeiro milagre → Tronk — **a aplicar**); carta de Layla
+  na chegada (Conselho + boato do Sinal); feira com a doutrina e a alegria
+  dos humanos; a carroça de mortos (8 mercenários + 3 inquiridores) recebida
+  pelo escriba da Ordem; edital no bolso do morto do machado; os seis ao
+  norte; volta para a Metrópole. A recusa do escriba ganha o reforço pedido
+  (resposta ríspida + carteirada + **a primeira vez que o Templo nega**
+  informação a ele) — a aplicar.
+- **Pendências abertas**: numeração (24 fora — reflui?); origem das cartas
+  (o 24 era o ponto de envio; o texto atual do 29 já cita as cartas sem o
+  capítulo — confirmar no fechamento); enforcamento (cap. 32) sem setup;
+  aplicar os movimentos novos no 29 (assentamento + recusa reforçada).
+- **Arquivos**: `Livro 1/capitulo29.md`, `insights/vembra-e-a-morte-de-dagmar.md`
+  (novo), `temas/sementes.md` (#6), `decisoes/nolan-retorna-metropole-juleen-rampillas.md`,
+  `log.md`. (capitulo24.md — disposição pendente.)
+
 ## 2026-09-21 (por que os Inquiridores nunca o alcançam — regra em duas camadas)
 
 - **Proposta do autor:** "com a Hícse solta, a medição dos Inquiridores não

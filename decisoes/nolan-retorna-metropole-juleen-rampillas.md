@@ -8,6 +8,8 @@ timestamp: 2026-08-30T12:00:00-03:00
 
 # Nolan Retorna à Metrópole; Caçada via Rampillas
 
+> **Status (2026-09-25): suspenso no ponto de partida.** A descoberta da vembra foi parkada (`insights/vembra-e-a-morte-de-dagmar.md`) com o corte do cap. 24 de Nolan. O retorno/enforcamento aguarda a realocação da descoberta.
+
 ## Contexto
 
 A semente #6 registra o enforcamento de Juleen no cap. 31 — mas o cap. 31 é

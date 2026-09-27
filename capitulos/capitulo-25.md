@@ -1,106 +1,88 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 25
-titulo: "A Feira de Tronk"
-pov: Mário
+capitulo: 26
+titulo: "O Preço da Fama"
+pov: Kate
 beat_stc: Jogos e Diversão
-percentual_l1: ~48,4% (real, régua 137,5k)
-data_ingest: 2026-09-10
+percentual_l1: ~50,7% (real, régua 137,5k)
+data_ingest: 2026-09-02
 personagens:
-  - Mário (POV)
-  - Kate
+  - Kate (POV)
+  - Mário
   - Lakand
-  - Homem curado (sem nome)
-  - Mulher da barraca de pão (sem nome)
-  - Carroceiro (fugiu após esfaquear o devedor)
+  - Carroceiro de Tronk (antagonista, derrotado em debate)
+  - Mercenário do machado (ferido por Kate)
+  - Convertidos de Tronk (perdidos na fuga)
+  - Mulher de avental (defende Mário)
 lugares:
-  - Feira de Tronk (posto de comércio na rota da Mina)
-  - Ilha da Metrópole no meio do Cran (descrita, não visitada)
+  - Posto de comércio a norte de Tronk (sem nome)
+  - Mata após a fuga
+  - Clareira do acampamento noturno
 conceitos:
-  - Cura intencional (primeira cura por ato de vontade, sem a Voz — contraste com cap. 23)
-  - Pregação (quatro movimentos + ponte da dívida herdada; "Eu Sou" ancorado no clímax)
-  - Souhma (título popular aplicado a Mário; Kate já conhecia o termo)
-  - Metrópole (ilha no Cran, Muro Interno, Mina devora devedores, dívida hereditária)
-  - "Os deuses cobravam. Mas não davam." (generalização do POV de Mário)
+  - Souhma (título popular disputado — uns atribuem, outros negam)
+  - Recompensa de Genocydo (reconhecida por mercenário, incita cobiça)
+  - Raciocínio abdutivo de Mário (primeiro uso em argumentação, não em tática)
+  - Debate filosófico (fato vs. conclusão, medo vs. pensamento)
+  - Milagre com custo (a cura gera oposição, não só adesão)
 sementes:
-  - O curado: "Eu quero entender. Eu quero saber mais." — primeiro convertido genuíno da jornada
-  - A mulher da barraca dá as moedas — primeiro gesto de graça recebido por Mário
-  - A consciência sussurra "Você só quer vencer" — a cura intencional como autovalidação (fissura)
-  - A comunhão substitui a declaração: o capítulo abre com Lakand longe das pessoas e fecha com Mário indo até ele
+  - Carroceiro humilhado no debate — cuspiu no chão na fuga (rancor → cap. 27 como informante dos caçadores)
+  - Mário questiona violência de Kate ("Isso não é certo") — primeira fissura moral (eco no Ponto Central, cap. 36)
+  - Lakand revela que queimou Saramant por Kate — dívida em aberto (nunca resolvida no L1)
+  - Lakand acusa Kate de estar se afeiçoando como Theodore — afastamento entre os dois
+  - Kate reafirma Mário como instrumento, nega o afeto ("Vou precisar que eles estejam de pé quando a hora chegar. Depois eu decido.")
+  - Recompensa reconhecida publicamente → caçadores no cap. 27
+  - Convertidos de Tronk perdidos — a esperança não sobreviveu à oposição
 ---
 
-# Capítulo 25 — A Feira de Tronk
+# Capítulo 26 — O Preço da Fama
 
 ## Resumo
 
-POV Mário. Dias de caminhada desde o assentamento; Mário segue em jejum e em silêncio, em oposição à Voz. Lakand o força a comer ("Você vai morrer. Eu não vou deixar."). Chegam à Feira de Tronk, posto de comércio na rota da Mina. Uma briga por dívida explode; um homem é esfaqueado e cai morrendo. Kate olha para Mário — o olhar basta. Desta vez Mário age **de propósito**: ajoelha-se, pousa a mão e **pede** a cura como ato de vontade, não como oração submissa. A cura acontece. A Voz não diz nada. Mário interpreta o silêncio como validação do seu caminho.
-
-O curado não tem como pagar — "A Metrópole levou tudo"; Mário: "Não precisa pagar." E prega — o evangelho em quatro movimentos, passando pela ponte da dívida herdada ("Vocês herdaram uma dívida que não assinaram... Ele assinou por vocês") até o nome: **"O Eu Sou. O que está acima do Limbo, acima dos deuses que pedem sangue."** Pela primeira vez, vê conversão genuína — o curado: "Eu quero entender. Eu quero saber mais." Mas a consciência dele sussurra a verdade: "Você está fazendo isso para provar que está certo. Você só quer vencer." Ele ignora.
-
-Mário descobre a Metrópole: uma ilha no meio do Cran, separada por um Muro Interno; a Mina devora os que deviam demais; a dívida passa de pai para filho. Nota que ninguém fala de um deus que veio ajudar — "Os deuses daquele mundo cobravam. Mas não davam."
-
-Uma mulher da barraca de pão (perdeu dois filhos para a Mina) o chama de Souhma e oferece moedas de cobre — tudo o que tem. Mário recusa; ela insiste ("precisa mais quem vai a pé para o norte sem um centavo"); Kate o pressiona ("Vamos precisar. Não podemos perder tempo com orgulho"). Ele aceita — e sente, pela primeira vez em dias, que aquele mundo não é feito só de dívidas. O corpo cede (fraqueza do jejum); ele se recompõe e o capítulo fecha com Mário indo até Lakand, na borda da feira — abre com Lakand longe das pessoas, fecha com Mário indo até ele.
+POV Kate. Marcha ao norte de Tronk com os convertidos da feira. Kate sonda um deles ("e se houvesse um jeito de vocês nunca mais serem escravos de ninguém?") — o homem não entende; ela não insiste. Num posto de comércio, Mário prega e o carroceiro de Tronk (o que fugira humilhado) o acusa de feiticeiro. Mário desmonta o acusador em debate (fato vs. conclusão; medo vs. pensamento) — mas a vitória acende a cobiça: um mercenário reconhece a recompensa do Rei; a acusação de Saramant escala; Lakand trucida um acusador; um mercenário toma Mário como refém e Kate o mata pela lateral. Fuga pelo norte; os convertidos de Tronk se perdem. À noite, na clareira, Lakand expõe o que queimou por ela e acusa: "você mudou... como se ele fosse o Theodore." Kate racionaliza ("Mário é um instrumento... Depois eu decido"). "Você mente bem. Mas não mente para mim." O espaço entre os dois cresce.
 
 ## Personagens
 
-### Mário (POV)
+### Kate (POV)
 
-- Cura intencional pela primeira vez — ato de vontade, sem a Voz; o silêncio dela é lido como validação
-- Prega o evangelho correto em oposição à Voz (para provar que a teologia basta)
-- Consciência sussurra a verdade ("Você só quer vencer") — ele ignora
-- Recusa as moedas por princípio; a mulher insiste; aceita pressionado por Kate
-- Fecha: sente que o mundo não é só dívidas; o corpo cede e ele vai até Lakand, na borda da feira
+- Sonda o convertido da feira (a "semente de rebelião" — 1ª plantada; sem insistência)
+- Assume o comando na fuga ("Chega. Vamos."); dobra o Lakand ("desde quando briga vira suicídio?")
+- Mata o mercenário do machado (a faca entra entre as costelas) — o ato que fratura a confiança de Mário
+- Recusa o afeto exposto por Lakand; reafirma Mário como instrumento e a si mesma como futura líder
 
-### Kate
+### Mário
 
-- Olhar basta para Mário agir ("agora ou nunca")
-- Pressiona Mário a aceitar as moedas — pragmatismo ("Não podemos perder tempo com orgulho")
-- Se aproxima sem que Mário perceba — a operadora sempre ao lado
+- Prega no posto; vence o debate sozinho (não pede ajuda a Kate)
+- Primeira fissura moral com a violência dela: "Isso não é certo. Eu não vim para isso."
+- Dorme antes da conversa da clareira (não ouve a acusação do Theodore)
 
 ### Lakand
 
-- Força Mário a comer na trilha ("Você vai morrer. Eu não vou deixar.") — o cuidado como hábito
-- Fica na borda da feira, longe das pessoas (o capítulo abre assim)
-- No fecho, recebe Mário ao seu lado — a comunhão substitui a declaração (eco do desejo do cap. 13)
-
-### Homem curado (sem nome)
-
-- Esfaqueado por dívida; curado por Mário de propósito
-- "Como eu vou pagar por isso?" → "Não precisa pagar" — a graça dita em voz alta
-- "Eu quero entender. Eu quero saber mais." — primeiro convertido genuíno
-
-### Mulher da barraca de pão (sem nome)
-
-- Chama Mário de Souhma; oferece as moedas de cobre (tudo o que tem)
-- Perdeu dois filhos para a Mina; age por esperança no Deus de graça
-- Primeiro gesto de graça recebido por Mário
-
-### Carroceiro (antagonista menor)
-
-- Esfaqueia o devedor na briga e foge — ninguém o persegue
-- Não retorna neste capítulo: a acusação de "feiticeiro" reaparece na segunda pregação (cap. 26)
+- Perde o controle na acusação de Saramant e mata; discute com Kate na fuga
+- Confessa "Queimei Saramant por você"; expõe a mudança dela; "você mente bem, mas não mente para mim"
+- Afasta-se (o espaço entre os dois cresce)
 
 ## Eventos
 
-1. Dias de caminhada; Lakand força Mário a comer ("Você vai morrer. Eu não vou deixar.")
-2. Chegada à Feira de Tronk; Kate alerta ("Gente aqui não é de confiança")
-3. Briga por dívida; homem esfaqueado cai morrendo; ninguém ajuda
-4. Kate olha para Mário — o olhar basta
-5. Mário cura de propósito (ato de vontade, sem oração submissa); a Voz silencia
-6. O curado não tem como pagar; Mário: "Não precisa pagar"
-7. Pregação em quatro movimentos; conversão genuína; consciência sussurra a verdade
-8. Mário descobre a Metrópole (ilha no Cran, Muro Interno, Mina, dívida hereditária)
-9. Mulher da barraca oferece moedas; Mário recusa; a mulher insiste; Kate o pressiona; ele aceita
-10. Fraqueza física (pernas cedem); Mário se recompõe e vai até Lakand, na borda da feira (comunhão no fecho)
+1. Marcha ao norte; Kate sonda o convertido (abertura) e desiste
+2. Posto de comércio: a pregação; a acusação do carroceiro; o debate (Mário vence)
+3. O mercenário reconhece a recompensa; a cobiça se acende
+4. Lakand trucida o acusador de Saramant
+5. O refém: o machado no pescoço de Mário; Kate mata o mercenário
+6. Fuga pelo norte; convertidos de Tronk não seguem
+7. Clareira: a confissão de Lakand ("por você"); "você mudou"; a acusação do Theodore; o afastamento
 
 ## Sementes e Conexões
 
-- **O curado**: "Eu quero entender. Eu quero saber mais." — primeiro convertido genuíno da jornada (a cura vira ponte para a teologia)
-- **A mulher da barraca**: dá as moedas — primeiro gesto de graça recebido por Mário; "aquele mundo não era feito só de dívidas"
-- **Souhma**: título popular aplicado a Mário; Kate já conhecia o termo (cap. 23:135) — o que ela descobre é a aplicação
-- **Metrópole**: ilha no Cran, Muro Interno, Mina devora devedores, dívida hereditária — canon novo de worldbuilding (ver `lugares/metropole.md`)
-- **"Os deuses cobravam. Mas não davam."**: generalização do POV de Mário (parcialmente errada — Vonos quer consertar Ornick); ecoa a pregação
-- **Conexão cap. 23**: a cura intencional contrasta com a cura por compaixão do cap. 23 (receber vs. produzir)
-- **Conexão cap. 24**: Nolan está a 2-3 dias de distância; as linhas convergem
-- **Nota de re-ingest (2026-09-10; atualizada 2026-09-11)**: resumo alinhado ao manuscrito final (revisão 2026-08-30) — o retorno do carroceiro/"primeira hostilidade" saiu deste capítulo (acontece no cap. 26, na segunda pregação); a conclusão de Mário sobre Kate e Lakand ("como quem mede uma ferramenta") saiu do capítulo e **não entrou no cap. 27** — beat **realocado ao cap. 36** na decisão do checkpoint de beat de 2026-09-18 (registrado em [insights/kate-mede-ferramenta.md](/insights/kate-mede-ferramenta.md))
+Sementes no frontmatter. Continuidade:
+
+- "Isso não é certo" — primeira fissura moral de Mário (eco previsto no Ponto Central, cap. 36)
+- A sonda da Kate ao convertido — 1ª semente da rebelião (consolidada no **cap. 31**, conforme checkpoint de beat de 2026-09-18 — o ponteiro antigo dizia "cap. 29+"; o cap. 28 não toca o fio — INGEST 2026-09-18)
+- A dívida de Lakand (Saramant) — em aberto, nunca resolvida no L1
+
+## Atualização (2026-09-13)
+
+- **Cliffhanger de virada de página (aplicado).** O capítulo agora fecha depois do último beat que já existia (Kate olhando o norte, com a faca e o caminho), em quatro batimentos: Lakand fareja e diz **"— Gente." / "— Muitos."**; atrás das copas há **uma claridade laranja fora de hora** ("Não era o sol. Não era aquela hora."); Kate fecha — **"— Acorda ele. — Sem barulho. A gente anda no escuro."**
+- Guardrail: **o fogo é visto, nunca explicado.** O leitor vira a página com pergunta, não com resposta. O cap. 27 emenda direto ("Fugiam desde o escuro.") e revela a caçada na primeira linha.
+- Nada foi reposicionado no capítulo — o cliffhanger entra ao final, sem tocar nos beats anteriores.
+- Referência: `temas/esquema-l1.md`, bloco do cap. 26.
