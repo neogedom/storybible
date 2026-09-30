@@ -97,44 +97,23 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Relação**: interroga Mira; envia Mathias; confia em Ossan por controle (raiz-mestra), não por lealdade
 - **Séquito**: rampillas (~dezena), Mira com Saboc, Mathias montado, Ossan, cocheiro (guia a carroça), dois servos
 
-## Capítulos 25-28 — ausente
+## Capítulos 25-27 — ausente
 
 - _Não aparece em cena_ (POVs de Mário e Kate: a feira de Tronk, o cerco, a
-  fuga pela caverna). No cap. 29 ele está dois dias atrás dos acontecimentos —
-  sobe de Tronk e chega ao terreno onde tudo terminou.
+  fuga). (Numeração antiga aguardando a varredura.)
 
-## Capítulo 29 — A Conta
+## Capítulo 28 — A Conta (Tronk — versão 2026-09-27)
 
-- **Vestimenta**: roupas de viagem escuras e práticas, sujas de dois dias de
-  estrada; botas de campo
+- **Vestimenta**: roupas de viagem escuras e práticas; botas; lenço de seda (a rinite)
 - **Óculos**: sim
-- **Acessórios**: o caderno de registro e a bolsa de campo; a faca com que
-  abre a tampa do caixote
-- **Local**: a feira de Tronk (a forja da roda, a feira, a banca do tabelião,
-  a casa de correios) → a estrada da Mina (a subida de dois dias; o posto de
-  comércio silencioso no fim do primeiro dia) → o terreno da água e da fenda
-  (dois dias ao norte de Tronk), onde o capítulo fecha
-- **Expressão**: frieza de trabalho no terreno (percorre os mortos como uma
-  folha de inventário); atenção sem testemunhas na feira; nenhuma fúria em
-  cena — e, no fecho, uma firmeza baixa, dita para a estrada
-- **Ação**: ouve a doutrina na feira e recebe a carta de Layla no correio (na
-  subida); compra provisão de onze dias; sobe; lê a fila dos oito, a ferida
-  antiga e o edital no bolso de um morto; pede o registro e é negado; manda
-  cobrir os mortos com pedra; dá a ordem aos seis; desce para a Metrópole sem
-  nomear Juleen
-- **Objetos de cena**: o caderno com a palavra *natureza* e o espaço em branco
-  ao lado; o papel dobrado com o lacre do Trono inteiro (a carta de Layla); o
-  edital da recompensa, dobrado do tamanho de uma mão, com a descrição e a
-  soma por extenso e em números; o corte de raiz-mestra vivo no caixote de
-  terra preta
-- **Relação**: com os Inquiridores, a primeira derrota aberta — e por
-  desprezo, não por força; com Ossan, a ordem dada e o preço dito em voz
-  alta; com Mira e Saboc, nenhuma palavra; com Juleen, o nome que ele diz
-  sozinho no fim
-- **Séquito**: Ossan; seis rampillas (partem para a estrada da Mina); Mira
-  com Saboc no colo; o carroceiro e a carroça de roda emendada
-- **Iluminação**: sol alto e poeira no terreno → luz de fim de tarde na feira
-  → anoitecer na estrada do sul
+- **Acessórios**: o selo do ofício (deixado sobre o balcão e ignorado); o caderno de ocorrências; as duas cartas seladas com cera e o brasão dos Guenayer
+- **Local**: assentamento dos refugiados da Mina → estrada → **Tronk** (a forja, a feira, a casa de serviços postais, o tabelionato do cruzamento) → acampamento fora das barracas
+- **Expressão**: frieza de trabalho; a "onda de calor" contida diante da recusa; firmeza baixa no fecho
+- **Ação**: desce do cavalo para a menina (e não toca nela); escreve e posta as duas cartas; ouve a feira; toma a negação do escriba; ouve o carroceiro; decide a subida
+- **Objetos de cena**: as duas cartas (Rei e Koda); o selo do ofício; o caixote da raiz mestra aberto à noite
+- **Relação**: com a Ordem, a **primeira vez** que o Templo nega (5º degrau); com o carroceiro, a compra da informação; com Ossan/Mathias/Saboc, de passagem
+- **Séquito**: Ossan e Mathias na ronda; Saboc com o séquito; o caixote da raiz mestra
+- **Iluminação**: manhã no assentamento → tarde na feira → noite no acampamento
 
 ## Histórico por Capítulo
 

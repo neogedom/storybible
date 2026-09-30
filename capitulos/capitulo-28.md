@@ -1,167 +1,102 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 29
+capitulo: 28
 titulo: "A Conta"
 pov: Nolan
 beat_stc: Jogos e Diversão
-percentual_l1: ~55,9% (real, régua 137,5k)
-data_ingest: 2026-09-19
+percentual_l1: ~55,7% (real, régua 137,5k)
+data_ingest: 2026-09-29 (Mini-INGEST novo — capítulo reestruturado em 25-27/09; ex-29)
 personagens:
   - Nolan (POV)
-  - Inquiridores do Sinal (patrulha do cap. 28 — o alto que dirige a carga e o escriba; nenhum nomeado)
-  - Ossan (lê o edital, faz a pergunta, parte com Nolan para a Metrópole)
-  - Mira (com Saboc no colo, na carroça; não pergunta nada)
-  - Mathias (ausente em cena — desceu à Metrópole com as três cartas, cap. 24)
-  - Layla (por carta — a resposta que espera na gaveta de Tronk)
-  - Juleen (nomeada pela carta, na subida — viva, num burgo de humanos da beira do Cran)
-  - Ferreiro de Tronk (a roda empenada, a notícia do feiticeiro)
-  - Mercenários da recompensa (mortos — a fila de oito; um deles é o homem do machado do cap. 26, com a facada de Kate no lado e o edital no bolso)
-  - Povo da feira de Tronk (a mulher do balcão, o menino da água, a velha, o homem de dente podre)
+  - Carroceiro do cruzamento (traz os três da bacia; mostra a água aos caçadores)
+  - Escriba da Ordem (nega informação; ignora o selo)
+  - Tabelião de Tronk (assenta os três nomes)
+  - Posteiro (a mala; "subiu para a Mina")
+  - Menina do joelho e a velha (a prova do milagre replicável, no assentamento)
+  - Ossan e Mathias (de passagem, na ronda); Saboc (o filho, de passagem)
 lugares:
-  - Feira de Tronk (cruzamento da estrada da Mina com a estrada do sul): a forja, a feira, a banca do tabelião, a casa de correios
-  - Estrada da Mina (a subida de dois dias; o posto de comércio silencioso do cap. 26)
-  - Terreno da água e da fenda (sítio da emboscada do cap. 28, dois dias ao norte de Tronk)
+  - Assentamento dos refugiados da Mina (parada da investigação)
+  - Feira de Tronk, tabelionato do cruzamento e casa de serviços postais
 conceitos:
-  - Custódia do souhma — a Ordem nega registro e informação a um conselheiro com selo
-  - A aritmética da ausência — oito mortos sem nome, três mortos da Ordem recolhidos, instrumentos caixotados, o entalhe vazio na pedra
-  - "Fatos sem crime" — a coluna natureza em branco no registro de mão própria
-  - Mala do Trono — posta de duas léguas, gaveta da estação (ver conceitos/correios-e-postas.md)
-  - Doutrina em bocas tortas — "alguém que assina por quem não podia assinar" (germinação, agora na subida)
-  - O edital materializado — a soma por extenso e em números no bolso de um morto (o fim da ordem de grandeza)
-  - O corte da raiz-mestra viva no caixote de terra
-  - Força delegada sem juízo — os seis no mato, sem ninguém que saiba pensar por elas
+  - 5º degrau da escada Nolan ↔ Inquiridores — o Templo nega informação pela primeira vez
+  - O Souhma corre sozinho — o conceito descolou do homem
+  - A bacia de pedra — os mortos sem sepulto e o rastro do feiticeiro (gancho do próximo capítulo do Nolan)
+  - A mala do Trono — as duas cartas (Rei e Koda) postadas na subida
 sementes:
-  - "#21 — Germinação do Evangelho: plantio executado no PoV oposto ao cap. 25 (feira de Tronk, na subida)"
-  - "#6 — Juleen e a Morte de Dagmar: o nome entra pela carta; o fecho não a nomeia"
-  - "#13 — Os Rampillas e a Segregação: seis em campo sem condutor; Ossan desce com Nolan"
-  - "#15 — O Diário de Genocydo: a pulga (ele nota que há algo não dito e não conclui)"
-  - "A fala de Juleen no cap. 32 (plantio do mandante — a executar)"
-  - "A caçada no rastro errado — os seis tomam o sangue-isca da Kate (plantio novo; numerar em temas/sementes.md)"
+  - "#21 — Germinação do Evangelho (a feira; PoV oposto ao cap. 24)"
+  - "A bacia de pedra (payoff imediato: os furos, o machado, o edital)"
+  - "O cartaz do Trono com descrição do 'homem que cura' circulando entre caçadores"
+  - "Nolan cobra de Nuh a recusa (ideia — insights/nolan-cobra-nuh-informacao-negada.md)"
 ---
 
-# Capítulo 29 — A Conta
+# Capítulo 28 — A Conta
 
 ## Resumo
 
-POV Nolan. Na subida, ele para no cruzamento de Tronk com o séquito: deixa a
-carroça na forja para emendar a roda e atravessa a feira para ouvir. A
-doutrina que ele levou ao Conselho anda torta na boca de estranhos — a mulher
-que não precisa pagar, o menino que grita a cura de graça, o homem de dente
-podre que não tem dinheiro nem medo porque "há alguém que assina por quem não
-podia assinar" — e, do outro lado da feira, a banca do tabelião assina dívida
-com o polegar. Na casa de correios, a resposta de Layla espera na gaveta:
-Juleen está viva, num burgo de humanos da beira do Cran, pedindo trabalho em
-cozinha de estalagem; e o Conselho se reuniu duas vezes naquele mês, sobre
-pauta que não era safra nem estrada. O nome da mulher entra no fio dele.
-Compra provisão para onze dias — de volta — e sobe assim mesmo: antes de
-soltar seis criaturas atrás de um homem, precisa ver em que mão aquele homem
-caiu. Notícia de feira não é registro.
+POV Nolan, em três paradas. (1) **O assentamento dos refugiados da Mina**: a confirmação do milagre replicável — a menina do joelho fechado, sem reza e sem pagamento; "Nenhuma magia de Ornick fechava um joelho"; a única outra vez fora o filho, em Devour, na noite em que nasceu sem ar. A direção do trio sai dali: um homem de fora, magro, com uma mulher de faca e um homem grande, para o norte. (2) **A estrada e Tronk**: as duas cartas — ao Rei (justificativa da ausência; a recompensa nas mãos de mercenários) e a Koda (o plano; o Estrangeiro faria Nolan ganhar o trono) — seladas com o brasão dos Guenayer e **postadas na casa de serviços postais**; e, na feira, a doutrina correndo sozinha ("nem precisavam da presença do próprio Estrangeiro para sobreviverem").
 
-Dois dias ao norte, guiado pelos corvos, ele encontra a fila: oito mercenários
-mortos ombro com ombro, sem cova, sem nome, sem inquérito, e o ferimento de
-ofício (dois furos finos no pescoço) que ele só conhecia de laudo. Num deles,
-o homem do machado do cap. 26, há uma facada antiga no lado, de outra mão, e,
-contra o peito, o edital do Trono: dobrado do tamanho de uma mão, com a
-descrição e a soma por extenso e em números. A fortuna sem medida vira
-número. Na fenda ele lê o resto: o pó removido em três lugares, o sangue de
-uma quarta pessoa, os quatro furos em quadra, o entalhe vazio na pedra. Pede
-o registro da ação e leva a negativa: "A Ordem não registra para
-conselheiros", "A Ordem responde a Nuh d'Teraghar", "Não entram no livro —
-nem os vivos, nem os mortos". Os Inquiridores não lhe perguntam nada — e
-homens que precisam do rastro perguntam pelo rastro. A coluna se divide: dois
-com vara sobem atrás do homem, o escriba desce com os três mortos da Ordem.
-Nolan fica com um registro que tem um branco onde todos os outros têm uma
-palavra.
+(3) **O cruzamento**: a carroça do carroceiro traz **só os três Inquiridores mortos**, para o enterro (os outros mortos ficaram na bacia). O escriba da Ordem nega informação e **ignora o selo do ofício** — "Cuide dos seus negócios, senhor. Eu cuido dos de Vonos." — a primeira vez em todos os anos de ofício de Nolan: o 5º degrau. O tabelião assenta os três nomes no livro; os da bacia não têm livro nenhum. Depois que o Templo sai, o carroceiro entrega o resto: na **bacia de pedra**, dois dias acima, há oito ou nove mortos largados, e o feiticeiro esteve lá — foi ele quem mostrou a água aos caçadores. É o que decide a subida: "Amanhã, antes do sol, na estrada da Mina. Quero ver uma bacia de água que tem para lá."
 
-Ossan lê o edital e diz o que ele significa: "É um valor grande o bastante
-para colocar meio mundo atrás dele." Depois pergunta se ele vai largar a
-caçada. Nolan não larga: a rota fica com força do mesmo peso, seis criaturas
-andam mais rápido sem carroça, sem mula e sem os onze dias de farinha, e vão
-com um objetivo só. Ele desce para a Metrópole ("o que é meu, eu fecho com a
-minha mão") e os seis entram no mato sem ninguém que saiba pensar por eles.
-O rastro mais novo que eles tomam é o de sangue: a isca que Kate deixou de
-propósito no cap. 28.
+O capítulo fecha **apontando o norte**: a forquilha do cruzamento e, à noite, o caixote da raiz aberto — os rampillas diante de uma utilidade.
 
 ## Personagens
 
 ### Nolan (POV)
 
-- **Não decide sobre boato.** Sobe para ver em que mão o homem caiu ("Notícia de feira não era registro"); a carta é que torna o retorno necessário. Ordem causal do capítulo: carta (Tronk) → sítio (a caça morre) → ordem aos seis.
-- Não olha o terreno: **trabalha** nele (caderno na mão, data, lugar, ferimento).
-- Perde a primeira disputa aberta com a Ordem e a perde por argumento, não por força — "Isto é solo do Rei. Morto em solo do Rei tem nome" não move ninguém.
-- Não é humilhado: é **desconsiderado**. Pior para ele — e é disso que nasce a pulga.
-- Escreve a palavra *natureza* e deixa o espaço em branco: o único registro que sobra é o de mão própria, com um buraco no lugar da resposta.
-- Lê o edital como objeto de uso: gasto nas dobras, do tamanho de uma mão, feito para ser posto na frente de um rosto. É o papel que **recrutou os oito**.
-- Delega a caçada e mantém a coleira: a raiz viaja com ele, o juízo não vai.
-- Fecha sem nomear Juleen. Em cena, só "o que é meu".
+- **O método antes do desejo:** confirma o replicável (a menina), escreve e posta as cartas — e ninguém conclui nada: "nada daquilo fechava a conta".
+- **O 5º degrau (a virada):** a primeira negação de informação em todos os anos de ofício. Não é humilhação — é **desconsideração**, que é pior.
+- **Nota e não conclusão:** a recusa basta — ele nota e não conclui. (O plant do Templo de Rifte esvaziado foi tentado e **dispensado** — decisão do autor, 29/09: não é necessário.)
+- **A leitura da caçada:** "A mulher devia ser Kate. E a fera?"; a hipótese marcada como conta de estrada ("registro, não havia nenhum").
+- **A decisão:** subir à bacia antes de qualquer outra coisa — alcançar o Estrangeiro segue a ocupação principal.
 
-### O mercenário do machado (o que juntou os oito)
+### O carroceiro do cruzamento
 
-- É o homem do cap. 26 (barba fechada, machado de lenhador) que anunciou a recompensa em público e ofereceu dividi-la com quem o ajudasse a pegá-lo.
-- A facada que Kate lhe abriu no lado é o que o identifica: para Kate no cap. 28, para Nolan no cap. 29 (ferida mais velha que os furos do pescoço e de outra mão).
+- Traz os três da Ordem da **bacia de pedra** (pago para isso); oferece trazer os outros "por um preço justo" — recusado.
+- É o **homem da água**: mostrou a única fonte da subida aos caçadores que perguntavam pelo feiticeiro — foi isso que armou o cerco. A confissão: "Se eu soubesse que daria nisso, não tinha mostrado a água pra ninguém... Me pagaram e eu mostrei."
+- Dá a Nolan a certeza do rastro: "Estiveram. Tenho certeza."
 
-### Inquiridores (o alto e o escriba)
+### O escriba da Ordem e o tabelião
 
-- Falam por fórmula e recusam o enquadramento que Nolan propõe: "A Ordem não registra para conselheiros", "A Ordem responde a Nuh d'Teraghar", "Nesta estrada, senhor, quem responde é o Templo".
-- O escriba ecoa a frase de Nolan ("A pedra não é registro") sem parar de escrever: a Ordem absorve a fala dele e a devolve como protocolo.
-- Levam os próprios mortos e recolhem os instrumentos; deixam os mercenários no chão. Não interrogam Nolan — a ausência de perguntas é o dado mais eloquente da cena.
+- O escriba **nega e ignora**: não responde, não se explica, cuida "dos de Vonos"; paga o carroceiro e sai.
+- O tabelião cumpre: aceno ao Juiz, os três nomes assentados no livro (gente com nome; os da bacia, sem livro nenhum).
+- "Faça como quiser. A Verdade não se ocupa com os que não são dela."
 
-### Ossan
+### De passagem
 
-- Lê o edital e diz o que o papel significa: "É um valor grande o bastante para colocar meio mundo atrás dele."
-- É o único que pergunta a Nolan o que ele está fazendo: "O senhor vai largar a caçada?"
-- Diz o preço da coleira: "Enquanto a raiz estiver com o senhor, elas fazem o que o senhor mandou. Nada mais."
-- **Vai com Nolan** para a Metrópole (decisão do autor, 2026-09-20); os seis ficam sem condutor.
-- Põe a mão aberta na terra preta por uma respiração e as seis criaturas se põem de pé ao mesmo tempo.
-
-### Mira e Saboc
-
-- Na carroça, na subida e na volta; Mira ajeita o pano e não pergunta nada. O menino dorme sem que ela precise balançar.
-
-### Juleen
-
-- Não aparece em cena. O nome entra pela **carta**, em Tronk: viva, num burgo de humanos da beira do Cran, servindo chá em cozinha de estalagem. Nolan passa a ter nome, endereço e uma conta a fechar com a própria mão.
-
-### Layla (por carta)
-
-- Escreve curto: Juleen viva e localizável; o Conselho reunido duas vezes, com pauta que não era safra nem estrada. É o gatilho do retorno.
+- **A menina e a velha** (assentamento): a prova. **O posteiro**: "o feiticeiro deve ter subido para a Mina"; o cunhado que leva água. **Ossan e Mathias** (a ronda) e **Saboc** (o filho, com o séquito).
 
 ## Eventos
 
-1. **Tronk, na subida.** A carroça chega ao cruzamento no fim da tarde; a roda empenada fica na forja. Mira e Saboc na caçamba; Ossan com o séquito e o caixote de terra.
-2. A feira, sem comprar nada: a doutrina em bocas tortas (a mulher que não paga porque alguém já pagou por ela; o menino que grita a cura de graça; o homem de dente podre que "não tem dinheiro nem medo") e o reconhecimento do desenho da frase que ele ouviu Genocydo tirar do livro. A banca do tabelião e a fila dos polegares: se a frase pega naquela fila, a fila se desfaz — e com ela o dízimo, a estrada e o cofre.
-3. O correio: o dono abre a gaveta das cartas que não tinham dono na vila e tira o papel dobrado em quatro — lacre do Trono inteiro, nome de fora escrito por outra mão. O saco de couro que ele mesmo instituiu como Mestre dos Correios; Mathias desceu com as três cartas, a resposta subiu de posta em posta e chegou primeiro. O ofício continua no nome dele. A mala não espera por ninguém, nem por ele.
-4. A carta de Layla: Juleen viva, num burgo de humanos da beira do Cran, pedindo trabalho em cozinha de estalagem; o Conselho reunido duas vezes naquele mês, sobre pauta que não era safra nem estrada. O nome entra no fio dele aqui.
-5. O ferreiro: o feiticeiro subiu para a Mina ("Não tem outra estrada"); foram atrás dele uns de fora, com aço, e nenhum dos que subiram por conta da soma apareceu de volta.
-6. A provisão de onze dias comprada em Tronk — "não era para a subida" — e a razão de subir: antes de soltar seis criaturas atrás de um homem, ver em que mão aquele homem caiu. Notícia de feira não é registro.
-7. A subida: o posto de comércio silencioso no fim do primeiro dia; os corvos dão o rumo na manhã seguinte.
-8. A fila: oito mercenários mortos ombro com ombro, dois dias de sol, os corvos nas barrigas, um oitavo homem arrastado para o mato. Ferimento de ofício (dois furos finos no pescoço). Nenhuma cova, nenhum nome.
-9. **O homem do machado (cap. 26):** facada antiga no lado, de outra mão e mais velha que os furos do pescoço — e, contra o peito, o edital do Trono. Dobrado do tamanho de uma mão, gasto nas dobras, com a descrição (altura, olhos, idade) e a soma por extenso e em números. A fortuna sem medida vira número; o papel vai para o bolso dele, junto da carta.
-10. Na fenda: pó removido em três lugares (um com marca de homem grande), respingo seco de sangue na parede e o rastro que sai para fora, no sentido contrário ao da fuga. Fora: quatro furos em quadra, medidos por vara de ofício; o entalhe vazio na pedra maior, com o anel limpo da base de uma bacia.
-11. A colisão da custódia: Nolan pede o registro da ação; o líder recusa ("Que ação?"), invoca Nuh d'Teraghar, e o escriba fecha a porta do livro ("Não entram no livro — nem os vivos, nem os mortos").
-12. Nolan oferece o que tem: "O que a Ordem sabe sobre o homem que esteve naquela pedra será repartido com quem responde por esta estrada." Resposta: "Nesta estrada, senhor, quem responde é o Templo."
-13. O dado que ele anota e não esquece: os Inquiridores não lhe perguntaram nada sobre o homem, a hora, o número, a direção. Homens que precisam do rastro perguntam pelo rastro.
-14. A pedra contra o registro: "Eram quatro lá dentro" / "Eram três do lado de dentro". A Ordem **omite a quarta pessoa** — a que não apodreceu (cap. 28).
-15. A coluna se divide: dois com vara sobem atrás do homem com as três caixas na garupa; o escriba desce com os três mortos da Ordem atravessados sobre os cavalos. Ninguém olha para trás. Nolan fica na pedra com o dedo na medida do entalhe.
-16. A pulga (sem conclusão): ele lembra que soube, semanas antes, ainda no castelo, que os Inquiridores tinham deixado o Templo de Rifte atrás de um homem que chamavam de souhma — sem ordem dele, e sem fazer sentido então ou agora.
-17. Nolan manda dois homens cobrirem os mortos com pedra e anotarem data e número: "Sem nome, porque não há nome."
-18. **Ossan lê o edital** e diz o valor em voz alta: "É um valor grande o bastante para colocar meio mundo atrás dele." Depois pergunta: "O senhor vai largar a caçada?"
-19. A resposta de Nolan: não. A rota fica com força do mesmo peso (seis criaturas valem uma patrulha e um bando), andam mais rápido sem carroça, sem mula e sem os onze dias de farinha, e vão com um objetivo só. A ordem: achar o homem que cura e a mulher que anda com ele, seguir os dois de longe, e segurar os dois onde estiverem se a recompensa chegar perto primeiro. Ele desce para a Metrópole: "O que é meu, eu fecho com a minha mão."
-20. A coleira: Ossan põe a mão na terra e as seis se põem de pé sem um som. O preço, dito por ele: "Enquanto a raiz estiver com o senhor, elas fazem o que o senhor mandou. Nada mais."
-21. Os seis entram no mato e tomam o rastro mais novo — o de sangue, uma gota a cada dois passos: a isca que Kate deixou de propósito no cap. 28. Nolan fica com a terra preta nas pontas dos dedos: "Sentiu terra. Nunca sentia mais do que terra."
+1. **Assentamento:** "Passou por aqui um homem de fora? Moço, magro?" — "Uns dias" — a menina do joelho (cicatriz repuxada) — "só uma outra vez um corpo lhe voltara inteiro: em Devour, na noite em que o filho nasceu sem ar." Sai sem tocar em ninguém.
+2. **As duas cartas**, seladas com o brasão dos Guenayer (ao Rei: ausência + recompensa; a Koda: o plano — o Estrangeiro faria Nolan ganhar o trono) e **postadas** na casa de serviços postais de Tronk.
+3. **A feira:** a mulher que não paga ("alguém já tinha pago por ela"), o menino ("o feiticeiro curava de graça"), o dente podre. A doutrina descolou do homem: "nem precisavam da presença do próprio Estrangeiro para sobreviverem."
+4. **O posto postal:** as cartas na mala; "O feiticeiro deve ter subido para a Mina"; a origem do nome ("uns começaram a lhe chamar antes de começar o tumulto"); o cunhado que leva água.
+5. **A carroça:** três volumes de gente; "Enterrem os três da Ordem" / "Segundo as tradições fúnebres de Vonos"; "E os outros que ficaram?" → "Faça como quiser. A Verdade não se ocupa com os que não são dela."; os três nomes assentados no livro; o espirro contido.
+6. **A negação:** "O que aconteceu?" (silêncio) → selo sobre o balcão → "Nolan Guenayer, Juiz da Metrópole e Conselheiro da Coroa. Pergunto novamente. Por que estão mortos?" → "Cuide dos seus negócios, senhor. Eu cuido dos de Vonos." A reflexão da primeira vez. O escriba paga o carroceiro e sai.
+7. **O carroceiro (depois do Templo sair):** a bacia de pedra, dois dias de subida; oito ou nove mortos largados "perto da água"; "O homem de Vonos mandou trazer só os dele"; a aritmética de Nolan (hipótese); "teve dedo daquela fera, da mulher e do feiticeiro"; o **cartaz com uma descrição**; "me pagaram e eu mostrei"; "A mulher devia ser Kate. E a fera?"
+8. **O fecho:** provisão de onze dias; a roda pronta; a ordem ("Amanhã, antes do sol, na estrada da Mina. Quero ver uma bacia de água que tem para lá."); a forquilha (norte atrás do Estrangeiro × sul para a Metrópole); à noite, o caixote da raiz aberto e "Estava na hora de dar-lhes alguma utilidade."
 
 ## Sementes e Conexões
 
-- **#21 — Germinação do Evangelho (plantio executado).** Mesmo lugar do cap. 25, PoV oposto — agora na **subida**: o que Mário pregou, Nolan ouve torto e sem dono. O reconhecimento é do **desenho da frase** — a doutrina do livro que ele levou ao Conselho como instrumento agora anda sozinha. Germinação: L2 (o Evangelho sem igreja).
-- **#6 — Juleen e a Morte de Dagmar (plantio executado).** A investigação deixa de ser hipótese: Layla entrega nome, lugar e condição **pela carta, em Tronk**, e é isso que torna o retorno necessário. O fecho **não** nomeia Juleen; em cena ele diz só "o que é meu".
-- **#13 — Os Rampillas e a Segregação.** Seis criaturas em campo, "que um dia foram gente", atrás de um homem que precisa ser recebido vivo — e, agora, **sem ninguém que saiba pensar por elas**: Ossan desce com Nolan. A raiz no caixote é o nó que sustenta os sentidos à distância (cap. 32).
-- **A caçada no rastro errado (plantio novo, 2026-09-20).** Os seis entram no mato e tomam o rastro mais novo — o de sangue, a isca que Kate deixou de propósito no cap. 28. O leitor sabe; Nolan não. Numerar em `temas/sementes.md`.
-- **#15 — O Diário de Genocydo.** A pulga: os Inquiridores não perguntam o que precisariam saber, recusam registro e não devolvem informação a um conselheiro com selo. Nolan **nota** que há algo não dito e **não conclui** nada — a semente fica plantada em "pulga", não em revelação.
-- **Os Correios (canon 2026-09-19; posição ajustada 2026-09-20).** A mala do Trono entra na prosa com mecanismo completo: saco lacrado, posta de duas léguas, gaveta da estação, endereço por nome. A resposta **espera** onde ele vai passar — Nolan a pega na subida, na gaveta de Tronk (não na volta). Plantios anteriores: cap. 19 (Estalagem do Vau) e cap. 25 (Feira de Tronk). Ver `conceitos/correios-e-postas.md`.
-- **O edital da recompensa (correção 2026-09-20).** Não há cartaz pregado em poste em cena. O papel entra pelo bolso de um morto — o homem do machado do cap. 26, o que recrutou os oito — e não é descoberta: é a **materialização** da soma que ele já conhecia de ouvir dizer, sem números. O cálculo contra o cofre (eco da coluna de Koda, cap. 24) sai do capítulo.
-- **"Fatos sem crime".** O registro de mão própria com a coluna *natureza* em branco ecoa o "seu registro é o que sobra" — o método de Nolan encontra um caso que o método não fecha. Germinação: L1 (a espiral que o leva a Terbs).
-- **Fronteira (cap. 30).** O capítulo fecha **no sítio**: decisão falada (corte C) e, como consequência simples e visível, os seis entrando no mato — o medo passa para o leitor que vem do POV de Kate. O cap. 30 abre no **POV Mário**, no campo da Guerra Milenar (os Moribundos), com Lakand reconhecendo o terreno e a travessia sem um golpe.
+- **#21 — Germinação do Evangelho.** A feira de Tronk no **PoV oposto ao cap. 24**: o que Mário pregou corre torto e sem dono, e o conceito **descola do homem** ("nem precisavam da presença do próprio Estrangeiro para sobreviverem"). Germinação: L2 (o Evangelho sem igreja).
+- **A bacia de pedra (gancho duro).** Payoff no próximo capítulo do Nolan: os oito/nove mortos sem sepulto, os furos, o machado do recrutador, o **edital no bolso** (material da versão anterior do 28, migrado para lá — confirmar com o autor).
+- **O cartaz do Trono circulando.** Os caçadores mostram "um cartaz com uma descrição" do homem que cura — papel da Coroa a serviço da caça; revisar no sítio para não atropelar o edital do bolso.
+- **#15 — O Diário de Genocydo (a pulga).** A negação: ele **nota** e **não conclui**. (O plant do Templo de Rifte esvaziado foi **dispensado** — decisão do autor, 29/09.)
+- **O plano do trono (carta a Koda).** "O Estrangeiro faria Nolan ganhar o trono" — fixa o rumo político do L1 e alimenta a camada oculta de Koda/Alavria.
+- **A cobrança a Nuh (ideia nova, 2026-09-26).** Em algum ponto do L1, Nolan cobra dele a informação negada — `insights/nolan-cobra-nuh-informacao-negada.md`.
+- **Os Correios.** A mala entra na prosa com o mecanismo completo (saco lacrado, posta, pontos postais); as duas cartas vão por ela — sem mensageiro próprio. Ver `conceitos/correios-e-postas.md` (confirmar na varredura).
+
+## Notas de ingest (2026-09-29 — reestruturação do capítulo)
+
+> **As notas de 19 e 20/09 abaixo descrevem a versão anterior (visita ao sítio e retorno à Metrópole) — superadas.** Mantidas como histórico.
+
+- **O que mudou (25-27/09):** capítulo **só em Tronk** — caiu a subida ao sítio (o terreno passa ao **próximo capítulo do Nolan**, pela bacia: os mortos, os furos, o machado, o edital); caiu o retorno à Metrópole (a ocupação é alcançar o Estrangeiro); caiu a carta de Layla em cena (vembras parkadas — `insights/vembra-e-a-morte-de-dagmar.md`); a carroça traz **só os três Inquiridores**; as cartas (Rei/Koda) foram **postadas** (sem Mathias-correio).
+- **5º degrau executado** no tabelionato do cruzamento (a negação + o selo ignorado) — canon em `conceitos/inquiridores-sinal.md`.
+- **Retiradas pelo autor (29/09):** a memória do Templo de Rifte esvaziado e o freio da aritmética foram tentados e **removidos** do capítulo (o autor não gostou do texto). **O plant do Templo de Rifte esvaziado fica dispensado** — decisão do autor, 29/09: não é necessário; o 5º degrau fica só com a recusa (e a agenda da Ordem o leitor já tem do cap. 27).
+- **Fecho:** decisão (subir à bacia) + o dente do "utilidade". **Corte: D** (consequência com gancho de ameaça) — conferir no passe de fechos do próximo checkpoint.
+- **Fronteira:** o cap. 27 fechou com a Ordem recolhendo os seus; o cap. 28 dá o lado de Nolan da mesma recolha. Próximo (29): PoV Mário (Moribundos), conforme o esquema.
+- **Contador de checkpoint (passo 7):** 1 capítulo desde o checkpoint de 2026-09-18 — não oferecer (dispara na 6ª marca).
 
 ## Notas de ingest (2026-09-20 — reestruturação aprovada pelo autor)
 

@@ -62,13 +62,15 @@ timestamp: 2026-09-20T12:00:00-03:00
 
 - **Por que sobreviveram até agora:** nunca estiveram longe de uma fonte. O
   problema **começa agora**, depois do último ponto de água.
-- **Plantio já na prosa:** o ferreiro do cap. 29 — "Um cunhado meu levou
-  água até a metade da subida e voltou com os cabelos em pé." Quem sobe,
+- **Plantio já na prosa:** o **posteiro** de Tronk (atualizado 2026-09-29) — "Um cunhado meu que leva
+  água daqui para o próximo posto..." — e o **carroceiro** confirma: "Só tem
+  uma água em dois dias de subida"; foi ele quem mostrou a água aos
+  caçadores. Quem sobe,
   **carrega**.
-- **A água da bacia (cap. 27-28) está perdida — por motivo físico, não por
-  medo.** Oito mercenários mortos **na beira da água**, em fila, ombro com
-  ombro; dois dias de sol e os corvos dentro deles (cap. 29, visto por
-  Nolan). Voltar à bacia não é enfrentar Inquiridores: é beber de uma cova.
+- **A água da bacia (caps. 26-27) está perdida — por motivo físico, não por
+  medo.** Uns oito ou nove mortos **na beira da água**, largados sem sepulto
+  (cap. 28, na boca do carroceiro: "Ficaram jogados perto da água. Deixei
+  lá."). Voltar à bacia não é enfrentar Inquiridores: é beber de uma cova.
   ⚠️ **Medo não pode ser a razão da recusa** — um homem com sede bebe de
   qualquer lugar, salvo se o lugar estiver envenenado. A razão tem de ser
   concreta e visível na página.

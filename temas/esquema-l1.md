@@ -54,7 +54,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 26       | Jogos e Diversão                    | Kate         | ~48-50%                | ~50,7%               | 3.162    |
 | 27       | Jogos e Diversão                    | Mário        | ~50-52%                | ~52,3%               | 2.199    |
 | 28       | Jogos e Diversão                    | Kate         | ~52-54%                | ~54,0%               | 2.336    |
-| 29       | Jogos e Diversão                    | Nolan        | ~54-56%                | ~55,9%               | 2.624    |
+| 28 (ex-29; varredura pendente) | Jogos e Diversão          | Nolan        | ~54-56%                | ~55,7%               | 2.231    |
 | 30       | Jogos e Diversão                    | Mário        | ~56-58%                | —                     | —        |
 | 31       | Jogos e Diversão                    | Kate         | ~58-60%                | —                     | —        |
 
@@ -369,6 +369,16 @@ o **🏁 Nota de checkpoint (2026-09-18 — fecho do beat "Jogos e Diversão", c
 
 #### Capítulo 29 (PoV de Nolan) — Reformulado
 
+> **⚑ Nota de execução (2026-09-29 — capítulo reestruturado; numerado 28):** o
+> capítulo ficou **só no cruzamento de Tronk** — caiu a subida ao sítio e a
+> visita ao terreno; **o sítio passa ao próximo capítulo do Nolan** (a bacia
+> de pedra: os oito/nove mortos, os furos, o machado, o edital). Caiu o
+> retorno à Metrópole e a carta de Layla (vembras parkadas); a carroça traz
+> **só os três Inquiridores**; a negação do escriba acontece **no
+> tabelionato** (5º degrau), e o carroceiro abre o caminho da bacia. Fecho:
+> decisão de subir + "utilidade" dos rampillas. **Os itens abaixo descrevem
+> a versão anterior — superados.**
+
 o **O encontro com os Inquiridores.** Nolan chega ao local da emboscada. Os Inquiridores ainda estão lá, recolhendo os corpos dos companheiros que Kate abateu. **Mário escapou.**
 
 o **A memória do passo 2 (plantio 2026-09-19).** Uma frase, sem comentário: os
@@ -376,6 +386,9 @@ o **A memória do passo 2 (plantio 2026-09-19).** Uma frase, sem comentário: os
   de qualquer ordem dele — atrás de um homem que chamavam de souhma. Não fazia
   sentido então, e não faz agora. É o degrau que sustenta o que vem depois
   (escada de 5 passos em `personagens/nolan.md`).
+  ⚑ **Dispensado (decisão do autor, 2026-09-29)** — não é necessário: o 5º
+  degrau fica só com a recusa do escriba; a agenda da Ordem o leitor já tem do
+  cap. 27 ("Ele terá o trono. Vonos garante.").
 
 o **A colisão da custódia (2026-09-19 — o 5º degrau).** Nolan exige o registro
   da ação; o líder dos Inquiridores recusa — respondem a Nuh d'Teraghar e a

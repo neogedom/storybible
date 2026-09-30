@@ -184,7 +184,9 @@ frequência é conhecida. Não será difícil reencontrá-lo."** O objetivo de
 fundo eles declaram entre si: **"Ele terá o trono. Vonos garante."** (semente
 #20; ver `temas/sementes.md`).
 
-## A negativa da custódia (canon 2026-09-19 — cap. 29)
+## A negativa da custódia (canon 2026-09-19 — cap. 29; **executada em Tronk**, 2026-09-27)
+
+> **5º degrau executado (cap. 28, Tronk):** o escriba nega informação a um Juiz da Coroa — "Não consta"; "Cuide dos seus negócios, senhor. Eu cuido dos de Vonos." — e **ignora o selo do ofício** sobre o balcão. Primeira vez em todos os anos de ofício de Nolan. A colisão deixou de acontecer no terreno: é no **tabelionato do cruzamento**, e os mortos trazidos são **só os três da Ordem** (os mercenários ficaram na bacia). Nota: os bullets abaixo registram o canon da recusa (mantêm-se); a cena originalmente escrita no sítio foi superada pela reestruturação do cap. 28.
 
 Primeira colisão aberta entre a Ordem e a Coroa, na pessoa de um conselheiro
 com selo. Os Inquiridores **não** registram, **não** repartem informação e

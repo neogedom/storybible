@@ -234,11 +234,11 @@ fechada pelo autor para que Nolan não "vire" cedo contra Vonos.
    enquadrem o boato do souhma como farsa: supõe que leriam a situação como
    ele lê (não há souhma real). Não são adversários — são o braço doutrinário
    do próprio juízo dele.
-2. **O Templo de Rifte se esvazia** (a plantar no cap. 29 como **memória**,
-   não como revelação). Ele sabe que os Inquiridores deixaram o Templo e estão
-   na estrada atrás de um homem que chamam de souhma — **semanas antes** de
-   qualquer ordem dele. Estranheza sem conclusão: por que uma instituição
-   deslocaria gente por um farsante?
+2. **O Templo de Rifte se esvazia** — ⚑ **dispensado (decisão do autor,
+   2026-09-29)**: não é necessário. Os Inquiridores saíram do Templo e tomaram
+   a estrada semanas antes de qualquer ordem dele; isso fica como **fundo**,
+   não como plant em cena — o 5º degrau fica só com a recusa do escriba (a
+   agenda da Ordem o leitor já tem do cap. 27).
 3. **Cap. 19 — a intimação a Devour.** Os Inquiridores reclamam a custódia de
    Mário. Nolan ainda crê que querem o mesmo que ele (provar a farsa); no
    máximo quer chegar primeiro, para usar a exposição pública do farsante

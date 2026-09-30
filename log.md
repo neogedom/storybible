@@ -1,5 +1,28 @@
 # Log de Atualizações
 
+## 2026-09-29 (cap. 28 — mudanças aprovadas aplicadas + Mini-INGEST)
+
+- **Cap. 28 — mudanças (29/09):** aplicadas e mantidas: a apresentação sem
+  repetição ("Nolan Guenayer, Juiz da Metrópole e Conselheiro da Coroa") e
+  "Agradeceu a Vonos". **Retiradas pelo autor, no mesmo dia:** a memória do
+  Templo de Rifte esvaziado e o freio da aritmética ("Era conta de estrada;
+  registro, não havia nenhum.") — o autor não gostou; o 5º degrau fica só com
+  a recusa. **⚑ Decisão (29/09):** o plant do Templo de Rifte esvaziado fica
+  **dispensado** — não é necessário.
+- **Mini-INGEST (modo privado):** `capitulos/capitulo-28.md` reescrito (era a
+  versão do sítio; agora só-Tronk; **2.231 palavras**; ~55,7% na régua
+  137,5k); `visuais/nolan.md` (seção nova do 28);
+  `conceitos/inquiridores-sinal.md` (execução do 5º degrau em Tronk);
+  `conceitos/agua-e-seca.md` (a fala migrou ao posteiro; a água da bacia
+  confirmada pelo carroceiro); nota de execução no `temas/esquema-l1.md`.
+- **Fronteira:** o cap. 27 fechou com a Ordem recolhendo os seus; o 28 dá o
+  lado de Nolan da mesma recolha. **Corte D** (consequência com dente).
+  Próximo: cap. 29 (novo), PoV Mário (Moribundos); o gancho do sítio fica
+  para o próximo capítulo do Nolan.
+- **Contador de checkpoint:** 1 capítulo desde 2026-09-18 — não oferecer.
+- **Pendências:** varredura de renumeração (grande); confirmar a migração
+  furos/machado/edital → sítio; cartaz × edital no sítio.
+
 ## 2026-09-27 (cap. 28 — lote de comentários do autor resolvido; capítulo limpo)
 
 - 4 comentários resolvidos e removidos — o capítulo voltou a ficar sem
