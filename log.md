@@ -1,5 +1,26 @@
 # Log de Atualizações
 
+## 2026-09-27 (cap. 28 — lote de comentários do autor resolvido; capítulo limpo)
+
+- 4 comentários resolvidos e removidos — o capítulo voltou a ficar sem
+  marcadores:
+  1. "homem do norte?" → trocado por **"o feiticeiro"** (a alcunha fecha o
+     triplo: menino da feira → posteiro → pergunta do Nolan; "do norte"
+     enganaria, pois ele vai PARA o norte).
+  2. **Escriba (comentário sobre o Escriba-Mestre do cap. 0)**: sem conflito
+     — estações diferentes (rito palaciano × ofício de campo da Ordem, que
+     responde ao Templo); a frieza no 28 é o 5º degrau canônico. No texto,
+     "identificado como" virou "devia ser o escriba..." (inferência do Nolan).
+  3. "O que aconteceu?" mantido — coerente com o que Nolan sabe; a aritmética
+     dele depois bate com o site (Kate matou os três), como hipótese.
+  4. **"assentar"** = jargão de aferição da Ordem ("registro fixado";
+     `conceitos/glossario.md`, `conceitos/inquiridores-sinal.md`; cap. 27 usa
+     "Em eixo. / Falta assentar."). O 28 não usa o termo (corte do autor).
+- Microcorreções no cap. 28: "Conselheiro da Coroa"; "O senhor perguntou";
+  "me ofereci"; "mais de oito"; "Eram mercenários?"; "escurecer. Foi";
+  "devolvia os cadáveres à carroça"; linha em branco no parágrafo do séquito;
+  "marcou-as com o brasão dos Guenayer".
+
 ## 2026-09-26 (cap. 28 — Tronk realinhado: só os três; o carroceiro abre o sítio)
 
 - A cena da banca foi refeita ao plano novo (pedido do autor): a carroça do
