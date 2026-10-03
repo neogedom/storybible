@@ -73,6 +73,19 @@ timestamp: 2026-07-24T12:00:00-03:00
   reconstruída, Alavria) e pode literalmente durar mil anos. O nome é
   profecia que se cumpre; a explicação erudita é worldbuilding de dentro do
   mundo.
+- **As inferências do cap. 30 se abastecem da memória do sonho (decisão do
+  autor, 2026-10-01):** o pesadelo é o laboratório que ele não sabia que
+  tinha — as imagens do sonho (a **terra rachada**, os **sons da guerra que
+  não para**, ele **invisível à guerra**, o **toque que registra**) guiam a
+  dedução das regras do campo — o leitor reconhece as imagens antes dele.
+  Nada da disciplina muda: sem rostos/nomes, sem o símbolo/estandarte, sem o
+  castelo; a tese não é verbalizada; "Hícse" só volta no eco do cap. 31.
+  **Fechamento (2026-10-01):** o reconhecimento se completa pelos **ecos
+  espectrais com as mesmas roupas do sonho** (os dois lados) + **o mesmo som
+  de guerra** — é o suficiente (a batalha do sonho não se move). O **"Aprenda
+  com eles"** ganha sentido gradual; em **Gus**, ele liga sonho + Moribundos
+  + Hícse e conclui que as coisas saíram do controle, de alguma forma, por
+  causa dela.
 - **Germinação**: L2 — Hícse **reconstrói** a Hoste da Purgação com
   **criaturas já estabelecidas no livro**: gornads, alguns lobisomens,
   canibais dos Clãs de Sangue e **um único vampiro** — o último verdadeiro
@@ -546,5 +559,27 @@ timestamp: 2026-07-24T12:00:00-03:00
   O custo tem de aparecer **no mesmo capítulo**, ainda que pequeno.
 - **Risco**: virar cena de exposição sociológica. Se o leitor não ouvir **duas
   ou três frases tortas concretas**, o fio não conta.
+
+## 24. A Origem Revelada ao Lakand — "De onde você veio"
+
+- **O que é**: no capítulo do salvamento (fio do Mário), **o Mário usa o
+  conhecimento do século XXI para salvar o Lakand** — e, quando isso acontece,
+  o Lakand pergunta **"De onde você veio"**: é aí que o Mário **revela que não
+  é de Ornick** (decisão do autor, 2026-10-01).
+- **Semente já plantada**: cap. 13 — "Você é vazio. Como se não pertencesse a
+  Ornick."
+- **Interage com**: a falta de água (a água imunda + a destilação entram NESSE
+  capítulo — movidas do 30); a agência do Mário; **vem depois do cap. 31 da
+  Kate** (decisão do autor, 2026-10-01) — o ferimento fica pendurado no
+  capítulo dela.
+- **As âncoras da pergunta (decidido 2026-10-01):** **(1)** o **contraste
+  com o Decian** — o curandeiro de ervas que o Lakand viu a vida inteira
+  (pasta, casca e seiva — cap. 13); o Mário ferve água e panos. **(2)** a
+  **frase do cap. 30** — "— Me trouxe." (o tiro/revólver) — que deixa o
+  **"trouxe de onde?"** na cabeça do Lakand desde a conversa do descanso
+  (plantio na página; pagamento aqui). A **Kate está fora** (buscar lenha/
+  reconhecer o caminho). Resposta curta (outro lugar, outro mundo) e o
+  Lakand: **"Eu sabia."** Decisões junto: **daërunmeges não regeneram**; a
+  crise fecha em **uma noite**.
 
 _Atualizar a cada INGEST de capítulo._

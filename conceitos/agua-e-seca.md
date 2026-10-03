@@ -167,11 +167,22 @@ Variantes disponíveis:
 - **O preço da travessia é do campo, não da Hícse (regra dura).** O campo já
   é perigoso por conta própria: os ecos reagem a **violência, metal e ruído**.
   Atravessar exige **largar as armas e andar em silêncio**, sem encarar, num
-  lugar onde há caçadores atrás. Quem sabe a lei é o **Lakand** (perdeu
-  matilha ali); quem lê o padrão e decide obedecer é o **Mário**.
-- **A travessia do cap. 30 — estrutura travada (decisão do autor, 2026-09-20):**
-  1. **Eles fazem tudo certo.** A lei é conhecida e cumprida: armas no chão,
-     silêncio, olhos baixos.
+  lugar onde há caçadores atrás. ⚠️ **Reestruturado (decisão do autor,
+  2026-10-01) — a lei se decifra na página:** **nenhum dos dois** conhece o
+  território (cai o "quem sabe é o Lakand"; cai a matilha perdida ali como
+  fonte de conhecimento — a informação roubaria a agência do Mário). Eles
+  entram **sem perceber a fronteira**; os efeitos começam **leves** e o Mário
+  os lê e testa (eventos pequenos, controlados) até chegar à regra **antes**
+  de o lugar ficar incontrolável; então a travessia sai **pacífica**. É ele
+  quem manda as armas ao chão — o **Lakand obedece ao que ele decifrou**.
+  Quem paga continua sendo o Lakand ("obedeci e paguei" — obediência ao
+  Mário).
+- **A travessia do cap. 30 — estrutura travada (revisada 2026-10-01):**
+  ⚠️ **Tempo novo (2026-10-01): a descoberta na página.** Entram sem conhecer
+  o lugar; efeitos **leves**; o **Mário lê e testa** (eventos pequenos,
+  controlados) e decifra a regra **antes** de o lugar ficar incontrolável.
+  1. **Eles fazem tudo certo.** A lei, **decifrada por ele**, é cumprida:
+     armas no chão, silêncio, olhos baixos.
   2. **A lei funciona na frente do leitor.** Um eco passa a um braço de
      distância e **não reage** — uma respiração de alívio. Sem isso, "eles
      fizeram certo" fica dito, não mostrado.
@@ -187,8 +198,7 @@ Variantes disponíveis:
   6. **A ponte queima atrás.** Depois de atravessar correndo, **o caminho de
      volta está fechado** — o campo agora conhece os dois. O "só para frente"
      deixa de ser escolha e passa a ser sentença: nunca mais dá para voltar à
-     bacia. O Mário **registra** (o padrão que não encaixa).
-  - ⚠️ **O eco da Hícse AMPLIFICA, não cria** — e nada de narrador dizendo
+     bacia. O Mário **registra** (o padrão que não encaixa).- ⚠️ **Fecho redefinido (2026-10-01):** o cap. 30 **termina com o Lakand ferido por um Moribundo**; a **água imunda + a destilação** e o **salvamento do Lakand pelo conhecimento do séc. XXI** (e a revelação — "De onde você veio" → Mário não é de Ornick) migraram para o **capítulo seguinte do fio do Mário — que vem depois do cap. 31 da Kate** (decisão do autor, 2026-10-01). O inimigo é o **apodrecimento**; Mário salva com **fervura + higiene + protocolo** (decidido: a crise fecha em uma noite), e a revelação é curta, entre os dois — **a Kate fora**; a pergunta nasce do contraste com os curandeiros de erva (Decian).  - ⚠️ **O eco da Hícse AMPLIFICA, não cria** — e nada de narrador dizendo
     por quê. O Mário anota; **a ficha cai em Gus**.
 - **O eco que o Mário reconhece (bônus estrutural, canon 2026-09-20).** No
   meio da travessia, o campo repete a **cena do sonho do cap. 1** — irmão
@@ -290,7 +300,8 @@ Variantes disponíveis:
 | 27 | vazia de manhã; a bacia é a isca | a água que compra a armadilha |
 | 28 | no sítio, atrás dos Inquiridores | a fuga **sem nada**; os odres dos mortos ficam |
 | 29 | Nolan passa; água do sítio = cena | o lugar da fila de mortos (a bacia virada cova) |
-| 30 | **Mário e Lakand: o orvalho, depois a travessia** | o orvalho dá meio cantil; a bacia é recusada; **os Moribundos são a passagem** (armas no chão, silêncio) e o eco da Hícse só amplifica; a água da ferida é barrenta e a destilação a torna potável — limpa e cobrando igual |
+| 30 | **Mário e Lakand: orvalho, recusa, travessia** | o orvalho dá meio cantil; a bacia é recusada; **os Moribundos são a passagem**; o eco da Hícse amplifica e o campo vira — **Lakand ferido por um Moribundo (fecho)** |
+| seguinte (fio Mário; **depois do cap. 31 da Kate**) | **A água da ferida + o salvamento** | lodo intragável → **destilação** (extrair água de fonte que não é água; sai cristalina e cobra igual); **Mário salva o Lakand** — o inimigo é o **apodrecimento**: fervura + higiene + protocolo (decidido; crise fecha em uma noite); **"De onde você veio" → a origem revelada** |
 | 31 | **Kate: dois cantis** (só ela) | ela é a água; busca quem não sabe que ela tem |
 | 32-35 | preço político na subida à Mina | quem tem água, controla a estrada |
 

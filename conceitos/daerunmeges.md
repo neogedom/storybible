@@ -38,6 +38,17 @@ pelo POV febril de Mário (renderização impressionista). Coerente: Mário já
 viu lobo pleno (Charles, cap. 8). Ironia: a fera carrega o homem que Kate
 escolheu sobre ele — subtexto do "eu perdi".
 
+## Cura e Ferimentos (decisão 2026-10-01)
+
+- **Não regeneram.** Ferida de daërunmege cura como carne comum — nada de
+  fechamento acelerado (decisão do autor: senão o salvamento do Lakand no
+  capítulo da água evapora). A transmorfia queima mais água (ver
+  `conceitos/agua-e-seca.md`), mas não acelera cicatriz.
+- **O que mata é o apodrecimento.** Em Ornick, ferida grande mata pelos dias
+  seguintes, e os curandeiros trabalham com erva (Decian: casca de raiz negra
+  com seiva de mogno — cap. 13). É esse contraste que ancora a pergunta do
+  Lakand no salvamento ("De onde você veio?") — ver `temas/sementes.md` #24.
+
 ## Organização Social
 
 Vivem em **alcateias**. Cada alcateia tem um líder. A alcateia liderada por **Kenod** é a que aparece na trama recente.

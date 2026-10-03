@@ -1,5 +1,128 @@
 # Log de Atualizações
 
+## 2026-10-01 (salvamento — a segunda âncora: "trouxe de onde?")
+
+- **Decisão do autor:** a revelação do salvamento tem **duas âncoras**: o
+  contraste com o **Decian** (erva × fervura) **e a frase do cap. 30** —
+  "— Me trouxe." (o tiro/revólver). O **"trouxe de onde?"** fica na cabeça
+  do Lakand desde a conversa do descanso, e é ele que vira a pergunta
+  **"De onde você veio?"** (payoff do plantio executado no cap. 30).
+- **Aplicado:** `temas/esquema-l1.md` (bullet do salvamento),
+  `temas/sementes.md` (#24).
+
+## 2026-10-01 (salvamento — método aprovado; decisões fechadas)
+
+- **Método aprovado pelo autor:** o inimigo é o **apodrecimento**; Mário salva
+  com **fervura + higiene + protocolo** (ferver água e panos, lavar a ferida e
+  as mãos, trocar o curativo, vigiar a febre); a **noite da febre** é o clímax,
+  com virada de manhã.
+- **Decisões (2026-10-01):** **1)** a Kate está **fora** da revelação (buscar
+  lenha/reconhecer o caminho); **2)** **daërunmeges não regeneram** (registrado
+  também em `conceitos/daerunmeges.md`); **3)** a crise **fecha em uma só
+  noite**.
+- **A âncora da pergunta:** o contraste com o **Decian** — o curandeiro de
+  ervas que o Lakand viu a vida inteira (pasta, casca e seiva); o Mário ferve
+  água e panos. Daí: **"De onde você veio?"** → resposta curta → **"Eu
+  sabia."** (eco do cap. 13).
+- **Aplicado:** `temas/esquema-l1.md` (bullet do salvamento), `conceitos/agua-e-seca.md` (§5 e §8), `temas/sementes.md` (#24), `conceitos/daerunmeges.md`.
+
+## 2026-10-01 (salvamento: depois do cap. da Kate; método em avaliação)
+
+- **Ordem (decisão do autor):** o capítulo do salvamento (fio do Mário) **vem
+  depois do cap. 31 da Kate** — o ferimento fica pendurado no capítulo dela
+  (o reencontro chega com sangue: "aliviar, não resolver"). O capítulo do
+  Nolan desliza um número (reflui quando chegarmos lá).
+- **Conteúdo da casa:** água da ferida + **destilação**; **Mário salva o
+  Lakand** (e a si — a divisão da água); **"De onde você veio" → a origem
+  revelada** (curta, entre os dois).
+- **Método do salvamento — proposta do agente (em avaliação com o autor):**
+  o que mata é o **apodrecimento**; estancar (pressão + pano) → a água (a
+  conta/destilação) → o medo local ("vai apodrecer") → **ferver água e panos,
+  lavar a ferida e as mãos, trocar o curativo** → a **noite da febre** (clímax)
+  → a virada de manhã; **a pergunta nasce do método** (ninguém em Ornick lava
+  ferida com água fervida). Guardrail: nada de cirurgia de fantasia/
+  antibiótico — higiene + disciplina de leigo.
+- **Pendências:** Kate presente na revelação? (rec: fora — buscar lenha/
+  reconhecer o caminho); daërunmeges regeneram? (rec: não); a crise fecha em
+  uma noite? (rec: um capítulo, crise no meio).
+
+## 2026-10-01 (cap. 30 escrito até o fecho novo — Lakand ferido; água/destilação e a revelação movem de casa)
+
+- **Prosa escrita (o restante do cap. 30, abaixo das notas do autor):** descanso
+  + conversa (Kate; o afastamento com Lakand; o Theodore; o eco de Saramant;
+  o arrependimento do tiro), noite + sonhos + orvalho (sem cantil), recusa da
+  bacia (motivo físico), caça, efeitos leves, primeira regra (a intenção
+  violenta do Lakand acorda o campo; ele cede; os ecos arrefecem), travessia
+  (a lei funciona; o reconhecimento — as armaduras do sonho), a virada no sol
+  a pino e o **Lakand ferido por um Moribundo** (fecho).
+- **Decisão do autor (fecho e mudanças de casa):** o cap. 30 **termina no
+  ferimento do Lakand**; a **água da ferida + a destilação** e o **salvamento
+  do Lakand pelo conhecimento do séc. XXI** migram para o **capítulo seguinte
+  do fio do Mário** (casa/numeração a definir; interage com a ordem fixa 30→31
+  e com o reencontro da Kate). Nesse capítulo: **Lakand pergunta "De onde você
+  veio" → Mário revela que não é de Ornick.**
+- **Aplicado:** `Livro 1/capitulo30.md` (prosa), `temas/esquema-l1.md` (bullet
+  da água + tempos 4-5 + mapa), `conceitos/agua-e-seca.md` (§5 e §8),
+  `temas/sementes.md` (#24).
+- **Pendência:** casa do capítulo do salvamento (antes/depois do cap. 31 da
+  Kate) — a decidir com o autor.
+
+## 2026-10-01 (Moribundos — o pesadelo abastece as inferências; pergunta aberta: mover a batalha do sonho?)
+
+- **Decisão do autor:** as inferências do Mário no cap. 30 são **abastecidas
+  pela lembrança do pesadelo do cap. 1** — o sonho é o laboratório que ele não
+  sabia que tinha: ele deduz as regras pelas imagens (a **terra rachada**, os
+  **sons da guerra que não para**, ele **invisível à guerra**, o **toque que
+  registra**). Disciplina mantida: as imagens guiam (o leitor reconhece antes
+  dele); nada de verbalizar a tese; sem rostos/nomes, **sem** o
+  estandarte/símbolo, **sem** o castelo (reservas: ~75% e L2); nada sobre
+  Hícse/a causa (Gus) — "Hícse" volta no eco do cap. 31.
+- **⚑ Pergunta aberta do autor:** "no sonho do cap. 1, a batalha deveria ter
+  acontecido nos Moribundos em vez do castelo?" **Recomendação: não** — no
+  sonho, o campo e o castelo são o MESMO lugar, e o castelo é a **Metrópole**
+  (destruído e reconstruído; é lá que ele reconhece o Monólito — nível 5 da
+  checklist, ~75%). Mover a batalha arrastaria o castelo e derrubaria o
+  pagamento; e não há marco no Moribundos que confirme "é o mesmo lugar" — o
+  30 entrega o nível 3 ("a guerra do sonho é real"), não o nível 5.
+- **✔ Decisão do autor (mesmo dia):** **não mover** — o reconhecimento fica
+  pelos **ecos espectrais com as MESMAS roupas do sonho** (os dois lados: cota
+  de malha × negro-fosco) + **o mesmo som de guerra**. O **"Aprenda com
+  eles"** (a ordem da Voz no sonho) **começa a fazer sentido gradual** no
+  cap. 30; a conclusão completa — sonho + Moribundos + Hícse; "as coisas
+  saíram do controle, de alguma forma, por causa de Hícse" — fica para
+  **Gus**.
+- **Aplicado:** `temas/esquema-l1.md` (bullet do cap. 30 + nota de execução),
+  `temas/sementes.md` (#5).
+
+## 2026-10-01 (numeração 29-31 + Moribundos: a lei se decifra na página)
+
+- **Numeração (decisão do autor):** **29 = Nolan** (a bacia — os mortos, o
+  machado, o edital; o gancho do 28) → **30 = Mário (Moribundos)** →
+  **31 = Kate**. Com a inserção, o futuro volta à numeração do mapa de
+  2026-09-20 (30-36). Manuscrito: rascunho do Mário renomeado
+  `capitulo29.md` → `capitulo30.md`. Dois Nolans seguidos (28-29): a regra do
+  passe de fechos só marca PoV repetido **3+ vezes** — diferenciar os
+  capítulos (28 = a recusa/5º degrau + decisão; 29 = o sítio e a leitura do
+  terreno).
+- **Moribundos — a lei não é pré-conhecida:** **nenhum dos dois** sabe o que
+  é o território nem como atravessá-lo; cai o "quem sabe é o Lakand" e a
+  matilha perdida ali como fonte de conhecimento (roubaria a agência do
+  Mário — é ele quem lê padrões). O **Mário decifra a regra na página**:
+  entram sem perceber a fronteira; efeitos **leves** → ele lê e testa
+  (eventos pequenos, controlados) → regra (violência, metal, ruído) **antes**
+  de o lugar ficar incontrolável → travessia **pacífica** até a quebra final
+  (Hícse solta), **sem causa deles** ("para eles, sem porquê"). O Lakand
+  **obedece ao que o Mário decifrou** e continua sendo quem paga ("obedeci e
+  paguei").
+- **Aplicado:** `temas/esquema-l1.md` (bullets do cap. 30 + nota no mapa),
+  `conceitos/agua-e-seca.md` §5, `decisoes/gaviornl-morte-antecipada-hicse.md`,
+  `capitulos/capitulo-28.md` (fronteira).
+- **Pendências:** beat de reação do 30 (comentários do autor no rascunho);
+  destino das armas na travessia; informação da água além — segue como
+  leitura do Mário (opção A), a confirmar; migração furos/machado/edital →
+  sítio do Nolan (marcada "a confirmar"); varredura de renumeração (menor
+  agora: o futuro volta a 30-36).
+
 ## 2026-09-29 (cap. 28 — mudanças aprovadas aplicadas + Mini-INGEST)
 
 - **Cap. 28 — mudanças (29/09):** aplicadas e mantidas: a apresentação sem

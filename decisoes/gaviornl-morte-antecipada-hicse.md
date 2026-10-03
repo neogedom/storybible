@@ -42,8 +42,9 @@ a carga e ainda paga dois plantios antigos (abaixo).
 - ⚠️ **O eco AMPLIFICA, não cria.** O campo **já é perigoso por conta
   própria** e precisa soar assim **antes** de qualquer eco: os ecos reagem a
   **violência, metal e ruído**, e atravessar exige **largar as armas e andar
-  em silêncio** — com caçadores atrás. Quem sabe a lei é o **Lakand** (perdeu
-  matilha ali); quem lê o padrão e decide obedecer é o **Mário**.
+  em silêncio** — com caçadores atrás. ⚠️ **Revisado (2026-10-01): ninguém
+  sabe a lei de antemão** — o **Mário a decifra na página** (efeitos leves →
+  testes) e comanda; o Lakand **obedece a ele** e é quem paga.
 - **Quando o eco chega: no MEIO da travessia (decisão do autor, 2026-09-20).**
   Mário e Lakand fazem tudo certo — a lei é cumprida e **chega a funcionar na
   frente do leitor** (um eco passa perto e não reage) — e o campo **vira assim
@@ -66,7 +67,10 @@ a carga e ainda paga dois plantios antigos (abaixo).
   sentindo à distância).
 - **Onde a ficha cai: Gus.** As duas revelações — a dela (que soltou a Hícse)
   e a dele (que o campo o atacou por isso) — são **a mesma revelação**. É o
-  que dá peso ao pagamento.
+  que dá peso ao pagamento. **Fechamento do fio do sonho (2026-10-01):** em
+  Gus, o Mário liga **sonho + Moribundos + Hícse** — o "Aprenda com eles" do
+  cap. 1 fecha a conta — e conclui que as coisas saíram do controle, de
+  alguma forma, por causa de Hícse.
 - **Bônus estrutural (autor, 2026-09-20):** o eco é o **mesmo evento** do
   sonho do cap. 1 — Mário **reconhece** a cena (irmão matando irmão, sem
   rostos nítidos) e passa a entender melhor o mundo. Pagamento antecipado da
@@ -90,9 +94,9 @@ a carga e ainda paga dois plantios antigos (abaixo).
 - **O Sinal não "para".** Contradiz `decisoes/sinal-permanentemente-instavel.md`
   ("perde o eixo", nunca mudez). O certo: o instrumento **perde o objeto**
   — selo rompido não lê nada.
-- **A alternância de PoV precisa fechar** (proposta: 30 = Mário+Lakand /
-  31 = Kate / 32 = reencontro). O batismo e o reveal de "Javé" (cap. 31
-  no plano antigo) precisam de **novo endereço**.
+- **A alternância de PoV fechou (2026-10-01):** 29 = Nolan (a bacia) / 30 =
+  Mário+Lakand / 31 = Kate (o reencontro fecha o capítulo). O batismo e o
+  reveal de "Javé" migraram para o **cap. 33** (mapa de 2026-09-20).
 - **A reação do Lakand não pode virar debate teológico.** Ele age por
   instinto; o estopim é a acusação da Kate ("você protege um herege"), e a
   reação dele é ao **custo**, não à doutrina. Se virar argumento, perdeu o

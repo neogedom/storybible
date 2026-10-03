@@ -95,7 +95,7 @@ O capítulo fecha **apontando o norte**: a forquilha do cruzamento e, à noite, 
 - **5º degrau executado** no tabelionato do cruzamento (a negação + o selo ignorado) — canon em `conceitos/inquiridores-sinal.md`.
 - **Retiradas pelo autor (29/09):** a memória do Templo de Rifte esvaziado e o freio da aritmética foram tentados e **removidos** do capítulo (o autor não gostou do texto). **O plant do Templo de Rifte esvaziado fica dispensado** — decisão do autor, 29/09: não é necessário; o 5º degrau fica só com a recusa (e a agenda da Ordem o leitor já tem do cap. 27).
 - **Fecho:** decisão (subir à bacia) + o dente do "utilidade". **Corte: D** (consequência com gancho de ameaça) — conferir no passe de fechos do próximo checkpoint.
-- **Fronteira:** o cap. 27 fechou com a Ordem recolhendo os seus; o cap. 28 dá o lado de Nolan da mesma recolha. Próximo (29): PoV Mário (Moribundos), conforme o esquema.
+- **Fronteira:** o cap. 27 fechou com a Ordem recolhendo os seus; o cap. 28 dá o lado de Nolan da mesma recolha. **Ordem/numeração (decisão do autor, 2026-10-01):** próximo (29) = **Nolan** (a bacia — os mortos, o machado, o edital; o gancho do 28); depois **30 = Mário (Moribundos)** e **31 = Kate**.
 - **Contador de checkpoint (passo 7):** 1 capítulo desde o checkpoint de 2026-09-18 — não oferecer (dispara na 6ª marca).
 
 ## Notas de ingest (2026-09-20 — reestruturação aprovada pelo autor)
