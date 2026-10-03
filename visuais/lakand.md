@@ -19,7 +19,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Múltiplas, visíveis                |
 | Expressão  | Predatória, alerta                 |
 
-## Capítulo 30 — Moribundos
+## Capítulo 29 — Moribundos
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |

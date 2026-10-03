@@ -10,8 +10,8 @@ timestamp: 2026-10-02T21:30:00-03:00
 # Os Moribundos
 
 > Território na subida para a Mina, além da bacia de pedra. A criatura
-> fantástica do checklist do L1, executada no cap. 30. Prosa: `Livro 1/capitulo30.md`;
-> ingest: `capitulos/capitulo-30.md`.
+> fantástica do checklist do L1, executada no cap. 29. Prosa: `Livro 1/capitulo30.md`;
+> ingest: `capitulos/capitulo-29.md`.
 
 ## O que é
 
@@ -26,7 +26,7 @@ timestamp: 2026-10-02T21:30:00-03:00
 - **Quem lê a lei é o Mário** (o abdutivo; o sonho do cap. 1 é o laboratório que ele não sabia que tinha — semente #5). O Lakand **obedece ao que o Mário decifrou**.
 - **A lei funciona na frente do leitor:** um eco passa a um braço de distância e **não reage** (a respiração de alívio) — só então a quebra dói.
 
-## Fenômenos (canon do cap. 30)
+## Fenômenos (canon do cap. 29)
 
 - O mato silencia (ausência de bichos) antes de cada manifestação.
 - O som da guerra antiga vai e volta, "feito um trovão que se lembra de ir embora".
@@ -49,6 +49,6 @@ timestamp: 2026-10-02T21:30:00-03:00
 
 ## Status
 
-- **Cap. 30:** travessia feita; **o Lakand ferido** (corte oblíquo da cintura às costelas — o que mata é o apodrecimento; ver `conceitos/daerunmeges.md` e `conceitos/agua-e-seca.md` §5).
-- **O que vem:** o cap. 31 (Kate — o alívio; o ferimento pendurado) e, depois, o capítulo do salvamento no fio do Mário (água imunda + destilação + "De onde você veio" — semente #24).
+- **Cap. 29:** travessia feita; **o Lakand ferido** (corte oblíquo da cintura às costelas — o que mata é o apodrecimento; ver `conceitos/daerunmeges.md` e `conceitos/agua-e-seca.md` §5).
+- **O que vem:** o cap. 30 (Kate — o alívio; o ferimento pendurado) e, depois, o capítulo do salvamento no fio do Mário (água imunda + destilação + "De onde você veio" — semente #24).
 - **L2:** a Hoste de Hícse se alimenta das memórias cobradas (ver semente #23).

@@ -1,5 +1,35 @@
 # Log de Atualizações
 
+## 2026-10-03 (a jornada de Nolan sobe — cap. 29 cortado, renumeração)
+
+- **Decisão do autor (sessão de dois dias):** Nolan **não retorna à Metrópole**
+  no meio do L1. Ele **sobe** atrás do Estrangeiro, chega à Mina pela borda,
+  compra informação e faz o pitch em cena. Documento:
+  `decisoes/jornada-nolan-acre-2026-10-03.md`.
+- **Cap. 29 CORTADO** (a bacia de pedra). O aprendizado dos rampillas entrou
+  no **rabo do cap. 28**; a autópsia muda para **depois da queda da Mina**
+  (cap. 36).
+- **Renumeração:** 30→29 (Moribundos), 31→30 (Kate), 32→31 (Nolan, conteúdo
+  novo: a Mina como lugar), 33→32, 34→33, 35→34, 36→35 (Ponto Central) e
+  **36 novo** (Nolan lê a ruína). Manuscrito: `capitulo30.md` → `capitulo29.md`;
+  o rascunho do Nolan foi para `cortes/capitulo29-bacia.md`.
+- **Manuscrito — cap. 28 reescrito no rabo:** o edital agora entra pela
+  **parede da casa de correios**; a lição da **emendadeira** (com o limite —
+  a raiz para na água e na pedra); a divisão da coluna (o bebê fica no pouso);
+  fecho novo ("Vou comprar olhos"). 3.203 palavras.
+- **Varredura de renumeração:** 711 referências em 41 arquivos da Story Bible
+  normalizadas (exceto `log.md`, `raw/` e `capitulos/cortados/`).
+  ⚠️ A varredura corrompeu os backticks de 3 arquivos — restaurados do git e
+  reaplicados por script: `conceitos/inquiridores-sinal.md`,
+  `decisoes/nolan-retorna-metropole-juleen-rampillas.md`,
+  `lugares/moribundos.md`.
+- **Superado:** `decisoes/nolan-retorna-metropole-juleen-rampillas.md`. A
+  vembra passa para a **volta**; o enforcamento da Juleen para o bloco final
+  da Metrópole, em paralelo ao Caixão.
+- **Pendências:** geografia da subida (por onde Nolan passa sem cruzar com o
+  grupo); fichas novas (`uorier`, `mina-de-quartzo`, `cidadela-de-gus`);
+  bloco da Cidadela de Gus a mapear.
+
 ## 2026-10-02 (cap. 30 — limpeza + Mini-INGEST)
 
 - **Limpeza do cap. 30 (pedido do autor):** removidos os marcadores `(* ...)`

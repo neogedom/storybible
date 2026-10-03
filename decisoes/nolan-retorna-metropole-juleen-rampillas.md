@@ -1,18 +1,25 @@
 ---
 type: Decision
 title: Nolan retorna à Metrópole para matar Juleen; caçada de Mário via rampillas (sentidos à distância)
-description: Nolan recebe a resposta de Layla sobre a vembra e decide voltar à Metrópole para resolver pessoalmente. Deixa rampillas no encalço de Mário e observa à distância através deles (mecanismo de sentidos operado por Ossan). O enforcamento de Juleen (cap. 32) acontece no fio de Nolan, em paralelo à linha de Kate/Mário.
+description: Nolan recebe a resposta de Layla sobre a vembra e decide voltar à Metrópole para resolver pessoalmente. Deixa rampillas no encalço de Mário e observa à distância através deles (mecanismo de sentidos operado por Ossan). O enforcamento de Juleen (cap. 31) acontece no fio de Nolan, em paralelo à linha de Kate/Mário.
 tags: [decisao, L1, cap-29, cap-31, cap-32, nolan, juleen, ossan, rampillas, metropole, mira, saboc]
 timestamp: 2026-08-30T12:00:00-03:00
 ---
 
 # Nolan Retorna à Metrópole; Caçada via Rampillas
 
+> **⚠️ STATUS (2026-10-03): SUPERADO.** Nolan **não retorna** no meio do L1 —
+> ele **sobe** atrás do Estrangeiro e chega à Mina pela borda. A vembra é
+> descoberta na **volta** (Mira, no banco da carroça) e o **enforcamento da
+> Juleen** passa ao **bloco final da Metrópole**, em paralelo ao Caixão de
+> Mário. Ver `decisoes/jornada-nolan-acre-2026-10-03.md`. O texto abaixo é
+> histórico (2026-08-30 a 2026-09-25).
+>
 > **Status (2026-09-25): suspenso no ponto de partida.** A descoberta da vembra foi parkada (`insights/vembra-e-a-morte-de-dagmar.md`) com o corte do cap. 24 de Nolan. O retorno/enforcamento aguarda a realocação da descoberta.
 
 ## Contexto
 
-A semente #6 registra o enforcamento de Juleen no cap. 31 — mas o cap. 31 é
+A semente #6 registra o enforcamento de Juleen no cap. 30 — mas o cap. 30 é
 **POV Kate** (o batismo, a primeira aparição de "Javé"). Como Nolan enforca
 Juleen num capítulo de Kate? A resposta: Nolan **volta à Metrópole** e o
 enforcamento acontece no fio dele, em paralelo à linha de Kate/Mário.
@@ -32,7 +39,7 @@ deles**, usando o mesmo mecanismo que Devour usava para sentir através das
 criaturas ("extensão do corpo de Devour"). Isso permite:
 
 - A caçada não para durante o retorno à Metrópole
-- O cap. 32 (POV Nolan, observação à distância) ganha mecanismo concreto
+- O cap. 31 (POV Nolan, observação à distância) ganha mecanismo concreto
 - A cena mais fria do livro: Nolan na Metrópole, enforcando Juleen, enquanto
   "vê" Mário sobreviver à tempestade de quartzo com os companheiros
 
@@ -55,7 +62,7 @@ criaturas ("extensão do corpo de Devour"). Isso permite:
 - **Foco dividido** — sentir através de muitos ao mesmo tempo é custoso;
   Nolan alterna entre os que importam
 
-### 5. O enforcamento de Juleen (cap. 32, POV Nolan — correção 2026-08-30)
+### 5. O enforcamento de Juleen (cap. 31, POV Nolan — correção 2026-08-30)
 
 - Nolan chega à Metrópole com rampillas (alguns foram com ele)
 - Pessoas do Conselho o questionam e o censuram — ele ignora (a espiral
@@ -76,9 +83,9 @@ criaturas ("extensão do corpo de Devour"). Isso permite:
   `decisoes/mandante-juleen-alvo-linhagem.md`.
 
 > **Correção de localização (2026-08-30):** o enforcamento foi inicialmente
-> registrado no cap. 31, mas o cap. 31 é **POV Kate** (o batismo) — o
+> registrado no cap. 30, mas o cap. 30 é **POV Kate** (o batismo) — o
 > enforcamento não pode ser mostrado num capítulo cujo POV está no
-> assentamento. Movido para o **cap. 32 (POV Nolan)**, que abre com o
+> assentamento. Movido para o **cap. 31 (POV Nolan)**, que abre com o
 > enforcamento e segue para a observação via rampillas.
 
 ### 6. Mira e Saboc retornam com Nolan (canon 2026-09-18 — decisão do autor)
@@ -86,7 +93,7 @@ criaturas ("extensão do corpo de Devour"). Isso permite:
 Mira e Saboc **vão no retorno à Metrópole**. Consequências:
 
 - **O herdeiro entra na Metrópole**: o bebê dado por morto chega vivo, com
-  Nolan. Peso contra Juleen no cap. 32 (a mulher que o matou, diante dele) e
+  Nolan. Peso contra Juleen no cap. 31 (a mulher que o matou, diante dele) e
   contra quem deu Dagmar por perdida.
 - O esquema já exige Saboc **fisicamente** com Nolan no fim do L1 — Noite
   Escura: "Nolan, movido pelo filho Saboc, leva água e comida escondido" ao
@@ -101,14 +108,14 @@ Mira e Saboc **vão no retorno à Metrópole**. Consequências:
 
 ## Impacto na timeline
 
-- **Cap. 29 (executado 2026-09-19; reestruturado 2026-09-20)**: Nolan colide
+- **Cap. 28 (executado 2026-09-19; reestruturado 2026-09-20)**: Nolan colide
   com os Inquiridores pela custódia — eles **negam** registro e informação ("A
   Ordem não registra para conselheiros", "Nesta estrada, senhor, quem responde
   é o Templo"), recolhem os três mortos da Ordem e os instrumentos e deixam os
   oito mercenários sem nome, sem cova e sem inquérito. O dado que fica: **não
   lhe perguntam nada** — homens que precisam do rastro perguntam pelo rastro.
   Nolan **não conclui nada**; fica com a pulga (dose fechada em
-  `personagens/nolan.md`, 2026-09-19). Ver `capitulos/capitulo-29.md`.
+  `personagens/nolan.md`, 2026-09-19). Ver `capitulos/capitulo-28.md`.
 - **Dois movimentos (2026-09-20)**: Tronk na subida (a roda, a feira e a
   doutrina, a carta de Layla, a provisão de onze dias) e o sítio (os oito, o
   edital no bolso do homem do machado, a negativa da custódia, a ordem). A
@@ -128,10 +135,10 @@ Mira e Saboc **vão no retorno à Metrópole**. Consequências:
 - **O fim da caça se dá no sítio** (correção 2026-09-20): a Ordem tomou o
   rastro. A decisão é falada ali mesmo, com Ossan — Nolan desce para a
   Metrópole e deixa os **seis na rota, sem condutor**; a raiz-mestra viaja com
-  ele (o nó que sustenta os sentidos à distância, cap. 32). O capítulo fecha
+  ele (o nó que sustenta os sentidos à distância, cap. 31). O capítulo fecha
   nos seis entrando no mato e **não** nomeia Juleen.
-- **Cap. 31**: batismo no fio de Kate (sem o enforcamento — POV Kate)
-- **Cap. 32**: enforcamento de Juleen (abre o capítulo) + observação de
+- **Cap. 30**: batismo no fio de Kate (sem o enforcamento — POV Kate)
+- **Cap. 31**: enforcamento de Juleen (abre o capítulo) + observação de
   Mário/Kate/Lakand **através dos rampillas** — vê a dupla funcionando, a
   tempestade de quartzo, e decide atrair Mário como aliado
 - **Com ele na Metrópole**: Mira e Saboc (decisão 2026-09-18) — o herdeiro
@@ -139,18 +146,18 @@ Mira e Saboc **vão no retorno à Metrópole**. Consequências:
 
 ## Arquivos afetados
 
-- `temas/esquema-l1.md` (caps. 29, 31, 32)
+- `temas/esquema-l1.md` (caps. 28, 31, 32)
 - `personagens/ossan.md` (papel: opera os sentidos)
 - `personagens/juleen.md` (cena do enforcamento com rampillas)
 - `conceitos/rampillas.md` (mecanismo de sentidos à distância)
 - `temas/sementes.md` (#6 — enforcamento no fio de Nolan)
 - `decisoes/carruagem-vira-carroca-cap24.md` (transporte; Mira e Saboc)
 - `personagens/mira.md`, `visuais/mira.md`
-- `capitulos/capitulo-29.md` (INGEST do capítulo — 2026-09-19)
+- `capitulos/capitulo-28.md` (INGEST do capítulo — 2026-09-19)
 - `conceitos/correios-e-postas.md` (mala do Trono, prazos, plantios dos caps.
   19, 25 e 29)
 - `decisoes/mandante-juleen-alvo-linhagem.md` (o alvo é a linhagem)
 - `personagens/dagmar.md` (o que ia nascer), `personagens/nolan.md` (a pulga
-  do cap. 29 + o ofício dos Correios), `conceitos/inquiridores-sinal.md` (a
+  do cap. 28 + o ofício dos Correios), `conceitos/inquiridores-sinal.md` (a
   negativa da custódia), `visuais/nolan.md`, `temas/timeline.md` (caps. 21-29)
 - `log.md`

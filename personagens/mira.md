@@ -26,12 +26,14 @@ Saboc** (cap. 22). Conhece ervas — é ela quem reconhece o veneno.
   **despretensiosa** o cheiro de **vembra** em Dagmar ("a senhora cheirava
   a vembra, senhor") — um comentário solto, sem intenção; ela não sabe o
   que está revelando. **É Nolan quem liga os pontos** e anota mentalmente
-  (reveal de Juleen no cap. 32; ver `temas/sementes.md` #6).
-- **Caps. 29-32 (planejado — decisão do autor 2026-09-18)**: acompanha Nolan
-  no **retorno à Metrópole**, com Saboc. É a ama de leite: vai onde o bebê vai.
-  O esquema exige Saboc fisicamente com Nolan na Metrópole (Noite Escura:
-  "Nolan, movido pelo filho Saboc, leva água e comida escondido" ao calabouço
-  de Mário).
+  (reveal de Juleen no bloco final da Metrópole; ver `temas/sementes.md` #6).
+- **Caps. 28+ (planejado — decisão do autor 2026-09-18; ajuste 2026-10-03)**:
+  acompanha Nolan para o norte, com Saboc, **mas não entra no mato** — fica no
+  pouso com a carroça, com telhado e porta, guardada. A descoberta da vembra
+  acontece na **volta**, no banco da carroça, e é ela quem fala, como sempre,
+  sem saber o que revela. O esquema exige Saboc fisicamente com Nolan na
+  Metrópole (Noite Escura: "Nolan, movido pelo filho Saboc, leva água e comida
+  escondido" ao calabouço de Mário).
 - O filho morto dela é só fundo — nunca mencionado no texto.
 
 ## Relações

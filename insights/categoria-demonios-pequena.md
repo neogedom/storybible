@@ -1,6 +1,6 @@
 ---
 type: Insight
-title: A categoria "demônio" fica pequena (fricção teológica do cap. 30)
+title: A categoria "demônio" fica pequena (fricção teológica do cap. 29)
 description: Depois dos Moribundos, Mário nota que a palavra "demônio" não serve para o que viu — uma guerra travada, uma prisão e uma ferida aberta no chão — porque "se passar por deus" pressupõe disfarce, e o que ele viu foi poder.
 tags: [insight, mario, teologia, moribundos, hicse, demonios, julgar-os-deuses]
 timestamp: 2026-09-20T12:00:00-03:00
@@ -8,7 +8,7 @@ timestamp: 2026-09-20T12:00:00-03:00
 
 # A categoria "demônio" fica pequena
 
-> Observação do autor, 2026-09-20. Fricção plantada no cap. 30.
+> Observação do autor, 2026-09-20. Fricção plantada no cap. 29.
 
 ## O que acontece
 

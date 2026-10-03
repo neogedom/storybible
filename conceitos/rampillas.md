@@ -61,22 +61,24 @@ Lanças e machados de lâmina larga.
   Ossan LHE ENTREGA o comando via raiz-mestra** — cede por sobrevivência,
   não lealdade; a entrega é a âncora da tensão (dependência mútua: Nolan
   precisa de quem sabe operar; Ossan precisa de quem o mantém vivo).
-  (correção 2026-08-10)- **Cap. 29 — a força delegada sem condutor (executado 2026-09-19).** Nolan
-  desce para a Metrópole levando **Ossan e o corte da raiz-mestra no caixote
-  de terra preta**; antes de partir, Ossan põe a mão aberta na terra e as
-  **seis** criaturas se põem de pé ao mesmo tempo. Elas entram no mato
-  **sem quem saiba pensar por elas**: executam a ordem guardada (achar o
-  homem que cura e a mulher que anda com ele; seguir de longe; segurar os
-  dois se a recompensa chegar perto primeiro) e **nada mais** — o preço dito
-  por Ossan: "Enquanto a raiz estiver com o senhor, elas fazem o que o senhor
-  mandou. Nada mais." **Consequência de escrita: as seis são perigosas e
-  burras.** Não improvisam, não adaptam e não desistem — mas também não
-  rastreiam como os Inquiridores (não leem "frequência"; tomam o rastro que
-  encontram, e o rastro que encontram é o **sangue-isca da Kate**).
+  (correção 2026-08-10)- **Cap. 28 — a força delegada sem condutor (canon 2026-10-03; substitui a
+  versão de 2026-09-19).** Nolan **sobe para o norte** levando Ossan e o
+  corte da raiz-mestra no caixote de terra preta; antes de marchar, Ossan põe
+  a mão aberta na terra e as **seis** criaturas se põem de pé ao mesmo tempo.
+  Elas entram no mato **sem quem saiba pensar por elas**: executam a ordem
+  guardada (achar o homem que cura e a mulher que anda com ele; seguir de
+  longe; segurar os dois se a recompensa chegar perto primeiro) e **nada
+  mais** — o preço dito por Ossan: "Enquanto a raiz estiver com o senhor,
+  elas fazem o que o senhor mandou. Nada mais." **Consequência de escrita: as
+  seis são perigosas e burras.** Não improvisam, não adaptam e não desistem —
+  mas também não rastreiam como os Inquiridores (não leem "frequência"; tomam
+  o rastro que encontram, e o rastro que encontram é o **sangue-isca da
+  Kate**). As seis alcançam o grupo no **cap. 33** — e é ali que Nolan
+  **perde os olhos**.
   ⚠️ **Não confundir as duas forças na mesma trilha:** as **seis** são
   rampillas (Nolan, ordem guardada); os **dois com vara** são Inquiridores do
   Sinal (Vonos, rastreiam o Mário pela frequência). Capitão: ver
-  `temas/esquema-l1.md`, seção do cap. 29.
+  `temas/esquema-l1.md`, seção do cap. 28.
 ## Nota de Coerência (2026-08-06)
 
 Rampillas são **autômatos sem consciência individual** — não têm voz, não
@@ -116,13 +118,23 @@ Nolan, conhecendo o jardim e a raiz-mestra (ver cap. 22 e
   alcance limitado pela raiz-mestra (a distância Metrópole→norte é o
   limite, ou exige um "nó" intermediário); foco dividido (sentir através de
   muitos ao mesmo tempo é custoso — Nolan alterna entre os que importam).
-- **Operado por Ossan (decisão 2026-08-30; ajuste 2026-09-20)**: quando Nolan
-  retorna à Metrópole (cap. 29-32), Ossan **viaja com ele** e opera os sentidos
-  dos rampillas deixados no encalço de Mário — a partir do caixote com a raiz
-  que vai na carroça. Nolan NÃO aprende o mecanismo — a dependência mantém a
-  tensão, e Ossan pode filtrar ou sabotar o que Nolan vê (bomba-relógio do
-  L2). Os seis que ficam no mato vão **sem condutor**: obedecer, obedecem; o
-  que não há é quem saiba pensar por eles (cap. 29).
+- **Operado por Ossan (canon 2026-10-03; substitui o ajuste de 2026-09-20)**:
+  Ossan **viaja com Nolan** para o norte e opera os sentidos — ele põe a
+  palma da mão na terra (ou na terra preta do caixote) e **Nolan olha**.
+  Nolan NÃO aprende o mecanismo — a dependência mantém a tensão, e Ossan pode
+  filtrar ou sabotar o que Nolan vê (bomba-relógio do L2). Os seis que vão na
+  frente vão **sem condutor**: obedecer, obedecem; o que não há é quem saiba
+  pensar por eles (cap. 28). Quando Kate mata as seis (cap. 33), Nolan
+  **perde os olhos** pelo resto da jornada.
+- **⚑ O limite duro — água e pedra (canon 2026-10-03, cap. 28).** O canal
+  caminha de raiz em raiz: **a raiz para na água e para na pedra.** Onde não
+  há raiz, não há sentido. Consequências travadas:
+  - **o norte é pedra** — a Mina de Quartzo é um **ponto cego absoluto**.
+    Nolan chega perto e não vê nada do que acontece lá dentro;
+  - é isso que o obriga a **comprar informação** de gente de dentro
+    (`decisoes/jornada-nolan-acre-2026-10-03.md`, §5 e §10);
+  - o canal entrega **presença, não leitura**: frio, peso, calor, cheiro. Ele
+    não lê botas sobre sangue pelo fio da raiz.
 
 ## Prompt de Referência Canônica (criatura)
 

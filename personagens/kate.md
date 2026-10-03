@@ -121,7 +121,7 @@ venda.
   "ser sugada pela Mina de Quartzo", cap. 5); (b) a vida de batedora em
   Saramant (rotas, a Estalagem do Vau, o terreno); (c) o treinamento da
   facção de Terbs (Gaviorn'l/Cressadar) que a preparou para atacar a
-  Metrópole — a guerra que Gaviorn'l lhe prometeu (cap. 35) exigia intel
+  Metrópole — a guerra que Gaviorn'l lhe prometeu (cap. 34) exigia intel
   sobre os pontos vitais do Reino (a Mina financia a Metrópole). A
   "fragilidade estrutural" da Mina é leitura TÁTICA de raider, não citação
   de arquivo.

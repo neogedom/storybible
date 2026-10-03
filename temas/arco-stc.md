@@ -58,10 +58,12 @@ entre os três PoVs. Mário prega sem submissão; Kate manipula; Nolan persegue.
 
 ## Ponto Central (~68%)
 
-**Capítulo 36**
+**Capítulo 35**
 
-Tomada da Mina. Falsa vitória para Mário. Kate "perde" Mário para os Inquiridores
-ou Nolan se aproxima demais.
+Tomada da Mina. Falsa vitória para Mário: os escravos vencem por massacre, o
+lorde é executado em praça, e a Mina **cai enterrada** (implosão alavriana).
+Kate perde a base militar que queria — e por isso o exército dela nasce depois,
+na Cidadela de Gus.
 
 ## Vilões se Aproximam (~68-75%)
 
@@ -113,8 +115,9 @@ Coroação feia. Pacto de Nolan com Terbs.
 | 3        | Catalisador / Debate       | —                      | ✅ Escrito    |
 | 4-18     | Debate                     | —                      | ✅ Escrito    |
 | 19-20    | Break Into 2               | Nolan (19) + Kate (20) | ✅ Escrito    |
-| 21-26    | Jogos                      | —                      | ✅ Escrito    |
-| 27-35    | Jogos (restante)           | —                      | 📝 A escrever |
-| 36       | Midpoint (Ponto Central)   | Mário                  | 📝 A escrever |
+| 21-29    | Jogos                      | —                      | ✅ Escrito    |
+| 30-34    | Jogos (restante)           | —                      | 📝 A escrever |
+| 35       | Midpoint (Ponto Central)   | Mário                  | 📝 A escrever |
+| 36       | Pós-Mina (a leitura da ruína) | Nolan               | 📝 A escrever |
 
 _Atualizado a cada INGEST de capítulo._

@@ -18,7 +18,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma                             |
 | Expressão  | Medo, desespero                     |
 
-## Capítulo 30 — Moribundos
+## Capítulo 29 — Moribundos
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |

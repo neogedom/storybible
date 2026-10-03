@@ -37,13 +37,13 @@ o controle dos rampillas.
   Nolan, **entrega-lhe o comando** via raiz-mestra — cede por
   sobrevivência, não lealdade (dependência mútua: ele é o único que entende
   o jardim; Nolan é quem o mantém vivo).
-- **Cap. 29-32 (decisão 2026-08-30; ajuste 2026-09-20)**: quando Nolan retorna
-  à Metrópole para matar Juleen, **Ossan viaja com ele** ("Preciso de
-  rampillas na Metrópole também") e **opera os sentidos dos rampillas**
-  deixados no encalço de Mário — Nolan observa à distância através deles.
-  Ossan NÃO ensina o mecanismo a Nolan (Nolan é leviantar, não xilomago; e a
-  dependência mantém a tensão). **Ossan pode filtrar ou sabotar o que Nolan
-  vê** — a bomba-relógio do L2.
+- **Cap. 28 e a subida (canon 2026-10-03)**: viaja com Nolan para o norte com
+  o caixote da raiz. **Opera o canal** — ele põe a palma da mão na terra e
+  Nolan olha (`decisoes/jornada-nolan-acre-2026-10-03.md`). Ossan NÃO ensina
+  o mecanismo a Nolan (Nolan é leviantar, não xilomago; e a dependência mantém
+  a tensão). **Ossan pode filtrar ou sabotar o que Nolan vê** — a bomba-relógio
+  do L2. ⚠️ Quando Kate mata as seis (cap. 33), Nolan **perde os olhos**: o
+  resto da jornada dele passa a depender do que se compra.
 - **Semente #13 (a plantar)**: pode revelar o que os rampillas foram — gente
   zumbificada — ecoando o tema da Segregação. A verdade cai como
   reconhecimento frio, não sermão.

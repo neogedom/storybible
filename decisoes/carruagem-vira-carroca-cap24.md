@@ -40,7 +40,7 @@ Saboc no colo?
 2. **Mira fica na mula** durante a marcha ao norte — como o texto já está. A
    carroça leva a carga do séquito e a roda empenada a torna imprópria para um
    recém-nascido.
-3. **Mira e Saboc retornam com Nolan à Metrópole** (caps. 29-32) — ver
+3. **Mira e Saboc retornam com Nolan à Metrópole** (caps. 28-32) — ver
    `decisoes/nolan-retorna-metropole-juleen-rampillas.md`.
 
 ## Implicações
@@ -77,7 +77,7 @@ Saboc no colo?
 
 - `capitulos/capitulo-24.md`, `visuais/nolan.md`, `visuais/mira.md`
 - `personagens/mira.md`, `personagens/dagmar.md`
-- `temas/esquema-l1.md` (cap. 29)
+- `temas/esquema-l1.md` (cap. 28)
 - `decisoes/nolan-retorna-metropole-juleen-rampillas.md`
 - `log.md`
 

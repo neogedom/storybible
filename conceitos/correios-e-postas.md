@@ -49,7 +49,7 @@ mecanismo.
   Devour (durante a partida de xadrez).
 - Cap. 7 — "fui eu quem as despachei": na Guerra do Grifo foi ele quem
   despachou o antraz.
-- Cap. 29 — "O ofício continuava no nome dele. A mala não esperava por
+- Cap. 28 — "O ofício continuava no nome dele. A mala não esperava por
   ninguém, nem por ele. Papel que passa por aquele saco passa por mãos antes
   de chegar às dele."
 
@@ -60,7 +60,7 @@ aia.
 
 **Ironia temática.** A máquina que ele montou funciona sem ele e pode
 funcionar contra ele: a mesma mala que traz a resposta de Layla pode levar
-ordens que o dispensem. É a versão logística do que a doutrina faz no cap. 29
+ordens que o dispensem. É a versão logística do que a doutrina faz no cap. 28
 — o instrumento escapa da mão de quem o criou.
 
 ## Plantios na prosa (para não soar conveniência)
@@ -73,7 +73,7 @@ ordens que o dispensem. É a versão logística do que a doutrina faz no cap. 29
   casaco de couro chega a galope, passa um saco lacrado pela janelinha e leva
   o cavalo sem desmontar. "Ninguém na feira achou aquilo digno de olhar duas
   vezes."
-- **Cap. 29 (POV Nolan — na subida).** Execução: ele dá o nome, o dono da casa
+- **Cap. 28 (POV Nolan — na subida).** Execução: ele dá o nome, o dono da casa
   de correios abre a gaveta e tira a resposta de Layla. É o mesmo cômodo de
   taipa que Mário viu de longe no cap. 25. A carta é lida **antes** do sítio —
   é ela que torna o retorno necessário (reestruturação de 2026-09-20).
@@ -87,4 +87,4 @@ ordens que o dispensem. É a versão logística do que a doutrina faz no cap. 29
   capital.
 - Ver `temas/timeline.md` (cronologia da carta) e
   `decisoes/nolan-retorna-metropole-juleen-rampillas.md` (o uso da carta no
-  cap. 29).
+  cap. 28).

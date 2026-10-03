@@ -66,7 +66,7 @@ falha de rito. É como se... como se algo estivesse ocupando o canal."_
   a patrulha acha a fenda por triangulação. O que falha não é o encontro; é a
   **perseguição**. Uma patrulha que acha o alvo paga o preço de achá-lo.
 
-### Camada 2 — depois da Hícse (a partir do cap. 31): **o Sinal perde o objeto**
+### Camada 2 — depois da Hícse (a partir do cap. 30): **o Sinal perde o objeto**
 
 - O Sinal é o **eletrocardiograma do selo**. Rompido o selo
   (`conceitos/hicse.md`, "Depois da soltura"), o aparelho **perde a
@@ -77,7 +77,7 @@ falha de rito. É como se... como se algo estivesse ocupando o canal."_
   ruído — tudo lê como *"não consta"*.
 - **Consequência:** a Ordem continua caçando e **caça pior** — a pé, por
   testemunho, por registro escrito. É por isso que, no bloco da Mina, a caça
-  é feita pelos **dois com vara que sobem atrás do Mário** (cap. 29), e não
+  é feita pelos **dois com vara que sobem atrás do Mário** (cap. 28), e não
   por leitura a distância.
 - **O que a Ordem faz quando perde o instrumento:** aperta o protocolo.
   Quer **enquadrar** o que não consegue mais medir — e é exatamente isso que
@@ -86,7 +86,7 @@ falha de rito. É como se... como se algo estivesse ocupando o canal."_
 ### O pagamento que isso abre (não dizer na página)
 
 A Ordem registrou Kate como **"a que não consta"** (semente #19). A partir do
-cap. 31, **é o mundo que não consta** — o registro perde o referente. Numa
+cap. 30, **é o mundo que não consta** — o registro perde o referente. Numa
 instituição cuja arma é o arquivo, isso é o princípio do fim: **a Ordem vai
 atrás da anomalia justamente quando deixou de saber medir qualquer coisa.**
 Alimenta a germinação de #19 no L2 (a Ordem atrás dela).

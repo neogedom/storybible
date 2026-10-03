@@ -213,7 +213,7 @@ são as premissas.
   cumprindo o rito fúnebre de Vonos (a pira involuntária de Lakand — enterro
   simbólico). **Mira** (parteira-ama, ver `personagens/mira.md`) sobrevive e
   vira ama de leite de Saboc; ela comenta o cheiro de vembra (semente Juleen
-  — cap. 32). Na vistoria pós-incêndio, o fogo expôs o jardim secreto: Nolan
+  — no bloco final da Metrópole). Na vistoria pós-incêndio, o fogo expôs o jardim secreto: Nolan
   encontra a raiz-mestra e passa a controlar os rampillas sobreviventes
   (~uma dezena). Reúne-os e parte atrás de Mário — não para matá-lo, para
   possuí-lo.
@@ -222,12 +222,12 @@ são as premissas.
   humanos na viagem — eco do pai, prostituta humana). Segura as duas
   molduras sem ver a contradição: "os humanos adoeceram minha esposa" +
   "o Souhma trouxe meu filho de volta". A pista de Mira vira nota privada
-  até o cap. 32. O click com a Bíblia de Kraviam é de categoria (um deus
+  até o bloco final da Metrópole. O click com a Bíblia de Kraviam é de categoria (um deus
   fora do Conselho), não de leitura.
 
 ### A escada Nolan ↔ Inquiridores — 5 passos (canon 2026-09-19)
 
-A colisão do cap. 29 não é ruptura súbita: é o **quinto degrau**. Escada
+A colisão do cap. 28 não é ruptura súbita: é o **quinto degrau**. Escada
 fechada pelo autor para que Nolan não "vire" cedo contra Vonos.
 
 1. **Cap. 7 — a Ordem como garantia.** Nolan quer que os Inquiridores
@@ -247,15 +247,15 @@ fechada pelo autor para que Nolan não "vire" cedo contra Vonos.
    Estrangeiro é real. Nolan liga o interesse da Ordem ao poder de Mário — mas
    ainda supõe que eles **não vetariam** sua custódia (mesma fé; e a custódia
    é dele por selo e posição).
-5. **Cap. 29 — a colisão.** Os Inquiridores **negam** a informação que têm
+5. **Cap. 28 — a colisão.** Os Inquiridores **negam** a informação que têm
    sobre Mário. É aqui que ele entende que os interesses deles estão **contra**
    os seus, não ao lado. Vonos deixa de ser o fiador do juízo de Nolan e passa
    a ser dono de outro projeto. **Primeiro degrau da deserção — não a
    deserção.**
 
-### Cap. 29 — a pulga: direção certa, dose fechada (canon 2026-09-19)
+### Cap. 28 — a pulga: direção certa, dose fechada (canon 2026-09-19)
 
-**Nolan não conclui nada** no cap. 29 sobre forasteiros no trono. Ele não sabe
+**Nolan não conclui nada** no cap. 28 sobre forasteiros no trono. Ele não sabe
 — nem pode saber — que Genocydo ou Mário são de fora de Ornick (isso só fecha
 com o diário, semente #15). O que existe na página é **aritmética da ausência**,
 em vocabulário de juiz:
@@ -273,33 +273,41 @@ pesa** — e não consegue nomear o quê. Nunca usar o narrador para nomear a pu
 ("sentiu que havia algo maior"). A conclusão sobre Vonos enchendo o trono de
 forasteiros é germinação futura, não fala do 29.
 
-### Cap. 29 — a ordem aos seis e a volta (canon 2026-09-20)
+### Cap. 28 — a lição da emendadeira e a ordem (canon 2026-10-03)
 
-**Estrutura do capítulo (reestruturado a pedido do autor).** Ordem causal: a
-**carta** (Tronk, na subida) torna o retorno necessário; o **sítio** mata a
-caça (a Ordem tomou o rastro); a **ordem** acontece ali. Ele sobe mesmo depois
-de ler a carta por razão de método: notícia de feira não é registro, e sem
-saber em que mão o homem caiu os seis não têm rastro para onde ir.
+> Substitui o bloco "a ordem aos seis e a volta" (2026-09-20): **Nolan não
+> desce para a Metrópole.** A reestruturação inteira está em
+> `decisoes/jornada-nolan-acre-2026-10-03.md`.
 
-**A ordem.** Ossan lê o edital ("É um valor grande o bastante para colocar meio
-mundo atrás dele") e pergunta se ele vai largar a caçada. Nolan não larga:
-força do mesmo peso na rota, mais rápida sem carroça, sem mula e sem os onze
-dias de farinha, um objetivo só (achar os dois, seguir de longe, segurar se a
-recompensa chegar perto primeiro). Ele desce para a Metrópole — "O que é meu,
-eu fecho com a minha mão" — e **não nomeia Juleen em cena**; o nome entrou pela
-carta.
+**O capítulo abre na conta (Tronk) e fecha na lição.** Nolan lê o edital
+pregado na parede da casa de correios — o papel do Rei circulando pela máquina
+dele — e o tira da parede. Depois compra provisão e manda aprontar a carroça
+para a estrada da Mina.
 
-**O preço.** A raiz viaja com ele e com Ossan; a fala que fecha a coleira é
+**A lição.** À noite, no acampamento fora das barracas, a poucos passos dali:
+Ossan mostra a **emendadeira** (a raiz que não desce sozinha, procura a raiz
+da vizinha e se emenda) e abre o canal. O ofício é do xamã — ele põe a palma
+da mão na terra, Nolan segura o corte da raiz e **olha**. Nolan sente o frio
+de uma água a léguas, o peso da luz em cima dela, as moscas, e os oito corpos
+largados no chão.
+
+**O limite é o ganho do capítulo.** A raiz **para na água e para na pedra**.
+Nolan entende antes de qualquer outro: o norte é pedra, e lá em cima os olhos
+dele não chegam. O homem que construiu a máquina de informação do Reino vai
+ter que **comprar informação**.
+
+**A ordem.** Mira, Saboc e Mathias ficam no pouso com a carroça. Seis criaturas
+vão na frente pelo mato; quatro vão com ele. A coleira, dita por Ossan:
 "Enquanto a raiz estiver com o senhor, elas fazem o que o senhor mandou. Nada
-mais." Os seis vão **sem condutor** — e tomam o rastro mais novo, que é o
-sangue-isca que Kate deixou de propósito (o leitor sabe; ele não).
+mais." O fecho do capítulo é a fala que define a perna dele no bloco:
+**"Vou comprar olhos."**
 
-### Cap. 29 — o ofício dos Correios continua no nome dele (canon 2026-09-19)
+### Cap. 28 — o ofício dos Correios continua no nome dele (canon 2026-09-19)
 
 **Nolan ainda é Mestre dos Correios no L1** — o ofício não foi destituído.
 Provas: no cap. 7 é a **ele** que Genocydo pergunta pelas cartas com o selo de
 Lorde Devour, e é ele quem diz "fui eu quem as despachei" (o antraz da Guerra
-do Grifo). No cap. 29 a máquina aparece em cena pela primeira vez com
+do Grifo). No cap. 28 a máquina aparece em cena pela primeira vez com
 mecanismo completo: a resposta de Layla sobe de posta em posta, endereçada ao
 nome dele, e o espera na gaveta da casa de correios de Tronk. **A mala não
 esperava por ninguém, nem por ele.**

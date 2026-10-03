@@ -22,7 +22,7 @@ massacre de Opium **sem matar ninguém** — curou os carrascos.
   → cap. 16: deserta de Charles → cap. 19: reencontra-se com Nolan na
   Estalagem do Vau, em choque após o massacre da alcateia. Revela a Nolan
   que Kate levou Mário ao Castelo de Devour.
-  → cap. 30: reencontra Mário em Gus
+  → cap. 29: reencontra Mário em Gus
 - **L2 (Remanescente)**: Percebe a corrupção de Mário antes de todos
 - **Morte**: Tratando feridos na guerra civil
 

@@ -27,7 +27,7 @@ aprendermos o segredo da cura, perdemos a chance". Não pede nada. Genocydo
 decide sozinho. Nolan não revela o próprio interesse.
 
 **Por que não pedir a revogação:**
-- Genocydo quer Mário para si (chave da própria divindade — cap. 29). Ele
+- Genocydo quer Mário para si (chave da própria divindade — cap. 28). Ele
   **não vai revogar** — e pedir isso pode fazê-lo desconfiar do interesse de
   Nolan.
 - Pedir "revogue, eu o pego" revela o jogo: "quero Mário sem concorrência".
@@ -58,7 +58,7 @@ anteriores ao parto. Quem preparava os chás que ela tomava. Quem entrava e
 saía do quarto sem levantar suspeitas. Tenho uma suspeita, mas preciso de
 confirmação. Responda o quanto antes. Só não me responda por menos que a certeza. Queime esta carta."
 
-> **Atualização (2026-09-23):** urgência adotada pelo autor — Nolan busca a resposta logo na chegada a Tronk (cap. 29).
+> **Atualização (2026-09-23):** urgência adotada pelo autor — Nolan busca a resposta logo na chegada a Tronk (cap. 28).
 
 ## Nota de canon
 

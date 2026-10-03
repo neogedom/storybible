@@ -1,7 +1,7 @@
 ---
 type: Character
 title: Juleen
-description: Aia de Dagmar, leviantar de casta baixa dos burgos periféricos. Administrou o chá de vembra que matou Dagmar e Saboc (abortivo acumulado). Enforcada por Nolan no cap. 32.
+description: Aia de Dagmar, leviantar de casta baixa dos burgos periféricos. Administrou o chá de vembra que matou Dagmar e Saboc (abortivo acumulado). Enforcada por Nolan no cap. 31.
 tags: [personagem, leviantar, aia, dagmar, L1]
 resource: https://github.com/neogedom/storybible/blob/main/personagens/juleen.md
 timestamp: 2026-08-16T00:00:00-03:00
@@ -27,7 +27,7 @@ não de espécie; a inversão temática exige que ela NÃO seja humana). Foi a
   de classe é o buraco por onde o veneno entra na casa dele.
 - **Cap. 19 (causa)**: o abortivo acumulado causa a morte de Dagmar no parto
   e o bebê nasce sem ar.
-- **Cap. 32 (correção 2026-08-30 — era cap. 31, mas o cap. 31 é POV Kate)**:
+- **Cap. 31 (correção 2026-08-30 — era cap. 30, mas o cap. 30 é POV Kate)**:
   Nolan descobre a vembra e a enforca. **A cena do enforcamento
   (canon 2026-08-30)**: Nolan retorna à Metrópole (decisão 2026-08-30) e usa
   os rampillas para procurar Juleen — **é um deles que a traz**. Nolan NÃO
@@ -67,11 +67,11 @@ fora está dentro.
   uniria a casa Guenayer (política, conhecimento) à Addorbek (linhagem do
   primeiro leviantar de fogo, as Espadas da Lei). Primeiro pediram notícia,
   depois o resto. Ver `decisoes/mandante-juleen-alvo-linhagem.md`.
-- **Canon 2026-09-19 — a fala antes de morrer (cap. 32).** "— Primeiro me
+- **Canon 2026-09-19 — a fala antes de morrer (cap. 31).** "— Primeiro me
   pediram só notícia. Depois pediram o resto." Nolan **ouve e descarta** (lê
   como desculpa de condenada); o leitor guarda. Juleen pode pedir julgamento
   justo ao morrer — a resposta dele é preconceito, não justiça.
-- **Canon 2026-09-19; posição ajustada 2026-09-20 — a carta do cap. 29.** O
+- **Canon 2026-09-19; posição ajustada 2026-09-20 — a carta do cap. 28.** O
   nome entra pela carta de Layla, lida em Tronk **na subida** (não no fecho):
   ela está viva, num burgo de humanos na beira do Cran, pedindo trabalho em
   cozinha de estalagem. É a conta que ele decide fechar com a própria mão.

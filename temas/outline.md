@@ -51,7 +51,7 @@ Cada capítulo deve responder:
 | Final                    | ~80-99%         | —         | 📝 Planejado |
 | Imagem Final             | ~99-100%        | —         | 📝 Planejado |
 
-> **Projeção (corrigida 2026-09-12):** no ritmo real (~2.494 palavras/capítulo), o cap. 36 chega com **~94.000 palavras acumuladas**. Com L1 ≈ 135-140k, o Ponto Central cai em **~68%** (consistente com o plano); com L1 ≈ 115k, cairia em ~82%. Régua provisória: **~135-140 mil palavras** — confirmar no congelamento.
+> **Projeção (corrigida 2026-09-12):** no ritmo real (~2.494 palavras/capítulo), o cap. 35 chega com **~94.000 palavras acumuladas**. Com L1 ≈ 135-140k, o Ponto Central cai em **~68%** (consistente com o plano); com L1 ≈ 115k, cairia em ~82%. Régua provisória: **~135-140 mil palavras** — confirmar no congelamento.
 
 ---
 

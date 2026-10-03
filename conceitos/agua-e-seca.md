@@ -75,7 +75,7 @@ timestamp: 2026-09-20T12:00:00-03:00
   qualquer lugar, salvo se o lugar estiver envenenado. A razão tem de ser
   concreta e visível na página.
 - **O risco da volta é real e é outro:** os dois Inquiridores que
-  sobreviveram **subiram atrás do Mário** (cap. 29: "os dois que levavam
+  sobreviveram **subiram atrás do Mário** (cap. 28: "os dois que levavam
   vara viraram para cima, atrás do homem"). Voltar é caminhar na direção da
   caçada, não para longe dela.
 
@@ -106,7 +106,7 @@ timestamp: 2026-09-20T12:00:00-03:00
     Lakand queima. ⚠️ Se ela chegar com água para todos, **a crise morre no
     reencontro** — o reencontro tem de aliviar, não resolver.
   - **Consequência estrutural: a Kate vira a água.** É a única pessoa com
-    qualquer gota, e não sabe onde os dois estão. O cap. 31 (POV dela) tem
+    qualquer gota, e não sabe onde os dois estão. O cap. 30 (POV dela) tem
     esse motor; o leitor sabe que ela carrega o cantil e o Mário não (ironia
     dramática); e o **reencontro é literal** — ela chega com água. Não é
     coincidência, é o motivo.
@@ -116,8 +116,8 @@ timestamp: 2026-09-20T12:00:00-03:00
 - **Quantos capítulos com o relógio contando: dois, no máximo três.** O
   limite duro é o corpo (ver os degraus). Um humano em marcha, no frio, com
   trabalho, atravessa o terceiro dia mal e morre no quarto. Então:
-  **cap. 30 = o relógio no fim** (Mário e Lakand, **sem nada**, tentam voltar
-  à bacia, fracassam, e a decisão é do Mário); **cap. 31 = a água** (Kate,
+  **cap. 29 = o relógio no fim** (Mário e Lakand, **sem nada**, tentam voltar
+  à bacia, fracassam, e a decisão é do Mário); **cap. 30 = a água** (Kate,
   que tem dois cantis e não sabe onde eles estão — o poço racionado do
   assentamento e/ou a cicatriz fecham a conta). Depois do 31 a água vira
   **preço político**, não risco de morte. Um relógio que corre cinco
@@ -177,7 +177,7 @@ Variantes disponíveis:
   quem manda as armas ao chão — o **Lakand obedece ao que ele decifrou**.
   Quem paga continua sendo o Lakand ("obedeci e paguei" — obediência ao
   Mário).
-- **A travessia do cap. 30 — estrutura travada (revisada 2026-10-01):**
+- **A travessia do cap. 29 — estrutura travada (revisada 2026-10-01):**
   ⚠️ **Tempo novo (2026-10-01): a descoberta na página.** Entram sem conhecer
   o lugar; efeitos **leves**; o **Mário lê e testa** (eventos pequenos,
   controlados) e decifra a regra **antes** de o lugar ficar incontrolável.
@@ -198,7 +198,7 @@ Variantes disponíveis:
   6. **A ponte queima atrás.** Depois de atravessar correndo, **o caminho de
      volta está fechado** — o campo agora conhece os dois. O "só para frente"
      deixa de ser escolha e passa a ser sentença: nunca mais dá para voltar à
-     bacia. O Mário **registra** (o padrão que não encaixa).- ⚠️ **Fecho redefinido (2026-10-01):** o cap. 30 **termina com o Lakand ferido por um Moribundo**; a **água imunda + a destilação** e o **salvamento do Lakand pelo conhecimento do séc. XXI** (e a revelação — "De onde você veio" → Mário não é de Ornick) migraram para o **capítulo seguinte do fio do Mário — que vem depois do cap. 31 da Kate** (decisão do autor, 2026-10-01). O inimigo é o **apodrecimento**; Mário salva com **fervura + higiene + protocolo** (decidido: a crise fecha em uma noite), e a revelação é curta, entre os dois — **a Kate fora**; a pergunta nasce do contraste com os curandeiros de erva (Decian).  - ⚠️ **O eco da Hícse AMPLIFICA, não cria** — e nada de narrador dizendo
+     bacia. O Mário **registra** (o padrão que não encaixa).- ⚠️ **Fecho redefinido (2026-10-01):** o cap. 29 **termina com o Lakand ferido por um Moribundo**; a **água imunda + a destilação** e o **salvamento do Lakand pelo conhecimento do séc. XXI** (e a revelação — "De onde você veio" → Mário não é de Ornick) migraram para o **capítulo seguinte do fio do Mário — que vem depois do cap. 30 da Kate** (decisão do autor, 2026-10-01). O inimigo é o **apodrecimento**; Mário salva com **fervura + higiene + protocolo** (decidido: a crise fecha em uma noite), e a revelação é curta, entre os dois — **a Kate fora**; a pergunta nasce do contraste com os curandeiros de erva (Decian).  - ⚠️ **O eco da Hícse AMPLIFICA, não cria** — e nada de narrador dizendo
     por quê. O Mário anota; **a ficha cai em Gus**.
 - **O eco que o Mário reconhece (bônus estrutural, canon 2026-09-20).** No
   meio da travessia, o campo repete a **cena do sonho do cap. 1** — irmão
@@ -214,18 +214,18 @@ Variantes disponíveis:
   água.** O trunfo do Mário não é purificar — é **tirar potável do que não
   é**: ferver o lodo e recolher o vapor. Entrada suja, saída limpa, e água
   bastante para os dois beberem até cansar.
-- ⚠️ **O que a destilação não faz — é o coração do cap. 30.** A água sai
+- ⚠️ **O que a destilação não faz — é o coração do cap. 29.** A água sai
   **cristalina** e **cobra igual**: a conta não é química. A técnica resolveu
   a matéria e não tocou no resto. É o guardrail do milagre com roupa nova:
   não "Deus confirma meu plano", mas **"minha técnica confirma meu plano"**
   — o mesmo erro.
 - **A conta da água não é cobrada na hora (decisão 2026-09-20).** Nada de
-  perder memória no cap. 30 — o capítulo já carrega demais. Quem bebe sai com
+  perder memória no cap. 29 — o capítulo já carrega demais. Quem bebe sai com
   a sede saciada e com a batalha na cabeça, de vez em quando. **O preço vem
   depois**, quando a memória fizer falta — ver §5.1.
 - **Os Moribundos ressurgem como eco da Hícse solta** (proposta do autor,
   2026-09-20). Consequência dura de encaixe: **o Gaviorn'l morre no mesmo
-  tempo do cap. 30**, na metade da Kate. As duas metades da separação
+  tempo do cap. 29**, na metade da Kate. As duas metades da separação
   acontecem **em paralelo**, e uma **causa** a outra — Mário quase morre por
   um efeito do que a Kate fez, e não sabe.
   - **O Mário registra sem entender** (é o poder dele: anotar o padrão que
@@ -252,7 +252,7 @@ Variantes disponíveis:
   só descobre quando precisa dele para orar. Alinha com a doutrina de
   `conceitos/milagre.md` ("custo ≠ pagamento": o custo não se paga no
   instante, e o milagre não o apaga).
-- ⚠️ **Não cobrar no cap. 30** — capítulo sobrecarregado (orvalho + recusa da
+- ⚠️ **Não cobrar no cap. 29** — capítulo sobrecarregado (orvalho + recusa da
   bacia + travessia + alquimia + eco). Espalhar o custo é mais cruel do que
   empilhá-lo.
 
@@ -301,7 +301,7 @@ Variantes disponíveis:
 | 28 | no sítio, atrás dos Inquiridores | a fuga **sem nada**; os odres dos mortos ficam |
 | 29 | Nolan passa; água do sítio = cena | o lugar da fila de mortos (a bacia virada cova) |
 | 30 | **Mário e Lakand: orvalho, recusa, travessia** | o orvalho dá meio cantil; a bacia é recusada; **os Moribundos são a passagem**; o eco da Hícse amplifica e o campo vira — **Lakand ferido por um Moribundo (fecho)** |
-| seguinte (fio Mário; **depois do cap. 31 da Kate**) | **A água da ferida + o salvamento** | lodo intragável → **destilação** (extrair água de fonte que não é água; sai cristalina e cobra igual); **Mário salva o Lakand** — o inimigo é o **apodrecimento**: fervura + higiene + protocolo (decidido; crise fecha em uma noite); **"De onde você veio" → a origem revelada** |
+| seguinte (fio Mário; **depois do cap. 30 da Kate**) | **A água da ferida + o salvamento** | lodo intragável → **destilação** (extrair água de fonte que não é água; sai cristalina e cobra igual); **Mário salva o Lakand** — o inimigo é o **apodrecimento**: fervura + higiene + protocolo (decidido; crise fecha em uma noite); **"De onde você veio" → a origem revelada** |
 | 31 | **Kate: dois cantis** (só ela) | ela é a água; busca quem não sabe que ela tem |
 | 32-35 | preço político na subida à Mina | quem tem água, controla a estrada |
 
@@ -314,5 +314,5 @@ Variantes disponíveis:
 - [Lakand](/personagens/lakand.md) — bebe o dobro
 - [Kate](/personagens/kate.md) — batedora; a água no reencontro
 - [Milagre](/conceitos/milagre.md) — por que a água não vem de bênção
-- [Esquema do L1](/temas/esquema-l1.md) — caps. 30-35
+- [Esquema do L1](/temas/esquema-l1.md) — caps. 29-35
 - [Sementes](/temas/sementes.md) — #22 e #23

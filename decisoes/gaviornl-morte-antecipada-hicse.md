@@ -59,7 +59,7 @@ a carga e ainda paga dois plantios antigos (abaixo).
     **a volta fica fechada**. "Só para frente" deixa de ser escolha e passa a
     ser sentença — nunca mais dá para voltar à bacia.
 - **Consequência de encaixe (dura):** a morte de Gaviorn'l acontece **no
-  mesmo tempo do cap. 30**, na metade da Kate. As duas metades da separação
+  mesmo tempo do cap. 29**, na metade da Kate. As duas metades da separação
   correm **em paralelo**, e uma **causa** a outra — Mário atravessa o campo e
   quase morre por um efeito do golpe que a Kate deu, **sem saber**.
 - **Como escrever:** Mário **registra sem entender** (o padrão que não
@@ -96,7 +96,7 @@ a carga e ainda paga dois plantios antigos (abaixo).
   — selo rompido não lê nada.
 - **A alternância de PoV fechou (2026-10-01):** 29 = Nolan (a bacia) / 30 =
   Mário+Lakand / 31 = Kate (o reencontro fecha o capítulo). O batismo e o
-  reveal de "Javé" migraram para o **cap. 33** (mapa de 2026-09-20).
+  reveal de "Javé" migraram para o **cap. 32** (mapa de 2026-09-20).
 - **A reação do Lakand não pode virar debate teológico.** Ele age por
   instinto; o estopim é a acusação da Kate ("você protege um herege"), e a
   reação dele é ao **custo**, não à doutrina. Se virar argumento, perdeu o

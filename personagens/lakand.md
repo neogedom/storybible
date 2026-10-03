@@ -126,7 +126,7 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
   silêncio e movimento — comunicação por gestos e olhar. Ver
   `conceitos/daerunmeges.md`.
 
-### Capítulo 30 — Moribundos (obediência e ferimento)
+### Capítulo 29 — Moribundos (obediência e ferimento)
 
 - **O custo na carne:** na travessia, obedece ao Mário e **fecha as garras** — e é ele quem **paga**: um eco o fere com um corte oblíquo, da cintura às costelas (sangramento forte; o fecho do capítulo). A rachadura com o Mário deixa de depender só do batismo: ela tem **causa concreta**. (A formulação "obedeci e paguei" é do esquema — na página ele ainda não verbaliza.)
 - **Fato de passado revelado na página:** "— O fogo levou parte do meu nariz. Lá em Saramant." — **perda parcial e permanente do faro** (ele próprio diz que sente "pouco" o bicho). Executa o custo do incêndio do cap. 20.

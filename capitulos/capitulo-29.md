@@ -1,11 +1,11 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 30
+capitulo: 29
 titulo: "Moribundos"
 pov: Mário
 beat_stc: Jogos e Diversão
-percentual_l1: ~56,5% (real medido 2026-10-02; acumulado sem o cap. 29 — a escrever)
+percentual_l1: ~56,5% (real medido 2026-10-02; acumulado sem o cap. 28 — a escrever)
 data_ingest: 2026-10-02 (Mini-INGEST)
 personagens:
   - Mário (POV)
@@ -28,7 +28,7 @@ sementes:
   - "#24 — plantada: o 'trouxe de onde?' na cabeça do Lakand"
 ---
 
-# Capítulo 30 — Moribundos
+# Capítulo 29 — Moribundos
 
 ## Resumo
 
@@ -59,7 +59,7 @@ A travessia começa "como quem passa por um quarto onde alguém está dormindo" 
 
 ### Kate (ausente)
 
-- Citada duas vezes: "Você ainda sente o cheiro da Kate?" / "Não." — e a certeza do Mário, fabricada por ele mesmo ("Para quem você está falando?"). A metade dela é o cap. 31.
+- Citada duas vezes: "Você ainda sente o cheiro da Kate?" / "Não." — e a certeza do Mário, fabricada por ele mesmo ("Para quem você está falando?"). A metade dela é o cap. 30.
 
 ### Theodore (mencionado)
 
@@ -82,13 +82,14 @@ A travessia começa "como quem passa por um quarto onde alguém está dormindo" 
 
 - **#5 (paga na página):** os ecos do sonho reconhecidos (mesmas roupas, mesmo som); "a guerra não acabou". Sem rostos/nomes; sem causa (Hícse) — Gus.
 - **#22 (executado):** o relógio da água — o orvalho (meio cantil) e a recusa da bacia. A água contaminada por corpos fica plantada para o salvamento ("a água dos mortos": bacia 27 → odres 28 → cicatriz).
-- **#23 (movida):** a água da cicatriz / o custo — o salvamento no capítulo seguinte do fio do Mário (depois do cap. 31).
+- **#23 (movida):** a água da cicatriz / o custo — o salvamento no capítulo seguinte do fio do Mário (depois do cap. 30).
 - **#24 (plantada):** "— Me trouxe." / "— Trouxe uma vez." — o "trouxe de onde?".
-- **O ferimento do Lakand:** abre o apodrecimento (`conceitos/daerunmeges.md` — não regeneram) e a rachadura com causa na carne; pendurado no cap. 31 ("aliviar, não resolver").
+- **O ferimento do Lakand:** abre o apodrecimento (`conceitos/daerunmeges.md` — não regeneram) e a rachadura com causa na carne; pendurado no cap. 30 ("aliviar, não resolver").
 - **"Você ouviu também?":** o Lakand ouve "alguma coisa" — o campo registra; nada explicado. Nota para Gus.
 
 ## Fronteira
 
-- **Como fecha:** desastre (o Lakand ferido; o sangue que não para), com a decisão do Mário na última linha (não soltar o peso). Desastre sem sequência no próprio capítulo → o **cap. 31 (Kate)** traz o alívio (a água, o reencontro) e o ferimento fica pendurado; o salvamento vem no capítulo seguinte do fio do Mário.
+- **Como fecha:** desastre (o Lakand ferido; o sangue que não para), com a decisão do Mário na última linha (não soltar o peso). Desastre sem sequência no próprio capítulo → o **cap. 30 (Kate)** traz o alívio (a água, o reencontro) e o ferimento fica pendurado; o salvamento vem no capítulo seguinte do fio do Mário.
 - **Onde corta:** **Corte C** (logo após o golpe), com perigo em aberto de verdade (fuga com ferido; o campo virou). Cumpre a marca do passe de fechos (2026-09-18): decisão devolvida ao Mário; sem "E" inicial; sem paisagem no fecho.
-- **Próximo (ordem de leitura):** cap. 29 (Nolan — a bacia: os mortos, o machado, o edital; gancho do 28; em escrita) → cap. 31 (Kate).
+- **Anterior (ordem de leitura):** cap. 28 (Nolan — "A Conta": o edital na parede do correio, a lição da emendadeira, a ordem de marcha).
+- **Próximo (ordem de leitura):** cap. 30 (Kate — os odres, o Inquiridor da cicatriz, Gaviorn'l, o reencontro).
