@@ -19,6 +19,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Múltiplas, visíveis                |
 | Expressão  | Predatória, alerta                 |
 
+## Capítulo 30 — Moribundos
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Forma      | Híbrida atenuada (mais homem do que fera); as **garras crescem e endurecem com a intenção de matar** (compridas como faca curta) — recolhem na obediência |
+| Pelagem    | Chamuscada do fogo (cap. 20); **parte do nariz levada pelo fogo** — fareja "pouco" |
+| Ferimentos | **Corte oblíquo comprido, da cintura às costelas** — sangra forte; a mão aberta em cima do corte; três passos tortos; apoiado no Mário (fecho) |
+| Expressão  | Alerta instintivo; ódio de fechar as garras e ficar vivo (a cara que Mário nunca tinha visto); obedece ("Confia em mim") |
+| Postura    | Farejando o ar como cachorro; agachado à frente do Mário, garras abertas → mãos abertas, corpo endireitado (travessia) → de pé por um instante, olha para baixo → anda torto, amparado |
+| Iluminação | A mesma da cena (sol baixo, noite, orvalho, sol a pino)                   |
+| Fundo      | Barranco do riacho morto; mato seco; o campo dos Moribundos              |
+
 ## Capítulo 28 — Não Apodreceu
 
 | Atributo   | Estado                                                                 |

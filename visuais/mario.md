@@ -18,6 +18,19 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma                             |
 | Expressão  | Medo, desespero                     |
 
+## Capítulo 30 — Moribundos
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Roupas     | Camiseta urbana, calça jeans, tênis — poeira, suor e marcas de mato; a **camisa vira pano de orvalho** (torcida, molhada; volta ao corpo depois) |
+| Acessórios | Sem óculos (perdidos na travessia); mãos guardadas nos bolsos (esconde o tremor) |
+| Ferimentos | Nenhum novo; sede extrema (garganta áspera, lábios colando); exaustão; braços pinicados do mato; corpo pulsando "em lugares que ele nem se lembrava que tinha" |
+| Sujeira    | Barro seco (lasca tirada da unha); suor; poeira                         |
+| Expressão  | Cansaço e desânimo → conversa franca (Kate, Theodore, o tiro) → foco abdutivo ("Não é a gente. É a briga.") → comando calmo, voz baixa, na travessia → desespero contido no fecho |
+| Postura    | Curvado, mãos apoiadas nos joelhos (a parada da fuga); sentado contra o barranco; passo lento, mãos abertas, olhos baixos (a travessia); braço do Lakand por cima do ombro — "Não soltou" (fecho) |
+| Iluminação | Sol baixo (barranco) → noite fria de outono → orvalho da madrugada → sol a pino (a virada) |
+| Fundo      | Barranco do riacho morto; mato seco e estéril; o campo dos Moribundos (ecos com as armaduras do sonho; o frio com forma de gente) |
+
 ## Capítulo 28 — Não Apodreceu
 
 | Atributo   | Estado                                                                 |

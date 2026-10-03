@@ -55,7 +55,8 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 27       | Jogos e Diversão                    | Mário        | ~50-52%                | ~52,3%               | 2.199    |
 | 28       | Jogos e Diversão                    | Kate         | ~52-54%                | ~54,0%               | 2.336    |
 | 28 (ex-29; varredura pendente) | Jogos e Diversão          | Nolan        | ~54-56%                | ~55,7%               | 2.231    |
-| 30       | Jogos e Diversão                    | Mário        | ~56-58%                | —                     | —        |
+| 29       | Jogos e Diversão                    | Nolan        | — (inserido 2026-10-01; gancho do 28) | —                    | — (em escrita) |
+| 30       | Jogos e Diversão                    | Mário        | ~56-58%               | ~56,5% (medido 02/10; sem o cap. 29) | 3.267    |
 | 31       | Jogos e Diversão                    | Kate         | ~58-60%                | —                     | —        |
 
 ---
@@ -595,6 +596,8 @@ o **(Decidido, 2026-10-01) O salvamento, por dentro:** o que mata não é o golp
 o **O Mário registra sem entender.** O campo estava errado — mais presente, fora de fase. Ele anota o padrão que não encaixa e segue. **Nada de narrador explicando por quê**; a ficha cai em **Gus**, junto com a Kate.
 
 o **O eco que ele reconhece (bônus estrutural, 2026-09-20).** No meio da travessia, o campo repete a **cena do sonho do cap. 1** — irmão matando irmão. Mário **reconhece** (sem rostos nítidos) e o chão sob os pés muda: aquilo não era sonho, era lugar e tempo, e a guerra não acabou. Ele sai sabendo mais do **mundo** — e nada sobre a **causa** (Gus) nem sobre o **papel dele** (L2; guardrail do risco #4: tema claro cedo demais). Pagamento antecipado da semente #5.
+
+o **✔ Escrito (2026-10-02).** Prosa fechada e limpa (fecho = o ferimento do Lakand; **3.267 palavras**); Mini-INGEST feito — ver `capitulos/capitulo-30.md` e `lugares/moribundos.md`.
 
 > ✅ **Seção fechada em 2026-09-20** — ver o **Mapa da Reestruturação** acima, antes da seção do cap. 30.
 

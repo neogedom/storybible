@@ -126,6 +126,13 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
   silêncio e movimento — comunicação por gestos e olhar. Ver
   `conceitos/daerunmeges.md`.
 
+### Capítulo 30 — Moribundos (obediência e ferimento)
+
+- **O custo na carne:** na travessia, obedece ao Mário e **fecha as garras** — e é ele quem **paga**: um eco o fere com um corte oblíquo, da cintura às costelas (sangramento forte; o fecho do capítulo). A rachadura com o Mário deixa de depender só do batismo: ela tem **causa concreta**. (A formulação "obedeci e paguei" é do esquema — na página ele ainda não verbaliza.)
+- **Fato de passado revelado na página:** "— O fogo levou parte do meu nariz. Lá em Saramant." — **perda parcial e permanente do faro** (ele próprio diz que sente "pouco" o bicho). Executa o custo do incêndio do cap. 20.
+- **A relação com a Kate (fala):** "Eu falei uma coisa. Acho que ela não gostou. / Que ela mudou. / Deixou de gostar." — nomeia o afastamento percebido (causa: o Theodore; ver cap. 26).
+- **A frase que fica (semente #24):** sobre o tiro do Inquiridor no Mário — "Trouxe uma vez. (...) Pode ser que ele só te deixe no meio do caminho." O "trouxe de onde?" começa aqui.
+
 ## Notas de Coerência — Como Lakand Soube (canon 2026-08-04)
 
 - Lakand **NÃO estava com a alcateia que perseguiu Mário** — ele é batedor

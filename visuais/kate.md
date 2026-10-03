@@ -19,6 +19,10 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma canônica definida                     |
 | Expressão  | Fria, nojo, determinação                      |
 
+## Capítulo 30 — Moribundos
+
+- _Não aparece_ (separada do grupo desde o cap. 28; a metade dela é o cap. 31 — os odres, o Inquiridor, o reencontro).
+
 ## Capítulo 28 — Não Apodreceu
 
 | Atributo   | Estado                                                                 |

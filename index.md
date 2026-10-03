@@ -76,6 +76,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Alavria](lugares/alavria.md) — Nação estrangeira, patrono Renath. Destacamento infiltrado aniquilado no L1; incursão frontal no L2.
 - [Gondor](lugares/gondor.md) — Império estrangeiro que dominou o Reino no Interregno; era de ouro dos vampiros; Guerra do Grifo.
 - [Rifte](lugares/rifte.md) — Reino vizinho; abriga o Templo de Vonos, sede da Ordem dos Inquiridores do Sinal.
+- [Os Moribundos](lugares/moribundos.md) — Campo de batalha da Guerra Milenar virado cicatriz; ecos presos em loop, que reagem à luta que se prepara.
 
 ## Conceitos
 

@@ -1,5 +1,27 @@
 # Log de Atualizações
 
+## 2026-10-02 (cap. 30 — limpeza + Mini-INGEST)
+
+- **Limpeza do cap. 30 (pedido do autor):** removidos os marcadores `(* ...)`
+  (1 inline do Terra, 4 blocos, 1 do Theodore) e o bloco "--- NOTAS DE
+  RASCUNHO" — o capítulo é só prosa. Respostas: **Terra** mantido (precedente
+  cap. 3); **Theodore** fica de pano de fundo (canon: "humano, frágil"; sem
+  causa fechada). Microcorreções na abertura.
+- **Mini-INGEST:** `capitulos/capitulo-30.md` criado (**3.267 palavras**;
+  ~56,5% medido — sem o cap. 29); visuais mario/lakand (+ kate "não
+  aparece"); **`lugares/moribundos.md` CRIADO** (a lei + a virada da Hícse +
+  disciplinas); ficha do Lakand (o ferimento + o nariz de Saramant + a frase
+  do "trouxe"); tabela do esquema (linha do 30 + linha do 29 inserido);
+  index (Moribundos).
+- **Fronteira:** fecha em **desastre** (Lakand ferido; a decisão do Mário de
+  não soltar o peso); sequel pendurada — o 31 (Kate) traz o alívio; o
+  salvamento no capítulo seguinte do fio. **Corte C** (o golpe), sem "E",
+  sem paisagem.
+- **Contador de checkpoint:** 2 capítulos desde 2026-09-18 (28 e 30) — não
+  oferecer.
+- **Em escrita:** `capitulo29.md` iniciado pelo autor ("Nolan se embrenhava
+  no mato. Coisa que não era costume dele.").
+
 ## 2026-10-01 (salvamento — a segunda âncora: "trouxe de onde?")
 
 - **Decisão do autor:** a revelação do salvamento tem **duas âncoras**: o

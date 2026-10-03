@@ -86,6 +86,9 @@ timestamp: 2026-07-24T12:00:00-03:00
   com eles"** ganha sentido gradual; em **Gus**, ele liga sonho + Moribundos
   + Hícse e conclui que as coisas saíram do controle, de alguma forma, por
   causa dela.
+- **O Lakand ouve também (executado no cap. 30):** "— Você ouviu também? / —
+  Não sei. Alguma coisa." — o campo **registra os dois**; nada explicado
+  (nota para Gus).
 - **Germinação**: L2 — Hícse **reconstrói** a Hoste da Purgação com
   **criaturas já estabelecidas no livro**: gornads, alguns lobisomens,
   canibais dos Clãs de Sangue e **um único vampiro** — o último verdadeiro
