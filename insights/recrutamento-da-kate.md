@@ -136,7 +136,10 @@ sangue-isca dela, sem desfecho previsto.
   lá são ecos sem corpo, aqui são corpos — mas o contraste tem de ficar claro
   na página, senão o leitor lê regra arbitrária.
 - **E o eco que o Lakand vê:** ela fez com estranhos o que fizeram com ela.
-  É aqui que o "você está repetindo o erro deles" cai.
+  ⚠️ **Ele não assiste** (a formatura é fora, com o Mário longe). O que ele tem
+  é o **nariz**: cheiro de rampilla em cima dos dois quando voltam. **Ele
+  entende e cala.** A frase — *"você está repetindo o erro deles"* — fica
+  guardada para a **Mina** (ver "Quem vê", abaixo).
 
 ## A estrada (cap. 32) — a arregimentação e o treino
 
@@ -178,8 +181,8 @@ cantis, não para para ensinar. Se montasse, o leitor não acreditaria.
   como contágio na estrada (**cap. 32**) → ela **decide** continuar, e a decisão
   vem da soltura da Hícse **sem o narrador dizer isso** → **a chegada, já com
   eles, apresentados como discípulos, e ela chega depois da conta paga** → a
-  **formatura** quando as seis chegam (**cap. 35**) → a objeção do Mário,
-  **tarde**, quando já está pronto.
+  **formatura** quando as seis chegam (**cap. 35**, longe do Mário) → **a
+  objeção do Mário só vem na Mina**, quando a família Uorier morre.
 - ⚠️ **A fome na página (regra do autor, 2026-10-04).** O leitor precisa
   **sentir** a sede de sangue dela **pelo treino**, sem que a gente nomeie
   causa e efeito com a morte de Gaviorn'l. **Como:** não usar "Hícse", "brasa",
@@ -272,10 +275,10 @@ Kate ensinando a matar rampilla de Saramant. **Não é isso** (decisão do autor
 - ⚠️ **A formatura tem de ficar LONGE DOS OLHOS DO MÁRIO.** A solução do autor:
   **a Kate sai para proteger o grupo**, e é o homem que acompanha ela. O
   Mário fica onde está. Ele **não vê** o abate do rampilla — e é por isso que a
-  cobertura aguenta até a Mina.
-  - ⚠️ **Consequência:** cai a linha antiga "ele viu e não quis ver". O que o
-    Mário vê é **a execução do Uorier e da família**, na Mina — e é aí que a
-    ficha dele cai.
+  cobertura aguenta até a Mina. **O cap. 35 fica sem o Mário por inteiro.**
+  - ⚠️ **Consequência:** cai a linha antiga "ele viu e não quis ver", e cai
+    também a objeção no 35. **A objeção dele só vem na Mina**, quando a família
+    Uorier morre na praça. Ver "Quem vê", abaixo.
 - ⚠️ **Número de rampillas mortos segue travado:** no máximo **dois** (canon
   em `conceitos/rampillas.md`). **Quatro sobrevivem** — é a pressão de Nolan
   no bloco da Mina.
@@ -317,15 +320,17 @@ pede é o contrário.
 
 **O que vale agora:** o Mário **não sabe**. E não por ser cego — por **não
 estar lá**.
-
 1. **Ele nunca vê uma aula.** O que ele vê são **discípulos** — gente que
    pediu a palavra.
 2. **O que chega é o resultado** — gente que já anda como ela, apresentada como
    quem veio ouvir. A réplica dela é verdadeira: *"Eu não ensinei nada. Eles só
    andaram comigo."*
-3. **A objeção existe — e chega tarde** (cap. 34, quando ele vê os convertidos
-   matando): *"Isso é um exército, Kate."* Eco do cap. 23, agora sem efeito,
-   porque o exército já andou.
+3. **A objeção existe — e só vem na MINA (decisão do autor, 2026-10-04).**
+   Não é no cap. 35 e não é sobre o treino. É quando **a família Uorier morre**
+   na praça, no Ponto Central: *"Isso é um exército, Kate."* — e a essa altura
+   o exército já andou, a mão já foi formada, e o homem que executa é **um dos
+   que ele chamou de discípulos**. Eco do cap. 23, agora sem efeito e tarde
+   demais. ⚠️ **Nada de objeção antes disso** — nem no 32, nem no 35.
 
 ⚠️ **A consequência estrutural (nova):** a decisão da Mina **não nasce da
 objeção ao treino.** O Mário vai à Mina **para pregar** — ele acha que leva
@@ -339,20 +344,24 @@ sabe de nada** — e isso é a tragédia, não a cumplicidade.
 
 ### Quem vê
 
-- **O Lakand.** É ele quem enxerga o que o treino é, e **não diz nada ali** —
-  guarda para o cap. 34 (o *"você está repetindo o erro deles"*).
+- **O Lakand.** É ele quem enxerga o que o treino é — e **não diz nada ali**.
+  ⚠️ **Ele não assiste à formatura** (ela acontece fora, com o Mário longe).
+  O que ele tem é **o nariz**: os dois voltam com o cheiro de rampilla em cima,
+  e ele conhece aquele cheiro como conhece o próprio nome. **Ele cheira, ele
+  entende, ele cala.** A frase guardada — *"você está repetindo o erro deles"*
+  — fica para a **Mina**, junto com a objeção.
 - **O Mário, não.** Ele vê o **resultado**, e o resultado não parece exército:
   parece gente que andou muito.
 - **A triangulação da cena** deixa de ser "o Mário olha e aprova" e passa a
-  ser: **a Kate constrói fora do quadro; o Lakand assiste e cala; o Mário
-  chega depois, quando já está pronto.**
+  ser: **a Kate constrói fora do quadro; o Lakand cheira e cala; o Mário chega
+  depois, quando já está pronto.**
 
 ### A fissura (não verbalizar)
 
 - Ela está **reproduzindo o que fizeram dela**. O gesto que a construiu como
   arma é o mesmo que ela ensina. Isso não entra como fala dela — entra pelo
-  Lakand, mais tarde (o "você está repetindo o erro deles" do cap. 34), e pelo
-  leitor, que reconhece os quadrinhos no chão.
+  **Lakand, na Mina** (o *"você está repetindo o erro deles"*), e pelo leitor,
+  que reconhece os quadrinhos no chão.
 - ⚠️ **Sem veredito na página.** Ninguém diz que ela está errada; o leitor vê
   os riscos no chão e decide.
 

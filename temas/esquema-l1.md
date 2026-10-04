@@ -512,7 +512,7 @@ o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 28 fechado em
 > | 32 | **Kate** | **A estrada e a mentira.** A arregimentação (a mulher, o rapaz da tipoia, o que voltou quebrado) → **o treino andando**, e a **fome de Hícse sentida no treino sem ser nomeada** → o **encanamento** contado → **a chegada: ela chega depois da conta paga** → **a mentira na cara do Mário** ("são gente que ouviu falar de você"), com a instrução dada na véspera. |
 > | 33 | **Nolan** | **A Mina como lugar** — ele sobe pelo **Espinhaço** (sem água, sem raiz: cego) → **compra informação** → vê a Mina **antes** dela cair. |
 > | 34 | **Mário** | O assentamento → **o batismo** (renúncia + 1º "Javé") → **a decisão da Mina** (ele vai **para pregar** — não sabe de revolta nenhuma). |
-> | 35 | **Kate** | **O combate dos rampillas** — as seis alcançam o grupo; ela mata duas e **faz os convertidos executarem o que sobra** (é a formatura do treino do 32, e a mão deles na faca) → a fissura → Lakand ("você está repetindo o erro deles") → a objeção do Mário, **tarde**. |
+> | 35 | **Kate** | **O combate dos rampillas** — as seis alcançam a região; **ela sai para proteger o grupo e o homem formado vai com ela** (o Mário fica longe e **não vê**) → ela mata duas e **faz o homem executar o resto** — a **formatura** → a brasa sobe → o **Lakand cheira** o rampilla neles quando voltam, entende e **cala** → ⚠️ **sem o Mário no capítulo**, e **sem objeção**: ela só vem na Mina. |
 > | 36 | **Mário** | A marcha → **a tempestade de quartzo** (o manto queima na página) → o ensaio do discurso → a criança toca o Lakand → **Etemenanki**. |
 > | 37 | **Mário** | A Mina (Ponto Central). |
 > | 38 | **Nolan** | A leitura da ruína. |
@@ -699,7 +699,7 @@ o **A renúncia (correção 2026-08-10):** Mário adapta a abrenuntio da igreja 
 
 o **Primeira aparição de "Javé" no livro (canon 2026-08-10; renumerada em 2026-09-20):** o nome próprio só entra **aqui** — caps. 0-32 usam "Deus", "o Deus de Mário" e "Eu Sou" (cap. 20). É um reveal deliberado: o nome da aliança é pronunciado pela primeira vez no exato momento em que a primeira comunidade de aliança de Ornick se forma — um novo Sinai. **Caps. 21 - 32 NÃO devem usar "Javé".**
 
-o **A objeção chega tarde (revisão 2026-10-04).** ⚠️ **Revê o canon de 21/09.** O Mário **não vê o treino** — ele acontece onde ele não está (ver `insights/recrutamento-da-kate.md`). O que ele vê é o **resultado**: gente que nunca viu e que já anda como ela. A objeção existe, mas chega **no cap. 34** — quando ele vê os convertidos matando: *"Isso é um exército, Kate."* Eco do cap. 23, agora **sem efeito**: o exército já andou. E a réplica dela é verdadeira — *"Eu não ensinei nada. Eles só andaram comigo."*
+o **A objeção NÃO é aqui (revisão 2026-10-04, 2ª vez).** ⚠️ **Revê o canon de 21/09 e a revisão anterior.** O Mário **não vê o treino** e **não objeta neste capítulo** — ele acontece onde ele não está (ver `insights/recrutamento-da-kate.md`). O que ele vê é o **resultado**: gente que nunca viu e que já anda como ela, e ele lê como **devoção**. **A objeção dele — *"Isso é um exército, Kate."* — só vem na Mina** (cap. 37), quando **a família Uorier morre** na praça. Será o **eco do cap. 23**, chegando quando já não há nada a fazer.
 
 o **A decisão da Mina não nasce da objeção (revisão 2026-10-04).** Ele vai à Mina **para pregar** — acha que leva palavras, e só palavras. Quem transforma a pregação em revolta são os escravos; quem preparou o terreno foi ela. **Ele não autoriza nada porque não sabe de nada** — e é essa a tragédia, não a cumplicidade. (Ganho: o pitch do Nolan — *"ela te usou, e nem te contou"* — passa a ser verdade, e o Mário continua o que sempre foi: instrumento de projeto alheio.)
 
@@ -715,6 +715,19 @@ o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C com gancho de i
 
 #### Capítulo 35 (PoV de Kate) — O batismo de sangue
 
+> ⚠️ **Escopo deste capítulo (delimitado em 2026-10-04):** o capítulo é
+> **Kate + o homem que ela formou**, longe do Mário. **O Mário não aparece
+> nele**, e **não há objeção aqui**.
+>
+> ⚠️ **Atenção — esta seção ainda carrega beats do capítulo do assentamento**
+> ("A fissura", "O recrutamento", "Como ela recruta", "Lakand se aproxima"),
+> herdados da fusão anterior. Eles pertencem ao **cap. 34** (assentamento e
+> batismo, POV do Mário) e **precisam ser movidos quando o 34 for escrito.**
+>
+> **Fica no 35:** o combate dos rampillas, a formatura, a brasa, e (novo) o
+> **Lakand cheirando o rampilla neles quando voltam, entendendo e calando.**
+
+
 o **O combate dos rampillas — LONGE DOS OLHOS DO MÁRIO (correção do autor, 2026-10-04).** As **seis** alcançam a região. ⚠️ **O Mário não vê nada.** A solução do autor: **a Kate sai para proteger o grupo**, e o **homem que ela formou** vai com ela. O abate acontece fora, e ele fica onde está — **é por isso que a cobertura do 32 aguenta até a Mina.**
   - ⚠️ **Consequência dura:** cai a linha antiga "ele viu e não quis ver". O Mário **não vê** o rampilla morrer. O que ele vê, depois, é **a execução do Uorier e da família** — e é aí que a ficha dele cai.
   - **O que ela faz e por quê:** ela **poderia evitar** o encontro e não evita, porque precisa que o **homem** veja — não o Mário. A formatura acontece na frente **de quem ela está formando**.
@@ -724,7 +737,18 @@ o **O combate dos rampillas — LONGE DOS OLHOS DO MÁRIO (correção do autor, 
 
 o **A brasa de volta (canon 2026-09-21).** Quando a faca do convertido entra no rampilla que sobra, **a coisa acorda em Kate** — somática, como no Prólogo: o dente travando, a pressão abaixo do osso, o sangue grosso. ⚠️ **Não sobe no abate dela** (isso é hábito): sobe porque ela **viu alguém matar por causa dela**. Nada de voz, nada de Hícse falando; e **ela lê como natureza própria** ("é o que eu sou") — a ficha só cai em **Gus**. Ver `conceitos/hicse.md` ("Depois da soltura"): cada convertido alistado é matéria-prima da Hoste do L2 — ela liberta a deusa da guerra e passa a alimentá-la sem saber.
 
-o **E o que o Lakand vê.** Ela fez com estranhos o que fizeram com ela. É aqui que cai o **"você está repetindo o erro deles"**.
+o **E o que o Lakand vê.** ⚠️ **Ele não assiste à formatura** — ela acontece
+fora, com o Mário longe. O que ele tem é **o nariz**: os dois voltam com o
+cheiro de rampilla em cima, e ele conhece aquele cheiro como conhece o próprio
+nome. **Ele cheira, ele entende, ele cala.** ⚠️ A frase — *"você está repetindo
+o erro deles"* — **não sai aqui**: fica guardada para a **Mina**, junto com a
+objeção do Mário. Ela fez com estranhos o que fizeram com ela — e ele vai dizer
+isso no pior momento possível.
+
+o **✂️ A objeção do Mário não é aqui (decisão do autor, 2026-10-04).** ⚠️ **O
+cap. 35 não tem o Mário.** A objeção dele — *"Isso é um exército, Kate."* —
+**só vem na Mina**, quando **a família Uorier morre** na praça. Antes disso ele
+não vê nada, não desconfia de nada, e não tem do que discordar.
 
 > A **tempestade de quartzo** saiu deste capítulo — foi para o **35** (ver seção do cap. 35).
 
@@ -736,7 +760,7 @@ o **Como ela recruta (canon 2026-09-20).** Não é sermão — é **alavanca**. 
 
 o **Lakand se aproxima:** _"Você está apaixonada."_ Kate não nega — mas também não confirma. Lakand vê algo mais: Kate ainda quer protagonismo. Ela não protege Mário — ela o **usa**. E talvez esteja começando a sentir culpa por isso. Lakand não diz nada. O olhar entre os dois é o de um abismo silencioso.
 
-o **✂️ Corte do capítulo:** **Corte B** — fechar no olhar de Lakand ("você está repetindo o erro deles") que Kate ignora: pergunta moral no ar, resposta adiada. Evitar fechar em "pega as armas" (deslocamento). **O bloco 21-28 fechou com zero B** — sintoma do risco estrutural #1; esta é a casa natural do próximo B.
+o **✂️ Corte do capítulo:** ⚠️ **Revisado em 2026-10-04.** O **Corte B** antigo fechava no olhar do Lakand ("você está repetindo o erro deles") — **mas essa fala saiu daqui** (vai para a Mina). O fecho novo tem de ser **a brasa subindo e a Kate lendo como natureza própria** — Corte D (consequência com ameaça por baixo do osso). Evitar fechar em "pega as armas" (deslocamento).
 
 o Kate "descobre" o plano de Mário. A Mina de Quartzo é fortificada.
 
@@ -748,7 +772,7 @@ o **Kate revela o plano a Lakand.** Antes de "descobrir" o plano de Mário, Kate
 
 o _"Então vamos."_ — Kate pega as armas. A Mina será libertada. Depois, ela será a base militar. E quando os humanos estiverem prontos, Kate será a líder da guerra contra a Metrópole. Mário é só o começo.
 
-o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte B** — fechar no olhar de Lakand ("você está repetindo o erro deles") que Kate ignora: pergunta moral no ar, resposta adiada. Evitar fechar em "pega as armas" (deslocamento). Casa natural para receber o **recrutamento** migrado do cap. 30.
+o **✂️ Corte do capítulo (proposta 2026-09-13; revisado 2026-10-04):** ⚠️ O **Corte B** antigo fechava no olhar do Lakand — **superado**: a fala e o olhar foram para a **Mina**. Fecho novo: **a brasa e a Kate lendo como natureza própria.**
 
 #### Capítulo 36 (PoV de Mário) — Reformulado
 

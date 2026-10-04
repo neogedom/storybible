@@ -1,5 +1,24 @@
 # Log de Atualizações
 
+## 2026-10-04 (6ª revisão: a objeção só vem na Mina)
+
+- **Decisão do autor:** a objeção do Mário — *"Isso é um exército, Kate."* —
+  **só existe na Mina**, quando a **família Uorier morre** na praça. Antes
+  disso: **nada**. Nem no 32, nem no 35.
+- ⚠️ **Consequências registradas:**
+  - O **cap. 35 fica sem o Mário por inteiro** — é um capítulo de Kate e do
+    homem que ela formou.
+  - **O Lakand não assiste à formatura** (ela acontece fora, com o Mário
+    longe). Ele tem **o nariz**: os dois voltam com cheiro de rampilla, ele
+    entende e **cala**. A frase *"você está repetindo o erro deles"* também
+    fica guardada para a **Mina**.
+  - A triangulação virou: **a Kate constrói fora do quadro; o Lakand cheira e
+    cala; o Mário chega por último, quando já está pronto.**
+- **Ganho:** o leitor chega primeiro em tudo. Ele viu o treino (32), viu a
+  formatura (35), viu a mão que executa. Quando o Mário finalmente diz a frase,
+  ela chega **três capítulos depois de ter servido**. É o eco do cap. 23 que
+  não serve para nada.
+
 ## 2026-10-04 (5ª revisão: o revólver por erro, o abismo do Gaviorn'l, e a mão que executa)
 
 - **O cap. 30 foi reescrito nos três pontos que o autor marcou.**

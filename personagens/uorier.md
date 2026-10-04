@@ -68,11 +68,20 @@ e não olha para os escravos a três passos.
   volta até ela; o leitor consegue. Ver `insights/recrutamento-da-kate.md`.
 - **É o estopim do motim.** Depois da cabeça do lorde no chão, ninguém pode
   voltar atrás: quem assistiu virou cúmplice.
-- **A segunda vez que a brasa sobe na Kate.** A primeira foi a faca no
-  rampilla (cap. 35, a formatura). Execução pública é ritual de guerra — e é
-  disso que a Hícse se alimenta. Somático, sem voz, e ela não sabe.
-  ⚠️ **É o homem que ela treinou executando por causa dela** — a condição
-  exata que `conceitos/hicse.md` descreve.
+- **A segunda vez que a brasa sobe na Kate.** A primeira foi a faca no rampilla
+  (cap. 35, a formatura). Execução pública é ritual de guerra — e é disso que a
+  Hícse se alimenta. Somático, sem voz, e ela não sabe. ⚠️ **É o homem que ela
+  treinou executando por causa dela** — a condição exata que
+  `conceitos/hicse.md` descreve.
+  - ⚠️ **Aqui a Hícse e o Nolan convergem sem saber um do outro:** a brasa sobe
+    porque a mão dela matou por causa dela — e é exatamente essa morte que o
+    **Nolan** vai usar como prova contra a Kate no pitch do Gus.
+- **A objeção do Mário (decisão do autor, 2026-10-04).** ⚠️ **Só acontece aqui**,
+  quando a família Uorier morre: *"Isso é um exército, Kate."* Antes disso ele
+  não viu nada — nem o treino, nem a formatura dos rampillas (cap. 35). A frase
+  é o **eco do cap. 23**, e chega quando já não há nada a fazer. ⚠️ **O leitor
+  chega primeiro:** ele viu o treino, viu a formatura, viu o homem que executa —
+  o Mário chega por último, e é por isso que dói.
 - **Morto, ele não testemunha.** A versão do Reino sobre o que aconteceu na
   Mina passa a ser **a versão do Nolan** — que é quem entra depois e lê o
   chão.

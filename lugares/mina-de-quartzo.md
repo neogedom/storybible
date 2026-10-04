@@ -94,12 +94,17 @@ Consequências travadas:
   coberto de pó. **A Mina morre como lugar.**
 - **A falsa vitória:** os escravos vencem por massacre, e o discurso
   pacifista do Mário não impediu nada.
-- **A família morta é o que envenena o Mário (canon 2026-10-04).** Ele
-  autorizou o treino; o treino produziu gente que mata a mulher e os filhos
-  do lorde — gente que não assinou dívida nenhuma. **É isso que torna o ato
-  da Kate desprezível aos olhos dele**, e é uma das peças que o Nolan pode
-  pôr na frente dele depois, sem inventar uma palavra (ver
-  `decisoes/jornada-nolan-acre-2026-10-03.md`, §13).
+- **A família morta é o que envenena o Mário (canon 2026-10-04; corrigido).**
+  ⚠️ **Ele não autorizou nada** — ele nem viu o treino (ver
+  `insights/recrutamento-da-kate.md`). O que ele vê é **a mulher e os filhos do
+  lorde morrendo na praça**, gente que não assinou dívida nenhuma, executada
+  pelo **mesmo homem que ele chamou de discípulo**. É **aqui** que ele diz a
+  frase — *"Isso é um exército, Kate."* (eco do cap. 23) — e é tarde demais.
+  ⚠️ **É a peça que o Nolan pode pôr na frente dele depois**, sem inventar uma
+  palavra (ver `decisoes/jornada-nolan-acre-2026-10-03.md`, §13).
+- ⚠️ **A ordem importa:** o leitor viu o treino (cap. 32) e a formatura dos
+  rampillas (cap. 35). O Mário viu **nada**. Quando ele finalmente entende, ele
+  é o último da sala — e é por isso que dói.
 
 ## Depois (cap. 37)
 
