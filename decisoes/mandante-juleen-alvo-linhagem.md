@@ -8,6 +8,13 @@ timestamp: 2026-09-19T00:00:00-03:00
 
 # O mandante de Juleen — o alvo era a linhagem
 
+> ⚠️ **Numeração superada (2026-10-04).** O arquivo fala da "fala-plant do cap.
+> 32" na numeração antiga. **A cena do enforcamento de Juleen saiu do meio do
+> Livro 1** — com o Nolan fora da Metrópole, ela vai para o **bloco final da
+> Metrópole**, em paralelo ao Caixão do Mário. O que sobrevive deste arquivo: a
+> **linhagem** do mandante, o **alvo** (Guenayer × Addorbek) e o **mecanismo da
+> vembra**. Ver `decisoes/jornada-nolan-acre-2026-10-03.md`.
+
 Decisão do autor (2026-09-19). Fechado para o L1 **sem resposta explícita em
 cena**: o leitor fica com a fala-plant do cap. 32 e nada mais.
 

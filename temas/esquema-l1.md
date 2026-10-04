@@ -49,19 +49,24 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 21       | Jogos e Diversão                    | Mário        | ~38-40%                | ~41,6%               | 2.263    |
 | 22       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~43,4%               | 2.486    |
 | 23       | Jogos e Diversão                    | Kate         | ~42-44%                | ~45,2%               | 2.397    |
-| 24       | Jogos e Diversão                    | Nolan        | ~44-46%                | ~46,8%               | 2.266    |
-| 25       | Jogos e Diversão                    | Mário        | ~46-48%                | ~48,4%               | 2.226    |
-| 26       | Jogos e Diversão                    | Kate         | ~48-50%                | ~50,7%               | 3.162    |
-| 27       | Jogos e Diversão                    | Mário        | ~50-52%                | ~52,3%               | 2.199    |
-| 28       | Jogos e Diversão                    | Kate         | ~52-54%                | ~54,0%               | 2.336    |
-| 28 (ex-29; varredura pendente) | Jogos e Diversão          | Nolan        | ~54-56%                | ~55,7%               | 2.231    |
-| 29       | Jogos e Diversão                    | Nolan        | — (inserido 2026-10-01; gancho do 28) | —                    | — (em escrita) |
-| 30       | Jogos e Diversão                    | Mário        | ~56-58%               | ~56,5% (medido 02/10; sem o cap. 28) | 3.267    |
-| 31       | Jogos e Diversão                    | Kate         | ~58-60%                | —                     | —        |
+| 24       | Jogos e Diversão                    | Mário        | ~44-46%                | ~44,7%               | 2.292    |
+| 25       | Jogos e Diversão                    | Kate         | ~46-48%                | ~47,0%               | 3.157    |
+| 26       | Jogos e Diversão                    | Mário        | ~48-50%                | ~48,6%               | 2.196    |
+| 27       | Jogos e Diversão                    | Kate         | ~50-52%                | ~50,4%               | 2.431    |
+| 28       | Jogos e Diversão                    | Nolan        | ~52-54%                | ~52,7%               | 3.200    |
+| 29       | Jogos e Diversão                    | Mário        | ~54-56%                | ~55,1%               | 3.265    |
+| 30       | Jogos e Diversão                    | Kate         | ~56-58%                | ~57,0%               | 2.699    |
+| 31       | Jogos e Diversão                    | Mário        | — (decisão de 2026-10-03; a escrever) | —      | —        |
+
+> ⚠️ **Tabela corrigida em 2026-10-04.** As linhas de 24 a 31 estavam deslocadas
+> em um capítulo (herança da versão em que o capítulo do Nolan vinha antes — o
+> "fantasma do cap. 24" removido do corpo do esquema). **POV real conferido
+> contra `capitulos/` e contra a prosa.** Acumulado real até o cap. 30:
+> **78.420 palavras** (57,0% da régua de 137,5k).
 
 ---
 
-## Jogos e Diversão (~47-68%) — Caps. 21 - 35
+## Jogos e Diversão (~47-68%) — Caps. 21 - 36
 
 > **⚠️ Recalibrado 2026-08-26** (números na régua antiga de 115k; na régua de 137,5k adotada em 2026-09-18: cap. 21 = ~41,6% e cap. 28 = ~54,0%)**:** O beat começou antes do previsto (cap. 21 com ~47% em vez de ~38%) porque o Debate e Break Into 2 ocuparam mais palavras que o planejado. A janela do beat (~47-68%) ainda comporta os caps. 21 - 36 com folga. O Ponto Central (~68%) deve chegar no cap. 36 com **~91.800-95.200 palavras acumuladas** (rebaseline 2026-09-12: total provisório ~135-140k; o "~80.000" era a projeção ÷115.000).
 
@@ -547,7 +552,7 @@ o **✔ Escrito (2026-10-02).** Prosa fechada e limpa (fecho = o ferimento do La
 
 > ✅ **Seção fechada em 2026-09-20** — ver o **Mapa da Reestruturação** acima, antes da seção do cap. 29.
 
-o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — a travessia termina e o capítulo fecha no que Mário **vê** em Lakand depois da névoa, não em paisagem. Alternativa mais page-turner: **Corte A** na revelação do exército de ecos, antes de atravessar (a travessia então abre o cap. 30). ⚠️ O bullet acima está em POV de Lakand ("Lakand sabe que está de fora") — o fecho precisa ser filtrado por Mário.
+o **✂️ Corte do capítulo (proposta 2026-09-13; conferido 2026-10-04):** **Corte C** — a travessia termina e o capítulo fecha no que Mário **vê** em Lakand depois da névoa, não em paisagem. O fecho executado é o **ferimento do Lakand** (o sangue que não para) com a decisão do Mário na última linha (não soltar o peso). ⚠️ O bullet acima está em POV de Lakand ("Lakand sabe que está de fora") — o fecho precisa ser filtrado por Mário.
 
 o **✂️ Marca do passe de fechos (2026-09-18):** o fecho tem de **devolver a decisão a Mário** — é ele quem decide atravessar em silêncio. Manter **Corte C**, sem paisagem no fecho e sem abrir com "E".
 
@@ -626,7 +631,7 @@ o **Como o custo aparece na página:** o som de aço em horas erradas (três
 o **Fecho (Corte C com frio):** a oração sem nomes, e ele dorme. O leitor
   carrega o que ele não sabe.
 
-### Movimento 3 — Aproximação da Mina (caps. 32 - 35)
+### Movimento 3 — Aproximação da Mina (caps. 32 - 36)
 
 #### Capítulo 32 (PoV de Kate) — A estrada e a mentira (novo, 2026-10-04)
 
@@ -697,7 +702,7 @@ o **A água do batismo cobra dos pobres (proposta do autor, 2026-09-20).** O po�
 
 o **A renúncia (correção 2026-08-10):** Mário adapta a abrenuntio da igreja primitiva (a renúncia a Satanás e a todas as suas obras e pompas) para os deuses de Ornick. Antes da água, cada convertido declara em voz alta: _"Renuncio aos falsos deuses do Limbo, a todas as suas obras e a toda a sua pompa. Sou de Javé."_ Na superfície, uma **declaração de fidelidade a Javé**; no pano de fundo, uma **declaração de guerra aos deuses falsos de Ornick**.
 
-o **Primeira aparição de "Javé" no livro (canon 2026-08-10; renumerada em 2026-09-20):** o nome próprio só entra **aqui** — caps. 0-32 usam "Deus", "o Deus de Mário" e "Eu Sou" (cap. 20). É um reveal deliberado: o nome da aliança é pronunciado pela primeira vez no exato momento em que a primeira comunidade de aliança de Ornick se forma — um novo Sinai. **Caps. 21 - 32 NÃO devem usar "Javé".**
+o **Primeira aparição de "Javé" no livro (canon 2026-08-10; renumerada em 2026-10-04):** o nome próprio só entra **aqui, no cap. 34** — **caps. 0-33** usam "Deus", "o Deus de Mário" e "Eu Sou" (cap. 20). É um reveal deliberado: o nome da aliança é pronunciado pela primeira vez no exato momento em que a primeira comunidade de aliança de Ornick se forma — um novo Sinai. ⚠️ **Caps. 21 - 33 NÃO devem usar "Javé".**
 
 o **A objeção NÃO é aqui (revisão 2026-10-04, 2ª vez).** ⚠️ **Revê o canon de 21/09 e a revisão anterior.** O Mário **não vê o treino** e **não objeta neste capítulo** — ele acontece onde ele não está (ver `insights/recrutamento-da-kate.md`). O que ele vê é o **resultado**: gente que nunca viu e que já anda como ela, e ele lê como **devoção**. **A objeção dele — *"Isso é um exército, Kate."* — só vem na Mina** (cap. 37), quando **a família Uorier morre** na praça. Será o **eco do cap. 23**, chegando quando já não há nada a fazer.
 
@@ -715,18 +720,27 @@ o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C com gancho de i
 
 #### Capítulo 35 (PoV de Kate) — O batismo de sangue
 
-> ⚠️ **Escopo deste capítulo (delimitado em 2026-10-04):** o capítulo é
-> **Kate + o homem que ela formou**, longe do Mário. **O Mário não aparece
-> nele**, e **não há objeção aqui**.
+> ⚠️ **Escopo delimitado em 2026-10-04.** O capítulo tem **dois movimentos**:
+> (1) **a abertura no assentamento** — ela medindo gente, o Lakand falando
+> com ela; (2) **os rampillas**, fora, **longe dos olhos do Mário**.
+> ⚠️ **O Mário não aparece no movimento 2**, e **não há objeção dele aqui**.
 >
-> ⚠️ **Atenção — esta seção ainda carrega beats do capítulo do assentamento**
-> ("A fissura", "O recrutamento", "Como ela recruta", "Lakand se aproxima"),
-> herdados da fusão anterior. Eles pertencem ao **cap. 34** (assentamento e
-> batismo, POV do Mário) e **precisam ser movidos quando o 34 for escrito.**
->
-> **Fica no 35:** o combate dos rampillas, a formatura, a brasa, e (novo) o
-> **Lakand cheirando o rampilla neles quando voltam, entendendo e calando.**
+> ✅ **Limpeza feita (2026-10-04):** os beats de assentamento/batismo que
+> estavam aqui herdados da fusão antiga foram **devolvidos ao cap. 34**
+> (batismo, renúncia, "Javé", decisão) ou **reabsorvidos como a abertura deste
+> capítulo** (a fissura, o recrutamento, o Lakand). Nada foi perdido.
 
+##### Movimento 1 — a abertura (o assentamento, depois do batismo)
+
+o **A fissura (POV Kate).** Ela observa uma criança cega abraçando a mãe depois que o Mário ora por ela. A cena não a comove — mas algo a incomoda. Ela se pega pensando na libertação deles **não como estratégia, mas como necessidade**, e abafa o pensamento. ⚠️ Nada verbalizado.
+
+o **O recrutamento — ela mede (canon desde 2026-09-13).** Enquanto o Mário batiza, Kate olha os convertidos **com olhos de recrutadora**: identifica os mais jovens, os mais fortes, os que olham o Mário com **determinação** em vez de devoção. Arquiva mentalmente. Não diz nada.
+
+o **Como ela recruta (canon 2026-09-20).** Não é sermão — é **alavanca**. E não é mensagem nova: **é a dele.** Os convertidos já são homens que acreditaram que ninguém precisa pagar; ela só lhes mostra o **corpo da promessa**. A pergunta canônica: _"E se houvesse um jeito de vocês nunca mais serem escravos de ninguém?"_ Ela não promete céu — promete a **conta fechada à força**. E **nunca diz "exército"**: chama de **treino**. ⚠️ **Nada de organização na página** — o leitor precisa de um **rosto** e de um **gesto**, não de uma rede. Ver `insights/recrutamento-da-kate.md`.
+
+o **O Lakand fala com ela — as duas falas.** Primeiro: _"Você está apaixonada."_ Ela não nega e não confirma. Depois, o que importa — **ela diz o plano em voz alta:** _"Depois que a Mina cair, eu treino os sobreviventes. Mário inspira. Eu lidero."_ O Lakand ouve em silêncio. Não concorda, não discorda. **Ele guarda.** ⚠️ A frase *"você está repetindo o erro deles"* **não sai aqui** — ela é da **Mina** (ver abaixo).
+
+##### Movimento 2 — os rampillas, longe do Mário
 
 o **O combate dos rampillas — LONGE DOS OLHOS DO MÁRIO (correção do autor, 2026-10-04).** As **seis** alcançam a região. ⚠️ **O Mário não vê nada.** A solução do autor: **a Kate sai para proteger o grupo**, e o **homem que ela formou** vai com ela. O abate acontece fora, e ele fica onde está — **é por isso que a cobertura do 32 aguenta até a Mina.**
   - ⚠️ **Consequência dura:** cai a linha antiga "ele viu e não quis ver". O Mário **não vê** o rampilla morrer. O que ele vê, depois, é **a execução do Uorier e da família** — e é aí que a ficha dele cai.
@@ -735,66 +749,41 @@ o **O combate dos rampillas — LONGE DOS OLHOS DO MÁRIO (correção do autor, 
   - ⚠️ **Nada de fogo** (a casca queima, mas essa descoberta é do Mário e fica guardada); ela vence com lâmina, peso e o fato de eles **não desviarem**. ⚠️ **A lição não sai da boca dela:** ela não diz *"comigo vocês vencem a Mina"* — **entrega a faca ao próximo**. E não promete vitória: a promessa é **parar de pagar**.
   - ⚠️ **O que ela NUNCA diz:** o que o rampilla é de verdade. Nem ela sabe (semente #13). A mina moral fica armada até o **L2**.
 
-o **A brasa de volta (canon 2026-09-21).** Quando a faca do convertido entra no rampilla que sobra, **a coisa acorda em Kate** — somática, como no Prólogo: o dente travando, a pressão abaixo do osso, o sangue grosso. ⚠️ **Não sobe no abate dela** (isso é hábito): sobe porque ela **viu alguém matar por causa dela**. Nada de voz, nada de Hícse falando; e **ela lê como natureza própria** ("é o que eu sou") — a ficha só cai em **Gus**. Ver `conceitos/hicse.md` ("Depois da soltura"): cada convertido alistado é matéria-prima da Hoste do L2 — ela liberta a deusa da guerra e passa a alimentá-la sem saber.
+o **A brasa de volta (canon 2026-09-21).** Quando a faca do homem entra no rampilla que sobra, **a coisa acorda em Kate** — somática, como no Prólogo: o dente travando, a pressão abaixo do osso, o sangue grosso. ⚠️ **Não sobe no abate dela** (isso é hábito): sobe porque ela **viu alguém matar por causa dela**. Nada de voz, nada de Hícse falando; e **ela lê como natureza própria** ("é o que eu sou") — a ficha só cai em **Gus**. Ver `conceitos/hicse.md` ("Depois da soltura"). ⚠️ **É a segunda vez** — a primeira foi no próprio cap. 30, com a fome que ficou.
 
-o **E o que o Lakand vê.** ⚠️ **Ele não assiste à formatura** — ela acontece
-fora, com o Mário longe. O que ele tem é **o nariz**: os dois voltam com o
-cheiro de rampilla em cima, e ele conhece aquele cheiro como conhece o próprio
-nome. **Ele cheira, ele entende, ele cala.** ⚠️ A frase — *"você está repetindo
-o erro deles"* — **não sai aqui**: fica guardada para a **Mina**, junto com a
-objeção do Mário. Ela fez com estranhos o que fizeram com ela — e ele vai dizer
-isso no pior momento possível.
+o **E o que o Lakand tem é o nariz.** ⚠️ **Ele não assiste à formatura** — ela acontece fora, com o Mário longe. Quando os dois voltam, **ele cheira o rampilla neles**. Conhece aquele cheiro como conhece o próprio nome, porque perdeu parte do nariz no fogo de Saramant e o que sobrou ficou melhor. **Ele entende. Ele cala.** ⚠️ A frase — *"você está repetindo o erro deles"* — **não sai aqui**: fica guardada para a **Mina**, junto com a objeção do Mário. Ela fez com estranhos o que fizeram com ela, e ele vai dizer isso no pior momento possível.
 
-o **✂️ A objeção do Mário não é aqui (decisão do autor, 2026-10-04).** ⚠️ **O
-cap. 35 não tem o Mário.** A objeção dele — *"Isso é um exército, Kate."* —
-**só vem na Mina**, quando **a família Uorier morre** na praça. Antes disso ele
-não vê nada, não desconfia de nada, e não tem do que discordar.
+o **✂️ A objeção do Mário não é aqui (decisão do autor, 2026-10-04).** ⚠️ **O cap. 35 não tem o Mário.** A objeção dele — *"Isso é um exército, Kate."* — **só vem na Mina**, quando **a família Uorier morre** na praça. Antes disso ele não vê nada, não desconfia de nada, e não tem do que discordar.
 
-> A **tempestade de quartzo** saiu deste capítulo — foi para o **35** (ver seção do cap. 35).
+o **✂️ Corte do capítulo (revisado 2026-10-04):** o **Corte B** antigo fechava no olhar do Lakand — **superado** (a fala foi para a Mina). Fecho novo: **a brasa subindo e a Kate lendo como natureza própria** — **Corte D** (consequência com ameaça por baixo do osso). Evitar fechar em "pega as armas" (deslocamento), e evitar o gesto de olhar para a Mina no horizonte — ele repetiria o vício de fechos dos caps. 22 - 28.
 
-o **A fissura (migrada do antigo cap. 30).** Kate observa uma criança cega abraçando a mãe depois que Mário ora por ela. A cena não a comove — mas algo a incomoda. Ela se pega pensando na libertação deles não como estratégia, mas como... necessidade? Abafa o pensamento.
-
-o **O recrutamento (já canon desde 2026-09-13).** Enquanto Mário batiza, Kate observa os convertidos com olhos de recrutadora. Identifica os mais jovens, os mais fortes, os que olham Mário com determinação em vez de devoção. Arquiva mentalmente. Não diz nada.
-
-o **Como ela recruta (canon 2026-09-20).** Não é sermão — é **alavanca**. E não é mensagem nova: **é a dele.** Os convertidos já são homens que acreditaram que ninguém precisa pagar; ela só lhes mostra o corpo da promessa. A pergunta canônica: _"E se houvesse um jeito de vocês nunca mais serem escravos de ninguém?"_ Ela não promete céu — promete a **conta fechada à força**. E **nunca diz "exército"**: chama de **treino**. É assim que mantém longe do Mário. ⚠️ **Nada de organização na página** — o leitor precisa de um **rosto** e de um **gesto**, não de uma rede. Ver `insights/recrutamento-da-kate.md`.
-
-o **Lakand se aproxima:** _"Você está apaixonada."_ Kate não nega — mas também não confirma. Lakand vê algo mais: Kate ainda quer protagonismo. Ela não protege Mário — ela o **usa**. E talvez esteja começando a sentir culpa por isso. Lakand não diz nada. O olhar entre os dois é o de um abismo silencioso.
-
-o **✂️ Corte do capítulo:** ⚠️ **Revisado em 2026-10-04.** O **Corte B** antigo fechava no olhar do Lakand ("você está repetindo o erro deles") — **mas essa fala saiu daqui** (vai para a Mina). O fecho novo tem de ser **a brasa subindo e a Kate lendo como natureza própria** — Corte D (consequência com ameaça por baixo do osso). Evitar fechar em "pega as armas" (deslocamento).
-
-o Kate "descobre" o plano de Mário. A Mina de Quartzo é fortificada.
-
-o Por fora: tenta convencê-lo a desistir — o papel dela exige que pareça relutante. Mário recusa, convicto. Perfeito.
-
-o **Por dentro:** Kate confirma que ele mordeu a isca. As sementes plantadas nos dias anteriores — informações sobre guarnição, rotas, geologia — frutificaram. Mário acha que decidiu sozinho. **Ela sorri por dentro.**
-
-o **Kate revela o plano a Lakand.** Antes de "descobrir" o plano de Mário, Kate tem uma conversa com Lakand. _"Depois que a Mina cair, eu treino os sobreviventes. Mário inspira. Eu lidero."_ Lakand ouve em silêncio. Não concorda. Não discorda. Mas o olhar dele diz: _você está repetindo o erro deles._ Kate ignora.
-
-o _"Então vamos."_ — Kate pega as armas. A Mina será libertada. Depois, ela será a base militar. E quando os humanos estiverem prontos, Kate será a líder da guerra contra a Metrópole. Mário é só o começo.
-
-o **✂️ Corte do capítulo (proposta 2026-09-13; revisado 2026-10-04):** ⚠️ O **Corte B** antigo fechava no olhar do Lakand — **superado**: a fala e o olhar foram para a **Mina**. Fecho novo: **a brasa e a Kate lendo como natureza própria.**
+> **📌 Beats removidos daqui em 2026-10-04 (não se perderam):**
+> - batismo, renúncia, "Javé" e a decisão da Mina → **cap. 34**
+> - "Kate descobre o plano do Mário" / "por fora finge relutância" / "por dentro sorri" → **superados**: com o canon novo ela **não descobre nada**, ela sempre soube. O que sobra disso está em "Como ela recruta", acima.
+> - "Então vamos — Kate pega as armas" → **superado**: o fecho do capítulo é a brasa, não uma partida.
 
 #### Capítulo 36 (PoV de Mário) — Reformulado
 
 o Marcha em direção à Mina. O grupo cresceu: Kate, Lakand, convertidos do assentamento, alguns refugiados que creram. **Não é um exército — é um bando de quebrados.** Kate organiza a logística. Lakand lidera os batedores.
 
-o **A tempestade de quartzo (migrada para cá em 2026-09-21).** Abre o capítulo: vento que carrega fragmentos de quartzo da Mina, cortando a pele exposta, cegando quem respira a poeira. O grupo se abriga numa fenda na rocha. **Kate improvisa proteção com o manto de xilomagia — e a carga queima aqui** (a depleção decidida em 2026-08-14 finalmente tem casa e preparação). Lakand usa o corpo como escudo para as crianças. Mário ora em silêncio — não pede, apenas observa. A tempestade passa e o grupo sai mais unido. ⚠️ **O manto morre na página**, não fora dela. ⚠️ **E o que Mário viu no cap. 34** (os convertidos com a faca na mão) é o que dá urgência ao ensaio do discurso: ele está preparando **palavras contra o que já aconteceu.**
+o **A tempestade de quartzo (migrada para cá em 2026-09-21).** Abre o capítulo: vento que carrega fragmentos de quartzo da Mina, cortando a pele exposta, cegando quem respira a poeira. O grupo se abriga numa fenda na rocha. **Kate improvisa proteção com o manto de xilomagia — e a carga queima aqui** (a depleção decidida em 2026-08-14 finalmente tem casa e preparação). Lakand usa o corpo como escudo para as crianças. Mário ora em silêncio — não pede, apenas observa. A tempestade passa e o grupo sai mais unido. ⚠️ **O manto morre na página**, não fora dela.
 
-o **Mário ensaia o discurso.** Durante uma parada, Mário se afasta do grupo. Kate o observa de longe: ele está falando sozinho, gesticulando, repetindo frases em voz baixa. **Está ensaiando o discurso para a Mina** — o discurso que, na cabeça dele, é a **resposta ao treino**: palavras no lugar de armas. Não está orando. Não está pedindo direção. Está preparando o controle do resultado. Kate vê e arquiva: _"ele acha que palavras resolvem tudo."_ O leitor sente o desconforto — o pregador ensaia, mas não ora.
+o **Mário ensaia o discurso.** Durante uma parada, Mário se afasta do grupo. Kate o observa de longe: ele está falando sozinho, gesticulando, repetindo frases em voz baixa. **Está ensaiando o discurso para a Mina** — o discurso que, na cabeça dele, é a **resposta às palavras que ele acha que bastam**. Não está orando. Não está pedindo direção. Está preparando o controle do resultado. Kate vê e arquiva: _"ele acha que palavras resolvem tudo."_ O leitor sente o desconforto — o pregador ensaia, mas não ora.
+  - ⚠️ **Correção de 2026-10-04:** a urgência do ensaio **não** vem de ele ter visto nada. **Ele não viu nada** — nem o treino (32), nem a formatura (35). A urgência é dele mesmo: é o discurso da vida dele, e ele quer que funcione. **O leitor é que traz o peso**, porque sabe o que ele não sabe.
 
-o **Criança toca Lakand.** Durante a marcha, uma criança — a mesma que sorriu para Lakand no batismo (cap. 30) — se aproxima dele sem medo. Toca o braço dele (forma híbrida ou humana). Pergunta: _"Você também é amigo do Mário?"_ Lakand congela. Não sabe responder. A criança aperta o braço dele e sai correndo. Lakand fica parado, processando. **Ele foi visto como "gente" por uma criança.** O desejo do cap. 13 reacende — mas ele não sabe o que fazer com isso.
+o **A criança toca Lakand.** Durante a marcha, uma criança — **a mesma que sorriu para o Lakand no batismo (cap. 34)** — se aproxima dele sem medo. Toca o braço dele (forma híbrida ou humana). Pergunta: _"Você também é amigo do Mário?"_ Lakand congela. Não sabe responder. A criança aperta o braço dele e sai correndo. Lakand fica parado, processando. **Ele foi visto como "gente" por uma criança.** O desejo do cap. 13 reacende — mas ele não sabe o que fazer com isso.
 
 o Mário ora em silêncio. A Voz não diz nada. Mas ele sente — pela primeira vez — que não está sozinho.
 
 o **🌱 SEMENTE (Etemenanki):** Durante a marcha, o grupo cruza uma caverna comum. Numa parede de rocha há um zigurate entalhado em alto-relevo — mas Mário não o identifica como tal. Parece uma torre escalonada, um templo antigo, algo que ele deveria conhecer mas o nome não vem. No topo, uma **serpente alada** esculpida. Abaixo, uma inscrição cuneiforme: _Etemenanki_. Mário passa o dedo sobre os sulcos. Conhece aquele nome. Já viu antes. Onde? Não lembra. "Devo ter lido num artigo qualquer. Rochas formam padrões. Não é nada." Kate passa direto, indiferente. Mário engole a dúvida, mas a serpente alada fica — não como pensamento, como arrepio. _A semente está plantada — ver `temas/sementes.md`, entrada #21 (a registrar)._
 
-o Kate olha para a Mina no horizonte. Lá dentro, escravos — humanos quebrados que Mário vai inspirar. Depois que a Mina cair, ela os terá. E com eles, começará a guerra que Gaviorn'l lhe prometeu.
+o Kate olha para a Mina no horizonte. Lá dentro, escravos — humanos quebrados que Mário vai inspirar. Depois que a Mina cair, ela os terá. E com eles virá **a guerra que ela recusou na mão de Gaviorn'l — e que agora é dela**, com o nome dela, sem dono em cima.
 
 o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte A** — fechar na semente Etemenanki (a serpente alada como arrepio, não como pensamento): revelação + mistério, antes de qualquer reação, colado no Ponto Central. ⚠️ **Não** fechar com "Kate olha para a Mina no horizonte": além de repetir o gesto de horizonte dos caps. 22 - 28, é escapada de POV num capítulo de Mário.
 
-> **✂️ Notas de corte e ritmo — Movimento 3 (proposta 2026-09-13).** Mistura de cortes do bloco 29-35: **C** (29), **C/A** (30), **D com aresta** (31), **C** (32), **C com ironia** (33), **B** (34), **A** (35). Nenhum fecho em partida, nenhum "olhar para o norte", nenhum par de fechos do mesmo tipo em sequência. **Regra de trabalho:** nunca dois capítulos seguidos fechando com o mesmo gesto. O bloco 21-28 quebrou essa regra — **medição de 2026-09-18**: quatro capítulos fecham olhando ou indo para o norte (22, 23, 24 e 26; 22-24 são três seguidos), e o 25 fecha em caminhada sem gancho. A frase-botão também viciou: quatro fechos de 21 a 28 arrematam com "E" ("E adormeceu" (21), "E Nolan era muito bom..." (24), "E ela ainda tinha a faca e o caminho" (26, fim de cena), "E o de fora. Esse era pior." (27)). Alternar a construção do fecho.
+> **✂️ Notas de corte e ritmo — Movimento 3 (revisadas 2026-10-04).** Mistura de cortes do bloco **32-36**: **D** (32, a mentira em pé), **B** (33, a pergunta moral no ar), **C com ironia** (34, a decisão), **D** (35, a brasa — ameaça por baixo do osso), **A** (36, Etemenanki). Nenhum fecho em partida, nenhum "olhar para o norte", nenhum par de fechos do mesmo tipo em sequência. **Regra de trabalho:** nunca dois capítulos seguidos fechando com o mesmo gesto. O bloco 21-28 quebrou essa regra — **medição de 2026-09-18**: quatro capítulos fecham olhando ou indo para o norte (22, 23, 24 e 26; 22-24 são três seguidos), e o 25 fecha em caminhada sem gancho. A frase-botão também viciou: quatro fechos de 21 a 28 arrematam com "E" ("E adormeceu" (21), "E Nolan era muito bom..." (24), "E ela ainda tinha a faca e o caminho" (26, fim de cena), "E o de fora. Esse era pior." (27)). Alternar a construção do fecho.
 >
-> **Sete capítulos ou menos?** Manter **sete**, com três ajustes: (a) 33 e 34 são capítulos de véspera — escrevê-los curtos (precedente no livro: caps. 3, 11, 14 e 15 entre ~1.300 e ~2.200 palavras), porque **três capítulos de véspera seguidos (33-35) freiam justo antes do Ponto Central**; (b) mover o **recrutamento** de Kate (bullet do cap. 30) para o cap. 34, que é POV dela — o 31 é o capítulo mais sobrecarregado do bloco (batismo + renúncia + "Javé" + fissura + recrutamento + Lakand); (c) o 35 termina em tensão e emenda direto no 36. Se o ritmo ainda pesar, a compressão possível é **fundir 33+34** — perde-se a ironia dupla (Mário convicto de ter decidido sozinho × Kate vendo a isca morder), por isso não é a primeira escolha.
+> **Sete capítulos ou menos?** O bloco **32-38** tem **sete**, e o ajuste que importa é: **(a) 33, 34 e 35 são capítulos de véspera** — escrevê-los **curtos** (precedente no livro: caps. 3, 11, 14 e 15 entre ~1.300 e ~2.200 palavras), porque **três capítulos de véspera seguidos freiam justo antes do Ponto Central**; **(b)** o recrutamento de Kate **já não precisa migrar** — ele vive no **32** (a estrada) e no **35** (a abertura no assentamento), que são os capítulos dela; **(c)** o **36** termina em tensão e emenda direto no **37**. Se o ritmo ainda pesar, a compressão possível é **fundir 34+35** — perde-se a ironia dupla (Mário convicto de ter decidido sozinho × Kate sabendo que a isca mordeu), por isso não é a primeira escolha.
 
 > **✂️ Passe de fechos — bloco 21-28 (checkpoint 2026-09-18).** Mapa medido: 21 fecha em sono/febre (C), 22 em marco guardado (D), 23 em partida para o norte (D), 24 em frase-síntese de Nolan (D), 25 em caminhada até Lakand (C), 26 em ameaça que se aproxima (A), 27 em dois silêncios (A), 28 em **retenção** — guardar sem entender (D). Contagem **A=2, B=0, C=2, D=4** (sequência C-D-D-D-C-A-A-D). Alertas: (a) freada de três D seguidos (22-23-24) e 25 fechando sem gancho; (b) **zero cortes B** no bloco — falta o corte que quebra a expectativa no meio da cena; (c) o 26 é o concentrador (3.162 palavras, 7 eventos, 6 sementes) — testar respiro no congelamento; (d) sem sequência da dupla Mário+Kate entre 26-28; (e) **Mário reativo em 26-28** (risco estrutural #1 aceso) — devolver decisão a ele no cap. 29 e no cap. 33; (f) os casos duvidosos ficaram protegidos por canon (cura do 23 = evento do mundo; cura do 25 = Crise interna ignorada pelo próprio Mário; a Voz do 27 expõe sem socorrer).
 >
@@ -824,17 +813,23 @@ o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas*
 
 ### Notas estruturais do beat
 
+> ⚠️ **TABELA EM VARREDURA (2026-10-04).** As referências dos **caps. 24 - 32**
+> nesta tabela estão na **numeração antiga** (deslocadas em +1 em alguns pontos).
+> **O conteúdo é confiável; os números, não** — conferir contra o **MAPA DA
+> REESTRUTURAÇÃO** antes de usar. As linhas já corrigidas: "Dupla Mário+Kate",
+> "Inquiridores", "Caçadores de recompensa", "Nolan — o arco do Rei" e "Lakand".
+
 | Elemento                                           | Onde aparece                                                                                                                                                                                                       |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Raciocínio abdutivo de Mário                       | Caps. 5 (vista do alto — o mapa antes da ação), 13 (a rota que chega e sai), 16 (a pergunta que não encaixa na cara do nômade), 21 (ronda), 27 (água/rota), 28 (ritual Inquiridor), 30 (Moribundos), 33 (conexão Mina)                                                                                                                       |
 | Pista falsa do Castelo de Devour (plantio)         | Caps. 5 (a forma sem nome vista da torre de Opium), 13 (o nome — "castelo de pedra" na boca dos lobisomens), 16 (a pergunta ao nômade), 18 (a esperança morta por Kate — "por que iriam querer te levar de volta?"), 20 (a obediência como contrato: "Se eu fizer o que você manda, você me leva de volta"), 26 (o orgulho reconstruído), 27 (o orgulho quebrado: "Você não é o centro de tudo") |
-| Dupla Mário+Kate funcionando                       | Caps. 28 (ele lê, ela age), 30 (ele convence, ela confia), 32 (Nolan observa)                                                                                                                                      |
-| Caçadores de recompensa                            | Cap. 27 (mercenários menores)                                                                                                                                                                                      |
-| Inquiridores (Vonos quer Mário vivo como novo rei) | Cap. 28 (confronto + o escriba da Ordem: "Ela não apodrece. Precisamos enquadrá-la" — semente #20, o trono), Cap. 28 (Nolan infere: querem Mário vivo, ativo do Sinal — o "novo rei" só fecha depois, com o diário de Genocydo)                                                                            |
+| Dupla Mário+Kate funcionando                       | Caps. 27 (ele lê, ela age), 32 (o reencontro — a mentira em pé), 34 (o batismo: ela mede a plateia dele)                                                             |
+| Caçadores de recompensa                            | Cap. 26 (mercenários menores)                                                                                                                                                                                                       |
+| Inquiridores (Vonos quer Mário vivo como novo rei) | Cap. 27 (o escriba da Ordem: "Ela não apodrece. Precisamos enquadrá-la" — semente #20, o trono), Cap. 28 (Nolan infere: qulan infere: querem Mário vivo, ativo do Sinal — o "novo rei" só fecha depois, com o diário de Genocydo)                                                                            |
 | Criaturas fantásticas                              | Cap. 29 (Moribundos)                                                                                                                                                                    |
 | O arco de Kate — da ferramenta ao protagonismo     | Cap. 20 (escolhe Mário como ferramenta), 23 (confirma: humanos são matéria-prima), 25 (Lakand percebe o plano), 26 (sonda o convertido; Lakand a desmascara), 28 (fecha guardando as palavras do trono — retenção, não semeadura), 31 (fissura: empatia nasce), 34 (Mário morde a isca), 35 (Mina no horizonte) |
-| Nolan — o arco do Rei                              | Caps. 22 (sonho: Mário como ferramenta contra doenças), 24 (certeza + veneno), 29 (confronto com Inquiridores), 32 (decide atrair como aliado)                                                                     |
-| Lakand — presente, reticente                       | Caps. 21, 25, 26, 30, 31 (percebe paixão + trama de Kate)                                                                                                                                                              |
+| Nolan — o arco do Rei                              | Caps. 22 (sonho: Mário como ferramenta contra doenças), 24 (certeza + veneno), 28 (o 5º degrau + o edital), 33 (a Mina como lugar; compra informação), o bloco final da Metrópole (a vembra e Juleen) |de atrair como aliado)                                                                     |
+| Lakand — presente, reticente                       | Caps. 21, 25, 26, 35 (cheira o rampilla nos dois e cala; a fala guardada para a Mina)                                                                              |
 
 ## Cadeia da pista falsa — o Castelo de Devour (plantio aplicado 2026-09-13)
 

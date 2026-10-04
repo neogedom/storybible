@@ -5,12 +5,12 @@ capitulo: 29
 titulo: "Moribundos"
 pov: Mário
 beat_stc: Jogos e Diversão
-percentual_l1: ~56,5% (real medido 2026-10-02; acumulado sem o cap. 28 — a escrever)
+percentual_l1: ~55,1% (real medido 2026-10-04; acumulado até aqui = 75.721 palavras ÷ 137,5k)
 data_ingest: 2026-10-02 (Mini-INGEST)
 personagens:
   - Mário (POV)
   - Lakand
-  - Kate (ausente — citada; separada do grupo desde o cap. 28)
+  - Kate (ausente — citada; separada do grupo desde a recolha, cap. 27)
   - Theodore (citado — morto; "um homem... eles se gostavam")
 lugares:
   - O barranco do riacho morto (o descanso, a noite, o orvalho)
@@ -32,7 +32,7 @@ sementes:
 
 ## Resumo
 
-POV Mário. Depois da fuga (cap. 28, pela rota que Kate cobriu), Mário e Lakand param num barranco de riacho morto — sem nada: nem água, nem Kate. A conversa do descanso abre três feridas antigas: a Kate que ficou para trás ("Ela vai conseguir"), o Theodore ("Ele morreu. / Ele era frágil. Que nem você.") e o tiro que Mário desviou ("Foi um tiro daquele que me trouxe." — e o Lakand o desmonta: "Trouxe uma vez. Você não sabe se ele leva de volta."). À noite, o sonho da guerra volta; o Lakand admite ter ouvido "alguma coisa". De manhã, o orvalho (a camisa como pano) dá um gole para cada um; a volta à bacia é riscada — "Podre" — porque dois dias de sol sobre oito corpos mudaram a única água da subida.
+POV Mário. Depois da fuga (cap. 26 → 27, pela rota que Kate cobriu), Mário e Lakand param num barranco de riacho morto — sem nada: nem água, nem Kate. A conversa do descanso abre três feridas antigas: a Kate que ficou para trás ("Ela vai conseguir"), o Theodore ("Ele morreu. / Ele era frágil. Que nem você.") e o tiro que Mário desviou ("Foi um tiro daquele que me trouxe." — e o Lakand o desmonta: "Trouxe uma vez. Você não sabe se ele leva de volta."). À noite, o sonho da guerra volta; o Lakand admite ter ouvido "alguma coisa". De manhã, o orvalho (a camisa como pano) dá um gole para cada um; a volta à bacia é riscada — "Podre" — porque dois dias de sol sobre oito corpos mudaram a única água da subida.
 
 Segue a caça: o Lakand sente "pouco" (o fogo levou parte do nariz, em Saramant) — e o mato fica sem bicho nenhum. O primeiro eco aparece: um soldado de malha e um de armadura preta com elmo de chifres, se matando em loop, em silêncio. Quando as garras do Lakand crescem (corpo que se prepara para matar), o campo acorda — e o Mário lê a lei na página: "Não é a gente. É a briga." / "Eles respondem à luta. Não à luta acontecida — à luta que se prepara." Ele comanda ("Fecha as garras. Não reaja."), o Lakand obedece, e os ecos arrefecem.
 
@@ -82,14 +82,18 @@ A travessia começa "como quem passa por um quarto onde alguém está dormindo" 
 
 - **#5 (paga na página):** os ecos do sonho reconhecidos (mesmas roupas, mesmo som); "a guerra não acabou". Sem rostos/nomes; sem causa (Hícse) — Gus.
 - **#22 (executado):** o relógio da água — o orvalho (meio cantil) e a recusa da bacia. A água contaminada por corpos fica plantada para o salvamento ("a água dos mortos": bacia 27 → odres 28 → cicatriz).
-- **#23 (movida):** a água da cicatriz / o custo — o salvamento no capítulo seguinte do fio do Mário (depois do cap. 30).
+- **#23 (movida para o cap. 31):** a água da cicatriz / o custo — o salvamento é o **cap. 31 ("Uma Noite")**, e a conta (a memória) é cobrada lá.
 - **#24 (plantada):** "— Me trouxe." / "— Trouxe uma vez." — o "trouxe de onde?".
-- **O ferimento do Lakand:** abre o apodrecimento (`conceitos/daerunmeges.md` — não regeneram) e a rachadura com causa na carne; pendurado no cap. 30 ("aliviar, não resolver").
+- **O ferimento do Lakand:** abre o apodrecimento (`conceitos/daerunmeges.md` — não regeneram) e a rachadura com causa na carne; pendurado no **cap. 30** (a metade da Kate) e resolvido pelo próprio Mário no **cap. 31**.
 - **"Você ouviu também?":** o Lakand ouve "alguma coisa" — o campo registra; nada explicado. Nota para Gus.
 
 ## Fronteira
 
-- **Como fecha:** desastre (o Lakand ferido; o sangue que não para), com a decisão do Mário na última linha (não soltar o peso). Desastre sem sequência no próprio capítulo → o **cap. 30 (Kate)** traz o alívio (a água, o reencontro) e o ferimento fica pendurado; o salvamento vem no capítulo seguinte do fio do Mário.
-- **Onde corta:** **Corte C** (logo após o golpe), com perigo em aberto de verdade (fuga com ferido; o campo virou). Cumpre a marca do passe de fechos (2026-09-18): decisão devolvida ao Mário; sem "E" inicial; sem paisagem no fecho.
+- **Como fecha:** desastre (o Lakand ferido; o sangue que não para), com a decisão do Mário na última linha (não soltar o peso). Desastre sem sequência no próprio capítulo → o **cap. 30 (Kate)** traz a metade paralela (ela vira a água), e o **cap. 31 (Mário)** traz o salvamento, resolvido **por ele, sozinho**.
+
+> ⚠️ **Numeração corrigida em 2026-10-04.** O bloco aqui descrito estava na
+> numeração antiga (em que o 30 era a Kate com o reencontro). O correto:
+> **29 = Mário (escrito) · 30 = Kate (escrito) · 31 = Mário (a escrever) ·
+> 32 = Kate (a escrever)**.- **Onde corta:** **Corte C** (logo após o golpe), com perigo em aberto de verdade (fuga com ferido; o campo virou). Cumpre a marca do passe de fechos (2026-09-18): decisão devolvida ao Mário; sem "E" inicial; sem paisagem no fecho.
 - **Anterior (ordem de leitura):** cap. 28 (Nolan — "A Conta": o edital na parede do correio, a lição da emendadeira, a ordem de marcha).
-- **Próximo (ordem de leitura):** cap. 30 (Kate — os odres, o Inquiridor da cicatriz, Gaviorn'l, o reencontro).
+- **Próximo (ordem de leitura):** cap. 30 (Kate — "A Carne e a Pedra": os odres, o Inquisidor da cicatriz, o revólver e a pedra, Gaviorn'l, a soltura da Hícse). ⚠️ **O reencontro NÃO é aqui**: ele é o fecho do **32**, e a Kate chega **depois da conta paga pelo Mário** (cap. 31).

@@ -28,7 +28,7 @@ conceitos:
 sementes:
   - "#21 — Germinação do Evangelho (a feira; PoV oposto ao cap. 24)"
   - "O edital no bolso de dentro — sobe a estrada com ele e chega antes (payoff: a Mina)"
-  - "Seis rampillas na frente pelo mato — ficam cegos quando o rastro alcança a pedra (cap. 34)"
+  - **Seis rampillas na frente pelo mato — ficam cegos quando o rastro alcança a pedra (cap. 35)**
   - "O carroceiro da água — o homem que mostrou a água aos caçadores (ponta solta: sem destino no canon)"
   - "Nolan cobra de Nuh a recusa (ideia — insights/nolan-cobra-nuh-informacao-negada.md)"
 ---
@@ -115,16 +115,16 @@ E, na **parede da casa de serviços postais** — a rede que ele mesmo montou, p
 - **5º degrau executado** no tabelionato do cruzamento (a negação + o selo ignorado) — canon em `conceitos/inquiridores-sinal.md`.
 - **Retiradas pelo autor (29/09):** a memória do Templo de Rifte esvaziado e o freio da aritmética foram tentados e **removidos** do capítulo (o autor não gostou do texto). **O plant do Templo de Rifte esvaziado fica dispensado** — decisão do autor, 29/09: não é necessário; o 5º degrau fica só com a recusa (e a agenda da Ordem o leitor já tem do cap. 27).
 - **Fecho:** decisão (subir à bacia) + o dente do "utilidade". **Corte: D** (consequência com gancho de ameaça) — conferir no passe de fechos do próximo checkpoint.
-- **Fronteira:** o cap. 27 fechou com a Ordem recolhendo os seus; o cap. 28 dá o lado de Nolan da mesma recolha. **Ordem/numeração (decisão do autor, 2026-10-01):** próximo (29) = **Nolan** (a bacia — os mortos, o machado, o edital; o gancho do 28); depois **30 = Mário (Moribundos)** e **31 = Kate**.
-- **Contador de checkpoint (passo 7):** 1 capítulo desde o checkpoint de 2026-09-18 — não oferecer (dispara na 6ª marca).
+- **Fronteira:** o cap. 27 fechou com a Ordem recolhendo os seus; o cap. 28 dá o lado de Nolan da mesma recolha. **Ordem/numeração — atualizada em 2026-10-04:** o próximo é **29 = Mário (Moribundos)**, depois **30 = Kate (a luta)** e **31 = Mário (Uma Noite)**. ⚠️ A nota de 2026-10-01 (que previa Nolan no 29) está **superada**: o antigo cap. 29 do Nolan foi cortado e o rabo desceu para cá.
+- **Contador de checkpoint (passo 7):** atualizado em 2026-10-04 — o último checkpoint de beat foi o de **2026-09-18** (bloco "Jogos e Diversão", caps. 21 - 28). Desde então fecharam os caps. 28, 29 e 30. ⚠️ **Está na hora de oferecer o checkpoint** (Arquiteto de Densidade leve + anti-slop em lote + passe de fechos).
 
 ## Notas de ingest (2026-09-20 — reestruturação aprovada pelo autor)
 
 - **O problema:** a ordem causal lia errado. Nolan parecia desistir de Mário **antes** de receber a carta — a volta chegava como conveniência do mapa, não como decisão dele. A carta tem de ser a causa do retorno; o sítio, a causa do fim da caça.
 - **Estrutura nova (2 movimentos):** **Tronk, na subida** (a roda, a feira e a doutrina, a carta, a notícia do ferreiro, a provisão de onze dias) → **o sítio** (os oito, o edital no bolso, a negativa, a ordem aos seis, o fecho no mato). O capítulo **não** volta a Tronk e não fecha em deslocamento.
 - **Por que ele sobe depois de ler a carta:** notícia de feira não é registro, e sem saber em que mão o homem caiu os seis não têm rastro para onde ir. É razão de personagem (o método), não logística.
-- **O edital:** não é cartaz em poste. Entra pelo bolso do mercenário do machado do cap. 26 — o que anunciou a recompensa e recrutou os oito. A facada de Kate no lado é o que o identifica, e o **plant foi aplicado no cap. 28** em 2026-09-20 (ela reconhece o corte entre as costelas). Nolan lê o papel como objeto de uso: dobrado do tamanho de uma mão, feito para ser posto na frente de um rosto.
-- **Ossan vai com Nolan** (decisão do autor, 2026-09-20): o caixote com a raiz desce com ele, os seis ficam **sem condutor**, e o cap. 32 (ver por eles da Metrópole) segue de pé. Cai a fala antiga ("sem ela, eles param onde estiverem"); entra o preço dito do lado certo: "Enquanto a raiz estiver com o senhor, elas fazem o que o senhor mandou. Nada mais."
+- ⚠️ **O edital (superado em 2026-10-03/04):** esta nota descrevia a entrada **pelo bolso de um morto**. **Revogada** — o edital entra pela **parede da casa de serviços postais** e Nolan o tira de lá. O plant do cap. 26 permanece (Kate reconhece o corte entre as costelas). Ver a nota de ingest de 2026-10-03.
+- **Ossan vai com Nolan** (decisão do autor, 2026-09-20): o caixote com a raiz desce com ele, os seis ficam **sem condutor** — e ⚠️ **é isso que faz os seis morrerem no cap. 35**: obedecem, mas não há quem saiba pensar por eles. Cai a fala antiga ("sem ela, eles param onde estiverem"); entra o preço dito do lado certo: "Enquanto a raiz estiver com o senhor, elas fazem o que o senhor mandou. Nada mais."
 - **Fecho:** Ossan lê o valor ("É um valor grande o bastante para colocar meio mundo atrás dele") e pergunta se ele vai largar a caçada. Nolan não larga — força do mesmo peso, mais rápida sem carroça, sem mula e sem farinha, um objetivo só — e desce para a Metrópole. Os seis entram no mato atrás do sangue-isca da Kate.
 - **Checagem — o posto ao norte (Mário pregou lá depois de Tronk, cap. 26):** não atrapalha o plano; é a origem do recrutamento e da facada. Dois cuidados aplicados na prosa: Nolan passa pelo posto **sem parar** (ninguém sai, ninguém olha) e a notícia em Tronk fala só dos que subiram **por conta da soma**.
 - **Decisões derrubadas por esta reestruturação** (a corrigir em `temas/esquema-l1.md` e `decisoes/nolan-retorna-metropole-juleen-rampillas.md`): "abrir executando" no terreno; "a decisão é tomada em Tronk ao anoitecer"; "o número bate com a coluna de Koda"; "o fecho nomeia Juleen".
@@ -149,5 +149,5 @@ E, na **parede da casa de serviços postais** — a rede que ele mesmo montou, p
 - ~~**A faca de dois gumes do cartaz (decisão do autor):** o edital não é descoberta, é **gatilho**~~ — **superado em 2026-09-20**: não há cartaz em cena; o edital entra pelo bolso de um morto e materializa a soma. O gatilho do capítulo é a **carta de Layla**. Ver as notas de 2026-09-20.
 - **A raiz-mestra (mecanismo fechado).** O nó/corte da raiz viaja no caixote de terra, na carroça — resolve o alcance do controle (contato), o veto de Nolan voltar ao castelo e dá corpo físico à coleira de Ossan. O esquema registrava "mecanismo a fechar"; executado no cap. 28.
 - **Checagem de fronteira:** o capítulo da Kate fecha com a Ordem recolhendo os mortos e afirmando que voltará; o cap. 28 abre com essa mesma recolha vista do outro lado do mato (os três corpos alinhados, "A estação está levantada. Falta assentar."). Continuidade confirmada nas duas pontas.
-- **Checkpoint de beat (passo 7):** último checkpoint = 2026-09-18 (bloco Jogos e Diversão, caps. 21 - 28). Cap. 28 = **1 capítulo** desde o checkpoint → não oferecer (dispara na 6ª marca, ~cap. 34).
+- **Checkpoint de beat (passo 7):** último checkpoint = 2026-09-18 (bloco Jogos e Diversão, caps. 21 - 28). ⚠️ **Atualizado em 2026-10-04:** já fecharam os caps. 28, 29 e 30 desde então — **oferecer o checkpoint** (dispara na 6ª marca).
 - **Desvio do bloco do esquema:** o esquema previa a raiz-mestra e o dilema; o texto acrescentou a **negativa de registro** como núcleo da colisão (o branco no lugar da palavra) e trocou a inferência do revólver pela leitura da ausência de perguntas.

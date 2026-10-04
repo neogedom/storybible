@@ -49,11 +49,19 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 21 — A Crise da Voz](capitulos/capitulo-21.md) — Fuga do castelo em chamas; Mário identifica a Voz como Deus e responde com raiva; não ora.
 - [Capítulo 22 — A Pira Involuntária](capitulos/capitulo-22.md) — Nolan foge do incêndio com Saboc; luto frio; assume a base de Devour e parte para possuir Mário.
 - [Capítulo 23 — O Assentamento](capitulos/capitulo-23.md) — Kate, Mário e Lakand iniciam a jornada; pitch da Mina em duas fases; cura da criança paralítica.
-- [Capítulo 24 — O Rastro](capitulos/capitulo-24.md) — Nolan confirma o milagre replicável; revelação da vembra; escreve três cartas; decide se apresentar como aliado a Mário.
-- [Capítulo 25 — A Feira de Tronk](capitulos/capitulo-25.md) — Mário cura de propósito e prega; primeira conversão genuína; descobre a Metrópole; fecha indo até Lakand na borda da feira.
-- [Capítulo 26 — O Preço da Fama](capitulos/capitulo-26.md) — Kate POV: segunda pregação e oposição; reconhecimento público da recompensa; fuga; confissão de Lakand ("Saramant é cinza").
-- [Capítulo 27 — O Cerco](capitulos/capitulo-27.md) — Mário POV: mercenários sitiam a caverna; oração que escorrega para o ornickenho; o confronto da Voz; às escuras, um som que ele não sabe nomear.
-- [Capítulo 28 — Não Apodreceu](capitulos/capitulo-28.md) — Kate POV: os Inquiridores executam o cerco; o fio não cobra a ferida dela ("é uma gnock?"); o escriba registra — "Ela não apodrece. Precisamos enquadrá-la."; Kate guarda as palavras do trono.
+- [Capítulo 24 — A Feira de Tronk](capitulos/capitulo-24.md) — Mário POV: a cura intencional na feira; pregação em quatro movimentos; primeira conversão genuína; a oposição fica para o 25; fecha indo até Lakand na borda da feira.
+- [Capítulo 25 — O Preço da Fama](capitulos/capitulo-25.md) — Kate POV: segunda pregação e oposição; a recompensa reconhecida em voz alta; Lakand trucida um acusador; fuga pelo norte; a confissão de Lakand ("Saramant é cinza") e o cliffhanger do fogo.
+- [Capítulo 26 — O Cerco](capitulos/capitulo-26.md) — Mário POV: a fuga primeiro; Lakand acha o refúgio; cavalos passam na estrada; a água acaba; a armadilha da água-isca; a oração que escorrega para o ornickenho e o confronto da Voz.
+- [Capítulo 27 — Não Apodreceu](capitulos/capitulo-27.md) — Kate POV: os Inquisidores executam o cerco e recolhem os mortos; o fio não cobra a ferida dela ("é uma gnock?"); o escriba registra — "Ela não apodrece. Precisamos enquadrá-la."; ela guarda as palavras do trono.
+- [Capítulo 28 — A Conta](capitulos/capitulo-28.md) — Nolan POV: o assentamento (o milagre replicável); as duas cartas postadas; **o edital tirado da parede do próprio correio**; a negação do escriba (5º degrau); o carroceiro; **a lição da emendadeira** e a ordem — "Vou comprar olhos".
+- [Capítulo 29 — Moribundos](capitulos/capitulo-29.md) — Mário POV: sem água e sem Kate; o orvalho; a bacia recusada ("Podre"); **a travessia do campo de ecos** (a lei decifrada na página); o campo vira; **o Lakand ferido pelo frio** — o sangue que não para.
+- [Capítulo 30 — A Carne e a Pedra](capitulos/capitulo-30.md) — Kate POV: os odres dos mortos; o Inquisidor da cicatriz (a vara não a sentencia); **o revólver que erra e entrega um cadáver dentro da pedra**; Gaviorn'l mata o Inquisidor; ela ataca e não consegue tocá-lo; ele **abaixa a guarda**; **o selo rompe e a Hícse sai** — e a fome que fica.
+- [Capítulo 31 — Uma Noite](capitulos/capitulo-31.md) — Mário POV (planejado): o corte do podre, a destilação da água do lodo, a revelação ("De onde você veio") e o preço — a água cobra memória.
+
+**Cortados (não entraram):**
+
+- [Capítulo 24 (cortado) — O Rastro](capitulos/cortados/capitulo-24.md) — Nolan; virou o cap. 28.
+- [Capítulo 29 (cortado) — a bacia de pedra](capitulos/cortados/capitulo-29-nolan-bacia.md) — a lição da emendadeira desceu para o fim do cap. 28.
 
 ## Visuais (Timelines)
 

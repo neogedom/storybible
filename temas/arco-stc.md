@@ -58,7 +58,7 @@ entre os três PoVs. Mário prega sem submissão; Kate manipula; Nolan persegue.
 
 ## Ponto Central (~68%)
 
-**Capítulo 36**
+**Capítulo 37**
 
 Tomada da Mina. Falsa vitória para Mário: os escravos vencem por massacre, o
 lorde é executado em praça, e a Mina **cai enterrada** (implosão alavriana).

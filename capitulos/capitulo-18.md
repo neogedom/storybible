@@ -96,6 +96,6 @@ vibração e calor — cada passo de Mário na floresta foi um alerta.
 
 - **Pista falsa do Castelo de Devour — elo 4 (a esperança morta) + a verdade sobre os Inquiridores.** Na cela, Mário apresenta o argumento como prova: a pedra amarrada no pescoço (o talismã), a arma de prata "sem cano e sem tambor" (o Revólver de Auditoria, canon desde o cap. 3) — "Se existe caminho de chegada, existe caminho de volta" — e o desencanto: "Este castelo é o castelo de pedra, não é? Eu cheguei." Tinha chegado mesmo: a cela é o que o endereço continha.
 - Kate nomeia os Inquiridores (as ferramentas do Ofício: a vara de Ofício apodrece a ferida; o revólver de Auditoria **não é arma de matar, é arma de prender**) e mata a pista: **"Eles não vêm buscar, forasteiro. Eles recolhem. Quem eles levam não reaparece. Nem o corpo."** Fecha com a pergunta-matadora: **"Pensa bem. Se te trouxeram pra cá, como você diz, por que iriam querer te levar de volta?"**
-- 🌱 **"Eles recolhem"** — plantio do payoff do cap. 28 ("Tinham vindo recolher"; o Revólver de Auditoria na caçada). A fuga do cap. 28 passa a ser de quem *seria recolhido*, não de quem seria salvo.
-- 🌱 **Medo dos Inquiridores instalado em Mário.** Precisa decair visivelmente entre os caps. 21 e 26 para o cap. 28 funcionar como recaída, não repetição.
+- 🌱 **"Eles recolhem"** — plantio do payoff do **cap. 27** ("Tinham vindo recolher"; o Revólver de Auditoria em cena na recolha). A fuga (caps. 26 → 27) passa a ser de quem *seria recolhido*, não de quem seria salvo.
+- 🌱 **Medo dos Inquiridores instalado em Mário.** Precisa decair visivelmente entre os caps. 21 e 25 para o **cap. 27** funcionar como recaída, não repetição.
 - Referência: `temas/esquema-l1.md`, seção "Cadeia da pista falsa — o Castelo de Devour".

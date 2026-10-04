@@ -26,7 +26,7 @@ timestamp: 2026-09-20T12:00:00-03:00
     inteiro (terra de quartzo, sem solo que guarde água) — o outono é
     atmosfera e relógio, não solução. Se a chuva chegasse, a crise se
     dissolveria e o livro perderia o prazo.
-  - **Noites frias** — já plantado na prosa: no cap. 28, "as pernas que
+  - **Noites frias** — já plantado na prosa: no cap. 27, "as pernas que
     tinham dormido no frio". O outono é o frio que rouba água do corpo por
     baixo, enquanto o sol a rouba por cima.
   - ⚠️ `temas/timeline.md` ainda **não registra estações** — precisa da
@@ -86,12 +86,12 @@ timestamp: 2026-09-20T12:00:00-03:00
   humano, aguenta o dobro do Lakand.
 - ⚠️ **A unidade serve à distância, não ao susto.** O capítulo pergunta
   "quantos dias até a próxima água?", não "acabou o cantil?".
-- **A ponte do cap. 27 ao 30 (furo resolvido).** O cantil **acabou na manhã
-  do cap. 27** — antes do cerco, antes da fuga. Eles escaparam do cap. 28
-  **sem nada**. A ponte: **os cantis dos mortos.** O acampamento tinha oito
+- **A ponte do cap. 27 ao 29 (furo resolvido).** O cantil **acabou na manhã
+  do cap. 27** — antes do cerco, antes da fuga. Eles escaparam **sem nada**.
+  A ponte: **os cantis dos mortos.** O acampamento tinha oito
   mercenários, cavalos e arreios. Isso instala o motivo do livro: **a água
-  que vem dos mortos** (a bacia-isca do 27, os odres do 28, a cicatriz além
-  dos Moribundos). **Detalhamento travado (2026-09-20):**
+  que vem dos mortos** (a bacia-isca do 27, os odres dos mortos — que só a
+  Kate pega, no 30 —, a cicatriz além dos Moribundos, no 31). **Detalhamento travado (2026-09-20):**
   - **Só a Kate pode pegá-los.** Ela foi a única que esteve *dentro* do
     acampamento; Mário e Lakand correram para o mato na direção que ela
     gritou e nunca chegaram perto dos cavalos (os animais pastavam **além da
@@ -117,9 +117,9 @@ timestamp: 2026-09-20T12:00:00-03:00
   limite duro é o corpo (ver os degraus). Um humano em marcha, no frio, com
   trabalho, atravessa o terceiro dia mal e morre no quarto. Então:
   **cap. 29 = o relógio no fim** (Mário e Lakand, **sem nada**, tentam voltar
-  à bacia, fracassam, e a decisão é do Mário); **cap. 30 = a água** (Kate,
-  que tem dois cantis e não sabe onde eles estão — o poço racionado do
-  assentamento e/ou a cicatriz fecham a conta). Depois do 31 a água vira
+  à bacia, fracassam, e a decisão é do Mário); **cap. 30 = os odres** (Kate —
+  dois cantis, e ela não sabe onde eles estão); **cap. 31 = a conta fecha**
+  (ele extrai água do lodo, e a água cobra). Depois do 31 a água vira
   **preço político**, não risco de morte. Um relógio que corre cinco
   capítulos não é tensão: é contagem mentirosa.
 - ⚠️ **Cada metade do grupo tem o seu relógio.** Mário e Lakand correm contra
@@ -214,15 +214,17 @@ Variantes disponíveis:
   água.** O trunfo do Mário não é purificar — é **tirar potável do que não
   é**: ferver o lodo e recolher o vapor. Entrada suja, saída limpa, e água
   bastante para os dois beberem até cansar.
-- ⚠️ **O que a destilação não faz — é o coração do cap. 29.** A água sai
+- ⚠️ **O que a destilação não faz — é o coração do cap. 31.** A água sai
   **cristalina** e **cobra igual**: a conta não é química. A técnica resolveu
   a matéria e não tocou no resto. É o guardrail do milagre com roupa nova:
   não "Deus confirma meu plano", mas **"minha técnica confirma meu plano"**
   — o mesmo erro.
-- **A conta da água não é cobrada na hora (decisão 2026-09-20).** Nada de
-  perder memória no cap. 29 — o capítulo já carrega demais. Quem bebe sai com
-  a sede saciada e com a batalha na cabeça, de vez em quando. **O preço vem
-  depois**, quando a memória fizer falta — ver §5.1.
+- **A conta da água é cobrada no cap. 31, e não antes (decisão 2026-10-04).**
+  Nada de perder memória no **29** (a travessia já carrega demais). No **31**,
+  quem bebe sai com a sede saciada, com a batalha na cabeça de vez em quando —
+  e **sem os nomes**. O preço é a **memória** (a família inteira do Mário,
+  nomes e imagens; a travessia, para o Lakand), e ele só é **nomeado** na
+  Noite Escura. Ver §5.1 e `decisoes/capitulo-31-uma-noite-salvamento.md`.
 - **Os Moribundos ressurgem como eco da Hícse solta** (proposta do autor,
   2026-09-20). Consequência dura de encaixe: **o Gaviorn'l morre no mesmo
   tempo do cap. 29**, na metade da Kate. As duas metades da separação
@@ -253,8 +255,10 @@ Variantes disponíveis:
   `conceitos/milagre.md` ("custo ≠ pagamento": o custo não se paga no
   instante, e o milagre não o apaga).
 - ⚠️ **Não cobrar no cap. 29** — capítulo sobrecarregado (orvalho + recusa da
-  bacia + travessia + alquimia + eco). Espalhar o custo é mais cruel do que
-  empilhá-lo.
+  bacia + travessia + eco). Espalhar o custo é mais cruel do que empilhá-lo.
+  ⚠️ **Onde cobrar, decidido em 2026-10-04: cap. 31** ("Uma Noite") — o corte
+  do podre, a destilação e a conta, tudo na mesma noite. O Mário perde **a
+  família inteira** (nomes e imagens) e o **Lakand perde a travessia**.
 
 ## 6. A água do batismo (proposta — a confirmar)
 

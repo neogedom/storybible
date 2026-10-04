@@ -91,7 +91,7 @@ Os três que sobram param. Kate grita a rota, corre alta deixando rastro de sang
 - **#19 — A Ferida que Não Cobrou (plantio executado).** O corte no antebraço esquerdo não escurece: a pele fica vermelha de sangue e normal, "como se tivesse sido cortada por uma faca comum". Os instrutores do Rohdis já tinham dito que o efeito não avançaria sobre ela. O Inquiridor espanta-se; o escriba põe o registro acima da execução. Germinação: L2.
 - **#20 — O Trono do Estrangeiro (plantio executado).** A Ordem afirma a posse futura: "Ele terá o trono. Vonos garante." Kate é a única do grupo que ouve e não entende. Vetor: a informação que ela guarda sem saber o que fazer com ela (ironia dramática — o leitor do L2 já sabe o que ela não sabe).
 - **#8 — O Inquiridor do Sinal.** A facção deixa de ser menção e passa a ser corpo em cena: cinco varas, um escriba, um revólver, uma recolha ritual. A caça não recua — "Sua frequência é conhecida."
-- **#9 — O manto de xilomagia.** Primeiro uso na prosa (cap. 28): "Nunca tinha usado um manto de xilomagia". A carga finita começa a queimar aqui.
+- **#9 — O manto de xilomagia.** Primeiro uso na prosa (**cap. 27**): "Nunca tinha usado um manto de xilomagia". A carga finita começa a queimar aqui.
 - **Diapasão de Saramant (caps. 18/19).** Retomado por Kate: o tom subiu quando ela e Mário se aproximaram — agora ela fecha a inferência (o Sinal marcou Mário) e escolhe o silêncio.
 - **"Três chifres" (caps. 6 e 21).** O manto vem de Tharin — "o três chifres inútil, agora morto" — a posse por conquista registrada na fenda da semente #9.
 - **Rohdis (canon do autor, 2026-09-18).** "Seus instrutores do Rohdis lhe tinham dito" — os gornads vêm do Rohdis; o treino de Kate é lá.

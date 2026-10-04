@@ -21,9 +21,24 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Capítulo 29 — Moribundos
 
-- _Não aparece_ (separada do grupo desde o cap. 28; a metade dela é o cap. 30 — os odres, o Inquiridor, o reencontro).
+- _Não aparece_ (separada do grupo desde a recolha, cap. 27; a metade dela é o **cap. 30 — "A Carne e a Pedra"**).
 
-## Capítulo 28 — Não Apodreceu
+## Capítulo 30 — A Carne e a Pedra (escrito 2026-10-04)
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Roupas     | Couro remendado de caçadora; **manto de anéis** dobrado debaixo do braço (não em uso) |
+| Armas      | Faca de caça — usada no Inquisidor e depois abandonada no capim por Gaviorn'l |
+| Ferimentos | **Corte no antebraço esquerdo, do punho ao cotovelo** (fio da vara de renanthao) — não apodrece; **corte raso na parte de cima do ombro**; sangue secando |
+| Acessórios | **Dois odres cheios** (tirados das selas dos mercenários mortos), amarrados no ombro; o manto do Inquisidor (a noite ia ser fria) |
+| Sujeira    | Sangue no braço, no ombro e **na parte de dentro do pulso** (o sangue da palma cortada de Gaviorn'l, que fica no vinco da pele) |
+| Expressão  | Frieza de teste ("Matei mais") → fome contida, nunca nomeada; ao fim, **o polegar cravado no próprio pulso** |
+| Postura    | Baixa, andando em cima do Inquisidor; depois **parada no alto** — ela não tem como vencer Gaviorn'l pela força, e o corpo dela sabe |
+| Iluminação | Sol alto na clareira dos mortos (o meio-dia da travessia do cap. 29); depois o escuro do fim da tarde |
+| Fundo      | Beira da água com os oito mercenários mortos e as mulas mortas; **a pedra do barranco com o mercenário entregue dentro dela** (um braço de fora); a estaca do diapasão cravada acima |
+| Marca      | ⚠️ **É o capítulo em que a Hícse é solta** — e não há nada visível nela. A soltura aparece **fora**: o capim para, o bicho para de cantar, um cavalo dos mercenários abaixa a cabeça tremendo. **Três respirações.** |
+
+## Capítulo 27 — Não Apodreceu
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
@@ -36,7 +51,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Iluminação | Antes da luz (madrugada); o escuro da fenda, depois o cinza do mato              |
 | Fundo      | Beira da água com os mercenários em fila, os cavalos sem sela, as três caixas; mato alto e moita fechada de galho morto. Na fila, **reconhece o homem do machado do cap. 26** pelo corte que ela mesma lhe abriu entre as costelas (plant do cap. 28 — 2026-09-20) |
 
-## Capítulo 27 — O Cerco
+## Capítulo 26 — O Cerco
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
@@ -48,7 +63,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Sujeira    | Poeira da estrada                                                      |
 | Iluminação | Noite; o pouco de céu na boca da fenda                                 |
 
-## Capítulo 26 — O Preço da Fama
+## Capítulo 25 — O Preço da Fama
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
@@ -142,7 +157,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: luz de fogueira, entardecer
 - Fundo: acampamento de refugiados, barracos de lona e galho
 
-## Capítulo 25 — A Feira de Tronk
+## Capítulo 24 — A Feira de Tronk
 
 - Roupas: couro de caçadora, manto de xilomagia de Tharin sobre os ombros
 - Acessórios: faca de caça

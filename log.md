@@ -1,5 +1,68 @@
 # Log de Atualizações
 
+## 2026-10-04 (7ª revisão: auditoria de pendências — 20 correções)
+
+**Varredura completa do repositório.** Todas as referências de capítulo dos
+caps. 24 - 38 foram conferidas contra o manuscrito e contra os ingests.
+
+### Contradições de canon (as que podiam fazer escrever o capítulo errado)
+1. `temas/esquema-l1.md` — a **tabela de progressão** tinha os PoVs de 24 a 31
+   **deslocados em um capítulo** (o fantasma do cap. 24). Corrigidos pela prosa:
+   24 Mário, 25 Kate, 26 Mário, 27 Kate, 28 Nolan, 29 Mário, 30 Kate, 31 Mário.
+   Percentuais recalculados (acumulado real = 78.420 palavras, 57,0%).
+2. `temas/esquema-l1.md` — a seção do **cap. 35** carregava beats do 34. **O 35
+   ganhou dois movimentos declarados** (a abertura no assentamento + os
+   rampillas) e os beats de batismo/renúncia/Javé foram devolvidos ao 34.
+3. `temas/esquema-l1.md` — **"a guerra que Gaviorn'l lhe prometeu"** no cap. 36:
+   Gaviorn'l morre no 30. Agora a guerra é **a que ela recusou na mão dele**.
+4. `temas/esquema-l1.md` — o ensaio do discurso no cap. 36 dizia que a urgência
+   vinha de o Mário ter visto o treino. **Ele não viu nada.** Corrigido.
+5. `conceitos/agua-e-seca.md` — a destilação e a memória estavam marcadas no
+   **29**. São do **31**. O relógio foi reescrito: 29 = o relógio, 30 = os
+   odres, 31 = a conta fecha.
+6. `temas/sementes.md` — a renúncia/"Javé" estava no cap. 30; é o **34**. O
+   combate dos rampillas estava no 34; é o **35**.
+7. `temas/sementes.md` — a semente #19 (a ferida que não cobra) dizia "cap. 28";
+   é o **27**, e o **30** paga de novo, com o Inquisidor da cicatriz fazendo o
+   segundo teste.
+8. `conceitos/hicse.md` — a morte de Gaviorn'l estava "em Vilões se Aproximam";
+   é o **cap. 30**. Acrescentados: o eco da soltura, a fome que fica, e a
+   distinção **aviso (30) × acendimento (35)**.
+9. `temas/arco-stc.md` — o Ponto Central estava no cap. 36; é o **37**.
+10. `visuais/kate.md` — a faixa de ausência dizia "separada desde o cap. 28";
+    a separação é na **recolha do cap. 27**.
+
+### Numeração desatualizada
+11. `visuais/kate.md`, `visuais/lakand.md`, `visuais/mario.md` — os capítulos
+    **24 a 28 estavam deslocados em +1** (Feira de Tronk, Preço da Fama, O
+    Cerco, Não Apodreceu). Corrigidos pelos títulos canônicos.
+12. `index.md` — a lista de capítulos descrevia a versão **cortada** de 24 - 28
+    (Nolan/O Rastro) e parava no 28. Reescrita com 24 - 30, mais os cortados.
+13. `capitulos/capitulo-28.md` — o contador de checkpoint e a nota de ordem
+    estavam parados em 2026-10-01. Atualizados; o gancho do cap. 32 ("ver por
+    ele da Metrópole") foi corrigido.
+14. `capitulos/capitulo-29.md` — percentual, a separação da Kate, a fuga, e o
+    ponteiro do próximo capítulo (que prometia o reencontro no 30).
+15. `capitulos/capitulo-25.md`, `capitulo-27.md`, `capitulo-18.md` — ponteiros
+    de capítulo deslocados (a sonda da Kate, o primeiro uso do manto, o payoff
+    do "Eles recolhem").
+16. `temas/esquema-l1.md` — as notas de corte do Movimento 3 e o "sete capítulos
+    ou menos" reescritos na numeração real (32 - 38).
+
+### Pendências de arquivo
+17. ⚠️ **`capitulos/capitulo-30.md` NÃO EXISTIA.** Criado o Mini-INGEST
+    completo do capítulo recém-escrito.
+18. `capitulos/cortados/capitulo29.md` → renomeado para
+    **`capitulo-29-nolan-bacia.md`** (o 29 agora é o Mário; o nome antigo
+    confundia).
+19. `decisoes/mandante-juleen-alvo-linhagem.md` e
+    `decisoes/nolan-retorna-metropole-juleen-rampillas.md` — receberam **aviso
+    de superação** e a remissão para o bloco final da Metrópole.
+20. `visuais/kate.md` — o cap. 30 ganhou ficha visual completa (roupas, armas,
+    ferimentos, o sangue no vinco do pulso, o fundo com a pedra e o braço de
+    fora). `visuais/lakand.md` e `visuais/mario.md` ganharam a nota de ausência
+    no 30.
+
 ## 2026-10-04 (6ª revisão: a objeção só vem na Mina)
 
 - **Decisão do autor:** a objeção do Mário — *"Isso é um exército, Kate."* —

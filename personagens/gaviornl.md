@@ -23,8 +23,15 @@ agente de Terbs para treinar Kate — a faca que mataria Kraviam.
 ## Vínculo com Kate
 
 Gaviorn'l afeiçoou-se paternalmente a Kate — algo que Terbs não previu.
-Kate o mata no clímax do L1. Ele **abaixa a guarda** por amor. O selo rompe.
-Hícse é libertada.
+Kate o mata no **cap. 30** (escrito em 2026-10-04). Ele **abaixa a guarda**
+por amor: depois de derrubar o Inquisidor que a caçava, ele **joga a vara no
+mato**, senta-se no chão com as **mãos abertas em cima das pernas** e repete o
+gesto dos treinos (prender o pulso dela e contar). O selo rompe. Hícse é
+libertada.
+
+⚠️ **Antes disso ela não tem como vencê-lo.** Ela ataca três vezes e **os pés
+dele não saem do lugar**; na terceira ele **pega a lâmina na palma da mão
+aberta**. A morte só funciona porque é **escolha**, não derrota.
 
 ## Relações
 

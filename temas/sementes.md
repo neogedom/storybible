@@ -119,7 +119,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 6. Juleen e a Morte de Dagmar
 
-> **Status (2026-09-25): suspensa no texto.** O cap. 24 de Nolan foi cortado e a descoberta da vembra saiu do cap. 28 (parkada em `insights/vembra-e-a-morte-de-dagmar.md`; lugar a definir). Os plantios 3+ e o enforcamento (cap. 32) aguardam a realocação.
+> **Status (2026-10-04): a cena saiu do meio do L1.** Nolan **não volta à Metrópole** — ele sobe atrás do Estrangeiro e chega à Mina pelo Espinhaço. A descoberta da vembra acontece **na volta** (Mira, no banco da carroça) e o **enforcamento de Juleen** vai para o **bloco final da Metrópole**, em paralelo ao Caixão do Mário. Ver `decisoes/jornada-nolan-acre-2026-10-03.md` (§4 e §12).
+> ⚠️ **As datas abaixo são históricas.** Onde se lê "cap. 32", leia: **o bloco final da Metrópole**.ir). Os plantios 3+ e o enforcamento (cap. 32) aguardam a realocação.
 
 - **Plantio**: L1, Cap. 4 — Juleen administra chá de cascas de vembra (abortivo)
 - **Plantio 2**: L1, Cap. 19 — Dagmar morre no parto (causa: o abortivo
@@ -329,13 +330,16 @@ timestamp: 2026-07-24T12:00:00-03:00
   revela o que os rampillas eram; ou alguém reconhece um rosto num zumbi.
   Kate matou rampillas sem saber (caps. 0 e 20) — a revelação mancha o
   passado dela também.
-- **Agravante (canon 2026-09-21) — cap. 34**: no combate, Kate **matou duas das
-  seis e fez os convertidos executarem a que sobrou** (ver
+- **Agravante (canon 2026-09-21; numerado em 2026-10-04) — cap. 35**: no combate, Kate **matou duas das
+  seis e fez o homem que ela formou executar o que sobrava** (ver
   `insights/recrutamento-da-kate.md`). Ninguém sabia, ninguém foi avisado, e o
   narrador não avisa. ⚠️ **Quando a revelação cair (L2), o leitor vai lembrar
   disto:** ela ensinou civis a matar gente — e fez disso a lição que os
   alistou. É a segunda mancha do passado dela, e é pior que a primeira.
-  **Não tocar no cap. 34.**
+  **Não tocar no cap. 35.**
+  - ⚠️ **E o abate acontece LONGE dos olhos do Mário** (correção do autor,
+    2026-10-04) — ele não vê, e por isso a cobertura do cap. 32 aguenta até a
+    Mina.
 - **Germinação**: L2 — a Inquisição de Nolan com os rampillas como braço
   armado; e/ou a revelação vira condenação pública ou privada.
 - **Risco**: não pregar. A verdade cai como reconhecimento frio, não como
@@ -347,15 +351,15 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 14. A Renúncia do Batismo — Declaração de Guerra
 
-- **Fato (canon 2026-08-10)**: no primeiro batismo da jornada (L1, cap. 30),
+- **Fato (canon 2026-08-10; numerado em 2026-10-04)**: no primeiro batismo da jornada (L1, **cap. 34**),
   Mário adapta a abrenuntio da igreja primitiva: cada convertido renuncia em
   voz alta aos deuses de Ornick ("Renuncio aos falsos deuses do Limbo, a
   todas as suas obras e a toda a sua pompa. Sou de Javé."). A fórmula é
   **genérica** — ornickenhos não conhecem Marduk; "Limbo" é a palavra deles
   para a terra dos deuses (refinamento 2026-08-10).
-- **Reveal de "Javé" (canon 2026-08-10)**: cap. 30 é a PRIMEIRA aparição do
-  nome próprio no livro (caps. 0-30 usam "Deus"/"Eu Sou"); caps. 21 - 32 não
-  devem usá-lo.
+- **Reveal de "Javé" (canon 2026-08-10; numerado em 2026-10-04)**: o **cap. 34** é a PRIMEIRA aparição do
+  nome próprio no livro (caps. 0-33 usam "Deus"/"Eu Sou"); **caps. 21 - 33 não
+  devem usá-lo.**
 - **Dupla camada**: declaração de fidelidade a Javé (superfície) + declaração
   de guerra aos deuses falsos de Ornick (pano de fundo; lente de Heiser — os
   deuses são reais; renunciá-los corta o vínculo de servidão).
@@ -442,21 +446,24 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 19. A Ferida que Não Cobrou
 
-- **Plantio executado (canon 2026-09-18 — Cap. 28, NÃO cap. 28)**: no combate
-  do acampamento, o segundo Inquiridor abre o antebraço esquerdo de Kate
+- **Plantio executado (canon 2026-09-18; numerado em 2026-10-04 — é o cap. 27)**: no combate
+  do acampamento, o segundo Inquisidor abre o antebraço esquerdo de Kate
   (face externa) — sangue, ardência quente, dor aguda — e a pele fica
   **vermelha e normal**, sem escurecer: o efeito maligno das lâminas não
-  avança sobre ela (os instrutores do Rohdis já tinham dito). O Inquiridor
+  avança sobre ela (os instrutores do Rohdis já tinham dito). O Inquisidor
   espanta-se e nomeia: **"Não apodreceu... Não há... é uma gnock?"** — e
   morre na jugular sem terminar a frase.
-- **Vetor do registro (executado no cap. 28)**: o **escriba** da patrulha —
+- **Vetor do registro (executado no cap. 27)**: o **escriba** da patrulha —
   sem manto escuro, mesmo colar de pedra azul, bolsa e rolo de papel —
   acompanha sem lutar, escreve atrás e é ele quem dá a ordem depois do
   combate: **"Ela não apodrece. Precisamos enquadrá-la."** O registro vence a
   execução: Kate deixa de ser alvo a eliminar e passa a ser **caso a medir**.
 - **Nota de desvio**: o capítulo fecha em **Kate** (guardando as palavras do
-  trono), não no escriba. O gancho do cap. 28 é a informação que ela não
-  entende, não o encerramento burocrático da Ordem.
+  trono), não no escriba. O gancho é a informação que ela não
+  entende, não o encerramento burocrático da Ordem. ⚠️ **Revisão de 2026-10-04:**
+  o **cap. 30** fecha esse arco por outro lado — o **Inquisidor da cicatriz**
+  volta sozinho para medir a anomalia, e **é ele quem faz o segundo teste**
+  (a vara, que também não a cobra). A semente ganha corpo em cena.
 - **Germinação (L2)**: a Ordem quer entender/possuir/destruir a anomalia;
   liga-se ao arco de Kate no L2 (a dádiva como apagamento; o descarte de
   Benjamim).

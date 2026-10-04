@@ -18,8 +18,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma                             |
 | Expressão  | Medo, desespero                     |
 
-## Capítulo 29 — Moribundos
+## Capítulo 30 — A Carne e a Pedra
 
+- _Não aparece._ ⚠️ Ele está no campo dos Moribundos, **sem água e sem Kate**, carregando o Lakand ferido. **A conta é dele no cap. 31.**
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
 | Roupas     | Camiseta urbana, calça jeans, tênis — poeira, suor e marcas de mato; a **camisa vira pano de orvalho** (torcida, molhada; volta ao corpo depois) |
@@ -31,7 +32,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Iluminação | Sol baixo (barranco) → noite fria de outono → orvalho da madrugada → sol a pino (a virada) |
 | Fundo      | Barranco do riacho morto; mato seco e estéril; o campo dos Moribundos (ecos com as armaduras do sonho; o frio com forma de gente) |
 
-## Capítulo 28 — Não Apodreceu
+## Capítulo 27 — Não Apodreceu
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
@@ -44,7 +45,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Iluminação | Antes da luz (madrugada); poeira da descarga suspensa no ar             |
 | Fundo      | Saída da fenda; mato alto ao lado do acampamento dos mercenários        |
 
-## Capítulo 27 — O Cerco
+## Capítulo 26 — O Cerco
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
@@ -57,7 +58,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Iluminação | Noite na caverna; fogueiras dos mercenários do lado de fora            |
 | Fundo      | Caverna estreita (fenda na rocha) sob cerco                            |
 
-## Capítulo 26 — O Preço da Fama
+## Capítulo 25 — O Preço da Fama
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
@@ -164,7 +165,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: luz de fogueira, entardecer
 - Fundo: acampamento de refugiados, perto das crianças
 
-## Capítulo 25 — A Feira de Tronk
+## Capítulo 24 — A Feira de Tronk
 
 - Roupas: camiseta manchada de fuligem e sangue (das fugas) — ainda sem troca
 - Ferimentos: **braço direito** (ferida em cicatrização); exaustão; fraqueza do jejum

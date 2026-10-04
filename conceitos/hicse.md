@@ -25,9 +25,21 @@ certo — jogando dos dois lados.
 
 - A "brasa" que Kate sente no Prólogo é o **vazamento de Hícse** — a fúria
   que não é dela, mas que aponta para a Metrópole.
-- Kate mata Gaviorn'l em **"Vilões se Aproximam" (~60% do L1)**, libertando
+- Kate mata Gaviorn'l no **cap. 30** (escrito em 2026-10-04), libertando
   Hícse (antecipação canon 2026-09-20 — ver
   `decisoes/gaviornl-morte-antecipada-hicse.md`).
+- ⚠️ **O eco da soltura na página (cap. 30):** o mundo **não grita** — o capim
+  para de fazer barulho, o bicho para no meio do canto, um cavalo dos
+  mercenários abaixa a cabeça tremendo. **Três respirações.** Depois volta, e
+  **nada é explicado**. Kate olha para o norte "sem entender nada", e a ficha
+  só cai em **Gus**.
+- ⚠️ **A primeira consequência em Kate (cap. 30, fim): a fome que fica.** Ela
+  mata Gaviorn'l e o corpo dela **pede mais** — "Não era raiva. Raiva passava.
+  Era fome". Ela nomeia como **corpo**, nunca como causa, e **o narrador não
+  liga a fome à soltura**.
+- ⚠️ **E a brasa de verdade só sobe no cap. 35** (a formatura): é quando ela
+  **vê um homem matar por causa dela**. O cap. 30 é o **aviso**; o 35 é o
+  **acendimento**.
 - No L2, Hícse **reconstrói** sua própria **Hoste da Purgação** (canon
   2026-08-12) — a Hoste EXISTIA na Guerra Milenar (é a que Mário vê no
   sonho do cap. 1); a nova versão é composta por criaturas já estabelecidas

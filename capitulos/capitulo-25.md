@@ -77,7 +77,7 @@ POV Kate. Marcha ao norte de Tronk com os convertidos da feira. Kate sonda um de
 Sementes no frontmatter. Continuidade:
 
 - "Isso não é certo" — primeira fissura moral de Mário (eco previsto no Ponto Central, cap. 36)
-- A sonda da Kate ao convertido — 1ª semente da rebelião (consolidada no **cap. 30**, conforme checkpoint de beat de 2026-09-18 — o ponteiro antigo dizia "cap. 28+"; o cap. 28 não toca o fio — INGEST 2026-09-18)
+- A sonda da Kate ao convertido — 1ª semente da rebelião (**consolidada no cap. 32**, conforme o mapa de 2026-10-04; o ponteiro antigo dizia "cap. 28+", depois "30", depois "34" — a arregimentação vive na **estrada do 32** e a formatura no **35**)
 - A dívida de Lakand (Saramant) — em aberto, nunca resolvida no L1
 
 ## Atualização (2026-09-13)

@@ -19,8 +19,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Múltiplas, visíveis                |
 | Expressão  | Predatória, alerta                 |
 
-## Capítulo 29 — Moribundos
+## Capítulo 30 — A Carne e a Pedra
 
+- _Não aparece._ ⚠️ **O corte dele sangra há três dias** — o ferimento é da conta do **cap. 31**, e o salvamento é do Mário.
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
 | Forma      | Híbrida atenuada (mais homem do que fera); as **garras crescem e endurecem com a intenção de matar** (compridas como faca curta) — recolhem na obediência |
@@ -31,7 +32,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Iluminação | A mesma da cena (sol baixo, noite, orvalho, sol a pino)                   |
 | Fundo      | Barranco do riacho morto; mato seco; o campo dos Moribundos              |
 
-## Capítulo 28 — Não Apodreceu
+## Capítulo 27 — Não Apodreceu
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
@@ -43,7 +44,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Postura    | Deitado virado para fora → engatinhando para trás → de pé torto, fugindo para o mato |
 | Fundo      | Boca da fenda; mato alto ao lado do acampamento                        |
 
-## Capítulo 27 — O Cerco
+## Capítulo 26 — O Cerco
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
@@ -53,7 +54,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Postura    | Deitado na pedra, virado para fora; à noite, levanta a cabeça devagar e abre as narinas no escuro |
 | Expressão  | Alerta silencioso — fareja a mudança no silêncio                       |
 
-## Capítulo 26 — O Preço da Fama
+## Capítulo 25 — O Preço da Fama
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
@@ -96,7 +97,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: luz de fogueira, entardecer
 - Fundo: acampamento de refugiados, borda da clareira
 
-## Capítulo 25 — A Feira de Tronk
+## Capítulo 24 — A Feira de Tronk
 
 - Forma: híbrida atenuada (mais homem do que fera)
 - Pelagem: chamuscada do fogo (ch20), ainda marcada
