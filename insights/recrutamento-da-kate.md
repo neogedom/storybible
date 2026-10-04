@@ -88,7 +88,10 @@ acorda a coisa.** Ver `conceitos/hicse.md` ("Depois da soltura").
   de sangue de Kate") com uma razão melhor que o abalo: **o selo rompido, e
   depois o sangue.**
 
-## O batismo de sangue (cap. 34) — a ideia do autor, 2026-09-21
+## O batismo de sangue (cap. 35) — a ideia do autor, 2026-09-21
+
+> ⚠️ **Numeração (2026-10-04):** este é o **cap. 35**. Ele é a **formatura do
+> treino do cap. 32** — não um encontro solto. Ver "O treino e o modelo" abaixo.
 
 **As seis rampillas alcançam o grupo, e Kate vence na frente dos convertidos.**
 Isso paga uma dívida aberta: as seis estão soltas desde o cap. 28, seguindo o
@@ -134,7 +137,10 @@ sangue-isca dela, sem desfecho previsto.
 - **E o eco que o Lakand vê:** ela fez com estranhos o que fizeram com ela.
   É aqui que o "você está repetindo o erro deles" cai.
 
-## A estrada (cap. 30) — ela não treina: ela não manda embora
+## A estrada (cap. 32) — a arregimentação e o treino
+
+> ⚠️ **Numeração (2026-10-04):** este material é o **cap. 32**. Ele **saiu do
+> cap. 30** quando o capítulo foi partido em dois.
 
 **Sim — e é aqui que ela começa a juntar gente, mas não como aula.** Na
 estrada ela não monta pátio de exercício: uma mulher sozinha, caçada, com dois
@@ -167,10 +173,20 @@ cantis, não para para ensinar. Se montasse, o leitor não acreditaria.
 - ⚠️ **Não fazer dela uma mãe-de-tropa.** Ela não consola, não explica, não
   promete. Ela anda e não manda embora. A diferença entre as duas coisas é o
   personagem inteiro.
-- ⚠️ **A sequência fica (revisada 2026-10-04):** estrada = **companhia**, e o
-  começo por contágio (cap. 30) → **o reencontro, já com eles e com a
-  apresentação de discípulos** → o treino segue **andando**, disfarçado de
-  busca → a objeção, **tarde**, quando já está pronto (cap. 34).
+- ⚠️ **A sequência fica (revisada 2026-10-04, 2ª vez):** o treino **começa**
+  como contágio na estrada (**cap. 32**) → ela **decide** continuar, e a decisão
+  vem da soltura da Hícse **sem o narrador dizer isso** → **a chegada, já com
+  eles, apresentados como discípulos, e ela chega depois da conta paga** → a
+  **formatura** quando as seis chegam (**cap. 35**) → a objeção do Mário,
+  **tarde**, quando já está pronto.
+- ⚠️ **A fome na página (regra do autor, 2026-10-04).** O leitor precisa
+  **sentir** a sede de sangue dela **pelo treino**, sem que a gente nomeie
+  causa e efeito com a morte de Gaviorn'l. **Como:** não usar "Hícse", "brasa",
+  "sede" como nome de coisa; não ligar as cenas; e deixar aparecer **pelo
+  excesso** — ela **repete o exercício quando já saiu certo**, cobra de um
+  quebrado o que ele ainda não tem, **fica parada olhando** quando alguém
+  acerta mais tempo do que precisa, e **ensina a matar de verdade** quando
+  podia ensinar só a fugir. O leitor junta sozinho.
 - ⚠️ **A mentira nasce na página (correção do autor, 2026-10-04):** antes de
   chegarem, ela **instrui os quebrados a nunca dizer que ela os treina**. E no
   reencontro ela **apresenta** — não nega nada: são **gente que soube do Souhma
@@ -231,7 +247,31 @@ cantis, não para para ensinar. Se montasse, o leitor não acreditaria.
   exatamente o "determinação em vez de devoção". Quem queria ser salvo vai
   embora ali mesmo.
 
-### Onde e quando — andando, e dentro do cap. 30
+### O treino e o modelo — ela ensina a matar rampilla (esclarecimento do autor, 2026-10-04)
+
+⚠️ **Isto respondia a uma dúvida do autor, e a resposta é SIM, com uma
+condição de tempo.**
+
+- **Sim, é aqui que ela ensina a matar rampilla.** O modelo é o bicho que ela
+  conhece: o **rampilla de Saramant**, a guarda do castelo de Devour (canon:
+  `conceitos/rampillas.md`; ela matou dois — prólogo e cap. 20). O que ela
+  passa é o que o **corpo** dela sabe: caça pelo cheiro, não desvia, não tem
+  olho que se possa cegar, não tem medo do escuro. Então se mata de perto, no
+  ponto em que a pata não cobre, e se mata **em grupo**, um atrás do outro.
+- ⚠️ **A condição: ela não pode saber que as seis vêm.** Nolan mandou as seis
+  no cap. 28; ela não tem como saber disso. O treino é **genérico de
+  propósito** — ela usa a fera da terra dela porque é a única que conhece.
+- ⚠️ **E o rampilla vivo não pode morrer agora — porque é o olho do Nolan.** A
+  data está travada: as seis só são mortas no **cap. 35**, e é esse o dia em
+  que o Nolan **fica cego** (`decisoes/jornada-nolan-acre-2026-10-03.md`, §5).
+  Matar um rampilla antes disso derruba uma peça do bloco da Mina.
+- ⚠️ **O que ela NUNCA diz:** o que o rampilla é de verdade. Nem ela sabe
+  (semente #13). A mina moral fica armada até o **L2**. Ver "Três disciplinas
+  de canon", abaixo.
+- **A ironia que o leitor carrega:** ela ensina a matar exatamente o que o
+  **Nolan** mandou atrás do grupo. Ninguém em cena sabe.
+
+### Onde e quando — andando, e dentro do cap. 32
 
 - **Ela não para.** Não há acampamento de treino, não há pátio, não há hora
   marcada: ela **anda ao norte atrás deles** e vai corrigindo no caminho — a
@@ -307,7 +347,7 @@ sabe de nada** — e isso é a tragédia, não a cumplicidade.
 - ⚠️ **Sem veredito na página.** Ninguém diz que ela está errada; o leitor vê
   os riscos no chão e decide.
 
-## O que ela faz na jornada solo (cap. 30)
+## O que ela faz na jornada solo (cap. 32)
 
 **Não recruta — não há quem.** Ela faz duas coisas:
 

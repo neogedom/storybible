@@ -1,5 +1,42 @@
 # Log de Atualizações
 
+## 2026-10-04 (4ª revisão: o cap. 30 é partido em dois; o revólver ganha regra)
+
+- **O cap. 30 foi partido (decisão do autor).** Ficou grande demais e com dois
+  clímaxes brigando. Agora: **30 = a luta** (fecha na morte de Gaviorn'l e na
+  soltura da Hícse, com o fecho na "fome que não passa"); **32 = a estrada e a
+  mentira** (arregimentação + treino + encanamento + chegada). O recorte está
+  em `Livro/cortes/cap32-estrada-rascunho.md`.
+- **A luta do 30 foi estendida** (pedido do autor) e subiu em degraus: a vara
+  (o teste) → a **custódia** → **o revólver, a marca e o morto dentro da
+  pedra** → Gaviorn'l mata o Inquisidor → **Kate ataca Gaviorn'l e ele defende
+  com a mão aberta** (a faca na palma) → o pulso, a mãe parteira → ela mata.
+  ⚠️ O beat novo mais importante: **ela não tem como vencê-lo** — sem isso a
+  morte vira execução.
+- **Canon novo em `conceitos/inquiridores-sinal.md` ("A marca e a âncora
+  local"):** o revólver **não mata — entrega**, e quem mata é o **lugar**. O
+  Inquisidor **crava o diapasão** em pedra ou tronco e a descarga leva o alvo
+  **para dentro** da âncora. "A jurisdição, hoje, é ali." Ele **demonstra num
+  morto antes de usar** — é assim que o leitor vê o instrumento funcionar sem
+  que a Kate morra.
+- **A lição do Mário viaja:** Kate **reconhece o meio segundo de aferição** que
+  ele leu no cap. 27, e se joga no chão. Nada de narrador ligando as pontas.
+- **Rampilla (esclarecimento do autor):** **sim**, é no treino que ela ensina a
+  matar rampilla — mas o treino é **genérico de propósito** (ela não sabe que
+  as seis vêm) e **nenhum rampilla morre antes do cap. 35**, porque é o olho do
+  Nolan. A formatura é o 35. Canon em
+  `insights/recrutamento-da-kate.md`, §"O treino e o modelo".
+- **A fome de Hícse no cap. 32:** ela **decide** treinar, e a decisão vem da
+  soltura — mas **o narrador não liga os pontos**. A Hícse aparece **pelo
+  excesso** (repete o exercício já certo, cobra o que o quebrado não tem, fica
+  olhando quando alguém acerta). Regra escrita no recrutamento-da-kate.
+- **Agência do Mário (decisão do autor):** **a Kate não resolve o problema
+  dele.** O 31 é o Mário aguentando sozinho; ela chega no 32 **depois da conta
+  paga** — a água dela vira **atraso**, não resgate.
+- **Numeração final do bloco:** 28 Nolan · 29 Mário · **30 Kate** · **31
+  Mário** · **32 Kate** · 33 Nolan · 34 Mário · 35 Kate · 36 Mário · 37 A Mina
+  · 38 Nolan. Cabeçalhos do esquema e o mapa atualizados.
+
 ## 2026-10-04 (Mini-INGEST do cap. 28 + conserto do mapa)
 
 - **Mini-INGEST do cap. 28 fechado** (o rabo novo — a lição e a ordem — tinha

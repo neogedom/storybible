@@ -57,6 +57,40 @@ favorável ao plano de Vonos; Mário caiu em Opium (borda de Saramant), e a
 frequência dele, ao ocupar o canal do Sinal, tornou a entrega ainda mais
 instável (e derrubou o Sinal — ver prólogo).
 
+### A marca e a âncora local (canon 2026-10-04 — cap. 30)
+
+**O revólver não mata: ele ENTREGA.** Quem mata é o **lugar** onde a entrega
+cai. É a distinção que faz do instrumento uma arma de **custódia** — e é o que
+o torna a peça mais fria da Ordem: ninguém é executado, todo mundo é
+**arquivado**.
+
+- **Como funciona na página:** o Inquisidor **crava o diapasão** (o ferro
+  pequeno, "do tamanho de um dedo") em algo duro — pedra, tronco — com a palma
+  da mão, e percute. O som **fica dentro da pedra**: a âncora está posta. A
+  fala canônica: **"A jurisdição, hoje, é ali."**
+- **A entrega:** a descarga leva o alvo para **dentro da âncora**. Se a âncora
+  é pedra maciça, o corpo chega **dentro dela** — fundido, esfriado junto, com
+  parte de um ombro na superfície. Se é tronco, dentro do tronco.
+- **Ele mostra antes de usar.** O Inquisidor do cap. 30 **arrasta um
+  mercenário morto** e dispara nele primeiro ("Isto é para a senhora ver que
+  não é mentira. Eu podia fazer sem mostrar."). É o **procedimento** de quem
+  faz isso há anos: avisa, demonstra, e só então aplica.
+- ⚠️ **O martelo do leitor:** a cena ensina a regra **em cima de um corpo que
+  já estava morto**. É assim que o leitor vê o instrumento funcionar sem que a
+  Kate morra.
+- **Ritual de aferição:** **meio segundo de pausa** antes da descarga (o corpo
+  para, o queixo baixo). É a deixa — foi o que o Mário leu no cap. 27 para se
+  jogar no chão, e é o que a **Kate reconhece no cap. 30**, sem saber nomear o
+  que aprendeu.
+- **Janela de recarga:** o tambor abre e o polegar gira procurando a carga
+  (quartzo). É a brecha de quem enfrenta o instrumento.
+- **A jurisdição local é precária e temporária** — vale enquanto a estaca
+  estiver cravada. Quem tira o ferro, desmancha a âncora.
+- ⚠️ **Contagem de instrumentos:** cada Inquisidor de custódia carrega o
+  **próprio** revólver (o do cap. 30 é "mais curto do que o que a Ordem tinha
+  levado na caixa"). Os instrumentos recolhidos em cerco vão para as caixas da
+  patrulha; o de uso individual fica com o dono.
+
 **Por que o quartzo (decisão 2026-08-10):** o Sinal é uma frequência/geometria
 de aferição, e o quartzo é "o único material capaz de responder sem
 distorcer" (ver `conceitos/sinal-de-vonos.md`). A descarga é essa frequência

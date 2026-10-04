@@ -496,33 +496,36 @@ o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 28 fechado em
 > `decisoes/gaviornl-morte-antecipada-hicse.md` e
 > `decisoes/capitulo-31-uma-noite-salvamento.md`.
 
-> **🗺️ MAPA DA REESTRUTURAÇÃO — fonte única de verdade para PoV e conteúdo dos caps. 28 - 37.**
-> **Atualizado em 2026-10-04.** Duas renumerações desde a versão anterior: (a) o
+> **🗺️ MAPA DA REESTRUTURAÇÃO — fonte única de verdade para PoV e conteúdo dos caps. 28 - 38.**
+> **Atualizado em 2026-10-04 (2ª vez no mesmo dia).** Três movimentos: (a) o
 > **antigo cap. 29 do Nolan foi cortado** e o rabo (a lição + a ordem) desceu
-> para o **28**; (b) o **salvamento do Lakand entrou como cap. 31**. A numeração
-> abaixo é a **real do manuscrito** — confira contra `capitulos/`.
+> para o **28**; (b) o **salvamento do Lakand entrou como 31**; (c) o **cap. 30
+> foi partido em dois** — a luta fecha em si, e a **arregimentação + treino**
+> viraram o **32**. A numeração abaixo é a **real do manuscrito**.
 >
 > | Cap. | PoV | Conteúdo |
 > | --- | --- | --- |
 > | 28 | **Nolan** | A Conta: o assentamento (o milagre replicável) → as duas cartas postadas → **o edital tirado da parede do correio** → a negação do escriba (5º degrau) → o carroceiro (a bacia, os oito) → **a lição da emendadeira** (a raiz para na água e na pedra) → **a ordem** ("Vou comprar olhos"). |
 > | 29 | **Mário** | Moribundos: o orvalho (meio cantil) → a volta à bacia recusada → **a travessia** (o campo vira; o **Lakand ferido por um Moribundo**; o reconhecimento do sonho do cap. 1) → **sem água, sem Kate**. **Fecho: o ferimento do Lakand.** |
-> | 30 | **Kate** | Os odres dos mortos → o Inquiridor da cicatriz → **Gaviorn'l mata o Inquiridor** → **Kate mata Gaviorn'l** (Hícse solta) → a estrada e os quebrados que andam com ela → **o reencontro** (fecho: ela chega com água, e eles chegam como **discípulos**). |
-> | 31 | **Mário** | **Uma Noite** — o salvamento pelo conhecimento do séc. XXI: o corte do podre, a água da ferida destilada, a revelação ("De onde você veio") e **o preço** (a água cobra memória). |
-> | 32 | **Nolan** | **A Mina como lugar** — ele sobe pelo **Espinhaço** (sem água, sem raiz: cego) → **compra informação** → vê a Mina **antes** dela cair. |
-> | 33 | **Mário** | O assentamento → **o batismo** (renúncia + 1º "Javé") → **a decisão da Mina** (ele vai **para pregar** — não sabe de revolta nenhuma). |
-> | 34 | **Kate** | **O combate dos rampillas** — as seis alcançam o grupo; ela mata duas e **faz os convertidos executarem o que sobra** (é o recrutamento, feito com as mãos deles) → a fissura → Lakand ("você está repetindo o erro deles") → a objeção do Mário, **tarde**. |
-> | 35 | **Mário** | A marcha → **a tempestade de quartzo** (o manto queima na página) → o ensaio do discurso → a criança toca o Lakand → **Etemenanki**. |
-> | 36 | **Mário** | A Mina (Ponto Central). |
-> | 37 | **Nolan** | A leitura da ruína. |
+> | 30 | **Kate** | **A carne e a pedra.** Os odres dos mortos → o Inquisidor da cicatriz (a vara não a sentencia → ele passa à **custódia**) → **o revólver, a marca e o morto dentro da pedra** → **Gaviorn'l mata o Inquisidor** → ela ataca, ele **defende com a mão aberta** → o pulso, a mãe parteira, o ombro que baixa → **ela mata Gaviorn'l. O selo rompe. Hícse sai.** **Fecho: a fome que não passa.** |
+> | 31 | **Mário** | **Uma Noite** — o salvamento pelo conhecimento do séc. XXI: o corte do podre, a água da ferida destilada, a revelação ("De onde você veio") e **o preço** (a água cobra memória). **Kate não chega: ele aguenta sozinho.** |
+> | 32 | **Kate** | **A estrada e a mentira.** A arregimentação (a mulher, o rapaz da tipoia, o que voltou quebrado) → **o treino andando**, e a **fome de Hícse sentida no treino sem ser nomeada** → o **encanamento** contado → **a chegada: ela chega depois da conta paga** → **a mentira na cara do Mário** ("são gente que ouviu falar de você"), com a instrução dada na véspera. |
+> | 33 | **Nolan** | **A Mina como lugar** — ele sobe pelo **Espinhaço** (sem água, sem raiz: cego) → **compra informação** → vê a Mina **antes** dela cair. |
+> | 34 | **Mário** | O assentamento → **o batismo** (renúncia + 1º "Javé") → **a decisão da Mina** (ele vai **para pregar** — não sabe de revolta nenhuma). |
+> | 35 | **Kate** | **O combate dos rampillas** — as seis alcançam o grupo; ela mata duas e **faz os convertidos executarem o que sobra** (é a formatura do treino do 32, e a mão deles na faca) → a fissura → Lakand ("você está repetindo o erro deles") → a objeção do Mário, **tarde**. |
+> | 36 | **Mário** | A marcha → **a tempestade de quartzo** (o manto queima na página) → o ensaio do discurso → a criança toca o Lakand → **Etemenanki**. |
+> | 37 | **Mário** | A Mina (Ponto Central). |
+> | 38 | **Nolan** | A leitura da ruína. |
 >
-> **O que mudou em 2026-10-03/04 (as duas renumerações):** o **antigo cap. 29 do Nolan deixou de existir** — a lição e a ordem desceram para o rabo do **28**; tudo o que era ≥30 desceu um; e o **salvamento do Lakand entrou como 31**, empurrando o resto para cima. **Nolan não volta à Metrópole no L1** — ele sobe pelo **Espinhaço** e compra informação; a **vembra** desce para a **volta** (Mira, na descida). Ver `decisoes/jornada-nolan-acre-2026-10-03.md` e `decisoes/capitulo-31-uma-noite-salvamento.md`.
-> ⚠️ **Custo assumido:** o 33 carrega dois movimentos (batismo + decisão) — escrevê-lo **curto**, com a decisão como virada final (Corte C com ironia). O 34 carrega **o combate + a fissura + o Lakand** — também **curto**, fechando no corte B; a tempestade sai daqui. O 35 passa a carregar **a tempestade + a marcha + o ensaio + a criança** — o corte A (Etemenanki) fecha.
-> **Movido em 2026-09-21:** a **tempestade** saiu do 34 e foi para o **35** (abre o capítulo, como desafio fantástico na marcha) para dar lugar ao **combate dos rampillas** no 34 — que é o recrutamento e precisa do grupo já convertido.
-> ⚠️ **Resolvido em 2026-10-04 (era "movido em 2026-10-01"):** o **cap. 29** termina com o **Lakand ferido por um Moribundo**; a **água da ferida + a destilação** e o **salvamento pelo conhecimento do séc. XXI** (com a revelação — "De onde você veio" → Mário não é de Ornick) são o **cap. 31 — "Uma Noite"** (decisão do autor, 2026-10-03), que **vem DEPOIS do cap. 30 da Kate**. O ferimento fica pendurado no capítulo dela: o reencontro chega com sangue e só **alivia, não resolve**. O capítulo do Nolan refluiu para o **32** (a Mina como lugar).
+> **O que mudou em 2026-10-03/04 (três movimentos):** o **antigo cap. 29 do Nolan deixou de existir** — a lição e a ordem desceram para o rabo do **28**; tudo o que era ≥30 desceu um; o **salvamento do Lakand entrou como 31**; e o **cap. 30 foi partido** — a **arregimentação e o treino** saíram dele e viraram o **32**, empurrando o resto para cima. **Nolan não volta à Metrópole no L1** — ele sobe pelo **Espinhaço** e compra informação; a **vembra** desce para a **volta** (Mira, na descida). Ver `decisoes/jornada-nolan-acre-2026-10-03.md` e `decisoes/capitulo-31-uma-noite-salvamento.md`.
+> ⚠️ **Custo assumido:** o 34 carrega dois movimentos (batismo + decisão) — escrevê-lo **curto**, com a decisão como virada final (Corte C com ironia). O 35 carrega **o combate + a fissura + o Lakand** — também **curto**, fechando no corte B; a tempestade sai daqui. O 36 passa a carregar **a tempestade + a marcha + o ensaio + a criança** — o corte A (Etemenanki) fecha.
+> **Movido em 2026-09-21:** a **tempestade** saiu do combate e foi para a marcha (abre o capítulo, como desafio fantástico) para dar lugar ao **combate dos rampillas** — que é a formatura do treino e precisa do grupo já convertido.
+> ⚠️ **Resolvido em 2026-10-04 (era "movido em 2026-10-01"):** o **cap. 29** termina com o **Lakand ferido por um Moribundo**; a **água da ferida + a destilação** e o **salvamento pelo conhecimento do séc. XXI** (com a revelação — "De onde você veio" → Mário não é de Ornick) são o **cap. 31 — "Uma Noite"** (decisão do autor, 2026-10-03). O ferimento fica pendurado no capítulo da Kate: o reencontro chega com sangue **já resolvido por ele** — ela chega **depois da conta paga**.
 > ⚠️ **Perda declarada:** cai a justaposição "Nolan enforca Juleen × Mário sobrevive à tempestade". Com o Nolan fora da Metrópole no L1, **o enforcamento de Juleen sai do meio do livro** e vai para o bloco final da Metrópole, em paralelo ao Caixão do Mário.
 >
-> ⚠️ **Ordem fixa: 29 → 30 → 31.** O **30 (Kate)** fecha no **reencontro** — logo o **29 (Mário)** tem de vir antes, senão o leitor atravessa os Moribundos já sabendo que eles sobrevivem e que a Kate chega. A sequência emocional certa é: **29 = o medo** (o campo vira; eles vivos, mas sem volta; e onde está ela?) → **30 = o alívio** (ela vive, matou, e carrega a água) → **31 = a conta** (ele salva o Lakand, e a água cobra).
-> **Amarrar as duas metades sem narrador:** a travessia e a luta acontecem **na mesma hora** — marcar a hora nas duas pontas (o sol a pino no 29; a luta "quando o sol virou" no 30). É o suficiente para o leitor juntar em **Gus**.
+> ⚠️ **Ordem fixa: 29 → 30 → 31 → 32.** O **32 (Kate)** fecha na **chegada** — e o **31 (Mário)** tem de vir antes para o leitor ver o Mário **pagar a conta sozinho**. A sequência emocional: **29 = o medo** (o campo vira; eles vivos, mas sem volta) → **30 = o frio** (ela vive, matou o pai, e a fome fica) → **31 = a conta** (ele salva o Lakand sem ela, e a água cobra) → **32 = a mentira** (ela chega atrasada, e mente).
+> **Amarrar as duas metades sem narrador:** a luta e a travessia acontecem **na mesma hora** — marcar a hora nas duas pontas (o sol a pino no 29; a luta "quando o sol virou" no 30). É o suficiente para o leitor juntar em **Gus**.
+> ⚠️ **Regra nova de agência (2026-10-04, decisão do autor):** **a Kate não resolve o problema do Mário.** Ela chega quando a conta já foi paga — a água dela deixa de ser resgate e passa a ser **atraso**. O Mário aguenta a barra sozinho no 31; quem segura o Lakand são as mãos dele.
 
 #### Capítulo 29 (PoV de Mário) — Novo (Criatura Fantástica)
 
@@ -548,27 +551,38 @@ o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C** — a travess
 
 o **✂️ Marca do passe de fechos (2026-09-18):** o fecho tem de **devolver a decisão a Mário** — é ele quem decide atravessar em silêncio. Manter **Corte C**, sem paisagem no fecho e sem abrir com "E".
 
-#### Capítulo 30 (PoV de Kate) — REESCRITO (reestruturação 2026-09-20)
+#### Capítulo 30 (PoV de Kate) — "A Carne e a Pedra" (escrito 2026-10-04; partido em dois)
 
-> **Esta seção guardava o assentamento e o batismo.** Esses beats **migraram**: batismo + renúncia + "Javé" → **cap. 33**; fissura + recrutamento + Lakand → **cap. 34**. O 31 passa a ser a **metade da Kate** da separação.
+> **Esta seção guardava o assentamento e o batismo** (migraram para o **34**) e
+> depois a **arregimentação** (migrou para o **32**, em 2026-10-04). O 30 agora
+> fecha **na morte de Gaviorn'l e na soltura da Hícse**. Canon:
+> `decisoes/gaviornl-morte-antecipada-hicse.md`.
 
-o **A metade paralela ao cap. 29.** O capítulo cobre os **mesmos dias** do 30 — e é aqui que **Gaviorn'l morre**, no exato instante em que o campo dos Moribundos vira (ver `decisoes/gaviornl-morte-antecipada-hicse.md`). ⚠️ **Nenhuma ponte de narrador** entre os dois capítulos: quem junta é o leitor, e só em **Gus**.
+o **A metade paralela ao cap. 29.** O capítulo cobre os **mesmos dias** da travessia — e é aqui que **Gaviorn'l morre**, no exato instante em que o campo dos Moribundos vira (ver `decisoes/gaviornl-morte-antecipada-hicse.md`). ⚠️ **Nenhuma ponte de narrador** entre os dois capítulos: quem junta é o leitor, e só em **Gus**.
 
-o **Ela sai do esconderijo e pega os odres.** Depois que a Ordem recolhe e vai embora (ela viu a recolha inteira do esconderijo), Kate atravessa o acampamento dos mortos e tira dos arreios **dois cantis** — a única água limpa do sítio está dentro dos odres dos mortos. **Ela vira a água:** é a única pessoa com qualquer gota e não sabe onde os dois estão.
+o **Ela sai do esconderijo e pega os odres.** Depois que a Ordem recolhe e vai embora (ela viu a recolha inteira do esconderijo), Kate atravessa o acampamento dos mortos e tira dos arreios **dois cantis** — a única água limpa do sítio está dentro dos odres dos mortos. **Ela vira a água:** é a única pessoa com qualquer gota.
 
-o **O Inquiridor que a acha.** Um Inquiridor que ficou no terreno — **o da cicatriz do cap. 2**, a âncora reservada desde 2026-09-09 — a localiza: quer **resolver a anomalia** ("a que não consta"). A luta expõe o que ela não pode explicar: **o fio não a cobra** (semente #19).
+o **O Inquisidor que a acha — e a escada da luta (decisão do autor, 2026-10-04).** Um Inquisidor que ficou no terreno — **o da cicatriz do cap. 2**, a âncora reservada desde 2026-09-09 — a localiza: quer **resolver a anomalia** ("a que não consta"). A luta sobe em **degraus**, e cada degrau é um instrumento:
+  1. **A vara de renanthao** — o **teste**. Ele abre o braço dela do punho ao cotovelo e **espera o apodrecimento**. Não vem. "Não é possível." → a **semente #19** executada (o fio não a cobra).
+  2. **A custódia.** Como o renanthao não a sentencia, ele **troca de ofício**: guarda a vara debaixo do braço e saca o **Revólver de Auditoria**. "A vara não presta para a senhora. Então a senhora vai pela custódia."
+  3. **A marca.** Ele **crava o diapasão** na pedra do barranco e percute: "A jurisdição, hoje, é ali." ⚠️ Regra nova em `conceitos/inquiridores-sinal.md` (**A marca e a âncora local**): o revólver **não mata — entrega**, e quem mata é o **lugar**.
+  4. **A demonstração no morto.** Ele **arrasta um mercenário morto** e dispara nele primeiro ("Isto é para a senhora ver que não é mentira. Eu podia fazer sem mostrar."). O corpo **chega dentro da pedra**. É assim que o leitor vê o instrumento funcionar sem que a Kate morra.
+  5. **A descarga nela — e a lição do Mário.** Meio segundo de aferição; **Kate se joga no chão**. ⚠️ Ela **reconhece o gesto**: foi o que o Mário leu no cap. 27 para se salvar. O que ele aprendeu e ela viu fica nela sem ela saber que aprendeu — **nada de narrador explicando**.
+  6. **A janela de recarga** — ela fecha a distância, mas **não consegue**: ele tem vara numa mão e revólver na outra. Ela é boa; ele é **dois ofícios**. É aqui que a luta para.
 
-o **Gaviorn'l chega.** Ele **mata o Inquiridor** — e a morte do sênior mostra a hierarquia (o que "dobra a auditoria" morre pelas costas de alguém acima dele). Então o confronto: ele veio por ordem de **Benjamim**, para **recolher a arma que ele mesmo forjou**. Kate recusa. **Ele abaixa a guarda por amor** (canon) — e ela o mata. **O selo rompe. Hícse sai.**
+o **Gaviorn'l chega — e ela ataca ele.** Ele **mata o Inquisidor** (a morte do sênior mostra a hierarquia). E ⚠️ **a Kate não para**: ela fecha a distância e **ataca**, porque não sabe quem chegou e porque é o que ela faz. **Ele defende com a mão aberta** — pega o pulso dela no ar, tira a faca da mão dela, e pega a lâmina na palma. ⚠️ **A função do beat (decisão do autor):** mostrar que **ela não tem como vencê-lo**. Sem isso, a morte vira execução; com isso, é a coisa mais dura do capítulo — **a única maneira de matar Gaviorn'l é ele deixar.**
+  - **O fio de sangue na palma dele** fica plantado: a mão que segura o pulso dela depois é a mão cortada. O sangue dele passa para a parte de dentro do pulso dela — **o lugar exato do tique.**
 
-o **Os que ela não manda embora — e que ela treina sem dizer (revisado 2026-10-04).** Na estrada, Kate **não expulsa** quem se junta a ela: a família de um devedor levado, um convertido perdido (caps. 26 - 27), um que voltou quebrado da caçada à recompensa. Ela não os acolhe nem os chama: **continua andando, e deixa que venham.** E o treino nasce como **vazamento de hábito** — ela corrige a mão de quem corta pão, mostra onde pisar para não deixar marca, põe um atrás do outro na subida. Perto do reencontro, ela já carrega **quatro ou cinco que andam como ela**. ⚠️ **Um deles é o rosto guardado na coluna** (o homem marcado — o que começa o motim no cap. 36).
+o **O confronto.** Ele veio por ordem de **Benjamim**, para **recolher a arma que ele mesmo forjou**. Kate recusa — e recusa **como personagem**, não como tema: *"A guerra vai ter. Mas ela não é sua. Eu fui peça de gente grande a vida toda. Nunca mais."* ⚠️ **Ele senta, larga a vara atravessada nas pernas e pega o pulso dela para contar** — o gesto dos treinos. E diz a origem do tique: **a mãe parteira prendia o pulso da criança e contava; todas as parteiras de Saramant contavam do mesmo jeito.** Kate crava o polegar no próprio osso **antes de ele terminar a frase**. Ela mata com a garganta aberta. **O selo rompe. Hícse sai.**
 
-o **A chegada: discípulos, nunca recrutas (revisado 2026-10-04).** Antes de chegarem, ela **instrui os quebrados a nunca dizer que ela os treina**. No reencontro ela **não mente por negação: ela apresenta** — são **gente que soube do Souhma e veio ouvir a palavra**. O Mário vê **discípulos**, e a própria vaidade serve de venda nos olhos: gente andou dias para ouvir o que ele diz. É a **primeira mentira construída em volta dele**, e o leitor assiste inteira. ⚠️ **A cobertura tem de aguentar o cap. 34:** quando a verdade cai, não é "eu autorizei" — é "eu vi e não quis ver".
+o **O eco da soltura (o fecho).** O mundo **não grita**: o capim para, o bicho para no meio do canto, um cavalo dos mercenários abaixa a cabeça tremendo. Três respirações. Depois **volta** — e nada foi explicado. ⚠️ Ela **não entende e não pergunta**: olha para o norte "sem entender nada". A ficha só cai em **Gus**.
 
-o **A busca.** Com dois cantis e os que se juntaram, Kate segue rastro. É o motor do capítulo: **ela tem o que eles precisam e não sabe onde estão.** Ironia dramática: o leitor sabe que ela carrega a água; o Mário, que acha que estão mortos em dois dias, não. ⚠️ **O atraso é contado no Mário (cap. 29) — e o resgate fecha no mesmo bloco (cap. 31).** O reencontro **não atrasa de capítulo**: dois dias é o teto, três já é abuso (ver `conceitos/agua-e-seca.md`).
+o **A fome que não passa (o último beat).** Kate cobre o rosto dele com a pele de guerra, não tira nada dele, corta os dois odres e vai para o norte. **E a fome fica.** ⚠️ Ela **nomeia como corpo**, nunca como causa: *"Não era raiva. Raiva passava."* — e o narrador **não liga** a fome à soltura da Hícse. Fecho: *"O braço sangrava, o ombro ardia e as pernas estavam gastas, e nada disso era o que estava acontecendo com ela."*
+  - **Duas disciplinas:** (1) **não usar a palavra "Hícse" nem "brasa"** — a regra dela está em `conceitos/hicse.md`; (2) **a brasa não sobe quando ela MATA** (isso é hábito) — o que ela acende aqui é a **fome de fundo**, e ela só vira chama quando ela **vê alguém matar por causa dela** (a formatura do 35).
 
-o **A máquina que ela vai quebrar (plantio novo, 2026-09-20).** Ela **não recruta ninguém: aceita quem vem** — e ao subir atravessa o **encanamento**: a estrada ao norte é por onde os devedores sobem a pé para a Mina (a dívida que passa de pai para filho, cap. 25; "nenhum dos que subiram por conta da soma apareceu de volta", cap. 28). Ela **conta**: quantos guardas, onde param, quantos vão amarrados, o que é levado além das pessoas. É intel de **raider**, não leitura de arquivo (canon: Kate não lê). E **guarda um rosto** — um homem na fila, marcado, que ela reconheceria depois: é o plantio de quem começa o motim lá dentro (cap. 36).
+o **✂️ Corte do capítulo:** fechar na **fome que ficou** — Corte D (consequência com ameaça por baixo do osso). Não fechar em "norte", "escuro", "silêncio", nem em olhar para o horizonte. ⚠️ **O capítulo NÃO entrega mais a chegada** — ela é do **32**.
 
-o **✂️ Corte do capítulo:** fechar no **reencontro** — ela chega com água. **Corte C** (a consequência é simples e visível: o cantil na mão, os dois vivos). Não fechar em "norte", "escuro", "silêncio", nem em olhar para o horizonte.
+o **Fronteira:** o cap. 29 fechou no ferimento do Lakand (metade do Mário); o 30 é a **metade da Kate** no mesmo dia. O 31 é do Mário e a Kate **não aparece nele**.
 
 ---
 
@@ -608,7 +622,41 @@ o **Fecho (Corte C com frio):** a oração sem nomes, e ele dorme. O leitor
 
 ### Movimento 3 — Aproximação da Mina (caps. 32 - 35)
 
-#### Capítulo 32 (PoV de Nolan) — A Mina como lugar (novo, 2026-10-03)
+#### Capítulo 32 (PoV de Kate) — A estrada e a mentira (novo, 2026-10-04)
+
+> **Nasceu do corte do cap. 30.** A **arregimentação** e o **treino** são o
+> corpo do capítulo; a **chegada** e a **mentira** são o fecho. O recorte do que
+> saiu do 30 está em **`Livro 1/capitulo32.md`** (o arquivo já existe, com o
+> material antigo — **reescrever**, não colar). Canon do método:
+> `insights/recrutamento-da-kate.md`.
+
+o **O motor: ela decide.** ⚠️ **Revisão de 2026-10-04 (decisão do autor):** na estrada o treino **já não nasce só como vazamento de hábito**. Ele **começa** assim (a mão que corrige a outra sem querer), mas em algum ponto ela **decide** — e a decisão é **influenciada pela soltura da Hícse**. Ela quer mais gente capaz, e não sabe por quê. **O narrador não liga os pontos.**
+  - ⚠️ **Como a Hícse aparece na página:** **não** por causa e efeito nomeados, **não** por voz, **não** por "brasa". Aparece pelo **excesso**: ela é mais dura do que precisa, repete o exercício quando já saiu certo, cobra de um quebrado o que ele ainda não tem, e fica parada olhando quando alguém acerta. O leitor sente o apetite. Ver `conceitos/hicse.md` ("sobe quando ela **vê alguém matar por causa dela**" — aqui é o **ensaio** disso).
+
+o **Quem vem, e quem ela não manda embora.** A **mulher** com o menino e a trouxa (o marido foi levado pela dívida; ela vai atrás). O **rapaz da tipóia**, que veio da feira de Tronk e fala do Souhma. O **terceiro**, que ela reconhece **pelo jeito de andar** antes de reconhecer a cara: um dos que subiram atrás da recompensa e voltou quebrado, sem dois dedos. Ninguém é chamado; todos entram atrás e ficam. No fim do segundo dia são **cinco**.
+
+o **O treino — e o modelo é o rampilla (esclarecimento do autor, 2026-10-04).** Ela ensina a matar **o bicho que ela conhece**: o rampilla de Saramant (a guarda de Devour). O que ela passa é o que o corpo dela sabe: **caça pelo cheiro**, **não desvia**, **não tem olho que se possa cegar**, **vai no escuro sem medo** — então se mata de perto, no ponto em que a pata não cobre, e se mata **em grupo**, um atrás do outro.
+  - ⚠️ **Ela NÃO sabe que seis rampillas de Nolan vêm atrás dela.** O treino é **genérico de propósito** — ela usa a fera da terra dela porque é a única que ela conhece.
+  - ⚠️ **A ironia que fica armada:** ela ensina a matar exatamente o que o **Nolan** mandou atrás do grupo. Quem sabe do resto é o leitor.
+  - **A formatura é o cap. 35**, quando as seis chegam. Ver `insights/recrutamento-da-kate.md`, "O batismo de sangue".
+
+o **O encanamento (o intel).** Ao subir, ela atravessa o **encanamento** — a estrada por onde os devedores sobem a pé para a Mina (a dívida que passa de pai para filho, cap. 25). Ela **conta**: nove descendo com quartzo em cesto, três capatazes, onze subindo amarrados (**quatro deles crianças**), dois carros de carga com lona. É intel de **raider**, não leitura de arquivo (canon: Kate não lê). E **guarda um rosto** — o homem marcado no fim da fila, que olha de volta e também está contando: o plantio de quem começa o motim no cap. 37.
+
+o **A instrução (a mentira nasce na página).** Na segunda noite, na beira do fogo: *"Quando a gente chegar, vocês não vão falar nada de mim. Nada de treino. Nada de faca. Nada."* E a resposta ao "E se ele perguntar?" — *"Se ele perguntar, vocês ouviram falar do Souhma na estrada. Ouviram, e vieram atrás da palavra."* ⚠️ É a **primeira mentira construída em volta do Mário**, e o leitor assiste inteira.
+
+o **A chegada — ela chega DEPOIS da conta paga (decisão do autor, 2026-10-04).** Quando ela desce o barranco, o Mário **já resolveu**: o Lakand está vivo, o corte tratado, a água extraída. A água dela **não é mais resgate** — é **atraso**. ⚠️ **É o arco dela em miniatura, e é de propósito:** a mulher que precisa ser protagonista chega quando já não era necessária.
+  - **O que ela faz com o odre:** joga para ele. E o Mário **dá de beber ao Lakand primeiro** — o homem que carregou a água bebe depois. Ela deixa.
+  - **A ironia dramática invertida:** no 30 o leitor sabia que ela carregava a água; no 32 ele **também sabe** que já não faz falta.
+
+o **O fecho: a mentira na cara dele.** O Mário olha para cima do barranco e vê os cinco descendo. O rapaz da tipóia vem na frente, com a boca aberta. E Kate apresenta: **"São gente que ouviu falar de você. Vinham andando atrás disso."**
+  - ⚠️ **A vaidade do Mário é a venda nos olhos:** gente andou dias para ouvir o que ele diz. Ele vê **discípulos**.
+  - ⚠️ **Corte D** — fecha com a mentira em pé e o leitor sabendo. **Não** explicar, não piscar, não dar o contra-campo dele.
+
+o **Quem sabe:** o **Lakand** (que está deitado, calado, e sente o cheiro do bicho neles) e o leitor. **O Mário, não.**
+
+---
+
+#### Capítulo 33 (PoV de Nolan) — A Mina como lugar (novo, 2026-10-03)
 
 > Substitui o bloco do retorno à Metrópole e do enforcamento da Juleen.
 > Ver `decisoes/jornada-nolan-acre-2026-10-03.md`.
@@ -638,7 +686,7 @@ o **Fecho (a decidir).** Casa natural: **Corte B** — a pergunta moral no ar.
   entende que vai ter de esperar, **do lado de fora, por um lugar onde os olhos
   dele não chegam**.
 
-#### Capítulo 33 (PoV de Mário) — O assentamento e a decisão
+#### Capítulo 34 (PoV de Mário) — O assentamento e a decisão
 
 o **O assentamento e o batismo (migrado do antigo cap. 30).** Chegam a **outro assentamento**. Gente mais pobre que a anterior — famílias inteiras dormindo ao relento, crianças com olhos de vidro (a doença da Mina). Mário prega novamente — agora com a segurança de quem já viu a teologia funcionar. Depois de curar algumas crianças, um grupo de adultos se aproxima: não querem mais milagres, querem entender. **Mário os batiza na água do assentamento** (poço racionado — ver `conceitos/agua-e-seca.md` §6). É o primeiro batismo da jornada.
 
@@ -662,7 +710,7 @@ o Decide: vai até a Mina de Quartzo. Não para tomar poder — para libertar os
 
 o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte C com gancho de ironia** — fechar no momento em que a decisão se forma (ele *quer* ir), deixando o leitor com o que ele não sabe: que a convicção foi plantada. Não transformar o capítulo em ensaio interior — a decisão é o clímax; cortar nela. **Marca do passe de fechos (2026-09-18):** a decisão grande tem de ser **de Mário na página** (os caps. 26 - 28 o deixaram reativo); não fechar em deslocamento, nem com "norte".
 
-#### Capítulo 34 (PoV de Kate) — O batismo de sangue
+#### Capítulo 35 (PoV de Kate) — O batismo de sangue
 
 o **O combate dos rampillas (ideia do autor, 2026-09-21).** As **seis** alcançam o grupo. **Kate vence na frente dos convertidos** — e **poderia ter evitado** o encontro: não evita porque precisa que eles vejam. Ela mata **duas** (⚠️ não as seis — a delegação de Nolan não pode evaporar) e **faz os convertidos executarem o que sobra**. O último rampilla não é luta: é **abate**, com a faca na mão de quem nunca matou. É o recrutamento — feito **com as mãos deles**. ⚠️ **Nada de fogo** (a casca queima, mas essa descoberta é do Mário e fica guardada); ela vence com lâmina, peso e o fato de eles **não desviarem**. ⚠️ **A lição não sai da boca dela:** ela não diz *"comigo vocês vencem a Mina"* — **entrega a faca ao próximo**. E não promete vitória: a promessa é **parar de pagar**. ⚠️ **Não tocar na mina moral:** cada rampilla foi uma pessoa (semente #13) — ninguém sabe, o narrador não avisa, e a revelação é do L2.
 
@@ -694,7 +742,7 @@ o _"Então vamos."_ — Kate pega as armas. A Mina será libertada. Depois, ela 
 
 o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte B** — fechar no olhar de Lakand ("você está repetindo o erro deles") que Kate ignora: pergunta moral no ar, resposta adiada. Evitar fechar em "pega as armas" (deslocamento). Casa natural para receber o **recrutamento** migrado do cap. 30.
 
-#### Capítulo 35 (PoV de Mário) — Reformulado
+#### Capítulo 36 (PoV de Mário) — Reformulado
 
 o Marcha em direção à Mina. O grupo cresceu: Kate, Lakand, convertidos do assentamento, alguns refugiados que creram. **Não é um exército — é um bando de quebrados.** Kate organiza a logística. Lakand lidera os batedores.
 
@@ -724,7 +772,7 @@ o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte A** — fechar na
 
 ## Ponto Central (~68%) — A Tomada da Mina de Quartzo
 
-### Capítulo 36 (PoV de Mário)
+### Capítulo 37 (PoV de Mário) — A Mina (Ponto Central)
 
 **Nota de arco:** Este evento funciona se ficar claro que: (a) Mário entrou querendo "controlar o resultado" via discurso; (b) o mundo reage fora do controle dele; (c) o "sinal"/impacto público vem com **consequência** — escalada, perseguição e divisão — em vez de resolver tudo.
 
