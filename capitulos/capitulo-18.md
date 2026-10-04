@@ -69,7 +69,7 @@ vibração e calor — cada passo de Mário na floresta foi um alerta.
 - 🌱 **"Kate"**: Primeiro nome. Primeiro fio de confiança entre eles.
 - 🌱 **Dívida de sangue com Devour**: Kate matou um filho dele na clareira
   (cap. 0) e ele sabe (plantas-espia). Kate não nega. Conta registrada em
-  aberto — paira sobre a prisão dela (caps. 19-20).
+  aberto — paira sobre a prisão dela (caps. 19 - 20).
 
 ## Conexões
 

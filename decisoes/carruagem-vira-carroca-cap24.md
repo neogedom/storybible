@@ -1,7 +1,7 @@
 ---
 type: Decision
 title: A carruagem do comboio vira a carroça do cap. 24 (degradação pelo incêndio)
-description: O veículo que trouxe Dagmar da Metrópole ao castelo de Devour (caps. 17-19) é o mesmo que reaparece degradado como carroça na marcha ao norte (cap. 24) — capota queimada, roda empenada, lona chamuscada. Mira viaja na mula porque a carroça leva a carga e a roda empenada a torna imprópria para um recém-nascido. Decisão do autor (2026-09-18).
+description: O veículo que trouxe Dagmar da Metrópole ao castelo de Devour (caps. 17 - 19) é o mesmo que reaparece degradado como carroça na marcha ao norte (cap. 24) — capota queimada, roda empenada, lona chamuscada. Mira viaja na mula porque a carroça leva a carga e a roda empenada a torna imprópria para um recém-nascido. Decisão do autor (2026-09-18).
 tags: [decisao, L1, cap-17, cap-19, cap-22, cap-24, carruagem, carroca, nolan, dagmar, mira, saboc]
 timestamp: 2026-09-18T00:00:00-03:00
 ---
@@ -17,7 +17,7 @@ Saboc no colo?
 
 ## O que o texto diz (verificado)
 
-- **Caps. 17-19**: o comboio sai da Metrópole com **carruagem** — Dagmar
+- **Caps. 17 - 19**: o comboio sai da Metrópole com **carruagem** — Dagmar
   dentro, mãos sobre o ventre (cap. 17); cocheiro contratado na última hora;
   escolta de Mathias e dois Espadas da Lei. A viagem ao castelo dura **seis
   dias**, "o suficiente para os cavalos beberem água e Dagmar esticar as
@@ -40,7 +40,7 @@ Saboc no colo?
 2. **Mira fica na mula** durante a marcha ao norte — como o texto já está. A
    carroça leva a carga do séquito e a roda empenada a torna imprópria para um
    recém-nascido.
-3. **Mira e Saboc retornam com Nolan à Metrópole** (caps. 28-32) — ver
+3. **Mira e Saboc retornam com Nolan à Metrópole** (caps. 28-33 — **SUPERADO**: Nolan nao retorna; ver `decisoes/jornada-nolan-acre-2026-10-03.md`) — ver
    `decisoes/nolan-retorna-metropole-juleen-rampillas.md`.
 
 ## Implicações

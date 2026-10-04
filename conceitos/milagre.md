@@ -64,11 +64,11 @@ ressurreição é um **atributo em ato**, não resposta a fórmula.
   pede, cala quando ele pede).
 - **Cessacionismo preservado:** milagre não é fé como superpoder — o poder
   nunca é "dele" para operar. Ele recebe (cap. 23, sem pedir) e depois tenta
-  **produzir** (caps. 25-26): a cura por ato de vontade funciona — o milagre
+  **produzir** (caps. 25 - 26): a cura por ato de vontade funciona — o milagre
   não o confirma; expõe a fissura. A comunhão é o que se perdeu; o poder não
   se perde porque nunca foi dele. O custo não é um milagre que falha — é o
   preço que a fama cobra no mundo (cap. 26).
-- O contraste cap. 23 / caps. 25-26 é o fio teológico do arco: receber vs.
+- O contraste cap. 23 / caps. 25 - 26 é o fio teológico do arco: receber vs.
   produzir, graça vs. esforço, ocasião vs. ausência.
 
 ### A cura intencional do cap. 25 (canon 2026-08-28)
@@ -209,7 +209,7 @@ resultado é devido. Aqui, o custo **não compra** o milagre e o milagre
 1. **Milagre vira sistema com regras** → cada milagre tem forma, hiato e
    custo diferentes; nunca repetir a mecânica.
 2. **Kate arquiva como "poder" e a história valida** → nos Jogos (caps.
-   21-35), a instrumentalização de Kate **frustra**: os milagres que ela
+   21 - 36), a instrumentalização de Kate **frustra**: os milagres que ela
    tenta disparar não disparam sob comando, ou custam mais do que ela quer
    pagar, ou acontecem para quem ela nunca escolheria. Manter o vão entre o
    que ela vê ("poder") e o que é ("presença").

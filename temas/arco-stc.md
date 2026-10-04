@@ -44,21 +44,21 @@ A tensão cresce até o ponto de ruptura.
 
 ## Break Into 2 (~42-45%)
 
-**Capítulos 19-20**
+**Capítulos 19 - 20**
 
 Mário ressuscita Saboc. Kate escolhe Mário. Nolan muda objetivo. Dagmar morre.
 O mundo de Mário vira de cabeça para baixo — não há como voltar.
 
 ## Jogos e Diversão (~45-68%)
 
-**Capítulos 21-35**
+**Capítulos 21 - 36**
 
 Milagres públicos; evangelização; jornada para a Mina de Quartzo; bola quicando
 entre os três PoVs. Mário prega sem submissão; Kate manipula; Nolan persegue.
 
 ## Ponto Central (~68%)
 
-**Capítulo 35**
+**Capítulo 36**
 
 Tomada da Mina. Falsa vitória para Mário: os escravos vencem por massacre, o
 lorde é executado em praça, e a Mina **cai enterrada** (implosão alavriana).
@@ -116,8 +116,8 @@ Coroação feia. Pacto de Nolan com Terbs.
 | 4-18     | Debate                     | —                      | ✅ Escrito    |
 | 19-20    | Break Into 2               | Nolan (19) + Kate (20) | ✅ Escrito    |
 | 21-29    | Jogos                      | —                      | ✅ Escrito    |
-| 30-34    | Jogos (restante)           | —                      | 📝 A escrever |
-| 35       | Midpoint (Ponto Central)   | Mário                  | 📝 A escrever |
-| 36       | Pós-Mina (a leitura da ruína) | Nolan               | 📝 A escrever |
+| 30-35    | Jogos (restante)           | —                      | 📝 A escrever |
+| 36       | Midpoint (Ponto Central)   | Mário                  | 📝 A escrever |
+| 37       | Pós-Mina (a leitura da ruína) | Nolan               | 📝 A escrever |
 
 _Atualizado a cada INGEST de capítulo._

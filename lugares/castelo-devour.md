@@ -46,7 +46,7 @@ Fortaleza híbrida, dois anéis:
 
 ## Significado na Trama
 
-- Mário e Kate estão presos nos calabouços (caps. 18-20)
+- Mário e Kate estão presos nos calabouços (caps. 18 - 20)
 - Devour governa de seu trono no salão principal
 - Nolan chega ao castelo no cap. 19 para reivindicar o Estrangeiro
 - Palco do confronto entre Nolan e Devour

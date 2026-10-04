@@ -199,7 +199,7 @@ são as premissas.
 - **Dá um tapa em Dagmar** — reflexo, não planejado.
 - Não pede desculpas. Vergonha presa na garganta.
 
-### Capítulos 19-20 — A Morte de Dagmar
+### Capítulos 19 - 20 — A Morte de Dagmar
 
 - **Cap. 19**: chega ao castelo de Devour, negocia com Devour, vê Mário na
   cela (um paciente, não um monstro). Dagmar entra em trabalho de parto; o
@@ -243,7 +243,7 @@ fechada pelo autor para que Nolan não "vire" cedo contra Vonos.
    Mário. Nolan ainda crê que querem o mesmo que ele (provar a farsa); no
    máximo quer chegar primeiro, para usar a exposição pública do farsante
    contra os boatos do Sinal falhado.
-4. **Caps. 19-20 — depois de Saboc.** O milagre derruba a moldura privada: o
+4. **Caps. 19 - 20 — depois de Saboc.** O milagre derruba a moldura privada: o
    Estrangeiro é real. Nolan liga o interesse da Ordem ao poder de Mário — mas
    ainda supõe que eles **não vetariam** sua custódia (mesma fé; e a custódia
    é dele por selo e posição).

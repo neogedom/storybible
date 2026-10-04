@@ -1,7 +1,7 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 28
+capitulo: 27
 titulo: "Não Apodreceu"
 pov: Kate
 beat_stc: Jogos e Diversão
@@ -101,4 +101,4 @@ Os três que sobram param. Kate grita a rota, corre alta deixando rastro de sang
 
 - **Desvios do bloco do esquema**: (a) o capítulo NÃO termina no escriba — termina em Kate, com as palavras do trono (o escriba fala antes do fecho); (b) o beat "não é fardo" ficou na caverna (ela nota que ele deduz sozinho) e o "se jogou no chão" é narrado sem ela ver; (c) a novidade tática é o motivo da perseguição — "Ela não apodrece. Precisamos enquadrá-la." — somado às frases da Ordem sobre o trono.
 - **Checagem de fronteira**: cap. 27 fecha com as vozes do cerco morrendo uma a uma; o cap. 28 abre exatamente nesse som. Continuidade confirmada nas duas pontas.
-- **Checkpoint de beat (passo 7)**: bloco Jogos e Diversão (caps. 21-28) = 8 capítulos sem checkpoint registrado → oferecido ao autor (Arquiteto de Densidade leve + anti-slop em lote + passe de fechos).
+- **Checkpoint de beat (passo 7)**: bloco Jogos e Diversão (caps. 21 - 28) = 8 capítulos sem checkpoint registrado → oferecido ao autor (Arquiteto de Densidade leve + anti-slop em lote + passe de fechos).

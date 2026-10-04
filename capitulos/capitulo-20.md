@@ -180,7 +180,7 @@ Mas vai usar.
 ## Sementes Plantadas
 
 1. **Kate vê Mário como arma**: "Se levasse, virava arma" — muda a dinâmica
-   Kate/Mário para todo o Jogos e Diversão (caps. 21-35). Kate será a
+   Kate/Mário para todo o Jogos e Diversão (caps. 21 - 35). Kate será a
    estrategista que usa o milagre como estopim.
 2. **Lakand afastado**: "eu perdi" no olhar — semente do distanciamento
    que culmina na aliança dele com Benjamim no L2.

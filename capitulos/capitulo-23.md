@@ -63,7 +63,7 @@ Mário não come. Não ora. Fica sentado perto das crianças, as mãos paradas, 
 ### Lakand
 
 - Caminha à frente, deslocado de Kate
-- **Primeira fala pós-endurecimento** (caps. 20-21 = fera silenciosa): "O que ele está fazendo?" / "Ele... curou? Com magia?" — falas curtas, funcionais, de testemunha
+- **Primeira fala pós-endurecimento** (caps. 20 - 21 = fera silenciosa): "O que ele está fazendo?" / "Ele... curou? Com magia?" — falas curtas, funcionais, de testemunha
 - Frame de magia/feitçaria, não milagre — não viu a ressurreição de Saboc
 - Aceita a carne que Mário recusa, sem comentário
 

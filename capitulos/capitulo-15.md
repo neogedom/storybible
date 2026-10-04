@@ -4,7 +4,7 @@ title: "Capítulo 15 — O Encontro"
 description: "Kate vigia os nômades. Mário surge na clareira. Um uivo de guerra anuncia o ataque."
 pov: [Kate]
 stc-beat: "Debate / Catalisador (~45-47%)"
-timeline: "Noite — mesmo período dos caps. 13-14"
+timeline: "Noite — mesmo período dos caps. 13 - 14"
 tags: [L1, kate, nomades, mario, encontro, ataque]
 timestamp: 2026-07-25T12:00:00-03:00
 ---

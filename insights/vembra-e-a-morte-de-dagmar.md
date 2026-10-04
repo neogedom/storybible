@@ -25,7 +25,7 @@ timestamp: 2026-09-25T12:00:00-03:00
 ## O que fica guardado (não perder)
 
 - Os plantios 1-2 estão no texto e permanecem (chá no cap. 4; morte no cap. 19).
-- A **misatribuição** de Nolan (humanos — semente #6) e a **cronologia do ódio** (caps. 19-26) seguem canônicas; o pagamento é que fica adiado.
+- A **misatribuição** de Nolan (humanos — semente #6) e a **cronologia do ódio** (caps. 19 - 26) seguem canônicas; o pagamento é que fica adiado.
 - O **mandante** (Terbs via Benjamim) e o **alvo** (a linhagem Guenayer × Addorbek) — decididos em 2026-09-19 — não mudam.
 
 ## Resolvido (2026-10-03)

@@ -112,7 +112,7 @@ A acusação cresce em degraus naturais de rumor, cada um ancorado em canon:
 |---|---|---|
 | 1 | "É um feiticeiro" | Medo do desconhecido (a cura como categoria nova) |
 | 2 | "Não é aquele por quem o Rei prometeu recompensa?" | A **Recompensa Maior** de Genocydo (cap. 4, Koda) |
-| 3 | "É quem queimou Saramant. Queimaram de propósito." | O incêndio de Devour/Saramant (caps. 21-22) — **ironia dramática**: o leitor sabe que foi acidental (decisão 2026-08-03), os boatos atribuem a Mário e aos companheiros |
+| 3 | "É quem queimou Saramant. Queimaram de propósito." | O incêndio de Devour/Saramant (caps. 21 - 22) — **ironia dramática**: o leitor sabe que foi acidental (decisão 2026-08-03), os boatos atribuem a Mário e aos companheiros |
 | 4 | **Divisão da multidão** (ver abaixo) | A ambiguidade canônica do Souhma |
 
 ### A divisão da multidão (degrau 4)

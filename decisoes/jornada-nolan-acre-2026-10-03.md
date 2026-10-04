@@ -1,7 +1,7 @@
 ---
 type: Decision
 title: A jornada de Nolan sobe — a reestruturação do bloco da Mina (2026-10-03)
-description: Nolan não volta à Metrópole; ele sobe atrás do Estrangeiro, chega à Mina pela borda, compra informação e tenta o convencimento em cena. O cap. 29 é cortado (30→29 e seguintes). A descoberta da vembra passa para a volta; o enforcamento de Juleen vai para o bloco final.
+description: Nolan não volta à Metrópole; ele sobe atrás do Estrangeiro, chega à Mina pelo Espinhaço, compra informação e tenta o convencimento em cena. O cap. 29 é cortado (30→29 e seguintes). A descoberta da vembra passa para a volta; o enforcamento de Juleen vai para o bloco final.
 tags: [decisao, nolan, L1, mina, uorier, cidadela-de-gus, reestruturacao, numeracao]
 timestamp: 2026-10-03T20:00:00-03:00
 ---
@@ -77,11 +77,11 @@ mesmo escreveu ao Rei. Ele o tira da parede e o guarda no bolso de dentro.
 > pelo bolso do mercenário do machado"). O plant do cap. 26 permanece: Kate
 > reconhece, no cap. 28, o corte que ela mesma abriu entre as costelas.
 
-## 7. As seis vão na frente — e o cap. 33 é o dia em que Nolan fica cego
+## 7. As seis vão na frente — e o cap. 34 é o dia em que Nolan fica cego
 
 Ele manda **seis criaturas** na frente (elas não comem, não dormem e não
 precisam de estrada; a carroça precisa) e segue com quatro. As seis alcançam
-o grupo no **cap. 33** — é o batismo de sangue da Kate
+o grupo no **cap. 34** — é o batismo de sangue da Kate
 (`insights/recrutamento-da-kate.md`).
 
 **Consequência estrutural:** no instante em que Kate mata as criaturas, Nolan
@@ -101,7 +101,7 @@ transforma a última perna dele em compra de gente.
 - **É o estopim.** Depois da cabeça do lorde no chão, ninguém pode voltar
   atrás: quem assistiu virou cúmplice.
 - **E é a segunda vez que a brasa sobe na Kate.** A primeira foi a faca no
-  rampilla (cap. 33). Execução pública é ritual de guerra — exatamente o que
+  rampilla (cap. 34). Execução pública é ritual de guerra — exatamente o que
   a Hícse alimenta. Somático, sem voz, e ela não sabe.
 
 ## 9. A implosão é alavriana — e o motim é a porta deles
@@ -211,7 +211,7 @@ do Caixão de Mário — e a água no calabouço vem depois, com causa (§12).
 | 29 | — | — | **CORTADO** (a bacia de pedra) |
 | 30 | **29** | Mário | Moribundos |
 | 31 | **30** | Kate | Os odres, o Inquiridor da cicatriz, Gaviorn'l, o reencontro |
-| 32 | **31** | **Nolan** | **A Mina como lugar** — a borda, a cegueira na pedra, o suborno, o lorde, a dívida (novo) |
+| 32 | **31** | **Nolan** | **A Mina como lugar** — o Espinhaço, a cegueira na pedra, o suborno, o lorde, a dívida (novo) |
 | 33 | **32** | Mário | O assentamento, o batismo, "Javé", a decisão da Mina |
 | 34 | **33** | Kate | O combate dos rampillas, a brasa, o Lakand |
 | 35 | **34** | Mário | A marcha, a tempestade de quartzo, Etemenanki |
@@ -239,9 +239,13 @@ O corte elimina a única repetição do bloco (28-29 antigos, ambos Nolan).
 
 ## 16. Pendências
 
-- **A geografia da subida:** por onde Nolan passa para chegar à Mina **sem
-  cruzar com o grupo na estrada** (ele vai pelo mato, fora da estrada — a
-  "borda") e **sem atravessar os Moribundos**.
+- **A geografia da subida — RESOLVIDA (2026-10-03).** Ver
+  `lugares/subida-da-mina.md`. Nolan sobe pelo **Espinhaço** (a parede de
+  pedra a oeste), a linha de fora: pedra nua, sem água e **sem raiz — o canal
+  do Ossan não abre ali**. A estrada contorna os Moribundos (por isso o grupo,
+  que vinha pelo mato, caiu dentro do campo); o grupo vai pelo mato; e o
+  carreador da bacia é traço no chão, não estrada. ⚠️ Nolan **não vê** o
+  grupo atravessar o campo (decisão do autor).
 - **O corpo do Uorier e o livro de dívidas:** quem fica com o livro, e o que
   ele vale no L2.
 - **Posição e conteúdo dos capítulos do bloco da Cidadela de Gus.**

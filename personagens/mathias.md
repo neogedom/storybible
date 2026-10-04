@@ -59,7 +59,7 @@ Devour.
 - Salva Nolan e Saboc do incêndio usando contra-fogo + escudo de calor
 - Leva o bebê ao colo de Nolan; Saboc sobrevive (ama de leite)
 
-### Capítulo 31 — A Volta (decisão 2026-09-12)
+### Capítulo 32 — A Volta (decisão 2026-09-12)
 
 - Reaparece na **Metrópole**, de volta da missão de mensageiro (as cartas do
   cap. 24). Volta a servir Nolan no centro do poder.

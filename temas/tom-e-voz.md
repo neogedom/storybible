@@ -72,7 +72,7 @@ timestamp: 2026-09-13T12:00:00-03:00
   sem ensaios/análise política/stand-up. Fala curta mesmo quando falante.
 - Emoção explicada é RARÍSSIMA: o "Eu quero ser gente" (cap. 13) é a única
   confissão de interioridade do L1 — âncora trágica do L2.
-- Endurecimento gradual pós-massacre; caps. 20-21 = fera silenciosa.
+- Endurecimento gradual pós-massacre; caps. 20 - 21 = fera silenciosa.
 
 ### Gornads (política por casta)
 

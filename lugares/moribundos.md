@@ -10,8 +10,9 @@ timestamp: 2026-10-02T21:30:00-03:00
 # Os Moribundos
 
 > Território na subida para a Mina, além da bacia de pedra. A criatura
-> fantástica do checklist do L1, executada no cap. 29. Prosa: `Livro 1/capitulo30.md`;
-> ingest: `capitulos/capitulo-29.md`.
+> fantástica do checklist do L1, executada no cap. 29. Prosa:
+> `Livro 1/capitulo29.md`; ingest: `capitulos/capitulo-29.md`. Posição no
+> mapa: `lugares/subida-da-mina.md`.
 
 ## O que é
 

@@ -77,6 +77,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Gondor](lugares/gondor.md) — Império estrangeiro que dominou o Reino no Interregno; era de ouro dos vampiros; Guerra do Grifo.
 - [Rifte](lugares/rifte.md) — Reino vizinho; abriga o Templo de Vonos, sede da Ordem dos Inquiridores do Sinal.
 - [Os Moribundos](lugares/moribundos.md) — Campo de batalha da Guerra Milenar virado cicatriz; ecos presos em loop, que reagem à luta que se prepara.
+- [A Subida](lugares/subida-da-mina.md) — O vale da estrada da Mina: a estrada, o mato e o Espinhaço; a bacia de pedra e o carreador que só quem sabe acha.
 
 ## Conceitos
 

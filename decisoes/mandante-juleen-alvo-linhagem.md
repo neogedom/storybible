@@ -9,7 +9,7 @@ timestamp: 2026-09-19T00:00:00-03:00
 # O mandante de Juleen — o alvo era a linhagem
 
 Decisão do autor (2026-09-19). Fechado para o L1 **sem resposta explícita em
-cena**: o leitor fica com a fala-plant do cap. 31 e nada mais.
+cena**: o leitor fica com a fala-plant do cap. 32 e nada mais.
 
 ## O que fica decidido
 
@@ -27,13 +27,13 @@ cena**: o leitor fica com a fala-plant do cap. 31 e nada mais.
    **já está dentro** (a aia). Benjamim não precisava "querer" Nolan: Nolan
    quebrado é colheita posterior, não encomenda. Nolan só se torna pedra no
    sapato de Terbs **depois** (quando tenta dissuadir o Rei da apoteose).
-5. **A injustiça de Nolan no cap. 31 é o julgamento negado**, não a morte.
+5. **A injustiça de Nolan no cap. 32 é o julgamento negado**, não a morte.
    Juleen matou por paga; a resposta de Nolan não é justiça, é preconceito:
    ele não a reconhece como gente a quem se deve processo ("gente como você
    não merece um julgamento"). Puro desprezo de classe — a mesma cegueira que
    o fez não ver a aia.
 
-## A fala-plant do cap. 31 (aprovada)
+## A fala-plant do cap. 32 (aprovada)
 
 > — Primeiro me pediram só notícia. Depois pediram o resto.
 
@@ -70,6 +70,6 @@ cena**: o leitor fica com a fala-plant do cap. 31 e nada mais.
 
 - `temas/sementes.md` (#6 — plantios 5 e a nota do alvo linhagem)
 - `personagens/juleen.md`, `personagens/dagmar.md`
-- `decisoes/nolan-retorna-metropole-juleen-rampillas.md` (cena do cap. 31)
-- `temas/esquema-l1.md` (bloco do cap. 31)
+- `decisoes/nolan-retorna-metropole-juleen-rampillas.md` (cena do cap. 32)
+- `temas/esquema-l1.md` (bloco do cap. 32)
 - `log.md`

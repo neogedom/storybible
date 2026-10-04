@@ -27,7 +27,7 @@ palavra não carrega a quebra de categoria que o milagre demonstrou.
   oração ditada pela Voz em ornickenho — glossolalia invertida). Mário se
   lembra de ter orado (decisão glossolalia); o nome está na memória dele.
 - **"Javé" permanece reservado** para o cap. 30 (primeiro batismo, novo
-  Sinai — canon 2026-08-10). Caps. 21-30 não usam.
+  Sinai — canon 2026-08-10). Caps. 21 - 32 não usam.
 
 ## Decisão
 

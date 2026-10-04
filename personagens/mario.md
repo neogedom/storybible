@@ -104,7 +104,7 @@ responsabilidade deles pedia.
   pais e a irmã (Camilla) — no fundo, também os culpa por terem deixado
   Lucas entrar no mundo das drogas.
 - **Função no L1**: a morte de Lucas é a sombra do milagre do bebê (caps.
-  20-21).
+  20 - 21).
 - **Nota de escrita**: backstory ainda não dramatizado — usar com moderação
   (delírios do cap. 21: Lucas entra como eco do rapaz da calçada, o irmão
   que morreu de droga — NUNCA como cena de recusa da Voz; possível confissão
@@ -235,7 +235,7 @@ o torna inescapável.
   (canon 2026-08-16, revisto):** fio 1 (a Voz é real) fecha no cap. 21
   (corpo inteiro); fio 2 (a Voz é Deus) fecha no cap. 21 (identificação
   irada); fio 3 (o sonho é real) fecha no L2 (gravura).
-- **Jogos (caps. 22-26, canon 2026-08-16) — agenda oculta**: Mário prega
+- **Jogos (caps. 22 - 26, canon 2026-08-16) — agenda oculta**: Mário prega
   buscando conversões, mas o motor é provar que os dogmas dele estão certos
   — no limite, que Deus está errado e ele certo, sem verbalizar. A pregação
   é a acusação contra Deus (a inação na morte de Lucas) em forma de
@@ -289,8 +289,8 @@ o torna inescapável.
   **Tae-Tabor morto**. Kate mata o lobisomem que o prendia e o captura.
   Mário afunda na culpa: "foi minha culpa."
 - **Debate (caps. 4-18)**: "Isso é real?" Mário questiona, resiste, aprende.
-- **Break Into 2 (caps. 19-20)**: Mário ressuscita Saboc. Aceita seu papel.
-- **Jogos (caps. 21-26)**: Milagres, evangelização, Mina de Quartzo.
+- **Break Into 2 (caps. 19 - 20)**: Mário ressuscita Saboc. Aceita seu papel.
+- **Jogos (caps. 21 - 26)**: Milagres, evangelização, Mina de Quartzo.
 
 _Atualizado a cada INGEST de capítulo._
 

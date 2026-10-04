@@ -32,7 +32,7 @@ o controle dos rampillas.
 
 ## Papel na História
 
-- **Cap. 21-22**: no caos pós-incêndio, assume o **comando provisório dos
+- **Cap. 21 - 22**: no caos pós-incêndio, assume o **comando provisório dos
   rampillas sobreviventes** (único que sabe operá-los); com a chegada de
   Nolan, **entrega-lhe o comando** via raiz-mestra — cede por
   sobrevivência, não lealdade (dependência mútua: ele é o único que entende
@@ -42,7 +42,7 @@ o controle dos rampillas.
   Nolan olha (`decisoes/jornada-nolan-acre-2026-10-03.md`). Ossan NÃO ensina
   o mecanismo a Nolan (Nolan é leviantar, não xilomago; e a dependência mantém
   a tensão). **Ossan pode filtrar ou sabotar o que Nolan vê** — a bomba-relógio
-  do L2. ⚠️ Quando Kate mata as seis (cap. 33), Nolan **perde os olhos**: o
+  do L2. ⚠️ Quando Kate mata as seis (cap. 34), Nolan **perde os olhos**: o
   resto da jornada dele passa a depender do que se compra.
 - **Semente #13 (a plantar)**: pode revelar o que os rampillas foram — gente
   zumbificada — ecoando o tema da Segregação. A verdade cai como

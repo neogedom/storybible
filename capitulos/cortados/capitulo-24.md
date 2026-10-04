@@ -19,7 +19,7 @@ lugares:
   - Acampamento noturno (clareira protegida)
 conceitos:
   - Milagre replicável (Nolan confirma: Saboc + criança paralítica = padrão)
-  - Carruagem degradada em carroça (decisão 2026-09-18 — a carroça é o que restou do veículo dos caps. 17-19)
+  - Carruagem degradada em carroça (decisão 2026-09-18 — a carroça é o que restou do veículo dos caps. 17 - 19)
   - Vembra (erva abortiva; Mira reconhece o cheiro em Dagmar)
   - Misatribuição preservada (Nolan ainda culpa humanos — "o contato com humanos acelerara seus efeitos")
   - Três cartas (Rei, Koda, Layla) — Nolan opera em múltiplas camadas políticas
@@ -86,11 +86,11 @@ POV Nolan. Nolan alcança o assentamento de refugiados onde Mário curou a crian
 
 ## Sementes e Conexões
 
-- **Semente #6 (vembra)**: Nolan escreve a Layla — investigação do chá de Dagmar fermenta até o cap. 32
+- **Semente #6 (vembra)**: Nolan escreve a Layla — investigação do chá de Dagmar fermenta até o cap. 33
 - **Souhma ancorado**: a velha do assentamento murmura "o Souhma" — Nolan ouve o termo na caçada e o guarda (usado depois na carta a Koda). Nolan sabe a distinção: Souhma é o nome popular ("telefone sem fio") da figura lendária que o Llyfr chama de **Estrangeiro** — o profetizado que os eruditos discutem e o povo espera.
-- **Mentira fundadora**: Nolan decide se apresentar como aliado a Mário — prepara o cap. 32 (aproximação)
+- **Mentira fundadora**: Nolan decide se apresentar como aliado a Mário — prepara o cap. 33 (aproximação)
 - **Mathias na Metrópole**: levou as cartas; pode retornar com informações ou ficar como asset de Nolan no Conselho
 - **Ossan**: pergunta sem resposta — Nolan não confia plenamente; a tensão pode germinar no L2
 - **Conexão cap. 23**: Nolan confirma o que Kate e Mário fizeram no assentamento — a linha do tempo fecha
 - **Conexão cap. 25**: Nolan está a 2-3 dias de distância; Mário está na Feira de Tronk — as linhas convergem
-- **Carruagem → carroça (decisão 2026-09-18)**: o veículo da marcha é o mesmo que trouxe Dagmar da Metrópole (caps. 17-19), degradado pelo incêndio (capota queimada, roda empenada, lona chamuscada). Mira viaja na mula porque a carroça leva a carga e a roda empenada não serve ao recém-nascido — ver `decisoes/carruagem-vira-carroca-cap24.md`. Plant aplicado na prosa (2026-09-18). **Conserto na Feira de Tronk** (carroceiros/forja; cruzamento com a estrada para o sul), de onde sai a viagem de volta à Metrópole
+- **Carruagem → carroça (decisão 2026-09-18)**: o veículo da marcha é o mesmo que trouxe Dagmar da Metrópole (caps. 17 - 19), degradado pelo incêndio (capota queimada, roda empenada, lona chamuscada). Mira viaja na mula porque a carroça leva a carga e a roda empenada não serve ao recém-nascido — ver `decisoes/carruagem-vira-carroca-cap24.md`. Plant aplicado na prosa (2026-09-18). **Conserto na Feira de Tronk** (carroceiros/forja; cruzamento com a estrada para o sul), de onde sai a viagem de volta à Metrópole

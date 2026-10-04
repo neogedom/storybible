@@ -1,7 +1,7 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 27
+capitulo: 26
 titulo: "O Cerco"
 pov: Mário
 beat_stc: Jogos e Diversão

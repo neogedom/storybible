@@ -97,7 +97,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Relação**: interroga Mira; envia Mathias; confia em Ossan por controle (raiz-mestra), não por lealdade
 - **Séquito**: rampillas (~dezena), Mira com Saboc, Mathias montado, Ossan, cocheiro (guia a carroça), dois servos
 
-## Capítulos 25-27 — ausente
+## Capítulos 25 - 27 — ausente
 
 - _Não aparece em cena_ (POVs de Mário e Kate: a feira de Tronk, o cerco, a
   fuga). (Numeração antiga aguardando a varredura.)

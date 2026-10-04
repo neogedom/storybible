@@ -119,14 +119,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 6. Juleen e a Morte de Dagmar
 
-> **Status (2026-09-25): suspensa no texto.** O cap. 24 de Nolan foi cortado e a descoberta da vembra saiu do cap. 28 (parkada em `insights/vembra-e-a-morte-de-dagmar.md`; lugar a definir). Os plantios 3+ e o enforcamento (cap. 31) aguardam a realocação.
+> **Status (2026-09-25): suspensa no texto.** O cap. 24 de Nolan foi cortado e a descoberta da vembra saiu do cap. 28 (parkada em `insights/vembra-e-a-morte-de-dagmar.md`; lugar a definir). Os plantios 3+ e o enforcamento (cap. 32) aguardam a realocação.
 
 - **Plantio**: L1, Cap. 4 — Juleen administra chá de cascas de vembra (abortivo)
 - **Plantio 2**: L1, Cap. 19 — Dagmar morre no parto (causa: o abortivo
   acumulado); o bebê nasce sem ar
 - **Plantio 3**: L1, Cap. 24 — na estrada da caçada, a parteira-ama (conhece ervas) comenta de forma **despretensiosa** o cheiro de vembra na senhora (comentário casual sobre chá de melissa); **é Nolan quem liga os pontos** e escreve a Layla para investigar. NÃO é o "rampilla esperto" (autômatos não falam — ver `conceitos/rampillas.md`). (Correção 2026-08-30: a decisão 08-19 previa cap. 26, mas o cap. 26 é POV Kate — a revelação fica no cap. 24.)
 - **Plantio 4**: L1, bloco final — Nolan descobre, enforca Juleen
-- **Plantio 5 + mandante (canon 2026-09-19)**: L1, Cap. 31 — antes de morrer,
+- **Plantio 5 + mandante (canon 2026-09-19)**: L1, Cap. 32 — antes de morrer,
   Juleen fala: "— Primeiro me pediram só notícia. Depois pediram o resto."
   Plantio do **mandante** (ela foi comprada em duas etapas). Nolan **ouve e
   descarta** (lê como desculpa de condenada); o leitor guarda. Sem nome, sem
@@ -137,22 +137,22 @@ timestamp: 2026-07-24T12:00:00-03:00
   conhecimento) à **Addorbek** (linhagem do primeiro leviantar de fogo; as
   Espadas da Lei). A falha do Sinal reabre o cálculo; Terbs compra pelo canal
   de Benjamim, que compra quem já está dentro (a aia).
-- **A injustiça de Nolan (canon 2026-09-19)**: o erro do cap. 31 não é matar
+- **A injustiça de Nolan (canon 2026-09-19)**: o erro do cap. 32 não é matar
   Juleen — é **negar-lhe julgamento**. Juleen pode pedir julgamento justo
   quando estiver morrendo: a perda da personalidade do homem do método.
 - **Misatribuição inicial (canon 2026-08-16)**: entre o cap. 19 (morte) e a
   pista da vembra (cap. 24), a explicação operativa de Nolan é a ideologia:
   Dagmar morreu pelo contato com humanos na viagem (eco do pai, que
   contraiu doença de prostituta humana — origem da Segregação). A pista de
-  Mira (cap. 23) vira nota privada que fermenta até o cap. 31. Ver cap. 24
+  Mira (cap. 23) vira nota privada que fermenta até o cap. 32. Ver cap. 24
   do esquema.
 - **Ódio racial: cristaliza na MISATRIBUÇÃO, não na verdade (canon
-  2026-08-16)**: é o período da crença falsa (caps. 19-26) que torna o ódio
+  2026-08-16)**: é o período da crença falsa (caps. 19 - 26) que torna o ódio
   racial de Nolan PESSOAL ("agora pessoal" do L2) — os humanos mataram a
   esposa, como o pai. A descoberta no bloco final (Juleen, leviantar de casta
   baixa dos burgos periféricos) NÃO dissolve o ódio: (a) o luto fica sem
   fechamento (solo do ódio — cap. 22); (b) ódio sobrevive à própria
-  justificativa — a cena do cap. 31 deve mostrar o "não foram os humanos"
+  justificativa — a cena do cap. 32 deve mostrar o "não foram os humanos"
   sem abrandar Nolan, apenas redirecionando-o; (c) a classe absorve a raça:
   Juleen é da PERIFERIA (o mesmo espaço de contágio do pai, cidades
   pré-Metrópole), e Nolan já despreza tudo fora do núcleo da Metrópole
@@ -258,7 +258,7 @@ timestamp: 2026-07-24T12:00:00-03:00
   estrutura do panteão (Llyfr, cap. 7). "Eu Sou" é o detalhe de Mathias; o
   que Nolan arquiva é a classe da reivindicação. NÃO confundir com o diário
   de Genocydo (semente #15) — fios distintos; o padrão completo (Kraviam =
-  terráqueo) só fecha no cap. 31+.
+  terráqueo) só fecha no cap. 32+.
 - **Nota**: Texto canônico e justificativa em
   `decisoes/glossolalia-invertida-oracao-cap20.md`.
 
@@ -329,13 +329,13 @@ timestamp: 2026-07-24T12:00:00-03:00
   revela o que os rampillas eram; ou alguém reconhece um rosto num zumbi.
   Kate matou rampillas sem saber (caps. 0 e 20) — a revelação mancha o
   passado dela também.
-- **Agravante (canon 2026-09-21) — cap. 33**: no combate, Kate **matou duas das
+- **Agravante (canon 2026-09-21) — cap. 34**: no combate, Kate **matou duas das
   seis e fez os convertidos executarem a que sobrou** (ver
   `insights/recrutamento-da-kate.md`). Ninguém sabia, ninguém foi avisado, e o
   narrador não avisa. ⚠️ **Quando a revelação cair (L2), o leitor vai lembrar
   disto:** ela ensinou civis a matar gente — e fez disso a lição que os
   alistou. É a segunda mancha do passado dela, e é pior que a primeira.
-  **Não tocar no cap. 33.**
+  **Não tocar no cap. 34.**
 - **Germinação**: L2 — a Inquisição de Nolan com os rampillas como braço
   armado; e/ou a revelação vira condenação pública ou privada.
 - **Risco**: não pregar. A verdade cai como reconhecimento frio, não como
@@ -343,7 +343,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Nota de numeração (corrigida em 2026-09-18)**: a numeração 13-20 já está
   ocupada pelos verbetes deste arquivo; as sementes do esquema ainda sem
   verbete recebem numeração nova, **a partir de #21** (Etemenanki = #21,
-  prevista no cap. 34), quando forem registradas.
+  prevista no cap. 35), quando forem registradas.
 
 ## 14. A Renúncia do Batismo — Declaração de Guerra
 
@@ -354,7 +354,7 @@ timestamp: 2026-07-24T12:00:00-03:00
   **genérica** — ornickenhos não conhecem Marduk; "Limbo" é a palavra deles
   para a terra dos deuses (refinamento 2026-08-10).
 - **Reveal de "Javé" (canon 2026-08-10)**: cap. 30 é a PRIMEIRA aparição do
-  nome próprio no livro (caps. 0-30 usam "Deus"/"Eu Sou"); caps. 21-30 não
+  nome próprio no livro (caps. 0-30 usam "Deus"/"Eu Sou"); caps. 21 - 32 não
   devem usá-lo.
 - **Dupla camada**: declaração de fidelidade a Javé (superfície) + declaração
   de guerra aos deuses falsos de Ornick (pano de fundo; lente de Heiser — os
@@ -371,7 +371,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - **Plantio**: L1, caps. 10 e 14 — Layla rouba o diário de Genocydo; Nolan o
   queria para subverter o Conselho (obtém tardiamente).
-- **Germinação (a definir; sugerido na aliança Nolan-Mário, cap. 31+)**: Nolan
+- **Germinação (a definir; sugerido na aliança Nolan-Mário, cap. 32+)**: Nolan
   entrega o diário a Mário; Mário lê e revela o conteúdo — **Genocydo é
   Kraviam, um terráqueo** (como Mário). Só aí Nolan fecha o padrão de Vonos:
   um terráqueo no trono (Kraviam) → agora outro (Mário). **Esse elo NÃO está
@@ -409,7 +409,7 @@ timestamp: 2026-07-24T12:00:00-03:00
   Kate não nega. Devour registra a conta e não age (calculista — prioriza
   decidir o destino do Souhma).
 - **Estado**: dívida **em aberto** no L1 — paira sobre a prisão de Kate
-  (caps. 19-20). Devour morre no incêndio (cap. 20) antes de cobrá-la.
+  (caps. 19 - 20). Devour morre no incêndio (cap. 20) antes de cobrá-la.
 - **Germinação (L2, a definir)**: a casa d'Tirath tem um sobrevivente —
   **Ossan** (asset de Nolan). Eco potencial: Ossan descobre que Kate matou o
   irmão; tensão entre o herdeiro despojado e a caçadora de Mário. Ou a
@@ -477,7 +477,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Ironia dramática**: o leitor do L1 (e depois o do L2) já sabe o que "o
   trono" significa antes de Kate; ela guarda uma sentença sobre o próprio
   aliado sem ler o que guardou.
-- **Germinação**: L1, caps. 31+ (a Ordem age com base na certeza de que o
+- **Germinação**: L1, caps. 32+ (a Ordem age com base na certeza de que o
   Estrangeiro é coroável) e L2 — fecha com o **diário de Genocydo** (#15):
   as duas instituições, de lados opostos, dizem a mesma coisa sobre Mário sem
   que ele saiba.
@@ -532,7 +532,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Plantio executado**: cap. 27 — "A água tinha acabado naquela manhã. Kate
   sacudiu o cantil e o virou de cabeça para baixo. Não caiu nada." A água
   acabou **dentro** do refúgio, e a bacia onde ela estava era a isca.
-- **Plantio a executar (caps. 29-35)**: a conta na página ("dois cantis, três
+- **Plantio a executar (caps. 29 - 37)**: a conta na página ("dois cantis, três
   bocas"); um dente por capítulo de marcha; uma perda por aparição, nunca a
   mesma mecânica.
 - **Vetor do Lakand**: ele bebe o dobro (a transmorfia queima mais) e fica
@@ -563,6 +563,22 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Risco**: virar cena de exposição sociológica. Se o leitor não ouvir **duas
   ou três frases tortas concretas**, o fio não conta.
 
+### Executado (2026-10-03) — cap. 31 "Uma Noite"
+
+- **A água cobra mesmo destilada** — "sai cristalina e cobra igual". O que o
+  **Mário** perde: **a família inteira, nomes e imagens** (Lucas, Camilla, os
+  pais). Mantém os fatos, a culpa, a língua e os lugares. O arquivo fica, as
+  fotos somem — ele sabe que falhou com alguém e não vê quem.
+- **O que o Lakand perde:** a lembrança da travessia (a obediência e o golpe).
+  Fica com a cicatriz **sem história** — desconfia do Mário sem saber por quê.
+- **Como aparece na página:** o som de aço em horas erradas (três frases
+  tortas) e, no fecho, **uma oração sem nome nenhum**. Nada de inventário.
+- **A descoberta é depois:** Noite Escura (a oração que não completa, sem
+  rostos) e L2 (alguém pergunta e ele não nomeia a família).
+- **O que fecha o fio no L2:** a Hoste se alimenta das memórias cobradas — e
+  **pode devolvê-las**. O recrutamento de Lakand chega com a memória dele na
+  mão: o que os dois poderiam ter sido.
+
 ## 24. A Origem Revelada ao Lakand — "De onde você veio"
 
 - **O que é**: no capítulo do salvamento (fio do Mário), **o Mário usa o
@@ -584,5 +600,17 @@ timestamp: 2026-07-24T12:00:00-03:00
   reconhecer o caminho). Resposta curta (outro lugar, outro mundo) e o
   Lakand: **"Eu sabia."** Decisões junto: **daërunmeges não regeneram**; a
   crise fecha em **uma noite**.
+
+### Executado (2026-10-03) — cap. 31 "Uma Noite"
+
+- **O motor:** a pergunta nasce da **necessidade de conversa** — Mário precisa
+  manter o Lakand humano **falando** enquanto tira a carne podre. Não é
+  confissão enxertada: é o instrumento de trabalho.
+- **A terceira ancoragem (nova):** o **cheiro** — no cap. 13 o Decian diz do
+  Mário *"O cheiro dele não é daqui. É liso. Artificial."*, e o **cheiro é o
+  sentido do Lakand**, que perdeu parte do nariz em Saramant. Ele sentiu a
+  mesma coisa e não teve nariz para confirmar.
+- **A Kate está fora** (lenha e reconhecimento do caminho) — canon mantido.
+- **Fecho:** a revelação → e o preço da água por cima, sem que ninguém entenda.
 
 _Atualizar a cada INGEST de capítulo._

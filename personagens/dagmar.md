@@ -31,7 +31,7 @@ calcula variáveis geopolíticas, Dagmar está ali, silenciosa, gestante,
 morrendo aos poucos dentro da carruagem.
 
 > **Nota de continuidade (decisão 2026-09-18):** a carruagem que a trouxe da
-> Metrópole (caps. 17-19) é o **mesmo veículo** que sai degradado como carroça
+> Metrópole (caps. 17 - 19) é o **mesmo veículo** que sai degradado como carroça
 > na marcha ao norte (cap. 24), levando Saboc. O carro que a transportou viva
 > sai de Saramant em ruínas, com o filho dela dentro.
 

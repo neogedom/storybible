@@ -67,7 +67,7 @@ timestamp: 2026-09-20T12:00:00-03:00
   uma água em dois dias de subida"; foi ele quem mostrou a água aos
   caçadores. Quem sobe,
   **carrega**.
-- **A água da bacia (caps. 26-27) está perdida — por motivo físico, não por
+- **A água da bacia (caps. 26 - 27) está perdida — por motivo físico, não por
   medo.** Uns oito ou nove mortos **na beira da água**, largados sem sepulto
   (cap. 28, na boca do carroceiro: "Ficaram jogados perto da água. Deixei
   lá."). Voltar à bacia não é enfrentar Inquiridores: é beber de uma cova.
@@ -314,5 +314,5 @@ Variantes disponíveis:
 - [Lakand](/personagens/lakand.md) — bebe o dobro
 - [Kate](/personagens/kate.md) — batedora; a água no reencontro
 - [Milagre](/conceitos/milagre.md) — por que a água não vem de bênção
-- [Esquema do L1](/temas/esquema-l1.md) — caps. 29-35
+- [Esquema do L1](/temas/esquema-l1.md) — caps. 29 - 37
 - [Sementes](/temas/sementes.md) — #22 e #23

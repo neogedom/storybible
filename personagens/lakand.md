@@ -41,8 +41,8 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 - **Emoção explicada é RARÍSSIMA**: o monólogo "Eu quero ser gente" (cap. 13)
   é a ÚNICA confissão de interioridade do L1 — e é a âncora trágica do L2
   (o homem que queria ser "gente" vira recrutador da Hoste de Hícse).
-- **Endurecimento gradual pós-massacre** (cap. 16, Tae-Tabor; caps. 18-20):
-  a fala diminui; caps. 20-21 = fera silenciosa (já escrito assim).
+- **Endurecimento gradual pós-massacre** (cap. 16, Tae-Tabor; caps. 18 - 20):
+  a fala diminui; caps. 20 - 21 = fera silenciosa (já escrito assim).
 - **Primeira fala pós-endurecimento (canon 2026-08-22 — cap. 23):** "O que
   ele está fazendo?" / "Ele... curou? Com magia?" — falas curtas, funcionais,
   de testemunha da cura da criança paralítica. Não quebra o endurecimento

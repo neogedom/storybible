@@ -31,7 +31,7 @@ O pool é matéria-prima; a chamada é outra coisa.
 
 ### O pool (de onde vem o povo — tudo canon)
 
-1. **Os convertidos que ficaram pelo caminho** (caps. 26-27): gente que já
+1. **Os convertidos que ficaram pelo caminho** (caps. 26 - 27): gente que já
    acreditou e voltou para uma dívida que continua de pé.
 2. **Os refugiados dos assentamentos** — mas **não a multidão**: eles já vêm
    reunidos pela pregação, e o que ela faz ali é **escolher**.
@@ -60,7 +60,7 @@ do público dele, e é de propósito.
 ### A ordem que importa (e o erro a evitar)
 
 - ⚠️ **Ela não recruta os escravos da Mina — ela os liberta.** E ali a
-  libertação **é** o recrutamento. Quem sobe no cap. 35 não é dela: é deles, e
+  libertação **é** o recrutamento. Quem sobe no cap. 36 não é dela: é deles, e
   ela não os conhece.
 - **O exército dela não nasce na Mina — nasce depois, em Gus.** Antes disso ela
   tem **nomes e rostos**, não tropa.
@@ -88,7 +88,7 @@ acorda a coisa.** Ver `conceitos/hicse.md` ("Depois da soltura").
   de sangue de Kate") com uma razão melhor que o abalo: **o selo rompido, e
   depois o sangue.**
 
-## O batismo de sangue (cap. 33) — a ideia do autor, 2026-09-21
+## O batismo de sangue (cap. 34) — a ideia do autor, 2026-09-21
 
 **As seis rampillas alcançam o grupo, e Kate vence na frente dos convertidos.**
 Isso paga uma dívida aberta: as seis estão soltas desde o cap. 28, seguindo o
@@ -144,7 +144,7 @@ leitor não acreditaria.
 - **O que ela faz é não mandar embora.** É o gesto inteiro: a Kate que não tem
   pena **não expulsa** quem se junta a ela. Quem vai atrás é quem a estrada já
   quebrou — a família de um devedor levado, um convertido perdido (caps.
-  26-27), um que voltou quebrado da caçada à recompensa. Ela não os chama e não
+  26 - 27), um que voltou quebrado da caçada à recompensa. Ela não os chama e não
   os acolhe: ela **não os manda embora** e continua andando.
 - **E o treino começa como vazamento de hábito, não como aula.** Ela corrige a
   mão de quem segura a faca para cortar pão. Mostra onde pisar para não deixar
@@ -157,13 +157,13 @@ leitor não acreditaria.
 - **A réplica dela:** *"Eu não ensinei nada. Eles só andaram comigo."* É
   verdade, é esquiva, e é a resposta mais dela que existe.
 - **Um dos que ela junta é o rosto guardado na coluna** (o homem marcado) — o
-  que começa o motim no cap. 35.
+  que começa o motim no cap. 36.
 - ⚠️ **Não fazer dela uma mãe-de-tropa.** Ela não consola, não explica, não
   promete. Ela anda e não manda embora. A diferença entre as duas coisas é o
   personagem inteiro.
 - ⚠️ **A sequência fica:** estrada = **companhia** (cap. 30) → reencontro e a
   objeção → **treino de verdade**, público e autorizado, no assentamento e na
-  marcha (caps. 32-35).
+  marcha (caps. 32 - 35).
 
 ## Como ela treina
 
@@ -214,8 +214,8 @@ leitor não acreditaria.
 
 ### Onde e quando
 
-- **Onde:** no **assentamento** (cap. 32 — o poço, o acampamento) e em **cada
-  parada da marcha** (cap. 34). O chão é terra batida e o material é a estrada.
+- **Onde:** no **assentamento** (cap. 33 — o poço, o acampamento) e em **cada
+  parada da marcha** (cap. 35). O chão é terra batida e o material é a estrada.
 - **Quando:** de **madrugada**, antes de levantar acampamento — a hora que
   ninguém quer e, por isso mesmo, a hora em que todos estão vendo.
 - **A justificativa é real:** eles estão sendo caçados (as seis rampillas, os
@@ -231,7 +231,7 @@ leitor não acreditaria.
   justamente para ser visto; o que ele **lê errado** não é o exercício, é **o
   que a própria objeção dele produz**.
 - **A venda nos olhos dele não é sobre a espada — é sobre a vitória dele.** Ele
-  acha que respondeu ao treino superando-o. É o mesmo erro do cap. 32: julgar a
+  acha que respondeu ao treino superando-o. É o mesmo erro do cap. 33: julgar a
   coisa pela superfície, e não por quem a plantou.
 - **A lâmina, na imagem:** ele vê as **crianças pulando entre os quadrinhos
   riscados na terra** e sorri. O leitor reconhece o pátio de pedra do cap. 6.
@@ -271,7 +271,7 @@ seria fora de personagem, e o leitor pegaria.
 ### Quem vê
 
 - **O Lakand.** É ele quem enxerga o que o treino é, e **não diz nada ali** —
-  guarda para o cap. 33 (o *"você está repetindo o erro deles"*).
+  guarda para o cap. 34 (o *"você está repetindo o erro deles"*).
 - **A triangulação da cena é o grupo inteiro num quadro só:** o Mário olha e
   aprova; a Kate constrói; o Lakand assiste e cala.
 
@@ -279,7 +279,7 @@ seria fora de personagem, e o leitor pegaria.
 
 - Ela está **reproduzindo o que fizeram dela**. O gesto que a construiu como
   arma é o mesmo que ela ensina. Isso não entra como fala dela — entra pelo
-  Lakand, mais tarde (o "você está repetindo o erro deles" do cap. 33), e pelo
+  Lakand, mais tarde (o "você está repetindo o erro deles" do cap. 34), e pelo
   leitor, que reconhece os quadrinhos no chão.
 - ⚠️ **Sem veredito na página.** Ninguém diz que ela está errada; o leitor vê
   os riscos no chão e decide.
@@ -293,7 +293,7 @@ seria fora de personagem, e o leitor pegaria.
    pessoas. É intel de **raider**, não leitura de arquivo (canon: Kate não lê;
    o conhecimento da Mina vem da vivência).
 2. **Guarda um rosto.** Um homem na fila, marcado — ela reconheceria depois.
-   É o plantio de **quem começa o motim lá dentro** (cap. 35), e o que dá cara
+   É o plantio de **quem começa o motim lá dentro** (cap. 36), e o que dá cara
    à carnificina em vez de "os escravos se levantaram".
 
 ## Disciplina de escrita
@@ -302,7 +302,7 @@ seria fora de personagem, e o leitor pegaria.
   gesto**, não de uma rede. Sem "movimento de resistência", sem células, sem
   hierarquia.
 - O recrutamento é **silencioso e negável** — e é isso que o mantém escondido
-  do Mário até o cap. 35.
+  do Mário até o cap. 36.
 - **A ironia a preservar:** o motim da Mina será dela, e o sermão pacifista
   dele morre na frente dele. A pregação foi a porta; a porta é dele.
 

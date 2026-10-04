@@ -206,6 +206,6 @@ e um charlatão morre na aferição. O texto do cap. 7 foi corrigido em
 custódia" foi invertida). O medo de custódia/violação de narrativa é
 **re-temporizado**: só entra quando o Souhma é real — cap. 19 (intimação em
 Devour, surpresa: "por quê os Inquiridores atrás de um impostor?") e caps.
-22–24 (Nolan aceita o real e corre antes dos Inquiridores). A "solução vira
+22 - 24 (Nolan aceita o real e corre antes dos Inquiridores). A "solução vira
 ameaça" se mantém: Nolan burocratiza e confia na ordem no Ato 1; a mesma
 ordem reivindica Mário como ativo do Sinal nos caps. 26+.

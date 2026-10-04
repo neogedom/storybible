@@ -1,5 +1,56 @@
 # Log de Atualizações
 
+## 2026-10-03 (cap. 31 "Uma Noite" — o salvamento; e a varredura de números)
+
+- **Cap. 31 planejado e travado** (decisão do autor): `decisoes/capitulo-31-uma-noite-salvamento.md`
+  + ficha `capitulos/capitulo-31.md`. **O motor:** Mário mantém o Lakand humano
+  **falando** enquanto tira a carne podre — e a pergunta ("De onde você veio")
+  nasce daí. Âncoras: o Decian, o cheiro e o "trouxe de onde?". Resposta curta
+  e **"Eu sabia."**
+- **O preço da água (revisão da semente #23).** Mário perde **a família
+  inteira — nomes e imagens**; mantém os fatos, a culpa, a língua e os lugares.
+  Lakand perde **a lembrança da travessia**. A água **cobra mesmo destilada**.
+  O custo aparece pela **omissão da prosa** (uma oração sem nome), não por
+  inventário. A descoberta vai para a **Noite Escura** e o L2.
+- **Renumeração:** o bloco desloca um — **31 = Mário ("Uma Noite")**; Nolan (a
+  Mina) vira 32 e a Mina/Ponto Central vira 36. **Manuscrito não muda** —
+  nenhum arquivo de prosa passa do 29. Mapa completo em §8 da decisão.
+- **Varredura de números — feita, com estrago consertado.** O script de
+  02/10 não tratava **intervalos** (`caps. 30-35`), e o corpus já vinha com
+  números misturados da varredura pendente de setembro. Correções aplicadas:
+  os intervalos do bloco (`21-35`, `23-31`, `29-37`, `32-35`), a regra do
+  "Javé" (`0-32`/`21-32`), o frontmatter dos ingests 24-27 (estavam +1) e as
+  referências de `visuais/mira.md` e `carruagem-vira-carroca-cap24.md`
+  (marcadas **superadas**). **1307 referências deslocadas.**
+- **Pendência herdada:** a *varredura de referências* de 2026-09-25 continua
+  em aberto fora do bloco da Mina (números 24-28 em notas antigas). Fazer em
+  passe dedicado, antes do congelamento.
+
+## 2026-10-03 (a Subida — a geografia do bloco da Mina)
+
+- **`lugares/subida-da-mina.md` CRIADO** (decisão do autor, mesma data): o vale
+  que sobe de Tronk à pedra da Mina, com **três linhas paralelas** — a estrada
+  (os olhos), o mato (o grupo) e o **Espinhaço** (a linha do Nolan).
+- **Escolhas do autor:** o espinhaço chama-se **Espinhaço**; os Moribundos são
+  **campo aberto** (é o que explica Mário e Lakand caírem lá sem saber); e
+  **Nolan não vê** o grupo atravessar (ver geraria especulação).
+- **A peça causal que faltava:** **a estrada contorna os Moribundos** — carroça,
+  escolta e aço não atravessam um campo que reage à luta que se prepara. O
+  grupo, vindo pelo mato, foi reto e caiu dentro. **Eles pagam por terem saído
+  da estrada** — a estrada oferece uma coisa só: o aviso.
+- **A bacia de pedra não tem estrada — tem carreador.** Canon já na prosa
+  (cap. 26: "dois sulcos finos, quase invisíveis, rota de carroça"). O Mário
+  chega lendo o chão; os mercenários chegam porque o carroceiro vendeu o
+  caminho. A mesma água, dois mercados.
+- **O preço do Espinhaço:** pedra nua, sem água e **sem raiz — o canal do
+  Ossan não abre ali.** Nolan sobe dias sem ver nada de perto.
+- **Vocabulário:** "corredor" não é o vale (a palavra já é passagem fechada de
+  mato, cap. 27); a ficha registra a disciplina.
+- **Referências cruzadas atualizadas:** `index.md` (Lugares),
+  `lugares/moribundos.md` (posição no mapa + caminho da prosa, que ainda
+  apontava para `capitulo30.md`), a nota de mapa do `esquema-l1.md` e a §16 da
+  decisão de 03/10 (a pendência da geografia fica **resolvida**).
+
 ## 2026-10-03 (a jornada de Nolan sobe — cap. 29 cortado, renumeração)
 
 - **Decisão do autor (sessão de dois dias):** Nolan **não retorna à Metrópole**
@@ -8,7 +59,7 @@
   `decisoes/jornada-nolan-acre-2026-10-03.md`.
 - **Cap. 29 CORTADO** (a bacia de pedra). O aprendizado dos rampillas entrou
   no **rabo do cap. 28**; a autópsia muda para **depois da queda da Mina**
-  (cap. 36).
+  (cap. 37).
 - **Renumeração:** 30→29 (Moribundos), 31→30 (Kate), 32→31 (Nolan, conteúdo
   novo: a Mina como lugar), 33→32, 34→33, 35→34, 36→35 (Ponto Central) e
   **36 novo** (Nolan lê a ruína). Manuscrito: `capitulo30.md` → `capitulo29.md`;
@@ -81,7 +132,7 @@
 ## 2026-10-01 (salvamento: depois do cap. da Kate; método em avaliação)
 
 - **Ordem (decisão do autor):** o capítulo do salvamento (fio do Mário) **vem
-  depois do cap. 31 da Kate** — o ferimento fica pendurado no capítulo dela
+  depois do cap. 32 da Kate** — o ferimento fica pendurado no capítulo dela
   (o reencontro chega com sangue: "aliviar, não resolver"). O capítulo do
   Nolan desliza um número (reflui quando chegarmos lá).
 - **Conteúdo da casa:** água da ferida + **destilação**; **Mário salva o
@@ -116,7 +167,7 @@
 - **Aplicado:** `Livro 1/capitulo30.md` (prosa), `temas/esquema-l1.md` (bullet
   da água + tempos 4-5 + mapa), `conceitos/agua-e-seca.md` (§5 e §8),
   `temas/sementes.md` (#24).
-- **Pendência:** casa do capítulo do salvamento (antes/depois do cap. 31 da
+- **Pendência:** casa do capítulo do salvamento (antes/depois do cap. 32 da
   Kate) — a decidir com o autor.
 
 ## 2026-10-01 (Moribundos — o pesadelo abastece as inferências; pergunta aberta: mover a batalha do sonho?)
@@ -128,7 +179,7 @@
   registra**). Disciplina mantida: as imagens guiam (o leitor reconhece antes
   dele); nada de verbalizar a tese; sem rostos/nomes, **sem** o
   estandarte/símbolo, **sem** o castelo (reservas: ~75% e L2); nada sobre
-  Hícse/a causa (Gus) — "Hícse" volta no eco do cap. 31.
+  Hícse/a causa (Gus) — "Hícse" volta no eco do cap. 32.
 - **⚑ Pergunta aberta do autor:** "no sonho do cap. 1, a batalha deveria ter
   acontecido nos Moribundos em vez do castelo?" **Recomendação: não** — no
   sonho, o campo e o castelo são o MESMO lugar, e o castelo é a **Metrópole**
@@ -304,7 +355,7 @@
   cap. 29; a carta de resposta de Layla perdeu a linha da Juleen) e guardada
   em `insights/vembra-e-a-morte-de-dagmar.md` — **lugar a definir**. A cadeia
   completa (Mira → suspeita → investigação → Juleen) fica aguardando
-  realocação; o enforcamento (cap. 32) depende disso.
+  realocação; o enforcamento (cap. 33) depende disso.
 - **Cap. 29 — o nó do Tronk** (montado em 22-25/09): viagem de investigação
   (assentamento do primeiro milagre → Tronk — **a aplicar**); carta de Layla
   na chegada (Conselho + boato do Sinal); feira com a doutrina e a alegria
@@ -315,7 +366,7 @@
   informação a ele) — a aplicar.
 - **Pendências abertas**: numeração (24 fora — reflui?); origem das cartas
   (o 24 era o ponto de envio; o texto atual do 29 já cita as cartas sem o
-  capítulo — confirmar no fechamento); enforcamento (cap. 32) sem setup;
+  capítulo — confirmar no fechamento); enforcamento (cap. 33) sem setup;
   aplicar os movimentos novos no 29 (assentamento + recusa reforçada).
 - **Arquivos**: `Livro 1/capitulo29.md`, `insights/vembra-e-a-morte-de-dagmar.md`
   (novo), `temas/sementes.md` (#6), `decisoes/nolan-retorna-metropole-juleen-rampillas.md`,
@@ -335,7 +386,7 @@
   ⚠️ **Correção do pressuposto:** eles **alcançam** Mário (o cap. 28 prova — a
   patrulha acha a fenda por triangulação). O que falha não é o encontro: é a
   **perseguição**.
-- **Camada 2 — depois da Hícse (do cap. 31 em diante): o Sinal perde o OBJETO.**
+- **Camada 2 — depois da Hícse (do cap. 32 em diante): o Sinal perde o OBJETO.**
   O Sinal é o eletrocardiograma do selo; rompido o selo, **não há sujeito para
   medir**. ⚠️ **Não dizer "o Sinal parou"** (contradiz a decisão de 2026-09-05):
   o certo é **perdeu o objeto e a linha de base** — o que sobra lê como *"não
@@ -345,7 +396,7 @@
   **os dois com vara do cap. 29**, e não uma leitura a distância. E aperta o
   protocolo: quer **enquadrar** o que não consegue medir.
 - **O pagamento que isso abre:** a Ordem registrou Kate como **"a que não
-  consta"** (semente #19) — e a partir do cap. 31 **é o mundo que não consta**.
+  consta"** (semente #19) — e a partir do cap. 32 **é o mundo que não consta**.
   Numa instituição cuja arma é o arquivo, o registro perde o referente. Ela vai
   atrás da anomalia justamente quando deixou de saber medir qualquer coisa
   (germinação de #19 no L2).
@@ -382,7 +433,7 @@
   Kate") com uma razão melhor que o abalo: **o selo rompido, e depois o
   sangue.**
 - **Arquivos:** `conceitos/hicse.md`, `insights/recrutamento-da-kate.md`,
-  `temas/esquema-l1.md` (cap. 34),
+  `temas/esquema-l1.md` (cap. 35),
   `decisoes/gaviornl-morte-antecipada-hicse.md`, `log.md`.
 
 ## 2026-09-21 (o batismo de sangue — os rampillas encontram Kate)
@@ -392,7 +443,7 @@
   "comigo, vocês podem vencer a Mina". **Aprovada com três correções.**
 - **O que a ideia resolve:** as seis estavam soltas desde o cap. 29 (seguindo o
   sangue-isca dela) **sem desfecho previsto**. A cena paga a dívida.
-- **Correção 1 — lugar: cap. 34, e a cena É o recrutamento.** Não é um beat a
+- **Correção 1 — lugar: cap. 35, e a cena É o recrutamento.** Não é um beat a
   mais; é **como** a lista se forma. Assim o 34 passa a ter o combate + a fissura
   + o Lakand, e **a tempestade sai para o 35** (confirmação ao lado do corte A
   de Etemenanki).
@@ -424,9 +475,9 @@
   (abre o capítulo, como desafio de marcha). E o que Mário viu no 34 dá urgência
   ao ensaio do discurso no 35: **palavras contra o que já aconteceu.**
 - **Arquivos:** `insights/recrutamento-da-kate.md`, `temas/esquema-l1.md`
-  (mapa + caps. 34 e 35), `temas/sementes.md` (#13), `log.md`.
+  (mapa + caps. 35 e 35), `temas/sementes.md` (#13), `log.md`.
 
-## 2026-09-21 (o treino na estrada do cap. 31 — companhia, não aula)
+## 2026-09-21 (o treino na estrada do cap. 32 — companhia, não aula)
 
 - **Proposta do autor:** "poderíamos colocar o treinamento naqueles que Kate
   encontra antes de reencontrar Mário?" **Sim — mas não como treino.**
@@ -434,7 +485,7 @@
   monta pátio de exercício na estrada. E se montasse, o leitor não acreditaria.
 - **O que ela faz: não manda embora.** É o gesto inteiro — a Kate que não tem
   pena **não expulsa** quem se junta. Quem vai atrás é quem a estrada já quebrou
-  (a família de um devedor levado, um convertido perdido dos caps. 26-27, um que
+  (a família de um devedor levado, um convertido perdido dos caps. 26 - 27, um que
   voltou quebrado da caçada à recompensa). Ela não chama e não acolhe: **continua
   andando e deixa que venham.**
 - **E o treino nasce como vazamento de hábito, não como aula:** ela corrige a
@@ -446,14 +497,14 @@
 - **A réplica dela:** *"Eu não ensinei nada. Eles só andaram comigo."* É
   verdade, é esquiva, e é a resposta mais dela que existe.
 - **Um deles é o rosto guardado na coluna** (o homem marcado) — o que começa o
-  motim no cap. 36.
+  motim no cap. 37.
 - **⚠️ Não fazer dela mãe-de-tropa.** Ela não consola, não explica, não promete:
   **anda e não manda embora.**
 - **A sequência travada:** estrada = **companhia** (31) → reencontro e a objeção
   → **treino de verdade**, público e autorizado, no assentamento e na marcha
   (33-35).
 - **Arquivos:** `insights/recrutamento-da-kate.md`, `temas/esquema-l1.md`
-  (cap. 31), `log.md`.
+  (cap. 32), `log.md`.
 
 ## 2026-09-21 (Mário NÃO fica calado — a objeção que decide a Mina)
 
@@ -477,19 +528,19 @@
   consentimento que ela precisava: o treino continua, agora **autorizado** por
   ele.
 - **A venda nos olhos dele mudou de lugar:** não é sobre a espada — é sobre a
-  **própria vitória**. Mesmo erro do cap. 33: julgar pela superfície, não por
+  **própria vitória**. Mesmo erro do cap. 34: julgar pela superfície, não por
   quem plantou.
-- **Eco no cap. 35:** o discurso que ele ensaia é a **resposta ao treino** —
+- **Eco no cap. 36:** o discurso que ele ensaia é a **resposta ao treino** —
   palavras no lugar de armas. Ele não está só preparando o controle do
   resultado; está se preparando para ganhar a discussão.
 - **Arquivos:** `insights/recrutamento-da-kate.md`, `temas/esquema-l1.md`
-  (cap. 33 e 35), `log.md`.
+  (cap. 34 e 35), `log.md`.
 
 ## 2026-09-21 (onde e quando ela treina — e o Mário vê)
 
 - **Perguntas do autor:** "onde e quando ela faz isso? Mário vê?"
-- **Onde:** no **assentamento** (cap. 33 — o poço, o acampamento) e em **cada
-  parada da marcha** (cap. 35).
+- **Onde:** no **assentamento** (cap. 34 — o poço, o acampamento) e em **cada
+  parada da marcha** (cap. 36).
 - **Quando:** de **madrugada**, antes de levantar acampamento — a hora que
   ninguém quer e em que todos estão vendo.
 - **A justificativa é real:** eles estão sendo caçados (as seis rampillas, os
@@ -506,7 +557,7 @@
 - **O quase:** ele pergunta *"por que os velhos também?"* e ela responde
   *"porque a estrada não escolhe"*. Ele aceita. É a melhor resposta dela, e é
   verdade.
-- **Quem vê:** o **Lakand** — e não diz nada ali, guarda para o cap. 34. A
+- **Quem vê:** o **Lakand** — e não diz nada ali, guarda para o cap. 35. A
   triangulação é o grupo inteiro num quadro: Mário aprova, Kate constrói,
   Lakand cala.
 - **Arquivos:** `insights/recrutamento-da-kate.md`, `log.md`.
@@ -518,7 +569,7 @@
 - **Regra-mãe: ela treina do jeito que foi treinada.** O método dos gornads — o
   peso morto, a repetição até o gesto deixar de ser pensado, os **quadrinhos
   desenhados a carvão** no chão (canon: cap. 6). **Ela passa a forja adiante** —
-  e é isso que dói, e o que o Lakand vai apontar no cap. 34. Nada de veredito na
+  e é isso que dói, e o que o Lakand vai apontar no cap. 35. Nada de veredito na
   página.
 - **Adaptação de material:** pedra, saco, balde cheio (peso morto barato); os
   quadrinhos riscados **com graveto na terra**; e o que ela ensina **não é
@@ -556,7 +607,7 @@
   recrutado. O **gesto é o recrutamento** (a mão que corrige a pegada na faca),
   o espelho exato do método dele: **ele convence falando; ela convence fazendo.**
 - **A ordem que importa:** ela não recruta os escravos da Mina — **liberta**, e
-  ali a libertação **é** o recrutamento. Quem sobe no cap. 36 não é dela.
+  ali a libertação **é** o recrutamento. Quem sobe no cap. 37 não é dela.
   **O exército dela nasce depois, em Gus** — antes disso ela tem **nomes e
   rostos, não tropa.**
 - **Disciplina de número:** no bloco da Mina, nada de massa. Se ela juntar
@@ -580,13 +631,13 @@
   pregação como porta e oferece o **corpo da promessa** (a conta fechada à
   força). Pergunta canônica: _"E se houvesse um jeito de vocês nunca mais serem
   escravos de ninguém?"_
-- **Pool (tudo canon):** os convertidos que ficaram pelo caminho (caps. 26-27),
+- **Pool (tudo canon):** os convertidos que ficaram pelo caminho (caps. 26 - 27),
   os devedores subindo a estrada do norte (o encanamento) e os refugiados dos
   assentamentos.
-- **Na jornada solo (cap. 31) ela NÃO recruta** — não há quem. Ela (a) **aprende
+- **Na jornada solo (cap. 32) ela NÃO recruta** — não há quem. Ela (a) **aprende
   a máquina** (conta guardas, paradas, amarrados; intel de raider, não de
   arquivo) e (b) **guarda um rosto** — o homem na fila que começa o motim no
-  cap. 36, dando cara à carnificina.
+  cap. 37, dando cara à carnificina.
 - **Disciplina:** nada de organização na página (um rosto e um gesto, não uma
   rede); recrutamento silencioso e negável (é o que o mantém escondido do Mário
   até o 36); e **nunca** a palavra "exército" na boca dela — é "treino".
@@ -802,7 +853,7 @@
   Lakand **não têm nada**. Se ela chegasse com água para todos, a crise
   morreria no reencontro. **Consequência:** a **Kate vira a água** — única
   com gota, sem saber onde eles estão; o reencontro é literal, ela chega com
-  água (cap. 31). Instala o motivo do livro: **a água que vem dos mortos**
+  água (cap. 32). Instala o motivo do livro: **a água que vem dos mortos**
   (bacia-isca do 27 → odres do 28 → a cicatriz além dos Moribundos). Encaixe
   material: os odres foram cheios **antes** de os corpos apodrecerem — a
   única água limpa do sítio está dentro dos odres dos mortos.
@@ -815,7 +866,7 @@
   **subiram atrás do Mário**.
 - **Furo 3 — quantos capítulos.** O relógio conta **dois, no máximo três**.
   Cap. 30 = o relógio no fim (tentativa de voltar à bacia, fracasso, a
-  decisão de Mário); cap. 31 = a água (poço racionado e/ou a cicatriz).
+  decisão de Mário); cap. 32 = a água (poço racionado e/ou a cicatriz).
   Depois do 31 a água vira **preço político**, não risco de morte.
 - **Batismo (proposta, a confirmar com o autor):** a cena precisa de água —
   logo acontece onde há água (assentamento com poço). O problema não é a
@@ -939,7 +990,7 @@
   `decisoes/mandante-juleen-alvo-linhagem.md`. Atualizados: `temas/sementes.md`
   (#6, #21), `conceitos/inquiridores-sinal.md`, `personagens/juleen.md`,
   `personagens/nolan.md`, `personagens/dagmar.md`, `visuais/nolan.md`,
-  `temas/esquema-l1.md` (tabela + bloco), `temas/timeline.md` (caps. 21-29),
+  `temas/esquema-l1.md` (tabela + bloco), `temas/timeline.md` (caps. 21 - 29),
   `decisoes/nolan-retorna-metropole-juleen-rampillas.md`.
 - **Canon corrigido — os Correios.** Nolan **continua Mestre dos Correios** no
   L1; o correio é instrumento **dele**, não canal de Benjamim (canais de
@@ -955,13 +1006,13 @@
   explicitação da estratégia ("A única forma de possuí-lo era fazer com que
   ele quisesse ficar") e o remate ("E Nolan era muito bom em fazer as pessoas
   quererem o que ele queria"). O capítulo fecha em "…mas como aliado."; a
-  formulação da estratégia fica para o cap. 32, e o 29 firma a decisão de ir
+  formulação da estratégia fica para o cap. 33, e o 29 firma a decisão de ir
   à Metrópole. O 29, por sua vez, perdeu a cena que levava Nolan a concluir
   que Mário agiu contra o revólver (lida como fraca pelo autor).
 - **Decisões aprovadas**: (a) alvo de Juleen = **a linhagem** (o que ia
   nascer), não a esposa — `decisoes/mandante-juleen-alvo-linhagem.md`;
   (b) injustiça de Nolan = **julgamento negado**, não a morte; (c) fala-plant
-  do cap. 32 aprovada ("— Primeiro me pediram só notícia. Depois pediram o
+  do cap. 33 aprovada ("— Primeiro me pediram só notícia. Depois pediram o
   resto."), a ser ouvida e descartada por Nolan; (d) a pulga do 29 = aritmética
   da ausência (corpos, instrumentos, registro negado), **sem** conclusão sobre
   Vonos ou forasteiros no trono; (e) a raiz-mestra volta por um nó/corte no
@@ -969,11 +1020,11 @@
 - **Fecho do 29**: a decisão em Tronk fecha com o **nome** (Juleen), não com
   deslocamento — o cartaz na banca é o gatilho, não informação nova.
 - **Checkpoint de beat (passo 7 do Mini-INGEST)**: **1 capítulo** desde
-  2026-09-18 (bloco 21-28) → **não oferecer**; dispara por volta do cap. 34.
+  2026-09-18 (bloco 21-28) → **não oferecer**; dispara por volta do cap. 35.
 - **Pendências**: título do cap. 29 a confirmar; commits nos dois repos
   (Livro e storybible) ainda não feitos.
 
-## 2026-09-18 (checkpoint de beat — fecho do bloco "Jogos e Diversão", caps. 21-28)
+## 2026-09-18 (checkpoint de beat — fecho do bloco "Jogos e Diversão", caps. 21 - 28)
 
 - **Anti-slop em lote** nos 8 capítulos fechados (21-28): **153 mudanças em
   120 linhas**, medido por `git diff --word-diff` (o "85" do relatório inicial
@@ -1024,10 +1075,10 @@
   `esquema-l1.md` (cabeçalho e nota de réguas atualizados) e linha obsoleta do
   `temas/arco-stc.md` corrigida. Efeito imediato: o cap. 28 sai de "~64,6%"
   para **~54,0%**. Motivo: as bandas do STC (Jogos até ~68%, Ponto Central no
-  cap. 36 com ≈91.800-95.200 palavras acumuladas) só fecham nesta régua — a
-  régua velha criava pressão para apressar os caps. 29-35.
+  cap. 37 com ≈91.800-95.200 palavras acumuladas) só fecham nesta régua — a
+  régua velha criava pressão para apressar os caps. 29 - 36.
 - **Margem de palavras conferida**: acumulado até o cap. 28 = **74.301**
-  palavras. Para o cap. 36 chegar em ~94.000, faltam ~19.700 em 8 capítulos =
+  palavras. Para o cap. 37 chegar em ~94.000, faltam ~19.700 em 8 capítulos =
   **~2.460/capítulo**; a média real do bloco 21-28 foi 2.417/capítulo →
   **no ritmo, sem necessidade de compressão nem folga para esticar**.
 - **Passe de fechos — régua do autor gravada (2026-09-18)**: as quatro
@@ -1042,17 +1093,17 @@
   (mesmo ferimento do risco estrutural #1). Registrado também o **risco do
   Corte C**: no instante do corte, a consequência tem de ser simples e
   visível.
-- **Candidato a Corte B no cap. 31** (marca gravada no `esquema-l1.md`): a
+- **Candidato a Corte B no cap. 32** (marca gravada no `esquema-l1.md`): a
   fissura de Kate comporta B se o fecho cortar **na pergunta** (ela vai
   admitir?), em vez de depois do pensamento abafado (D). É troca do ponto de
   corte, não reescrita — decisão do autor pendente. A marca do **Corte C no
   cap. 29** ganhou a exigência acima.
-- **Passe de fechos** (3ª parte do checkpoint): mapa dos caps. 21-28 —
+- **Passe de fechos** (3ª parte do checkpoint): mapa dos caps. 21 - 28 —
   C-D-D-D-C-A-A-D (**A=2, B=0, C=2, D=4**). Alertas registrados: freada de
   três D seguidos (22-23-24); 25 fecha sem gancho; **zero cortes B** no bloco;
   "norte" sela os fechos de 22, 23, 24 e 26; "E" arremata 21, 24, 26 e 27;
   **Mário reativo em 26-28** (risco estrutural #1) → decisão devolvida a ele
-  no cap. 30 e no cap. 33. Regra de fecho para 29-35 gravada no esquema (fora
+  no cap. 30 e no cap. 34. Regra de fecho para 29-35 gravada no esquema (fora
   do fecho: "norte", "escuro", "silêncio"; não abrir o fecho com "E").
 - **Mapa corrigido para frente** (`temas/esquema-l1.md`): nota de réguas no
   topo; linhas 5-20 da tabela; notas do Movimento 3; marcas de abertura/corte
@@ -1060,8 +1111,8 @@
   realocado ao 36); semente #20 (trono) acrescentada à linha dos Inquiridores;
   arco de Kate e Lakand atualizados.
 - **Ponteiros corrigidos**: `capitulos/capitulo-26.md` (a rebelião consolida
-  no **cap. 31**, não em "29+"); `capitulos/capitulo-25.md` (beat pendente
-  resolvido: realocado ao **cap. 36**); `temas/sementes.md` (#4 Layla — o cap.
+  no **cap. 32**, não em "29+"); `capitulos/capitulo-25.md` (beat pendente
+  resolvido: realocado ao **cap. 37**); `temas/sementes.md` (#4 Layla — o cap.
   23 não tem menção, o fio passa pelo 24 e pelo 29; numeração nova a partir de
   **#21**, com Etemenanki = #21).
 - **Fila para o congelamento**: 17 pontos de polimento linguístico anotados,
@@ -1122,10 +1173,10 @@
   (por trás, jugular, estocada de baixo), não dois em corpo a corpo. Nota de
   execução registrada em `temas/esquema-l1.md` (bloco do cap. 28).
 - **Passo 7 — contador de checkpoint**: bloco **Jogos e Diversão (caps.
-  21-28) = 8 capítulos sem checkpoint** → **oferecido ao autor** (Arquiteto
+  21 - 28) = 8 capítulos sem checkpoint** → **oferecido ao autor** (Arquiteto
   de Densidade leve nas fronteiras de beat + **anti-slop em lote** +
   **passe de fechos**). A janela já estava aberta desde 2026-09-11 para os
-  caps. 21-27 (7 caps) e permanece pendente de decisão.
+  caps. 21 - 27 (7 caps) e permanece pendente de decisão.
 - **Arquivos**: `capitulos/capitulo-28.md` (novo),
   `conceitos/inquiridores-sinal.md` (seção "A patrulha em operação"),
   `personagens/inquiridor.md` (escribas, identificação, tabela de aparições),
@@ -1166,7 +1217,7 @@
 - **Decisões do autor**: (1) a carruagem **virou a carroça do cap. 24**
   (degradação pelo incêndio: capota comida pelo fogo, roda empenada, lona
   chamuscada); (2) Mira **fica na mula** na marcha ao norte; (3) Mira e Saboc
-  **retornam com Nolan à Metrópole** (caps. 29-32) — o esquema já exigia
+  **retornam com Nolan à Metrópole** (caps. 29 - 33) — o esquema já exigia
   Saboc fisicamente com Nolan (Noite Escura).
 - **Novo arquivo**: `decisoes/carruagem-vira-carroca-cap24.md`.
 - **Plant opcional na prosa** (não aplicado — aguarda o autor): uma cláusula
@@ -1199,8 +1250,8 @@
   (Modo de Escrita Privada), `.github/agents/livro-writer.agent.md`,
   `.github/agents/arquiteto-densidade.agent.md` (Pêndulo Ação vs. Reação).
 - **Janela aberta**: bloco Jogos 21-27 = 7 caps sem checkpoint → oferecer o
-  checkpoint leve (próximos marcos: Movimento 3, caps. 32-35; Ponto Central,
-  cap. 36).
+  checkpoint leve (próximos marcos: Movimento 3, caps. 33 - 36; Ponto Central,
+  cap. 37).
 - **Arquivos**: `conceitos/checklist-capitulo.md`, `protocolo-ingest.md`,
   `log.md` + repo Livro (3 arquivos).
 
@@ -1224,7 +1275,7 @@
 
 - **Rascunho do cap. 22 excluído pelo autor**: referência morta limpa em `capitulos/capitulo-21.md`; o trecho (amanhecer/Mina) permanece absorvido na abertura do cap. 23.
 - **Beat "Mário prega sem cura e falha" — plano refeito**: não é capítulo próprio; a cadeia final é cap. 23 (recebe sem pedir) → cap. 25 (cura intencional: funciona e expõe a fissura "Você só quer vencer") → cap. 26 (segunda pregação: oposição, reconhecimento, fuga). A "falha" é de comunhão, não de poder. Textos atualizados: `capitulos/capitulo-23.md` (Fronteira), `conceitos/milagre.md`, `temas/esquema-l1.md`.
-- **Ponto Central resolvido: cap. 36** ("A Tomada da Mina de Quartzo", PoV Mário), ~68% — a "~55%" do esquema e o "~34-35" do outline/arco-stc eram estimativas antigas; o plano cap-a-cap tem o cap. 36. Jogos e Diversão = caps. 21-35.
+- **Ponto Central resolvido: cap. 37** ("A Tomada da Mina de Quartzo", PoV Mário), ~68% — a "~55%" do esquema e o "~34-35" do outline/arco-stc eram estimativas antigas; o plano cap-a-cap tem o cap. 37. Jogos e Diversão = caps. 21 - 36.
 - **`personagens/inquiridor.md` corrigido (canon 2026-09-06)**: linha do cap. 7 restaurada (Nolan QUER os Inquiridores capturando qualquer Souhma; impostor morre na aferição) e linha do cap. 13 precisada (Kenod — competição de oferta).
 - **Re-ingest do cap. 25 (executado na mesma data)**: `capitulos/capitulo-25.md` realinhado ao manuscrito final; a seção do cap. 25 no `esquema-l1` corrigida e a do **cap. 26 ganhou os bullets da segunda pregação/oposição**; `index.md`, `visuais/{kate,lakand,mario}.md` e a nota da "cura intencional" em `conceitos/milagre.md` atualizados — a oposição/carroceiro fica só no cap. 26 (revisão 2026-08-30).
 
@@ -1258,13 +1309,13 @@
 
 - **Numeração das seções de detalhe alinhada aos arquivos do livro** (numeração
   nova): todos os labels foram re-numerados (+1 a partir do antigo cap. 2) —
-  Jogos e Diversão: caps. 21-36; Movimento 1: 21-22; Movimento 2: 23-31;
-  Movimento 3: 32-35; Ponto Central: cap. 36; tabela de notas estruturais idem.
+  Jogos e Diversão: caps. 21 - 37; Movimento 1: 21-22; Movimento 2: 23-31;
+  Movimento 3: 32-35; Ponto Central: cap. 37; tabela de notas estruturais idem.
 - **Referências cruzadas atualizadas**, incluindo correções canônicas:
-  vembra / Miram→Rastro → cap. 24; revelação Juleen (enforcamento) → cap. 32;
+  vembra / Miram→Rastro → cap. 24; revelação Juleen (enforcamento) → cap. 33;
   "Saramant é cinza" → cap. 26; decreto "prenda. Vivo." → cap. 18; fluência em
   ornickenho + desejo de Lakand (A Jaula) → cap. 13; "veio da Terra" (aferição)
-  → cap. 3; Javé: caps. 21-30 não usam, reveal no cap. 31.
+  → cap. 3; Javé: caps. 21 - 30 não usam, reveal no cap. 32.
 - **Cabeçalho**: lista de capítulos escritos atualizada para 0-26; nota de
   sincronização adicionada; aviso de numeração antiga (Vilões em diante)
   reformulado.
@@ -1287,7 +1338,7 @@
   `decisoes/oposicao-pregacao-cap24-para-cap26.md` → `...-cap25-para-cap26.md`
   (links de entrada atualizados).
 - **Correções canônicas aplicadas na varredura**: enforcamento de Juleen →
-  cap. 32 (não 31); revelação vembra/Mira → cap. 24; confissão "Saramant é
+  cap. 33 (não 31); revelação vembra/Mira → cap. 24; confissão "Saramant é
   cinza" → cap. 26; decreto "prenda. Vivo." → cap. 18.
 - **Notas históricas**: entradas anteriores deste log mantêm a numeração da
   época (ver nota de 2026-09-03); paths de arquivos renomeados foram
@@ -1399,7 +1450,7 @@
 - **Arquivos**: `Livro 1/capitulo2.md` (novo), `Livro 1/capitulo3.md` (ajustado), `Livro 1/capitulo4.md` (cena do tribunal), `Livro 1/capitulo5.md` (semente), `Livro 1/capitulo8.md` (semente), `Livro 1/capitulo11.md` (semente), `Livro 1/capitulo13.md` (semente), `storybible/capitulos/capitulo-02.md` (novo INGEST), `storybible/temas/esquema-l1.md` (tabela atualizada), `storybible/temas/arco-stc.md` (atualizado), `storybible/temas/outline.md` (atualizado), `storybible/index.md` (atualizado), `storybible/log.md`.
 
 - **Capítulo 25 finalizado (Mini-INGEST)**: PoV Kate, segundo discurso público de Mário em vila próxima a Ornick. Debate com carroceiro (argumentação filosófica — fato vs. conclusão), reconhecimento como Souhma, divisão da multidão, acusação de Saramant, Lakand trucida acusador, mercenário oferece recompensa e captura Mário, Kate fere mercenário, fuga, discussão na estrada, confissão de Lakand ("Saramant é cinza"), discussão sobre Theodore, Kate reafirma Mário como instrumento.
-- **Sementes plantadas**: Carroceiro humilhado → informante dos caçadores (cap. 26); Mário questiona violência de Kate (eco no cap. 35); Lakand confessa Saramant por Kate (dívida do L1); Lakand acusa Kate sobre Theodore (afastamento); Recompensa por Mário reconhecida → caçadores no cap. 26.
+- **Sementes plantadas**: Carroceiro humilhado → informante dos caçadores (cap. 26); Mário questiona violência de Kate (eco no cap. 36); Lakand confessa Saramant por Kate (dívida do L1); Lakand acusa Kate sobre Theodore (afastamento); Recompensa por Mário reconhecida → caçadores no cap. 26.
 - **Visuais atualizados**: `visuais/kate.md`, `visuais/mario.md`, `visuais/lakand.md` — cap. 25 adicionado.
 - **Personagem atualizado**: `personagens/lakand.md` — confissão "Saramant é cinza" movida do cap. 24 para o cap. 25.
 - **Arquivos**: `capitulos/capitulo-25.md` (novo), `visuais/kate.md`, `visuais/mario.md`, `visuais/lakand.md`, `personagens/lakand.md`.
@@ -1425,7 +1476,7 @@
   vantagem).
 - **Caçada via rampillas (sentidos à distância)**: Nolan deixa rampillas no
   encalço de Mário e observa à distância através deles (o mecanismo que
-  Devour usava — "extensão do corpo"). O cap. 31 (observação) ganha
+  Devour usava — "extensão do corpo"). O cap. 32 (observação) ganha
   mecanismo concreto. A cena mais fria do livro: Nolan enforcando Juleen
   enquanto "vê" Mário sobreviver à tempestade de quartzo.
 - **Ossan opera os sentidos (não ensina)**: Nolan é leviantar, não xilomago;
@@ -1433,10 +1484,10 @@
   vê — bomba-relógio do L2.
 - **Mecanismo com limitações**: percepção, não diálogo; alcance limitado
   pela raiz-mestra; foco dividido.
-- **O enforcamento (cap. 31, POV Nolan — correção 2026-08-30)**: o
+- **O enforcamento (cap. 32, POV Nolan — correção 2026-08-30)**: o
   enforcamento foi inicialmente registrado no cap. 30, mas o cap. 30 é POV
   Kate (o batismo) — não pode ser mostrado num capítulo cujo POV está no
-  assentamento. Movido para o cap. 31, que abre com o enforcamento e segue
+  assentamento. Movido para o cap. 32, que abre com o enforcamento e segue
   para a observação via rampillas. Nolan chega com rampillas; Conselho o
   censura, ele ignora; rampillas trazem Juleen; Nolan não permite que a
   matem — ele mesmo quer fazer. A cena da acusação de humana (canon
@@ -1512,7 +1563,7 @@
   revelação da vembra para o cap. 25, mas o cap. 25 é **POV Kate** — a
   revelação não pode ser clímax de um capítulo que não a conhece. A vembra
   fica no cap. 23 (Mira comenta despretensiosamente; Nolan liga os pontos;
-  carta a Layla). Misatribuição dos caps. 21-22 preservada; a fissura chega
+  carta a Layla). Misatribuição dos caps. 21 - 22 preservada; a fissura chega
   no 23 e fermenta até o 30.
 - **Cena Nolan/Juleen (canon novo 2026-08-30)**: no enforcamento (cap. 30),
   Nolan acusa Juleen de ser **humana**. Ela se defende: é **leviantar** de
@@ -1614,7 +1665,7 @@
   partida, sem a pista do veneno). Mira comenta a vembra de forma
   **despretensiosa** (comentário solto, sem intenção) na estrada da caçada;
   é Nolan quem liga os pontos (nota privada até o cap. 30). A misatribuição
-  dos caps. 21-24 fica mais pura (cegueira sem a fissura da vembra).
+  dos caps. 21 - 24 fica mais pura (cegueira sem a fissura da vembra).
 - **"Os concorrentes chegam" move do cap. 25 para o cap. 28**: a dedução
   da recompensa de resgate ("prenda, vivo" — canon cap. 17) fecha no local
   da emboscada, onde Nolan confronta os Inquiridores e lê a evidência
@@ -1637,7 +1688,7 @@
 ## 2026-08-16 (canon — ódio racial de Nolan: cristaliza na misatribuição, não na verdade)
 
 - **Resolução da pergunta do autor (semente #6)**: o ódio racial de Nolan
-  (L2, "agora pessoal") cristaliza na MISATRIBUÇÃO (caps. 18-25 — os humanos
+  (L2, "agora pessoal") cristaliza na MISATRIBUÇÃO (caps. 18 - 25 — os humanos
   mataram Dagmar), não na descoberta do cap. 30. A verdade (Juleen,
   leviantar de casta baixa dos burgos periféricos) NÃO dissolve o ódio:
   luto sem fechamento; ódio sobrevive à justificativa (cena do cap. 30
@@ -1647,9 +1698,9 @@
 - **Arquivos**: `temas/sementes.md` (#6), `temas/esquema-l1.md` (cap. 21),
   `log.md`.
 
-## 2026-08-16 (canon — caps. 21-25: agenda oculta de Mário — provar os dogmas)
+## 2026-08-16 (canon — caps. 21 - 25: agenda oculta de Mário — provar os dogmas)
 
-- **Agenda oculta (canon)**: nos Jogos (caps. 21-25), Mário prega buscando
+- **Agenda oculta (canon)**: nos Jogos (caps. 21 - 25), Mário prega buscando
   conversões, mas o motor é **provar que os dogmas dele estão certos** — no
   limite, que **Deus está errado e ele certo**, sem verbalizar. A pregação é
   a acusação contra Deus (inação na morte de Lucas) em forma de tribunal;
@@ -2295,7 +2346,7 @@
     ("gelando no andar de cima"). A nota antiga de distribuição ("o comboio
     volta com o corpo de Dagmar") NÃO é confirmada pelo texto final —
     enterro em aberto (verificar cap. 21/22).
-  - `personagens/nolan.md` não tinha entradas dos caps. 17-18 (adicionada a
+  - `personagens/nolan.md` não tinha entradas dos caps. 17 - 18 (adicionada a
     de 18-19; confirmar que os resumos dos capítulos cobrem as lacunas).
   - Proposta: criar `conceitos/milagre.md` (referenciado em capitulo-19.md,
     ainda sem ficha) — aguardando autorização.
@@ -2368,7 +2419,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 - **Arquivos atualizados**: `personagens/{devour,lakand,mathias}.md` (mathias
   = novo), `conceitos/rampillas.md` (fogo + toca secundária, `ultimo_capitulo`
   19), `insights/nolan-controla-rampillas.md` (raiz-mestra decidida),
-  `temas/sementes.md` #7, `temas/esquema-l1.md` (caps. 20-21),
+  `temas/sementes.md` #7, `temas/esquema-l1.md` (caps. 20 - 21),
   `lugares/castelo-devour.md` (pós-incêndio), `capitulos/capitulo-19.md`
   (INGEST), `index.md` (Mathias).
 

@@ -1,7 +1,7 @@
 ---
 type: Chapter
 livro: 1
-capitulo: 26
+capitulo: 25
 titulo: "O Preço da Fama"
 pov: Kate
 beat_stc: Jogos e Diversão
@@ -27,7 +27,7 @@ conceitos:
   - Milagre com custo (a cura gera oposição, não só adesão)
 sementes:
   - Carroceiro humilhado no debate — cuspiu no chão na fuga (rancor → cap. 27 como informante dos caçadores)
-  - Mário questiona violência de Kate ("Isso não é certo") — primeira fissura moral (eco no Ponto Central, cap. 35)
+  - Mário questiona violência de Kate ("Isso não é certo") — primeira fissura moral (eco no Ponto Central, cap. 36)
   - Lakand revela que queimou Saramant por Kate — dívida em aberto (nunca resolvida no L1)
   - Lakand acusa Kate de estar se afeiçoando como Theodore — afastamento entre os dois
   - Kate reafirma Mário como instrumento, nega o afeto ("Vou precisar que eles estejam de pé quando a hora chegar. Depois eu decido.")
@@ -76,7 +76,7 @@ POV Kate. Marcha ao norte de Tronk com os convertidos da feira. Kate sonda um de
 
 Sementes no frontmatter. Continuidade:
 
-- "Isso não é certo" — primeira fissura moral de Mário (eco previsto no Ponto Central, cap. 35)
+- "Isso não é certo" — primeira fissura moral de Mário (eco previsto no Ponto Central, cap. 36)
 - A sonda da Kate ao convertido — 1ª semente da rebelião (consolidada no **cap. 30**, conforme checkpoint de beat de 2026-09-18 — o ponteiro antigo dizia "cap. 28+"; o cap. 28 não toca o fio — INGEST 2026-09-18)
 - A dívida de Lakand (Saramant) — em aberto, nunca resolvida no L1
 
