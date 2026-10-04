@@ -276,17 +276,7 @@ o **A mudança sutil:** Pela primeira vez, Kate não pensa neles como "künerv" 
 
 o **Lakand (canon 2026-08-22 — primeira fala pós-endurecimento):** Lakand fala pela primeira vez desde o endurecimento (caps. 20 - 21 = fera silenciosa): "O que ele está fazendo?" / "Ele... curou? Com magia?" — falas curtas, funcionais, de testemunha. Não quebra o endurecimento (não é confissão emocional), mas o cap. 26 ("Saramant é cinza") não deve repetir o "primeiro som".
 
-#### Capítulo 24 (PoV de Nolan) — Novo
-
-o **Confirmação do milagre.** Nolan alcança o **assentamento de refugiados** do cap. 23. O grupo de Mário já partiu (Kate decidiu na manhã seguinte — "não há nada para nós aqui"). Mas os refugiados estão lá. A menina de joelho torto anda. As testemunhas confirmam: o Souhma curou uma criança paralítica com as mãos. O milagre de Saboc não foi isolado. **É replicável.**
-
-o **A certeza política (cartas — versão B, decisão 2026-08-30).** Nolan escreve por mensageiro: **a Genocydo** (versão censurada) informa que o Estrangeiro é real, que a cura é real, que Nolan está na caçada — e **semeia a dúvida**: "se um mercenário o matar antes de aprendermos o segredo da cura, perdemos a chance". Não pede nada — Genocydo decide sozinho, Nolan não se expõe. **A Koda** (versão completa, plano político) usa o argumento da **dívida**: "O Estrangeiro é real. A cura é real. Precisamos dele antes que os Inquiridores o sequestrem — se o Souhma cair nas mãos de outros, perdemos o trono e a chance de curar a Metrópole. E se um mercenário o pegar, a recompensa prometida vira dívida — os cofres sofrem." Koda, Mestre da Moeda, entende a língua dos cofres e age no Conselho sem expor a conspiração. **Nolan ainda NÃO sabe por que Vonos o quer vivo** — o elo (Genocydo/Kraviam é terráqueo; Vonos substitui reis por terráqueos) só fecha quando Mário revelar o diário de Genocydo. No cap. 24, o que ele sabe basta: precisam de Mário antes de todos.
-
-o **A revelação de Mira + a delegação (no cap. 24 — correção 2026-08-30).** Na estrada da caçada, Mira (ama de leite, viaja com o séquito) comenta de forma **despretensiosa**, num comentário solto no meio de outra fala: "a senhora cheirava a vembra, senhor." Ela não sabe o que está revelando — conhece ervas (casca de vembra é abortivo) e o cheiro lhe é familiar, só isso. **É Nolan quem começa a ligar os pontos**: o cheiro, os lençóis, os dias antes do parto. Anota mentalmente como nota privada que fermenta até o cap. 32 (sementes #6). Não pode investigar pessoalmente — está a dias de viagem — mas conhece alguém que circula pelos corredores do poder sem levantar suspeitas. Envia uma carta a **Layla**: que ela descubra quem esteve nos aposentos de Dagmar nos dias anteriores ao parto e que pessoas da casa tiveram acesso a chás e ervas. A semente da investigação é plantada — e Layla ganha um fio que a manterá ligada a Nolan entre o L1 e o L2. (Correção: a decisão 08-19 previa a vembra no cap. 26, mas o cap. 26 é POV Kate — a revelação não pode ser clímax de um capítulo que não a conhece. A vembra fica no cap. 24.)
-
-o **A decisão.** Nolan reúne os rampillas e parte. Não para matar Mário. Para possuí-lo. Mas agora sabe que precisa chegar antes dos Inquiridores — e que, quando encontrar Mário, precisa se apresentar como aliado, não como inimigo.
-
-#### Capítulo 25 (PoV de Mário) — Novo (A Feira de Tronk)
+#### Capítulo 24 (PoV de Mário) — Novo (A Feira de Tronk)
 
 o **Dias de caminhada.** Mário ainda em jejum, ainda em silêncio, ainda em oposição à Voz. Kate o conduz para norte. Lakand segue à frente, deslocado.
 
@@ -304,7 +294,7 @@ o **A ironia (o leitor vê, Mário não):** Mário prega a teologia certa, com a
 
 o **Kate e as moedas.** Mário recusa as moedas da mulher por princípio; ela insiste; Kate se aproxima sem que ele perceba e o pressiona: _"Vamos precisar. Não podemos perder tempo com orgulho."_ Ele aceita.
 
-#### Capítulo 26 (PoV de Kate)
+#### Capítulo 25 (PoV de Kate)
 
 o **A segunda pregação (a oposição — revisão 2026-08-30; re-ingest do 25 em 2026-09-10).** Num posto de comércio ao norte de Tronk, Mário prega de novo — e a denúncia contamina a receptividade. **O carroceiro de Tronk** (o mesmo que esfaqueara o devedor) retorna e o acusa: "Feiticeiro!" — o milagre de Tronk lido como truque maligno. Mário argumenta (fato vs. conclusão; medo vs. pensamento), desmonta o acusador em debate, e a multidão se divide — uns atribuem o título de Souhma, outros negam.
 
@@ -330,7 +320,7 @@ o Kate toma a decisão: manter Mário vivo e funcionando até que ele inspire o 
 
 o **🔪 Cliffhanger de virada de página (decisão do autor 2026-09-13; aplicado).** O capítulo não fecha em "a faca e o caminho": fechar com a caçada chegando. Ordem: (1) Lakand com o rosto virado para o escuro, a cabeça subindo "do jeito de quem escuta uma coisa que ainda não chegou", narinas abrindo — "— Gente."; (2) "— Quantos?" / "— Muitos."; (3) claridade laranja subindo atrás das copas, cada vez maior — "Não era o sol. Não era aquela hora."; (4) fecho de Kate: "— Acorda ele. Sem barulho. A gente anda no escuro." Emenda direta no "Fugiam desde o escuro." do cap. 27. **Por que funciona:** o leitor vira a página sem respirar, e o cap. 27 deixa de abrir em marcha lenta — abre em fuga. Guardrail: o fogo é visto, nunca explicado (o cap. 27 não deve dar conta dele).
 
-#### Capítulo 27 (PoV de Mário) — Reformulado (canon 2026-09-10)
+#### Capítulo 26 (PoV de Mário) — Reformulado (canon 2026-09-10)
 
 o **Abertura reestruturada (aplicado 2026-09-13) — a fuga primeiro.** Cinco passos, antes de retomar o canon a partir das pegadas: (1) "Fugiam desde o escuro." — a caçada desde a madrugada, Mário inútil ("as pernas respondiam cada vez com mais atraso"), Kate escolhendo o terreno onde a bota não deixa marca; (2) **é Lakand quem acha o primeiro refúgio** — o buraco deixado pelo torrão de uma árvore tombada, fundo e comprido, teto de raízes, cabem três deitados e ninguém em pé; (3) cavalos passam na estrada acima — "Não era um nem dois. Era um bando, com estribos, com vozes que iam e voltavam, e um deles riu."; (4) a água acaba **dentro** do refúgio, ao amanhecer ("A água tinha acabado naquela manhã."); (5) a espinha canônica recomposta: "Mário não sabia se virar no mato. Kate e Lakand sabiam. Mas ele tinha encontrado a oportunidade de se mostrar útil. Tinha uma observação a fazer." ⚠️ **Regra de espaço:** o primeiro refúgio (raízes) e o segundo (a fenda/caverna de entrada única) têm de ser fisicamente distintos — não usar "fenda" na abertura, nem ecoar "barrancos de raízes expostas" (cap. 15). **Ganho causal:** os cavalos passam à noite e seguem na frente — o leitor relê o cerco da bacia como armadilha *postada*, não improvisada.
 
@@ -350,7 +340,7 @@ o **O confronto da Voz (clímax; germinação da semente #10).** Responde não c
 
 o **Fecho (gancho de suspense).** Antes da luz, as vozes do cerco param uma a uma; um som que Mário não sabe nomear. Os dois silêncios — o de dentro (a Voz) e o de fora (os homens) — e o de fora é pior.
 
-#### Capítulo 28 (PoV de Kate) — Reformulado
+#### Capítulo 27 (PoV de Kate) — Reformulado
 
 o **Os Inquiridores do Sinal (canon 2026-09-09).** Uma patrulha os alcança (triangulação por diapasões). De madrugada, executam os mercenários que sitiavam a caverna: fincam a **Vara de Ofício** e a percutem — a vibração atordoa, não fere —, depois liquidam à lâmina, um a um; o grupo ouve de dentro. Contra o grupo: **Varas de Ofício** de renanthao (estocada e corte). Kate é Gnock — **o renanthao a corta, mas a sentença não a alcança** (o fio apodrece feridas de quem tem magia; ela não tem). O treino gornad a deixa esquivar, desviar e aguentar arranhões. Ela enfrenta dois Inquiridores em combate corpo a corpo e vence.
 
@@ -369,126 +359,73 @@ o **Nota de execução (2026-09-18 — desvios do cap. 28 na prosa).** (1) O cap
 o **🏁 Nota de checkpoint (2026-09-18 — fecho do beat "Jogos e Diversão", caps. 21 - 28).** Anti-slop em lote nos 8 capítulos: **85 cirurgias**, ~794 palavras cortadas (20.129 → 19.335). Régua remedida nos arquivos (ver "Réguas de %" no topo). Passe de fechos: mapa e regra herdada na nota do Movimento 3. Nenhum payoff em falta; a semente do trono foi executada **um capítulo antes do previsto** (28, em vez de 29) — por isso o "novo rei" só fecha no cap. 32. Próximo checkpoint: fronteira do Ponto Central (cap. 36).
 
 #### Capítulo 28 (PoV de Nolan) — Reformulado
+> **⚑ Executado (2026-10-04).** O corpo abaixo descrevia versões já mortas (a
+> subida ao sítio, o retorno à Metrópole, a carta de Layla). O capítulo
+> fechado está descrito aqui e em `capitulos/capitulo-28.md`.
 
-> **⚑ Nota de execução (2026-09-29 — capítulo reestruturado; numerado 28):** o
-> capítulo ficou **só no cruzamento de Tronk** — caiu a subida ao sítio e a
-> visita ao terreno; **o sítio passa ao próximo capítulo do Nolan** (a bacia
-> de pedra: os oito/nove mortos, os furos, o machado, o edital). Caiu o
-> retorno à Metrópole e a carta de Layla (vembras parkadas); a carroça traz
-> **só os três Inquiridores**; a negação do escriba acontece **no
-> tabelionato** (5º degrau), e o carroceiro abre o caminho da bacia. Fecho:
-> decisão de subir + "utilidade" dos rampillas. **Os itens abaixo descrevem
-> a versão anterior — superados.**
+o **Três paradas (estrutura final).** (1) **O assentamento dos refugiados da
+Mina** — a confirmação do milagre replicável (a menina do joelho; a única outra
+vez fora o filho, em Devour, na noite em que nasceu sem ar). (2) **A estrada e
+Tronk** — as duas cartas postadas (Rei e Koda), a doutrina correndo na feira, e
+**o edital tirado da parede do próprio correio**. (3) **O cruzamento** — a
+carroça com os três Inquiridores, a negação do escriba (5º degrau), o
+carroceiro, e **o rabo novo**: a lição da emendadeira e a ordem.
 
-o **O encontro com os Inquiridores.** Nolan chega ao local da emboscada. Os Inquiridores ainda estão lá, recolhendo os corpos dos companheiros que Kate abateu. **Mário escapou.**
+o **O edital na parede (2026-10-03 — revê 2026-09-20 e 2026-09-29).** Não entra
+pelo bolso de um morto nem é cartaz em poste: está **pregado na parede da casa
+de serviços postais**, na rede que o próprio Nolan montou posta a posta —
+aberto, do tamanho de uma mão, com o **selo do Trono** por cima e a soma **por
+extenso e em números** embaixo. O número que ele conhecia de ouvir dizer agora
+tem algarismo, e está na parede dele. Nolan tira os quatro percevejos com a
+unha, dobra nos vincos e diz ao posteiro: "Eu respondo por esta mala. E este
+papel fica comigo."
+⚠️ O plant do cap. 26 permanece (Kate reconhece o corte entre as costelas). O
+papel **sobe a estrada com ele e chega antes** — o payoff é na Mina.
 
-o **A memória do passo 2 (plantio 2026-09-19).** Uma frase, sem comentário: os
-  Inquiridores **saíram do Templo de Rifte e estavam na estrada semanas antes**
-  de qualquer ordem dele — atrás de um homem que chamavam de souhma. Não fazia
-  sentido então, e não faz agora. É o degrau que sustenta o que vem depois
-  (escada de 5 passos em `personagens/nolan.md`).
-  ⚑ **Dispensado (decisão do autor, 2026-09-29)** — não é necessário: o 5º
-  degrau fica só com a recusa do escriba; a agenda da Ordem o leitor já tem do
-  cap. 27 ("Ele terá o trono. Vonos garante.").
+o **O 5º degrau (executado no tabelionato do cruzamento).** A negação do
+escriba + o selo ignorado: "Cuide dos seus negócios, senhor. Eu cuido dos de
+Vonos." Não é humilhação, é **desconsideração** — e é a primeira vez em todos
+os anos de ofício. Ele **nota e não conclui**: nada de narrador nomeando a
+pulga. ⚑ A memória do Templo de Rifte esvaziado e o freio da aritmética foram
+tentados e **dispensados** (decisão do autor, 29/09). Canon:
+`conceitos/inquiridores-sinal.md`.
 
-o **A colisão da custódia (2026-09-19 — o 5º degrau).** Nolan exige o registro
-  da ação; o líder dos Inquiridores recusa — respondem a Nuh d'Teraghar e a
-  Vonos, não a um conselheiro com selo. **Não há confissão nenhuma na recusa**,
-  e Nolan **não deduz nada** do que vê: o que existe é a informação **negada** a
-  quem tem autoridade para registrá-la. É aqui que ele entende, sem nomear, que
-  os interesses da Ordem estão **contra** os seus — não ao lado.
+o **A lição da emendadeira (o rabo novo, 2026-10-03).** A trinta passos da
+última fogueira, onde o capim começa — **o bebê nunca entra no mato**. Ossan:
+"Eu faço a xilomagia — O senhor olha." A criatura encosta no tronco e **cede os
+sentidos**; a emendadeira procura a raiz da vizinha e se emenda. Nolan **sente**
+(o frio de uma água a léguas, o peso da luz, as moscas, o gosto de podre, e
+**os oito**, um por um) e **não vai mais longe**. O limite, em duas frases:
+**a raiz para na água e para na pedra**. A consequência ele faz sozinho, em
+silêncio: acima do cruzamento a estrada sobe para o quartzo — **da pedra em
+diante, incluindo a Mina, ele não vê dentro**. É isso, e não a vontade, que o
+obriga a **comprar informação**. Canon: `conceitos/rampillas.md`.
 
-o **A aritmética da ausência (a pulga — dose fechada pelo autor, 2026-09-19).**
-  Nolan lê o terreno medindo o que falta: **zero** mortos deles no chão (levaram
-  os três corpos da Ordem), **zero** instrumentos (bacia, revólver, diapasão
-  limpo — resta o **entalhe vazio na pedra**) e os **mercenários abandonados**
-  sem registro, sem inquérito, sem cova: para o Templo, gente que nunca
-  existiu. No arquivo de mão própria, a linha com a coluna **"natureza" em
-  branco** — fatos sem crime. Ele sabe que há algo a mais que não está sendo
-  dito e que **isso pesa**; não consegue nomear o quê. ⚠️ Nada de "Vonos põe
-  forasteiros no trono": ele nem sabe que Genocydo ou Mário são de fora de
-  Ornick (só o diário fecha isso, semente #15). Nada de narrador nomeando a
-  pulga.
+o **A dependência (guardrail).** O ofício é do xamã: a palma na terra abre, a
+mão que sai fecha. **Ossan é a condição do canal** — Nolan recebe, não opera.
+Nada de "Nolan faz xilomagia". O registro dele fica sem nome: podia ser
+ferramenta, podia ser coleira. E **sentir não era ler**: vêm sensações, não
+provas.
 
-o **Os mercenários e o edital (gatilho, não informação nova).** Nolan vê o
-  **edital de recompensa** ("prenda, vivo") e faz a conta que importa: os
-  mercenários estão na estrada, e quem vai para a Metrópole entrega Mário a
-  eles antes de chegar. O mapa dos três caçadores o leitor já tem — aqui ele só
-  **decide**.
+o **A ordem (o fecho).** Falada "na ordem em que precisavam ser dadas": **seis
+criaturas na frente pelo mato** (atrás do rastro, de longe), **quatro com ele**,
+e **Mira, Saboc e Mathias ficam no pouso** com o cocheiro, telhado, porta e
+prata para uma semana. A coleira, sem acusação: "Enquanto a raiz estiver com o
+senhor, elas fazem o que o senhor mandou. Nada mais." O xamã fecha — "O senhor
+vai lá em cima sem olhos." → **"Vou comprar olhos."** Última linha: o **papel do
+Rei** no bolso de dentro, do tamanho de uma mão — sobe a estrada com ele, e
+chega antes.
 
-o **A doutrina na boca do povo (semente #21 — a germinação).** Na feira, na
-  **subida**, Nolan ouve pedaços tortos do sermão do cap. 25 repetidos por
-  estranhos, e as frases soam como o **livro** que ele levou ao Conselho (a
-  Bíblia de Kraviam — clique de categoria, sem revelar que era a Bíblia). Duas
-  consequências, sem narrador explicando: (1) o instrumento que ele usou contra
-  Genocydo **anda sozinho** — não precisa de Mário para circular; (2) um credo
-  que promete salvação **sem pagamento** numa terra que vive de dívida herdada
-  é ameaça que ele sabe medir em números. Mário deixa de ser farsante fugitivo
-  e passa a ser **portador de algo que se espalha**. A feira também lhe dá a
-  **direção** (a estrada da Mina).
+o **✂️ Corte do capítulo:** **Corte C** — consequência simples e visível
+("Vou comprar olhos", com o gancho do papel que chega antes). **Não** fechar em
+bacia de pedra: o gancho antigo morreu — a bacia segue no livro pelos caps. 26
+e 27.
 
-o **O dilema (corrigido em 2026-09-20).** O gatilho do retorno é a **carta de
-  Layla**, lida em Tronk **na subida**: Juleen viva e localizável, o Conselho
-  reunido duas vezes sem ele. Nolan compra provisão para onze dias — de volta —
-  e **sobe assim mesmo**: não decide sobre boato, e sem saber em que mão o
-  homem caiu os seis não têm rastro para onde ir. O fim da caça acontece no
-  **sítio**, não no cruzamento — a Ordem tomou o rastro. Ele não escolhe entre
-  dois bens: escolhe a perda que dá para segurar de longe.
-
-o **O retorno à Metrópole (decisão 2026-08-30).** Nolan recebe a **carta de
-  resposta de Layla** sobre a vembra e decide que precisa voltar para
-  resolver pessoalmente. Deixa rampillas no encalço de Mário e parte. O
-  retorno é o **custo** na corrida: ele perde a proximidade física, e os
-  Inquiridores ganham vantagem. Mas agora ele tem os **olhos dos rampillas**
-  (sentidos à distância, operados por Ossan — ver `conceitos/rampillas.md`).
-
-o **Quem volta com ele (decisão 2026-09-18; ajuste 2026-09-20).** Mira e
-  Saboc vão no retorno — o herdeiro entra na Metrópole (peso contra Juleen no
-  cap. 32) — e **Ossan também** ("Preciso de rampillas na Metrópole também").
-  Transporte: a carroça do incêndio, **consertada na forja de Tronk, na
-  subida** (cruzamento da estrada da Mina com a estrada para o sul) — e é ali,
-  na subida, que ele ouve o rastro do "feiticeiro" que caça. Ver
-  `decisoes/carruagem-vira-carroca-cap24.md`.
-
-o **⚑ A raiz-mestra e o campo (pedido do autor, 2026-09-19 — mecanismo
-  fechado no texto).** Nolan despacha a caçada e abre o canal com Ossan: a raiz-mestra
-  volta ao palco com corpo, não como lembrança. Fatos que restringem a cena:
-  (a) o controle exige **contato** com a raiz (cap. 22) e o alcance é limitado
-  por ela — "ou exige um nó intermediário" (`conceitos/rampillas.md`); (b)
-  Nolan **não pode** voltar ao castelo; (c) os rampillas já viajam com ele
-  desde o castelo (cap. 24) e obedecem no campo. **Proposta do agente**: um
-  **nó/corte da raiz-mestra** viaja no caixote de terra, na carroça — resolve
-  (a) e (b), dá corpo físico à coleira de Ossan e explica retroativamente o
-  cap. 24. **Função dramática no 29**: a força equivalente a Inquiridores e
-  mercenários existe — mas é operada pelo único homem em quem Nolan não pode
-  confiar. Violência igual, precisão menor (não rastreiam como a "frequência"
-  dos Inquiridores; a inteligência do rastro é do Ossan). ✔ **Executado no
-  cap. 28 (2026-09-19; ajustado em 2026-09-20):** o corte da raiz viaja no
-  caixote de terra preta, com **Nolan e Ossan** para o sul; Ossan põe a mão
-  aberta na terra e as seis criaturas se põem de pé ao mesmo tempo. O preço,
-  dito por ele: "Enquanto a raiz estiver com o senhor, elas fazem o que o
-  senhor mandou. **Nada mais**." Os seis vão **sem condutor** — e é isso que
-  torna a delegação assustadora.
-
-o **✂️ Corte do capítulo (2026-09-13; reescrito 2026-09-20):** **Corte C** —
-fechar no instante da escolha irrevogável, com botão de ameaça; **não** fechar
-  em deslocamento de grupo. **Regra do C:** a consequência tem de ser **simples
-  e visível** — uma imagem, não um cálculo. No texto: a decisão falada (Ossan
-  pergunta se ele vai largar a caçada; Nolan responde que desce para a
-  Metrópole, "o que é meu, eu fecho com a minha mão") e, como consequência, os
-  **seis entrando no mato** atrás do sangue-isca da Kate. Não usar
-  "olhou/partiu para o norte" (gesto repetido nos caps. 22, 23, 24 e 26) nem
-  "escuro" ou "silêncio" no fecho.
-
-o **⚑ Abertura (2026-09-18; revista em 2026-09-20):** a regra de "abrir
-  executando no terreno" caiu com a reestruturação — o capítulo abre no
-  **cruzamento de Tronk**, com ele trabalhando (a roda na forja, a feira, o
-  correio), e o terreno passa a ser o segundo movimento. O que a regra
-  protegia continua de pé: ele não avalia de longe — age, e a virada segue
-  sendo a **aritmética da ausência**, medida no terreno.
+o **Fronteira:** o cap. 29 (Mário) é a metade paralela — os mesmos dois dias,
+sem Nolan. O próximo Nolan é o **32**.
 
 o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 28 fechado em
-  **2.740 palavras** (antes 2.624). Ver `capitulos/capitulo-28.md`.
+  **3.200 palavras** (o rabo novo somou ~460). Ver `capitulos/capitulo-28.md`.
 
 > **⚑ Linha de estado — a ÁGUA (regra dura em `conceitos/agua-e-seca.md`; decisão do autor 2026-09-20).**
 > A seca é **prazo oficial** do bloco: sem água, morrem. ⚠️ **Vale a partir
@@ -505,7 +442,7 @@ o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 28 fechado em
 > perder a corrida) ou seguir (arriscar o grupo) — e a decisão é do **Mário**;
 > (5) **milagre não dá água** e a Voz fica muda sobre água; "achei água" não é
 > confirmação do plano dele.
-> **Progressão (revisada 2026-09-20, 3ª vez):** 30 — **Mário e Lakand com
+> **Progressão (revisada 2026-09-20, 4ª vez, 2026-10-04):** 29 — **Mário e Lakand com
 > ZERO** (fugiram do cap. 28 sem nada; os odres dos mortos ficaram no
 > acampamento e **só a Kate os podia pegar**). O **orvalho** (noite fria de
 > outono) dá **meio cantil — água, mas insuficiente**. A volta à bacia é
@@ -520,10 +457,14 @@ o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 28 fechado em
 > limpa. **E o que a destilação não faz é o coração do capítulo:** a água sai
 > **cristalina** e **cobra igual** — a conta não é química (o guardrail do
 > milagre com roupa nova: "minha técnica confirma meu plano"). **A conta da
-> água NÃO é cobrada no 30** (capítulo sobrecarregado): quem bebe sai com a
-> sede saciada e a batalha na cabeça. **O preço vem na falta** — a memória
-> com nome próprio se perde, e o pagamento fica para a **Noite Escura** (o
-> Mário procura o nome do irmão e não acha).
+> água NÃO é cobrada no 29** (capítulo sobrecarregado — lá eles só bebem):
+> quem bebe sai com a sede saciada e a batalha na cabeça. **O preço é do
+> cap. 31 ("Uma Noite")** — a água sai cristalina e **cobra igual**: o que ela
+> leva é **memória**. O Mário perde **a família inteira** (nomes e imagens;
+> ficam os fatos, a culpa, a língua e os lugares); o **Lakand perde a memória
+> da travessia**. O custo aparece **por omissão na prosa** (uma oração sem
+> nome nenhum) e só é **nomeado na Noite Escura** — o payoff é do L2. Canon em
+> `decisoes/capitulo-31-uma-noite-salvamento.md`.
 > **A travessia em quatro tempos (decisão do autor, 2026-09-20):** (1) eles
 > fazem tudo certo; (2) **a lei funciona na frente do leitor** (um eco passa a
 > um braço de distância e não reage); (3) **a lei quebra mesmo assim, no meio
@@ -534,10 +475,10 @@ o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 28 fechado em
 > antiga e passam a **repetir o presente** — a chegada deles. Depois da
 > travessia, **a ponte queima atrás:** o campo conhece os dois e a volta fica
 > fechada. O Mário **registra**, sem entender.
-> 31 — **Kate tem dois
+> 30 — **Kate tem dois
 > cantis** (pegou depois que a Ordem recolheu e foi embora): ela é a água e
 > não sabe onde os dois estão — **o reencontro é literal, ela chega com
-> água**. 32-35 — a água vira **preço político** na subida à Mina.
+> água**. 32-36 — a água vira **preço político** na subida à Mina.
 > ⚠️ **Os Moribundos ressurgem como eco da Hícse solta** → **o Gaviorn'l
 > morre no mesmo tempo do cap. 29**, na metade da Kate: as duas metades
 > acontecem **em paralelo e uma causa a outra**. O Mário **registra sem
@@ -549,37 +490,39 @@ o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 28 fechado em
 > `conceitos/agua-e-seca.md`).
 > ⚠️ Vocabulário: *bacia de pedra* (bebedouro) ≠ *bacia métrica* (instrumento
 > de ofício) — nunca "bacia" sozinha.
-> **Pendência:** os PoVs de 30-32 estão em reestruturação — ver
-> `decisoes/gaviornl-morte-antecipada-hicse.md`; quem paga a memória no cap.
-> 30 é decisão aberta (recomendação: o Mário, e o que se perde é o **nome do
-> irmão**, cobrado depois, na Noite Escura).
+> **Pendência resolvida (2026-10-04):** os PoVs de 29-32 estão fechados no
+> MAPA acima. **Quem paga a memória é o cap. 31**, e o que se perde está
+> decidido (a família inteira para o Mário; a travessia para o Lakand). Ver
+> `decisoes/gaviornl-morte-antecipada-hicse.md` e
+> `decisoes/capitulo-31-uma-noite-salvamento.md`.
 
-> **🗺️ MAPA DA REESTRUTURAÇÃO (2026-09-20) — a separação e o que ela moveu.**
-> Fonte única de verdade para PoV e conteúdo dos caps. 29 - 37.
->
-> ⚠️ **Inserção (2026-10-01, decisão do autor):** o **cap. 28 = Nolan** (a
-> bacia — os mortos, o machado, o edital; o gancho do cap. 28). Com a
-> inserção, a sequência deste mapa (**30-36**) volta a valer: 30 = Mário,
-> 31 = Kate, 32 = Nolan, 33 = Mário, 34 = Kate, 35 = Mário, 36 = Mina.
+> **🗺️ MAPA DA REESTRUTURAÇÃO — fonte única de verdade para PoV e conteúdo dos caps. 28 - 37.**
+> **Atualizado em 2026-10-04.** Duas renumerações desde a versão anterior: (a) o
+> **antigo cap. 29 do Nolan foi cortado** e o rabo (a lição + a ordem) desceu
+> para o **28**; (b) o **salvamento do Lakand entrou como cap. 31**. A numeração
+> abaixo é a **real do manuscrito** — confira contra `capitulos/`.
 >
 > | Cap. | PoV | Conteúdo |
 > | --- | --- | --- |
-> | 30 | **Mário** | Orvalho (meio cantil) → volta à bacia recusada → **travessia dos Moribundos** (5 tempos; o campo vira; o **Lakand ferido por um Moribundo**; o reconhecimento do sonho do cap. 1). **Fecho: o ferimento do Lakand.** |
-> | 31 | **Kate** | Os odres dos mortos → o Inquiridor da cicatriz → **Gaviorn'l mata o Inquiridor** → **Kate mata Gaviorn'l** (Hícse solta) → a busca → **o reencontro** (fecho). |
-> | 32 | **Nolan** | Juleen (enforcamento) → a observação da **dupla** pelos rampillas → a decisão de **atrair** Mário. |
-> | 33 | **Mário** | O assentamento → **o batismo** (renúncia + 1º "Javé") e a água que cobra dos pobres → **a decisão da Mina**. |
-> | 34 | **Kate** | **O combate dos rampillas** — as seis alcançam o grupo; ela mata duas e **faz os convertidos executarem o que sobra** (é o recrutamento, feito com as mãos deles) → a fissura → Lakand ("você está apaixonada") → a confirmação de que ele mordeu a isca. |
-> | 35 | **Mário** | A marcha → **a tempestade de quartzo** (migrada do 34; o manto queima na página) → o ensaio do discurso → a criança toca o Lakand → **Etemenanki**. |
-> | 36 | **Mário** | A Mina (Ponto Central) — intacto. |
+> | 28 | **Nolan** | A Conta: o assentamento (o milagre replicável) → as duas cartas postadas → **o edital tirado da parede do correio** → a negação do escriba (5º degrau) → o carroceiro (a bacia, os oito) → **a lição da emendadeira** (a raiz para na água e na pedra) → **a ordem** ("Vou comprar olhos"). |
+> | 29 | **Mário** | Moribundos: o orvalho (meio cantil) → a volta à bacia recusada → **a travessia** (o campo vira; o **Lakand ferido por um Moribundo**; o reconhecimento do sonho do cap. 1) → **sem água, sem Kate**. **Fecho: o ferimento do Lakand.** |
+> | 30 | **Kate** | Os odres dos mortos → o Inquiridor da cicatriz → **Gaviorn'l mata o Inquiridor** → **Kate mata Gaviorn'l** (Hícse solta) → a estrada e os quebrados que andam com ela → **o reencontro** (fecho: ela chega com água, e eles chegam como **discípulos**). |
+> | 31 | **Mário** | **Uma Noite** — o salvamento pelo conhecimento do séc. XXI: o corte do podre, a água da ferida destilada, a revelação ("De onde você veio") e **o preço** (a água cobra memória). |
+> | 32 | **Nolan** | **A Mina como lugar** — ele sobe pelo **Espinhaço** (sem água, sem raiz: cego) → **compra informação** → vê a Mina **antes** dela cair. |
+> | 33 | **Mário** | O assentamento → **o batismo** (renúncia + 1º "Javé") → **a decisão da Mina** (ele vai **para pregar** — não sabe de revolta nenhuma). |
+> | 34 | **Kate** | **O combate dos rampillas** — as seis alcançam o grupo; ela mata duas e **faz os convertidos executarem o que sobra** (é o recrutamento, feito com as mãos deles) → a fissura → Lakand ("você está repetindo o erro deles") → a objeção do Mário, **tarde**. |
+> | 35 | **Mário** | A marcha → **a tempestade de quartzo** (o manto queima na página) → o ensaio do discurso → a criança toca o Lakand → **Etemenanki**. |
+> | 36 | **Mário** | A Mina (Ponto Central). |
+> | 37 | **Nolan** | A leitura da ruína. |
 >
-> **O que mudou:** o batismo saiu do antigo 31 → **33**; a fissura, o recrutamento e o Lakand saíram do antigo 31 → **34**; a tempestade saiu do 32 → **34**; o 31 passou a ser a **metade da Kate** (paralela ao 30). **O que NÃO mudou:** o 30 continua Mário, o 32 continua Nolan, o 33 continua a decisão do Mário, o 34 continua Kate, o 35 continua Mário, o 36 continua a Mina.
+> **O que mudou em 2026-10-03/04 (as duas renumerações):** o **antigo cap. 29 do Nolan deixou de existir** — a lição e a ordem desceram para o rabo do **28**; tudo o que era ≥30 desceu um; e o **salvamento do Lakand entrou como 31**, empurrando o resto para cima. **Nolan não volta à Metrópole no L1** — ele sobe pelo **Espinhaço** e compra informação; a **vembra** desce para a **volta** (Mira, na descida). Ver `decisoes/jornada-nolan-acre-2026-10-03.md` e `decisoes/capitulo-31-uma-noite-salvamento.md`.
 > ⚠️ **Custo assumido:** o 33 carrega dois movimentos (batismo + decisão) — escrevê-lo **curto**, com a decisão como virada final (Corte C com ironia). O 34 carrega **o combate + a fissura + o Lakand** — também **curto**, fechando no corte B; a tempestade sai daqui. O 35 passa a carregar **a tempestade + a marcha + o ensaio + a criança** — o corte A (Etemenanki) fecha.
 > **Movido em 2026-09-21:** a **tempestade** saiu do 34 e foi para o **35** (abre o capítulo, como desafio fantástico na marcha) para dar lugar ao **combate dos rampillas** no 34 — que é o recrutamento e precisa do grupo já convertido.
-> ⚠️ **Movido em 2026-10-01 (fecho do 30):** o cap. 29 **termina com o Lakand ferido por um Moribundo**; a **água da ferida + a destilação** e o **salvamento do Lakand pelo conhecimento do séc. XXI** (com a revelação — "De onde você veio" → Mário não é de Ornick) vão para o **capítulo seguinte do fio do Mário** — que **vem DEPOIS do cap. 30 da Kate** (decisão do autor, 2026-10-01); o ferimento fica pendurado no capítulo dela (o reencontro chega com sangue: "aliviar, não resolver"), e o capítulo do Nolan desliza um número (reflui quando chegarmos lá).
-> ⚠️ **Perda declarada:** cai a justaposição "Nolan enforca Juleen × Mário sobrevive à tempestade" (a tempestade mudou de capítulo). O frio da cena passa a ser a **observação da dupla** logo depois do enforcamento.
+> ⚠️ **Resolvido em 2026-10-04 (era "movido em 2026-10-01"):** o **cap. 29** termina com o **Lakand ferido por um Moribundo**; a **água da ferida + a destilação** e o **salvamento pelo conhecimento do séc. XXI** (com a revelação — "De onde você veio" → Mário não é de Ornick) são o **cap. 31 — "Uma Noite"** (decisão do autor, 2026-10-03), que **vem DEPOIS do cap. 30 da Kate**. O ferimento fica pendurado no capítulo dela: o reencontro chega com sangue e só **alivia, não resolve**. O capítulo do Nolan refluiu para o **32** (a Mina como lugar).
+> ⚠️ **Perda declarada:** cai a justaposição "Nolan enforca Juleen × Mário sobrevive à tempestade". Com o Nolan fora da Metrópole no L1, **o enforcamento de Juleen sai do meio do livro** e vai para o bloco final da Metrópole, em paralelo ao Caixão do Mário.
 >
-> ⚠️ **Ordem fixa: 30 ANTES de 31.** O 31 fecha no **reencontro** — logo o 30 tem de vir primeiro, senão o leitor atravessa os Moribundos já sabendo que eles sobrevivem e que a Kate chega. A sequência emocional certa é: **30 = o medo** (o campo vira; eles vivos, mas sem volta; e onde está ela?) → **31 = o alívio** (ela vive, matou, e carrega a água).
-> **Amarrar as duas metades sem narrador:** a travessia e a luta acontecem **na mesma hora** — marcar a hora nas duas pontas (o sol a pino no 30; a luta “quando o sol virou” no 31). É o suficiente para o leitor juntar em **Gus**.
+> ⚠️ **Ordem fixa: 29 → 30 → 31.** O **30 (Kate)** fecha no **reencontro** — logo o **29 (Mário)** tem de vir antes, senão o leitor atravessa os Moribundos já sabendo que eles sobrevivem e que a Kate chega. A sequência emocional certa é: **29 = o medo** (o campo vira; eles vivos, mas sem volta; e onde está ela?) → **30 = o alívio** (ela vive, matou, e carrega a água) → **31 = a conta** (ele salva o Lakand, e a água cobra).
+> **Amarrar as duas metades sem narrador:** a travessia e a luta acontecem **na mesma hora** — marcar a hora nas duas pontas (o sol a pino no 29; a luta "quando o sol virou" no 30). É o suficiente para o leitor juntar em **Gus**.
 
 #### Capítulo 29 (PoV de Mário) — Novo (Criatura Fantástica)
 

@@ -97,23 +97,23 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Relação**: interroga Mira; envia Mathias; confia em Ossan por controle (raiz-mestra), não por lealdade
 - **Séquito**: rampillas (~dezena), Mira com Saboc, Mathias montado, Ossan, cocheiro (guia a carroça), dois servos
 
-## Capítulos 25 - 27 — ausente
+## Capítulos 23 - 27 — ausente
 
-- _Não aparece em cena_ (POVs de Mário e Kate: a feira de Tronk, o cerco, a
-  fuga). (Numeração antiga aguardando a varredura.)
+- _Não aparece em cena_ (POVs de Kate e de Mário: o assentamento, a feira de
+  Tronk, o preço da fama, o cerco, a noite na fenda). Ele reaparece no 28.
 
-## Capítulo 28 — A Conta (Tronk — versão 2026-09-27)
+## Capítulo 28 — A Conta (Tronk → o rabo no cruzamento — versão 2026-10-04)
 
 - **Vestimenta**: roupas de viagem escuras e práticas; botas; lenço de seda (a rinite)
 - **Óculos**: sim
-- **Acessórios**: o selo do ofício (deixado sobre o balcão e ignorado); o caderno de ocorrências; as duas cartas seladas com cera e o brasão dos Guenayer
-- **Local**: assentamento dos refugiados da Mina → estrada → **Tronk** (a forja, a feira, a casa de serviços postais, o tabelionato do cruzamento) → acampamento fora das barracas
-- **Expressão**: frieza de trabalho; a "onda de calor" contida diante da recusa; firmeza baixa no fecho
-- **Ação**: desce do cavalo para a menina (e não toca nela); escreve e posta as duas cartas; ouve a feira; toma a negação do escriba; ouve o carroceiro; decide a subida
-- **Objetos de cena**: as duas cartas (Rei e Koda); o selo do ofício; o caixote da raiz mestra aberto à noite
-- **Relação**: com a Ordem, a **primeira vez** que o Templo nega (5º degrau); com o carroceiro, a compra da informação; com Ossan/Mathias/Saboc, de passagem
-- **Séquito**: Ossan e Mathias na ronda; Saboc com o séquito; o caixote da raiz mestra
-- **Iluminação**: manhã no assentamento → tarde na feira → noite no acampamento
+- **Acessórios**: o selo do ofício (deixado sobre o balcão e ignorado); o caderno de ocorrências; as duas cartas seladas com cera e o brasão dos Guenayer; **o edital do Trono, dobrado nos vincos, no bolso de dentro**; o corte da raiz mestra (do tamanho de um antebraço), nas duas mãos
+- **Local**: assentamento dos refugiados da Mina → estrada → **Tronk** (a forja, a feira, a casa de serviços postais, o tabelionato do cruzamento) → acampamento fora das barracas → **a árvore emendadeira a uns trinta passos da última fogueira**, onde o capim começa
+- **Expressão**: frieza de trabalho; a "onda de calor" contida diante da recusa; **o coração batendo rápido** depois de ver pelos rampillas; firmeza baixa no fecho
+- **Ação**: desce do cavalo para a menina (e não toca nela); escreve e posta as duas cartas; **tira o edital da parede do correio com a unha**; ouve a feira; toma a negação do escriba; ouve o carroceiro; **aprende a ver pelos rampillas**; **dá a ordem** (seis na frente, quatro com ele); **passa pela carroça antes de entrar** e ajeita o pano do Saboc com dois dedos
+- **Objetos de cena**: as duas cartas (Rei e Koda); o selo do ofício; **o edital** (da parede para o bolso de dentro); o caixote da raiz mestra aberto; a árvore de caule grosso em sulcos compridos
+- **Relação**: com a Ordem, a **primeira vez** que o Templo nega (5º degrau); com o carroceiro, a compra da informação; com **Ossan, a dependência** (o xamã abre e fecha; sem ele não há o que ver); com **Mira/Saboc/Mathias, a decisão de deixá-los** no pouso
+- **Séquito**: Ossan ao lado dele na lição (de pé, mãos ao longo do corpo); **seis rampillas na frente pelo mato**; **quatro com ele**; Mira, Saboc e Mathias ficam no pouso com o cocheiro; a mula e a carroça ficam
+- **Iluminação**: manhã no assentamento → tarde na feira → **noite no acampamento, e a lição à luz da última fogueira**; depois, escuro
 
 ## Histórico por Capítulo
 

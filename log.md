@@ -1,5 +1,28 @@
 # Log de Atualizações
 
+## 2026-10-04 (Mini-INGEST do cap. 28 + conserto do mapa)
+
+- **Mini-INGEST do cap. 28 fechado** (o rabo novo — a lição e a ordem — tinha
+  entrado depois do ingest de 29/09). Atualizados: frontmatter, **Resumo**
+  (a quarta parada, o edital, o fim da bacia), **Personagens** (o papel na
+  parede, o preço da xilomagia, a conta da pedra, "Vou comprar olhos"),
+  **Ossan** com ficha na seção do capítulo, **Eventos** (8-11) e **Sementes**.
+- **O fantasma do cap. 24 (Nolan) foi removido do `esquema-l1.md`.** Ele era o
+  resto de uma versão em que o capítulo do Nolan vinha antes; **toda a faixa
+  dos caps. 24-28 estava deslocada em um**. Agora os cabeçalhos batem com o
+  manuscrito e com os ingests (24 = Mário/A Feira de Tronk, 25 = Kate/O Preço
+  da Fama, 26 = Mário/O Cerco, 27 = Kate/Não Apodreceu, 28 = Nolan/A Conta).
+- **Corpo do cap. 28 reescrito** no esquema (os itens antigos descreviam a
+  subida ao sítio e o retorno à Metrópole — versões mortas).
+- **MAPA DA REESTRUTURAÇÃO refeito** com a numeração real: 28 Nolan, 29 Mário,
+  30 Kate, 31 Mário (Uma Noite), 32 Nolan (a Mina como lugar), 33 Mário,
+  34 Kate, 35 Mário, 36 A Mina, 37 Nolan.
+- **Bloco da ÁGUA renumerado e fechado:** a conta **não** é cobrada no 29; o
+  preço é do **31** (o Mário perde a família inteira; o Lakand, a travessia).
+  A pendência dos PoVs 30-32 está resolvida.
+- **`visuais/nolan.md`:** o cap. 28 atualizado (o edital, a árvore, os seis na
+  frente); a faixa de ausência corrigida para **23-27**.
+
 ## 2026-10-04 (3ª revisão: o treino vira disfarce, e chega com ela)
 
 - **Revê a revisão anterior** ("o treino é ausente do campo de visão dele").

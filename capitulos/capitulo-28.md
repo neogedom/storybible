@@ -6,7 +6,7 @@ titulo: "A Conta"
 pov: Nolan
 beat_stc: Jogos e Diversão
 percentual_l1: ~55,7% (real, régua 137,5k)
-data_ingest: 2026-09-29 (Mini-INGEST novo — capítulo reestruturado em 25-27/09; ex-29)
+data_ingest: 2026-09-29 (reestruturado em 25-27/09; ex-29) + 2026-10-03/04 (rabo novo: a lição e a ordem — Resumo, Eventos e Sementes atualizados)
 personagens:
   - Nolan (POV)
   - Carroceiro do cruzamento (traz os três da bacia; mostra a água aos caçadores)
@@ -21,12 +21,15 @@ lugares:
 conceitos:
   - 5º degrau da escada Nolan ↔ Inquiridores — o Templo nega informação pela primeira vez
   - O Souhma corre sozinho — o conceito descolou do homem
-  - A bacia de pedra — os mortos sem sepulto e o rastro do feiticeiro (gancho do próximo capítulo do Nolan)
+  - O edital do Trono — preso na parede da casa de correios dele; a soma por extenso e em números
+  - A emendadeira e o limite da raiz — a raiz para na água e para na pedra
+  - O norte é pedra — da pedra em diante (a Mina) ele não vê dentro; é o que o obriga a comprar informação
   - A mala do Trono — as duas cartas (Rei e Koda) postadas na subida
 sementes:
   - "#21 — Germinação do Evangelho (a feira; PoV oposto ao cap. 24)"
-  - "A bacia de pedra (payoff imediato: os furos, o machado, o edital)"
-  - "O cartaz do Trono com descrição do 'homem que cura' circulando entre caçadores"
+  - "O edital no bolso de dentro — sobe a estrada com ele e chega antes (payoff: a Mina)"
+  - "Seis rampillas na frente pelo mato — ficam cegos quando o rastro alcança a pedra (cap. 34)"
+  - "O carroceiro da água — o homem que mostrou a água aos caçadores (ponta solta: sem destino no canon)"
   - "Nolan cobra de Nuh a recusa (ideia — insights/nolan-cobra-nuh-informacao-negada.md)"
 ---
 
@@ -36,9 +39,11 @@ sementes:
 
 POV Nolan, em três paradas. (1) **O assentamento dos refugiados da Mina**: a confirmação do milagre replicável — a menina do joelho fechado, sem reza e sem pagamento; "Nenhuma magia de Ornick fechava um joelho"; a única outra vez fora o filho, em Devour, na noite em que nasceu sem ar. A direção do trio sai dali: um homem de fora, magro, com uma mulher de faca e um homem grande, para o norte. (2) **A estrada e Tronk**: as duas cartas — ao Rei (justificativa da ausência; a recompensa nas mãos de mercenários) e a Koda (o plano; o Estrangeiro faria Nolan ganhar o trono) — seladas com o brasão dos Guenayer e **postadas na casa de serviços postais**; e, na feira, a doutrina correndo sozinha ("nem precisavam da presença do próprio Estrangeiro para sobreviverem").
 
-(3) **O cruzamento**: a carroça do carroceiro traz **só os três Inquiridores mortos**, para o enterro (os outros mortos ficaram na bacia). O escriba da Ordem nega informação e **ignora o selo do ofício** — "Cuide dos seus negócios, senhor. Eu cuido dos de Vonos." — a primeira vez em todos os anos de ofício de Nolan: o 5º degrau. O tabelião assenta os três nomes no livro; os da bacia não têm livro nenhum. Depois que o Templo sai, o carroceiro entrega o resto: na **bacia de pedra**, dois dias acima, há oito ou nove mortos largados, e o feiticeiro esteve lá — foi ele quem mostrou a água aos caçadores. É o que decide a subida: "Amanhã, antes do sol, na estrada da Mina. Quero ver uma bacia de água que tem para lá."
+E, na **parede da casa de serviços postais** — a rede que ele mesmo montou, posta a posta — o **edital do Trono**: prende-se, vivo, o homem que cura; a altura, os olhos, a idade aproximada; e a soma **por extenso e em números**. O papel que subia e descia o Reino havia semanas passou pela rede dele e ele só soube por ouvir contar. Nolan tira os quatro percevejos com a unha, dobra a folha nos vincos e diz ao posteiro: "Eu respondo por esta mala. E este papel fica comigo."
 
-O capítulo fecha **apontando o norte**: a forquilha do cruzamento e, à noite, o caixote da raiz aberto — os rampillas diante de uma utilidade.
+(3) **O cruzamento**: a carroça do carroceiro traz **só os três Inquiridores mortos**, para o enterro (os outros mortos ficaram na bacia). O escriba da Ordem nega informação e **ignora o selo do ofício** — "Cuide dos seus negócios, senhor. Eu cuido dos de Vonos." — a primeira vez em todos os anos de ofício de Nolan: o 5º degrau. O tabelião assenta os três nomes no livro; os da bacia não têm livro nenhum. Depois que o Templo sai, o carroceiro entrega o resto: na **bacia de pedra**, dois dias acima, há oito ou nove mortos largados, e o feiticeiro esteve lá — foi ele quem mostrou a água aos caçadores. É o que decide a subida — e a ordem que ele dá ao séquito é seca, sem bacia no meio: "Amanhã, antes do sol, na estrada da Mina."
+
+(4) **O rabo — a lição e a ordem (acrescentado em 2026-10-03; o antigo cap. 29 morreu aqui).** A poucos passos das barracas, Ossan diz "Eu faço a xilomagia", põe a palma da mão na terra e abre: Nolan recebe as sensações — o frio de uma água a léguas, o peso da luz em cima dela, o zumbido de uma nuvem de moscas, um gosto de podre que não era do ar dele — e depois **os oito, um por um**, cada um como um peso pousado no chão quente. Não eram palavras nem imagens: eram formas. E **não conseguiu ir mais longe.** O xamã dá o limite em duas frases: a raiz **para na água**; e **para na pedra**. Nolan faz a conta sozinho, sem dizer: acima do cruzamento a estrada sobe para o quartzo — **da pedra em diante, incluindo a Mina, ele não vê dentro.** A lição acontece ali mesmo, a trinta passos da última fogueira, onde o capim começa; **o bebê nunca entra no mato**. Vem a ordem, na ordem em que precisavam ser dadas: **seis criaturas na frente pelo mato**, atrás do rastro, de longe; **quatro com ele**; Mira, Saboc e Mathias ficam no pouso, com o cocheiro, com telhado e porta, e prata para uma semana. A coleira, dita por Ossan sem que Nolan pergunte: "Enquanto a raiz estiver com o senhor, elas fazem o que o senhor mandou. Nada mais." Ele levanta a única coisa que tem: **"Vou comprar olhos."** O capítulo fecha no papel do Rei, dobrado no bolso de dentro, do tamanho de uma mão — **sobe a estrada com ele, e chega antes.**
 
 ## Personagens
 
@@ -48,7 +53,11 @@ O capítulo fecha **apontando o norte**: a forquilha do cruzamento e, à noite, 
 - **O 5º degrau (a virada):** a primeira negação de informação em todos os anos de ofício. Não é humilhação — é **desconsideração**, que é pior.
 - **Nota e não conclusão:** a recusa basta — ele nota e não conclui. (O plant do Templo de Rifte esvaziado foi tentado e **dispensado** — decisão do autor, 29/09: não é necessário.)
 - **A leitura da caçada:** "A mulher devia ser Kate. E a fera?"; a hipótese marcada como conta de estrada ("registro, não havia nenhum").
-- **A decisão:** subir à bacia antes de qualquer outra coisa — alcançar o Estrangeiro segue a ocupação principal.
+- **O papel que ele tira da parede (novo, 2026-10-03).** O edital do Trono preso na **parede do próprio correio dele**, na rede que ele montou posta a posta. Não há teatro nem raiva: ele tira os percevejos com a unha, dobra nos vincos e assume — "Eu respondo por esta mala. E este papel fica comigo." O instrumento que ele assinou voltando contra o que ele quer.
+- **O preço da xilomagia (novo, 2026-10-03).** Ele **sente** — e **depende**. O xamã abre com a palma na terra; quando a mão sai, tudo apaga. O registro fica sem nome: "Podia ser ferramenta. Podia ser coleira."
+- **A conta que ele faz sozinho.** O norte é pedra; da pedra em diante os olhos dele não chegam. É isso, e não a vontade, que o obriga a **comprar informação** — e ele não diz isso em voz alta para ninguém.
+- **"Sentir não era ler."** O que chega são sensações, não provas: ele recupera o número (oito) e nada mais. O método dele continua sendo o método dele.
+- **A decisão (reescrita):** não é mais subir à bacia. É subir **atrás do Estrangeiro** com seis olhos no mato e quatro na mão — "Vou comprar olhos."
 
 ### O carroceiro do cruzamento
 
@@ -61,6 +70,13 @@ O capítulo fecha **apontando o norte**: a forquilha do cruzamento e, à noite, 
 - O escriba **nega e ignora**: não responde, não se explica, cuida "dos de Vonos"; paga o carroceiro e sai.
 - O tabelião cumpre: aceno ao Juiz, os três nomes assentados no livro (gente com nome; os da bacia, sem livro nenhum).
 - "Faça como quiser. A Verdade não se ocupa com os que não são dela."
+
+### Ossan (cena nova, 2026-10-03)
+
+- **O ofício é dele.** "Eu faço a xilomagia — O senhor olha." Palma na terra, palavras numa língua embaraçada que Nolan não entende. A criatura encosta no tronco e **cede os sentidos**; a raiz leva o que ela sente até onde ela vai, e a **emendadeira** procura a raiz da vizinha e se emenda — foi assim que "o lorde enxergava longe".
+- **Dá o limite em duas frases e não explica mais:** "A raiz para nela. Não atravessa. Se tem água ou pedra, a raiz não vai." Deixa a conta para Nolan.
+- **A coleira, dita sem acusação:** "Enquanto a raiz estiver com o senhor, elas fazem o que o senhor mandou. Nada mais." E, antes: **"O senhor vai lá em cima sem olhos."**
+- **Ele executa a ordem:** a mão aberta na terra preta do caixote e as seis de pé ao mesmo tempo, sem um som. Nada de perguntas.
 
 ### De passagem
 
@@ -75,13 +91,17 @@ O capítulo fecha **apontando o norte**: a forquilha do cruzamento e, à noite, 
 5. **A carroça:** três volumes de gente; "Enterrem os três da Ordem" / "Segundo as tradições fúnebres de Vonos"; "E os outros que ficaram?" → "Faça como quiser. A Verdade não se ocupa com os que não são dela."; os três nomes assentados no livro; o espirro contido.
 6. **A negação:** "O que aconteceu?" (silêncio) → selo sobre o balcão → "Nolan Guenayer, Juiz da Metrópole e Conselheiro da Coroa. Pergunto novamente. Por que estão mortos?" → "Cuide dos seus negócios, senhor. Eu cuido dos de Vonos." A reflexão da primeira vez. O escriba paga o carroceiro e sai.
 7. **O carroceiro (depois do Templo sair):** a bacia de pedra, dois dias de subida; oito ou nove mortos largados "perto da água"; "O homem de Vonos mandou trazer só os dele"; a aritmética de Nolan (hipótese); "teve dedo daquela fera, da mulher e do feiticeiro"; o **cartaz com uma descrição**; "me pagaram e eu mostrei"; "A mulher devia ser Kate. E a fera?"
-8. **O fecho:** provisão de onze dias; a roda pronta; a ordem ("Amanhã, antes do sol, na estrada da Mina. Quero ver uma bacia de água que tem para lá."); a forquilha (norte atrás do Estrangeiro × sul para a Metrópole); à noite, o caixote da raiz aberto e "Estava na hora de dar-lhes alguma utilidade."
+8. **O fecho da segunda parada (reescrito em 2026-10-03):** provisão de onze dias de estrada; a roda pronta antes de escurecer; a ordem ao séquito ("Amanhã, antes do sol, na estrada da Mina"); a forquilha — a do norte, atrás do Estrangeiro; a do sul, de volta para a Metrópole — e ele parado na boca da estrada; à noite, o caixote aberto e "Estava na hora de dar-lhes alguma utilidade."
+9. **A lição (novo, 2026-10-03):** "Ossan." → "O senhor quer ver com elas." / "Quero." → a árvore de caule grosso a **uns trinta passos**, onde o capim começa → a criatura de mãos enterradas até os pulsos → o mecanismo (encosta no tronco, cede os sentidos, a emendadeira emenda raiz com raiz até acabar a força da xilomagia) → "Eu faço a xilomagia. O senhor olha." → **as sensações**: frio de água a léguas, peso da luz, moscas, gosto de podre, **os oito** um por um → "Oito." (o carroceiro dissera oito, talvez nove) → "Depois não consegui ir mais longe." → "O senhor deve ter visto água. Ou pedra." → "Água." → **"A raiz para nela. Não atravessa."**
+10. **A conta e a ordem (novo, 2026-10-03):** acima do cruzamento a estrada sobe para o quartzo — pedra; **da pedra em diante, incluindo a Mina, ele não veria dentro** → Ossan tira a mão da terra e a criatura volta ao lugar → a ordem, na ordem em que precisavam ser dadas: **seis** na frente pelo mato, atrás do rastro, de longe; **quatro** com ele; **Mira, Saboc e Mathias** ficam no pouso com o cocheiro e prata para uma semana → "Enquanto a raiz estiver com o senhor, elas fazem o que o senhor mandou. Nada mais." / "Foi o que eu mandei." → "O senhor vai lá em cima sem olhos." → **"Vou comprar olhos."**
+11. **O fecho (novo, 2026-10-03):** Nolan passa pela carroça — Mira dormindo sentada com as costas na roda e o menino atravessado no colo; ele puxa o pano do rosto do Saboc com dois dedos, sem acordar ninguém, e fica um tempo olhando os dois; a linha seca (um menino de semanas não atravessa caça atrás de homem, e herdeiro não se gasta em caçada); e o **papel do Rei**, dobrado no bolso de dentro, do tamanho de uma mão — "Subia a estrada com ele, e chegava antes."
 
 ## Sementes e Conexões
 
 - **#21 — Germinação do Evangelho.** A feira de Tronk no **PoV oposto ao cap. 24**: o que Mário pregou corre torto e sem dono, e o conceito **descola do homem** ("nem precisavam da presença do próprio Estrangeiro para sobreviverem"). Germinação: L2 (o Evangelho sem igreja).
-- **A bacia de pedra (gancho duro).** Payoff no próximo capítulo do Nolan: os oito/nove mortos sem sepulto, os furos, o machado do recrutador, o **edital no bolso** (material da versão anterior do 28, migrado para lá — confirmar com o autor).
-- **O cartaz do Trono circulando.** Os caçadores mostram "um cartaz com uma descrição" do homem que cura — papel da Coroa a serviço da caça; revisar no sítio para não atropelar o edital do bolso.
+- **A emendadeira e o limite da raiz (canon novo, 2026-10-03).** A raiz **para na água e para na pedra**. Três consequências em cadeia: (1) na bacia ele vê os oito — mas **não vê dentro da Mina**; (2) **o canal de Ossan não abre no Espinhaço** (pedra) — é o que obriga Nolan a **comprar informação**; (3) os **seis que vão na frente ficam cegos** quando o rastro alcança o terreno de pedra — é o dia em que ele perde os olhos (cap. 34).
+- **O edital no bolso (gancho duro, reancorado em 2026-10-03).** O edital **não** promete mais a bacia de pedra: ele **sobe a estrada com Nolan e chega antes**. Payoff na **Mina** — é a peça com que ele barganha (o preço na cabeça do homem que a Coroa quer vivo). A bacia segue no livro pelos caps. 26 e 27; os mortos sem sepulto o leitor já viu de lá.
+- **O edital na parede (revê 2026-09-20).** Cai a entrada pelo bolso de um morto: o edital entra pela **parede do próprio correio** e Nolan o tira de lá — a rede que ele montou posta a posta trabalhando contra o que ele quer. O plant do cap. 26 permanece (Kate reconhece o corte entre as costelas).
 - **#15 — O Diário de Genocydo (a pulga).** A negação: ele **nota** e **não conclui**. (O plant do Templo de Rifte esvaziado foi **dispensado** — decisão do autor, 29/09.)
 - **O plano do trono (carta a Koda).** "O Estrangeiro faria Nolan ganhar o trono" — fixa o rumo político do L1 e alimenta a camada oculta de Koda/Alavria.
 - **A cobrança a Nuh (ideia nova, 2026-09-26).** Em algum ponto do L1, Nolan cobra dele a informação negada — `insights/nolan-cobra-nuh-informacao-negada.md`.
