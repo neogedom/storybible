@@ -1,12 +1,18 @@
 ---
 type: Character
-title: Uorier
-description: Lorde de terra e pedra, administrador da Mina de Quartzo pela Coroa. Sente a montanha ceder e não sente o próprio povo — foge com o livro de dívidas e é executado em praça, na queda da Mina.
+title: Ghilly Uorier
+description: Lorde de terra e pedra, administrador da Mina de Quartzo pela Coroa. Sente a montanha ceder e não sente o próprio povo — foge com o livro de dívidas e é executado em praça, com a família, na queda da Mina.
 tags: [personagem, leviantar, mina, administrador, L1, lorde, divida]
 timestamp: 2026-10-04T08:30:00-03:00
 ---
 
-# Uorier
+# Ghilly Uorier
+
+> **Nome (canon 2026-10-04):** **Ghilly** é o prenome; **Uorier** é o
+> **sobrenome** da casa. Na prosa, usar **Uorier** como os outros o tratam
+> (é como o cargo aparece), e **Ghilly Uorier** quando o nome inteiro importar
+> (registro, ata, o livro de dívidas). ⚠️ Verificar se a casa Uorier reaparece
+> no L2 antes de fixar brasão.
 
 ## Visão Geral
 
@@ -54,18 +60,27 @@ e não olha para os escravos a três passos.
   levando o livro de dívidas** — não o baú, não a prata: o registro. Como ele
   é o primeiro a correr, a corrida dele **diz aos escravos que o fim chegou**:
   a pregação deu as palavras; o lorde fugindo deu a hora.
-- **A execução é pública**, em lugar que todos veem, e feita por **um homem
-  que a Kate treinou** — o rosto da estrada, que o Mário **não** consegue
-  rastrear de volta até ela (o leitor consegue; ver
-  `insights/recrutamento-da-kate.md`).
+- **A execução é pública**, em lugar que todos veem, e feita pelo **homem que
+  a Kate formou** — e ⚠️ **o mesmo homem que ela pôs para executar um rampilla
+  na formatura** (cap. 35, longe dos olhos do Mário). É a cadeia inteira:
+  **o treino da Kate produz a mão; a mão executa o lorde e a família; a
+  execução começa a revolta.** O Mário **não** consegue rastrear o braço de
+  volta até ela; o leitor consegue. Ver `insights/recrutamento-da-kate.md`.
 - **É o estopim do motim.** Depois da cabeça do lorde no chão, ninguém pode
   voltar atrás: quem assistiu virou cúmplice.
 - **A segunda vez que a brasa sobe na Kate.** A primeira foi a faca no
-  rampilla (cap. 34). Execução pública é ritual de guerra — e é disso que a
-  Hícse se alimenta. Somático, sem voz, e ela não sabe.
+  rampilla (cap. 35, a formatura). Execução pública é ritual de guerra — e é
+  disso que a Hícse se alimenta. Somático, sem voz, e ela não sabe.
+  ⚠️ **É o homem que ela treinou executando por causa dela** — a condição
+  exata que `conceitos/hicse.md` descreve.
 - **Morto, ele não testemunha.** A versão do Reino sobre o que aconteceu na
   Mina passa a ser **a versão do Nolan** — que é quem entra depois e lê o
   chão.
+- ⚠️ **O executor tem rosto (canon 2026-10-04):** **é o homem marcado no fim
+  da fila do encanamento** — o que a Kate guardou no cap. 32 e que olhou de
+  volta. Ele é o **primeiro que ela formou** (executou um rampilla na formatura
+  do cap. 35, longe do Mário) e é ele quem **executa Uorier e a família** na
+  queda. A cadeia: **o treino produz a mão; a mão dá o estopim.**
 - **E o livro?** Quem fica com o **livro de dívidas** é decisão aberta
   (pendência registrada em `decisoes/jornada-nolan-acre-2026-10-03.md`). Em
   qualquer cenário, ele é alavanca: o registro de tudo o que o Reino cobrou.
@@ -82,8 +97,8 @@ e não olha para os escravos a três passos.
 
 ## Notas
 
-- ⚠️ **Inferências a confirmar:** sobrenome de casa (nenhum fixado) e idade
-  aparente.
+- ⚠️ **Inferências a confirmar:** idade aparente e se a casa **Uorier**
+  reaparece no L2.
 - **Físico (canon 2026-10-04):** **gordo e glutão**.
 - **A família morre com ele (correção do autor, 2026-10-04).** Ele avisa os
   seus para fugir — e eles **não escapam**: morrem junto com ele, no mesmo

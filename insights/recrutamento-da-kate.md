@@ -90,8 +90,9 @@ acorda a coisa.** Ver `conceitos/hicse.md` ("Depois da soltura").
 
 ## O batismo de sangue (cap. 35) — a ideia do autor, 2026-09-21
 
-> ⚠️ **Numeração (2026-10-04):** este é o **cap. 35**. Ele é a **formatura do
-> treino do cap. 32** — não um encontro solto. Ver "O treino e o modelo" abaixo.
+> ⚠️ **Revisado em 2026-10-04:** a formatura acontece **longe dos olhos do
+> Mário**, e **o homem que executa o rampilla é o mesmo que executa Ghilly
+> Uorier e a família**. Ver "A formatura", acima.
 
 **As seis rampillas alcançam o grupo, e Kate vence na frente dos convertidos.**
 Isso paga uma dívida aberta: as seis estão soltas desde o cap. 28, seguindo o
@@ -247,29 +248,37 @@ cantis, não para para ensinar. Se montasse, o leitor não acreditaria.
   exatamente o "determinação em vez de devoção". Quem queria ser salvo vai
   embora ali mesmo.
 
-### O treino e o modelo — ela ensina a matar rampilla (esclarecimento do autor, 2026-10-04)
+### O treino — sem modelo de rampilla (correção do autor, 2026-10-04)
 
-⚠️ **Isto respondia a uma dúvida do autor, e a resposta é SIM, com uma
-condição de tempo.**
+⚠️ **Não usar o rampilla como modelo de ensino.** A primeira versão tinha a
+Kate ensinando a matar rampilla de Saramant. **Não é isso** (decisão do autor).
 
-- **Sim, é aqui que ela ensina a matar rampilla.** O modelo é o bicho que ela
-  conhece: o **rampilla de Saramant**, a guarda do castelo de Devour (canon:
-  `conceitos/rampillas.md`; ela matou dois — prólogo e cap. 20). O que ela
-  passa é o que o **corpo** dela sabe: caça pelo cheiro, não desvia, não tem
-  olho que se possa cegar, não tem medo do escuro. Então se mata de perto, no
-  ponto em que a pata não cobre, e se mata **em grupo**, um atrás do outro.
-- ⚠️ **A condição: ela não pode saber que as seis vêm.** Nolan mandou as seis
-  no cap. 28; ela não tem como saber disso. O treino é **genérico de
-  propósito** — ela usa a fera da terra dela porque é a única que conhece.
-- ⚠️ **E o rampilla vivo não pode morrer agora — porque é o olho do Nolan.** A
-  data está travada: as seis só são mortas no **cap. 35**, e é esse o dia em
-  que o Nolan **fica cego** (`decisoes/jornada-nolan-acre-2026-10-03.md`, §5).
-  Matar um rampilla antes disso derruba uma peça do bloco da Mina.
-- ⚠️ **O que ela NUNCA diz:** o que o rampilla é de verdade. Nem ela sabe
-  (semente #13). A mina moral fica armada até o **L2**. Ver "Três disciplinas
-  de canon", abaixo.
-- **A ironia que o leitor carrega:** ela ensina a matar exatamente o que o
-  **Nolan** mandou atrás do grupo. Ninguém em cena sabe.
+- Ela treina o que dá para treinar com o que ela tem: **andar sem deixar
+  marca**, **peso morto**, **a faca de perto**, **não falar**, **um atrás do
+  outro e não lado a lado**. É o método gornad, sem bicho nenhum no meio.
+- **O rampilla entra no cap. 35 como prova, não como matéria.** Ela não
+  preparou ninguém para ele. Ele chega, e é o primeiro teste com bicho de
+  verdade.
+
+### A formatura (cap. 35) — e o homem que ela produz
+
+⚠️ **A ideia que amarra os blocos (decisão do autor, 2026-10-04):**
+
+- **O homem que executa um rampilla na formatura é o mesmo que vai executar
+  Ghilly Uorier e a família dele** — o estopim público da revolta na Mina.
+- **A cadeia fica fechada:** o treino da Kate produz **a mão**; essa mão
+  executa o administrador e a família em praça pública; **é isso que começa a
+  revolta**. A Kate não dá a ordem do motim — ela **formou quem deu**.
+- ⚠️ **A formatura tem de ficar LONGE DOS OLHOS DO MÁRIO.** A solução do autor:
+  **a Kate sai para proteger o grupo**, e é o homem que acompanha ela. O
+  Mário fica onde está. Ele **não vê** o abate do rampilla — e é por isso que a
+  cobertura aguenta até a Mina.
+  - ⚠️ **Consequência:** cai a linha antiga "ele viu e não quis ver". O que o
+    Mário vê é **a execução do Uorier e da família**, na Mina — e é aí que a
+    ficha dele cai.
+- ⚠️ **Número de rampillas mortos segue travado:** no máximo **dois** (canon
+  em `conceitos/rampillas.md`). **Quatro sobrevivem** — é a pressão de Nolan
+  no bloco da Mina.
 
 ### Onde e quando — andando, e dentro do cap. 32
 

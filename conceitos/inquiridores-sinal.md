@@ -71,17 +71,8 @@ o torna a peça mais fria da Ordem: ninguém é executado, todo mundo é
 - **A entrega:** a descarga leva o alvo para **dentro da âncora**. Se a âncora
   é pedra maciça, o corpo chega **dentro dela** — fundido, esfriado junto, com
   parte de um ombro na superfície. Se é tronco, dentro do tronco.
-- **Ele mostra antes de usar.** O Inquisidor do cap. 30 **arrasta um
-  mercenário morto** e dispara nele primeiro ("Isto é para a senhora ver que
-  não é mentira. Eu podia fazer sem mostrar."). É o **procedimento** de quem
-  faz isso há anos: avisa, demonstra, e só então aplica.
-- ⚠️ **O martelo do leitor:** a cena ensina a regra **em cima de um corpo que
-  já estava morto**. É assim que o leitor vê o instrumento funcionar sem que a
-  Kate morra.
-- **Ritual de aferição:** **meio segundo de pausa** antes da descarga (o corpo
-  para, o queixo baixo). É a deixa — foi o que o Mário leu no cap. 27 para se
-  jogar no chão, e é o que a **Kate reconhece no cap. 30**, sem saber nomear o
-  que aprendeu.
+- **Ele não demonstra — e é isso que faz a cena.** No cap. 30 o Inquisidor **atira na Kate e erra**: a descarga passa raspando e **acerta um cadáver no capim atrás dela**, que é entregue dentro da pedra. ⚠️ **Ninguém explica a regra ao leitor** — ela entra pelo susto, junto com a Kate. A reação dele é de **conta errada**, não de vitória ("sem gosto, do jeito de quem errou uma linha da conta e vai ter de refazer a soma no dia seguinte"). ⚠️ **Não usar o Inquisidor como exibidor de regra**: ele não veio ensinar nada.
+- **Ritual de aferição:** **meio segundo de pausa** antes da descarga (o corpo para, o queixo baixo). É a deixa — foi o que o Mário leu no cap. 27 para se jogar no chão, e é o que a **Kate reconhece no cap. 30**, sem saber nomear o que aprendeu.
 - **Janela de recarga:** o tambor abre e o polegar gira procurando a carga
   (quartzo). É a brecha de quem enfrenta o instrumento.
 - **A jurisdição local é precária e temporária** — vale enquanto a estaca

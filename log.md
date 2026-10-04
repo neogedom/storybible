@@ -1,5 +1,36 @@
 # Log de Atualizações
 
+## 2026-10-04 (5ª revisão: o revólver por erro, o abismo do Gaviorn'l, e a mão que executa)
+
+- **O cap. 30 foi reescrito nos três pontos que o autor marcou.**
+  1. **O revólver não é demonstração — é erro.** Ele **atira na Kate, erra**, e
+     a descarga acerta **um cadáver no capim atrás dela**, que é entregue
+     dentro da pedra. A regra entra pelo susto, junto com ela ("Era ali que ela
+     ia parar, se aquilo a pegasse"), e a reação dele é de **conta errada**,
+     nunca de vitória.
+  2. **A defesa do Gaviorn'l mostra o abismo.** Ela ataca três vezes: ele
+     **não levanta o braço** na primeira, **toma o pulso dela no ar** na
+     segunda, e **pega a lâmina na palma aberta** na terceira. **Os pés dele
+     não saem do lugar. Nem uma vez.** É a única forma de a morte não virar
+     execução: **a única maneira de matá-lo é ele deixar.**
+  3. **A guarda baixa é visível.** Ele **apanha a vara do chão, pesa na mão e
+     joga no mato** (a arma que pode ferir a Kate, fora de alcance); **senta no
+     chão com as duas mãos abertas em cima das pernas**; pega o pulso dela
+     **com o rosto virado para o mato** — o instrutor — e depois **vira o rosto
+     e olha para ela**. Caiu o "ombro baixou meia polegada" e o suspiro: nada
+     de interioridade. Ela pega a faca no capim, e ele **não move as mãos**.
+- **Rampilla: não é modelo de ensino (correção do autor).** Caiu a ideia de ela
+  ensinar a matar rampilla de Saramant. O treino é o método gornad puro; **o
+  rampilla entra no cap. 35 como prova, não como matéria.**
+- **A formatura amarra os blocos (decisão do autor).** **O homem que executa um
+  rampilla na formatura é o mesmo que executa Ghilly Uorier e a família** — o
+  estopim público da revolta. A Kate não dá a ordem do motim: **ela formou quem
+  deu.**
+- **A formatura fica LONGE DOS OLHOS DO MÁRIO.** A Kate sai para proteger o
+  grupo e o homem vai com ela. ⚠️ **Cai a linha "ele viu e não quis ver"** — o
+  que ele vê é a execução do Uorier e da família, na Mina.
+- **Nome: Ghilly Uorier** — Ghilly é o prenome, **Uorier é o sobrenome**.
+
 ## 2026-10-04 (4ª revisão: o cap. 30 é partido em dois; o revólver ganha regra)
 
 - **O cap. 30 foi partido (decisão do autor).** Ficou grande demais e com dois
