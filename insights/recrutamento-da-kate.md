@@ -136,10 +136,15 @@ sangue-isca dela, sem desfecho previsto.
 
 ## A estrada (cap. 30) — ela não treina: ela não manda embora
 
-**Sim, dá para usar o povo que ela encontra antes do reencontro — mas não como
-treino.** Na estrada ela não ensina nada e não recruta ninguém: uma mulher
-sozinha, caçada, com dois cantis, não monta pátio de exercício. Se montasse, o
-leitor não acreditaria.
+**Sim — e é aqui que ela começa a juntar gente, mas não como aula.** Na
+estrada ela não monta pátio de exercício: uma mulher sozinha, caçada, com dois
+cantis, não para para ensinar. Se montasse, o leitor não acreditaria.
+
+> ⚠️ **Ajuste de 2026-10-04:** o que ela faz **não é "não recrutar"** — é
+> **treinar andando, sem parar e sem dizer**. O que era "não mandar embora"
+> continua sendo o gesto que traz o povo; a correção vem por cima, como
+> **vazamento de hábito** (ver "Onde e quando", acima). E os que ela junta
+> **vêm com ela** ao reencontro, apresentados como discípulos.
 
 - **O que ela faz é não mandar embora.** É o gesto inteiro: a Kate que não tem
   pena **não expulsa** quem se junta a ela. Quem vai atrás é quem a estrada já
@@ -152,8 +157,9 @@ leitor não acreditaria.
   — é **hábito escapando**, porque ela **não sabe estar perto de gente sem
   consertar gente.**
 - **O que chega ao reencontro não é um exército: é gente que já anda como ela.**
-  Quatro ou cinco, e todos se movem do jeito dela. Mário vê isso — e é pior que
-  um treino: é **prova de contágio**.
+  Quatro ou cinco, e todos se movem do jeito dela. O Mário vê o **contágio** —
+  e lê como **devoção**. É pior que um treino: é a prova de que ela já mexeu
+  nessas pessoas, interpretada como prova de que a palavra dele funciona.
 - **A réplica dela:** *"Eu não ensinei nada. Eles só andaram comigo."* É
   verdade, é esquiva, e é a resposta mais dela que existe.
 - **Um dos que ela junta é o rosto guardado na coluna** (o homem marcado) — o
@@ -161,9 +167,15 @@ leitor não acreditaria.
 - ⚠️ **Não fazer dela uma mãe-de-tropa.** Ela não consola, não explica, não
   promete. Ela anda e não manda embora. A diferença entre as duas coisas é o
   personagem inteiro.
-- ⚠️ **A sequência fica:** estrada = **companhia** (cap. 30) → reencontro e a
-  objeção → **treino de verdade**, público e autorizado, no assentamento e na
-  marcha (caps. 32 - 35).
+- ⚠️ **A sequência fica (revisada 2026-10-04):** estrada = **companhia**, e o
+  começo por contágio (cap. 30) → **o reencontro, já com eles e com a
+  apresentação de discípulos** → o treino segue **andando**, disfarçado de
+  busca → a objeção, **tarde**, quando já está pronto (cap. 34).
+- ⚠️ **A mentira nasce na página (correção do autor, 2026-10-04):** antes de
+  chegarem, ela **instrui os quebrados a nunca dizer que ela os treina**. E no
+  reencontro ela **apresenta** — não nega nada: são **gente que soube do Souhma
+  e veio ouvir a palavra**. É a **primeira mentira construída em volta do
+  Mário**, e o leitor assiste.
 
 ## Como ela treina
 
@@ -193,16 +205,23 @@ leitor não acreditaria.
   **repete** o exercício. O castigo dela é repetição, não vergonha — e é aí que
   ela se diferencia, sem saber, de Gaviorn'l.
 
-### A cobertura: o treino é público, a seleção é privada
+### A cobertura: eles vêm ouvir a palavra
 
-- **Ela treina todo mundo** — velhos, mulheres, os que nunca vão pegar numa
-  arma. "Todo mundo aprende a se defender" é verdade e é o disfarce perfeito:
-  se todos treinam, **não existe recruta, e não existe exército a ser achado.**
+- **O treino não é escondido nem ausente — é disfarçado.** Os quebrados se
+  juntam a ela na estrada e **chegam com ela ao reencontro**.
+- **A apresentação é dela, no reencontro:** são **gente que soube do Souhma e
+  veio ouvir a palavra** — querem conhecer, ouvir e aprender. É a mentira mais
+  útil que existe, porque é **elogiável**: ele não tem como recusar quem pede
+  a palavra.
+- **E ela os instrui:** nunca dizer que ela os treina. Uma fala curta, antes de
+  chegarem — e é a **primeira mentira que ela constrói em volta dele**, na
+  frente do leitor.
 - **A escolha fica com ela, calada:** quem aguenta o peso, quem repete sem
   reclamar, quem olha com vontade de fazer. Esses ganham **um nome na cabeça
   dela**, e nada mais.
-- É assim que o recrutamento passa por baixo do Mário: **a parte visível é
-  defesa; a parte invisível é a lista.**
+- **Por que funciona:** eles **não parecem soldados** — são quebrados, e é o
+  que são. Não treinam na frente dele. E o Mário está **lisonjeado**: vieram
+  ouvir *a palavra dele*. A vaidade dele é a venda nos olhos.
 
 ### A honestidade (e é ela que seleciona)
 
@@ -212,68 +231,72 @@ leitor não acreditaria.
   exatamente o "determinação em vez de devoção". Quem queria ser salvo vai
   embora ali mesmo.
 
-### Onde e quando
+### Onde e quando — andando, e dentro do cap. 30
 
-- **Onde:** no **assentamento** (cap. 33 — o poço, o acampamento) e em **cada
-  parada da marcha** (cap. 35). O chão é terra batida e o material é a estrada.
-- **Quando:** de **madrugada**, antes de levantar acampamento — a hora que
-  ninguém quer e, por isso mesmo, a hora em que todos estão vendo.
-- **A justificativa é real:** eles estão sendo caçados (as seis rampillas, os
-  dois Inquiridores). *"Todo mundo aprende a se defender"* não é só cobertura —
-  é **necessidade**. E é isso que compra o consentimento dele.
+- **Ela não para.** Não há acampamento de treino, não há pátio, não há hora
+  marcada: ela **anda ao norte atrás deles** e vai corrigindo no caminho — a
+  mão na faca, onde pisar, a ordem da fila, quem vai na frente. É o mesmo que
+  ela já fazia com quem a acompanhava: o treino como **vazamento de hábito**.
+- **Onde isso entra na página:** dentro do **cap. 30** (POV dela), entre os
+  odres e o reencontro. ⚠️ **O reencontro não pode atrasar de capítulo** — o
+  Mário e o Lakand estão sem água e o Lakand sangra (régua do relógio em
+  `conceitos/agua-e-seca.md`). **O atraso existe, mas é sentido, não contado.**
+- **O que chega não é um exército:** quatro ou cinco, e todos se movem do jeito
+  dela. O que o Mário verá é **prova de contágio**.
 
-### O Mário vê? — SIM. E é aí que está a força
+### O que o Mário vê — discípulos, nunca recrutas
 
-- **Ele vê tudo.** O treino é **público**, e esconder do observador não é
-  opção: ele é o sujeito que lê padrão. ⚠️ **Esconder o treino do Mário seria
-  erro de canon** — o leitor não acreditaria.
-- **E ele NÃO aprova em silêncio** — ver a seção seguinte. O treino é público
-  justamente para ser visto; o que ele **lê errado** não é o exercício, é **o
-  que a própria objeção dele produz**.
-- **A venda nos olhos dele não é sobre a espada — é sobre a vitória dele.** Ele
-  acha que respondeu ao treino superando-o. É o mesmo erro do cap. 33: julgar a
-  coisa pela superfície, e não por quem a plantou.
-- **A lâmina, na imagem:** ele vê as **crianças pulando entre os quadrinhos
-  riscados na terra** e sorri. O leitor reconhece o pátio de pedra do cap. 6.
-  Nada precisa ser explicado.
-### O Mário NÃO aprova em silêncio (correção do autor, 2026-09-21)
+- **Ele vê o grupo** — e o que ele vê é o que ela disse: gente que veio ouvir.
+  Nada neles denuncia treino: são quebrados, andam cansados, fazem perguntas.
+- **A resposta dela é verdadeira:** *"Eu não ensinei nada. Eles só andaram
+  comigo."* Contra contágio não há objeção a fazer — e é a esquiva mais dela
+  que existe.
+- **A venda nos olhos dele é a lisonja:** vieram por causa do Souhma; gente
+  andou dias para ouvir o que ele diz. É o que ele sempre quis — e é o que o
+  impede de olhar as mãos deles.
+- **A imagem que fica:** ele passa e vê **crianças pulando entre riscos no
+  chão** e sorri. O leitor reconhece o pátio de pedra do cap. 6. Nada precisa
+  ser explicado, e o Mário não erra por ser tolo: erra porque **o que ele vê é
+  infantil**.
+### Ele nunca autorizou (revisão de 2026-10-04)
 
-⚠️ **Ele já nomeou a guerra e já se recusou** — canon: cap. 23, *"Você quer uma
-**guerra**"*; e o esquema, no mesmo capítulo, com ele **recusando o pitch**:
-*"Não vou ser o estopim de nada."* Deixá-lo ver o treino e não dizer nada
-seria fora de personagem, e o leitor pegaria.
+⚠️ **Revê a correção de 2026-09-21.** Na versão anterior o Mário **via** o
+treino, **nomeava** ("Isso é um exército se formando, Kate") e era desarmado
+pela própria frase — e o treino seguia *autorizado* por ele. O problema:
+isso transforma o Mário em **cúmplice** e a Kate em parceira. O que o arco
+pede é o contrário.
 
-**Ele fala. E perde ganhando.**
+**O que vale agora:** o Mário **não sabe**. E não por ser cego — por **não
+estar lá**.
 
-1. **Ele nomeia.** Não "defesa" — *"Isso é um exército se formando, Kate."*
-   Eco direto do cap. 23.
-2. **Ela não nega.** Reenquadra: a estrada é caçada, e quem não aprende morre
-   no primeiro cerco.
-3. **O xeque-mate é a frase dele.** Ela devolve o que ele mesmo pregou:
-   *"Você disse que ninguém precisa pagar. Eu estou ensinando eles a **não
-   deixar cobrar**."* É a pregação dele virada em arma — a alavanca de que
-   fala este insight, agora **dita na cara dele.**
-4. **Ele não consegue refutar a própria sentença** — e aí faz o que sempre
-   faz: em vez de proibir, **supera.** Se ela vai dar armas, ele vai dar
-   **liberdade**: decide tomar a Mina para soltar os escravos.
+1. **Ele nunca vê uma aula.** O que ele vê são **discípulos** — gente que
+   pediu a palavra.
+2. **O que chega é o resultado** — gente que já anda como ela, apresentada como
+   quem veio ouvir. A réplica dela é verdadeira: *"Eu não ensinei nada. Eles só
+   andaram comigo."*
+3. **A objeção existe — e chega tarde** (cap. 34, quando ele vê os convertidos
+   matando): *"Isso é um exército, Kate."* Eco do cap. 23, agora sem efeito,
+   porque o exército já andou.
 
-⚠️ **A consequência estrutural:** a **decisão da Mina nasce da objeção ao
-    treino.** Ele não está reconectando os pontos só por si — está respondendo
-    a algo que ela pôs na frente dele. E acha que ganhou.
+⚠️ **A consequência estrutural (nova):** a decisão da Mina **não nasce da
+objeção ao treino.** O Mário vai à Mina **para pregar** — ele acha que leva
+palavras, e só palavras. Quem transforma a pregação em revolta são os
+escravos; quem preparou o terreno foi ela. **Ele não autoriza nada porque não
+sabe de nada** — e isso é a tragédia, não a cumplicidade.
 
-- **O que ele NÃO faz:** proibir. Ele não manda parar o treino — pensa ter
-  encontrado resposta melhor. **É isso que dá à Kate o consentimento de que
-  ela precisava:** o treino continua, agora *autorizado* por ele.
-- **O quase (menor, dentro do mesmo movimento):** ele pergunta *"por que os
-  velhos também?"* e ela responde *"porque a estrada não escolhe"*. É verdade,
-  e ele não tem resposta.
+**Ganho:** o pitch do Nolan fica devastador — *"ela te usou, e nem te contou"*
+— e é verdade. E o Mário continua o que sempre foi desde o cap. 4:
+**instrumento de projeto alheio, sem saber.**
 
 ### Quem vê
 
 - **O Lakand.** É ele quem enxerga o que o treino é, e **não diz nada ali** —
   guarda para o cap. 34 (o *"você está repetindo o erro deles"*).
-- **A triangulação da cena é o grupo inteiro num quadro só:** o Mário olha e
-  aprova; a Kate constrói; o Lakand assiste e cala.
+- **O Mário, não.** Ele vê o **resultado**, e o resultado não parece exército:
+  parece gente que andou muito.
+- **A triangulação da cena** deixa de ser "o Mário olha e aprova" e passa a
+  ser: **a Kate constrói fora do quadro; o Lakand assiste e cala; o Mário
+  chega depois, quando já está pronto.**
 
 ### A fissura (não verbalizar)
 

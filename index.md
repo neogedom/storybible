@@ -78,6 +78,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Rifte](lugares/rifte.md) — Reino vizinho; abriga o Templo de Vonos, sede da Ordem dos Inquiridores do Sinal.
 - [Os Moribundos](lugares/moribundos.md) — Campo de batalha da Guerra Milenar virado cicatriz; ecos presos em loop, que reagem à luta que se prepara.
 - [A Subida](lugares/subida-da-mina.md) — O vale da estrada da Mina: a estrada, o mato e o Espinhaço; a bacia de pedra e o carreador que só quem sabe acha.
+- [A Mina de Quartzo](lugares/mina-de-quartzo.md) — A mina que financia a Metrópole; quartzo, dívida e trabalho forçado. Cai enterrada no Ponto Central.
+- [Cidadela de Gus](lugares/cidadela-de-gus.md) — A única terra desenvolvida fora da Metrópole: humanos e leviantares juntos, afronta à Segregação. Último posto antes do Norte.
 
 ## Conceitos
 
@@ -108,6 +110,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Koda Deltëra](personagens/koda.md) — Mestre da Moeda, espião de Alavria.
 - [Edgard Lupe'i](personagens/lupei.md) — Hegraliano, fundador da Cidadela de Gus.
 - [Nuh d'Teraghar](personagens/nuh-dteraghar.md) — Sumo Sacerdote de Vonos.
+- [Uorier](personagens/uorier.md) — Lorde de terra e pedra, administrador da Mina de Quartzo pela Coroa; executado em praça na queda da Mina.
 - [Inquiridores do Sinal](personagens/inquiridor.md) — Facção de Vonos que caça o Estrangeiro.
 - [Valinor Addorbek](personagens/valinor.md) — General dos Espadas da Lei.
 

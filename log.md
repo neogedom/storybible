@@ -1,5 +1,112 @@
 # Log de Atualizações
 
+## 2026-10-04 (3ª revisão: o treino vira disfarce, e chega com ela)
+
+- **Revê a revisão anterior** ("o treino é ausente do campo de visão dele").
+  Proposta do autor, e é melhor: **o treino é disfarçado de busca.**
+- **O que muda:** os **quebrados se juntam a ela na estrada** e **chegam com
+  ela ao reencontro**. No reencontro ela não nega nada — ela **apresenta**:
+  são **gente que soube do Souhma e veio ouvir a palavra**. E antes de
+  chegarem, **ela os instrui a nunca dizer que ela os treina** — a primeira
+  mentira construída em volta do Mário, na frente do leitor.
+- **Por que é melhor que as duas versões anteriores:** o exército fica
+  **dentro da audiência dele** e fala a **língua dele**; a **vaidade** do Mário
+  passa a ser a venda nos olhos (gente andou dias para ouvir o que ele diz); e
+  o pitch do Nolan fica ainda pior — *"você ensinou o que eles sabem; ela armou
+  o que eles fazem."*
+- ⚠️ **Limite duro mantido:** **o reencontro não atrasa de capítulo.** O Mário
+  e o Lakand estão sem água e o Lakand sangra (régua do relógio em
+  `conceitos/agua-e-seca.md`). O atraso existe **dentro** do cap. 30 — e é
+  **sentido, não contado**.
+- Aplicado em `insights/recrutamento-da-kate.md` (seções "A cobertura", "Onde e
+  quando", "O que o Mário vê", "Ele nunca autorizou", "Quem vê" e "A estrada").
+
+## 2026-10-04 (revisão grande: o Mário nunca autoriza o treino)
+
+- **Revê o canon de 2026-09-21** ("o Mário não aprova em silêncio"). Na versão
+  anterior ele **via** o treino, **nomeava** e era desarmado pela própria
+  frase — e o treino seguia *autorizado* por ele, com a decisão da Mina
+  nascendo da objeção. **O efeito colateral era ruim:** transformava o Mário em
+  **cúmplice** e a Kate em parceira, quando o arco dele é ser **instrumento de
+  projeto alheio sem saber** (desde o cap. 4).
+- **O que vale agora:** **o Mário não sabe — por não estar lá.** O treino é
+  *ausente* do campo de visão dele: ela treina no mato, nas saídas de caça,
+  lenha e reconhecimento (é a batedora; a ausência é o trabalho dela). Não há
+  turma, não há horário, não há aula — não há o que descobrir.
+- **O que ele vê é o resultado:** gente que ele nunca viu e que já anda como
+  ela. A réplica dela é verdadeira — *"Eu não ensinei nada. Eles só andaram
+  comigo."* Contra contágio não há objeção a fazer.
+- **A objeção existe e chega tarde** (cap. 34, quando ele vê os convertidos
+  matando): *"Isso é um exército, Kate."* Eco do cap. 23, sem efeito — o
+  exército já andou.
+- **A decisão da Mina muda de natureza:** o Mário vai à Mina **para pregar**.
+  Ele acha que leva palavras, e só palavras; a abdução dele termina em *falar*.
+  Quem transforma a pregação em revolta são **os escravos** — como o Ponto
+  Central já dizia. **Ele não autoriza nada porque não sabe de nada.**
+- **Ganho:** o pitch do Nolan — *"ela te usou, e nem te contou"* — passa a ser
+  **verdade**, e é isso que o torna devastador.
+- **E a imagem fica:** ele vê as crianças pulando entre riscos no chão e
+  sorri. O leitor reconhece o pátio de pedra do cap. 6.
+- **O Mário vê a família do lorde morrer** (decisão do autor) — mais eficiente
+  que testemunhar a carnificina inteira: é a morte *daquela* família que
+  envenena o treino aos olhos dele.
+- Aplicado em `insights/recrutamento-da-kate.md` (cinco seções reescritas) e
+  em `temas/esquema-l1.md` (bloco do cap. 33).
+
+## 2026-10-04 (correções: Alavria ≠ Rifte; e a família de Uorier)
+
+- **Alavria não é Rifte (correção do autor).** Alavria é a nação estrangeira de
+  patrono **Renath**, e o alvo dela é o **motor econômico do Reino**. O corte
+  da exportação de quartzo para Rifte — e, com ele, o aperto na linha de
+  suprimento do Templo — é **efeito colateral**, não motivo. Corrigido em
+  `lugares/mina-de-quartzo.md`.
+- **A família de Uorier não escapa (correção do autor).** Ele avisa os seus
+  para fugir e **eles morrem com ele, no mesmo ato**. Consequência travada —
+  é isso que torna o treino da Kate **desprezível aos olhos do Mário**: ele
+  autorizou, e o que saiu foi gente capaz de matar a mulher e os filhos do
+  lorde, que não assinaram dívida nenhuma. E é **prova com nome** para o
+  pitch do Nolan (ele não precisa inventar nem exagerar — só mostrar).
+  Aplicado em `personagens/uorier.md`, `lugares/mina-de-quartzo.md` e
+  `decisoes/jornada-nolan-acre-2026-10-03.md` (§9 e §13).
+
+## 2026-10-04 (as três decisões das fichas novas)
+
+- **Uorier — físico e covardia (canon 2026-10-04).** **Gordo e glutão**; nunca
+  desceu a uma galeria. E a medida exata da covardia: ele **avisa só a própria
+  família** para fugir, e mais ninguém. **A família escapa** — fio em aberto
+  (testemunhas do que ele sabia e não disse).
+- **O quartzo da Mina (canon 2026-10-04).** A Mina é a **fonte do quartzo do
+  Reino de Genocydo** — o Monólito da Praça Central e o castelo saem de lá.
+  **Rifte é outro reino e é cliente**: o Templo **se beneficia da exportação**.
+  Ou seja, a Ordem **compra** a pedra do Reino — o que dá piso econômico ao 5º
+  degrau (o Templo nega informação a um conselheiro de quem compra) e faz da
+  queda da Mina um **corte na linha de suprimento do Templo**. ⚠️ Registrado
+  como proposição a avaliar, não como canon fechado.
+- **Alavria chega às galerias (canon 2026-10-04).** Há **alavrianos entre os
+  devedores** — infiltrados que sobem a estrada amarrados como qualquer outro
+  e entram na Mina sem escolta e sem revista. Resolve de onde vem o material
+  da implosão e por que um atentado daquele tamanho interessa a Alavria.
+
+## 2026-10-04 (as três fichas que faltavam)
+
+- **`personagens/uorier.md` CRIADO** — o lorde de terra e pedra,
+  administrador da Mina pela Coroa. Sente a montanha ceder e **não sente o
+  próprio povo**; foge com o **livro de dívidas** e é executado em praça por
+  um homem que a Kate treinou. A execução é o **estopim** do motim e o
+  segundo beat da brasa da Hícse. ⚠️ Inferências marcadas: sobrenome, idade
+  e aparência.
+- **`lugares/mina-de-quartzo.md` CRIADO** — o Ponto Central do L1. Fundada no
+  reinado de Genocydo I; motor financeiro do Reino; a dívida que sobe
+  amarrada; a doença do pó ("o quartzo come os olhos"). ⚠️ Proposição
+  registrada: a Mina como **fonte física do quartzo do Sinal** (a confirmar).
+  ⚠️ O interior (galerias, pátio, arraial) é inferência.
+- **`lugares/cidadela-de-gus.md` CRIADO** — a única terra desenvolvida fora
+  da Metrópole; humanos e leviantares juntos como afronta à Segregação;
+  Academia dos Artífices formada pelos hegralianos que **Nolan** expulsou (é
+  por isso que ele é **desafeto** ali); Alavria infiltrada. O bloco de Gus
+  segue **a mapear capítulo a capítulo**.
+- **`index.md`** atualizado (dois lugares + Uorier nos secundários).
+
 ## 2026-10-03 (cap. 31 "Uma Noite" — o salvamento; e a varredura de números)
 
 - **Cap. 31 planejado e travado** (decisão do autor): `decisoes/capitulo-31-uma-noite-salvamento.md`

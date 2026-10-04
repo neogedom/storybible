@@ -92,9 +92,14 @@ transforma a última perna dele em compra de gente.
 
 - **Uorier**, lorde da região, **administrador da Mina para a Coroa**,
   leviantar de terra e pedra (o análogo de Devour em Saramant). Ele **sente a
-  pedra**: sabe que a Mina vai cair.
+  pedra**: sabe que a Mina vai cair. **Gordo e glutão**; nunca desceu a uma
+  galeria.
 - Ele **foge levando o livro de dívidas** — não o baú, o registro. A execução
   deixa de ser só raiva: é o povo destruindo o papel que o condena.
+- **Ele avisa só a própria família** — e **eles não escapam**: morrem com ele,
+  no mesmo ato. A família morta é o que envenena o Mário: ele autorizou o
+  treino, e o treino produziu gente que mata a mulher e os filhos do lorde,
+  que não assinaram dívida nenhuma.
 - **A execução é pública**, em lugar que todos veem, feita por **um homem que
   a Kate treinou** (o rosto da estrada, que o Mário **não** consegue rastrear
   de volta até ela — o leitor consegue).
@@ -113,6 +118,9 @@ segura o teto, o que só se faz de dentro, como trabalhador.
 **A revolta é a porta.** No dia em que os escravos tomam a Mina, os
 infiltrados entram nas galerias sem escolta e no meio da confusão — e usam o
 que sempre esteve lá: o fogo de rocha com que a própria Mina abre pedra.
+**Os infiltrados são alavrianos entre os devedores** (canon 2026-10-04): gente
+que subiu a estrada amarrada, como qualquer outro, e que o Reino revistou sem
+achar nada, porque não havia nada a achar.
 
 **A ironia inteira do Ponto Central:** a libertação que o Mário fez abre a
 porta para quem quer enterrar todo mundo.
@@ -185,6 +193,13 @@ ser Nolan.
 Nolan usa o que viu: ela treinou gente, fez uma lista, armou os convertidos e
 usou o Mário como porta. **Nada disso é invenção — é verdade**, e é por isso
 que o Mário não consegue refutar.
+
+**E ele tem prova com nome (canon 2026-10-04).** A revolta matou **a família
+do lorde** — a mulher e os filhos de Uorier, gente que não assinou dívida
+nenhuma, e que o próprio Uorier tinha avisado para fugir. É isso que torna o
+treino **desprezível aos olhos do Mário**: ele autorizou, e o que saiu foi
+gente capaz de matar a família do patrão na praça. Nolan não precisa inventar
+nem exagerar — só mostrar.
 
 A mentira fica no que ele **não** diz: que quer o trono, e que o Mário será o
 instrumento.
