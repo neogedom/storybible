@@ -43,7 +43,9 @@ POV Kate. A metade paralela ao **cap. 29** — os mesmos dois dias, do lado dela
 O capítulo abre na água: os Inquisidores foram embora levando os seus três
 corpos, as três caixas e a água da bacia de pedra, e **deixaram os oito
 mercenários no chão**. Nos arreios deles ficaram **dois odres cheios** — é a
-única água limpa do sítio, e ela vira a água.
+única água limpa do sítio, e ela vira a água. No meio da espera, ela sente a
+**leitura da raiz** passar pelo sítio (o par com o **cap. 28**, o nono peso) e
+fica mais tempo na moita; é a **sede** que vence o medo e a tira de lá.
 
 O **Inquisidor da cicatriz** (o do lábio, o mesmo que atirou em Mário no
 cap. 3) ainda está no terreno. Ele não veio vingar os três: veio **resolver a
@@ -217,6 +219,15 @@ coisa do capítulo: **a fome.** Ela nomeia como corpo, nunca como causa.
      suspiro; ficaram a vara no mato, as mãos abertas e o rosto que vira.
 - **Canon novo registrado:** `conceitos/inquiridores-sinal.md` → "A marca e a
   âncora local".
+- **Canon novo registrado (2026-10-06):** Gaviorn'l **nunca soube** que era o
+  selo de Hícse — a ignorância do receptáculo é cláusula da operação
+  (`decisoes/gaviornl-nunca-soube-do-selo.md`). Não muda a página: os gestos
+  finais são afeto, não liturgia.
+- **Ajuste de espera (2026-10-06, par com o cap. 28):** a espera da Kate ganha
+  causa na página — ela sente a **leitura da raiz** passar pelo sítio (o
+  **nono peso** do cap. 28) e fica mais tempo na moita; a **sede** vence o medo
+  e a tira de lá. No cap. 28, do outro lado, o número da leitura subiu de oito
+  para **nove**.
 - **Contagem:** 2.699 palavras.
 - **Fronteira:** o cap. 29 fecha no ferimento do Lakand; o 30 é a metade da Kate
   no mesmo dia; o **31 é do Mário**, e a Kate **não aparece nele**. O próximo

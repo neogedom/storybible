@@ -20,6 +20,12 @@ Gaviorn'l foi entregue por **Terbs** como receptáculo para aprisionar Hícse.
 Terbs, porém, guardou a chave para libertá-la. Gaviorn'l foi infiltrado como
 agente de Terbs para treinar Kate — a faca que mataria Kraviam.
 
+⚠️ **Ele nunca soube** (canon 2026-10-06): não sabia que carregava Hícse, nem
+que a morte dele era a porta, nem que Terbs guardava a chave. O selo não
+exigiu ciência nem consentimento do receptáculo — o peso que sentiu a vida
+inteira, leu como natureza própria. Ver
+`decisoes/gaviornl-nunca-soube-do-selo.md`.
+
 ## Vínculo com Kate
 
 Gaviorn'l afeiçoou-se paternalmente a Kate — algo que Terbs não previu.

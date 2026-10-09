@@ -73,8 +73,9 @@ Lanças e machados de lâmina larga.
   seis são perigosas e burras.** Não improvisam, não adaptam e não desistem —
   mas também não rastreiam como os Inquiridores (não leem "frequência"; tomam
   o rastro que encontram, e o rastro que encontram é o **sangue-isca da
-  Kate**). As seis alcançam o grupo no **cap. 35** — e é ali que Nolan
-  **perde os olhos**.
+  Kate**). As seis alcançam o grupo no **cap. 35**. Na formatura, Kate mata
+  cinco e o pupilo mata a sexta; com a morte dos seis, Nolan **perde os olhos
+  sobre o grupo**.
   ⚠️ **Não confundir as duas forças na mesma trilha:** as **seis** são
   rampillas (Nolan, ordem guardada); os **dois com vara** são Inquiridores do
   Sinal (Vonos, rastreiam o Mário pela frequência). Capitão: ver
@@ -124,8 +125,10 @@ Nolan, conhecendo o jardim e a raiz-mestra (ver cap. 22 e
   Nolan NÃO aprende o mecanismo — a dependência mantém a tensão, e Ossan pode
   filtrar ou sabotar o que Nolan vê (bomba-relógio do L2). Os seis que vão na
   frente vão **sem condutor**: obedecer, obedecem; o que não há é quem saiba
-  pensar por eles (cap. 28). Quando Kate mata as seis (cap. 35), Nolan
-  **perde os olhos** pelo resto da jornada.
+  pensar por eles (cap. 28). Na formatura do **cap. 35**, Kate mata cinco e
+  deixa a sexta para o pupilo. Com a morte dos seis rampillas avançados, Nolan
+  **perde os olhos sobre o grupo** pelo resto da jornada; as quatro criaturas
+  que seguiram com ele não estão na trilha de Mário.
 - **⚑ O limite duro — água e pedra (canon 2026-10-03, cap. 28).** O canal
   caminha de raiz em raiz: **a raiz para na água e para na pedra.** Onde não
   há raiz, não há sentido. Consequências travadas:

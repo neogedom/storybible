@@ -1,16 +1,16 @@
 ---
 type: Character
-title: Ghilly Uorier
+title: Gwill Uorier
 description: Lorde de terra e pedra, administrador da Mina de Quartzo pela Coroa. Sente a montanha ceder e não sente o próprio povo — foge com o livro de dívidas e é executado em praça, com a família, na queda da Mina.
 tags: [personagem, leviantar, mina, administrador, L1, lorde, divida]
 timestamp: 2026-10-04T08:30:00-03:00
 ---
 
-# Ghilly Uorier
+# Gwill Uorier
 
-> **Nome (canon 2026-10-04):** **Ghilly** é o prenome; **Uorier** é o
+> **Nome (canon 2026-10-04):** **Gwill** é o prenome; **Uorier** é o
 > **sobrenome** da casa. Na prosa, usar **Uorier** como os outros o tratam
-> (é como o cargo aparece), e **Ghilly Uorier** quando o nome inteiro importar
+> (é como o cargo aparece), e **Gwill Uorier** quando o nome inteiro importar
 > (registro, ata, o livro de dívidas). ⚠️ Verificar se a casa Uorier reaparece
 > no L2 antes de fixar brasão.
 

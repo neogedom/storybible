@@ -268,7 +268,7 @@ Kate ensinando a matar rampilla de Saramant. **Não é isso** (decisão do autor
 ⚠️ **A ideia que amarra os blocos (decisão do autor, 2026-10-04):**
 
 - **O homem que executa um rampilla na formatura é o mesmo que vai executar
-  Ghilly Uorier e a família dele** — o estopim público da revolta na Mina.
+  Gwill Uorier e a família dele** — o estopim público da revolta na Mina.
 - **A cadeia fica fechada:** o treino da Kate produz **a mão**; essa mão
   executa o administrador e a família em praça pública; **é isso que começa a
   revolta**. A Kate não dá a ordem do motim — ela **formou quem deu**.
@@ -279,9 +279,9 @@ Kate ensinando a matar rampilla de Saramant. **Não é isso** (decisão do autor
   - ⚠️ **Consequência:** cai a linha antiga "ele viu e não quis ver", e cai
     também a objeção no 35. **A objeção dele só vem na Mina**, quando a família
     Uorier morre na praça. Ver "Quem vê", abaixo.
-- ⚠️ **Número de rampillas mortos segue travado:** no máximo **dois** (canon
-  em `conceitos/rampillas.md`). **Quatro sobrevivem** — é a pressão de Nolan
-  no bloco da Mina.
+- **Os seis rampillas morrem na formatura (decisão do autor, 2026-10-08):**
+  Kate, com sede de sangue, mata cinco e deixa o sexto para o pupilo que
+  formou. É a morte desse último que marca a formatura.
 
 ### Onde e quando — andando, e dentro do cap. 32
 

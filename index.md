@@ -57,6 +57,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 29 — Moribundos](capitulos/capitulo-29.md) — Mário POV: sem água e sem Kate; o orvalho; a bacia recusada ("Podre"); **a travessia do campo de ecos** (a lei decifrada na página); o campo vira; **o Lakand ferido pelo frio** — o sangue que não para.
 - [Capítulo 30 — A Carne e a Pedra](capitulos/capitulo-30.md) — Kate POV: os odres dos mortos; o Inquisidor da cicatriz (a vara não a sentencia); **o revólver que erra e entrega um cadáver dentro da pedra**; Gaviorn'l mata o Inquisidor; ela ataca e não consegue tocá-lo; ele **abaixa a guarda**; **o selo rompe e a Hícse sai** — e a fome que fica.
 - [Capítulo 31 — Uma Noite](capitulos/capitulo-31.md) — Mário POV (planejado): o corte do podre, a destilação da água do lodo, a revelação ("De onde você veio") e o preço — a água cobra memória.
+- [Capítulo 32 — A Estrada e a Mentira](capitulos/capitulo-32.md) — Kate POV: a arregimentação na estrada, o treino andando, o encanamento (conta de dívida), a chegada **depois da conta paga**, e a mentira na cara do Mário ("São gente que ouviu falar de você").
+- [Capítulo 33 — A Mina como lugar](capitulos/capitulo-33.md) — Nolan POV: sobe pelo Espinhaço (sem água, sem raiz — o canal não abre); vê a Mina de longe; **compra informação**; conhece **Uorier**, o lorde que sente a pedra e tem medo. Fecho: a pergunta moral no ar.
 
 **Cortados (não entraram):**
 
@@ -139,6 +141,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Regras de Áudio Minimax](decisoes/regras-audiochapter-acentuacao-ditongos.md) — Decisão sobre acentuação fonética de tritongos e extração rigorosa de narração (2026-07-27; correção 2026-08-06: só tritongos).
 - [Manto de Xilomagia de Tharin](decisoes/manto-xilomagia-tharin.md) — Chekhov's Gun recuperado no cap. 20; gatilho de ativação, carga finita, recarga por ritual de xilomago (canon 2026-08-14).
 - [Morte de Gaviorn'l antecipada](decisoes/gaviornl-morte-antecipada-hicse.md) — Kate mata Gaviorn'l em "Vilões se Aproximam"; Hícse livre cedo; o pagamento (a própria mão dela) fica em Gus (canon 2026-09-20).
+- [Gaviorn'l nunca soube do selo](decisoes/gaviornl-nunca-soube-do-selo.md) — A ignorância do receptáculo é cláusula da operação: o selo não exigiu ciência nem consentimento; a morte abre por escolha, não por ciência (canon 2026-10-06).
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 
 ## Agentes (Workflow)

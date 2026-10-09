@@ -77,16 +77,19 @@ mesmo escreveu ao Rei. Ele o tira da parede e o guarda no bolso de dentro.
 > pelo bolso do mercenário do machado"). O plant do cap. 26 permanece: Kate
 > reconhece, no cap. 28, o corte que ela mesma abriu entre as costelas.
 
-## 7. As seis vão na frente — e o cap. 34 é o dia em que Nolan fica cego
+## 7. As seis vão na frente — e o cap. 34 desta numeração é o dia em que Nolan fica cego
+
+> **Atualização 2026-10-08:** na numeração atual, a formatura está no cap. 35.
+> Os seis rampillas avançados morrem: Kate mata cinco; o pupilo mata o sexto.
 
 Ele manda **seis criaturas** na frente (elas não comem, não dormem e não
 precisam de estrada; a carroça precisa) e segue com quatro. As seis alcançam
-o grupo no **cap. 34** — é o batismo de sangue da Kate
-(`insights/recrutamento-da-kate.md`).
+o grupo no **cap. 34 desta numeração (cap. 35 atual)** — é o batismo de sangue
+da Kate (`insights/recrutamento-da-kate.md`).
 
 **Consequência estrutural:** no instante em que Kate mata as criaturas, Nolan
-**perde os olhos**. Ele fica cego para o resto da jornada, e é isso que
-transforma a última perna dele em compra de gente.
+**perde os olhos sobre o grupo**. Os quatro que seguem com ele não acompanham
+Mário; a última perna da perseguição passa a depender do que se compra.
 
 ## 8. A Mina — o lorde, a fuga, a execução
 

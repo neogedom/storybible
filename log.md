@@ -1,5 +1,52 @@
 # Log de Atualizações
 
+## 2026-10-07 (Mini-INGEST do cap. 33 — Nolan, "A Mina como lugar")
+
+- **Cap. 33 escrito e Mini-INGEST fechado** (454 palavras; ~60,4% da régua
+  137,5k). Capítulo de véspera, **corte B** (pergunta moral no ar).
+- **Conteúdo:** Nolan sobe pelo **Espinhaço** (sem água, sem raiz — o canal do
+  Ossan não abre ali); vê a Mina de longe, no fim do vale, onde o mato acaba e
+  começa o quartzo; **compra informação** (feitor, carroceiro, cozinheiro do
+  burgo trazem guarnição, turnos, escravos, rastro da dívida); conhece **Uorier**,
+  o lorde, que sente a pedra e sabe que a Mina vai cair. Fecho: Nolan observa um
+  homem que está com medo.
+- **Fichas criadas/atualizadas:** `capitulos/capitulo-33.md` (Mini-INGEST);
+  `Livro 1/capitulo33.md` (prosa); `temas/esquema-l1.md` (linhas 31-33 +
+  nota de acumulado).
+- **Fronteira:** o cap. 32 (Kate) fechou na mentira; o 33 abre com Nolan subindo
+  e fecha na pergunta moral. **Próximo:** 34 (Mário — assentamento, batismo,
+  "Javé", decisão da Mina).
+- **Contador de checkpoint:** 6 capítulos desde 2026-09-18 (28, 29, 30, 31, 32,
+  33) — **oferecer checkpoint de beat ao autor** (decisão do autor, 2026-09-14):
+  - **Arquiteto de Densidade** — leve, nas fronteiras de beat: corrige o mapa para
+    frente (esquema), nunca o texto.
+  - **Passe anti-slop em lote** — cirurgia local (teste F13) sobre os capítulos
+    fechados desde o último checkpoint.
+  - **Passe de fechos** — cortes A/B/C/D do bloco, repetição de gesto final,
+    rotação de POV e quem decide em cada capítulo (`passe-fechos.prompt.md`, no
+    Livro).
+  Executado com o ok do autor, registrar no `log.md`.
+
+## 2026-10-06 (fala do cap. 30 — duas retiradas)
+
+- **Decisão do autor (2026-10-06):** a fala do Gaviorn'l perdeu dois sinais.
+- **"Os clãs estão se movendo" — cortado.** Motivo: os clãs **não têm movimento
+  antes do motor** — é a **Hícse livre** (o fim desta mesma cena) que move o
+  plano deles (`decisoes/gaviornl-morte-antecipada-hicse.md`); a fala afirmava
+  o efeito antes da causa.
+- **"O norte está com a pedra quente" — cortado.** Motivo: **nada acontece na
+  Mina no momento da cena** — sem evento que sustente a imagem, ela leria como
+  premonição (e o sensor da pedra é exclusividade do **Uorier**, cap. 33) ou
+  como anacronismo.
+- **Fala final:** *"A guerra que eu te prometi está de pé. Tem um homem subindo
+  essa estrada que vai ser rei de alguma coisa. Eu não vim te levar de volta
+  para o pátio. Eu vim te levar para ela."* — o sinal que sobra é só o que o
+  Gaviorn'l tinha por onde saber (o Estrangeiro; eco de "Ele terá o trono.
+  Vonos garante.").
+- ⚠️ **Não reintroduzir (revisões futuras):** clãs em movimento antes da
+  soltura da Hícse; "pedra quente" no norte antes do bloco da Mina.
+- **Arquivos:** `Livro 1/capitulo30.md`, `log.md`.
+
 ## 2026-10-04 (7ª revisão: auditoria de pendências — 20 correções)
 
 **Varredura completa do repositório.** Todas as referências de capítulo dos

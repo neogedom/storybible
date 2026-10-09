@@ -21,6 +21,10 @@ Gaviorn'l como receptáculo).
 **A chave secreta:** Terbs guardou a chave para libertar Hícse no momento
 certo — jogando dos dois lados.
 
+⚠️ **Gaviorn'l nunca soube que era o receptáculo** (canon 2026-10-06 — ver
+`decisoes/gaviornl-nunca-soube-do-selo.md`): o selo não exigiu ciência nem
+consentimento dele.
+
 ## Na Narrativa
 
 - A "brasa" que Kate sente no Prólogo é o **vazamento de Hícse** — a fúria

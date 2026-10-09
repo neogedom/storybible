@@ -56,13 +56,23 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 28       | Jogos e Diversão                    | Nolan        | ~52-54%                | ~52,7%               | 3.200    |
 | 29       | Jogos e Diversão                    | Mário        | ~54-56%                | ~55,1%               | 3.265    |
 | 30       | Jogos e Diversão                    | Kate         | ~56-58%                | ~57,0%               | 2.699    |
-| 31       | Jogos e Diversão                    | Mário        | — (decisão de 2026-10-03; a escrever) | —      | —        |
+| 31       | Jogos e Diversão                    | Mário        | ~57-59%                 | ~59,2%               | 2.967    |
+| 32       | Jogos e Diversão                    | Kate         | ~59-61%                 | ~60,1%               | 1.198    |
+| 33       | Jogos e Diversão                    | Nolan        | ~60-62%                 | ~60,4%               | 454      |
 
 > ⚠️ **Tabela corrigida em 2026-10-04.** As linhas de 24 a 31 estavam deslocadas
 > em um capítulo (herança da versão em que o capítulo do Nolan vinha antes — o
 > "fantasma do cap. 24" removido do corpo do esquema). **POV real conferido
 > contra `capitulos/` e contra a prosa.** Acumulado real até o cap. 30:
 > **78.420 palavras** (57,0% da régua de 137,5k).
+>
+> **Atualização 2026-10-07 (Mini-INGEST do cap. 33 — Nolan, "A Mina como lugar").**
+> Linhas 31, 32 e 33 inseridas (estavam ausentes; a tabela parava no 31 como
+> "a escrever"). Acumulado real até o cap. 33: **83.039 palavras** (60,4% da
+> régua de 137,5k). O cap. 33 é um capítulo de véspera — 454 palavras, corte B
+> (pergunta moral no ar). Próximos: 34 (Mário, batismo + decisão da Mina), 35
+> (Kate, combate dos rampillas), 36 (Mário, marcha + Etemenanki), 37 (Mário,
+> Ponto Central — A Mina).
 
 ---
 
@@ -517,7 +527,7 @@ o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 28 fechado em
 > | 32 | **Kate** | **A estrada e a mentira.** A arregimentação (a mulher, o rapaz da tipoia, o que voltou quebrado) → **o treino andando**, e a **fome de Hícse sentida no treino sem ser nomeada** → o **encanamento** contado → **a chegada: ela chega depois da conta paga** → **a mentira na cara do Mário** ("são gente que ouviu falar de você"), com a instrução dada na véspera. |
 > | 33 | **Nolan** | **A Mina como lugar** — ele sobe pelo **Espinhaço** (sem água, sem raiz: cego) → **compra informação** → vê a Mina **antes** dela cair. |
 > | 34 | **Mário** | O assentamento → **o batismo** (renúncia + 1º "Javé") → **a decisão da Mina** (ele vai **para pregar** — não sabe de revolta nenhuma). |
-> | 35 | **Kate** | **O combate dos rampillas** — as seis alcançam a região; **ela sai para proteger o grupo e o homem formado vai com ela** (o Mário fica longe e **não vê**) → ela mata duas e **faz o homem executar o resto** — a **formatura** → a brasa sobe → o **Lakand cheira** o rampilla neles quando voltam, entende e **cala** → ⚠️ **sem o Mário no capítulo**, e **sem objeção**: ela só vem na Mina. |
+> | 35 | **Kate** | **O combate dos rampillas** — as seis alcançam a região; **ela sai para proteger o grupo e o homem formado vai com ela** (o Mário fica longe e **não vê**) → Kate mata cinco e deixa o sexto para o pupilo matar — a **formatura** → a brasa sobe → o **Lakand cheira** o rampilla neles quando voltam, entende e **cala** → ⚠️ **sem o Mário no capítulo**, e **sem objeção**: ela só vem na Mina. |
 > | 36 | **Mário** | A marcha → **a tempestade de quartzo** (o manto queima na página) → o ensaio do discurso → a criança toca o Lakand → **Etemenanki**. |
 > | 37 | **Mário** | A Mina (Ponto Central). |
 > | 38 | **Nolan** | A leitura da ruína. |
@@ -745,7 +755,7 @@ o **O Lakand fala com ela — as duas falas.** Primeiro: _"Você está apaixonad
 o **O combate dos rampillas — LONGE DOS OLHOS DO MÁRIO (correção do autor, 2026-10-04).** As **seis** alcançam a região. ⚠️ **O Mário não vê nada.** A solução do autor: **a Kate sai para proteger o grupo**, e o **homem que ela formou** vai com ela. O abate acontece fora, e ele fica onde está — **é por isso que a cobertura do 32 aguenta até a Mina.**
   - ⚠️ **Consequência dura:** cai a linha antiga "ele viu e não quis ver". O Mário **não vê** o rampilla morrer. O que ele vê, depois, é **a execução do Uorier e da família** — e é aí que a ficha dele cai.
   - **O que ela faz e por quê:** ela **poderia evitar** o encontro e não evita, porque precisa que o **homem** veja — não o Mário. A formatura acontece na frente **de quem ela está formando**.
-  - Ela mata **duas** (⚠️ não as seis — a delegação de Nolan não pode evaporar; **quatro sobrevivem** e continuam sendo pressão) e **faz o homem executar o resto**. O rampilla que sobra **não é luta: é abate**, com a faca na mão de quem nunca matou. ⚠️ **É esse homem — o primeiro que ela formou — que vai executar Ghilly Uorier e a família dele** na queda da Mina. O treino produz **a mão**; a mão dá o estopim.
+  - **Os seis morrem (decisão do autor, 2026-10-08).** Kate, com sede de sangue, mata **cinco** e deixa o sexto para o pupilo matar. O último abate **não é luta: é formatura**, com a faca na mão de quem nunca matou. ⚠️ **É esse homem — o primeiro que ela formou — que vai executar Gwill Uorier e a família dele** na queda da Mina. O treino produz **a mão**; a mão dá o estopim.
   - ⚠️ **Nada de fogo** (a casca queima, mas essa descoberta é do Mário e fica guardada); ela vence com lâmina, peso e o fato de eles **não desviarem**. ⚠️ **A lição não sai da boca dela:** ela não diz *"comigo vocês vencem a Mina"* — **entrega a faca ao próximo**. E não promete vitória: a promessa é **parar de pagar**.
   - ⚠️ **O que ela NUNCA diz:** o que o rampilla é de verdade. Nem ela sabe (semente #13). A mina moral fica armada até o **L2**.
 
