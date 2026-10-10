@@ -87,6 +87,10 @@ precisam de estrada; a carroça precisa) e segue com quatro. As seis alcançam
 o grupo no **cap. 34 desta numeração (cap. 35 atual)** — é o batismo de sangue
 da Kate (`insights/recrutamento-da-kate.md`).
 
+No fim do cap. 28, quando Ossan as desperta, Nolan sente pelo canal o cheiro
+de sangue e vê as seis tomarem o mato. Sabe que encontraram um rastro, mas não
+se o sangue é do Estrangeiro ou da mulher.
+
 **Consequência estrutural:** no instante em que Kate mata as criaturas, Nolan
 **perde os olhos sobre o grupo**. Os quatro que seguem com ele não acompanham
 Mário; a última perna da perseguição passa a depender do que se compra.
