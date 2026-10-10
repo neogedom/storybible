@@ -66,6 +66,10 @@ e não olha para os escravos a três passos.
   **o treino da Kate produz a mão; a mão executa o lorde e a família; a
   execução começa a revolta.** O Mário **não** consegue rastrear o braço de
   volta até ela; o leitor consegue. Ver `insights/recrutamento-da-kate.md`.
+- **A família que está na casa (decisão de encenação, cap. 33):** a esposa e
+  duas filhas pequenas. As meninas aparecem em gestos cotidianos em torno do
+  bebê e durante o jantar; isso dá rosto à família antes da execução, sem
+  transformar as crianças em instrumento de choque.
 - **É o estopim do motim.** Depois da cabeça do lorde no chão, ninguém pode
   voltar atrás: quem assistiu virou cúmplice.
 - **A segunda vez que a brasa sobe na Kate.** A primeira foi a faca no rampilla

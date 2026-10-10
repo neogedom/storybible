@@ -1,9 +1,91 @@
 # Log de Atualizações
 
+## 2026-10-09 (comentários aplicados no cap. 33 — Nolan, "A Mina como lugar")
+
+- **Os 11 comentários `(* ... )` foram resolvidos e removidos** de
+  `Livro 1/capitulo33.md`. A prosa esclarece que Nolan viu Mira e Saboc antes
+  da separação, explica por que a carroça segue pela estrada, mostra sua
+  chegada à casa e posiciona a ordem às seis criaturas no limite da pedra.
+- **Informação comprada:** Nolan interroga o vendedor que passa diariamente
+  pelo arraial. O texto separa o que ele observa do que apenas ouviu, sem
+  introduzir um informante capataz nem dar a Nolan certeza sobre a chegada de
+  Mário à Mina.
+- **Gwill e a casa:** descrição física breve; a provocação a Ossan fica num
+  gesto lido por Nolan, sem declarar a intenção como fato. A casa aparece no
+  terraço acima do arraial, com água carregada em jarras e vista da Mina. A
+  refeição ganhou ações da família e da mesa.
+- **Canon fixado a partir da nota do autor:** a família de Uorier é a esposa
+  e duas filhas pequenas. Elas aparecem em gestos domésticos; a violência
+  futura contra elas não será gráfica. Fichas alinhadas em
+  `personagens/uorier.md`, `lugares/mina-de-quartzo.md` e
+  `decisoes/jornada-nolan-acre-2026-10-03.md`.
+- **Medição atualizada:** o manuscrito do cap. 33 tem 1.847 palavras.
+  Durante a validação, também foi detectada uma edição local do autor no
+  cap. 31; a contagem atual dele é 2.921, sem alteração do percentual
+  arredondado (61,3%). Acumulado até o cap. 33 = 88.041 (64,0% de 137,5k).
+  As linhas 31 e 33 e a nota de acumulação foram corrigidas em
+  `temas/esquema-l1.md`.
+- **Escopo:** os marcadores foram aplicados em lote a pedido do autor. Isso
+  não declara o capítulo pronto nem conclui o Mini-INGEST: o registro
+  `capitulos/capitulo-33.md` continua pendente para o fechamento do capítulo.
+- **Validação:** zero marcadores `(* ... )` no cap. 33; `git diff --check`
+  passou no manuscrito e na Story Bible.
+
+## 2026-10-09 (recontagem inicial da tabela, antes dos comentários do cap. 33)
+
+- **Fonte e método:** contagem por palavra (`Measure-Object -Word`) nos
+  manuscritos atuais `Livro 1/capituloN.md`, caps. 0-33. A régua permanece
+  137.500 palavras; `% Real` é o acumulado inclusivo, capítulo a capítulo.
+- **Contagens corrigidas:** cap. 19 = 2.590; 21 = 2.259; 22 = 2.476;
+  23 = 2.394; 24 = 2.294; 25 = 3.158; 28 = 3.212; 30 = 2.596;
+  32 = 1.967; 33 = 1.224. Cap. 31 permanece em 2.928.
+- **Percentuais reais recalculados (caps. 19-33):** cap. 30 = 59,1%
+  (81.306 palavras acumuladas); 31 = 61,3% (84.234); 32 = 62,7% (86.201);
+  33 = 63,6% (87.425).
+- **Registros alinhados:** tabela e acumulado em `temas/esquema-l1.md`;
+  percentuais/contagem nas fichas dos caps. 30-32. A prosa do Livro não foi
+  alterada. Esta recontagem substitui os números anteriores deste log e do
+  esquema para as versões atuais dos capítulos.
+- **Cap. 33:** a tabela reflete a prosa atual; `capitulos/capitulo-33.md`
+  continua ausente, portanto esta recontagem não substitui o Mini-INGEST.
+
+## 2026-10-08 (Mini-INGEST conferido do cap. 31 — "Uma Noite")
+
+- **Cap. 31 conferido com a prosa salva** (2.928 palavras; POV Mário; Jogos
+  e Diversão; ~59,2% conforme a régua registrada). A linha 31 da tabela em
+  `temas/esquema-l1.md` foi corrigida; o último acumulado registrado até o
+  cap. 30 é 78.420 palavras.
+- **Execução reconciliada:** Kate não aparece no capítulo; Mário só ora por
+  ela, e ela chega no 32 depois da conta paga. A camiseta recolhe o vapor e
+  depois vira atadura. O primeiro som de aço é ouvido pelos dois.
+- **Canon persistente:** Mário revela a Lakand que veio de outro mundo e
+  perde os nomes e as imagens da família, mas mantém fatos e culpa. Lakand
+  perde a memória da travessia e fica com a cicatriz sem história.
+- **Omissão precisa:** a oração nomeia Lakand e Kate, mas não Lucas, Camilla
+  nem os pais; não é uma oração sem nome algum.
+- **Fronteira:** o cap. 30 permanece paralelo no mesmo dia; o 31 fecha com
+  Mário dormindo após a oração; o cap. 32 traz Kate depois do salvamento. Sem
+  contradição de ponto de partida.
+- **Checkpoint de beat:** contagem corrigida — o checkpoint de 18/09 já
+  cobriu os caps. 21-28, então o 28 não entra de novo. Desde ele, foram
+  fechados cinco capítulos (29-33); oferecer o checkpoint ao fechar o 34,
+  que será a sexta marca. Não executado neste Mini-INGEST.
+- **Divergência de contagem fora do cap. 31 (não reingerida):** os arquivos
+  salvos dos caps. 30, 32 e 33 têm 2.596, 1.967 e 1.224 palavras; a tabela
+  registra 2.699, 1.198 e 454. Deixar a recalibração dessas linhas e da régua
+  para passe dedicado; não reingerir esses capítulos aqui.
+- **Arquivos atualizados:** `capitulos/capitulo-31.md`,
+  `decisoes/capitulo-31-uma-noite-salvamento.md`,
+  `personagens/mario.md`, `personagens/lakand.md`,
+  `visuais/mario.md`, `visuais/lakand.md`, `visuais/kate.md`,
+  `lugares/moribundos.md`, `temas/esquema-l1.md`, `temas/sementes.md`.
+
 ## 2026-10-07 (Mini-INGEST do cap. 33 — Nolan, "A Mina como lugar")
 
-- **Cap. 33 escrito e Mini-INGEST fechado** (454 palavras; ~60,4% da régua
-  137,5k). Capítulo de véspera, **corte B** (pergunta moral no ar).
+- **Cap. 33 escrito; o log registrou Mini-INGEST fechado** (454 palavras;
+  ~60,4% da régua 137,5k, contagem daquele rascunho). A ficha de capítulo
+  correspondente não foi criada; o Mini-INGEST segue pendente até o capítulo
+  ser fechado. Capítulo de véspera, **corte B** (pergunta moral no ar).
 - **Conteúdo:** Nolan sobe pelo **Espinhaço** (sem água, sem raiz — o canal do
   Ossan não abre ali); vê a Mina de longe, no fim do vale, onde o mato acaba e
   começa o quartzo; **compra informação** (feitor, carroceiro, cozinheiro do
@@ -16,8 +98,10 @@
 - **Fronteira:** o cap. 32 (Kate) fechou na mentira; o 33 abre com Nolan subindo
   e fecha na pergunta moral. **Próximo:** 34 (Mário — assentamento, batismo,
   "Javé", decisão da Mina).
-- **Contador de checkpoint:** 6 capítulos desde 2026-09-18 (28, 29, 30, 31, 32,
-  33) — **oferecer checkpoint de beat ao autor** (decisão do autor, 2026-09-14):
+- **Contador de checkpoint (corrigido em 2026-10-09):** o checkpoint de
+  18/09 já cobriu os caps. 21-28; contar o 28 novamente foi erro. Desde então,
+  foram fechados cinco capítulos (29-33); oferecer o checkpoint ao fechar o
+  cap. 34, sexta marca:
   - **Arquiteto de Densidade** — leve, nas fronteiras de beat: corrige o mapa para
     frente (esquema), nunca o texto.
   - **Passe anti-slop em lote** — cirurgia local (teste F13) sobre os capítulos
@@ -337,8 +421,9 @@ caps. 24 - 38 foram conferidas contra o manuscrito e contra os ingests.
 - **O preço da água (revisão da semente #23).** Mário perde **a família
   inteira — nomes e imagens**; mantém os fatos, a culpa, a língua e os lugares.
   Lakand perde **a lembrança da travessia**. A água **cobra mesmo destilada**.
-  O custo aparece pela **omissão da prosa** (uma oração sem nome), não por
-  inventário. A descoberta vai para a **Noite Escura** e o L2.
+  O custo aparece pela **omissão dos nomes da família na oração** — Mário
+  ainda ora por Lakand e Kate —, não por inventário. A descoberta vai para a
+  **Noite Escura** e o L2.
 - **Renumeração:** o bloco desloca um — **31 = Mário ("Uma Noite")**; Nolan (a
   Mina) vira 32 e a Mina/Ponto Central vira 36. **Manuscrito não muda** —
   nenhum arquivo de prosa passa do 29. Mapa completo em §8 da decisão.

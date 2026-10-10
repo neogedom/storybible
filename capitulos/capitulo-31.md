@@ -3,36 +3,38 @@ type: Chapter
 title: Capítulo 31 — Uma Noite
 pov: Mário
 beat_stc: Jogos e Diversão
-percentual_l1: ~59,2%
+percentual_l1: ~61,3%
 timeline: 2026-10-03 (escrito)
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo31.md
-timestamp: 2026-10-07T00:55:00-03:00
+data_ingest: 2026-10-08 (Mini-INGEST conferido com a prosa salva)
+timestamp: 2026-10-08T23:02:00-03:00
 ---
 
 # Capítulo 31 — Uma Noite (POV Mário)
 
 ## Resumo
 
-O salvamento do Lakand. O motor: Mário tem de manter o Lakand humano **falando** enquanto tira a carne podre — a conversa não é cena enxertada, é o instrumento cirúrgico. A conta: Kate chega com dois cantis (água para uma boca); o ferimento precisa de água para lavar, e não tem. A única água é a lagoa lodosa da cicatriz — e a ideia é do Mário: ferver o lodo e recolher o vapor. Kate sai (lenha, e vigiar o campo atrás deles). A revelação: a pergunta nasce do contraste com o Decian (erva, pasta, seiva × água fervida e pano) e do "trouxe de onde?" do cap. 29. Resposta curta — outro mundo — e o Lakand: "Eu sabia." O preço: a água sai cristalina e cobra igual. Mário perde a família inteira — nomes e imagens; mantém os fatos, a culpa, a língua e os lugares. Lakand perde a lembrança da travessia (obediência e golpe) e fica com a cicatriz sem história. O custo aparece pela omissão da prosa (uma oração sem nome nenhum). Fecho (Corte C com frio): a oração sem nomes, e ele dorme.
+Mário e Lakand chegam à lagoa lodosa além dos Moribundos; o corte do Lakand já apodrece. Sem água limpa nem Kate, Mário decide destilar o lodo com fogo, pedras aquecidas e a camiseta. Usa a água para limpar e abrir o ferimento, mantendo Lakand falando. Durante o tratamento, Lakand pergunta de onde Mário veio; ele revela ser de outro mundo, e Lakand diz que já sabia pelo cheiro. Os dois ouvem o aço em três momentos. A água cobra memória: Mário perde os nomes e as imagens da família, mas mantém os fatos, a culpa, a língua e os lugares; Lakand perde a lembrança da travessia. Na oração final, Mário pede por Lakand, Kate e os que ficaram para trás, mas não nomeia a família. Fecho (Corte C, com frio): pede que amanheça e dorme.
 
 ## Personagens
 
-- **Mário** — sozinho com o Lakand. Usa o conhecimento do séc. XXI (fervura + higiene + protocolo) para salvar.
-- **Lakand** — ferido, em febre. Fala para manter a humanidade. Pergunta "De onde você veio?" e responde "Eu sabia."
-- **Kate** — fora do capítulo (busca lenha e vigia o campo).
+- **Mário** — sozinho com Lakand. Usa fogo, pedras, faca e camiseta para destilar água e limpar o ferimento. Revela que veio de outro mundo; depois de beber, perde os nomes e as imagens da família sem perceber a extensão da perda.
+- **Lakand** — ferido e febril. Fala durante o corte para permanecer humano; reconhece pelo cheiro a origem de Mário, que já suspeitava desde o primeiro dia. Depois de beber, perde a lembrança da travessia e fica com a cicatriz sem história.
+- **Kate** — não aparece. Mário ora por ela; ela chega depois da conta paga, no cap. 32.
 
 ## Eventos
 
-- O corte do podre (estancar, água aos goles).
-- A destilação: ferver o lodo, recolher o vapor. Entrada suja, saída limpa.
-- A revelação: Mário não é de Ornick. O Lakand já sabia.
-- O preço: a água cobra memória. Mário perde a família inteira; Lakand, a travessia.
+- Mário improvisa fogo e destila a água lodosa; a camiseta recolhe o vapor e depois vira atadura.
+- Mário limpa e abre o corte, mantendo Lakand falando; remove o tecido podre e enfaixa a ferida.
+- Lakand pergunta de onde Mário veio. Mário revela que vem de outro mundo; Lakand diz que já sabia pelo cheiro.
+- Os dois ouvem o aço em três momentos. A água cobra memória: Mário perde os nomes e as imagens da família; Lakand, a lembrança da travessia.
+- Mário ora por Lakand, Kate e os que ficaram para trás, sem nomear a família, e dorme.
 
 ## Sementes
 
 - Semente #24: a revelação da origem do Mário.
 - Semente #23: a água cobra memória — o custo da destilação.
-- O custo aparece pela omissão da prosa, não por inventário. A descoberta é depois (Noite Escura, L2).
+- O custo aparece pela omissão dos nomes da família na oração, não por inventário. A descoberta é depois (Noite Escura, L2).
 
 ## Conexões
 

@@ -19,6 +19,10 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma canônica definida                     |
 | Expressão  | Fria, nojo, determinação                      |
 
+## Capítulo 31 — Uma Noite
+
+- _Não aparece._ Mário ora por ela; Kate chega depois da conta paga, no cap. 32.
+
 ## Capítulo 29 — Moribundos
 
 - _Não aparece_ (separada do grupo desde a recolha, cap. 27; a metade dela é o **cap. 30 — "A Carne e a Pedra"**).

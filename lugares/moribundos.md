@@ -51,5 +51,6 @@ timestamp: 2026-10-02T21:30:00-03:00
 ## Status
 
 - **Cap. 29:** travessia feita; **o Lakand ferido** (corte oblíquo da cintura às costelas — o que mata é o apodrecimento; ver `conceitos/daerunmeges.md` e `conceitos/agua-e-seca.md` §5).
-- **O que vem:** o cap. 30 (Kate — o alívio; o ferimento pendurado) e, depois, o capítulo do salvamento no fio do Mário (água imunda + destilação + "De onde você veio" — semente #24).
+- **Cap. 30:** Kate vive a outra metade dos acontecimentos, no mesmo dia; o ferimento de Lakand continua pendente no fio de Mário.
+- **Cap. 31 — "Uma Noite":** Mário destila a água lodosa, limpa e abre o corte de Lakand, revela a origem de outro mundo e paga a água com as memórias da família; Lakand perde a lembrança da travessia. Kate não aparece, e o reencontro ocorre no cap. 32, depois da conta paga.
 - **L2:** a Hoste de Hícse se alimenta das memórias cobradas (ver semente #23).

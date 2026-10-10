@@ -5,7 +5,7 @@ capitulo: 30
 titulo: "A Carne e a Pedra"
 pov: Kate
 beat_stc: Jogos e Diversão
-percentual_l1: ~57,0% (real medido 2026-10-04; acumulado = 78.420 palavras ÷ 137,5k)
+percentual_l1: ~59,1% (recalculado 2026-10-09; acumulado = 81.306 palavras ÷ 137,5k)
 data_ingest: 2026-10-04 (Mini-INGEST; capítulo escrito em 2026-10-04 e partido em dois no mesmo dia)
 personagens:
   - Kate (POV)
@@ -228,7 +228,7 @@ coisa do capítulo: **a fome.** Ela nomeia como corpo, nunca como causa.
   **nono peso** do cap. 28) e fica mais tempo na moita; a **sede** vence o medo
   e a tira de lá. No cap. 28, do outro lado, o número da leitura subiu de oito
   para **nove**.
-- **Contagem:** 2.699 palavras.
+- **Contagem:** 2.596 palavras.
 - **Fronteira:** o cap. 29 fecha no ferimento do Lakand; o 30 é a metade da Kate
   no mesmo dia; o **31 é do Mário**, e a Kate **não aparece nele**. O próximo
   capítulo dela é o **32**.

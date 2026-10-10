@@ -133,6 +133,16 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 - **A relação com a Kate (fala):** "Eu falei uma coisa. Acho que ela não gostou. / Que ela mudou. / Deixou de gostar." — nomeia o afastamento percebido (causa: o Theodore; ver cap. 26).
 - **A frase que fica (semente #24):** sobre o tiro do Inquiridor no Mário — "Trouxe uma vez. (...) Pode ser que ele só te deixe no meio do caminho." O "trouxe de onde?" começa aqui.
 
+### Capítulo 31 — Uma Noite (o salvamento e a memória)
+
+- Mário limpa e abre o corte, remove o tecido podre e o enfaixa; Lakand
+  sobrevive à noite.
+- Confirma que percebeu desde o primeiro dia que Mário não era de Ornick,
+  pelo cheiro.
+- Depois de beber a água destilada dos Moribundos, perde a lembrança da
+  travessia, incluindo a obediência e o golpe. A cicatriz permanece sem
+  história; a desconfiança de Mário permanece sem que Lakand saiba por quê.
+
 ## Notas de Coerência — Como Lakand Soube (canon 2026-08-04)
 
 - Lakand **NÃO estava com a alcateia que perseguiu Mário** — ele é batedor

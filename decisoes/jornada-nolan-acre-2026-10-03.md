@@ -103,6 +103,10 @@ Mário; a última perna da perseguição passa a depender do que se compra.
   no mesmo ato. A família morta é o que envenena o Mário: ele autorizou o
   treino, e o treino produziu gente que mata a mulher e os filhos do lorde,
   que não assinaram dívida nenhuma.
+- **Composição mostrada no cap. 33:** esposa e duas filhas pequenas. A
+  preparação é doméstica e breve; a execução futura não deve usar as crianças
+  como choque gráfico. A presença delas em gestos domésticos dá rosto à
+  família que será morta.
 - **A execução é pública**, em lugar que todos veem, feita por **um homem que
   a Kate treinou** (o rosto da estrada, que o Mário **não** consegue rastrear
   de volta até ela — o leitor consegue).

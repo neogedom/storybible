@@ -3,7 +3,7 @@ type: Chapter
 title: Capítulo 32 — A Estrada e a Mentira
 pov: Kate
 beat_stc: Jogos e Diversão
-percentual_l1: ~60,1%
+percentual_l1: ~62,7%
 timeline: 2026-10-04 (escrito)
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo32.md
 timestamp: 2026-10-07T00:55:00-03:00

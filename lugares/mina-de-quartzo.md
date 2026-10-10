@@ -92,6 +92,9 @@ Consequências travadas:
   dele** (ele os avisou para fugir; não escaparam) → os alavrianos nas
   galerias → **a encosta cede**. Guarnição e escravos dentro; o arraial
   coberto de pó. **A Mina morre como lugar.**
+- **A família de Uorier:** esposa e duas filhas pequenas, mostradas antes da
+  queda no cap. 33. A violência contra elas permanece fora de descrição
+  gráfica; o que importa é a morte pública e a consequência para Mário e Kate.
 - **A falsa vitória:** os escravos vencem por massacre, e o discurso
   pacifista do Mário não impediu nada.
 - **A família morta é o que envenena o Mário (canon 2026-10-04; corrigido).**

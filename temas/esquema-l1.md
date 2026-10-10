@@ -44,41 +44,40 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 16       | Debate                              | Mário        | ~31-32%                | ~33,0%               | 2.649    |
 | 17       | Debate                              | Nolan        | ~32-33%                | ~34,5%               | 2.123    |
 | 18       | Debate                              | Kate         | ~33-35%                | ~36,7%               | 3.070    |
-| 19       | Break Into 2                        | Nolan        | ~35-38%                | ~38,6%               | 2.531    |
+| 19       | Break Into 2                        | Nolan        | ~35-38%                | ~38,6%               | 2.590    |
 | 20       | Break Into 2                        | Kate         | ~38-40%                | ~40,0%               | 1.912    |
-| 21       | Jogos e Diversão                    | Mário        | ~38-40%                | ~41,6%               | 2.263    |
-| 22       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~43,4%               | 2.486    |
-| 23       | Jogos e Diversão                    | Kate         | ~42-44%                | ~45,2%               | 2.397    |
-| 24       | Jogos e Diversão                    | Mário        | ~44-46%                | ~44,7%               | 2.292    |
-| 25       | Jogos e Diversão                    | Kate         | ~46-48%                | ~47,0%               | 3.157    |
-| 26       | Jogos e Diversão                    | Mário        | ~48-50%                | ~48,6%               | 2.196    |
-| 27       | Jogos e Diversão                    | Kate         | ~50-52%                | ~50,4%               | 2.431    |
-| 28       | Jogos e Diversão                    | Nolan        | ~52-54%                | ~52,7%               | 3.200    |
-| 29       | Jogos e Diversão                    | Mário        | ~54-56%                | ~55,1%               | 3.265    |
-| 30       | Jogos e Diversão                    | Kate         | ~56-58%                | ~57,0%               | 2.699    |
-| 31       | Jogos e Diversão                    | Mário        | ~57-59%                 | ~59,2%               | 2.967    |
-| 32       | Jogos e Diversão                    | Kate         | ~59-61%                 | ~60,1%               | 1.198    |
-| 33       | Jogos e Diversão                    | Nolan        | ~60-62%                 | ~60,4%               | 454      |
+| 21       | Jogos e Diversão                    | Mário        | ~38-40%                | ~41,7%               | 2.259    |
+| 22       | Jogos e Diversão                    | Nolan        | ~38-40%                | ~43,5%               | 2.476    |
+| 23       | Jogos e Diversão                    | Kate         | ~42-44%                | ~45,2%               | 2.394    |
+| 24       | Jogos e Diversão                    | Mário        | ~44-46%                | ~46,9%               | 2.294    |
+| 25       | Jogos e Diversão                    | Kate         | ~46-48%                | ~49,2%               | 3.158    |
+| 26       | Jogos e Diversão                    | Mário        | ~48-50%                | ~50,8%               | 2.196    |
+| 27       | Jogos e Diversão                    | Kate         | ~50-52%                | ~52,5%               | 2.431    |
+| 28       | Jogos e Diversão                    | Nolan        | ~52-54%                | ~54,9%               | 3.212    |
+| 29       | Jogos e Diversão                    | Mário        | ~54-56%                | ~57,2%               | 3.265    |
+| 30       | Jogos e Diversão                    | Kate         | ~56-58%                | ~59,1%               | 2.596    |
+| 31       | Jogos e Diversão                    | Mário        | ~57-59%                 | ~61,3%               | 2.921    |
+| 32       | Jogos e Diversão                    | Kate         | ~59-61%                 | ~62,7%               | 1.967    |
+| 33       | Jogos e Diversão                    | Nolan        | ~60-62%                 | ~64,0%               | 1.847    |
 
-> ⚠️ **Tabela corrigida em 2026-10-04.** As linhas de 24 a 31 estavam deslocadas
-> em um capítulo (herança da versão em que o capítulo do Nolan vinha antes — o
-> "fantasma do cap. 24" removido do corpo do esquema). **POV real conferido
-> contra `capitulos/` e contra a prosa.** Acumulado real até o cap. 30:
-> **78.420 palavras** (57,0% da régua de 137,5k).
->
-> **Atualização 2026-10-07 (Mini-INGEST do cap. 33 — Nolan, "A Mina como lugar").**
-> Linhas 31, 32 e 33 inseridas (estavam ausentes; a tabela parava no 31 como
-> "a escrever"). Acumulado real até o cap. 33: **83.039 palavras** (60,4% da
-> régua de 137,5k). O cap. 33 é um capítulo de véspera — 454 palavras, corte B
-> (pergunta moral no ar). Próximos: 34 (Mário, batismo + decisão da Mina), 35
-> (Kate, combate dos rampillas), 36 (Mário, marcha + Etemenanki), 37 (Mário,
-> Ponto Central — A Mina).
+> **Recontagem 2026-10-09, baseada nos manuscritos atuais.** A coluna
+> **Palavras** foi conferida nos arquivos `Livro 1/capituloN.md` com
+> `Measure-Object -Word`; **% Real** é o acumulado
+> até o capítulo dividido por 137.500. Foram atualizadas as contagens dos
+> caps. 19, 21-25, 28, 30-33; os percentuais foram recalculados dos
+> caps. 19 a 33. Acumulado: **81.306 palavras até o cap. 30 (59,1%)**,
+> **84.227 até o 31 (61,3%)**, **86.194 até o 32 (62,7%)** e
+> **88.041 até o 33 (64,0%)**. O cap. 31 foi recontado contra a edição local
+> atual; a contagem e a posição do cap. 33 foram atualizadas após a resolução
+> dos comentários de autor em 2026-10-09. Esta
+> medição substitui os totais e percentuais anteriores registrados em
+> 2026-10-04, 2026-10-07 e antes da revisão dos comentários.
 
 ---
 
 ## Jogos e Diversão (~47-68%) — Caps. 21 - 36
 
-> **⚠️ Recalibrado 2026-08-26** (números na régua antiga de 115k; na régua de 137,5k adotada em 2026-09-18: cap. 21 = ~41,6% e cap. 28 = ~54,0%)**:** O beat começou antes do previsto (cap. 21 com ~47% em vez de ~38%) porque o Debate e Break Into 2 ocuparam mais palavras que o planejado. A janela do beat (~47-68%) ainda comporta os caps. 21 - 36 com folga. O Ponto Central (~68%) deve chegar no cap. 36 com **~91.800-95.200 palavras acumuladas** (rebaseline 2026-09-12: total provisório ~135-140k; o "~80.000" era a projeção ÷115.000).
+> **⚠️ Recalibrado 2026-08-26** (números na régua antiga de 115k; na régua de 137,5k adotada em 2026-09-18 e recontada em 2026-10-09: cap. 21 = ~41,7% e cap. 28 = ~54,9%)**:** O beat começou antes do previsto (cap. 21 com ~47% em vez de ~38%) porque o Debate e Break Into 2 ocuparam mais palavras que o planejado. A janela do beat (~47-68%) ainda comporta os caps. 21 - 36 com folga. O Ponto Central (~68%) deve chegar no cap. 36 com **~91.800-95.200 palavras acumuladas** (rebaseline 2026-09-12: total provisório ~135-140k; o "~80.000" era a projeção ÷115.000).
 
 > **Gênero STC:** Velocino de Ouro — jornada de Mário e Kate em busca de um objetivo (a libertação da Mina de Quartzo), enfrentando desafios, recrutando ajudantes ao longo do caminho, com a dupla funcionando em complemento: Mário pensa e articula (raciocínio abdutivo), Kate age e executa (força física e tática).
 
@@ -617,12 +616,14 @@ o **O motor:** Mário tem de **manter o Lakand humano falando** enquanto tira a
   carne podre. A conversa não é cena enxertada — é o instrumento cirúrgico. É
   o cap. 20 invertido: a palavra segura a fera **e** entrega o homem.
 
-o **A conta:** Kate chega com dois cantis (água para uma boca); o ferimento
-  precisa de água para **lavar**, e não tem. A única água é a lagoa lodosa da
-  cicatriz — e a ideia é do Mário: ferver o lodo e recolher o vapor.
+o **A conta:** o ferimento precisa de água para **lavar**, e Mário não tem
+  água limpa nem recipiente. A única fonte é a lagoa lodosa da cicatriz. Ele
+  decide ferver o lodo e recolher o vapor; improvisa com fogo, pedras
+  aquecidas, uma cova de barro e a camiseta.
 
-o **Kate sai** (lenha, e vigiar o campo atrás deles) — canon 2026-10-01: a
-  revelação acontece **sem ela**.
+o **A Kate está fora** do capítulo — não chega com os cantis nem sai para
+  buscar lenha. Mário só ora por ela no fecho; o reencontro é no cap. 32,
+  depois da conta paga.
 
 o **A revelação (semente #24):** a pergunta nasce do contraste com o **Decian**
   (erva, pasta, seiva × água fervida e pano) e do *"trouxe de onde?"* do cap.
@@ -634,12 +635,13 @@ o **O preço (semente #23):** a água sai cristalina e **cobra igual**. Mário
   golpe) e fica com a cicatriz sem história.
 
 o **Como o custo aparece na página:** o som de aço em horas erradas (três
-  frases tortas) e, no fecho, **uma oração sem nome nenhum**. Nada de
-  inventário — a perda entra pela **omissão da prosa**. A descoberta é depois
+  retornos). No fecho, Mário ora por Lakand, Kate e pelos que ficaram para
+  trás, mas não nomeia **Lucas, Camilla nem os pais**. Nada de inventário — a
+  perda entra pela **omissão dos nomes da família**. A descoberta é depois
   (Noite Escura, L2).
 
-o **Fecho (Corte C com frio):** a oração sem nomes, e ele dorme. O leitor
-  carrega o que ele não sabe.
+o **Fecho (Corte C com frio):** a oração não nomeia a família; Mário pede que
+  amanheça e dorme. O leitor carrega o que ele ainda não sabe.
 
 ### Movimento 3 — Aproximação da Mina (caps. 32 - 36)
 
@@ -679,21 +681,39 @@ o **Quem sabe:** o **Lakand** (deitado, calado, e que **sente que tem coisa erra
 > Substitui o bloco do retorno à Metrópole e do enforcamento da Juleen.
 > Ver `decisoes/jornada-nolan-acre-2026-10-03.md`.
 
-o **Nolan chega pelo Espinhaço.** Ele não entra na Mina e não anda pela estrada:
-  viaja pelo mato, com as quatro criaturas fora de vista, e acampa nos
-  arredores. A cara dele é conhecida no norte, e uma silhueta cinzenta basta
-  para esvaziar um burgo. **O homem mais poderoso do Reino, escondido atrás de
-  um arbusto.**
+o **Nolan chega pelo Espinhaço.** Ele não entra na Mina e não acompanha a
+  carroça pela estrada: a silhueta dele e os rampillas esvaziam os povoados.
+  Mira, Saboc, Mathias e o cocheiro seguem com a carroça; Nolan sobe com Ossan
+  e quatro criaturas, enquanto seis avançam pelo mato. Ele acampa nos
+  arredores. **O homem mais poderoso do Reino, escondido atrás de um arbusto.**
 
 o **A cegueira na pedra.** O canal de Ossan **não atravessa pedra** (limite
   fixado no cap. 28). Ele pode olhar a Mina por fora; não pode ver nada do que
   acontece dentro. É aqui que a limitação cobra o preço.
 
 o **Ele compra gente.** Sem olhos, o Juiz faz o que nunca fez na vida: **paga
-  por informação**. Um homem de dentro — um feitor, um carroceiro, o cozinheiro
-  do burgo — traz o que o dinheiro compra: a guarnição, os turnos, os escravos,
-  o rastro da dívida. ⚠️ **Nada sobre a Kate** — ele ainda não sabe do treino,
-  e não pode saber.
+  por informação**. Um vendedor que passa diariamente pelo arraial observa a
+  guarnição, os turnos, a fila de devedores e onde os homens descansam; o
+  nome do administrador ele conhece, mas o restante é ouvido, não verificado.
+  ⚠️ **Nada sobre a Kate** — ele ainda não sabe do treino, e não pode saber.
+
+o **Mira e Saboc chegam à casa depois de Nolan.** A carroça os alcança; a
+  esposa de Uorier recebe Mira e o bebê. A família na casa: esposa e duas
+  filhas pequenas, vistas em gestos breves antes da queda.
+
+o **Gesto de Gwill com Ossan:** depois da referência à família d'Tirath morta,
+  Gwill espera o sorriso de Ossan desaparecer antes de baixar os olhos e
+  oferecer pêsames. Nolan pode ler nisso uma provocação; a intenção não é
+  confirmada.
+
+o **Casa e refeição:** a casa fica num terraço de pedra acima do arraial, com
+  escadaria larga, pátio servido por água limpa e varanda voltada para a Mina.
+  No jantar, as filhas aparecem em tarefas domésticas; Gwill fala da
+  Segregação e da administração da Mina.
+
+o **Rampillas:** antes de entrar na faixa de pedra, Nolan os deixa no limite
+  do mato e ordena que não avancem sobre a zona cega. Ao fim do capítulo,
+  Ossan abre o canal e Nolan confirma que as seis continuam no posto.
 
 o **O lorde.** **Uorier**, administrador da Mina pela Coroa, leviantar de terra
   e pedra. Ele **sente a pedra** — e é o único ali que já sabe que a Mina vai

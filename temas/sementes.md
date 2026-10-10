@@ -578,8 +578,10 @@ timestamp: 2026-07-24T12:00:00-03:00
   fotos somem — ele sabe que falhou com alguém e não vê quem.
 - **O que o Lakand perde:** a lembrança da travessia (a obediência e o golpe).
   Fica com a cicatriz **sem história** — desconfia do Mário sem saber por quê.
-- **Como aparece na página:** o som de aço em horas erradas (três frases
-  tortas) e, no fecho, **uma oração sem nome nenhum**. Nada de inventário.
+- **Como aparece na página:** o som de aço em três momentos. No fecho, Mário
+  ora por Lakand, Kate e pelos que ficaram para trás, mas não nomeia a
+  família. Nada de inventário: a perda aparece pela **omissão dos nomes de
+  Lucas, Camilla e dos pais**, não pela ausência de todos os nomes da oração.
 - **A descoberta é depois:** Noite Escura (a oração que não completa, sem
   rostos) e L2 (alguém pergunta e ele não nomeia a família).
 - **O que fecha o fio no L2:** a Hoste se alimenta das memórias cobradas — e
@@ -617,7 +619,8 @@ timestamp: 2026-07-24T12:00:00-03:00
   Mário *"O cheiro dele não é daqui. É liso. Artificial."*, e o **cheiro é o
   sentido do Lakand**, que perdeu parte do nariz em Saramant. Ele sentiu a
   mesma coisa e não teve nariz para confirmar.
-- **A Kate está fora** (lenha e reconhecimento do caminho) — canon mantido.
+- **A Kate está fora da revelação** e não aparece no cap. 31; Mário ora por
+  ela. O reencontro ocorre no cap. 32, depois da conta paga.
 - **Fecho:** a revelação → e o preço da água por cima, sem que ninguém entenda.
 
 _Atualizar a cada INGEST de capítulo._
