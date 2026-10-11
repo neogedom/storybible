@@ -48,10 +48,13 @@ deposita a aliança e cumpre o rito fúnebre de Vonos (fórmula seca, trâmite �
 o rito não consola). A misatribuição: a morte de Dagmar é explicada pela
 ideologia (contato com humanos — eco do pai); Nolan segura as duas molduras
 ("os humanos adoeceram minha esposa" / "o Estrangeiro trouxe meu filho de
-volta") sem perceber a contradição. Mira (parteira do parto) vira ama de
-leite de Saboc. A lembrança do pai (a porta fechada) ancora a Segregação
-como resposta à impotência. "Mário é a resposta": a cura que a Segregação
-nunca foi — mas só sob controle do Estado, com Nolan no controle.
+volta") sem perceber a contradição. Mira, uma leviantar da Metrópole e
+antiga concubina de Devour, torna-se ama de leite de Saboc. Antes de aceitar,
+Nolan pergunta a Ossan se ela é humana. Ela havia ficado no castelo para
+alimentar os filhos de Ossan e dos criados, em uma casa onde as fêmeas tinham
+pouca voz. A lembrança do pai (a porta fechada) ancora a Segregação como
+resposta à impotência. "Mário é a resposta": a cura que a Segregação nunca
+foi — mas só sob controle do Estado, com Nolan no controle.
 
 Dia: o recuo ao castelo de pedra (abrigo/provisões). A vistoria expõe o
 jardim queimado e a raiz-mestra subterrânea. Ossan d'Tirath (xamã, filho de
@@ -86,7 +89,10 @@ marco guarda o anel, a única herança da mãe para Saboc.
 
 ### Mira
 
-- Sobrevive ao incêndio; vira ama de leite de Saboc
+- Leviantar da Metrópole; antiga concubina de Devour e ama de leite dos filhos
+  de Ossan e dos criados
+- Nolan só a aceita como ama de leite de Saboc depois de confirmar que ela não
+  é humana
 - Testemunha silenciosa (viu nascer morto, vê vivo)
 
 ### Ossan
@@ -100,7 +106,8 @@ marco guarda o anel, a única herança da mãe para Saboc.
 1. Cold-open: fogo sobe a torre; Mathias traz Saboc vivo; o choque do vivo
 2. Fuga com contra-fogo; anel arrancado do dedo morto; rampillas congelam
 3. Amanhecer: torre colapsa; marco de pedras + rito fúnebre de Vonos
-4. Misatribuição (humanos adoeceram a esposa); Mira = ama de leite
+4. Misatribuição (humanos adoeceram a esposa); Nolan pergunta a Ossan se Mira
+   é humana e, ao saber que ela é leviantar, aceita-a como ama de leite
 5. O pai (a porta) → Segregação; "Mário é a resposta"
 6. Recuo ao castelo; vistoria; raiz-mestra exposta pelo fogo; Ossan
 7. Click: reinterrogatório de Mathias; "um deus acima do Limbo" (categoria)

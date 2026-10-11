@@ -26,6 +26,10 @@ escuros, pele cinzenta. Plantas crescem ao redor dele (musgos, trepadeiras,
 flores brancas). É o centro de um jardim invisível. Espalhou **plantas-espia**
 por toda Saramant — raízes que sentem vibração, galhos que percebem calor.
 
+**Concubinas (canon 2026-10-11)**: Devour trazia concubinas da Metrópole de
+tempos em tempos. Quando chegavam outras, ele colocava as antigas em outras
+funções no castelo. As fêmeas tinham pouca voz na casa dos d'Tirath.
+
 ## Função na História
 
 - Antagonista regional em Saramant

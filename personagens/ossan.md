@@ -56,7 +56,8 @@ o controle dos rampillas.
 
 - [Devour](/personagens/devour.md) — pai e mestre (morto no incêndio)
 - [Nolan](/personagens/nolan.md) — senhor de conveniência
-- [Mira](/personagens/mira.md) — colega de séquito de Nolan (parteira-ama)
+- [Mira](/personagens/mira.md) — antiga ama de leite dos filhos de Ossan e
+  dos criados; depois, parteira-ama de Saboc no séquito de Nolan
 - Manto de Tharin — sabe como itens como esse são feitos (e reconheceria um)
 
 ## Notas

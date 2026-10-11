@@ -171,13 +171,18 @@ leitura. Sem choro, sem catarse. **A dívida** é dupla: para com Mário (Saboc
 viveu — dívida que Nolan converte em "possuí-lo") e o luto sem fechamento
 (solo do ódio no L2).
 
-o **A parteira-ama (decisão 2026-08-06).** Uma das **parteiras que estavam
+o **A parteira-ama (canon 2026-10-11).** Uma das **parteiras que estavam
 no quarto do parto** (cap. 19) sobrevive ao incêndio e, deslocada (Devour
 morto, castelo em ruínas), entra para o séquito de Nolan como **ama de
-leite de Saboc**. Nome: **Mira** (ver `personagens/mira.md`). Ela
-viu o bebê nascer morto e o vê vivo — **testemunha silenciosa da
-ressurreição do lado de Nolan** (semente). O filho morto dela é só fundo,
-nunca mencionado no texto.
+leite de Saboc**. Nome: **Mira** (ver `personagens/mira.md`). Ela é
+**leviantar da Metrópole**: Devour a trouxe como concubina e depois a manteve
+no castelo para alimentar os filhos de Ossan e dos criados. Quando chegavam
+outras concubinas, as antigas eram postas em outras funções; as fêmeas tinham
+pouca voz na casa dos d'Tirath. Antes de aceitar Mira como ama de Saboc,
+Nolan pergunta a Ossan se ela é humana. A resposta negativa permite que ele
+a aceite — não confiaria o filho a uma humana. Mira viu o bebê nascer morto
+e o vê vivo — **testemunha silenciosa da ressurreição do lado de Nolan**
+(semente). O filho morto dela é só fundo, nunca mencionado no texto.
 
 o **A vistoria e a raiz-mestra (dois tempos).** Nolan não "volta": o castelo
 chamuscado vira a base dele (canon). Na vistoria das ruínas, o fogo queimou

@@ -54,7 +54,7 @@ e não olha para os escravos a três passos.
 
 - **Antes do Ponto Central:** é o rosto do Trono dentro da Mina — quem
   assina a dívida e administra o trabalho. Nolan o observa de longe, da
-  borda, e vê um homem que está com medo.
+  borda, sem perceber que Uorier já sabe que a Mina vai cair.
 - **A fuga:** a pedra já o avisou, e ele **avisa só a própria família** —
   manda os seus embora e não diz uma palavra a mais ninguém. Depois **foge
   levando o livro de dívidas** — não o baú, não a prata: o registro. Como ele

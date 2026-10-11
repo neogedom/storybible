@@ -1,7 +1,7 @@
 ---
 type: Character
 title: Mira
-description: Parteira-ama do castelo de Devour, ama de leite de Saboc, testemunha silenciosa da ressurreição. Séquito de Nolan.
+description: Parteira-ama leviantar da Metrópole, ama de leite de Saboc e testemunha silenciosa da ressurreição. Séquito de Nolan.
 tags: [personagem, parteira, ama-de-leite, devour, nolan, L1]
 timestamp: 2026-08-06T00:00:00-03:00
 ---
@@ -11,7 +11,9 @@ timestamp: 2026-08-06T00:00:00-03:00
 ## Visão Geral
 
 Uma das **parteiras que atenderam o parto de Dagmar** no castelo de Devour
-(cap. 19). Sobrevive ao incêndio (cap. 20) e, deslocada (Devour morto,
+(cap. 19). É uma **leviantar da Metrópole**, trazida por Devour como
+concubina. Depois, ficou no castelo como ama de leite dos filhos de Ossan e
+dos criados. Sobrevive ao incêndio (cap. 20) e, deslocada (Devour morto,
 castelo em ruínas), entra para o séquito de Nolan como **ama de leite de
 Saboc** (cap. 22). Conhece ervas — é ela quem reconhece o veneno.
 
@@ -19,9 +21,11 @@ Saboc** (cap. 22). Conhece ervas — é ela quem reconhece o veneno.
 
 - **Cap. 19**: entre as parteiras do quarto do parto — viu Dagmar morrer e o
   bebê nascer sem ar.
-- **Cap. 22**: sobrevive ao incêndio; vira **ama de leite de Saboc**. Viu o
-  bebê morto e o vê vivo — **testemunha silenciosa da ressurreição do lado de
-  Nolan** (semente: a casa de Nolan abriga alguém que sabe do impossível).
+- **Cap. 22**: sobrevive ao incêndio; Nolan confirma com Ossan que ela não é
+  humana, mas leviantar da Metrópole, e a aceita como **ama de leite de
+  Saboc**. Viu o bebê morto e o vê vivo — **testemunha silenciosa da
+  ressurreição do lado de Nolan** (semente: a casa de Nolan abriga alguém que
+  sabe do impossível).
 - **Cap. 24 (correção 2026-08-30 — era cap. 26 na decisão 08-19, mas o cap. 26 é POV Kate)**: na estrada da caçada, comenta de forma
   **despretensiosa** o cheiro de **vembra** em Dagmar ("a senhora cheirava
   a vembra, senhor") — um comentário solto, sem intenção; ela não sabe o
@@ -62,7 +66,7 @@ Saboc** (cap. 22). Conhece ervas — é ela quem reconhece o veneno.
 > fixada por consistência. Confirmar com o autor.
 
 **Bloco descritor canônico (colar nos prompts de capítulo):**
-`Mira, parteira e ama de leite de meia-idade, rosto cansado e gentil, mãos gastas pelo trabalho, vestido prático de linho com avental, cabelo preso, expressão de testemunha silenciosa e olhar atento`
+`Mira, leviantar da Metrópole, parteira e ama de leite de meia-idade, rosto cansado e gentil, mãos gastas pelo trabalho, vestido prático de linho com avental, cabelo preso, expressão de testemunha silenciosa e olhar atento`
 
 **Prompt de referência (imagem-retrato do arquivo):**
-Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de uma parteira diante de um interior de pedra acolhedor com luz baixa de lareira. Mira, parteira e ama de leite de meia-idade, rosto cansado e gentil, mãos gastas pelo trabalho, vestido prático de linho com avental, cabelo preso, expressão de testemunha silenciosa e olhar atento. Iluminação: chiaroscuro dramático com luz baixa de lareira. Atmosfera: de cuidado, segredo guardado e cansaço. Paleta de cores: linho, madeira e marrons quentes. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.
+Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de uma parteira diante de um interior de pedra acolhedor com luz baixa de lareira. Mira, leviantar da Metrópole, parteira e ama de leite de meia-idade, rosto cansado e gentil, mãos gastas pelo trabalho, vestido prático de linho com avental, cabelo preso, expressão de testemunha silenciosa e olhar atento. Iluminação: chiaroscuro dramático com luz baixa de lareira. Atmosfera: de cuidado, segredo guardado e cansaço. Paleta de cores: linho, madeira e marrons quentes. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.
