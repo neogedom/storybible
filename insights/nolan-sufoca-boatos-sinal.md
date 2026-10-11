@@ -94,6 +94,17 @@ Genocydo) e divergentes no fim:
 | Kate | Resgatar Mário (que se entregou em Gus) | Usar a comoção para liderar os humanos/hegralianos contra a Metrópole (o "Grande Evento" dela) |
 | Lupe'i / hegralianos | Derrubar a Segregação | (alguns, infiltrados) entregar a cidade a Alavria |
 
+### Virada de prioridade de Kate após Gus (direção do autor, 2026-10-11)
+
+A tabela registra a camada estratégica inicial: Kate pretende resgatar
+Mário, mas também usar a comoção para liderar a ofensiva contra a Metrópole.
+Depois dos resultados da Mina, a frieza de Mário a atinge de modo particular.
+Após ele se entregar para parar a bagunça na Cidadela de Gus, Kate se culpa
+por essa entrega na Noite Escura da Alma. Ao reunir forças para entrar na
+Metrópole, sua prioridade passa a ser resgatar Mário, não avançar a guerra.
+A guerra permanece no contexto, mas deixa de ser a razão íntima da escolha.
+Ver o [insight da virada de prioridade](./kate-prioriza-mario-apos-gus.md).
+
 - **Koda trai no L1 (canon 2026-09-05)**: a traição se **consuma** no L1 —
   ele facilita a entrada dos infiltrados de Alavria durante a invasão de
   Kate. (Descoberta: o canon atual diz "por Gunad no L2" — a definir se a
