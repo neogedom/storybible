@@ -163,6 +163,12 @@ nasce depois, na Cidadela de Gus").
 > teriam derrubado a Mina sozinhos, e **não concluir** — o mesmo movimento da
 > coluna "natureza" em branco. Nada de narrador nomeando.
 
+> **Decisão do autor (2026-10-11):** a autoria alavriana da demolição fica
+> oculta no começo, tanto para as personagens quanto para o leitor. A
+> acusação a Kate e sua resposta irritada acontecem antes de a causa real ser
+> revelada. Nolan pode estranhar a escala da destruição, mas não identifica
+> Alavria nessa primeira leitura. O momento da revelação permanece aberto.
+
 ## 10. A autópsia muda de lugar: a Mina depois da queda
 
 O melhor do cap. 29 cortado era Nolan **lendo uma ausência**. Isso passa para

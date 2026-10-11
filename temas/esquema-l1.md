@@ -881,12 +881,24 @@ que não acredita.
 
 o **A execução como sinal.** O pupilo executa Uorier e a família em público.
 Os ataques aos capatazes começam; Mário só acredita quando vê a execução e a
-matança. A violência se espalha até que a explosão dos alavrianos começa a
-derrubar a Mina.
+matança.
 
-o **O custo.** O discurso pacifista de Mário não impede o banho de sangue.
-Ele vê a família morrer pelas mãos do homem que chamou de discípulo; Kate vê
-o exército que queria, mas o preço abre nela uma fissura.
+o **A queda e a causa oculta (decisão do autor, 2026-10-11).** A violência se
+espalha e explosões começam a derrubar a Mina. A causa real é a ação dos
+Alavrianos, mas ninguém a identifica nesse primeiro momento; a narrativa
+também não confirma a autoria ao leitor ainda. A janela até a revelação fica
+em aberto.
+
+o **A acusação e a defesa.** No caos, alguém acusa Kate de ter matado
+inocentes no processo. Ela responde irritada que não foi ela quem derrubou a
+Mina. Quem a acusa e a formulação exata ficam em aberto. A defesa nega a
+autoria da demolição, não o papel de Kate na captura, na execução pública nem
+no sinal que inicia os ataques.
+
+o **O custo (nota de bastidor, não narrar no PoV de Mário).** O discurso
+pacifista de Mário não impede o banho de sangue. Ele vê a família morrer
+pelas mãos do homem que chamou de discípulo; para Kate, o preço abre uma
+fissura, que só pode aparecer na página por sinais observáveis.
 
 o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas** — beat realocado do cap. 25 (ver `insights/kate-mede-ferramenta.md`): ela lê os sobreviventes como força militar, e a fissura nasce do **preço**, não do arrependimento.
 

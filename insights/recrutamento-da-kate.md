@@ -383,8 +383,10 @@ Enquanto Mário prega nos túneis, Kate pede para se afastar e fazer rondas de
 proteção. Na verdade, ela prepara a captura de Uorier e da família, que tentam
 fugir, e organiza a execução pública pelo pupilo que formou. Antes do ato, as
 pessoas que ela treinou espalham pela Mina que a execução será o sinal para
-começar a matar os capatazes. A violência se amplia até a explosão alavriana
-começar a derrubar a Mina.
+começar a matar os capatazes. A violência se amplia até explosões começarem a
+derrubar a Mina. A autoria alavriana é a verdade do plano, mas fica oculta no
+primeiro momento (ver "A autoria da demolição fica oculta no primeiro
+momento", abaixo).
 
 Mário não sabe do plano. Nolan ouve a mensagem por uma fonte dentro da Mina,
 entra para avisá-lo e não é acreditado; Mário só entende quando vê a execução
@@ -403,6 +405,16 @@ será o sinal para atacar os capatazes, não uma exposição da rede inteira.
 
 A entrada e a distribuição dos treinados pela Mina vigiada continuam sem
 solução concreta. Não tratar a notícia da fonte como se resolvesse a triagem.
+
+### A autoria da demolição fica oculta no primeiro momento (decisão 2026-10-11)
+
+A causa real da queda é a ação dos Alavrianos, mas personagens e leitor não a
+identificam no começo do desabamento. A autoria será revelada depois; o ponto
+da revelação ainda não está definido. Nesse intervalo, alguém acusa Kate de
+ter matado inocentes no processo. Ela responde, irritada, que não foi ela
+quem derrubou a Mina. A fala nega a autoria da demolição, não o que ela
+preparou: a captura, a execução dos Uorier e o sinal para atacar os capatazes.
+O acusador e as palavras exatas ficam em aberto.
 
 ## Disciplina de escrita
 

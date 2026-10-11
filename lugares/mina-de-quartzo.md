@@ -102,10 +102,17 @@ Consequências travadas:
   fonte dentro da Mina, entra com Mathias para avisar Mário e não é acreditado.
   Mathias o acompanha e protege dentro da Mina (decisão do autor, 2026-10-11);
   a forma da proteção e a rota de saída ainda não estão definidas. Depois da
-  execução, os ataques se espalham até que a explosão alavriana começa a
-  derrubar a Mina. A revolta abre caminho para os infiltrados nas galerias;
+  execução, os ataques se espalham e explosões começam a derrubar a Mina. A
+  causa real é alavriana, mas ninguém a identifica no primeiro momento; a
+  autoria também fica oculta ao leitor até uma revelação posterior, ainda sem
+  lugar definido. A revolta abre caminho para os infiltrados nas galerias;
   guarnição e escravos ficam dentro, o arraial é coberto de pó. **A Mina morre
   como lugar.**
+- **A acusação a Kate (decisão do autor, 2026-10-11):** enquanto a autoria da
+  demolição é desconhecida, alguém a acusa de ter matado inocentes no
+  processo. Ela responde irritada que não foi ela quem derrubou a Mina. Quem
+  acusa e a frase exata seguem em aberto. A resposta não apaga a participação
+  dela na captura, na execução dos Uorier nem no sinal para os ataques.
 - **A família de Uorier:** esposa e duas filhas pequenas, mostradas antes da
   queda no cap. 33. A violência contra elas permanece fora de descrição
   gráfica; o que importa é a morte pública e a consequência para Mário e Kate.
