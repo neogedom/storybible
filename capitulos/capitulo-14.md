@@ -15,8 +15,10 @@ Nolan reúne o **Conselho secreto** numa sala sob o palácio: **Nuh d'Teraghar**
 (Sumo Sacerdote), **Valinor Addorbek** (General), **Edgard Lupe'i**
 (Hegraliano) e **Koda Deltëra** (Mestre da Moeda).
 
-Koda mostra o livro contábil real — o Reino está **falido**. Nuh rejeita:
-a apoteose resolverá tudo. Nolan mostra a **Bíblia de Kraviam** como prova
+Koda mostra o livro contábil real — o Reino está **falido**. Ele informa que
+**Uorier**, administrador da Mina de Quartzo, avisou que a produção caiu
+novamente e pediu mais homens para manter a cota; não há tropas livres. Nuh
+rejeita: a apoteose resolverá tudo. Nolan mostra a **Bíblia de Kraviam** como prova
 de heresia — ninguém reconhece a língua. A acusação é rejeitada.
 
 **Valinor** recusa Nolan: _"O Rei é o Rei. Você está me pedindo para
@@ -59,6 +61,9 @@ Nolan decide: precisa chegar ao Souhma **primeiro**.
   em vez da realidade. No L2, bêbado numa taverna, constatará o erro.
 - 🌱 **Nolan decide viajar**: Primeiro passo de Nolan para sair da Metrópole
   e ir ao encontro de Mário.
+- 🌱 **Uorier e a Mina:** primeira menção nominal ao administrador da Mina;
+  a queda da produção e o pedido de mais homens plantam o sistema econômico
+  que será encontrado depois, sem transformar Uorier em promessa explícita.
 
 ## Conexões
 

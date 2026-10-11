@@ -1,5 +1,222 @@
 # Log de Atualizações
 
+## 2026-10-11 (lote anti-slop 29–33 e decisões do bloco da Mina)
+
+- **Anti-slop aplicado a pedido do autor** nos caps. 29–33, com nove cirurgias
+  locais. Sem reescrita de cena, alteração de POV/canon, passe gramatical ou
+  edição das quatro notas `(* ... *)` mantidas no cap. 32. A chamada do agente
+  especializado falhou; o passe foi concluído manualmente.
+- **Contagem F13:** "como se/como quem" antes do passe: 15/8/8/6/1
+  (caps. 29–33); depois, 15/8/8/5/1. As comparações restantes foram mantidas
+  quando carregavam ação, voz ou regra de mundo. Ver `conceitos/checklist-capitulo.md`.
+- **Mapa da Mina:** o batismo permanece no assentamento, no cap. 34; a
+  tempestade de quartzo saiu do L1; Etemenanki fica num túnel no cap. 37.
+  Mathias acompanha Nolan e o protege dentro da Mina; reencontro, forma de
+  proteção e extração ainda estão em aberto.
+- **Conhecimento e acusação:** Mário rejeita o aviso de Nolan, mas, depois da
+  execução dos Uorier e dos ataques, entende que Kate organizou os convertidos
+  para a revolta. Durante o desabamento, ele a acusa de matar inocentes; Kate
+  nega ter derrubado a Mina, sem negar a própria participação na captura,
+  execução e sinal. A autoria alavriana permanece oculta no primeiro momento.
+- **Rampillas:** 6 com Nolan e 4 em rota separada continua proposta, não canon;
+  a divisão 4/6 do mapa não mudou. Triagem de entrada, identidade/acesso da
+  fonte interna, extração e formulação exata da acusação seguem pendentes. A
+  posição da preparação e da explicação das galerias também fica em aberto:
+  o mapa atual as mantém no cap. 37, não no 36.
+- **Checkpoint:** este passe cobre apenas o anti-slop solicitado. O checkpoint
+  completo de beat ainda não rodou; densidade e passe de fechos seguem para
+  quando o cap. 34 fechar.
+
+## 2026-10-11 (arquitetura de compressão antes da queda da Mina)
+
+- **Cap. 36:** a explicação das galerias foi movida para este capítulo. Um
+  convertido apresenta a triagem, os setores e as rotas de trabalho por uma
+  necessidade prática de Mário. A informação não resolve a entrada; Mário
+  precisa escolher como atravessar a vigilância. O capítulo fecha nessa escolha
+  operacional e emenda diretamente ao cap. 37.
+- **Cap. 37:** permanece no PoV de Mário e não deve ser comprimido ao mesmo
+  nível dos capítulos de véspera. Ele precisa comportar entrada, pregação,
+  Etemenanki, aviso de Nolan, execução dos Uorier, revolta, acusação e início
+  da queda.
+- **Ritmo 34–38:** caps. 34, 35 e 36 serão curtos, com funções distintas
+  (rito e decisão; formatura violenta; preparação e triagem). O cap. 37 será
+  mais amplo, mas com movimentos internos rápidos; o cap. 38 permanece como
+  coda curta de Nolan. A compressão significa perda progressiva de margem de
+  escolha, não corte de percepção ou consequência.
+- **Pregações:** o batismo do cap. 34 permanece no assentamento. A pregação
+  da Mina não repete o rito: trata da dívida e do trabalho, interrompida pelo
+  ambiente e pela violência.
+
+## 2026-10-11 (ordem da acusação e insight de compressão)
+
+- **Ordem fechada para a Mina:** execução e ataques; primeiros abalos;
+  acusação de Mário a Kate; defesa irritada de Kate; queda plena. A acusação
+  nasce quando Mário entende o que os convertidos fizeram, antes de a Mina
+  colapsar por completo. A troca é a última decisão moral dele antes de perder
+  a possibilidade de resposta.
+- **Insight amarelo registrado:** capítulos curtos e alternância de PoV podem
+  comprimir a margem de escolha antes de grandes viradas, mas não devem virar
+  fórmula. A hipótese será testada primeiro na Mina e só poderá orientar
+  mudanças para frente; não reabre retroativamente a ressurreição de Saboc ou
+  a queima de Saramant.
+- **Plantio de Uorier:** o cap. 14 agora o menciona na reunião do Conselho,
+  pela boca de Koda, como administrador da Mina que informa a queda da
+  produção e pede mais homens para manter a cota. A menção é burocrática e
+  funcional; não será repetida no cap. 0 para evitar sinalização excessiva.
+
+## 2026-10-11 (fecho do capítulo de Mário na queda)
+
+- **Ordem refinada:** a acusação começa quando surgem os primeiros abalos.
+  Kate inicia a defesa, mas a queda invade e interrompe a troca. A reação de
+  Mário ao colapso fecha o capítulo dele; Nolan começa no depois, diante da
+  ruína. Assim, preserva-se o fecho forte da queda sem transformar a acusação
+  em uma fala perdida durante o caos.
+
+## 2026-10-11 (intenção pacifista da pregação na Mina)
+
+- Mário prepara uma palavra de paz: não convoca os trabalhadores à revolta,
+  mas também não pede que aceitem o cativeiro como paz. Ele acredita que
+  anunciar a dívida perdoada pode encerrar a dívida material da Mina sem
+  sangue. Essa confiança é a solução equivocada dele, não uma promessa do
+  evangelho.
+- Uma pergunta prática sobre a próxima cota deve expor a distância entre
+  perdão espiritual e dívida material; o diálogo exato fica para a escrita.
+- A pregação oferece linguagem e esperança, mas não causa sozinha a revolta.
+  Kate organiza a ação; a demolição é alavriana. Mário não conhece nem
+  autoriza esses planos. O sermão não manda os trabalhadores aceitarem a
+  opressão nem pegarem em armas.
+
+## 2026-10-09 (comentários aplicados no cap. 33 — Nolan, "A Mina como lugar")
+
+- **Os 11 comentários `(* ... )` foram resolvidos e removidos** de
+  `Livro 1/capitulo33.md`. A prosa esclarece que Nolan viu Mira e Saboc antes
+  da separação, explica por que a carroça segue pela estrada, mostra sua
+  chegada à casa e posiciona a ordem às seis criaturas no limite da pedra.
+- **Informação comprada:** Nolan interroga o vendedor que passa diariamente
+  pelo arraial. O texto separa o que ele observa do que apenas ouviu, sem
+  introduzir um informante capataz nem dar a Nolan certeza sobre a chegada de
+  Mário à Mina.
+- **Gwill e a casa:** descrição física breve; a provocação a Ossan fica num
+  gesto lido por Nolan, sem declarar a intenção como fato. A casa aparece no
+  terraço acima do arraial, com água carregada em jarras e vista da Mina. A
+  refeição ganhou ações da família e da mesa.
+- **Canon fixado a partir da nota do autor:** a família de Uorier é a esposa
+  e duas filhas pequenas. Elas aparecem em gestos domésticos; a violência
+  futura contra elas não será gráfica. Fichas alinhadas em
+  `personagens/uorier.md`, `lugares/mina-de-quartzo.md` e
+  `decisoes/jornada-nolan-acre-2026-10-03.md`.
+- **Medição atualizada:** o manuscrito do cap. 33 tem 1.847 palavras.
+  Durante a validação, também foi detectada uma edição local do autor no
+  cap. 31; a contagem atual dele é 2.921, sem alteração do percentual
+  arredondado (61,3%). Acumulado até o cap. 33 = 88.041 (64,0% de 137,5k).
+  As linhas 31 e 33 e a nota de acumulação foram corrigidas em
+  `temas/esquema-l1.md`.
+- **Escopo:** os marcadores foram aplicados em lote a pedido do autor. Isso
+  não declara o capítulo pronto nem conclui o Mini-INGEST: o registro
+  `capitulos/capitulo-33.md` continua pendente para o fechamento do capítulo.
+- **Validação:** zero marcadores `(* ... )` no cap. 33; `git diff --check`
+  passou no manuscrito e na Story Bible.
+
+## 2026-10-09 (recontagem inicial da tabela, antes dos comentários do cap. 33)
+
+- **Fonte e método:** contagem por palavra (`Measure-Object -Word`) nos
+  manuscritos atuais `Livro 1/capituloN.md`, caps. 0-33. A régua permanece
+  137.500 palavras; `% Real` é o acumulado inclusivo, capítulo a capítulo.
+- **Contagens corrigidas:** cap. 19 = 2.590; 21 = 2.259; 22 = 2.476;
+  23 = 2.394; 24 = 2.294; 25 = 3.158; 28 = 3.212; 30 = 2.596;
+  32 = 1.967; 33 = 1.224. Cap. 31 permanece em 2.928.
+- **Percentuais reais recalculados (caps. 19-33):** cap. 30 = 59,1%
+  (81.306 palavras acumuladas); 31 = 61,3% (84.234); 32 = 62,7% (86.201);
+  33 = 63,6% (87.425).
+- **Registros alinhados:** tabela e acumulado em `temas/esquema-l1.md`;
+  percentuais/contagem nas fichas dos caps. 30-32. A prosa do Livro não foi
+  alterada. Esta recontagem substitui os números anteriores deste log e do
+  esquema para as versões atuais dos capítulos.
+- **Cap. 33:** a tabela reflete a prosa atual; `capitulos/capitulo-33.md`
+  continua ausente, portanto esta recontagem não substitui o Mini-INGEST.
+
+## 2026-10-08 (Mini-INGEST conferido do cap. 31 — "Uma Noite")
+
+- **Cap. 31 conferido com a prosa salva** (2.928 palavras; POV Mário; Jogos
+  e Diversão; ~59,2% conforme a régua registrada). A linha 31 da tabela em
+  `temas/esquema-l1.md` foi corrigida; o último acumulado registrado até o
+  cap. 30 é 78.420 palavras.
+- **Execução reconciliada:** Kate não aparece no capítulo; Mário só ora por
+  ela, e ela chega no 32 depois da conta paga. A camiseta recolhe o vapor e
+  depois vira atadura. O primeiro som de aço é ouvido pelos dois.
+- **Canon persistente:** Mário revela a Lakand que veio de outro mundo e
+  perde os nomes e as imagens da família, mas mantém fatos e culpa. Lakand
+  perde a memória da travessia e fica com a cicatriz sem história.
+- **Omissão precisa:** a oração nomeia Lakand e Kate, mas não Lucas, Camilla
+  nem os pais; não é uma oração sem nome algum.
+- **Fronteira:** o cap. 30 permanece paralelo no mesmo dia; o 31 fecha com
+  Mário dormindo após a oração; o cap. 32 traz Kate depois do salvamento. Sem
+  contradição de ponto de partida.
+- **Checkpoint de beat:** contagem corrigida — o checkpoint de 18/09 já
+  cobriu os caps. 21-28, então o 28 não entra de novo. Desde ele, foram
+  fechados cinco capítulos (29-33); oferecer o checkpoint ao fechar o 34,
+  que será a sexta marca. Não executado neste Mini-INGEST.
+- **Divergência de contagem fora do cap. 31 (não reingerida):** os arquivos
+  salvos dos caps. 30, 32 e 33 têm 2.596, 1.967 e 1.224 palavras; a tabela
+  registra 2.699, 1.198 e 454. Deixar a recalibração dessas linhas e da régua
+  para passe dedicado; não reingerir esses capítulos aqui.
+- **Arquivos atualizados:** `capitulos/capitulo-31.md`,
+  `decisoes/capitulo-31-uma-noite-salvamento.md`,
+  `personagens/mario.md`, `personagens/lakand.md`,
+  `visuais/mario.md`, `visuais/lakand.md`, `visuais/kate.md`,
+  `lugares/moribundos.md`, `temas/esquema-l1.md`, `temas/sementes.md`.
+
+## 2026-10-07 (Mini-INGEST do cap. 33 — Nolan, "A Mina como lugar")
+
+- **Cap. 33 escrito; o log registrou Mini-INGEST fechado** (454 palavras;
+  ~60,4% da régua 137,5k, contagem daquele rascunho). A ficha de capítulo
+  correspondente não foi criada; o Mini-INGEST segue pendente até o capítulo
+  ser fechado. Capítulo de véspera, **corte B** (pergunta moral no ar).
+- **Conteúdo:** Nolan sobe pelo **Espinhaço** (sem água, sem raiz — o canal do
+  Ossan não abre ali); vê a Mina de longe, no fim do vale, onde o mato acaba e
+  começa o quartzo; **compra informação** (feitor, carroceiro, cozinheiro do
+  burgo trazem guarnição, turnos, escravos, rastro da dívida); conhece **Uorier**,
+  o lorde, que sente a pedra e sabe que a Mina vai cair. Fecho: Nolan observa um
+  homem que está com medo.
+- **Fichas criadas/atualizadas:** `capitulos/capitulo-33.md` (Mini-INGEST);
+  `Livro 1/capitulo33.md` (prosa); `temas/esquema-l1.md` (linhas 31-33 +
+  nota de acumulado).
+- **Fronteira:** o cap. 32 (Kate) fechou na mentira; o 33 abre com Nolan subindo
+  e fecha na pergunta moral. **Próximo:** 34 (Mário — assentamento, batismo,
+  "Javé", decisão da Mina).
+- **Contador de checkpoint (corrigido em 2026-10-09):** o checkpoint de
+  18/09 já cobriu os caps. 21-28; contar o 28 novamente foi erro. Desde então,
+  foram fechados cinco capítulos (29-33); oferecer o checkpoint ao fechar o
+  cap. 34, sexta marca:
+  - **Arquiteto de Densidade** — leve, nas fronteiras de beat: corrige o mapa para
+    frente (esquema), nunca o texto.
+  - **Passe anti-slop em lote** — cirurgia local (teste F13) sobre os capítulos
+    fechados desde o último checkpoint.
+  - **Passe de fechos** — cortes A/B/C/D do bloco, repetição de gesto final,
+    rotação de POV e quem decide em cada capítulo (`passe-fechos.prompt.md`, no
+    Livro).
+  Executado com o ok do autor, registrar no `log.md`.
+
+## 2026-10-06 (fala do cap. 30 — duas retiradas)
+
+- **Decisão do autor (2026-10-06):** a fala do Gaviorn'l perdeu dois sinais.
+- **"Os clãs estão se movendo" — cortado.** Motivo: os clãs **não têm movimento
+  antes do motor** — é a **Hícse livre** (o fim desta mesma cena) que move o
+  plano deles (`decisoes/gaviornl-morte-antecipada-hicse.md`); a fala afirmava
+  o efeito antes da causa.
+- **"O norte está com a pedra quente" — cortado.** Motivo: **nada acontece na
+  Mina no momento da cena** — sem evento que sustente a imagem, ela leria como
+  premonição (e o sensor da pedra é exclusividade do **Uorier**, cap. 33) ou
+  como anacronismo.
+- **Fala final:** *"A guerra que eu te prometi está de pé. Tem um homem subindo
+  essa estrada que vai ser rei de alguma coisa. Eu não vim te levar de volta
+  para o pátio. Eu vim te levar para ela."* — o sinal que sobra é só o que o
+  Gaviorn'l tinha por onde saber (o Estrangeiro; eco de "Ele terá o trono.
+  Vonos garante.").
+- ⚠️ **Não reintroduzir (revisões futuras):** clãs em movimento antes da
+  soltura da Hícse; "pedra quente" no norte antes do bloco da Mina.
+- **Arquivos:** `Livro 1/capitulo30.md`, `log.md`.
+
 ## 2026-10-04 (7ª revisão: auditoria de pendências — 20 correções)
 
 **Varredura completa do repositório.** Todas as referências de capítulo dos
@@ -290,8 +507,9 @@ caps. 24 - 38 foram conferidas contra o manuscrito e contra os ingests.
 - **O preço da água (revisão da semente #23).** Mário perde **a família
   inteira — nomes e imagens**; mantém os fatos, a culpa, a língua e os lugares.
   Lakand perde **a lembrança da travessia**. A água **cobra mesmo destilada**.
-  O custo aparece pela **omissão da prosa** (uma oração sem nome), não por
-  inventário. A descoberta vai para a **Noite Escura** e o L2.
+  O custo aparece pela **omissão dos nomes da família na oração** — Mário
+  ainda ora por Lakand e Kate —, não por inventário. A descoberta vai para a
+  **Noite Escura** e o L2.
 - **Renumeração:** o bloco desloca um — **31 = Mário ("Uma Noite")**; Nolan (a
   Mina) vira 32 e a Mina/Ponto Central vira 36. **Manuscrito não muda** —
   nenhum arquivo de prosa passa do 29. Mapa completo em §8 da decisão.

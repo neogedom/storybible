@@ -42,8 +42,10 @@ o controle dos rampillas.
   Nolan olha (`decisoes/jornada-nolan-acre-2026-10-03.md`). Ossan NÃO ensina
   o mecanismo a Nolan (Nolan é leviantar, não xilomago; e a dependência mantém
   a tensão). **Ossan pode filtrar ou sabotar o que Nolan vê** — a bomba-relógio
-  do L2. ⚠️ Quando Kate mata as seis (cap. 34), Nolan **perde os olhos**: o
-  resto da jornada dele passa a depender do que se compra.
+  do L2. ⚠️ Na formatura do cap. 35, Kate mata cinco dos seis rampillas
+  avançados e o pupilo mata o último. Nolan **perde os olhos sobre o grupo**:
+  as quatro criaturas que seguem com ele não estão na trilha de Mário, e o
+  resto da jornada passa a depender do que se compra.
 - **Semente #13 (a plantar)**: pode revelar o que os rampillas foram — gente
   zumbificada — ecoando o tema da Segregação. A verdade cai como
   reconhecimento frio, não sermão.

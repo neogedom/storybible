@@ -83,6 +83,10 @@ a carga e ainda paga dois plantios antigos (abaixo).
   recapturá-la; ele **abaixa a guarda por amor** (`personagens/gaviornl.md`).
   "Salvar" só vale se converter em "reclamar" — a morte tem de ser
   **escolha**, não acidente nem ingratidão.
+- **O receptáculo nunca soube que era o receptáculo** (canon 2026-10-06):
+  a porta abre por **escolha**, não por ciência — o selo não exigiu do
+  recipiente ciência nem consentimento, e Gaviorn'l morreu sem saber
+  (`decisoes/gaviornl-nunca-soube-do-selo.md`).
 - **Hícse livre ≠ Hícse falante.** Precisa de regra nova, curta, do que a
   Hícse livre faz e não faz em Kate. Sem ela, Kate fica possuída pelos 40%
   restantes e a estrategista da Mina morre. ✔ **RESOLVIDO em 2026-09-21:** a

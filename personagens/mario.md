@@ -290,7 +290,13 @@ o torna inescapável.
   Mário afunda na culpa: "foi minha culpa."
 - **Debate (caps. 4-18)**: "Isso é real?" Mário questiona, resiste, aprende.
 - **Break Into 2 (caps. 19 - 20)**: Mário ressuscita Saboc. Aceita seu papel.
-- **Jogos (caps. 21 - 26)**: Milagres, evangelização, Mina de Quartzo.
+- **Jogos (caps. 21 - 36)**: jornada à Mina de Quartzo, evangelização e
+  formação do grupo.
+- **Cap. 31 — Uma Noite**: salva Lakand limpando o ferimento com água destilada
+  da lagoa dos Moribundos e revela que veio de outro mundo. A água cobra a
+  memória da família: Mário perde os nomes e as imagens de Lucas, Camilla e
+  dos pais, mas mantém os fatos, a culpa, a língua e os lugares. A perda não
+  é reconhecida por ele na cena; aparece pela omissão dos nomes na oração.
 
 _Atualizado a cada INGEST de capítulo._
 

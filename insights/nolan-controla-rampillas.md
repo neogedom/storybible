@@ -64,3 +64,44 @@ agora com papéis, selos e racionalizações. O trono de ossos fica chamuscado
   inertes quando Devour morre e encontra a raiz-mestra entre a fumaça, no
   jardim secreto. Não explicar o mecanismo — só plantar a descoberta.
 - **Germinação no L2**: O exército de rampillas está a serviço de Nolan.
+
+## Aplicação ao plano da Mina
+
+**Decisão do autor, 2026-10-10 — aplicada no cap. 28.** Nolan determina que
+a primeira parada seja a casa de Uorier. Ele espera o Estrangeiro na Mina e
+quer estar perto quando chegar. A ida ao administrador, retomada no cap. 33,
+é parte desse plano, não uma coincidência. A casa não lhe dá, por si só,
+acesso às galerias.
+
+**Funções distintas.** Os rampillas observam a chegada de Mário à Mina. A
+informação comprada dentro dela serve para saber por onde Mário se move e
+onde pode ser interceptado; depois, a fonte ouve os treinados de Kate
+espalharem que a execução de Uorier e da família será o sinal para atacar os
+capatazes. A fonte não acompanha Mário em tempo real nem conhece o plano
+inteiro antes de ouvir a mensagem. Seu acesso e o caminho da informação até
+Nolan precisam ser plausíveis.
+
+**A entrada de Nolan.** Ao saber do sinal, ele entra na Mina para avisar
+Mário, mesmo correndo o risco de atravessar trabalhadores que podem odiá-lo
+por ser metropolitano. Mário não acredita até ver a execução e a matança;
+então entende que Kate organizou os convertidos para transformá-los em
+rebeldes e a acusa de ter matado inocentes no processo. Essa entrada é uma
+escolha de Nolan, não um efeito automático de ter ido a Uorier.
+
+**Pendências logísticas:** quem é a fonte e por que tem acesso às galerias;
+como Mário atravessa a triagem; como Nolan consegue entrar, sair antes da
+implosão e voltar depois para ler a ruína.
+
+### Redistribuição 6/4 (proposta do autor, 2026-10-11; não confirmada)
+
+Proposta: deixar seis rampillas com Nolan e quatro na rota separada que segue
+Mário e Kate. A troca não está aplicada ao mapa. Se esses quatro forem os que
+chegam ao cap. 35, a formatura também muda: hoje são seis, cinco mortos por
+Kate e o último pelo pupilo. A troca deixaria seis com Nolan, aumentando sua
+escolta e visibilidade, e reduziria a força que segue o rastro.
+
+**Avaliação provisória:** manter a divisão atual, quatro com Nolan e seis na
+rota de perseguição, preserva as funções já plantadas: os seis alcançam o
+grupo no cap. 35 e morrem, Nolan perde esses olhos e continua com quatro. Só
+reverter se houver uma função dramática específica para Nolan levar seis;
+reavaliar no checkpoint do bloco 33-38, antes de alterar os caps. 33 e 35.

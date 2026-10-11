@@ -1,16 +1,16 @@
 ---
 type: Character
-title: Ghilly Uorier
+title: Gwill Uorier
 description: Lorde de terra e pedra, administrador da Mina de Quartzo pela Coroa. Sente a montanha ceder e não sente o próprio povo — foge com o livro de dívidas e é executado em praça, com a família, na queda da Mina.
 tags: [personagem, leviantar, mina, administrador, L1, lorde, divida]
 timestamp: 2026-10-04T08:30:00-03:00
 ---
 
-# Ghilly Uorier
+# Gwill Uorier
 
-> **Nome (canon 2026-10-04):** **Ghilly** é o prenome; **Uorier** é o
+> **Nome (canon 2026-10-04):** **Gwill** é o prenome; **Uorier** é o
 > **sobrenome** da casa. Na prosa, usar **Uorier** como os outros o tratam
-> (é como o cargo aparece), e **Ghilly Uorier** quando o nome inteiro importar
+> (é como o cargo aparece), e **Gwill Uorier** quando o nome inteiro importar
 > (registro, ata, o livro de dívidas). ⚠️ Verificar se a casa Uorier reaparece
 > no L2 antes de fixar brasão.
 
@@ -66,6 +66,10 @@ e não olha para os escravos a três passos.
   **o treino da Kate produz a mão; a mão executa o lorde e a família; a
   execução começa a revolta.** O Mário **não** consegue rastrear o braço de
   volta até ela; o leitor consegue. Ver `insights/recrutamento-da-kate.md`.
+- **A família que está na casa (decisão de encenação, cap. 33):** a esposa e
+  duas filhas pequenas. As meninas aparecem em gestos cotidianos em torno do
+  bebê e durante o jantar; isso dá rosto à família antes da execução, sem
+  transformar as crianças em instrumento de choque.
 - **É o estopim do motim.** Depois da cabeça do lorde no chão, ninguém pode
   voltar atrás: quem assistiu virou cúmplice.
 - **A segunda vez que a brasa sobe na Kate.** A primeira foi a faca no rampilla

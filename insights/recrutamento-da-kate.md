@@ -173,7 +173,7 @@ cantis, não para para ensinar. Se montasse, o leitor não acreditaria.
 - **A réplica dela:** *"Eu não ensinei nada. Eles só andaram comigo."* É
   verdade, é esquiva, e é a resposta mais dela que existe.
 - **Um dos que ela junta é o rosto guardado na coluna** (o homem marcado) — o
-  que começa o motim no cap. 36.
+  que começa o motim no cap. 37.
 - ⚠️ **Não fazer dela uma mãe-de-tropa.** Ela não consola, não explica, não
   promete. Ela anda e não manda embora. A diferença entre as duas coisas é o
   personagem inteiro.
@@ -268,7 +268,7 @@ Kate ensinando a matar rampilla de Saramant. **Não é isso** (decisão do autor
 ⚠️ **A ideia que amarra os blocos (decisão do autor, 2026-10-04):**
 
 - **O homem que executa um rampilla na formatura é o mesmo que vai executar
-  Ghilly Uorier e a família dele** — o estopim público da revolta na Mina.
+  Gwill Uorier e a família dele** — o estopim público da revolta na Mina.
 - **A cadeia fica fechada:** o treino da Kate produz **a mão**; essa mão
   executa o administrador e a família em praça pública; **é isso que começa a
   revolta**. A Kate não dá a ordem do motim — ela **formou quem deu**.
@@ -279,9 +279,9 @@ Kate ensinando a matar rampilla de Saramant. **Não é isso** (decisão do autor
   - ⚠️ **Consequência:** cai a linha antiga "ele viu e não quis ver", e cai
     também a objeção no 35. **A objeção dele só vem na Mina**, quando a família
     Uorier morre na praça. Ver "Quem vê", abaixo.
-- ⚠️ **Número de rampillas mortos segue travado:** no máximo **dois** (canon
-  em `conceitos/rampillas.md`). **Quatro sobrevivem** — é a pressão de Nolan
-  no bloco da Mina.
+- **Os seis rampillas morrem na formatura (decisão do autor, 2026-10-08):**
+  Kate, com sede de sangue, mata cinco e deixa o sexto para o pupilo que
+  formou. É a morte desse último que marca a formatura.
 
 ### Onde e quando — andando, e dentro do cap. 32
 
@@ -342,6 +342,19 @@ sabe de nada** — e isso é a tragédia, não a cumplicidade.
 — e é verdade. E o Mário continua o que sempre foi desde o cap. 4:
 **instrumento de projeto alheio, sem saber.**
 
+### A intenção pacifista de Mário na Mina (decisão do autor, 2026-10-11)
+
+Mário vai pregar uma paz que não exige dos trabalhadores que aceitem o
+cativeiro, mas também não os convoca à vingança. Ele acredita que anunciar a
+dívida perdoada pode encerrar o ciclo material da Mina sem sangue. Essa é a
+confiança equivocada dele no alcance das palavras.
+
+Kate não transforma o sermão numa ordem para matar. Ela usa a linguagem de
+libertação da dívida como abertura e oferece, por conta própria, a alavanca
+material e a organização da revolta. A execução e o sinal são decisões dela;
+a demolição é obra dos Alavrianos. A pregação dá contexto e esperança, não
+explica sozinha nem absolve a violência que vem depois.
+
 ### Quem vê
 
 - **O Lakand.** É ele quem enxerga o que o treino é — e **não diz nada ali**.
@@ -374,22 +387,69 @@ sabe de nada** — e isso é a tragédia, não a cumplicidade.
    pessoas. É intel de **raider**, não leitura de arquivo (canon: Kate não lê;
    o conhecimento da Mina vem da vivência).
 2. **Guarda um rosto.** Um homem na fila, marcado — ela reconheceria depois.
-   É o plantio de **quem começa o motim lá dentro** (cap. 36), e o que dá cara
+   É o plantio de **quem começa o motim lá dentro** (cap. 37), e o que dá cara
    à carnificina em vez de "os escravos se levantaram".
+
+## A execução como sinal na Mina (intenção do autor, 2026-10-10)
+
+Enquanto Mário prega nos túneis, Kate pede para se afastar e fazer rondas de
+proteção. Na verdade, ela prepara a captura de Uorier e da família, que tentam
+fugir, e organiza a execução pública pelo pupilo que formou. Antes do ato, as
+pessoas que ela treinou espalham pela Mina que a execução será o sinal para
+começar a matar os capatazes. A violência se amplia até explosões começarem a
+derrubar a Mina. A autoria alavriana é a verdade do plano, mas fica oculta no
+primeiro momento (ver "A autoria da demolição fica oculta no primeiro
+momento", abaixo).
+
+Antes da execução, Mário não sabe do plano. Nolan ouve a mensagem por uma
+fonte dentro da Mina, entra para avisá-lo e não é acreditado. Ao ver a
+execução e a matança, Mário entende que Kate organizou os convertidos para
+transformá-los em rebeldes. Durante o desabamento, acusa-a de ter matado
+inocentes no processo. A explicação de um convertido familiarizado com as
+galerias ajuda Mário a conhecer o interior, mas não resolve como ele
+atravessa a triagem.
+
+### Onde a coordenação entra (2026-10-11)
+
+Não é necessário acrescentar um capítulo em POV de Kate. Ela já tem os caps.
+32 (arregimentação e treino) e 35 (formatura); a coordenação concreta da
+revolta acontece no cap. 37, enquanto ela se afasta sob o pretexto da ronda e
+captura Uorier. Como o capítulo é de Mário, essa ação fica fora do seu campo:
+o leitor recebe pela fonte de Nolan apenas a informação de que a execução
+será o sinal para atacar os capatazes, não uma exposição da rede inteira.
+
+A entrada e a distribuição dos treinados pela Mina vigiada continuam sem
+solução concreta. Não tratar a notícia da fonte como se resolvesse a triagem.
+
+### A autoria da demolição fica oculta no primeiro momento (decisão 2026-10-11)
+
+A causa real da queda é a ação dos Alavrianos, mas personagens e leitor não a
+identificam no começo do desabamento. A autoria será revelada depois; o ponto
+da revelação ainda não está definido. Nesse intervalo, alguém acusa Kate de
+ter matado inocentes no processo. Ela responde, irritada, que não foi ela
+quem derrubou a Mina. A fala nega a autoria da demolição, não o que ela
+preparou: a captura, a execução dos Uorier e o sinal para atacar os capatazes.
+Mário a acusa; as palavras exatas ficam em aberto.
 
 ## Disciplina de escrita
 
-- ⚠️ **Nada de organização na página.** O leitor precisa de **um rosto e um
-  gesto**, não de uma rede. Sem "movimento de resistência", sem células, sem
-  hierarquia.
-- O recrutamento é **silencioso e negável** — e é isso que o mantém escondido
-  do Mário até o cap. 36.
-- **A ironia a preservar:** o motim da Mina será dela, e o sermão pacifista
-  dele morre na frente dele. A pregação foi a porta; a porta é dele.
+- ⚠️ **Coordenação limitada, não um exército dentro da Mina.** Os treinados
+  passam um sinal específico; isso não forma células, hierarquia ou uma tropa
+  que comande a massa.
+- A maior parte dos trabalhadores age por conta própria quando o sinal chega.
+  A rede de Kate prepara o momento e o estopim, não controla cada ataque. O
+  exército dela continua nascendo depois, em Gus.
+- Antes da execução, Mário não sabe do treino nem do plano de Kate e rejeita
+  o aviso de Nolan. Ao ver a execução e os ataques, entende que ela organizou
+  os convertidos para a revolta. Ele não viu o treino nem sabe como a
+  demolição foi feita. A pregação é a porta; a execução é o sinal que
+  transforma a tensão em ataque.
+- **A fissura de Kate permanece:** ela vê o exército que queria, mas o preço
+  da família morta abre nela uma hesitação. Sem veredito moral na narração.
 
 ## Conexões
 
 - [Kate](/personagens/kate.md) — da espera à guerra
 - [Mário](/personagens/mario.md) — a palavra que ela converte em arma
-- [Esquema do L1](/temas/esquema-l1.md) — caps. 30, 34 e 36
+- [Esquema do L1](/temas/esquema-l1.md) — caps. 30, 32, 34, 35 e 37
 - [Sementes #14](/temas/sementes.md) — a renúncia do batismo (a porta)

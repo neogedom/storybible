@@ -27,16 +27,19 @@ grande que ele tem é essa.
 
 ## 2. A espinha (5 movimentos)
 
-1. **A chegada** (do lado do Mário): Kate aparece com dois cantis. Água para
-   uma boca. O alívio que não resolve.
-2. **A conta:** ele precisa de água para **lavar**, não só para beber — e a
-   ferida não é sede, é podridão. Não tem água.
-3. **A fonte que não é água:** a lagoa lodosa da cicatriz. Abundante e
-   intragável.
-4. **A ideia:** ferver o lodo e recolher o vapor. Kate sai (lenha, e vigiar o
-   campo que ficou atrás deles).
-5. **A noite:** a fervura, o corte, a conversa. A pergunta. A resposta. **E a
-   conta.**
+1. **A chegada à baixada:** depois da travessia, Mário e Lakand encontram a
+   lagoa lodosa. O corpo ferido do Lakand para; a água não serve para beber
+   nem para lavar a ferida.
+2. **A decisão:** sem água limpa, Mário improvisa a destilação com fogo,
+   pedras aquecidas, uma cova de barro e a camiseta. Kate não está com eles.
+3. **A água e o aço:** os dois bebem. O primeiro som de lâminas vem da direção
+   do campo, embora não haja nada para ver.
+4. **O corte e a revelação:** Mário limpa e abre a ferida enquanto mantém
+   Lakand falando. O contraste com Decian conduz à pergunta sobre a origem;
+   Mário revela que veio de outro mundo, e Lakand responde: "Eu sabia."
+5. **A conta:** a água cobra a memória de ambos. Mário conclui o tratamento,
+   cobre o corte com tiras da camiseta e ora antes de dormir. Os sons de aço
+   voltam; a oração não nomeia a família de Mário.
 
 **A crise fecha em uma noite** (canon): daërunmeges **não regeneram**, e o que
 mata é o **apodrecimento**. Mário salva com **fervura + higiene + protocolo** —
@@ -95,14 +98,15 @@ saber por quê**, e a formulação "obedeci e paguei" nunca sai da boca dele
 **Ausência não se mostra.** "Ele percebeu que não lembrava" é contar. A saída
 tem três partes:
 
-1. **O sintoma é sonoro antes de ser intelectual.** Três frases tortas:
-   (a) durante a fervura, som de aço vindo da direção do campo, numa hora em
-   que o campo está quieto; (b) de novo, no meio de uma frase entre os dois —
-   e **o Lakand para de falar, porque ouviu também**; (c) na terceira, o som
-   não vem do campo: vem **entre os dois**.
+1. **O sintoma é sonoro antes de ser intelectual.** Três retornos:
+   (a) entre um gole e outro, o aço vem da direção do campo; Mário e Lakand
+   ouvem, mas não veem nada; (b) durante o corte, o som interrompe a fala de
+   Lakand sobre a terra de Mário; (c) depois do tratamento, o som não vem do
+   campo nem de longe: vem **entre os dois**.
 2. **A perda entra pela omissão da prosa, não por um inventário.** No fecho,
-   o Mário reza pelos mortos — como sempre rezou — e a narração **não tem nome
-   nenhum para pôr na oração**. Quem estava atento sente o frio; ele não.
+   Mário ora por Lakand, Kate e pelos que ficaram para trás, mas **não nomeia
+   Lucas, Camilla nem os pais**. Quem estava atento sente a falta; Mário não
+   percebe o que perdeu.
 3. **A descoberta é depois** (§6). O leitor carrega o que o personagem não sabe.
 
 ## 6. Onde a descoberta cai (reancoragem de canon)
@@ -111,9 +115,10 @@ tem três partes:
 nome do irmão e não acha". Como a perda acontece aqui, a Noite Escura passa a
 ser **a descoberta da extensão**, e não a perda:
 
-- **Noite Escura (~75%):** ele tenta **rezar pelos mortos** e **não consegue —
-  não há rostos**. É a primeira oração sem pedido do livro (canon), e ela sai
-  **sem nomes**. A falha é uma **ação que não completa**, não um inventário.
+- **Noite Escura (~75%):** ele tenta **rezar pelos mortos** e **não consegue
+  encontrar os rostos da família**. É a primeira oração sem pedido do livro
+  (canon). A falha é uma **ação que não completa**, não um inventário: ali
+  ele descobre a extensão da perda, não a sofre pela primeira vez.
 - **L2 (encenação pública):** alguém pergunta pelo passado dele e ele **não
   consegue nomear a família**. A perda vira pública.
 
@@ -127,10 +132,10 @@ como dívida lá.
 
 - **Depois do cap. 31, o Mário nunca mais diz "Lucas" nem "Camilla".** A
   omissão é o plantio — ninguém no livro comenta.
-- **Nada de narrador explicando o mecanismo.** O campo, o aço, a oração sem
-  nome: o leitor reconhece antes.
-- **A Kate está fora** da revelação (buscar lenha/reconhecer o caminho) — canon
-  de 01/10.
+- **Nada de narrador explicando o mecanismo.** O campo, o aço e a ausência
+  dos nomes da família na oração: o leitor reconhece antes.
+- **A Kate não aparece** no capítulo. Mário só ora por ela; o reencontro vem
+  no cap. 32, depois que a conta da água já foi paga.
 - **Nada de fogo como solução:** a fogueira é trabalho, não milagre.
 - **Não tocar na mina moral** dos rampillas aqui.
 
@@ -141,32 +146,35 @@ como dívida lá.
 | 29 | Mário | Moribundos |
 | 30 | Kate | Os odres, o Inquiridor da cicatriz, Gaviorn'l, o reencontro |
 | **31** | **Mário** | **Uma Noite — o salvamento, a revelação, o preço (novo)** |
-| 32 | Nolan | A Mina como lugar |
-| 33 | Mário | O assentamento, o batismo, "Javé", a decisão |
-| 34 | Kate | O combate dos rampillas |
-| 35 | Mário | A marcha, a tempestade de quartzo, Etemenanki |
-| 36 | Mário | A Mina (Ponto Central) |
-| 37 | Nolan | A leitura da ruína |
+| 32 | Kate | A Estrada e a Mentira |
+| 33 | Nolan | A Mina como lugar |
+| 34 | Mário | O assentamento, o batismo, "Javé", a decisão |
+| 35 | Kate | O batismo de sangue |
+| 36 | Mário | A marcha, a tempestade de quartzo, Etemenanki |
+| 37 | Mário | A Mina (Ponto Central) |
+| 38 | Nolan | A leitura da ruína |
 
 **Movimentos:** 1 = 21-22; 2 (A Jornada) = 23-31; 3 (Aproximação da Mina) =
-32-35; Ponto Central = 36; pós-Mina = 37. **Jogos e Diversão = 21-35.**
+32-36; Ponto Central = 37; pós-Mina = 38. **Jogos e Diversão = 21-36.**
 
-⚠️ **Custo assumido:** Mário em 31, 33, 35 e 36 — dois pares próximos. Avaliar
-no próximo checkpoint de beat (passe de fechos).
+⚠️ **Custo assumido:** Mário em 31, 34, 36 e 37; há um par consecutivo em
+36-37. Avaliar no próximo checkpoint de beat (passe de fechos).
 
-## 9. Pendências
+## 9. Pendências resolvidas na página
 
-- **Título**: "Uma Noite" (escolhido).
-- A **primeira** das três frases tortas — decidir se o Lakand também ouve a
-  primeira ou só a segunda.
-- O que a **camiseta** (a mancha de sangue do cap. 26) faz neste capítulo:
-  candidata a virar atadura.
+- **Título:** "Uma Noite".
+- **Primeiro som de aço:** Lakand também o ouve; os dois confirmam isso em
+  diálogo.
+- **Camiseta:** primeiro recolhe o vapor; depois é cortada em tiras para
+  enfaixar o corte. A mancha antiga fica coberta pela atadura.
+- **Kate:** não aparece nem busca lenha; chega no capítulo 32.
 
 ## Arquivos afetados
 
-`capitulos/capitulo-31.md` (novo), `temas/esquema-l1.md`,
+`capitulos/capitulo-31.md`, `temas/esquema-l1.md`,
 `temas/arco-stc.md`, `temas/sementes.md` (#23, #24), `conceitos/agua-e-seca.md`,
 `conceitos/daerunmeges.md`, `personagens/lakand.md`, `personagens/mario.md`,
+`visuais/lakand.md`, `visuais/mario.md`, `visuais/kate.md`,
 `lugares/moribundos.md`, `log.md`.
 
 ## Relacionados

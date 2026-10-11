@@ -18,6 +18,20 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Nenhuma                             |
 | Expressão  | Medo, desespero                     |
 
+## Capítulo 31 — Uma Noite
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Roupas     | Camiseta urbana, calça jeans e tênis; usa a camiseta para recolher o vapor e depois a corta em tiras para enfaixar Lakand; termina sem camisa |
+| Acessórios | Sem óculos; usa a pedra, o aço e a faca do cinto de Lakand |
+| Ferimentos | Nenhum novo estabelecido; mãos lavadas até os cotovelos |
+| Sujeira    | Terra preta, lodo e marcas do trabalho no corte |
+| Expressão  | Concentração durante a destilação e o tratamento; cansaço no fecho |
+| Postura    | Agachado junto ao fogo e à cova de barro; depois sentado contra a terra, ao lado de Lakand |
+| Iluminação | Noite fria, iluminada pelo fogo e pela brasa |
+| Fundo      | Lagoa lodosa dos Moribundos; abrigo entre as raízes de uma árvore caída |
+| Detalhe    | A mancha antiga de sangue de outro corpo fica sob a atadura nova |
+
 ## Capítulo 30 — A Carne e a Pedra
 
 - _Não aparece._ ⚠️ Ele está no campo dos Moribundos, **sem água e sem Kate**, carregando o Lakand ferido. **A conta é dele no cap. 31.**

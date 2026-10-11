@@ -19,6 +19,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Cicatrizes | Múltiplas, visíveis                |
 | Expressão  | Predatória, alerta                 |
 
+## Capítulo 31 — Uma Noite
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Forma      | Híbrida atenuada; garras recolhidas |
+| Roupas     | Peles e couro bruto; o corte fica exposto durante o tratamento e é coberto com tiras da camiseta de Mário |
+| Ferimentos | Corte oblíquo da cintura às costelas, com tecido podre; Mário limpa, remove o tecido e enfaixa a ferida |
+| Expressão  | Febril e exausto; acompanha Mário e responde durante o corte; termina deitado, respirando |
+| Postura    | Senta quando o corpo para; é levado ao abrigo sob as raízes; permanece deitado durante o tratamento e ao dormir |
+| Iluminação | Noite fria, fogo baixo |
+| Fundo      | Abrigo entre as raízes de uma árvore caída, junto à lagoa lodosa dos Moribundos |
+
 ## Capítulo 30 — A Carne e a Pedra
 
 - _Não aparece._ ⚠️ **O corte dele sangra há três dias** — o ferimento é da conta do **cap. 31**, e o salvamento é do Mário.

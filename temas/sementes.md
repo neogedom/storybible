@@ -344,10 +344,9 @@ timestamp: 2026-07-24T12:00:00-03:00
   armado; e/ou a revelação vira condenação pública ou privada.
 - **Risco**: não pregar. A verdade cai como reconhecimento frio, não como
   sermão (guardrail: sofrer é parte da prosa).
-- **Nota de numeração (corrigida em 2026-09-18)**: a numeração 13-20 já está
-  ocupada pelos verbetes deste arquivo; as sementes do esquema ainda sem
-  verbete recebem numeração nova, **a partir de #21** (Etemenanki = #21,
-  prevista no cap. 35), quando forem registradas.
+- **Nota de numeração (revista em 2026-10-10)**: os verbetes #21-24 já estão
+  registrados neste arquivo. Etemenanki recebe o número **#25** e é plantado
+  no cap. 37, dentro de um túnel da Mina de Quartzo.
 
 ## 14. A Renúncia do Batismo — Declaração de Guerra
 
@@ -578,8 +577,10 @@ timestamp: 2026-07-24T12:00:00-03:00
   fotos somem — ele sabe que falhou com alguém e não vê quem.
 - **O que o Lakand perde:** a lembrança da travessia (a obediência e o golpe).
   Fica com a cicatriz **sem história** — desconfia do Mário sem saber por quê.
-- **Como aparece na página:** o som de aço em horas erradas (três frases
-  tortas) e, no fecho, **uma oração sem nome nenhum**. Nada de inventário.
+- **Como aparece na página:** o som de aço em três momentos. No fecho, Mário
+  ora por Lakand, Kate e pelos que ficaram para trás, mas não nomeia a
+  família. Nada de inventário: a perda aparece pela **omissão dos nomes de
+  Lucas, Camilla e dos pais**, não pela ausência de todos os nomes da oração.
 - **A descoberta é depois:** Noite Escura (a oração que não completa, sem
   rostos) e L2 (alguém pergunta e ele não nomeia a família).
 - **O que fecha o fio no L2:** a Hoste se alimenta das memórias cobradas — e
@@ -617,7 +618,22 @@ timestamp: 2026-07-24T12:00:00-03:00
   Mário *"O cheiro dele não é daqui. É liso. Artificial."*, e o **cheiro é o
   sentido do Lakand**, que perdeu parte do nariz em Saramant. Ele sentiu a
   mesma coisa e não teve nariz para confirmar.
-- **A Kate está fora** (lenha e reconhecimento do caminho) — canon mantido.
+- **A Kate está fora da revelação** e não aparece no cap. 31; Mário ora por
+  ela. O reencontro ocorre no cap. 32, depois da conta paga.
 - **Fecho:** a revelação → e o preço da água por cima, sem que ninguém entenda.
 
 _Atualizar a cada INGEST de capítulo._
+
+## 25. Etemenanki — a inscrição no túnel da Mina
+
+- **Plantio (decisão do autor, 2026-10-10):** L1, cap. 37. Durante o percurso
+  por um túnel da Mina de Quartzo, Mário vê numa parede um zigurate em
+  alto-relevo, com uma serpente alada e a inscrição cuneiforme *Etemenanki*.
+- **Reação de Mário:** não identifica o zigurate; reconhece o nome, mas não
+  localiza a lembrança. Toca os sulcos e a descarta como leitura antiga:
+  "Devo ter lido num artigo qualquer. Rochas formam padrões. Não é nada."
+  A serpente fica como um arrepio, não como pensamento. Kate passa indiferente.
+- **Limite:** a imagem aparece dentro de um túnel da Mina, não numa caverna
+  comum durante a marcha. Não parar a cena para explicar a ligação com
+  Marduk.
+- **Conexões:** `conceitos/marduk.md`; `lugares/mina-de-quartzo.md`.
