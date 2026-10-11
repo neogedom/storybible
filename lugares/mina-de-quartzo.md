@@ -9,7 +9,7 @@ timestamp: 2026-10-04T08:30:00-03:00
 
 # A Mina de Quartzo
 
-> O Ponto Central do Livro 1 (cap. 36) e o destino verdadeiro da jornada —
+> O Ponto Central do Livro 1 (cap. 37) e o destino verdadeiro da jornada —
 > plantado pela boca da Kate no cap. 23. Administrada por
 > [Uorier](/personagens/uorier.md); cai enterrada por implosão alavriana.
 
@@ -77,8 +77,11 @@ Consequências travadas:
   têm.
 - **A água** — o Alto controla. Aqui, água é poder (ver
   `conceitos/agua-e-seca.md`).
+- **A triagem** — a entrada é vigiada e os trabalhadores são filtrados.
+  Saber como são as galerias não basta para atravessar o controle; a entrada
+  de Mário e Nolan ainda precisa de uma solução concreta.
 
-## A queda (cap. 36 — Ponto Central)
+## A queda (cap. 37 — Ponto Central)
 
 - **A porta foi o Mário.** Não dá para derrubar a Mina de fora: ela é
   guardada, e o que derruba uma mina é mexer no que segura o teto — o que só
@@ -88,10 +91,17 @@ Consequências travadas:
   achar.
 - **A ironia inteira do Ponto Central:** a libertação que o Mário fez abre a
   porta para quem quer enterrar todo mundo.
-- **A sequência:** a revolta → a execução pública do lorde **e da família
-  dele** (ele os avisou para fugir; não escaparam) → os alavrianos nas
-  galerias → **a encosta cede**. Guarnição e escravos dentro; o arraial
-  coberto de pó. **A Mina morre como lugar.**
+- **A sequência planejada pelo autor (2026-10-10):** um convertido que
+  conhece a Mina explica as galerias a Mário; Mário entra e prega nos túneis.
+  Enquanto isso, Kate usa a ronda de proteção como desculpa para se afastar e
+  preparar a captura de Uorier e da família, que tentam fugir. A execução
+  pública, feita pelo pupilo de Kate, é anunciada como sinal para que os
+  treinados comecem a atacar os capatazes. Nolan recebe a notícia por uma
+  fonte dentro da Mina, entra para avisar Mário e não é acreditado. Depois da
+  execução, os ataques se espalham até que a explosão alavriana começa a
+  derrubar a Mina. A revolta abre caminho para os infiltrados nas galerias;
+  guarnição e escravos ficam dentro, o arraial é coberto de pó. **A Mina morre
+  como lugar.**
 - **A família de Uorier:** esposa e duas filhas pequenas, mostradas antes da
   queda no cap. 33. A violência contra elas permanece fora de descrição
   gráfica; o que importa é a morte pública e a consequência para Mário e Kate.
@@ -109,12 +119,14 @@ Consequências travadas:
   rampillas (cap. 35). O Mário viu **nada**. Quando ele finalmente entende, ele
   é o último da sala — e é por isso que dói.
 
-## Depois (cap. 37)
+## Depois (cap. 38)
 
 Nolan entra — não há mais o que esconder. Ele **lê a ruína** como leu a bacia:
 o chão, o que foi levado, o corpo do lorde e **o livro de dívidas**. É o que
 o empurra para a Cidadela de Gus. Decisão completa em
-`decisoes/jornada-nolan-acre-2026-10-03.md`.
+`decisoes/jornada-nolan-acre-2026-10-03.md`. A sequência agora prevê uma
+entrada de Nolan antes da queda; a rota de saída durante o desabamento e sua
+posição quando a implosão começa continuam por resolver.
 
 ## Disciplinas de escrita
 

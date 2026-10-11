@@ -374,22 +374,40 @@ sabe de nada** — e isso é a tragédia, não a cumplicidade.
    pessoas. É intel de **raider**, não leitura de arquivo (canon: Kate não lê;
    o conhecimento da Mina vem da vivência).
 2. **Guarda um rosto.** Um homem na fila, marcado — ela reconheceria depois.
-   É o plantio de **quem começa o motim lá dentro** (cap. 36), e o que dá cara
+   É o plantio de **quem começa o motim lá dentro** (cap. 37), e o que dá cara
    à carnificina em vez de "os escravos se levantaram".
+
+## A execução como sinal na Mina (intenção do autor, 2026-10-10)
+
+Enquanto Mário prega nos túneis, Kate pede para se afastar e fazer rondas de
+proteção. Na verdade, ela prepara a captura de Uorier e da família, que tentam
+fugir, e organiza a execução pública pelo pupilo que formou. Antes do ato, as
+pessoas que ela treinou espalham pela Mina que a execução será o sinal para
+começar a matar os capatazes. A violência se amplia até a explosão alavriana
+começar a derrubar a Mina.
+
+Mário não sabe do plano. Nolan ouve a mensagem por uma fonte dentro da Mina,
+entra para avisá-lo e não é acreditado; Mário só entende quando vê a execução
+e a matança. A explicação de um convertido familiarizado com as galerias
+ajuda Mário a conhecer o interior, mas não resolve como ele atravessa a
+triagem.
 
 ## Disciplina de escrita
 
-- ⚠️ **Nada de organização na página.** O leitor precisa de **um rosto e um
-  gesto**, não de uma rede. Sem "movimento de resistência", sem células, sem
-  hierarquia.
-- O recrutamento é **silencioso e negável** — e é isso que o mantém escondido
-  do Mário até o cap. 36.
-- **A ironia a preservar:** o motim da Mina será dela, e o sermão pacifista
-  dele morre na frente dele. A pregação foi a porta; a porta é dele.
+- ⚠️ **Coordenação limitada, não um exército dentro da Mina.** Os treinados
+  passam um sinal específico; isso não forma células, hierarquia ou uma tropa
+  que comande a massa.
+- A maior parte dos trabalhadores age por conta própria quando o sinal chega.
+  A rede de Kate prepara o momento e o estopim, não controla cada ataque. O
+  exército dela continua nascendo depois, em Gus.
+- Mário continua sem saber do treino e da execução preparada por Kate. A
+  pregação é a porta; a execução é o sinal que transforma a tensão em ataque.
+- **A fissura de Kate permanece:** ela vê o exército que queria, mas o preço
+  da família morta abre nela uma hesitação. Sem veredito moral na narração.
 
 ## Conexões
 
 - [Kate](/personagens/kate.md) — da espera à guerra
 - [Mário](/personagens/mario.md) — a palavra que ela converte em arma
-- [Esquema do L1](/temas/esquema-l1.md) — caps. 30, 34 e 36
+- [Esquema do L1](/temas/esquema-l1.md) — caps. 30, 32, 34, 35 e 37
 - [Sementes #14](/temas/sementes.md) — a renúncia do batismo (a porta)

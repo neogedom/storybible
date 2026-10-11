@@ -404,6 +404,11 @@ pulga. ⚑ A memória do Templo de Rifte esvaziado e o freio da aritmética fora
 tentados e **dispensados** (decisão do autor, 29/09). Canon:
 `conceitos/inquiridores-sinal.md`.
 
+o **A primeira parada (decisão do autor, 2026-10-10).** Nolan manda seguir
+pela estrada da Mina e escolhe a casa de Uorier como primeira parada. O
+Estrangeiro sobe para a Mina; Nolan quer estar perto quando chegar. Isso
+prepara a visita do cap. 33. A casa não lhe dá, por si só, acesso às galerias.
+
 o **A lição da emendadeira (o rabo novo, 2026-10-03).** A trinta passos da
 última fogueira, onde o capim começa — **o bebê nunca entra no mato**. Ossan:
 "Eu faço a xilomagia — O senhor olha." A criatura encosta no tronco e **cede os
@@ -681,11 +686,15 @@ o **Quem sabe:** o **Lakand** (deitado, calado, e que **sente que tem coisa erra
 > Substitui o bloco do retorno à Metrópole e do enforcamento da Juleen.
 > Ver `decisoes/jornada-nolan-acre-2026-10-03.md`.
 
-o **Nolan chega pelo Espinhaço.** Ele não entra na Mina e não acompanha a
+o **Nolan chega pelo Espinhaço.** Ainda não entra nas galerias e não acompanha a
   carroça pela estrada: a silhueta dele e os rampillas esvaziam os povoados.
   Mira, Saboc, Mathias e o cocheiro seguem com a carroça; Nolan sobe com Ossan
   e quatro criaturas, enquanto seis avançam pelo mato. Ele acampa nos
   arredores. **O homem mais poderoso do Reino, escondido atrás de um arbusto.**
+
+  **A casa de Uorier é a parada escolhida no cap. 28**, para Nolan ficar perto
+  da Mina e encontrar o Estrangeiro onde espera que ele chegue; não é acaso
+  nem passagem automática para dentro.
 
 o **A cegueira na pedra.** O canal de Ossan **não atravessa pedra** (limite
   fixado no cap. 28). Ele pode olhar a Mina por fora; não pode ver nada do que
@@ -696,6 +705,14 @@ o **Ele compra gente.** Sem olhos, o Juiz faz o que nunca fez na vida: **paga
   guarnição, os turnos, a fila de devedores e onde os homens descansam; o
   nome do administrador ele conhece, mas o restante é ouvido, não verificado.
   ⚠️ **Nada sobre a Kate** — ele ainda não sabe do treino, e não pode saber.
+
+    **Funções separadas (direção do autor, 2026-10-10):** os rampillas observam
+    a chegada de Mário à Mina. Para saber por onde ele se move dentro, Nolan
+    precisa de uma fonte com acesso real às galerias. Essa fonte também pode
+    ouvir a mensagem que os treinados de Kate espalham sobre a execução de
+    Uorier. A informação é parcial, não uma localização infalível em tempo
+    real. A identidade, o acesso e o caminho pelo qual a informação chega a
+    Nolan ainda precisam ser definidos. A casa de Uorier não resolve a triagem.
 
 o **Mira e Saboc chegam à casa depois de Nolan.** A carroça os alcança; a
   esposa de Uorier recebe Mira e o bebê. A família na casa: esposa e duas
@@ -827,15 +844,28 @@ o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte A** — fechar na
 
 **Nota de arco:** Este evento funciona se ficar claro que: (a) Mário entrou querendo "controlar o resultado" via discurso; (b) o mundo reage fora do controle dele; (c) o "sinal"/impacto público vem com **consequência** — escalada, perseguição e divisão — em vez de resolver tudo.
 
-o Chegam à Mina. Mário planeja fazer um grande discurso de pacifismo e amor. Começa a pregar.
+o **A entrada e o sermão.** Um convertido que conhece a Mina explica a
+Mário como são as galerias e por onde se trabalha. Mário entra e prega nos
+túneis. A explicação não resolve a triagem: como ele atravessa a vigilância
+ainda precisa de uma solução concreta.
 
-o Mas os escravos — centenas deles — veem na chegada de Mário não um sermão, mas uma chance de libertação. Antes que ele termine, os escravos tomam a rédea da situação e massacram os opressores.
+o **Kate sai de perto.** Enquanto Mário prega, ela pede para fazer rondas de
+proteção. A desculpa encobre a preparação da captura de Uorier e da família,
+que tentam fugir, e da execução pública pelo pupilo que ela formou.
 
-o Mário testemunha a carnificina. O discurso pacifista dele não impediu nada. A mensagem de amor virou banho de sangue.
+o **O aviso de Nolan.** A fonte comprada dentro da Mina ouve os treinados de
+Kate espalharem que a execução será o sinal para atacar os capatazes. Nolan
+entra na Mina, assumindo o risco de passar entre trabalhadores que podem
+odiá-lo por ser metropolitano, e avisa Mário. Mário não acredita.
 
-o **Mário sente que falhou.** O milagre gerou caos, não paz.
+o **A execução como sinal.** O pupilo executa Uorier e a família em público.
+Os ataques aos capatazes começam; Mário só acredita quando vê a execução e a
+matança. A violência se espalha até que a explosão dos alavrianos começa a
+derrubar a Mina.
 
-o **Kate vê o exército que queria** — mas o preço foi mais alto que ela imaginava. Pela primeira vez, hesita.
+o **O custo.** O discurso pacifista de Mário não impede o banho de sangue.
+Ele vê a família morrer pelas mãos do homem que chamou de discípulo; Kate vê
+o exército que queria, mas o preço abre nela uma fissura.
 
 o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas** — beat realocado do cap. 25 (ver `insights/kate-mede-ferramenta.md`): ela lê os sobreviventes como força militar, e a fissura nasce do **preço**, não do arrependimento.
 

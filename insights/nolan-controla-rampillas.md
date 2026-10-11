@@ -64,3 +64,29 @@ agora com papéis, selos e racionalizações. O trono de ossos fica chamuscado
   inertes quando Devour morre e encontra a raiz-mestra entre a fumaça, no
   jardim secreto. Não explicar o mecanismo — só plantar a descoberta.
 - **Germinação no L2**: O exército de rampillas está a serviço de Nolan.
+
+## Aplicação ao plano da Mina
+
+**Decisão do autor, 2026-10-10 — aplicada no cap. 28.** Nolan determina que
+a primeira parada seja a casa de Uorier. Ele espera o Estrangeiro na Mina e
+quer estar perto quando chegar. A ida ao administrador, retomada no cap. 33,
+é parte desse plano, não uma coincidência. A casa não lhe dá, por si só,
+acesso às galerias.
+
+**Funções distintas.** Os rampillas observam a chegada de Mário à Mina. A
+informação comprada dentro dela serve para saber por onde Mário se move e
+onde pode ser interceptado; depois, a fonte ouve os treinados de Kate
+espalharem que a execução de Uorier e da família será o sinal para atacar os
+capatazes. A fonte não acompanha Mário em tempo real nem conhece o plano
+inteiro antes de ouvir a mensagem. Seu acesso e o caminho da informação até
+Nolan precisam ser plausíveis.
+
+**A entrada de Nolan.** Ao saber do sinal, ele entra na Mina para avisar
+Mário, mesmo correndo o risco de atravessar trabalhadores que podem odiá-lo
+por ser metropolitano. Mário não acredita até ver a execução e a matança.
+Essa entrada é uma escolha de Nolan, não um efeito automático de ter ido a
+Uorier.
+
+**Pendências logísticas:** quem é a fonte e por que tem acesso às galerias;
+como Mário atravessa a triagem; como Nolan consegue entrar, sair antes da
+implosão e voltar depois para ler a ruína.

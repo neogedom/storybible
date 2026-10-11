@@ -104,9 +104,10 @@ Mário; a última perna da perseguição passa a depender do que se compra.
 - Ele **foge levando o livro de dívidas** — não o baú, o registro. A execução
   deixa de ser só raiva: é o povo destruindo o papel que o condena.
 - **Ele avisa só a própria família** — e **eles não escapam**: morrem com ele,
-  no mesmo ato. A família morta é o que envenena o Mário: ele autorizou o
-  treino, e o treino produziu gente que mata a mulher e os filhos do lorde,
-  que não assinaram dívida nenhuma.
+  no mesmo ato. A família morta é o que envenena o Mário: ele não autorizou o
+  treino nem sabia do plano de Kate; vê a mulher e os filhos do lorde,
+  que não assinaram dívida nenhuma, morrerem pelas mãos do homem que chamou
+  de discípulo.
 - **Composição mostrada no cap. 33:** esposa e duas filhas pequenas. A
   preparação é doméstica e breve; a execução futura não deve usar as crianças
   como choque gráfico. A presença delas em gestos domésticos dá rosto à
@@ -117,8 +118,18 @@ Mário; a última perna da perseguição passa a depender do que se compra.
 - **É o estopim.** Depois da cabeça do lorde no chão, ninguém pode voltar
   atrás: quem assistiu virou cúmplice.
 - **E é a segunda vez que a brasa sobe na Kate.** A primeira foi a faca no
-  rampilla (cap. 34). Execução pública é ritual de guerra — exatamente o que
+  rampilla (cap. 35). Execução pública é ritual de guerra — exatamente o que
   a Hícse alimenta. Somático, sem voz, e ela não sabe.
+
+### Antes da execução — Nolan entra para avisar Mário (decisão, 2026-10-10)
+
+Uma fonte com acesso real à Mina ouve os treinados de Kate espalharem que a
+execução de Uorier e da família será o sinal para atacar os capatazes. Nolan
+usa essa informação para encontrar Mário e avisá-lo. Ele entra na Mina por
+escolha própria, aceitando o risco de passar entre trabalhadores que podem
+odiá-lo por ser metropolitano. Mário não acredita até ver a execução e a
+matança. A fonte precisa entregar informação parcial e plausível; não sabe
+todo o plano nem acompanha Mário em tempo real.
 
 ## 9. A implosão é alavriana — e o motim é a porta deles
 
@@ -208,9 +219,9 @@ que o Mário não consegue refutar.
 **E ele tem prova com nome (canon 2026-10-04).** A revolta matou **a família
 do lorde** — a mulher e os filhos de Uorier, gente que não assinou dívida
 nenhuma, e que o próprio Uorier tinha avisado para fugir. É isso que torna o
-treino **desprezível aos olhos do Mário**: ele autorizou, e o que saiu foi
-gente capaz de matar a família do patrão na praça. Nolan não precisa inventar
-nem exagerar — só mostrar.
+treino **insuportável aos olhos do Mário**: ele não autorizou nem sabia do
+plano; agora vê um homem que chamou de discípulo executar a família em
+público. Nolan não precisa inventar nem exagerar — só mostrar.
 
 A mentira fica no que ele **não** diz: que quer o trono, e que o Mário será o
 instrumento.
