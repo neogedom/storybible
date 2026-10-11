@@ -31,6 +31,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Iluminação | Noite fria, fogo baixo |
 | Fundo      | Abrigo entre as raízes de uma árvore caída, junto à lagoa lodosa dos Moribundos |
 
+## Capítulo 32 — A Estrada e a Mentira
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Forma      | Híbrida atenuada; permanece quase imóvel |
+| Roupas     | Torso exposto ao redor da faixa de pano sobre o corte |
+| Ferimentos | Corte oblíquo enfaixado com tiras da camiseta de Mário; a faixa está escurecida de sangue |
+| Expressão  | Não fala; a pele está quente, mas respira |
+| Postura    | Recostado na terra preta sob as raízes; bebe água aos poucos |
+| Fundo      | Abrigo entre raízes de uma árvore caída, no campo dos Moribundos |
+
 ## Capítulo 30 — A Carne e a Pedra
 
 - _Não aparece._ ⚠️ **O corte dele sangra há três dias** — o ferimento é da conta do **cap. 31**, e o salvamento é do Mário.

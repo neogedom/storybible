@@ -23,6 +23,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - _Não aparece._ Mário ora por ela; Kate chega depois da conta paga, no cap. 32.
 
+## Capítulo 32 — A Estrada e a Mentira
+
+| Atributo       | Estado |
+| -------------- | ------ |
+| Roupas         | Couro remendado de caçadora; nenhuma mudança de roupa descrita |
+| Acessórios     | Odres de água ao ombro, depois postos ao alcance de Mário; faca usada no treino |
+| Ferimentos     | Deixa um rastro do próprio sangue no barro; os ferimentos do cap. 30 não têm evolução descrita |
+| Expressão      | Dura e concentrada durante o treino; o maxilar trava |
+| Sinais físicos | Gosto de ferro e calor como brasa no peito; a causa não é nomeada |
+| Postura        | Segue os rastros, contorna o campo, demonstra golpes e deslocamentos, conduz o grupo em fila e observa a passagem dos devedores; no reencontro, contém o impulso de tocar Mário e depois pousa a mão no pulso dele |
+| Fundo          | Estrada ao redor dos Moribundos; acampamento; encanamento e fila de devedores; abrigo entre raízes onde encontra Mário e Lakand |
+
 ## Capítulo 29 — Moribundos
 
 - _Não aparece_ (separada do grupo desde a recolha, cap. 27; a metade dela é o **cap. 30 — "A Carne e a Pedra"**).

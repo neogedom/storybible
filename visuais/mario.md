@@ -32,6 +32,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Fundo      | Lagoa lodosa dos Moribundos; abrigo entre as raízes de uma árvore caída |
 | Detalhe    | A mancha antiga de sangue de outro corpo fica sob a atadura nova |
 
+## Capítulo 32 — A Estrada e a Mentira
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Roupas     | Sem camisa; a camiseta foi cortada em tiras para a atadura de Lakand no cap. 31 |
+| Acessórios | Sem óculos, perdidos na travessia |
+| Sujeira    | Mãos manchadas de sangue seco |
+| Expressão  | Exausto; o rosto se abre ao ver Kate, mas nenhum som sai; o pulso treme quando ela o toca |
+| Postura    | Ajoelhado ao lado de Lakand, mãos sobre a faixa; dá água a Lakand antes de beber |
+| Fundo      | Buraco entre as raízes de uma árvore caída, sobre a terra preta |
+
 ## Capítulo 30 — A Carne e a Pedra
 
 - _Não aparece._ ⚠️ Ele está no campo dos Moribundos, **sem água e sem Kate**, carregando o Lakand ferido. **A conta é dele no cap. 31.**

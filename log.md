@@ -26,6 +26,7 @@
 - **Checkpoint:** este passe cobre apenas o anti-slop solicitado. O checkpoint
   completo de beat ainda não rodou; densidade e passe de fechos seguem para
   quando o cap. 34 fechar.
+- **Mini-INGEST do cap. 32:** registro e timelines visuais de Kate, Mário e Lakand atualizados; a passagem do encanamento foi documentada em `lugares/subida-da-mina.md`. Sem nova regra de mundo ou semente cross-livro. O manuscrito tem 2.183 palavras (62,9%; 86.454 acumuladas até o cap. 32). Quatro capítulos passaram desde o último checkpoint completo (caps. 29–32); ainda não é hora de oferecê-lo. O cap. 33 foi deixado intacto, pois está em edição e aguarda seu Mini-INGEST.
 
 ## 2026-10-11 (arquitetura de compressão antes da queda da Mina)
 

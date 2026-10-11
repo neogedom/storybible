@@ -44,6 +44,12 @@ paralelas**, e a história acontece entre elas.
 9. **Cidadela de Gus** — depois dela, o último posto civilizado antes das
    fronteiras do Norte.
 
+## O encanamento
+
+Trecho da estrada onde o caminho se estreita e o chão fica branco. Os
+devedores sobem por ali a pé, amarrados dois a dois, com o registro pendurado
+no peito.
+
 ## A bacia: a água que é informação
 
 - **Não tem estrada. Tem carreador.** Dois sulcos quase apagados, feitos por

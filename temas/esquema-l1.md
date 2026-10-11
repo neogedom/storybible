@@ -57,7 +57,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 29       | Jogos e Diversão                    | Mário        | ~54-56%                | ~57,2%               | 3.265    |
 | 30       | Jogos e Diversão                    | Kate         | ~56-58%                | ~59,1%               | 2.596    |
 | 31       | Jogos e Diversão                    | Mário        | ~57-59%                 | ~61,3%               | 2.921    |
-| 32       | Jogos e Diversão                    | Kate         | ~59-61%                 | ~62,7%               | 1.967    |
+| 32       | Jogos e Diversão                    | Kate         | ~59-61%                 | ~62,9%               | 2.183    |
 | 33       | Jogos e Diversão                    | Nolan        | ~60-62%                 | ~64,0%               | 1.847    |
 
 > **Recontagem 2026-10-09, baseada nos manuscritos atuais.** A coluna
@@ -72,6 +72,12 @@ timestamp: 2026-09-10T12:00:00-03:00
 > dos comentários de autor em 2026-10-09. Esta
 > medição substitui os totais e percentuais anteriores registrados em
 > 2026-10-04, 2026-10-07 e antes da revisão dos comentários.
+
+> **Atualização 2026-10-11 — Mini-INGEST do cap. 32.** O manuscrito atual do
+> cap. 32 tem **2.183 palavras**; a contagem direta dos arquivos até ele dá
+> **86.454 palavras acumuladas (62,9%)**. Este total substitui a posição do
+> cap. 32 registrada na recontagem de 2026-10-09. A linha do cap. 33 não foi
+> recalculada nesta ingestão; será atualizada no Mini-INGEST dele.
 
 ---
 
