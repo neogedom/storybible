@@ -102,3 +102,10 @@ respeito, apenas pragmatismo.
 - [Cap. 21](/capitulos/capitulo-21.md) — recuperação do manto (a escrever)
 - [Kate](/personagens/kate.md)
 - [Xilomagia](/conceitos/glossario.md)
+
+## Atualização — tempestade retirada (2026-10-10)
+
+A tempestade de quartzo planejada para o cap. 36 foi retirada do L1. A carga
+do manto continua finita e precisa se esgotar na página, na Mina; o evento
+que pagará essa depleção ainda não foi escolhido. Não substituir a tempestade
+por outra cena sem decisão do autor.

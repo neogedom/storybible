@@ -302,6 +302,10 @@ vão na frente pelo mato; quatro vão com ele. A coleira, dita por Ossan:
 mais." O fecho do capítulo é a fala que define a perna dele no bloco:
 **"Vou comprar olhos."**
 
+**Atualização (decisão do autor, 2026-10-11):** Mathias segue inicialmente com
+a carroça, mas se reúne a Nolan antes da entrada na Mina e o acompanha para
+protegê-lo lá dentro. O ponto do reencontro ainda não está definido.
+
 ### Cap. 28 — o ofício dos Correios continua no nome dele (canon 2026-09-19)
 
 **Nolan ainda é Mestre dos Correios no L1** — o ofício não foi destituído.

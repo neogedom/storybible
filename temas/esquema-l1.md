@@ -532,13 +532,15 @@ o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 28 fechado em
 > | 33 | **Nolan** | **A Mina como lugar** — ele sobe pelo **Espinhaço** (sem água, sem raiz: cego) → **compra informação** → vê a Mina **antes** dela cair. |
 > | 34 | **Mário** | O assentamento → **o batismo** (renúncia + 1º "Javé") → **a decisão da Mina** (ele vai **para pregar** — não sabe de revolta nenhuma). |
 > | 35 | **Kate** | **O combate dos rampillas** — as seis alcançam a região; **ela sai para proteger o grupo e o homem formado vai com ela** (o Mário fica longe e **não vê**) → Kate mata cinco e deixa o sexto para o pupilo matar — a **formatura** → a brasa sobe → o **Lakand cheira** o rampilla neles quando voltam, entende e **cala** → ⚠️ **sem o Mário no capítulo**, e **sem objeção**: ela só vem na Mina. |
-> | 36 | **Mário** | A marcha → **a tempestade de quartzo** (o manto queima na página) → o ensaio do discurso → a criança toca o Lakand → **Etemenanki**. |
+> | 36 | **Mário** | A marcha → o ensaio do discurso → a criança toca o Lakand. A tempestade saiu; Etemenanki passou ao cap. 37. |
 > | 37 | **Mário** | A Mina (Ponto Central). |
 > | 38 | **Nolan** | A leitura da ruína. |
 >
 > **O que mudou em 2026-10-03/04 (três movimentos):** o **antigo cap. 29 do Nolan deixou de existir** — a lição e a ordem desceram para o rabo do **28**; tudo o que era ≥30 desceu um; o **salvamento do Lakand entrou como 31**; e o **cap. 30 foi partido** — a **arregimentação e o treino** saíram dele e viraram o **32**, empurrando o resto para cima. **Nolan não volta à Metrópole no L1** — ele sobe pelo **Espinhaço** e compra informação; a **vembra** desce para a **volta** (Mira, na descida). Ver `decisoes/jornada-nolan-acre-2026-10-03.md` e `decisoes/capitulo-31-uma-noite-salvamento.md`.
-> ⚠️ **Custo assumido:** o 34 carrega dois movimentos (batismo + decisão) — escrevê-lo **curto**, com a decisão como virada final (Corte C com ironia). O 35 carrega **o combate + a fissura + o Lakand** — também **curto**, fechando no corte B; a tempestade sai daqui. O 36 passa a carregar **a tempestade + a marcha + o ensaio + a criança** — o corte A (Etemenanki) fecha.
+> ⚠️ **Custo assumido:** o 34 carrega dois movimentos (batismo + decisão) — escrevê-lo **curto**, com a decisão como virada final (Corte C com ironia). O 35 carrega **o combate + a fissura + o Lakand** — também **curto**, fechando no corte B; a tempestade já não está nele. O 36 fica com a marcha, o ensaio e a criança; seu fecho precisa ser redefinido.
 > **Movido em 2026-09-21:** a **tempestade** saiu do combate e foi para a marcha (abre o capítulo, como desafio fantástico) para dar lugar ao **combate dos rampillas** — que é a formatura do treino e precisa do grupo já convertido.
+> **Decisão do autor (2026-10-10):** a tempestade de quartzo foi retirada do L1, não apenas deslocada. A depleção em cena do manto continua obrigatória, mas ainda não tem evento definido; ver `decisoes/manto-xilomagia-tharin.md`.
+> **Decisão do autor (2026-10-10):** Etemenanki sai da marcha e passa ao cap. 37, gravado num túnel da Mina (semente #25).
 > ⚠️ **Resolvido em 2026-10-04 (era "movido em 2026-10-01"):** o **cap. 29** termina com o **Lakand ferido por um Moribundo**; a **água da ferida + a destilação** e o **salvamento pelo conhecimento do séc. XXI** (com a revelação — "De onde você veio" → Mário não é de Ornick) são o **cap. 31 — "Uma Noite"** (decisão do autor, 2026-10-03). O ferimento fica pendurado no capítulo da Kate: o reencontro chega com sangue **já resolvido por ele** — ela chega **depois da conta paga**.
 > ⚠️ **Perda declarada:** cai a justaposição "Nolan enforca Juleen × Mário sobrevive à tempestade". Com o Nolan fora da Metrópole no L1, **o enforcamento de Juleen sai do meio do livro** e vai para o bloco final da Metrópole, em paralelo ao Caixão do Mário.
 >
@@ -691,6 +693,9 @@ o **Nolan chega pelo Espinhaço.** Ainda não entra nas galerias e não acompanh
   Mira, Saboc, Mathias e o cocheiro seguem com a carroça; Nolan sobe com Ossan
   e quatro criaturas, enquanto seis avançam pelo mato. Ele acampa nos
   arredores. **O homem mais poderoso do Reino, escondido atrás de um arbusto.**
+  > **Atualização do autor (2026-10-11):** Mathias segue com a carroça no
+  > início, mas precisa se reunir a Nolan antes da entrada na Mina. Ele o
+  > acompanha e protege lá dentro; o ponto do reencontro ainda será definido.
 
   **A casa de Uorier é a parada escolhida no cap. 28**, para Nolan ficar perto
   da Mina e encontrar o Estrangeiro onde espera que ele chegue; não é acaso
@@ -745,6 +750,8 @@ o **Fecho (a decidir).** Casa natural: **Corte B** — a pergunta moral no ar.
 
 o **O assentamento e o batismo (migrado do antigo cap. 30).** Chegam a **outro assentamento**. Gente mais pobre que a anterior — famílias inteiras dormindo ao relento, crianças com olhos de vidro (a doença da Mina). Mário prega novamente — agora com a segurança de quem já viu a teologia funcionar. Depois de curar algumas crianças, um grupo de adultos se aproxima: não querem mais milagres, querem entender. **Mário os batiza na água do assentamento** (poço racionado — ver `conceitos/agua-e-seca.md` §6). É o primeiro batismo da jornada.
 
+> **Decisão do autor (2026-10-11):** o batismo permanece no cap. 34; não será transferido para a Mina.
+
 o **A água do batismo cobra dos pobres (proposta do autor, 2026-09-20).** O poço está baixo na estiagem e os refugiados bebem do mesmo fio. Mário pede água para o batismo; os convertidos **dão a própria ração** para ser derramada na cabeça. Ele **hesita e reduz** ("não precisa tanta água"), alguém insiste no gesto inteiro, e ele **cede** — a fissura não é o desperdício, é a **aceitação**.
 
 o **A renúncia (correção 2026-08-10):** Mário adapta a abrenuntio da igreja primitiva (a renúncia a Satanás e a todas as suas obras e pompas) para os deuses de Ornick. Antes da água, cada convertido declara em voz alta: _"Renuncio aos falsos deuses do Limbo, a todas as suas obras e a toda a sua pompa. Sou de Javé."_ Na superfície, uma **declaração de fidelidade a Javé**; no pano de fundo, uma **declaração de guerra aos deuses falsos de Ornick**.
@@ -783,7 +790,7 @@ o **A fissura (POV Kate).** Ela observa uma criança cega abraçando a mãe depo
 
 o **O recrutamento — ela mede (canon desde 2026-09-13).** Enquanto o Mário batiza, Kate olha os convertidos **com olhos de recrutadora**: identifica os mais jovens, os mais fortes, os que olham o Mário com **determinação** em vez de devoção. Arquiva mentalmente. Não diz nada.
 
-o **Como ela recruta (canon 2026-09-20).** Não é sermão — é **alavanca**. E não é mensagem nova: **é a dele.** Os convertidos já são homens que acreditaram que ninguém precisa pagar; ela só lhes mostra o **corpo da promessa**. A pergunta canônica: _"E se houvesse um jeito de vocês nunca mais serem escravos de ninguém?"_ Ela não promete céu — promete a **conta fechada à força**. E **nunca diz "exército"**: chama de **treino**. ⚠️ **Nada de organização na página** — o leitor precisa de um **rosto** e de um **gesto**, não de uma rede. Ver `insights/recrutamento-da-kate.md`.
+o **Como ela recruta (canon 2026-09-20).** Não é sermão — é **alavanca**. E não é mensagem nova: **é a dele.** Os convertidos já são homens que acreditaram que ninguém precisa pagar; ela só lhes mostra o **corpo da promessa**. A pergunta canônica: _"E se houvesse um jeito de vocês nunca mais serem escravos de ninguém?"_ Ela não promete céu — promete a **conta fechada à força**. E **nunca diz "exército"**: chama de **treino**. ⚠️ **Nada de exposição de uma rede nesta cena** — o leitor precisa de um **rosto** e de um **gesto**, não de uma estrutura de comando. A coordenação limitada da revolta acontece na Mina (cap. 37); ver `insights/recrutamento-da-kate.md`.
 
 o **O Lakand fala com ela — as duas falas.** Primeiro: _"Você está apaixonada."_ Ela não nega e não confirma. Depois, o que importa — **ela diz o plano em voz alta:** _"Depois que a Mina cair, eu treino os sobreviventes. Mário inspira. Eu lidero."_ O Lakand ouve em silêncio. Não concorda, não discorda. **Ele guarda.** ⚠️ A frase *"você está repetindo o erro deles"* **não sai aqui** — ela é da **Mina** (ver abaixo).
 
@@ -813,22 +820,22 @@ o **✂️ Corte do capítulo (revisado 2026-10-04):** o **Corte B** antigo fech
 
 o Marcha em direção à Mina. O grupo cresceu: Kate, Lakand, convertidos do assentamento, alguns refugiados que creram. **Não é um exército — é um bando de quebrados.** Kate organiza a logística. Lakand lidera os batedores.
 
-o **A tempestade de quartzo (migrada para cá em 2026-09-21).** Abre o capítulo: vento que carrega fragmentos de quartzo da Mina, cortando a pele exposta, cegando quem respira a poeira. O grupo se abriga numa fenda na rocha. **Kate improvisa proteção com o manto de xilomagia — e a carga queima aqui** (a depleção decidida em 2026-08-14 finalmente tem casa e preparação). Lakand usa o corpo como escudo para as crianças. Mário ora em silêncio — não pede, apenas observa. A tempestade passa e o grupo sai mais unido. ⚠️ **O manto morre na página**, não fora dela.
+> ⚠️ **Decisão do autor (2026-10-10):** a tempestade de quartzo foi retirada do capítulo e do L1. A carga do manto ainda precisa se esgotar na página, na Mina; o momento permanece sem destino.
 
-o **Mário ensaia o discurso.** Durante uma parada, Mário se afasta do grupo. Kate o observa de longe: ele está falando sozinho, gesticulando, repetindo frases em voz baixa. **Está ensaiando o discurso para a Mina** — o discurso que, na cabeça dele, é a **resposta às palavras que ele acha que bastam**. Não está orando. Não está pedindo direção. Está preparando o controle do resultado. Kate vê e arquiva: _"ele acha que palavras resolvem tudo."_ O leitor sente o desconforto — o pregador ensaia, mas não ora.
+o **Mário ensaia o discurso.** Durante uma parada, Mário se afasta do grupo. Está falando sozinho, gesticulando, repetindo frases em voz baixa. **Está ensaiando o discurso para a Mina** — o discurso que, na cabeça dele, é a **resposta às palavras que ele acha que bastam**. Não está orando. Não está pedindo direção. Está preparando o controle do resultado. O leitor sente o desconforto — o pregador ensaia, mas não ora.
   - ⚠️ **Correção de 2026-10-04:** a urgência do ensaio **não** vem de ele ter visto nada. **Ele não viu nada** — nem o treino (32), nem a formatura (35). A urgência é dele mesmo: é o discurso da vida dele, e ele quer que funcione. **O leitor é que traz o peso**, porque sabe o que ele não sabe.
 
 o **A criança toca Lakand.** Durante a marcha, uma criança — **a mesma que sorriu para o Lakand no batismo (cap. 34)** — se aproxima dele sem medo. Toca o braço dele (forma híbrida ou humana). Pergunta: _"Você também é amigo do Mário?"_ Lakand congela. Não sabe responder. A criança aperta o braço dele e sai correndo. Lakand fica parado, processando. **Ele foi visto como "gente" por uma criança.** O desejo do cap. 13 reacende — mas ele não sabe o que fazer com isso.
 
 o Mário ora em silêncio. A Voz não diz nada. Mas ele sente — pela primeira vez — que não está sozinho.
 
-o **🌱 SEMENTE (Etemenanki):** Durante a marcha, o grupo cruza uma caverna comum. Numa parede de rocha há um zigurate entalhado em alto-relevo — mas Mário não o identifica como tal. Parece uma torre escalonada, um templo antigo, algo que ele deveria conhecer mas o nome não vem. No topo, uma **serpente alada** esculpida. Abaixo, uma inscrição cuneiforme: _Etemenanki_. Mário passa o dedo sobre os sulcos. Conhece aquele nome. Já viu antes. Onde? Não lembra. "Devo ter lido num artigo qualquer. Rochas formam padrões. Não é nada." Kate passa direto, indiferente. Mário engole a dúvida, mas a serpente alada fica — não como pensamento, como arrepio. _A semente está plantada — ver `temas/sementes.md`, entrada #21 (a registrar)._
+o **Etemenanki não aparece na marcha.** A semente foi transferida para o cap. 37: Mário a encontra num túnel da Mina (entrada #25 em `temas/sementes.md`).
 
-o Kate olha para a Mina no horizonte. Lá dentro, escravos — humanos quebrados que Mário vai inspirar. Depois que a Mina cair, ela os terá. E com eles virá **a guerra que ela recusou na mão de Gaviorn'l — e que agora é dela**, com o nome dela, sem dono em cima.
+o **Nota de bastidor (não narrar no POV de Mário):** a guerra que Kate quer liderar já aparece na fala do cap. 35 — _"Mário inspira. Eu lidero."_ Não repetir aqui como pensamento dela.
 
-o **✂️ Corte do capítulo (proposta 2026-09-13):** **Corte A** — fechar na semente Etemenanki (a serpente alada como arrepio, não como pensamento): revelação + mistério, antes de qualquer reação, colado no Ponto Central. ⚠️ **Não** fechar com "Kate olha para a Mina no horizonte": além de repetir o gesto de horizonte dos caps. 22 - 28, é escapada de POV num capítulo de Mário.
+o **✂️ Corte do capítulo (reaberto em 2026-10-10):** o antigo Corte A na semente Etemenanki não vale mais, porque a semente foi movida ao cap. 37. O novo fecho será decidido com a aproximação à Mina e a triagem; manter a emenda direta ao Ponto Central, sem fechar em partida, horizonte ou interior de Kate num capítulo de Mário.
 
-> **✂️ Notas de corte e ritmo — Movimento 3 (revisadas 2026-10-04).** Mistura de cortes do bloco **32-36**: **D** (32, a mentira em pé), **B** (33, a pergunta moral no ar), **C com ironia** (34, a decisão), **D** (35, a brasa — ameaça por baixo do osso), **A** (36, Etemenanki). Nenhum fecho em partida, nenhum "olhar para o norte", nenhum par de fechos do mesmo tipo em sequência. **Regra de trabalho:** nunca dois capítulos seguidos fechando com o mesmo gesto. O bloco 21-28 quebrou essa regra — **medição de 2026-09-18**: quatro capítulos fecham olhando ou indo para o norte (22, 23, 24 e 26; 22-24 são três seguidos), e o 25 fecha em caminhada sem gancho. A frase-botão também viciou: quatro fechos de 21 a 28 arrematam com "E" ("E adormeceu" (21), "E Nolan era muito bom..." (24), "E ela ainda tinha a faca e o caminho" (26, fim de cena), "E o de fora. Esse era pior." (27)). Alternar a construção do fecho.
+> **✂️ Notas de corte e ritmo — Movimento 3 (revistas em 2026-10-10).** No bloco **32-35**: **D** (32, a mentira em pé), **B** (33, a pergunta moral no ar), **C com ironia** (34, a decisão), **D** (35, a brasa — ameaça por baixo do osso). O corte do **36 está em aberto**: o antigo A dependia de Etemenanki, agora no 37. Nenhum fecho em partida, nenhum "olhar para o norte", nenhum par de fechos do mesmo tipo em sequência. **Regra de trabalho:** nunca dois capítulos seguidos fechando com o mesmo gesto. O bloco 21-28 quebrou essa regra — **medição de 2026-09-18**: quatro capítulos fecham olhando ou indo para o norte (22, 23, 24 e 26; 22-24 são três seguidos), e o 25 fecha em caminhada sem gancho. A frase-botão também viciou: quatro fechos de 21 a 28 arrematam com "E" ("E adormeceu" (21), "E Nolan era muito bom..." (24), "E ela ainda tinha a faca e o caminho" (26, fim de cena), "E o de fora. Esse era pior." (27)). Alternar a construção do fecho.
 >
 > **Sete capítulos ou menos?** O bloco **32-38** tem **sete**, e o ajuste que importa é: **(a) 33, 34 e 35 são capítulos de véspera** — escrevê-los **curtos** (precedente no livro: caps. 3, 11, 14 e 15 entre ~1.300 e ~2.200 palavras), porque **três capítulos de véspera seguidos freiam justo antes do Ponto Central**; **(b)** o recrutamento de Kate **já não precisa migrar** — ele vive no **32** (a estrada) e no **35** (a abertura no assentamento), que são os capítulos dela; **(c)** o **36** termina em tensão e emenda direto no **37**. Se o ritmo ainda pesar, a compressão possível é **fundir 34+35** — perde-se a ironia dupla (Mário convicto de ter decidido sozinho × Kate sabendo que a isca mordeu), por isso não é a primeira escolha.
 
@@ -849,14 +856,28 @@ Mário como são as galerias e por onde se trabalha. Mário entra e prega nos
 túneis. A explicação não resolve a triagem: como ele atravessa a vigilância
 ainda precisa de uma solução concreta.
 
+o **Semente #25 — Etemenanki.** No percurso por um túnel interno, Mário vê
+na parede um zigurate em alto-relevo, mas não o identifica como tal. Parece
+uma torre escalonada, um templo antigo, algo que deveria conhecer. No topo
+há uma serpente alada; abaixo, a inscrição cuneiforme _Etemenanki_. Mário
+passa o dedo pelos sulcos. Conhece o nome, mas não sabe de onde; descarta:
+_"Devo ter lido num artigo qualquer. Rochas formam padrões. Não é nada."_ Kate
+passa indiferente. A serpente fica como um arrepio, não como pensamento. A
+cena ocorre num túnel da Mina, não numa caverna comum da marcha, e não abre
+explicação sobre o que Mário reconheceu. Ver `temas/sementes.md`, entrada #25.
+
 o **Kate sai de perto.** Enquanto Mário prega, ela pede para fazer rondas de
 proteção. A desculpa encobre a preparação da captura de Uorier e da família,
 que tentam fugir, e da execução pública pelo pupilo que ela formou.
 
 o **O aviso de Nolan.** A fonte comprada dentro da Mina ouve os treinados de
 Kate espalharem que a execução será o sinal para atacar os capatazes. Nolan
-entra na Mina, assumindo o risco de passar entre trabalhadores que podem
-odiá-lo por ser metropolitano, e avisa Mário. Mário não acredita.
+entra na Mina com Mathias, que o acompanha e protege lá dentro (decisão do
+autor, 2026-10-11). A presença de Mathias não elimina o risco de atravessar
+trabalhadores que podem odiá-los por serem metropolitanos. Nolan avisa Mário,
+que não acredita.
+
+> **POV e logística (encaminhamento de 2026-10-11):** a coordenação concreta acontece no cap. 37, enquanto Kate se afasta para a ronda e a captura. Não se acrescenta um capítulo de Kate: os caps. 32 (recrutamento e treino) e 35 (formatura) já mostram a formação do grupo; a operação na Mina fica fora do campo de Mário e chega ao leitor pelo relato limitado da fonte de Nolan — a execução será o sinal, não o plano inteiro. A passagem dos treinados pela triagem da Mina continua sem solução.
 
 o **A execução como sinal.** O pupilo executa Uorier e a família em público.
 Os ataques aos capatazes começam; Mário só acredita quando vê a execução e a

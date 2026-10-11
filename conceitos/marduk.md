@@ -24,7 +24,8 @@ Nunca pisou em Ornick. Enviou seu servo-chefe **Vonos** para executar o plano.
 
 - **Serpente alada (mušḫuššu)**: O emblema gravado nos marcos de fundação
   de Ornick.
-- **Zigurate de Etemenanki**: O nome gravado na caverna da Mina de Quartzo.
+- **Zigurate de Etemenanki**: O nome gravado num túnel da Mina de Quartzo
+  (semente #25, cap. 37).
 - **50 nomes**: Nos arquivos do Grande Templo, dizem que o mestre de Vonos
   tinha cinquenta títulos.
 - **Bel** ("Senhor"): Os anciãos de Ornick às vezes chamam o deus distante

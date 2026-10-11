@@ -173,7 +173,7 @@ cantis, não para para ensinar. Se montasse, o leitor não acreditaria.
 - **A réplica dela:** *"Eu não ensinei nada. Eles só andaram comigo."* É
   verdade, é esquiva, e é a resposta mais dela que existe.
 - **Um dos que ela junta é o rosto guardado na coluna** (o homem marcado) — o
-  que começa o motim no cap. 36.
+  que começa o motim no cap. 37.
 - ⚠️ **Não fazer dela uma mãe-de-tropa.** Ela não consola, não explica, não
   promete. Ela anda e não manda embora. A diferença entre as duas coisas é o
   personagem inteiro.
@@ -391,6 +391,18 @@ entra para avisá-lo e não é acreditado; Mário só entende quando vê a execu
 e a matança. A explicação de um convertido familiarizado com as galerias
 ajuda Mário a conhecer o interior, mas não resolve como ele atravessa a
 triagem.
+
+### Onde a coordenação entra (2026-10-11)
+
+Não é necessário acrescentar um capítulo em POV de Kate. Ela já tem os caps.
+32 (arregimentação e treino) e 35 (formatura); a coordenação concreta da
+revolta acontece no cap. 37, enquanto ela se afasta sob o pretexto da ronda e
+captura Uorier. Como o capítulo é de Mário, essa ação fica fora do seu campo:
+o leitor recebe pela fonte de Nolan apenas a informação de que a execução
+será o sinal para atacar os capatazes, não uma exposição da rede inteira.
+
+A entrada e a distribuição dos treinados pela Mina vigiada continuam sem
+solução concreta. Não tratar a notícia da fonte como se resolvesse a triagem.
 
 ## Disciplina de escrita
 

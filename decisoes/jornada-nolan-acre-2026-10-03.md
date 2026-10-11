@@ -131,6 +131,13 @@ odiá-lo por ser metropolitano. Mário não acredita até ver a execução e a
 matança. A fonte precisa entregar informação parcial e plausível; não sabe
 todo o plano nem acompanha Mário em tempo real.
 
+### Mathias acompanha Nolan na Mina (decisão do autor, 2026-10-11)
+
+Mathias se reúne a Nolan antes da entrada, acompanha-o dentro da Mina e o
+protege enquanto estiver lá. O ponto do reencontro e a forma da proteção ainda
+serão definidos. O papel dos rampillas e a extração durante o colapso também
+continuam em aberto.
+
 ## 9. A implosão é alavriana — e o motim é a porta deles
 
 **Não dá para derrubar a Mina de fora.** Ela é guardada, a entrada é

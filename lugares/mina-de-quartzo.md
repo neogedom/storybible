@@ -93,11 +93,15 @@ Consequências travadas:
   porta para quem quer enterrar todo mundo.
 - **A sequência planejada pelo autor (2026-10-10):** um convertido que
   conhece a Mina explica as galerias a Mário; Mário entra e prega nos túneis.
+  No percurso por um dos túneis, ele encontra a inscrição de Etemenanki
+  (semente #25): zigurate em alto-relevo, serpente alada e nome cuneiforme.
   Enquanto isso, Kate usa a ronda de proteção como desculpa para se afastar e
   preparar a captura de Uorier e da família, que tentam fugir. A execução
   pública, feita pelo pupilo de Kate, é anunciada como sinal para que os
   treinados comecem a atacar os capatazes. Nolan recebe a notícia por uma
-  fonte dentro da Mina, entra para avisar Mário e não é acreditado. Depois da
+  fonte dentro da Mina, entra com Mathias para avisar Mário e não é acreditado.
+  Mathias o acompanha e protege dentro da Mina (decisão do autor, 2026-10-11);
+  a forma da proteção e a rota de saída ainda não estão definidas. Depois da
   execução, os ataques se espalham até que a explosão alavriana começa a
   derrubar a Mina. A revolta abre caminho para os infiltrados nas galerias;
   guarnição e escravos ficam dentro, o arraial é coberto de pó. **A Mina morre

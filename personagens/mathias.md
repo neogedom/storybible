@@ -66,6 +66,13 @@ Devour.
 - **Ativo na batalha da Metrópole** (clímax do L1 — a incursão de Kate/Alavria):
   papel a detalhar no planejamento do final.
 
+### Capítulo 37 — A Mina (decisão do autor, 2026-10-11)
+
+- Acompanha Nolan dentro da Mina e o protege enquanto estiver lá.
+- O ponto em que se reúne a Nolan, a forma exata da proteção e a rota de saída
+  durante o colapso continuam em aberto; não presumir que os rampillas façam
+  a extração.
+
 ### Outros
 
 - Cap. 17: no comboio, prova a comida antes de Nolan; colhe o rumor do
