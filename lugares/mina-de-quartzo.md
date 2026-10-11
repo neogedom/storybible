@@ -97,6 +97,12 @@ Consequências travadas:
   atravessar a vigilância. No cap. 37, ele entra e prega nos túneis. A
   pregação não repete o batismo do cap. 34: ali nasce pertencimento; aqui a
   palavra colide com dívida, trabalho e violência.
+  Mário pretende pregar uma paz que não peça aos trabalhadores que aceitem o
+  cativeiro, mas também não os convoque à vingança. Uma pergunta sobre a cota
+  seguinte expõe a distância entre perdão espiritual e dívida material; ele
+  não tem um plano concreto para desmontar o sistema. A pregação abre uma
+  linguagem de esperança, mas não causa por si só a revolta: Kate organiza a
+  ação e os Alavrianos provocam a demolição. Mário não conhece esses planos.
   No percurso por um dos túneis, ele encontra a inscrição de Etemenanki
   (semente #25): zigurate em alto-relevo, serpente alada e nome cuneiforme.
   Enquanto isso, Kate usa a ronda de proteção como desculpa para se afastar e

@@ -72,6 +72,20 @@
   ruína. Assim, preserva-se o fecho forte da queda sem transformar a acusação
   em uma fala perdida durante o caos.
 
+## 2026-10-11 (intenção pacifista da pregação na Mina)
+
+- Mário prepara uma palavra de paz: não convoca os trabalhadores à revolta,
+  mas também não pede que aceitem o cativeiro como paz. Ele acredita que
+  anunciar a dívida perdoada pode encerrar a dívida material da Mina sem
+  sangue. Essa confiança é a solução equivocada dele, não uma promessa do
+  evangelho.
+- Uma pergunta prática sobre a próxima cota deve expor a distância entre
+  perdão espiritual e dívida material; o diálogo exato fica para a escrita.
+- A pregação oferece linguagem e esperança, mas não causa sozinha a revolta.
+  Kate organiza a ação; a demolição é alavriana. Mário não conhece nem
+  autoriza esses planos. O sermão não manda os trabalhadores aceitarem a
+  opressão nem pegarem em armas.
+
 ## 2026-10-09 (comentários aplicados no cap. 33 — Nolan, "A Mina como lugar")
 
 - **Os 11 comentários `(* ... )` foram resolvidos e removidos** de

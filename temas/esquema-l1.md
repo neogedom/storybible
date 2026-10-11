@@ -824,6 +824,7 @@ o Marcha em direção à Mina. O grupo cresceu: Kate, Lakand, convertidos do ass
 
 o **Mário ensaia o discurso.** Durante uma parada, Mário se afasta do grupo. Está falando sozinho, gesticulando, repetindo frases em voz baixa. **Está ensaiando o discurso para a Mina** — o discurso que, na cabeça dele, é a **resposta às palavras que ele acha que bastam**. Não está orando. Não está pedindo direção. Está preparando o controle do resultado. O leitor sente o desconforto — o pregador ensaia, mas não ora.
   - ⚠️ **Correção de 2026-10-04:** a urgência do ensaio **não** vem de ele ter visto nada. **Ele não viu nada** — nem o treino (32), nem a formatura (35). A urgência é dele mesmo: é o discurso da vida dele, e ele quer que funcione. **O leitor é que traz o peso**, porque sabe o que ele não sabe.
+  - **Intenção pacifista (decisão do autor, 2026-10-11):** Mário quer levar uma palavra de paz, sem convocar os trabalhadores à revolta e sem pedir que aceitem o cativeiro como paz. Acredita que anunciar a dívida perdoada pode interromper a dívida da Mina e libertá-los sem sangue. Essa confiança na palavra como solução material é a leitura equivocada dele, não uma promessa do evangelho.
 
 o **A criança toca Lakand.** Durante a marcha, uma criança — **a mesma que sorriu para o Lakand no batismo (cap. 34)** — se aproxima dele sem medo. Toca o braço dele (forma híbrida ou humana). Pergunta: _"Você também é amigo do Mário?"_ Lakand congela. Não sabe responder. A criança aperta o braço dele e sai correndo. Lakand fica parado, processando. **Ele foi visto como "gente" por uma criança.** O desejo do cap. 13 reacende — mas ele não sabe o que fazer com isso.
 
@@ -858,6 +859,12 @@ no cap. 36 e entra para pregar nos túneis. A pregação não repete o batismo:
 no assentamento, a palavra formou pertencimento; na Mina, ela colide com a
 dívida, o trabalho e a violência. O sermão é fragmentado pelos ruídos e pelo
 movimento dos trabalhadores.
+  - A intenção de Mário é pacífica: ele fala de perdão e de uma saída sem
+    sangue, sem pedir submissão aos capatazes nem convocar os trabalhadores
+    às armas. Uma pergunta prática sobre a próxima cota torna visível a
+    distância entre perdão espiritual e dívida material. Mário não tem um
+    plano para abolir o sistema; ainda acredita que a palavra pode encerrar
+    seu ciclo. Não fixar aqui diálogo ou resposta final.
 
 o **Semente #25 — Etemenanki.** No percurso por um túnel interno, Mário vê
 na parede um zigurate em alto-relevo, mas não o identifica como tal. Parece
@@ -904,8 +911,11 @@ em curso, e essa reação fecha seu capítulo; Nolan começa no depois, diante d
 ruína. A acusação é a última decisão moral de Mário antes de a Mina deixar de
 permitir qualquer resposta.
 
-o **O custo (nota de bastidor, não narrar no PoV de Mário).** O discurso
-pacifista de Mário não impede o banho de sangue. Ele vê a família morrer
+o **O custo (nota de bastidor, não narrar no PoV de Mário).** A intenção
+pacifista de Mário não impede o banho de sangue, mas a pregação não é a causa
+direta da revolta nem da demolição. Ela dá uma linguagem de esperança num
+lugar de dívida; Kate já preparou a ação violenta, e os Alavrianos provocam
+a queda. Mário não conhece nem autoriza esses planos. Ele vê a família morrer
 pelas mãos do homem que chamou de discípulo; para Kate, o preço abre uma
 fissura, que só pode aparecer na página por sinais observáveis.
 

@@ -342,6 +342,19 @@ sabe de nada** — e isso é a tragédia, não a cumplicidade.
 — e é verdade. E o Mário continua o que sempre foi desde o cap. 4:
 **instrumento de projeto alheio, sem saber.**
 
+### A intenção pacifista de Mário na Mina (decisão do autor, 2026-10-11)
+
+Mário vai pregar uma paz que não exige dos trabalhadores que aceitem o
+cativeiro, mas também não os convoca à vingança. Ele acredita que anunciar a
+dívida perdoada pode encerrar o ciclo material da Mina sem sangue. Essa é a
+confiança equivocada dele no alcance das palavras.
+
+Kate não transforma o sermão numa ordem para matar. Ela usa a linguagem de
+libertação da dívida como abertura e oferece, por conta própria, a alavanca
+material e a organização da revolta. A execução e o sinal são decisões dela;
+a demolição é obra dos Alavrianos. A pregação dá contexto e esperança, não
+explica sozinha nem absolve a violência que vem depois.
+
 ### Quem vê
 
 - **O Lakand.** É ele quem enxerga o que o treino é — e **não diz nada ali**.
