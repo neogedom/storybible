@@ -115,18 +115,29 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Séquito**: Ossan ao lado dele na lição (de pé, mãos ao longo do corpo); **seis rampillas na frente pelo mato**; **quatro com ele**; Mira, Saboc e Mathias ficam no pouso com o cocheiro; a mula e a carroça ficam
 - **Iluminação**: manhã no assentamento → tarde na feira → **noite no acampamento, e a lição à luz da última fogueira**; depois, escuro
 
-## Capítulo 33 — A Mina como lugar (2026-10-07)
+## Capítulo 33 — A Mina como lugar (Mini-INGEST, 2026-10-11)
 
-- **Vestimenta**: roupas de viagem escuras e práticas (mesmo do cap. 28); botas; lenço de seda (a rinite)
-- **Óculos**: sim
-- **Acessórios**: o edital do Trono, dobrado nos vincos, no bolso de dentro; o caixote da raiz mestra (Ossan, no ombro); o caderno de ocorrências
-- **Local**: o **Espinhaço** — parede de pedra nua, sem mato, sem água, sem raiz. O vale lá embaixo, a Mina de Quartzo no fim, onde o mato acaba e começa o quartzo.
-- **Expressão**: frieza de trabalho; **a cegueira** (olha o vale de longe, sem ver nada de perto); a pergunta moral no ar, sem resposta
-- **Ação**: sobe de dia com Ossan e as criaturas; **vê a Mina de longe, sem entrar**; **compra informação** (feitor, carroceiro, cozinheiro do burgo); **observa Uorier de longe** — um homem que está com medo
-- **Séquito**: Ossan um passo atrás, com o caixote da raiz no ombro; quatro criaturas na frente; as seis que mandara na frente não voltaram (nobody asks)
-- **Objetos de cena**: o caixote da raiz; a Mina, vista de fora
-- **Relação**: com **Ossan, a dependência** — o xamã abre e fecha o canal, e a raiz para na pedra; com os homens de dentro, a compra de informação; com **Uorier, a pergunta moral** (ele sente a pedra e tem medo)
-- **Iluminação**: dia no Espinhaço, sol fraco sobre a pedra nua; a Mina ao fundo, quartzo brilhando nas frestas
+- **Vestimenta**: roupas de viagem; ainda guardam o cheiro do caminho. Pensa
+  em trocá-las, mas nenhuma troca aparece em cena.
+- **Óculos**: sim (canon)
+- **Acessórios**: segura o corte da raiz durante o teste; o caixote permanece
+  com Ossan.
+- **Local**: Espinhaço e arredores da Mina; depois, a casa de Uorier, a mesa e
+  a varanda alta de onde se veem a entrada e o pátio.
+- **Expressão**: analítica; acha graça da própria cegueira informacional. Não
+  percebe o que Uorier sabe sobre a pedra.
+- **Ação**: sobe com Ossan e quatro rampillas; usa o canal, que para na pedra;
+  compra informação de um vendedor; observa os registros, os devedores e a
+  extração do quartzo; volta para dentro para esperar Mário.
+- **Séquito**: quatro rampillas com Nolan; seis no limite do mato. Mira, Saboc,
+  Mathias e o cocheiro seguem na carroça e se reúnem a Nolan na casa.
+- **Objetos de cena**: caixote da raiz com Ossan; corte da raiz nas mãos de
+  Nolan; moedas deixadas ao vendedor.
+- **Relação**: Ossan abre o canal e Nolan recebe apenas o que a raiz alcança;
+  Uorier o recebe pelo nome, pergunta por Dagmar e lhe mostra a Mina. Nolan
+  não lê o aviso que o barão guarda.
+- **Iluminação**: subida e observação da Mina durante o dia; o texto não fixa
+  a iluminação da refeição.
 
 ## Histórico por Capítulo
 

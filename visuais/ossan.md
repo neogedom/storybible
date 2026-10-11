@@ -14,3 +14,12 @@ timestamp: 2026-08-26
 - **Fala**: "Seu soldado partiu." / "Vamos continuar sem ele?" / "E o que faremos quando o encontrarmos?"
 - **Ação**: posiciona os rampillas no perímetro do acampamento; aproxima-se sem fazer barulho
 - **Relação**: asset de Nolan — lealdade por sobrevivência, não por convicção; herdeiro despojado
+
+## Capítulo 33 — A Mina como lugar
+
+- **Ação**: acompanha Nolan pelo Espinhaço com o caixote da raiz; abre-o e
+  põe a palma na terra para o canal. A pedra impede a passagem dos sentidos.
+- **Expressão**: o sorriso tímido murcha quando Gwill pergunta pela família
+  d'Tirath e menciona o incêndio de Saramant.
+- **Postura**: senta-se à mesa de Uorier, fora do lugar dos criados; ninguém
+  volta a tratá-lo como criado.

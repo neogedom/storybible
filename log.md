@@ -1,5 +1,27 @@
 # Log de Atualizações
 
+## 2026-10-11 (Mini-INGEST do cap. 33 — Nolan, "A Mina como lugar")
+
+- **Esta ingestão substitui o registro do rascunho de 2026-10-07** (454
+  palavras, corte B). O manuscrito atual tem **2.141 palavras**; a contagem
+  direta dos caps. 0–33 dá **88.628 palavras (64,5%)**. A linha do capítulo
+  foi atualizada em `temas/esquema-l1.md`.
+- **Registro:** criado `capitulos/capitulo-33.md`; atualizadas as timelines de
+  Nolan, Ossan, Mira, Mathias e Mário (ausente); criadas as de Uorier e Saboc.
+- **Canon:** a percepção dos moradores do Norte sobre os metropolitanos foi
+  registrada em `lugares/subida-da-mina.md`. Exportação de quartzo para Rifte
+  e limite da raiz na pedra já estavam documentados. Nenhuma semente
+  cross-livro nova; as questões de Uorier e dos Inquiridores seguem nos
+  insights existentes.
+- **Fronteira:** o cap. 32 fecha com a mentira de Kate; o 33 muda para Nolan.
+  O 34 volta a Mário no assentamento, com batismo e decisão de ir à Mina para
+  pregar, sem conhecimento da revolta.
+- **Fecho:** corte D, coda de espera — Nolan permanece na casa, Saboc dorme e
+  seis rampillas vigiam o limite do mato.
+- **Checkpoint:** cinco capítulos desde o checkpoint completo de 18/09
+  (29–33). Oferecer o checkpoint leve ao fechar o cap. 34, a sexta marca; não
+  executado neste Mini-INGEST.
+
 ## 2026-10-11 (lote anti-slop 29–33 e decisões do bloco da Mina)
 
 - **Anti-slop aplicado a pedido do autor** nos caps. 29–33, com nove cirurgias

@@ -43,6 +43,11 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Postura    | Ajoelhado ao lado de Lakand, mãos sobre a faixa; dá água a Lakand antes de beber |
 | Fundo      | Buraco entre as raízes de uma árvore caída, sobre a terra preta |
 
+## Capítulo 33 — A Mina como lugar
+
+- _Não aparece em cena._ Nolan aguarda sua chegada e o menciona como o
+  Estrangeiro, o homem que cura.
+
 ## Capítulo 30 — A Carne e a Pedra
 
 - _Não aparece._ ⚠️ Ele está no campo dos Moribundos, **sem água e sem Kate**, carregando o Lakand ferido. **A conta é dele no cap. 31.**

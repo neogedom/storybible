@@ -50,6 +50,13 @@ Trecho da estrada onde o caminho se estreita e o chão fica branco. Os
 devedores sobem por ali a pé, amarrados dois a dois, com o registro pendurado
 no peito.
 
+## Os metropolitanos no Norte (cap. 33)
+
+Os moradores do Norte são mais desconfiados dos metropolitanos que os de
+Tronk e do assentamento de refugiados. Gwill Uorier, metropolitano conhecido
+na região, funciona como arquétipo para julgarem os demais. Eles não sabem
+que Nolan os separou dos metropolitanos com um muro e um Cran.
+
 ## A bacia: a água que é informação
 
 - **Não tem estrada. Tem carreador.** Dois sulcos quase apagados, feitos por

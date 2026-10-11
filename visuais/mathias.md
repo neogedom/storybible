@@ -49,3 +49,9 @@ No cap. 20 Mathias desce aos calabouços carregando o bebê morto. É MÁRIO que
 inicia o pedido ("Traga ele aqui." / "Traga. Por favor.") — Mathias obedece em
 silêncio, por desespero. O nome dele nunca é dito no capítulo (POV de Kate:
 "o soldado do conselheiro").
+
+## Capítulo 33 — A Mina como lugar
+
+- Segue com Mira e Saboc pela estrada na carroça; ao chegar à casa de Uorier,
+  traz a mala da ama.
+- Não há detalhe novo de vestimenta ou aparência no capítulo.

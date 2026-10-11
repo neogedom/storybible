@@ -27,3 +27,10 @@ timestamp: 2026-08-26
   entra no mato** quando Nolan sobe atrás do Estrangeiro; desce por estrada
   depois. (O antigo "retorno à Metrópole" está **superado** — ver
   `decisoes/jornada-nolan-acre-2026-10-03.md`.)
+
+## Capítulo 33 — A Mina como lugar
+
+- Viaja na carroça com Saboc no colo e chega à casa de Uorier.
+- Desce com o bebê; a esposa do barão a recebe e leva as filhas para o quarto.
+- Nolan a vê acomodar Saboc num berço emprestado; não há mudança visual
+  específica descrita para Mira.

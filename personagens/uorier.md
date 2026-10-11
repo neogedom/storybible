@@ -101,7 +101,10 @@ e não olha para os escravos a três passos.
 ## Relações
 
 - [Nolan](/personagens/nolan.md) — o homem que entra depois dele e lhe herda
-  a versão dos fatos
+  a versão dos fatos. Uorier veio da Metrópole e admirava Nolan; as casas
+  Uorier e Guenayer se conheciam havia gerações. No cap. 33, sabia que Dagmar
+  era esposa de Nolan e pergunta por ela; a familiaridade não estabelece
+  amizade íntima.
 - [Kate](/personagens/kate.md) — o treino que armou o braço que o executou
 - [Genocydo](/personagens/genocydo.md) — quem o pôs lá
 - [Mina de Quartzo](/lugares/mina-de-quartzo.md) — o que ele administra
