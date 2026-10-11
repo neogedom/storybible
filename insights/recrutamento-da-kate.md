@@ -388,11 +388,13 @@ derrubar a Mina. A autoria alavriana é a verdade do plano, mas fica oculta no
 primeiro momento (ver "A autoria da demolição fica oculta no primeiro
 momento", abaixo).
 
-Mário não sabe do plano. Nolan ouve a mensagem por uma fonte dentro da Mina,
-entra para avisá-lo e não é acreditado; Mário só entende quando vê a execução
-e a matança. A explicação de um convertido familiarizado com as galerias
-ajuda Mário a conhecer o interior, mas não resolve como ele atravessa a
-triagem.
+Antes da execução, Mário não sabe do plano. Nolan ouve a mensagem por uma
+fonte dentro da Mina, entra para avisá-lo e não é acreditado. Ao ver a
+execução e a matança, Mário entende que Kate organizou os convertidos para
+transformá-los em rebeldes. Durante o desabamento, acusa-a de ter matado
+inocentes no processo. A explicação de um convertido familiarizado com as
+galerias ajuda Mário a conhecer o interior, mas não resolve como ele
+atravessa a triagem.
 
 ### Onde a coordenação entra (2026-10-11)
 
@@ -414,7 +416,7 @@ da revelação ainda não está definido. Nesse intervalo, alguém acusa Kate de
 ter matado inocentes no processo. Ela responde, irritada, que não foi ela
 quem derrubou a Mina. A fala nega a autoria da demolição, não o que ela
 preparou: a captura, a execução dos Uorier e o sinal para atacar os capatazes.
-O acusador e as palavras exatas ficam em aberto.
+Mário a acusa; as palavras exatas ficam em aberto.
 
 ## Disciplina de escrita
 
@@ -424,8 +426,11 @@ O acusador e as palavras exatas ficam em aberto.
 - A maior parte dos trabalhadores age por conta própria quando o sinal chega.
   A rede de Kate prepara o momento e o estopim, não controla cada ataque. O
   exército dela continua nascendo depois, em Gus.
-- Mário continua sem saber do treino e da execução preparada por Kate. A
-  pregação é a porta; a execução é o sinal que transforma a tensão em ataque.
+- Antes da execução, Mário não sabe do treino nem do plano de Kate e rejeita
+  o aviso de Nolan. Ao ver a execução e os ataques, entende que ela organizou
+  os convertidos para a revolta. Ele não viu o treino nem sabe como a
+  demolição foi feita. A pregação é a porta; a execução é o sinal que
+  transforma a tensão em ataque.
 - **A fissura de Kate permanece:** ela vê o exército que queria, mas o preço
   da família morta abre nela uma hesitação. Sem veredito moral na narração.
 

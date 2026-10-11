@@ -829,11 +829,13 @@ o **A criança toca Lakand.** Durante a marcha, uma criança — **a mesma que s
 
 o Mário ora em silêncio. A Voz não diz nada. Mas ele sente — pela primeira vez — que não está sozinho.
 
+o **As galerias e a porta.** Um convertido que conhece a Mina explica a Mário a triagem, os setores de trabalho e as rotas que não aparecem para quem chega de fora. Ele não oferece um mapa completo nem resolve a entrada: apenas mostra o preço de atravessar a vigilância e o risco de ser reconhecido. Mário precisa escolher uma forma de entrar para pregar. A explicação nasce dessa necessidade prática e termina aumentando o perigo.
+
 o **Etemenanki não aparece na marcha.** A semente foi transferida para o cap. 37: Mário a encontra num túnel da Mina (entrada #25 em `temas/sementes.md`).
 
 o **Nota de bastidor (não narrar no POV de Mário):** a guerra que Kate quer liderar já aparece na fala do cap. 35 — _"Mário inspira. Eu lidero."_ Não repetir aqui como pensamento dela.
 
-o **✂️ Corte do capítulo (reaberto em 2026-10-10):** o antigo Corte A na semente Etemenanki não vale mais, porque a semente foi movida ao cap. 37. O novo fecho será decidido com a aproximação à Mina e a triagem; manter a emenda direta ao Ponto Central, sem fechar em partida, horizonte ou interior de Kate num capítulo de Mário.
+o **✂️ Corte do capítulo (decisão de checkpoint, 2026-10-11):** o capítulo fecha na escolha operacional de Mário diante da triagem, emenda direta ao cap. 37 e não resolve a entrada por exposição. Não fechar em partida, horizonte ou interior de Kate num capítulo de Mário. O capítulo deve ser curto e preparatório; a compressão perde margem de escolha, não informação essencial.
 
 > **✂️ Notas de corte e ritmo — Movimento 3 (revistas em 2026-10-10).** No bloco **32-35**: **D** (32, a mentira em pé), **B** (33, a pergunta moral no ar), **C com ironia** (34, a decisão), **D** (35, a brasa — ameaça por baixo do osso). O corte do **36 está em aberto**: o antigo A dependia de Etemenanki, agora no 37. Nenhum fecho em partida, nenhum "olhar para o norte", nenhum par de fechos do mesmo tipo em sequência. **Regra de trabalho:** nunca dois capítulos seguidos fechando com o mesmo gesto. O bloco 21-28 quebrou essa regra — **medição de 2026-09-18**: quatro capítulos fecham olhando ou indo para o norte (22, 23, 24 e 26; 22-24 são três seguidos), e o 25 fecha em caminhada sem gancho. A frase-botão também viciou: quatro fechos de 21 a 28 arrematam com "E" ("E adormeceu" (21), "E Nolan era muito bom..." (24), "E ela ainda tinha a faca e o caminho" (26, fim de cena), "E o de fora. Esse era pior." (27)). Alternar a construção do fecho.
 >
@@ -851,10 +853,11 @@ o **✂️ Corte do capítulo (reaberto em 2026-10-10):** o antigo Corte A na se
 
 **Nota de arco:** Este evento funciona se ficar claro que: (a) Mário entrou querendo "controlar o resultado" via discurso; (b) o mundo reage fora do controle dele; (c) o "sinal"/impacto público vem com **consequência** — escalada, perseguição e divisão — em vez de resolver tudo.
 
-o **A entrada e o sermão.** Um convertido que conhece a Mina explica a
-Mário como são as galerias e por onde se trabalha. Mário entra e prega nos
-túneis. A explicação não resolve a triagem: como ele atravessa a vigilância
-ainda precisa de uma solução concreta.
+o **A entrada e o sermão.** Mário atravessa a triagem com a solução escolhida
+no cap. 36 e entra para pregar nos túneis. A pregação não repete o batismo:
+no assentamento, a palavra formou pertencimento; na Mina, ela colide com a
+dívida, o trabalho e a violência. O sermão é fragmentado pelos ruídos e pelo
+movimento dos trabalhadores.
 
 o **Semente #25 — Etemenanki.** No percurso por um túnel interno, Mário vê
 na parede um zigurate em alto-relevo, mas não o identifica como tal. Parece
@@ -880,8 +883,10 @@ que não acredita.
 > **POV e logística (encaminhamento de 2026-10-11):** a coordenação concreta acontece no cap. 37, enquanto Kate se afasta para a ronda e a captura. Não se acrescenta um capítulo de Kate: os caps. 32 (recrutamento e treino) e 35 (formatura) já mostram a formação do grupo; a operação na Mina fica fora do campo de Mário e chega ao leitor pelo relato limitado da fonte de Nolan — a execução será o sinal, não o plano inteiro. A passagem dos treinados pela triagem da Mina continua sem solução.
 
 o **A execução como sinal.** O pupilo executa Uorier e a família em público.
-Os ataques aos capatazes começam; Mário só acredita quando vê a execução e a
-matança.
+Os ataques aos capatazes começam. Mário rejeita o aviso de Nolan até ver a
+execução e a matança; então entende que Kate organizou os convertidos para
+transformá-los em rebeldes. Essa descoberta prepara a acusação que fará a ela
+durante o desabamento.
 
 o **A queda e a causa oculta (decisão do autor, 2026-10-11).** A violência se
 espalha e explosões começam a derrubar a Mina. A causa real é a ação dos
@@ -889,11 +894,15 @@ Alavrianos, mas ninguém a identifica nesse primeiro momento; a narrativa
 também não confirma a autoria ao leitor ainda. A janela até a revelação fica
 em aberto.
 
-o **A acusação e a defesa.** No caos, alguém acusa Kate de ter matado
-inocentes no processo. Ela responde irritada que não foi ela quem derrubou a
-Mina. Quem a acusa e a formulação exata ficam em aberto. A defesa nega a
-autoria da demolição, não o papel de Kate na captura, na execução pública nem
-no sinal que inicia os ataques.
+o **A acusação e a defesa.** Depois da execução e dos primeiros ataques, os
+primeiros abalos interrompem a percepção de Mário. Ele acusa Kate de ter
+matado inocentes no processo. Ela responde irritada que não foi ela quem
+derrubou a Mina, mas a queda invade a troca antes que a defesa se complete.
+A resposta nega a autoria da demolição, não o papel de Kate na captura, na
+execução pública nem no sinal que inicia os ataques. Mário reage ao colapso
+em curso, e essa reação fecha seu capítulo; Nolan começa no depois, diante da
+ruína. A acusação é a última decisão moral de Mário antes de a Mina deixar de
+permitir qualquer resposta.
 
 o **O custo (nota de bastidor, não narrar no PoV de Mário).** O discurso
 pacifista de Mário não impede o banho de sangue. Ele vê a família morrer

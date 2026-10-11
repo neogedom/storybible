@@ -1,5 +1,77 @@
 # Log de Atualizações
 
+## 2026-10-11 (lote anti-slop 29–33 e decisões do bloco da Mina)
+
+- **Anti-slop aplicado a pedido do autor** nos caps. 29–33, com nove cirurgias
+  locais. Sem reescrita de cena, alteração de POV/canon, passe gramatical ou
+  edição das quatro notas `(* ... *)` mantidas no cap. 32. A chamada do agente
+  especializado falhou; o passe foi concluído manualmente.
+- **Contagem F13:** "como se/como quem" antes do passe: 15/8/8/6/1
+  (caps. 29–33); depois, 15/8/8/5/1. As comparações restantes foram mantidas
+  quando carregavam ação, voz ou regra de mundo. Ver `conceitos/checklist-capitulo.md`.
+- **Mapa da Mina:** o batismo permanece no assentamento, no cap. 34; a
+  tempestade de quartzo saiu do L1; Etemenanki fica num túnel no cap. 37.
+  Mathias acompanha Nolan e o protege dentro da Mina; reencontro, forma de
+  proteção e extração ainda estão em aberto.
+- **Conhecimento e acusação:** Mário rejeita o aviso de Nolan, mas, depois da
+  execução dos Uorier e dos ataques, entende que Kate organizou os convertidos
+  para a revolta. Durante o desabamento, ele a acusa de matar inocentes; Kate
+  nega ter derrubado a Mina, sem negar a própria participação na captura,
+  execução e sinal. A autoria alavriana permanece oculta no primeiro momento.
+- **Rampillas:** 6 com Nolan e 4 em rota separada continua proposta, não canon;
+  a divisão 4/6 do mapa não mudou. Triagem de entrada, identidade/acesso da
+  fonte interna, extração e formulação exata da acusação seguem pendentes. A
+  posição da preparação e da explicação das galerias também fica em aberto:
+  o mapa atual as mantém no cap. 37, não no 36.
+- **Checkpoint:** este passe cobre apenas o anti-slop solicitado. O checkpoint
+  completo de beat ainda não rodou; densidade e passe de fechos seguem para
+  quando o cap. 34 fechar.
+
+## 2026-10-11 (arquitetura de compressão antes da queda da Mina)
+
+- **Cap. 36:** a explicação das galerias foi movida para este capítulo. Um
+  convertido apresenta a triagem, os setores e as rotas de trabalho por uma
+  necessidade prática de Mário. A informação não resolve a entrada; Mário
+  precisa escolher como atravessar a vigilância. O capítulo fecha nessa escolha
+  operacional e emenda diretamente ao cap. 37.
+- **Cap. 37:** permanece no PoV de Mário e não deve ser comprimido ao mesmo
+  nível dos capítulos de véspera. Ele precisa comportar entrada, pregação,
+  Etemenanki, aviso de Nolan, execução dos Uorier, revolta, acusação e início
+  da queda.
+- **Ritmo 34–38:** caps. 34, 35 e 36 serão curtos, com funções distintas
+  (rito e decisão; formatura violenta; preparação e triagem). O cap. 37 será
+  mais amplo, mas com movimentos internos rápidos; o cap. 38 permanece como
+  coda curta de Nolan. A compressão significa perda progressiva de margem de
+  escolha, não corte de percepção ou consequência.
+- **Pregações:** o batismo do cap. 34 permanece no assentamento. A pregação
+  da Mina não repete o rito: trata da dívida e do trabalho, interrompida pelo
+  ambiente e pela violência.
+
+## 2026-10-11 (ordem da acusação e insight de compressão)
+
+- **Ordem fechada para a Mina:** execução e ataques; primeiros abalos;
+  acusação de Mário a Kate; defesa irritada de Kate; queda plena. A acusação
+  nasce quando Mário entende o que os convertidos fizeram, antes de a Mina
+  colapsar por completo. A troca é a última decisão moral dele antes de perder
+  a possibilidade de resposta.
+- **Insight amarelo registrado:** capítulos curtos e alternância de PoV podem
+  comprimir a margem de escolha antes de grandes viradas, mas não devem virar
+  fórmula. A hipótese será testada primeiro na Mina e só poderá orientar
+  mudanças para frente; não reabre retroativamente a ressurreição de Saboc ou
+  a queima de Saramant.
+- **Plantio de Uorier:** o cap. 14 agora o menciona na reunião do Conselho,
+  pela boca de Koda, como administrador da Mina que informa a queda da
+  produção e pede mais homens para manter a cota. A menção é burocrática e
+  funcional; não será repetida no cap. 0 para evitar sinalização excessiva.
+
+## 2026-10-11 (fecho do capítulo de Mário na queda)
+
+- **Ordem refinada:** a acusação começa quando surgem os primeiros abalos.
+  Kate inicia a defesa, mas a queda invade e interrompe a troca. A reação de
+  Mário ao colapso fecha o capítulo dele; Nolan começa no depois, diante da
+  ruína. Assim, preserva-se o fecho forte da queda sem transformar a acusação
+  em uma fala perdida durante o caos.
+
 ## 2026-10-09 (comentários aplicados no cap. 33 — Nolan, "A Mina como lugar")
 
 - **Os 11 comentários `(* ... )` foram resolvidos e removidos** de

@@ -91,8 +91,12 @@ Consequências travadas:
   achar.
 - **A ironia inteira do Ponto Central:** a libertação que o Mário fez abre a
   porta para quem quer enterrar todo mundo.
-- **A sequência planejada pelo autor (2026-10-10):** um convertido que
-  conhece a Mina explica as galerias a Mário; Mário entra e prega nos túneis.
+- **A sequência planejada pelo autor (2026-10-11):** no cap. 36, um convertido
+  que conhece a Mina explica a Mário a triagem, os setores e as rotas de
+  trabalho. A explicação não resolve a entrada: Mário precisa escolher como
+  atravessar a vigilância. No cap. 37, ele entra e prega nos túneis. A
+  pregação não repete o batismo do cap. 34: ali nasce pertencimento; aqui a
+  palavra colide com dívida, trabalho e violência.
   No percurso por um dos túneis, ele encontra a inscrição de Etemenanki
   (semente #25): zigurate em alto-relevo, serpente alada e nome cuneiforme.
   Enquanto isso, Kate usa a ronda de proteção como desculpa para se afastar e
@@ -108,11 +112,14 @@ Consequências travadas:
   lugar definido. A revolta abre caminho para os infiltrados nas galerias;
   guarnição e escravos ficam dentro, o arraial é coberto de pó. **A Mina morre
   como lugar.**
-- **A acusação a Kate (decisão do autor, 2026-10-11):** enquanto a autoria da
-  demolição é desconhecida, alguém a acusa de ter matado inocentes no
-  processo. Ela responde irritada que não foi ela quem derrubou a Mina. Quem
-  acusa e a frase exata seguem em aberto. A resposta não apaga a participação
-  dela na captura, na execução dos Uorier nem no sinal para os ataques.
+- **A acusação a Kate (decisão do autor, 2026-10-11):** ao ver a execução e
+  os ataques, Mário entende que Kate organizou os convertidos para
+  transformá-los em rebeldes. Os primeiros abalos começam durante a
+  acusação: ele a acusa de ter matado inocentes, e ela responde irritada que
+  não foi ela quem derrubou a Mina. A queda interrompe a defesa antes que ela
+  se complete. A resposta não apaga a participação dela na captura, na
+  execução dos Uorier nem no sinal para os ataques. Mário reage ao colapso em
+  curso; essa reação fecha seu capítulo, e Nolan começa no depois.
 - **A família de Uorier:** esposa e duas filhas pequenas, mostradas antes da
   queda no cap. 33. A violência contra elas permanece fora de descrição
   gráfica; o que importa é a morte pública e a consequência para Mário e Kate.
@@ -127,8 +134,8 @@ Consequências travadas:
   ⚠️ **É a peça que o Nolan pode pôr na frente dele depois**, sem inventar uma
   palavra (ver `decisoes/jornada-nolan-acre-2026-10-03.md`, §13).
 - ⚠️ **A ordem importa:** o leitor viu o treino (cap. 32) e a formatura dos
-  rampillas (cap. 35). O Mário viu **nada**. Quando ele finalmente entende, ele
-  é o último da sala — e é por isso que dói.
+  rampillas (cap. 35). Mário não viu nenhum dos dois. Só entende na Mina,
+  diante da execução e dos ataques; é o último da sala, e é por isso que dói.
 
 ## Depois (cap. 38)
 

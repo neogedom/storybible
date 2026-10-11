@@ -165,7 +165,9 @@ nasce depois, na Cidadela de Gus").
 
 > **Decisão do autor (2026-10-11):** a autoria alavriana da demolição fica
 > oculta no começo, tanto para as personagens quanto para o leitor. A
-> acusação a Kate e sua resposta irritada acontecem antes de a causa real ser
+> acusação a Kate começa quando surgem os primeiros abalos; a resposta
+> irritada dela é interrompida pela queda em curso. Mário reage ao colapso e
+> fecha seu capítulo; Nolan começa no depois. A causa real ainda não é
 > revelada. Nolan pode estranhar a escala da destruição, mas não identifica
 > Alavria nessa primeira leitura. O momento da revelação permanece aberto.
 

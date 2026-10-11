@@ -186,6 +186,15 @@ Confira o ritmo esperado na tabela abaixo. O capítulo está alinhado?
 - [ ] Teste de boca: ler em voz alta (ou gerar áudio). Se soa locução, reescrever
 - [ ] Falsos positivos preservados: "formigamento nas mãos" (Kate = semente #11); ecos de canon e set pieces de personagem (o debate do cap. 26) não são tique por si
 
+**Achado do lote 29–33 (2026-10-11):** contagem bruta no texto completo de
+"como se/como quem" (caps. 29–33): 15/8/8/6/1. O número não basta para cortar:
+comparações ligadas ao corpo,
+à voz dos personagens e à mecânica dos Moribundos foram preservadas. No cap. 32,
+caiu o "como se a decisão..." porque o gesto já mostrava a continuidade do
+trabalho. Também renderam cortes a ironia repetida antes de Nolan pagar pela
+informação e a explicação de que o vendedor não fez cerimônia, já mostrada pela
+ação.
+
 ---
 
 ## Tabela de Funções por Beat (referência)
