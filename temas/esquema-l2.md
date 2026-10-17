@@ -28,8 +28,8 @@ disfarçado de responsabilidade.
 - Hereges, lobisomens e vampiros começam a ser intimidados legalmente
 - Casamento Mário + Kate. Ela nota: sussurros não falam mais do "Deus
   Desconhecido", mas do medo do "Imperador"
-- **Gravidez de Kate — os gêmeos Bernardo e Stella (canon 2026-08-10; ver
-  semente #11).** A lâmina desacelera: ela escolhe a vida.
+- **Gravidez de Kate — os gêmeos Bernardo e Stella (canon 2026-08-10; ver semente #11).** A lâmina desacelera: ela escolhe a vida.
+- **Saboc na corte (canon 2026-10-17):** Saboc cresce no palácio da Metrópole junto aos gêmeos Bernardo e Stella. Sendo alguns anos mais velho (11-13 anos ao longo do L2), torna-se o amigo leal e protetor fraternal dos filhos de Mário e Kate.
 - **Primeira semente do Remanescente**: Lupe'i observa a virada. Piet minimiza.
 
 ## STC: Catalisador (O Sussurro Burocrático)
@@ -93,6 +93,14 @@ Mário parte peregrino. Gunad toca o hino. A fé sobrevive independente do
 poder. **Mário deixa os gêmeos com o Remanescente — recusa entregar a
 instituição corrompida aos herdeiros: dá os filhos à fé, não ao poder**
 (canon 2026-08-10; gancho L3: Bernardo e Stella crescem no Remanescente).
+
+**A Sucessão do Trono Civil (canon 2026-10-17):**
+O trono temporal é assumido por **Saboc** (herdeiro Guenayer-Addorbek).
+A ironia temática fecha o arco de Nolan: Nolan conspirou a vida inteira
+para colocar sua linhagem no poder, mas a coroa chega a Saboc pela graça
+do milagre de Mário (cap. 20 do L1), e não pelo pacto sujo de Nolan com Terbs.
+Saboc assume a reconstrução secular do reino como estadista justo e
+protetor silencioso dos amigos de infância, Bernardo e Stella.
 
 ## Conexões
 

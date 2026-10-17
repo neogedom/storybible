@@ -1,5 +1,20 @@
 # Log de Atualizações
 
+## 2026-10-17 (Planejamento do Bloco da Cidadela de Gus — Caps. 40 a 44 e Canon de Saboc)
+
+- **Mapeamento fechado do bloco Vilões se Aproximam (Caps. 40–44):**
+  - **Cap. 40 (Mário):** Fuga fria após o massacre da Mina; chegada à Cidadela de Gus; reencontro com Decian (curandeiro com ervas); notícia de que Kenod morreu e Charles assumiu a alcateia.
+  - **Cap. 41 (Nolan):** Nolan em Gus sem autoridade formal; inteligência de que Saramant entrou em anarquia sob o comando de Estruzzo; descoberta dos editais de Genocydo/Benjamim cedendo o norte aos Clãs de Sangue; decisão de intervir com custódia formal ("prende-se, vivo").
+  - **Cap. 42 (Kate):** Kate busca refúgio no corpo de Lakand e é recusada com lucidez ("Saramant virou cinza; você só quer esquecer o que fez o forasteiro ver"); na Academia dos Artífices, um mestre hegraliano formula sua hipótese teórica sobre deuses finitos e forças cósmicas; Mário revela discretamente sua origem de outro mundo (estrelas desconhecidas); Mário liga os pontos de Hícse ao sonho do cap. 1; Kate sofre o choque somático ao descobrir que libertou Hícse ao matar Gaviorn'l; alarme do cerco.
+  - **Cap. 43 (Mário):** Invasão e cerco de Gus; confronto com Nolan e a folha ensanguentada de Uorier; decisão proativa de Mário de se entregar para evitar novo massacre; lavratura do auto de custódia.
+  - **Cap. 44 (Kate):** Clãs de Sangue atropelam os papéis de Nolan e arrastam Mário acorrentado para Genocydo na Metrópole; Nolan foge derrotado para a capital; virada interior de Kate (resgate de Mário como único objetivo).
+- **Canon de Saboc (L1 e L2):**
+  - Criada ficha canônica `personagens/saboc.md`.
+  - Saboc não é criança mágica; manifesta densidade ontológica e quietude atípica da ressurreição (respiração limpa, atração de animais/crianças, sem choro ruidoso).
+  - No L2: cresce na corte da Metrópole junto aos gêmeos Bernardo e Stella como amigo leal e protetor fraternal; une o sangue Guenayer e Addorbek; assume o trono temporal/civil quando Mário abdica da coroa, fechando a ironia do arco de Nolan (sua linhagem herda a governança pelo milagre da graça de Mário, e não pelo pacto com Terbs).
+- **Arquivos atualizados:** `lugares/cidadela-de-gus.md`, `temas/esquema-l1.md`, `temas/esquema-l2.md`, `temas/sementes.md` (sementes #18, #26, #27), `personagens/decian.md`, `personagens/saboc.md`.
+
+
 ## 2026-10-11 (Mini-INGEST do cap. 33 — Nolan, "A Mina como lugar")
 
 - **Esta ingestão substitui o registro do rascunho de 2026-10-07** (454

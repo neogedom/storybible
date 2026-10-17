@@ -992,29 +992,41 @@ o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas*
 
 ---
 
-## Esboço — Vilões se Aproximam (~55-75%)
+## Vilões se Aproximam (~68-75%) — O Bloco da Cidadela de Gus
 
-Mário sofre pressão interna (dúvida sobre sua liderança) e externa (caçadores de recompensa e canibais da Sociedade dos Lâminas). Paralelamente, a morte de Gaviorn'l liberta Hícse, que confronta Terbs.
+> **Mapeamento Cap-a-Cap (canon 2026-10-17):** O bloco desenvolve a convergência de Mário, Kate e Nolan na Cidadela de Gus, o ataque dos Clãs de Sangue e a entrega de Mário.
 
-- **Acontecimentos:** Mário sofre pressão interna (dúvida sobre sua liderança) e externa (caçadores de recompensa e canibais da Sociedade dos Lâminas). Kate mata Gaviorn'l e liberta Hícse.
-- **Correção de Passividade:** Quando os mercenários atacam a cidadela de Gus, Mário toma a decisão proativa de **se entregar** para interromper a chacina. O sacrifício é uma ação, não uma derrota passiva.
-- **Nota de arco (oração sem submissão):** Mesmo nos momentos de entrega, Mário não ora para saber se é isso que Deus quer. Ele decide por conta própria e depois pede a Deus que abençoe a decisão dele. Quando ora, é para pedir que Deus faça o que Mário quer — não para pedir que Deus molde seu coração. A submissão verdadeira só virá na Noite Escura da Alma.
+#### Capítulo 40 (PoV de Mário) — A Fenda e o Acolhimento
+- **Abertura:** Descida exaustiva pela ravina norte pós-desabamento da Mina. Frieza e silêncio de Mário em relação a Kate; ele recusa ajuda e alimento dela, repulsado por ter sido usado como cortina para o massacre da família de Uorier.
+- **Chegada à Cidadela de Gus:** Mário testemunha a única terra desenvolvida fora da Metrópole onde humanos e leviantares convivem nas mesmas ruas sem ferros da Segregação.
+- **Reencontro com Decian:** Decian, fugitivo como curandeiro de ervas em Gus, trata os ferimentos de Mário e traz notícias da alcateia: Kenod morreu no colapso pós-massacre e Charles assumiu o bando para caçar a recompensa do Trono.
+- **Fecho:** Mário isolado na oficina, oprimido pela culpa e incapaz de orar. Corte C.
 
-### Cenas principais
+#### Capítulo 41 (PoV de Nolan) — O Juiz na Cidade dos Proscritos
+- **Abertura:** Nolan e Mathias entram clandestinamente em Gus. Nolan oculta insígnias (é desafeto jurado por ter expulsado os mestres no cap. 7).
+- **Inteligência de fronteira:** Nolan descobre que Saramant entrou em anarquia com a ascensão violenta do capitão Estruzzo após a morte de Gaviorn'l.
+- **A ameaça canibal:** Nolan intercepta ordens do Trono: Genocydo e Benjamim concederam províncias e a Mina aos Clãs de Sangue (cultuadores de Hícse) para capturar o Souhma. Nolan decide usar a custódia formal ("prende-se, vivo") para impedir que os canibais queimem a cidade.
+- **Fecho:** Nolan localiza a trilha de Mário em direção à Academia dos Artífices; batedores inimigos no horizonte. Corte B.
 
-Nolan chega na Metrópole e vê o Rei sentindo o baque da conversão de muitos ao cristianismo. Genocydo convoca uma reunião desesperada, aumenta a recompensa.
+#### Capítulo 42 (PoV de Kate) — A Fome da Deusa e os Artífices
+- **O passado de Saramant:** À noite, rejeitada pela distância de Mário e assustada com a brasa somática, Kate procura Lakand na palha buscando o refúgio do familiar e da "carne quente" do passado. Lakand a recusa com lucidez afiada: "Você não me quer, Kate; você só quer esquecer o que fez o forasteiro ver. Saramant virou cinza; não tem caverna pra onde voltar."
+- **A hipótese hegraliana:** Na Academia dos Artífices, um mestre partilha sua hipótese não comprovada: os deuses de Ornick são forças cósmicas imensas domesticadas por mitos sacerdotais, e os editais de concessão a canibais repetem ritos da Guerra Milenar.
+- **As estrelas de fora:** Mário reage à hipótese revelando discretamente em particular que veio de outro mundo (estrelas desconhecidas), corroborando que Ornick não é a medida do cosmos.
+- **O choque de Hícse:** Ao ouvir o nome de Hícse associado aos ritos de sangue, Mário conecta com o sonho primordial (cap. 1); Kate sofre o choque somático ao perceber que sua mão libertou a deusa ao matar Gaviorn'l.
+- **Fecho:** Alarme geral: os Clãs de Sangue iniciam o cerco a Gus. Corte D.
 
-Mário festeja com os seus, mas se desconsola com a violência. Kate tenta seduzi-lo; a Voz o atormenta. Ele a abandona no meio do ato.
+#### Capítulo 43 (PoV de Mário) — O Preço da Cidade
+- **Ataque e pânico:** Paliçadas de Gus sob fogo dos mercenários e Clãs de Sangue.
+- **Confronto com Nolan:** Nolan surge na oficina e apresenta a folha ensanguentada do livro de Uorier: "Ela te usou. Se você ficar, os canibais queimarão Gus inteira." Kate avança com a lâmina; Mário intervém.
+- **Decisão proativa de Mário (Ação, não derrota):** Mário recusa novo massacre em seu nome e decide se entregar voluntariamente a Nolan: "Se você tem o mandado da Metrópole, cumpra. Eu me entrego."
+- **A custódia:** Nolan coloca os ferros nos pulsos de Mário e lavra o auto de custódia civil.
+- **Fecho:** O portão de Gus cede; guerreiros canibais invadem o pátio. Corte A.
 
-Kate, desprezada, considera matar Mário a conselho de Lakand — mas desiste na última hora e o protege.
-
-Gaviorn'l confronta Kate por deserção. Ela o mata. **Hícse desperta** e confronta Terbs.
-
-Ataque combinado de vampiros e lobisomens. Nolan descobre que Genocydo cedeu a Mina aos Clãs de Sangue (canibais que cultuam Hícse).
-
-Mário decide se entregar para salvar a cidadela de Gus. É levado pelos Clãs — quase canibalizado — que acabam por **entregá-lo a Genocydo** (canon 2026-09-05).
-
-Nolan, Kate e Lakand bolam resgate. Nolan sofre chibatadas dos humanos cristianizados. ⚠️ Reconciliar com o canon 2026-09-05: o resgate é uma tentativa que falha (destino: o Caixão na Metrópole) ou é absorvido pela incursão final de Kate — a definir.
+#### Capítulo 44 (PoV de Kate) — A Cinza de Gus e a Perda
+- **A perda da custódia:** Os Clãs de Sangue zombam da burocracia de Nolan, subjugam Mathias e arrancam Mário acorrentado para levá-lo diretamente a Genocydo na Metrópole (canon 2026-09-05).
+- **O destino de Nolan:** Nolan foge despojado rumo à Metrópole (onde cobrará Nuh d'Teraghar no Templo e a linha da vembra o alcançará).
+- **Virada interior de Kate:** A culpa pelo sacrifício de Mário atinge Kate no osso. O plano de comandar uma guerra desmorona; seu foco vira unicamente resgatar Mário na Metrópole.
+- **Fecho:** A poeira da estrada do sul; Kate e Lakand partem no encalço de Mário. Corte D.
 
 ---
 

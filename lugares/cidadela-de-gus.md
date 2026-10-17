@@ -51,34 +51,39 @@ naquela rua** (ver `decisoes/jornada-nolan-acre-2026-10-03.md`, §11).
     outro, e entram nas galerias da Mina sem escolta e sem revista. É por
     onde a implosão acontece.
 
-## O que acontece lá (o bloco — a mapear)
+## O que acontece lá (Roteiro dos Capítulos 40 a 44 — canon 2026-10-17)
 
-> ⚠️ **Pendência:** o bloco da Cidadela de Gus **nunca foi mapeado capítulo a
-> capítulo**. O que segue são as peças já decididas, sem divisão em capítulos.
+O bloco da Cidadela de Gus fecha o estágio **Vilões se Aproximam (~68% a ~75% STC)** e prepara a transição para **Tudo Está Perdido**:
 
-1. **A Kate chega** — sem base na Mina (é isso que a empurra para Gus: o
-   exército dela nasce aqui, não lá).
-2. **A revelação dela:** ela descobre, em Gus, que a mão dela **soltou a
-   Hícse** — e que aquilo moveu o mundo
-   (`decisoes/gaviornl-morte-antecipada-hicse.md`). O Mário liga, no mesmo
-   lugar, **sonho + Moribundos + Hícse** (semente #5 fecha a conta).
-3. **O ataque.** Os **Clãs de Sangue** vêm sobre a cidadela — com a
-   concessão da Mina nas mãos (Benjamim convence Genocydo a cedê-la). Mário
-   **se entrega para deter a chacina** — ação, não derrota.
-4. **A custódia.** Mário se entrega **a Nolan**, que para o ataque com papel:
-   toma o homem em custódia ("prende-se, vivo"), põe a mão no dinheiro (a
-   soma só se paga com **assentamento**) e transforma o ataque em processo.
-   **Ele sai da moita sozinho, sem guarda, na cidade que ele perseguiu.**
-5. **A perda.** Nolan **perde o homem** para a força dos Clãs — no norte,
-   quem manda é quem tem a concessão. E são os Clãs que **entregam Mário a
-   Genocydo** (canon 2026-09-05: sem mediação dos Inquiridores).
-6. **O preço de Nolan:** ele queima o esconderijo — o Reino, o Conselho e o
-   Templo passam a saber que o Juiz está no norte com o fugitivo na mão, sem
-   autorização.
+1. **Capítulo 40 (PoV de Mário) — A Fenda e o Acolhimento:**
+   - Fuga pela ravina norte. A frieza e o silêncio de Mário em relação a Kate por ter usado sua palavra como cortina de fumaça para a degola das filhas de Uorier.
+   - Chegada à Cidadela de Gus: o contraste de humanos e leviantares convivendo sem correntes na rua.
+   - Reencontro com **Decian**, foragido como curandeiro de ervas. Decian cuida dos ferimentos de Mário e traz notícias do sul: Kenod morreu e Charles assumiu os remanescentes da alcateia para caçar a recompensa.
 
-**Fio que continua depois:** é essa perda que leva Nolan a **descer à
-Metrópole** e, no fundo do poço, a levar **água e comida ao calabouço** (Noite
-Escura) — e é lá que o enforcamento de Juleen acontece, em paralelo ao Caixão.
+2. **Capítulo 41 (PoV de Nolan) — O Juiz na Cidade dos Proscritos:**
+   - Nolan entra em Gus como desafeto clandestino, sem escolta militar além de Mathias.
+   - Nolan investiga os boatos de fronteira: Saramant caiu em desordem sob a chefia violenta do capitão Estruzzo (após a morte de Gaviorn'l).
+   - Nolan descobre a manobra suja de Genocydo e Benjamim: cederam direitos do norte e minas aos **Clãs de Sangue** (canibais que veneram Hícse) para capturar o Souhma. Nolan decide intervir com custódia formal ("prende-se, vivo") antes que a barbárie queime a cidade.
+
+3. **Capítulo 42 (PoV de Kate) — A Fome da Deusa e os Artífices:**
+   - Kate procura Lakand à noite buscando o refúgio da "carne quente" e do passado familiar de Saramant; Lakand a rejeita com sobriedade ("não tem caverna pra onde voltar; você só quer esquecer o que fez o forasteiro ver").
+   - Na Academia dos Artífices, um acadêmico hegraliano partilha sua hipótese teórica: os deuses de Ornick são forças cósmicas imensas e silenciosas domesticadas por mitos sacerdotais, não criadores morais. Ele estranha os editais do Templo cedendo terras a canibais.
+   - Mário reage à hipótese revelando discretamente que veio de outro mundo (estrelas desconhecidas), confirmando que a realidade não termina em Ornick.
+   - Ao ouvir os relatos dos editais e os nomes dos cultos de sangue, Mário liga o sonho de Hícse (cap. 1) e os Moribundos (cap. 29); Kate sofre o choque somático ao descobrir que sua mão libertou Hícse ao matar Gaviorn'l.
+   - Os sinos de Gus tocam o alarme: cerco dos Clãs de Sangue.
+
+4. **Capítulo 43 (PoV de Mário) — O Preço da Cidade:**
+   - Cerco e invasão das paliçadas externas de Gus. Pânico na cidade.
+   - Nolan confronta Mário na oficina com a folha ensanguentada do livro de Uorier: "Ela te usou para degolar crianças. Se você ficar, queimarão Gus inteira."
+   - Kate saca a faca; Mário intervém. **Decisão proativa de Mário:** entrega-se voluntariamente a Nolan para poupar a Cidadela da chacina.
+   - Nolan redige o auto de custódia formal nos pulsos de Mário.
+
+5. **Capítulo 44 (PoV de Kate) — A Cinza de Gus e a Perda:**
+   - Os Clãs de Sangue rompem as defesas e zombam dos papéis de Nolan. Subjugam Mathias e tomam Mário à força para entregá-lo diretamente a Genocydo na Metrópole (canon 2026-09-05).
+   - Nolan foge humilhado rumo à Metrópole (onde cobrará Nuh d'Teraghar no Templo e a linha da vembra o aguardará).
+   - Kate vive a virada interior (`insights/kate-prioriza-mario-apos-gus.md`): a culpa pelo sacrifício de Mário desmonta seu ímpeto de guerra; sua única meta passa a ser resgatá-lo na capital.
+
+**Fio que continua depois:** É essa perda que leva Nolan a descer à Metrópole e, no fundo do poço, a levar água e comida ao calabouço (Noite Escura) — e é lá que o enforcamento de Juleen acontece, em paralelo ao Caixão.
 
 ## Disciplinas de escrita
 

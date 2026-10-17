@@ -435,13 +435,13 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 18. Estruzzo — a liderança gornad após Gaviorn'l
 
-- **Fato (canon 2026-08-15)**: quando Gaviorn'l morrer (clímax do L1),
-  **Estruzzo** assume a liderança dos gornads.
-- **Necessidade de presença**: Estruzzo aparece só no cap. 12 — precisa de
-  mais caracterização (voz fixada no cap. 12; presença no fim de jogo do L1)
-  para que a transição de liderança aterre no leitor.
-- **Germinação**: L2 — Estruzzo como líder gornad (e sua relação com o que
-  restou da Hoste/vagas de Gaviorn'l).
+- **Fato (canon 2026-08-15)**: após a morte de Gaviorn'l (cap. 30),
+  **Estruzzo** assume a liderança dos gornads de Saramant.
+- **Necessidade de presença**: Estruzzo aparece no cap. 12 (onde Kate cravou a
+  adaga em seu olho). A notícia de que o capitão brutal tomou o bando após a queda
+  do lorde chega a Nolan em Gus (cap. 41) como inteligência de fronteira, e Kate
+  reconhece o nome do carrasco que ela mesma cegou.
+- **Germinação**: L2 — Estruzzo como líder gornad e comandante da infantaria brutal.
 
 ## 19. A Ferida que Não Cobrou
 
@@ -637,3 +637,15 @@ _Atualizar a cada INGEST de capítulo._
   comum durante a marcha. Não parar a cena para explicar a ligação com
   Marduk.
 - **Conexões:** `conceitos/marduk.md`; `lugares/mina-de-quartzo.md`.
+
+## 26. Saboc — A Sucessão do Trono Civil e a Amizade com os Gêmeos (canon 2026-10-17)
+
+- **Plantio:** L1, caps. 4, 19, 20 e 22 (a ressurreição na cela; o filho de Nolan e Dagmar que une as linhagens Guenayer e Addorbek).
+- **Desenvolvimento no L2:** Saboc cresce na corte da Metrópole junto aos filhos de Mário e Kate (os gêmeos Bernardo e Stella). Sendo alguns anos mais velho (11-13 anos), torna-se amigo leal e protetor fraternal deles.
+- **Germinação / Payoff:** No final do L2, Mário abdica do trono temporal para seguir como peregrino e recusa coroar seus filhos na corte corrompida (entregando-os à fé do Remanescente). O trono secular é assumido por Saboc. A ironia fecha a ambição de Nolan: sua linhagem governa a Metrópole não pelo pacto sujo com Terbs, mas porque Mário ressuscitou Saboc por pura graça anos antes em Saramant.
+
+## 27. O Destino dos Inquiridores e o Sinal Cego (canon 2026-10-17)
+
+- **Plantio:** L1, caps. 27, 28 e 30 (o combate na bacia, a recusa do escriba a Nolan, e a morte do Inquiridor da cicatriz por Gaviorn'l).
+- **Payoff no L1 (Ato 3):** No retorno de Nolan à Metrópole, ele confronta o Sumo Sacerdote Nuh d'Teraghar no Templo de Vonos para cobrar a autoridade negada. Nuh revela que a patrulha voltou do sul derrotada, o líder morreu, o Sinal no Monólito perdeu a calibração de busca e o relatório acusa que uma caçadora ferida por lâmina de ofício não apodreceu.
+- **Germinação:** L2 — A Ordem dos Inquiridores opera sem eixo até recrutar Charles ("Cão da Inquisição") para caçar a anomalia de Kate.
