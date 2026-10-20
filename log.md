@@ -1,5 +1,16 @@
 # Log de Atualizações
 
+## 2026-10-19 (Escrita dos Capítulos 40 a 44 — O Bloco da Cidadela de Gus)
+
+- **Manuscritos criados em `Livro 1/`:**
+  - `capitulo40.md` (PoV Mário — 2.074 palavras): Fuga fria pela ravina norte; chegada a Gus; reencontro com Decian (tratamento com ervas); notícia da morte de Kenod e liderança de Charles.
+  - `capitulo41.md` (PoV Nolan — 1.281 palavras): Entrada clandestina em Gus; inteligência sobre Estruzzo liderando os gornads; descoberta da concessão de terras aos Clãs de Sangue; decisão da custódia formal.
+  - `capitulo42.md` (PoV Kate — 1.605 palavras): Kate procura Lakand na palha e é recusada; diálogo na Academia dos Artífices sobre a hipótese de deuses finitos; Mário revela que é de outro mundo; choque somático de Hícse; alarme de cerco.
+  - `capitulo43.md` (PoV Mário — 1.443 palavras): Invasão de Gus; confronto de Nolan com as folhas de Uorier; decisão proativa de Mário de se entregar para poupar a cidade; lavratura dos grilhões e queda dos portões.
+  - `capitulo44.md` (PoV Kate — 1.381 palavras): Clãs de Sangue subjugam a burocracia de Nolan e levam Mário; Nolan foge para a capital; virada interior de Kate desarmando o ímpeto de guerra e focando no resgate de Mário.
+- **Volume total do bloco:** 7.784 palavras escritas, sem marcação markdown no texto, com travessões exclusivos em diálogos e pensamentos em aspas duplas.
+- **Transição de arco:** O beat **Vilões se Aproximam (~68-75%)** está completamente concluído na prosa. A narrativa atinge o limiar exato de **Tudo Está Perdido (~75%)** (Capítulo 45: Mário na Metrópole diante do Caixão de Tortura).
+
 ## 2026-10-17 (Planejamento do Bloco da Cidadela de Gus — Caps. 40 a 44 e Canon de Saboc)
 
 - **Mapeamento fechado do bloco Vilões se Aproximam (Caps. 40–44):**
