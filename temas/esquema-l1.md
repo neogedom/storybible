@@ -994,7 +994,7 @@ o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas*
 
 ## Vilões se Aproximam (~68-75%) — O Bloco da Cidadela de Gus
 
-> **Mapeamento Cap-a-Cap (canon 2026-10-17):** O bloco desenvolve a convergência de Mário, Kate e Nolan na Cidadela de Gus, o ataque dos Clãs de Sangue e a entrega de Mário.
+> **Mapeamento Cap-a-Cap (canon 2026-10-20):** O bloco desenvolve a convergência de Mário, Kate e Nolan na Cidadela de Gus, o interlúdio acadêmico, o ultimato de Estruzzo e dos Clãs de Sangue e a entrega sacrificial de Mário.
 
 #### Capítulo 40 (PoV de Mário) — A Fenda e o Acolhimento
 - **Abertura:** Descida exaustiva pela ravina norte pós-desabamento da Mina. Frieza e silêncio de Mário em relação a Kate; ele recusa ajuda e alimento dela, repulsado por ter sido usado como cortina para o massacre da família de Uorier.
@@ -1008,21 +1008,27 @@ o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas*
 - **A ameaça canibal:** Nolan intercepta ordens do Trono: Genocydo e Benjamim concederam províncias e a Mina aos Clãs de Sangue (cultuadores de Hícse) para capturar o Souhma. Nolan decide usar a custódia formal ("prende-se, vivo") para impedir que os canibais queimem a cidade.
 - **Fecho:** Nolan localiza a trilha de Mário em direção à Academia dos Artífices; batedores inimigos no horizonte. Corte B.
 
-#### Capítulo 42 (PoV de Kate) — A Fome da Deusa e os Artífices
-- **O passado de Saramant:** À noite, rejeitada pela distância de Mário e assustada com a brasa somática, Kate procura Lakand na palha buscando o refúgio do familiar e da "carne quente" do passado. Lakand a recusa com lucidez afiada: "Você não me quer, Kate; você só quer esquecer o que fez o forasteiro ver. Saramant virou cinza; não tem caverna pra onde voltar."
-- **A hipótese hegraliana:** Na Academia dos Artífices, um mestre partilha sua hipótese não comprovada: os deuses de Ornick são forças cósmicas imensas domesticadas por mitos sacerdotais, e os editais de concessão a canibais repetem ritos da Guerra Milenar.
-- **As estrelas de fora:** Mário reage à hipótese revelando discretamente em particular que veio de outro mundo (estrelas desconhecidas), corroborando que Ornick não é a medida do cosmos.
-- **O choque de Hícse:** Ao ouvir o nome de Hícse associado aos ritos de sangue, Mário conecta com o sonho primordial (cap. 1); Kate sofre o choque somático ao perceber que sua mão libertou a deusa ao matar Gaviorn'l.
-- **Fecho:** Alarme geral: os Clãs de Sangue iniciam o cerco a Gus. Corte D.
+#### Capítulo 42 (PoV de Mário) — A Cátedra dos Proscritos
+- **Worldbuilding de Gus e Vitysh:** O dia a dia da Cidadela e o legado do Castelo do Saber (símbolos do esquadro, prumo e concha de água).
+- **A aula de geometria e forças:** Mário assiste a uma aula ministrada pelo mestre Orval. A identificação profunda de Mário com a vida acadêmica e o rigor do pensamento livre.
+- **A hipótese hegraliana:** Orval partilha a visão dos filósofos de Vitysh: os deuses do Limbo não criaram o mundo; são forças cósmicas imensas domesticadas por mitos sacerdotais para cobrar tributo.
+- **As estrelas desconhecidas:** Mário revela discretamente que suas estrelas natais não existem naquele céu, confirmando que Ornick é uma província cósmica aberta.
+- **A grande tentação:** Orval oferece a Mário uma cátedra formal na Academia de Gus — mesa, respeito, pão e segurança. Mário sente a tentação da fuga burguesa e compara o carinho dos homens com o silêncio austero e doloroso da Voz. Corte C.
 
-#### Capítulo 43 (PoV de Mário) — O Preço da Cidade
+#### Capítulo 43 (PoV de Kate) — O Rastro da Deusa
+- **A recusa de Lakand:** À noite, na estrebaria, Kate busca refúgio no corpo de Lakand para tentar fugir do olhar de Mário; Lakand a afasta com lucidez ("Saramant virou cinza; você só quer anestesiar a cara do forasteiro").
+- **Estruzzo das sombras:** Na muralha norte, o ar congela e Estruzzo se materializa da escuridão. O gornad tripudia sarcasticamente sobre a morte de Gaviorn'l ("vim te agradecer por abrir o pescoço do velho e pôr a vara na minha mão").
+- **O ultimato de Terbs e o faro dos Clãs:** Estruzzo avisa que Terbs cedeu o vale para pagar a dívida da deusa que Kate soltou. Batedores canibais surgem nas frestas e farejam Kate, reconhecendo nela o cheiro e a brasa de Hícse ("A Senhora das Lâminas tá na carne dela!").
+- **Fecho:** Estruzzo evapora na sombra; o sino da torre soa o alarme geral de invasão. Corte D.
+
+#### Capítulo 44 (PoV de Mário) — O Preço da Cidade
 - **Ataque e pânico:** Paliçadas de Gus sob fogo dos mercenários e Clãs de Sangue.
 - **Confronto com Nolan:** Nolan surge na oficina e apresenta a folha ensanguentada do livro de Uorier: "Ela te usou. Se você ficar, os canibais queimarão Gus inteira." Kate avança com a lâmina; Mário intervém.
-- **Decisão proativa de Mário (Ação, não derrota):** Mário recusa novo massacre em seu nome e decide se entregar voluntariamente a Nolan: "Se você tem o mandado da Metrópole, cumpra. Eu me entrego."
+- **Decisão proativa de Mário (Renúncia e sacrifício):** Mário abre mão conscientemente da cátedra e da paz que acabara de receber para poupar a Cidadela da chacina. Entrega-se voluntariamente a Nolan: "Se você tem o mandado da Metrópole, cumpra. Eu me entrego."
 - **A custódia:** Nolan coloca os ferros nos pulsos de Mário e lavra o auto de custódia civil.
 - **Fecho:** O portão de Gus cede; guerreiros canibais invadem o pátio. Corte A.
 
-#### Capítulo 44 (PoV de Kate) — A Cinza de Gus e a Perda
+#### Capítulo 45 (PoV de Kate) — A Cinza de Gus e a Perda
 - **A perda da custódia:** Os Clãs de Sangue zombam da burocracia de Nolan, subjugam Mathias e arrancam Mário acorrentado para levá-lo diretamente a Genocydo na Metrópole (canon 2026-09-05).
 - **O destino de Nolan:** Nolan foge despojado rumo à Metrópole (onde cobrará Nuh d'Teraghar no Templo e a linha da vembra o alcançará).
 - **Virada interior de Kate:** A culpa pelo sacrifício de Mário atinge Kate no osso. O plano de comandar uma guerra desmorona; seu foco vira unicamente resgatar Mário na Metrópole.

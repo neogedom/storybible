@@ -1,5 +1,17 @@
 # Log de Atualizações
 
+## 2026-10-20 (Reestruturação do Bloco de Gus — Caps. 40 a 45: A Cátedra de Mário e Estruzzo das Sombras)
+
+- **Rebaseline estrutural do bloco Vilões se Aproximam (agora 6 capítulos: 40 a 45):**
+  - `capitulo40.md` (PoV Mário — 2.074 palavras): Fuga fria; chegada a Gus; acolhimento com Decian; notícias de Kenod e Charles.
+  - `capitulo41.md` (PoV Nolan — 1.422 palavras): Nolan clandestino em Gus; inteligência sobre Estruzzo liderando os gornads; observação da vida sem Segregação; editais do Trono concedendo terras aos Clãs de Sangue.
+  - `capitulo42.md` (PoV Mário — 2.035 palavras) [EXPANDIDO]: Imersão na Academia dos Artífices e legado de Vitysh; aula de geometria e forças com Orval; cartografia e geopolítica ampla de Ornick (Genësia, Velho Continente, Garyun, Sucontinente, Arquipélago do Fogo, Alavria, Rifte e Vitysh); Mário sem exemplar físico, guardando a palavra na memória; o grande projeto de Mário de ditar, registrar e imprimir as Escrituras em ornickenho para libertar o mundo do feitiço dos deuses; a advertência profética de Orval sobre os generais perverterem textos sagrados sob a sombra do trono (prenúncio do L2); a oferta formal da cátedra e a tentação da fuga burguesa diante do silêncio austero da Voz.
+  - `capitulo43.md` (PoV Kate — 1.584 palavras) [REESCRITO]: Kate procura Lakand na esteira e é recusada; Estruzzo materializa-se das sombras na paliçada com a órbita cega do cap. 12; agradece sarcasticamente a Kate por ter matado Gaviorn'l ("pôs a vara na minha mão"); ultimato em nome de Terbs; Clãs farejam o ar e reconhecem a brasa e o cheiro de Hícse em Kate; alarme geral.
+  - `capitulo44.md` (PoV Mário — 1.509 palavras) [REESCRITO]: Invasão das paliçadas; Nolan traz o livro ensanguentado de Uorier; Mário renuncia deliberadamente à cátedra e à segurança acadêmica para poupar a cidade; entrega voluntária a Nolan; Mathias fecha os grilhões; portões caem.
+  - `capitulo45.md` (PoV Kate — 1.381 palavras) [RENUMERADO]: Clãs de Sangue atropelam Nolan e levam Mário para a Metrópole; Nolan foge; virada de Kate (o resgate vira sua única missão).
+- **Volume total do bloco:** 9.645 palavras. Alternância perfeita de PoV: Mário (40) → Nolan (41) → Mário (42) → Kate (43) → Mário (44) → Kate (45).
+- **Storybible atualizada:** `temas/esquema-l1.md` e `lugares/cidadela-de-gus.md`.
+
 ## 2026-10-19 (Escrita dos Capítulos 40 a 44 — O Bloco da Cidadela de Gus)
 
 - **Manuscritos criados em `Livro 1/`:**
