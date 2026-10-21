@@ -22,6 +22,20 @@ Mário governa nos anos seguintes à queda de Genocydo. Não com prazer, mas
 porque "estava em suas mãos estabilizar Ornick" — o pecado do controle
 disfarçado de responsabilidade.
 
+- **O Rei Docente e as Leituras da Bíblia de Kraviam (canon 2026-10-21):**
+  Nos primeiros anos de reinado, Mário reúne um corpo seleto de eruditos da
+  Academia dos Artífices no palácio da Metrópole. Mário lê a Bíblia em
+  português deixada por Kraviam (Genocydo) e ensina a língua da Terra aos
+  acadêmicos. O povo e a corte passam a chamá-lo de **o Rei Docente**.
+  A intenção de Mário é nobre e puramente pedagógica: capacitar os eruditos
+  para operacionalizar a tradução das Escrituras para o ornickenho,
+  acreditando que a instrução e a verdade do Evangelho transformarão Ornick
+  sem armas.
+- **A Brecha da Tradução:**
+  Nolan e os burocratas do Estado acompanham o processo de perto. É a partir
+  dessa cátedra de tradução que Nolan explorará as ambiguidades do vocabulário
+  ornickenho para aparelhar as Escrituras a serviço da coerção imperial.
+
 ## STC: Tema Declarado (O Veneno das Escrituras)
 
 - Mário abole a escravatura. Cristianismo cresce, mas vira "a religião do Imperador"

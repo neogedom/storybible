@@ -649,3 +649,9 @@ _Atualizar a cada INGEST de capítulo._
 - **Plantio:** L1, caps. 27, 28 e 30 (o combate na bacia, a recusa do escriba a Nolan, e a morte do Inquiridor da cicatriz por Gaviorn'l).
 - **Payoff no L1 (Ato 3):** No retorno de Nolan à Metrópole, ele confronta o Sumo Sacerdote Nuh d'Teraghar no Templo de Vonos para cobrar a autoridade negada. Nuh revela que a patrulha voltou do sul derrotada, o líder morreu, o Sinal no Monólito perdeu a calibração de busca e o relatório acusa que uma caçadora ferida por lâmina de ofício não apodreceu.
 - **Germinação:** L2 — A Ordem dos Inquiridores opera sem eixo até recrutar Charles ("Cão da Inquisição") para caçar a anomalia de Kate.
+
+## 28. O Rei Docente e a Cátedra de Tradução da Bíblia de Kraviam (canon 2026-10-21)
+
+- **Plantio no L1:** Cap. 42 (Mário concebe na Academia de Gus o projeto civilizatório de traduzir a palavra divina para libertar os continentes de Ornick sem espadas; Orval faz o aviso profético sobre governantes perverterem textos sagrados sob a sombra do trono).
+- **Germinação no L2:** Na Configuração do L2, Mário assume a coroa e ganha a alcunha de **o Rei Docente**. Ele reúne os eruditos da Academia dos Artífices no palácio da Metrópole, lê em voz alta o exemplar da Bíblia deixado por Kraviam e ensina o português aos letrados para operacionalizarem a tradução das Escrituras para o ornickenho.
+- **Corrupção trágica:** O projeto pedagógico vira a porta de entrada para a Inquisição imperial: Nolan e os juristas usam a tradução para sacralizar as leis do Estado ("Espadas do Evangelho"), cumprindo o alerta de Orval.

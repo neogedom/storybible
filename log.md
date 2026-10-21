@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-10-21 (Semente do Rei Docente no L2 — A Cátedra de Tradução da Bíblia de Kraviam)
+
+- **Nova semente canônica L2 (#28):** Mário inicia o Livro 2 com a alcunha de **o Rei Docente**. No palácio da Metrópole, ele reúne os eruditos da Academia dos Artífices, lê o exemplar da Bíblia de Kraviam e ensina o português para que os letrados traduzam as Escrituras para o ornickenho. O projeto visa expandir o Evangelho pelos continentes de Ornick sem violência, mas serve de brecha para Nolan aparelhar as ambiguidades da tradução a serviço da coerção imperial ("Espadas do Evangelho"), cumprindo o alerta feito por Orval no cap. 42 do L1.
+- **Arquivos atualizados:** `temas/esquema-l2.md` e `temas/sementes.md`.
+
 ## 2026-10-20 (Reestruturação do Bloco de Gus — Caps. 40 a 45: A Cátedra de Mário e Estruzzo das Sombras)
 
 - **Rebaseline estrutural do bloco Vilões se Aproximam (agora 6 capítulos: 40 a 45):**
