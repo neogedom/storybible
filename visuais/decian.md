@@ -7,6 +7,17 @@ ultimo_capitulo: 19
 
 # Decian — Registro Visual
 
+## Capítulo 40 — A Fenda e o Acolhimento
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Forma      | Humana disfarçada (aspecto franzino de ajudante/jardineiro de Opium)    |
+| Roupas     | Túnica simples de estopa rústica manchada de terra seca                 |
+| Postura    | Ombros caídos, encurvado sobre feixes de ervas; agachado na terra batida cuidando de Mário |
+| Mãos       | Compridas, calmas, com cutículas impregnadas de resina verde-escura de ervas |
+| Expressão  | Sobressalto tímido ao reconhecer o forasteiro → mansidão humilde e cuidado fraterno |
+| Fundo      | Baia de secagem de ervas e alpendre de carpintaria na Cidadela de Gus   |
+
 ## Capítulo 19 (introdução)
 
 - **Forma**: Humana (não assume forma de lobisomem neste capítulo)

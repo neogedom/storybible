@@ -3,7 +3,11 @@
 ## 2026-10-23 (Revisão de Ponto de Vista e Sobrevivência — Caps. 34 e 40)
 
 - **`capitulo34.md` (Ajuste de sobrevivência material):** Inserido trecho após os batismos no assentamento onde as famílias de mineradores acolhem Mário com o pouco que têm: entregam-lhe uma camisa de estopa limpa e botas de couro duro (substituindo os trapos imundos arrastados desde a floresta), oferecem água limpa para lavar a fuligem e dividem mantimentos de carne-seca de carneiro e cevada tostada antes da subida à Mina.
-- **`capitulo40.md` (Revisão cirúrgica de PoV, consistência e eliminação de notas):**
+- **`capitulo40.md` (Mini-INGEST concluído):**
+  - Manuscrito finalizado com 2.177 palavras; contagem acumulada dos caps. 0–40 atinge 100.835 palavras (73,3% da régua de 137,5k).
+  - Criada ficha canônica `capitulos/capitulo-40.md`.
+  - Atualizados registros visuais em `visuais/mario.md`, `visuais/kate.md`, `visuais/lakand.md` e `visuais/decian.md`.
+  - Fronteira e fecho registrados: corte C (decisão/retenção); ponto de partida claro para o cap. 41 (POV Nolan clandestino em Gus).
   - Removida a menção a "pó de pólvora" na Mina (substituída pelo ar asfixiante de pedra moída).
   - Reconhecimento de Decian reancorado na memória de Opium: Mário o reconhece pela figura franzina do jardineiro de estopa e mãos de resina que ele vira na torre, e não por traços biológicos ostensivos de lobisomem (compatível com a transmorfia usada contra os vampiros no cap. 8).
   - Eliminada a fuga de PoV em Decian ("gravando o som estranho na memória"); o texto foca apenas no murmúrio audível de Decian repetindo o nome.

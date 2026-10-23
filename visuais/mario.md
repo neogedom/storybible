@@ -75,6 +75,19 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Iluminação | Antes da luz (madrugada); poeira da descarga suspensa no ar             |
 | Fundo      | Saída da fenda; mato alto ao lado do acampamento dos mercenários        |
 
+## Capítulo 40 — A Fenda e o Acolhimento
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Roupas     | Camisa áspera de estopa crua e calça de minerador (doação do cap. 34), cobertas de pó branco de quartzo e fuligem da Mina |
+| Calçados   | Botas de couro duro atadas com tiras de cânhamo, esfoladas no cascalho |
+| Ferimentos | Cortes finos nos nós dos dedos e punhos enfaixados por Decian; garganta inflamada pelo pó de quartzo |
+| Sujeira    | Crosta de pó e suor repuxando a testa; poeira branca nos cílios e cabelo |
+| Expressão  | Frieza gélida e repulsa moral (diante de Kate) → colapso de exaustão e vazio silencioso |
+| Postura    | Marcha cambaleante na descida → sentado no banco de tora da carpintaria com a nuca apoiada no adobe |
+| Iluminação | Sol cru do meio-dia no planalto → penumbra fresca do alpendre da carpintaria |
+| Fundo      | Ravina norte árida → terraços cultivados e praça de cantaria da Cidadela de Gus |
+
 ## Capítulo 26 — O Cerco
 
 | Atributo   | Estado                                                                 |

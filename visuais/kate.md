@@ -67,6 +67,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Iluminação | Antes da luz (madrugada); o escuro da fenda, depois o cinza do mato              |
 | Fundo      | Beira da água com os mercenários em fila, os cavalos sem sela, as três caixas; mato alto e moita fechada de galho morto. Na fila, **reconhece o homem do machado do cap. 26** pelo corte que ela mesma lhe abriu entre as costelas (plant do cap. 28 — 2026-09-20) |
 
+## Capítulo 40 — A Fenda e o Acolhimento
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Roupas     | Couro remendado de caçadora, manchado de fuligem e pó de quartzo da Mina |
+| Armas      | Faca de caça na coxa                                                   |
+| Ferimentos | Nenhum novo; respiração ritmada de marcha rápida                       |
+| Acessórios | Odre de couro resgatado da Mina                                        |
+| Expressão  | Queixo empinado e fúria defensiva ("Eu comprei a sua saída!") → frieza contida e solitária |
+| Postura    | Marcha dois passos à frente; bloqueia a trilha de pernas abertas; encostada no mourão da carpintaria com braços cruzados |
+| Fundo      | Descida da ravina norte → portões de carvalho e oficinas de Gus        |
+
 ## Capítulo 26 — O Cerco
 
 | Atributo   | Estado                                                                 |

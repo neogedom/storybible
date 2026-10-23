@@ -67,6 +67,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Postura    | Deitado virado para fora → engatinhando para trás → de pé torto, fugindo para o mato |
 | Fundo      | Boca da fenda; mato alto ao lado do acampamento                        |
 
+## Capítulo 40 — A Fenda e o Acolhimento
+
+| Atributo   | Estado                                                                 |
+| ---------- | ---------------------------------------------------------------------- |
+| Forma      | Híbrida de marcha (bípede peludo, garras, orelhas alertas, narinas dilatadas) |
+| Pelagem    | Cinzenta e escura, empoeirada de quartzo da Mina                       |
+| Ação       | Marcha três passos à retaguarda farejando a fumaça; para junto à mureta da oficina em silêncio |
+| Expressão  | Reservada, severa, sem intromissão na briga de Mário e Kate            |
+| Fundo      | Ravina norte pedregosa → alpendre e mureta da carpintaria de Gus       |
+
 ## Capítulo 26 — O Cerco
 
 | Atributo   | Estado                                                                 |

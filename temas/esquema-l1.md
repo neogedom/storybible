@@ -990,6 +990,10 @@ o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas*
 
 > **⚠️ AVISO:** O conteúdo abaixo (Vilões se Aproximam em diante) ainda não foi planejado cap-a-cap — ao detalhá-lo, usar sempre a numeração nova (a mesma dos arquivos do livro).
 
+> **Atualização 2026-10-23 — Mini-INGEST do cap. 40.** O manuscrito do cap. 40 tem
+> **2.177 palavras**; a contagem acumulada dos caps. 0–40 atinge **100.835 palavras (73,3% da régua de 137,5k)**.
+> O bloco da Cidadela de Gus fecha o beat Vilões se Aproximam e estabelece o limiar de Tudo Está Perdido.
+
 ---
 
 ## Vilões se Aproximam (~68-75%) — O Bloco da Cidadela de Gus
