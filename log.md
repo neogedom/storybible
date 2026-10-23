@@ -1,5 +1,15 @@
 # Log de Atualizações
 
+## 2026-10-23 (Revisão de Ponto de Vista e Sobrevivência — Caps. 34 e 40)
+
+- **`capitulo34.md` (Ajuste de sobrevivência material):** Inserido trecho após os batismos no assentamento onde as famílias de mineradores acolhem Mário com o pouco que têm: entregam-lhe uma camisa de estopa limpa e botas de couro duro (substituindo os trapos imundos arrastados desde a floresta), oferecem água limpa para lavar a fuligem e dividem mantimentos de carne-seca de carneiro e cevada tostada antes da subida à Mina.
+- **`capitulo40.md` (Revisão cirúrgica de PoV, consistência e eliminação de notas):**
+  - Removida a menção a "pó de pólvora" na Mina (substituída pelo ar asfixiante de pedra moída).
+  - Reconhecimento de Decian reancorado na memória de Opium: Mário o reconhece pela figura franzina do jardineiro de estopa e mãos de resina que ele vira na torre, e não por traços biológicos ostensivos de lobisomem (compatível com a transmorfia usada contra os vampiros no cap. 8).
+  - Eliminada a fuga de PoV em Decian ("gravando o som estranho na memória"); o texto foca apenas no murmúrio audível de Decian repetindo o nome.
+  - Fecho com a Voz alinhado com o Cap. 26: lembra o confronto na caverna sobre a ingratidão de Mário e a revelação de que fora sustentado na travessia quando sua clavícula deveria estar despedaçada, contrastando a firmeza soberana daquela conversa com o silêncio ausente e desolador após a tragédia da Mina.
+  - Todas as anotações e comentários `(* ...)` foram avaliados e incorporados organicamente à prosa.
+
 ## 2026-10-21 (Semente do Rei Docente no L2 — A Cátedra de Tradução da Bíblia de Kraviam)
 
 - **Nova semente canônica L2 (#28):** Mário inicia o Livro 2 com a alcunha de **o Rei Docente**. No palácio da Metrópole, ele reúne os eruditos da Academia dos Artífices, lê o exemplar da Bíblia de Kraviam e ensina o português para que os letrados traduzam as Escrituras para o ornickenho. O projeto visa expandir o Evangelho pelos continentes de Ornick sem violência, mas serve de brecha para Nolan aparelhar as ambiguidades da tradução a serviço da coerção imperial ("Espadas do Evangelho"), cumprindo o alerta feito por Orval no cap. 42 do L1.
@@ -8,7 +18,7 @@
 ## 2026-10-20 (Reestruturação do Bloco de Gus — Caps. 40 a 45: A Cátedra de Mário e Estruzzo das Sombras)
 
 - **Rebaseline estrutural do bloco Vilões se Aproximam (agora 6 capítulos: 40 a 45):**
-  - `capitulo40.md` (PoV Mário — 2.074 palavras): Fuga fria; chegada a Gus; acolhimento com Decian; notícias de Kenod e Charles.
+  - `capitulo40.md` (PoV Mário — 1.991 palavras): Fuga fria; chegada a Gus; acolhimento com Decian; notícias de Kenod e Charles; corrigidos furos de PoV (visão das costas de Lakand, onisciência sobre Kate no cascalho, autovisualização do rosto) e inconsistência das roupas (roupas de estopa dos mineradores).
   - `capitulo41.md` (PoV Nolan — 1.422 palavras): Nolan clandestino em Gus; inteligência sobre Estruzzo liderando os gornads; observação da vida sem Segregação; editais do Trono concedendo terras aos Clãs de Sangue.
   - `capitulo42.md` (PoV Mário — 2.035 palavras) [EXPANDIDO]: Imersão na Academia dos Artífices e legado de Vitysh; aula de geometria e forças com Orval; cartografia e geopolítica ampla de Ornick (Genësia, Velho Continente, Garyun, Sucontinente, Arquipélago do Fogo, Alavria, Rifte e Vitysh); Mário sem exemplar físico, guardando a palavra na memória; o grande projeto de Mário de ditar, registrar e imprimir as Escrituras em ornickenho para libertar o mundo do feitiço dos deuses; a advertência profética de Orval sobre os generais perverterem textos sagrados sob a sombra do trono (prenúncio do L2); a oferta formal da cátedra e a tentação da fuga burguesa diante do silêncio austero da Voz.
   - `capitulo43.md` (PoV Kate — 1.584 palavras) [REESCRITO]: Kate procura Lakand na esteira e é recusada; Estruzzo materializa-se das sombras na paliçada com a órbita cega do cap. 12; agradece sarcasticamente a Kate por ter matado Gaviorn'l ("pôs a vara na minha mão"); ultimato em nome de Terbs; Clãs farejam o ar e reconhecem a brasa e o cheiro de Hícse em Kate; alarme geral.
