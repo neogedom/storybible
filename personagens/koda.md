@@ -39,11 +39,12 @@ Alavria.
 1. Cap. 4: Revela os cofres drenados a Nolan. Sugere substituir o Rei.
 2. Cap. 7 e 14: Aprofunda a conspiração com Nolan
 3. Teme por Jo-jo (refém alavriano)
-4. **Consuma a traição no L1 (canon 2026-09-05)**: facilita a entrada dos
+4. **Revelação a Nolan pós-Gus**: Desmente a ilusão de Nolan na Metrópole; revela que Genocydo e Benjamim já haviam vendido a capitania do norte aos Clãs de Sangue muito antes das cartas de Nolan. Koda entra em pânico porque a barbárie dos Clãs ameaça devorar o Reino antes que a intervenção controlada de Alavria se concretize.
+5. **Consuma a traição no L1 (canon 2026-09-05)**: facilita a entrada dos
    infiltrados de Alavria durante a invasão de Kate à Metrópole — o portão
    que ele ajuda a abrir deixa entrar, junto dos revoltosos, os agentes que
    matam Genocydo e tomam a cidade por dentro
-5. Traição descoberta por Gunad no L2
+6. Traição descoberta por Gunad no L2
 
 ## Relações
 

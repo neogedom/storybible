@@ -55,3 +55,11 @@ silêncio, por desespero. O nome dele nunca é dito no capítulo (POV de Kate:
 - Segue com Mira e Saboc pela estrada na carroça; ao chegar à casa de Uorier,
   traz a mala da ama.
 - Não há detalhe novo de vestimenta ou aparência no capítulo.
+
+## Capítulo 41 — O Rastro e o Disfarce (Mini-INGEST, 2026-10-25)
+
+- **Vestimenta**: capa cinzenta rústica de estopa enrolada no antebraço direito, cobrindo o escudo de aço e as placas de armadura (comprada de um mascate na descida da ravina por dois cobres); bordas rasgadas por lascas da Mina; aspecto de mercenário de caravana itinerante.
+- **Postura**: esforço consciente para desarmar o porte militar de Espada da Lei e soltar a musculatura do pescoço; mão mantida a quatro dedos do punho da espada oculta; de pé encostado ao pilar da taverna vigiando entradas.
+- **Expressão**: cenho franzido, maxilar travado, desconfiança extrema com a ausência de autoridade real em Gus.
+- **Fala**: chama Nolan estritamente de "patrão" para manter o disfarce; sussurra avisos de canto de boca.
+- **Ação**: segue Nolan a pé misturado aos carroções; apoia-se no pilar da taverna; reconhece um antigo mestre hegraliano da capital e alerta o juiz.

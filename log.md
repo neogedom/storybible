@@ -1,5 +1,15 @@
 # Log de Atualizações
 
+## 2026-10-25 (Mini-INGEST do cap. 41 — Nolan, "O Rastro e o Disfarce")
+
+- **`capitulo41.md` (Mini-INGEST concluído):**
+  - Manuscrito finalizado e expandido com 2.806 palavras; contagem acumulada dos caps. 0–41 atinge 103.641 palavras (~75,3% da régua de 137,5k).
+  - Criada ficha canônica `capitulos/capitulo-41.md`.
+  - Atualizadas as timelines visuais em `visuais/nolan.md`, `visuais/mathias.md` e `visuais/ossan.md`.
+  - Sementes registradas em `temas/sementes.md`: Semente #29 (O Desengano de Nolan e o Pânico de Koda) e Semente #30 (O Canal dos Rampillas e a Senha do Celeiro Sul).
+  - Atualizado o roteiro dos caps. 41, 44 e 45 em `temas/esquema-l1.md` (incluindo a perspectiva estrita de Kate acompanhando o resgate externamente pelo portão sul).
+  - Resolução de todas as notas `(* ...)`: eliminação da onisciência de Nolan sobre o nome "Mário", corte da menção precoce a Gaviorn'l/Estruzzo, substituição do termo "padre" por "sacerdote", correção da falha original do Sinal (cap. 0) e inclusão da senha do celeiro ("três batidas secas e a palavra cinza").
+
 ## 2026-10-23 (Revisão de Ponto de Vista e Sobrevivência — Caps. 34 e 40)
 
 - **`capitulo34.md` (Ajuste de sobrevivência material):** Inserido trecho após os batismos no assentamento onde as famílias de mineradores acolhem Mário com o pouco que têm: entregam-lhe uma camisa de estopa limpa e botas de couro duro (substituindo os trapos imundos arrastados desde a floresta), oferecem água limpa para lavar a fuligem e dividem mantimentos de carne-seca de carneiro e cevada tostada antes da subida à Mina.

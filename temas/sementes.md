@@ -655,3 +655,15 @@ _Atualizar a cada INGEST de capítulo._
 - **Plantio no L1:** Cap. 42 (Mário concebe na Academia de Gus o projeto civilizatório de traduzir a palavra divina para libertar os continentes de Ornick sem espadas; Orval faz o aviso profético sobre governantes perverterem textos sagrados sob a sombra do trono).
 - **Germinação no L2:** Na Configuração do L2, Mário assume a coroa e ganha a alcunha de **o Rei Docente**. Ele reúne os eruditos da Academia dos Artífices no palácio da Metrópole, lê em voz alta o exemplar da Bíblia deixado por Kraviam e ensina o português aos letrados para operacionalizarem a tradução das Escrituras para o ornickenho.
 - **Corrupção trágica:** O projeto pedagógico vira a porta de entrada para a Inquisição imperial: Nolan e os juristas usam a tradução para sacralizar as leis do Estado ("Espadas do Evangelho"), cumprindo o alerta de Orval.
+
+## 29. O Desengano de Nolan e o Pânico de Koda (canon 2026-10-25)
+
+- **Plantio no L1:** Cap. 41 (Nolan supõe na taverna de Gus que Genocydo e Benjamim abriram os desfiladeiros aos Clãs de Sangue precipitados pela carta que ele despachara na estrada).
+- **Payoff no L1 (Ato 3 - Retorno à Metrópole):** Ao reencontrar Koda Deltëra na câmara contábil da Metrópole, Nolan tenta se justificar ou apontar que o Rei agiu em pânico após o seu aviso. Koda o desengana com aspereza: a carta de Nolan foi solenemente ignorada; o Trono já havia prometido a capitania do norte e terras de pasto aos Clãs semanas antes, por iniciativa direta de Benjamim e puro terror financeiro e militar de Genocydo.
+- **Conflito Oculto de Koda:** A revelação expõe o pânico de Koda. Ele planejou a tomada cirúrgica da cidade por Alavria abrindo os portões durante a confusão; a descida desgovernada dos Clãs de Sangue ameaça queimar o Reino antes que o destacamento alavriano possa intervir, arriscando o resgate de seu filho Joachin mantido como refém.
+
+## 30. O Canal dos Rampillas e a Senha do Celeiro Sul (canon 2026-10-25)
+
+- **Plantio no L1:** Cap. 41 (Nolan instrui Mira no celeiro com a senha "três batidas secas e a palavra cinza", mantendo os quatro rampillas agachados no capim externo sob controle de raiz de Ossan).
+- **Payoff e Clímax no L1:** Caps. 44 e 45. Durante a invasão dos Clãs de Sangue a Gus, Ossan toca o solo e lê pelo canal dos rampillas o cerco iminente ao celeiro sul. Em desespero pelo filho, Nolan divide suas forças e despacha Mathias para resgatar Saboc e Mira usando a senha.
+- **Função Mecânica e Dramática:** Essa divisão explica com rigor tático por que Nolan fica desprotegido no pátio interno da cidade e perde a custódia de Mário para os Clãs de Sangue no cap. 45: ele priorizou a vida de seu herdeiro sobre a custódia do prisioneiro de Estado. Mathias resgata o bebê e a carruagem enquanto os quatro rampillas contêm a horda na escuridão.

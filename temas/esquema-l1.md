@@ -1007,10 +1007,11 @@ o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas*
 - **Fecho:** Mário isolado na oficina, oprimido pela culpa e incapaz de orar. Corte C.
 
 #### Capítulo 41 (PoV de Nolan) — O Juiz na Cidade dos Proscritos
-- **Abertura:** Nolan e Mathias entram clandestinamente em Gus. Nolan oculta insígnias (é desafeto jurado por ter expulsado os mestres no cap. 7).
-- **Inteligência de fronteira:** Nolan descobre que Saramant entrou em anarquia com a ascensão violenta do capitão Estruzzo após a morte de Gaviorn'l.
-- **A ameaça canibal:** Nolan intercepta ordens do Trono: Genocydo e Benjamim concederam províncias e a Mina aos Clãs de Sangue (cultuadores de Hícse) para capturar o Souhma. Nolan decide usar a custódia formal ("prende-se, vivo") para impedir que os canibais queimem a cidade.
-- **Fecho:** Nolan localiza a trilha de Mário em direção à Academia dos Artífices; batedores inimigos no horizonte. Corte B.
+- **Abertura e disfarce:** Nolan acomoda Mira, Saboc e a carruagem no celeiro sul fora das muralhas, combinando com a ama a senha de emergência ("três batidas secas e a palavra cinza"); os quatro rampillas ficam agachados no mato como sentinela sob controle de raiz de Ossan. No celeiro, Nolan instrui Mathias a agir como mercenário de escolta ("patrão"), ensaia o sotaque arrastado de Garyun e absorve o conselho de Ossan de que "homem da estrada conhece de longe quem vive de dar sentença".
+- **Infiltração e choque de ordem:** Entram a pé misturados a carroções de salitre pela entrada sul. Nolan sente repulsa visceral pela anarquia organizada de Gus (humanos e leviantares sem Segregação) e entreouve artífices discutindo as falhas nos diapasões de Rifte e a quebra do Sinal.
+- **Inteligência e dedução:** Na taverna do entreposto, Nolan capta boatos de condutores de carga sobre tropas do norte com sinetes vermelhos. Deduz que o Trono abriu as gargantas aos Clãs de Sangue para recolher o curandeiro e supõe erroneamente que sua própria carta à capital precipitou a loucura de Genocydo e Benjamim.
+- **Quase reconhecimento e trilha:** Um mestre hegraliano da Academia velha da Metrópole quase o identifica na taverna; Ossan quebra o contato visual. Nolan localiza no barro da carpintaria as marcas da bota manca do forasteiro, as garras de Lakand e os passos de Kate.
+- **Fecho:** Fumaça dos Clãs de Sangue no horizonte norte; Nolan aperta o auto de custódia civil, determinado a prender o Estrangeiro antes que a cidade seja massacrada. Corte A.
 
 #### Capítulo 42 (PoV de Mário) — A Cátedra dos Proscritos
 - **Worldbuilding de Gus e Vitysh:** O dia a dia da Cidadela e o legado do Castelo do Saber (símbolos do esquadro, prumo e concha de água).
@@ -1026,16 +1027,18 @@ o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas*
 - **Fecho:** Estruzzo evapora na sombra; o sino da torre soa o alarme geral de invasão. Corte D.
 
 #### Capítulo 44 (PoV de Mário) — O Preço da Cidade
-- **Ataque e pânico:** Paliçadas de Gus sob fogo dos mercenários e Clãs de Sangue.
-- **Confronto com Nolan:** Nolan surge na oficina e apresenta a folha ensanguentada do livro de Uorier: "Ela te usou. Se você ficar, os canibais queimarão Gus inteira." Kate avança com a lâmina; Mário intervém.
+- **Ataque e pânico:** Paliçadas de Gus sob fogo dos mercenários e Clãs de Sangue; aríetes e tochas no arraial exterior sul.
+- **O alerta dos rampillas e o envio de Mathias:** Enquanto Nolan rastreia Mário na oficina com Mathias e Ossan, o xamã toca a terra e lê os sentidos dos quatro rampillas no celeiro sul: fumaça, tochas e canibais cercando o refúgio de Mira e Saboc. Em pânico pelo filho, Nolan divide suas forças e despacha Mathias imediatamente: "Vá! Três batidas secas e a palavra cinza. Tire Mira e o menino antes que incendeiem o celeiro!" Mathias corre pelas vielas em direção ao fosso sul.
+- **Confronto com Nolan:** Desprotegido mas impassível, Nolan surge diante de Mário e apresenta a folha ensanguentada do livro de Uorier: "Ela te usou. Se você ficar, os canibais queimarão Gus inteira." Kate avança com a lâmina; Mário intervém.
 - **Decisão proativa de Mário (Renúncia e sacrifício):** Mário abre mão conscientemente da cátedra e da paz que acabara de receber para poupar a Cidadela da chacina. Entrega-se voluntariamente a Nolan: "Se você tem o mandado da Metrópole, cumpra. Eu me entrego."
 - **A custódia:** Nolan coloca os ferros nos pulsos de Mário e lavra o auto de custódia civil.
 - **Fecho:** O portão de Gus cede; guerreiros canibais invadem o pátio. Corte A.
 
 #### Capítulo 45 (PoV de Kate) — A Cinza de Gus e a Perda
-- **A perda da custódia:** Os Clãs de Sangue zombam da burocracia de Nolan, subjugam Mathias e arrancam Mário acorrentado para levá-lo diretamente a Genocydo na Metrópole (canon 2026-09-05).
-- **O destino de Nolan:** Nolan foge despojado rumo à Metrópole (onde cobrará Nuh d'Teraghar no Templo e a linha da vembra o alcançará).
-- **Virada interior de Kate:** A culpa pelo sacrifício de Mário atinge Kate no osso. O plano de comandar uma guerra desmorona; seu foco vira unicamente resgatar Mário na Metrópole.
+- **A perda da custódia no pátio:** Na praça da Cidadela em chamas, Nolan está desprovido de sua guarda e ergue em vão o auto de apreensão civil; guerreiros dos Clãs de Sangue zombam do papel timbrado, jogam Nolan no pó e arrancam Mário acorrentado para levá-lo diretamente a Genocydo na Metrópole (canon 2026-09-05).
+- **O resgate no celeiro sul visto por Kate:** Ao romper pelo portão sul em perseguição à poeira dos canibais que arrastam Mário, Kate e Lakand testemunham a carruagem metropolitana arrebentar a cerca viva do celeiro em disparada. Kate vê Mathias na boleia desferindo um golpe mortal para arrancar um canibal do estribo e protegendo Mira encolhida com o fardo do bebê, enquanto os quatro rampillas travam combate desesperado no capim e são despedaçados pela horda para cobrir a fuga. A carruagem ganha a estrada do sul.
+- **O destino de Nolan:** Nolan ergue-se humilhado do lajedo da praça; sem o ativo político e sem soldados, reúne-se a Ossan para marchar de volta à capital e cobrar o Templo e o Trono.
+- **Virada interior de Kate:** A culpa pelo sacrifício de Mário destrói a ambição militar de Kate. O sonho de comandar uma insurreição morre na cinza de Gus; seu objetivo exclusivo passa a ser resgatar Mário na Metrópole.
 - **Fecho:** A poeira da estrada do sul; Kate e Lakand partem no encalço de Mário. Corte D.
 
 ---

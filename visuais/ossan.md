@@ -23,3 +23,11 @@ timestamp: 2026-08-26
   d'Tirath e menciona o incêndio de Saramant.
 - **Postura**: senta-se à mesa de Uorier, fora do lugar dos criados; ninguém
   volta a tratá-lo como criado.
+
+## Capítulo 41 — O Rastro e o Disfarce (Mini-INGEST, 2026-10-25)
+
+- **Vestimenta**: túnica surrada de linho cru com que fugira de Saramant; cabelos ásperos presos por uma tira de couro; sacola de estopa a tiracolo com terra preta e sementes secas.
+- **Postura**: passos silenciosos sobre o pó; meio passo atrás de Nolan e Mathias; senta-se em banco baixo na taverna raspando uma raiz com a unha polegar.
+- **Expressão**: olhos fundos, indiferença calculada de quem já viu castelos arderem.
+- **Fala**: tom baixo, seco, sem deboche: avisa Nolan que falar macio não esconde olhar de juiz e recomenda discrição.
+- **Ação**: sustenta a quietude dos quatro rampillas no capim externo via raiz; cruza o fosso sul; pigarreia e ergue a tigela de barro na taverna para quebrar a linha visual do mestre acadêmico que quase reconhece Nolan.

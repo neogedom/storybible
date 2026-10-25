@@ -139,6 +139,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Iluminação**: subida e observação da Mina durante o dia; o texto não fixa
   a iluminação da refeição.
 
+## Capítulo 41 — O Rastro e o Disfarce (Mini-INGEST, 2026-10-25)
+
+- **Vestimenta**: casaco preto de corte metropolitano, agora desprovido de insígnias de bronze (escondida no forro), lapelas e botas empoeiradas pela descida da serra; punhos de camisa recolhidos.
+- **Óculos**: armação fina sobre o nariz, usados para manter o disfarce de letrado de Garyun.
+- **Acessórios**: folhas arrancadas do livro de dívidas de Uorier (com manchas de sangue seco) e o auto de custódia civil nos bolsos internos; moeda de prata gasta de feira.
+- **Local**: celeiro fechado no arraial exterior sul → fosso seco e entrada sul da Cidadela de Gus → ruas de oficinas e fundições → penumbra da taverna baixa no mercado de couros → vielas de serraria até a soleira da carpintaria.
+- **Expressão**: frieza calculada; repulsa contida diante da ausência de Segregação; concentração analítica ao ler o solo; rigidez disfarçada na soleira da taverna.
+- **Ação**: tranca o celeiro e define a senha com Mira; instrui Mathias e ensaia sotaque arrastado de Garyun; cruza o portão na sombra das carroças; entreouve artífices e tropeiros; paga por inteligência; evita reconhecimento baixando o olhar; rastreia pegadas no barro e avista a fumaça dos Clãs.
+- **Séquito**: Mira, Saboc e carruagem trancados no celeiro; quatro rampillas agachados no capim externo; Mathias e Ossan a pé ao lado dele.
+- **Iluminação**: penumbra abafada do celeiro → luz fria e cinzenta do meio-dia nas ruas de cantaria de Gus → penumbra enfumaçada da taverna → céu opaco com fumaça escura no horizonte norte.
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->
