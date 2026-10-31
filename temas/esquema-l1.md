@@ -59,6 +59,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 31       | Jogos e Diversão                    | Mário        | ~57-59%                 | ~61,3%               | 2.921    |
 | 32       | Jogos e Diversão                    | Kate         | ~59-61%                 | ~62,9%               | 2.183    |
 | 33       | Jogos e Diversão                    | Nolan        | ~60-62%                 | ~64,5%               | 2.141    |
+| 43       | Vilões se Aproximam                 | Kate         | ~74-75%                 | ~79,5%               | 2.226    |
 
 > **Recontagem 2026-10-09, baseada nos manuscritos atuais.** A coluna
 > **Palavras** foi conferida nos arquivos `Livro 1/capituloN.md` com
@@ -1024,7 +1025,7 @@ o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas*
 - **A recusa de Lakand:** À noite, na estrebaria, Kate busca refúgio no corpo de Lakand para tentar fugir do olhar de Mário; Lakand a afasta com lucidez ("Saramant virou cinza; você só quer anestesiar a cara do forasteiro").
 - **Estruzzo das sombras:** Na muralha norte, o ar congela e Estruzzo se materializa da escuridão. O gornad tripudia sarcasticamente sobre a morte de Gaviorn'l ("vim te agradecer por abrir o pescoço do velho e pôr a vara na minha mão").
 - **O ultimato de Terbs e o faro dos Clãs:** Estruzzo avisa que Terbs cedeu o vale para pagar a dívida da deusa que Kate soltou. Batedores canibais surgem nas frestas e farejam Kate, reconhecendo nela o cheiro e a brasa de Hícse ("A Senhora das Lâminas tá na carne dela!").
-- **Fecho:** Estruzzo evapora na sombra; o sino da torre soa o alarme geral de invasão. Corte D.
+- **Fecho:** Estruzzo recua para a escarpa; o sino soa enquanto as tochas dos Clãs de Sangue começam a descer a serra. Corte A.
 
 #### Capítulo 44 (PoV de Mário) — O Preço da Cidade
 - **Ataque e pânico:** Paliçadas de Gus sob fogo dos mercenários e Clãs de Sangue; aríetes e tochas no arraial exterior sul.

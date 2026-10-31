@@ -142,6 +142,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 <!-- Atualizado a cada INGEST de capítulo -->
 
+## Capítulo 43 — O Rastro da Deusa
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Forma      | Híbrida, deitado sobre estopa limpa na estrebaria |
+| Pelagem    | Cinzenta; cicatriz repuxada e esbranquiçada no peito, já fechada |
+| Ação       | Trava o pulso de Kate sem feri-la, solta-o com um empurrão e volta a dormir |
+| Expressão  | Reservada e firme; fecha os olhos depois de dizer que Saramant virou cinza |
+| Fundo      | Estrebaria nos fundos da oficina de carpintaria de Gus |
+
 ---
 
 ## Prompt de Imagem (modelo)

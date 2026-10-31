@@ -65,10 +65,12 @@ consentimento dele.
   mata desde criança, e isso é hábito. A brasa sobe quando ela **olha alguém
   matar por causa dela.** Ela deixou de ser a mão e virou a **forja** — e é
   isso que a coisa quer: não uma arma, uma **fonte**.
-- ⚠️ **Ela não sabe.** Ela só descobre que libertou Hícse em **Gus**
-  (pós-Mina). Na página, ela lê a brasa como **natureza própria** ("é o que
-  eu sou") — e é isso que a torna trágica: **ela se culpa por algo que fez a
-  si mesma sem saber.**
+- ⚠️ **A descoberta acontece em Gus, pós-Mina (cap. 43).** Até então, Kate
+  lê a brasa como natureza própria ("é o que eu sou") e não sabe que libertou
+  Hícse. Estruzzo nomeia a deusa e os batedores reconhecem a brasa nela;
+  Kate primeiro rejeita a explicação, depois interpreta a fome e a queimação
+  como influência de Hícse. É a leitura de Kate naquela cena, não uma voz,
+  posse ou diálogo com a deusa.
 - **Consequência com a Ordem:** com o selo rompido, o **Sinal perde o objeto**
   (não "fica mudo" — ver `decisoes/sinal-permanentemente-instavel.md`). A
   Ordem caça com um instrumento morto — e é por isso que querem **enquadrar**

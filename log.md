@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-10-30 (Mini-INGEST do cap. 43 — Kate, "O Rastro da Deusa")
+
+- O manuscrito tem **2.226 palavras**; a contagem acumulada dos caps. 0–43 é **109.313 palavras (~79,5% da régua de 137,5k)**, usando o total registrado até o cap. 40 e as contagens atuais dos caps. 41–43.
+- Criada a ficha `capitulos/capitulo-43.md`; atualizadas as timelines visuais de Kate e Lakand e criada a de Estruzzo.
+- Registrada em `conceitos/hicse.md` a descoberta em cena: Kate primeiro rejeita o que Estruzzo diz, depois interpreta a fome e a brasa como influência de Hícse.
+- Sem nova semente cross-livro. Fronteira: o cap. 44 abre com o ataque a Gus. Fecho real: corte A, com o sino e as tochas dos Clãs de Sangue descendo a serra.
+- **Atenção de pacing:** o mapa mantém o capítulo em "Vilões se Aproximam", mas a posição real (~79,5%) já ultrapassa a faixa planejada (~68–75%) e a marca de ~75% de "Tudo Está Perdido". A divergência fica sinalizada, sem replanejar o esquema neste Mini-INGEST.
+
 ## 2026-10-25 (Mini-INGEST do cap. 41 — Nolan, "O Rastro e o Disfarce")
 
 - **`capitulo41.md` (Mini-INGEST concluído):**

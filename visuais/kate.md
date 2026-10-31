@@ -199,6 +199,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 <!-- Atualizado a cada INGEST de capítulo -->
 
+## Capítulo 43 — O Rastro da Deusa
+
+| Atributo       | Estado |
+| -------------- | ------ |
+| Roupas         | Couro remendado de caçadora; sem mudança descrita |
+| Armas          | Faca de caça na coxa; cai no feno quando Kate se aproxima de Lakand e é recolocada antes de ela sair |
+| Ferimentos     | Nenhum novo |
+| Sinais físicos | Queimação na nuca e na mandíbula; fome que trava os dentes; a brasa se intensifica diante dos batedores |
+| Expressão      | Ressentimento e fúria contida com Lakand; desafio a Estruzzo; pavor quando os canibais a farejam |
+| Postura        | Ajoelha-se junto a Lakand; recua quando ele solta seu pulso; depois se firma na guarita e recua diante dos batedores |
+| Fundo          | Estrebaria da oficina de carpintaria → vielas de Gus → paliçada norte e escarpa |
+
 ---
 
 ## Prompt de Imagem (modelo)
