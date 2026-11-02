@@ -1,5 +1,19 @@
 # Log de Atualizações
 
+## 2026-11-02 (vítimas da Mina no capítulo 40)
+
+- Reposicionado o encontro com os mineradores feridos para poucos passos após
+  a saída da Mina, antes da conversa de Mário com Kate. A cena agora dá
+  continuidade imediata ao desabamento e mantém a motivação de Mário para
+  acompanhar os sobreviventes até Gus.
+- Ampliado o quadro para mais de uma dezena de fugitivos em pequenos grupos,
+  com três feridos em foco. Eles ainda não chegaram a Gus; a ida de Mário à
+  cidade fica explicitamente no meio-dia do dia seguinte. A abertura do cap.
+  40 marca os primeiros minutos após o colapso, em paralelo à hora de poeira
+  vista pelo POV de Nolan no cap. 39.
+- Atualizados `Livro 1/capitulo40.md`, `capitulos/capitulo-40.md` e
+  `temas/esquema-l1.md`.
+
 ## 2026-11-01 (Consolidação do Final do L1 e Pós-Mina no Story Bible e Manuscritos)
 
 - **`Livro 1/capitulo40.md`:** adicionada a motivação ativa de Mário (encontro com mineradores feridos em fuga; assume a dívida moral de seguir até Gus para encarar os custos do evangelho) e mediação de Lakand (Kate busca a expertise técnica dos artífices para decifrar a sabotagem e a imunidade jurisdicional de Gus).

@@ -1003,9 +1003,9 @@ o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas*
 
 #### Capítulo 40 (PoV de Mário) — A Fenda e o Acolhimento
 - **Abertura:** Descida exaustiva pela ravina norte pós-desabamento da Mina. Frieza e silêncio de Mário em relação a Kate; ele recusa ajuda e alimento dela, repulsado por ter sido usado como cortina para o massacre da família de Uorier.
-- **Os feridos da Mina:** Na descida, encontram mineradores feridos em fuga; um deles acusa com pavor a pregação de Mário de ter atraído a desgraça sobre os escravos e revela que os mutilados buscam refúgio em Gus. Mário assume a dívida moral de seguir os feridos para encarar as consequências do evangelho.
+- **Os feridos da Mina:** Nos primeiros minutos após o desabamento, ao deixarem a saída, encontram mais de uma dezena de fugitivos espalhados em pequenos grupos; três feridos estão mais perto. Eles ainda não chegaram a Gus, mas quem consegue andar segue para lá, guiado pelo rumor de água e atendimento médico. Um deles acusa com pavor a pregação de Mário de ter atraído a desgraça sobre os escravos. Mário assume a dívida moral de seguir os sobreviventes para encarar as consequências do evangelho. A cena se sobrepõe à hora de poeira e busca mostrada pelo POV de Nolan no cap. 39.
 - **Mediação de Lakand:** O lobo transmite o recado de Kate: ela busca os artífices de Gus para desvendar a sabotagem técnica da Mina e sabe que Nolan não tem jurisdição na cidade dos proscritos.
-- **Chegada à Cidadela de Gus:** Mário testemunha a única terra desenvolvida fora da Metrópole onde humanos e leviantares convivem nas mesmas ruas sem ferros da Segregação.
+- **Chegada à Cidadela de Gus, no dia seguinte ao meio-dia:** Mário testemunha a única terra desenvolvida fora da Metrópole onde humanos e leviantares convivem nas mesmas ruas sem ferros da Segregação.
 - **Reencontro com Decian:** Decian, fugitivo como curandeiro de ervas em Gus, trata os ferimentos de Mário e traz notícias da alcateia: Kenod morreu no colapso pós-massacre e Charles assumiu o bando para caçar a recompensa do Trono.
 - **Fecho:** Mário isolado na oficina, oprimido pela culpa e incapaz de orar. Corte C.
 
