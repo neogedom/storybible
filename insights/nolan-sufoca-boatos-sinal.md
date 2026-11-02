@@ -220,3 +220,13 @@ Devour, surpresa: "por quê os Inquiridores atrás de um impostor?") e caps.
 22 - 24 (Nolan aceita o real e corre antes dos Inquiridores). A "solução vira
 ameaça" se mantém: Nolan burocratiza e confia na ordem no Ato 1; a mesma
 ordem reivindica Mário como ativo do Sinal nos caps. 26+.
+
+## Atualização provisória do clímax — resgate antes da intervenção (2026-11-01)
+
+A formulação anterior em que a ação divina era desencadeada pela recusa de
+Mário ao discurso não é mais a sequência em teste. Kate e os hegralianos o
+resgatam do Garfo por ação humana; depois, os infiltrados abrem o portão e a
+força alavriana ataca. Só então vem a intervenção divina contra Alavria.
+Uma oração audível de Mário por misericórdia é uma hipótese de ligação
+pública, não gatilho do milagre. Ver `duas-vias-de-salvacao-ato-2.md`. Esta
+atualização não altera o canon nem o esquema do L1.

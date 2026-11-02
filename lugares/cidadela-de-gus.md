@@ -79,16 +79,17 @@ O bloco da Cidadela de Gus fecha o estágio **Vilões se Aproximam (~68% a ~75% 
 
 5. **Capítulo 44 (PoV de Mário) — O Preço da Cidade:**
    - Cerco e invasão das paliçadas externas de Gus. Pânico na cidade.
-   - Nolan confronta Mário na oficina com a folha ensanguentada do livro de Uorier: "Ela te usou. Se você ficar, os canibais queimarão Gus inteira." Kate avança com a lâmina; Mário intervém.
-   - **Decisão proativa de Mário (Renúncia e sacrifício):** Mário abre mão conscientemente da cátedra e da paz que acabara de receber para poupar a Cidadela da chacina. Entrega-se voluntariamente a Nolan: "Se você tem o mandado da Metrópole, cumpra. Eu me entrego."
-   - Nolan coloca os ferros nos pulsos de Mário e lavra o auto de custódia civil.
+   - Nolan confronta Mário na oficina com a folha ensanguentada do livro de Uorier e adverte com pragmatismo: "Se você cair nas mãos dos Clãs, você chega à Metrópole aos pedaços, num saco de carga. Sob a custódia da Coroa e o meu mandado, você chega vivo e inteiro para responder ao Conselho."
+   - **Decisão proativa de Mário (Renúncia e sacrifício vicário):** Mário recusa a custódia de Nolan e a falsa proteção do Trono. Para poupar a Cidadela da chacina, coloca-se sozinho diante dos portões que desabam, de mãos abertas, e se apresenta diretamente aos Clãs de Sangue: "Eu sou o homem que vocês querem. Levem-me, mas deixem esta cidade em paz."
 
-6. **Capítulo 45 (PoV de Kate) — A Cinza de Gus e a Perda:**
-   - Os Clãs de Sangue rompem as defesas e zombam dos papéis de Nolan. Subjugam Mathias e tomam Mário à força para entregá-lo diretamente a Genocydo na Metrópole (canon 2026-09-05).
-   - Nolan foge humilhado rumo à Metrópole (onde cobrará Nuh d'Teraghar no Templo e a linha da vembra o aguardará).
-   - Kate vive a virada interior (`insights/kate-prioriza-mario-apos-gus.md`): a culpa pelo sacrifício de Mário desmonta seu ímpeto de guerra; sua única meta passa a ser resgatá-lo na capital.
+6. **Capítulo 45 (PoV de Kate) — A Cinza de Gus e o Pacto da Fenda:**
+   - Os Clãs de Sangue rompem as defesas com violência brutal. Mário não resiste e é subjugado com forquilha e cordas de caça; os Clãs poupam a Cidadela porque já têm o prêmio prometido por Genocydo e Terbs, partindo em disparada rumo ao sul.
+   - Orval e os artífices armados, junto com Kate furiosa, encurralam Nolan e Mathias na oficina, querendo linchar o magistrado do Trono.
+   - **A virada de astúcia de Nolan:** Com frieza implacável, Nolan desarma a turba pela lógica: adverte que os Clãs levarão Mário vivo para cobrar o edital e o pacto de Terbs na capital, e que uma turba rústica de artífices seria destroçada no rio Cran pelas legiões do Trono. Nolan propõe uma coalizão tática: ele descerá à Metrópole para agir como infiltrado por dentro (usando sua burocracia para protelar a execução com Genocydo e proteger Mário nas celas), enquanto Kate, Lakand e os Artífices preparam a travessia do Cran e a força de resgate.
+   - Nolan parte rumo à capital com Mathias e sua escolta de rampillas.
+   - Kate vive a virada interior (`insights/kate-prioriza-mario-apos-gus.md`): diante do sacrifício de Mário, a queimação na nuca se apaga e a ambição de glória militar morre na cinza; junto com Lakand e os Artífices, passa a viver unicamente para resgatá-lo.
 
-**Fio que continua depois:** É essa perda que leva Nolan a descer à Metrópole e, no fundo do poço, a levar água e comida ao calabouço (Noite Escura) — e é lá que o enforcamento de Juleen acontece, em paralelo ao Caixão.
+**Fio que continua depois:** Nolan desce à Metrópole para operar de dentro e conter a loucura de Genocydo; descobre o envenenamento de Dagmar por vembra e executa Juleen sem julgamento; ganha tempo transferindo Mário de cela e entregando-lhe livros (a Bíblia de Kraviam), até tentar o golpe pelo Conselho.
 
 ## Disciplinas de escrita
 

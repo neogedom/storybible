@@ -1,6 +1,150 @@
 # Log de Atualizações
 
-## 2026-10-30 (Mini-INGEST do cap. 43 — Kate, "O Rastro da Deusa")
+## 2026-11-01 (Consolidação do Final do L1 e Pós-Mina no Story Bible e Manuscritos)
+
+- **`Livro 1/capitulo40.md`:** adicionada a motivação ativa de Mário (encontro com mineradores feridos em fuga; assume a dívida moral de seguir até Gus para encarar os custos do evangelho) e mediação de Lakand (Kate busca a expertise técnica dos artífices para decifrar a sabotagem e a imunidade jurisdicional de Gus).
+- **`Livro 1/capitulo45.md`:** reescrita a cena do pós-ataque dos Clãs. Nolan não é humilhado na lama com papéis; observa a entrega de Mário e, ao ser encurralado pelos Artífices e Kate, impõe sua astúcia e frieza lógica: convence a coalizão de que os Clãs levarão Mário vivo e propõe divisão tática (ele desce à Metrópole para agir por dentro e protelar o rei, enquanto Kate e os Artífices preparam a travessia do Cran e o resgate).
+- **`storybible/temas/esquema-l1.md`:** reformulados os blocos Vilões se Aproximam (caps. 40 e 45), Tudo Está Perdido (~75%), Noite Escura (~75-80%), Break Into 3 (~80%), Final (~80-99%) e Imagem Final (~99-100%). Remoção da Via Crucis e Caixão; adoção do Garfo do Herege como único suplício; acordo Hícse-Terbs (cessão e apoteose dependem da blasfêmia); Nolan ganha tempo e oferece a via estatal a Mário; Mário com a Bíblia recusa apoiar Nolan no Conselho após descobrir a execução sumária de Juleen; Mário cede o controle no Garfo; resgate humano por Kate/Lakand; Koda abre portões para o destacamento de Alavria como "Surpresa na Torre Alta"; oração audível de Mário por misericórdia (eco de 2 Crônicas 20:12); intervenção divina soberana que aniquila os alavrianos nos portões; coroação de Mário por pavor e pânico cósmico; pacto desesperado de Nolan com Terbs.
+- **`storybible/lugares/cidadela-de-gus.md`:** atualizado resumo dos capítulos 44 e 45 com a manobra tática de Nolan e a virada de Kate.
+- **`storybible/capitulos/capitulo-40.md`:** atualizado resumo de eventos e motivações.
+- **`storybible/personagens/genocydo.md`:** ajustado para Garfo do Herege em vez de Via Crucis.
+- **`storybible/insights/duas-vias-de-salvacao-ato-2.md`:** status promovido de amarelo para integrado/canon.
+
+## 2026-11-01 (resgate humano e surpresa de Alavria)
+
+- Corrigida a sequência em `insights/duas-vias-de-salvacao-ato-2.md`
+  (amarelo; congelamento-L1): Kate e os hegralianos tiram Mário do Garfo; a
+  intervenção divina só vem depois, contra o ataque alavriano. Quem o solta
+  (Kate ou Lakand) continua em aberto.
+- A incursão de Kate serve de cobertura para os infiltrados alavrianos
+  abrirem o portão; a entrada de Alavria depois do resgate funciona como
+  "Surpresa na Torre Alta".
+- Uma oração audível por misericórdia foi avaliada como possível ligação
+  pública, com 2 Crônicas 20:12, 22-24, 29 como precedente; permanece
+  hipótese, não canon nem gatilho do milagre.
+- `insights/nolan-sufoca-boatos-sinal.md` recebeu nota que supersede a antiga
+  ligação da intervenção à recusa do discurso. O outline e os capítulos não
+  foram alterados.
+
+## 2026-11-01 (a Bíblia na cela e a decisão de Mário)
+
+- **`insights/duas-vias-de-salvacao-ato-2.md` ampliado** (amarelo;
+  congelamento-L1): Mário pode receber uma Bíblia enquanto preso e pesar a
+  oferta de Nolan durante a leitura.
+- A Bíblia pode ecoar o capítulo 14, onde Nolan a usou como prova para o
+  Conselho e falhou; agora acompanha a decisão íntima de Mário, sem funcionar
+  como oráculo nem dar uma resposta automática.
+- Nenhum capítulo ou esquema foi alterado.
+
+## 2026-11-01 (recusa de Mário e invasão de Alavria)
+
+- **`insights/duas-vias-de-salvacao-ato-2.md` atualizado** (amarelo;
+  congelamento-L1): Nolan tenta novamente a validação do Conselho, usando
+  Mário onde a Bíblia falhou, mas não assume o trono; Mário recusa o apoio no
+  último instante e aceita o custo do Garfo.
+- Os Clãs esperam pela vontade de Hícse; o acordo dela com Terbs envolve a
+  blasfêmia.
+- Recomendação de sequência: invasão após Mário estar no Garfo e antes da
+  blasfêmia, para preservar a escolha sem consumar o acordo.
+- Nenhum capítulo ou esquema foi alterado.
+
+## 2026-11-01 (Mário como trunfo diante do Conselho)
+
+- **`insights/duas-vias-de-salvacao-ato-2.md` ampliado** (amarelo;
+  congelamento-L1): a proposta de Nolan retoma o golpe do cap. 14. A Bíblia
+  falhou como prova não verificável; Mário pode ser a prova viva e o trunfo
+  político que faltava.
+- A informação sobre a identidade e o poder de Mário deve ter um canal claro
+  até o Conselho; a presença dele não significa que Nolan controle os
+  milagres.
+- Nenhum capítulo ou esquema foi alterado.
+
+## 2026-11-01 (transferência do Reino condicionada à blasfêmia)
+
+- **`insights/duas-vias-de-salvacao-ato-2.md` revisado** (amarelo;
+  congelamento-L1): a blasfêmia passa a ser a condição proposta para a
+  transferência do Reino aos Clãs e, separadamente, para a apoteose prometida
+  por Terbs.
+- Nolan pode cumprir pequenas promessas e adiar a cerimônia; Mário pode
+  apoiá-lo publicamente no Conselho para acelerar sua ascensão.
+- A morte sem julgamento de Juleen testa a promessa de união: Mário conhece a
+  culpa dela, mas não aceita que Nolan a trate como descartável sem ouvi-la.
+- Preferência do autor: retirar a Via Crucis explícita. O Garfo pode ser a
+  única tortura; ainda falta decidir se Mário chega a sofrê-la.
+- Nenhum capítulo ou esquema foi alterado. A possível ascensão de Nolan ainda
+  precisa ser reconciliada com a coroação atual de Mário e com o L2.
+
+## 2026-11-01 (Nolan confronta Benjamim para proteger Mário)
+
+- **`insights/duas-vias-de-salvacao-ato-2.md` ampliado** (amarelo;
+  congelamento-L1): Nolan pode usar os rampillas para pressionar Benjamim,
+  descobrir o plano de tortura e então oferecer uma proteção concreta a
+  Mário. As criaturas ameaçam, mas não interrogam por conta própria.
+- **Distinção de canon registrada:** a concessão territorial aos Clãs e o
+  pacto de blasfêmia com Terbs são acordos separados. Unificá-los exigiria
+  decisão explícita.
+- Nenhum capítulo ou esquema foi alterado.
+
+## 2026-11-01 (proteção estatal concreta e recusa de Mário)
+
+- **`insights/duas-vias-de-salvacao-ato-2.md` ampliado** (amarelo;
+  congelamento-L1): Nolan precisa agir na Metrópole para tornar sua oferta
+  crível. Uma hipótese é adiar a tortura pública e melhorar as condições de
+  Mário até Benjamim e Estruzzo cobrarem a blasfêmia.
+- **Juleen e a tortura permanecem em aberto:** Layla pode revelar a Mário a
+  execução sem julgamento de Juleen; ainda é preciso definir sua evidência e
+  motivo. Uma tortura única pode bastar, mas remover a Via Crucis muda a
+  escolha pública de Mário.
+- Nenhum capítulo ou esquema foi alterado.
+
+## 2026-11-01 (a oferta estatal como proteção ao púlpito)
+
+- **`insights/duas-vias-de-salvacao-ato-2.md` ampliado** (amarelo;
+  congelamento-L1): a promessa de Nolan pode incluir proteção legal para
+  Mário pregar aos dois povos. O Estado oferece alcance e estrutura, mas pode
+  capturar a mensagem para legitimar o regime.
+- **Analogia histórica qualificada:** o apoio político à Reforma é um paralelo
+  geral; não registrar como fato que um soberano ofereceu a Calvino poder para
+  fundar uma religião.
+- Nenhum capítulo ou esquema foi alterado.
+
+## 2026-11-01 (revisão do insight: a oferta estatal continua na Metrópole)
+
+- **`insights/duas-vias-de-salvacao-ato-2.md` revisado** (amarelo;
+  congelamento-L1): a via estatal de Nolan não precisa falhar em Gus. Ele pode
+  retornar à Metrópole como agente da coalizão e continuar oferecendo proteção
+  estatal a Mário, sem tratar o auto de custódia como arma contra a horda.
+- **Pendência de canon registrada:** Nolan descobrir Koda como espião no L1
+  conflita com a descoberta da traição por Gunad no L2 e altera a lógica da
+  abertura do portão. A pista Mina-Gus permanece apenas uma pista até essa
+  escolha.
+- Nenhum capítulo ou esquema foi alterado.
+
+## 2026-11-01 (insight: duas vias de salvação no Ato 2)
+
+- **Hipótese estrutural registrada** em `insights/duas-vias-de-salvacao-ato-2.md`
+  (amarelo; destino: congelamento-L1): no Ato 2a, Kate tenta libertar pela
+  guerra; no Ato 2b, Nolan oferece proteção pela custódia estatal. As duas
+  vias falham por causas diferentes.
+- **Distinção de canon preservada:** a ação de Kate não causa o desabamento da
+  Mina; a sabotagem alavriana continua sendo sua causa real. Nolan oferece
+  controle estatal, não salvação altruísta. A entrega de Mário poupa Gus ao
+  custo da própria liberdade, sem resolver os danos anteriores.
+- Nenhum capítulo ou esquema foi alterado; a hipótese fica para o
+  congelamento do L1.
+
+## 2026-11-01 (Reformulação Estrutural dos Caps. 44 e 45 — O Sacrifício Vicário e a Cinza de Gus)
+
+- **`capitulo44.md` (PoV de Mário — reformulado):**
+  - Mário recusa a custódia legal de Nolan e a falsa proteção do Trono para não permitir que Gus seja destruída numa busca prolongada.
+  - Nolan utiliza pragmatismo direto e sem floreios políticos: *"Se você cair nas mãos dos Clãs, você chega à Metrópole aos pedaços, num saco de carga. Sob a custódia da Coroa e o meu mandado, você chega vivo e inteiro para responder ao Conselho."*
+  - Mário caminha sozinho até o pátio diante do portão em chamas e apresenta-se diretamente aos Clãs de Sangue com as mãos abertas: *"Eu sou o homem que vocês querem. Levem-me, mas deixem esta cidade em paz."* Fecho em corte A.
+- **`capitulo45.md` (PoV de Kate — reformulado):**
+  - Os Clãs invadem violentamente o terreiro. Nolan tenta impor o mandado civil de custódia e é humilhado e derrubado na lama e cinzas; o decreto imperial é pisoteado. Mathias arrasta o juiz ferido para salvá-lo.
+  - Mário é subjugado com forquilha e amarrado; troca um último olhar sereno com Kate que a impede de se jogar num combate suicida. Os Clãs tocam retirada imediata com o prêmio vivo, poupando a Cidadela de Gus.
+  - A queimação na nuca de Kate se extingue e sua ambição de liderar uma guerra insurrecional morre na cinza; ela decide descer à Metrópole com Lakand no rastro dos captores para resgatar Mário. Fecho em corte D.
+- **Arquivos da Storybible atualizados:** `temas/esquema-l1.md` e `lugares/cidadela-de-gus.md`.
+
 
 - O manuscrito tem **2.226 palavras**; a contagem acumulada dos caps. 0–43 é **109.313 palavras (~79,5% da régua de 137,5k)**, usando o total registrado até o cap. 40 e as contagens atuais dos caps. 41–43.
 - Criada a ficha `capitulos/capitulo-43.md`; atualizadas as timelines visuais de Kate e Lakand e criada a de Estruzzo.

@@ -1003,6 +1003,8 @@ o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas*
 
 #### Capítulo 40 (PoV de Mário) — A Fenda e o Acolhimento
 - **Abertura:** Descida exaustiva pela ravina norte pós-desabamento da Mina. Frieza e silêncio de Mário em relação a Kate; ele recusa ajuda e alimento dela, repulsado por ter sido usado como cortina para o massacre da família de Uorier.
+- **Os feridos da Mina:** Na descida, encontram mineradores feridos em fuga; um deles acusa com pavor a pregação de Mário de ter atraído a desgraça sobre os escravos e revela que os mutilados buscam refúgio em Gus. Mário assume a dívida moral de seguir os feridos para encarar as consequências do evangelho.
+- **Mediação de Lakand:** O lobo transmite o recado de Kate: ela busca os artífices de Gus para desvendar a sabotagem técnica da Mina e sabe que Nolan não tem jurisdição na cidade dos proscritos.
 - **Chegada à Cidadela de Gus:** Mário testemunha a única terra desenvolvida fora da Metrópole onde humanos e leviantares convivem nas mesmas ruas sem ferros da Segregação.
 - **Reencontro com Decian:** Decian, fugitivo como curandeiro de ervas em Gus, trata os ferimentos de Mário e traz notícias da alcateia: Kenod morreu no colapso pós-massacre e Charles assumiu o bando para caçar a recompensa do Trono.
 - **Fecho:** Mário isolado na oficina, oprimido pela culpa e incapaz de orar. Corte C.
@@ -1028,75 +1030,71 @@ o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas*
 - **Fecho:** Estruzzo recua para a escarpa; o sino soa enquanto as tochas dos Clãs de Sangue começam a descer a serra. Corte A.
 
 #### Capítulo 44 (PoV de Mário) — O Preço da Cidade
-- **Ataque e pânico:** Paliçadas de Gus sob fogo dos mercenários e Clãs de Sangue; aríetes e tochas no arraial exterior sul.
-- **O alerta dos rampillas e o envio de Mathias:** Enquanto Nolan rastreia Mário na oficina com Mathias e Ossan, o xamã toca a terra e lê os sentidos dos quatro rampillas no celeiro sul: fumaça, tochas e canibais cercando o refúgio de Mira e Saboc. Em pânico pelo filho, Nolan divide suas forças e despacha Mathias imediatamente: "Vá! Três batidas secas e a palavra cinza. Tire Mira e o menino antes que incendeiem o celeiro!" Mathias corre pelas vielas em direção ao fosso sul.
-- **Confronto com Nolan:** Desprotegido mas impassível, Nolan surge diante de Mário e apresenta a folha ensanguentada do livro de Uorier: "Ela te usou. Se você ficar, os canibais queimarão Gus inteira." Kate avança com a lâmina; Mário intervém.
-- **Decisão proativa de Mário (Renúncia e sacrifício):** Mário abre mão conscientemente da cátedra e da paz que acabara de receber para poupar a Cidadela da chacina. Entrega-se voluntariamente a Nolan: "Se você tem o mandado da Metrópole, cumpra. Eu me entrego."
-- **A custódia:** Nolan coloca os ferros nos pulsos de Mário e lavra o auto de custódia civil.
-- **Fecho:** O portão de Gus cede; guerreiros canibais invadem o pátio. Corte A.
+- **Ataque e pânico:** Paliçadas de Gus sob o ataque violento dos Clãs de Sangue; aríetes, machados e tochas rompem as defesas exteriores; sinos da Academia em repique lancinante.
+- **Aviso de Kate:** Kate irrompe na carpintaria vinda da muralha norte, avisando que Estruzzo e a horda estão na garganta do vale cobrando a cabeça do forasteiro e o sangue de Hícse; ela exige fugir para o mato alto pela ravina dos carpinteiros, mas Mário recusa correr e deixar Gus queimar.
+- **Confronto com Nolan (Pragmatismo sem floreio):** Nolan surge na oficina escoltado por Mathias com escudo em riste. Sem divagações políticas, Nolan joga na bancada os registros ensanguentados da Mina de Quartzo e faz a proposta pragmática: "Se você cair nas mãos dos Clãs, você chega à Metrópole aos pedaços, num saco de carga. Sob a custódia da Coroa e o meu mandado, você chega vivo e inteiro para responder ao Conselho." Mathias oferece os grilhões.
+- **A recusa de Mário e o sacrifício vicário:** Mário compreende a manobra institucional e recusa a falsa proteção do Trono — esconder-se sob a custódia de Nolan não pouparia Gus da fúria canibal. Mário decide pagar o resgate com o próprio corpo para poupar a Cidadela da chacina.
+- **Fecho:** Mário caminha sozinho até o terreiro da oficina, diante do portão desabando em chamas, e abre as mãos diante da horda invasora: "Eu sou o homem que vocês querem. Levem-me, mas deixem esta cidade em paz." Corte A.
 
-#### Capítulo 45 (PoV de Kate) — A Cinza de Gus e a Perda
-- **A perda da custódia no pátio:** Na praça da Cidadela em chamas, Nolan está desprovido de sua guarda e ergue em vão o auto de apreensão civil; guerreiros dos Clãs de Sangue zombam do papel timbrado, jogam Nolan no pó e arrancam Mário acorrentado para levá-lo diretamente a Genocydo na Metrópole (canon 2026-09-05).
-- **O resgate no celeiro sul visto por Kate:** Ao romper pelo portão sul em perseguição à poeira dos canibais que arrastam Mário, Kate e Lakand testemunham a carruagem metropolitana arrebentar a cerca viva do celeiro em disparada. Kate vê Mathias na boleia desferindo um golpe mortal para arrancar um canibal do estribo e protegendo Mira encolhida com o fardo do bebê, enquanto os quatro rampillas travam combate desesperado no capim e são despedaçados pela horda para cobrir a fuga. A carruagem ganha a estrada do sul.
-- **O destino de Nolan:** Nolan ergue-se humilhado do lajedo da praça; sem o ativo político e sem soldados, reúne-se a Ossan para marchar de volta à capital e cobrar o Templo e o Trono.
-- **Virada interior de Kate:** A culpa pelo sacrifício de Mário destrói a ambição militar de Kate. O sonho de comandar uma insurreição morre na cinza de Gus; seu objetivo exclusivo passa a ser resgatar Mário na Metrópole.
-- **Fecho:** A poeira da estrada do sul; Kate e Lakand partem no encalço de Mário. Corte D.
+#### Capítulo 45 (PoV de Kate) — A Cinza de Gus e o Pacto da Fenda
+- **A entrega voluntária e a captura:** Mário não resiste; é subjugado com uma forquilha de carvalho, atado com cordas de caça e içado sobre uma montaria. Kate e Lakand abatem os primeiros atacantes, mas o olhar de Mário proíbe o sacrifício inútil. Os Clãs tocam retirada imediata com a presa viva, poupando a Cidadela de Gus.
+- **A astúcia e a coalizão de Nolan:** Os artífices armados e Kate encurralam Nolan e Mathias na oficina, exigindo o linchamento do magistrado da corte. Nolan desarma a turba com frieza lógica: adverte que os Clãs levarão Mário vivo para cobrar o edital e que uma marcha rústica de operários seria massacrada no rio Cran. Nolan propõe uma divisão tática: ele próprio descerá à Metrópole para agir por dentro (usar sua posição burocrática para adiar a execução pública com Genocydo e proteger Mário nas celas), enquanto Kate, Lakand e os Artífices organizam a travessia técnica do Cran e o resgate.
+- **A morte da ambição de Kate:** Diante do sacrifício voluntário de Mário, a ambição militar de Kate morre na cinza; junto com Lakand e os Artífices, passa a viver unicamente para resgatá-lo.
+- **Fecho:** Nolan parte para a Metrópole com Mathias e rampillas; Kate embainha a faca e decide descer para a capital com os artífices. Corte D.
 
 ---
 
 ## Tudo Está Perdido (~75%)
 
-Mário é levado para a Metrópole — os **Clãs de Sangue o entregam a Genocydo** (canon 2026-09-05: sem mediação dos Inquiridores) — e colocado no **Caixão de Tortura** em praça pública. Genocydo o humilha, desafia o Deus dele. **É a agenda de Terbs em ação: o objetivo não é só humilhar — é quebrar Mário até que ele blasfeme contra Deus em público (a "simulação da Via Crucis"; correção 2026-08-10).** Mário nega a oferta de refazer a via crucis — por orgulho, achando que pode defender a honra de Jesus.
+Mário é levado para a Metrópole pelos Clãs de Sangue e entregue a Genocydo. 
+
+**O Acordo de Hícse e Terbs:** A cessão formal do Reino aos Clãs de Sangue e a apoteose prometida por Terbs a Genocydo **só se consumam com a blasfêmia pública de Mário**. Hícse sabe que se o Deus do Evangelho criar raízes em Ornick, a soberania dos elohins racha; por isso, a rendição de Mário precisa ser espiritual, pública e humilhante. Os Clãs acampam fora dos muros e aguardam a blasfêmia antes de tomar posse da terra.
+
+**Nolan operando por dentro:** Nolan chega à Metrópole à frente da coalizão e reassume seu posto burocrático para manobrar o rei:
+- Nolan convence Genocydo de que uma execução sumária em calabouço secreto desperdiçaria a vitória política: a blasfêmia precisa ser um grande espetáculo público no festival em Gerikhad, com a multidão reunida, para aniquilar o mito do Souhma. Com isso, ganha tempo precioso.
+- Nolan melhora as condições do cativeiro de Mário: retira-o do poço imundo e o transfere para uma cela seca da torre, entregando-lhe mantas e material de leitura — incluindo a **Bíblia de Kraviam** e notas do diário de Genocydo.
+- Nolan confronta Benjamim com a ameaça física de seus rampillas e desvenda os termos sórdidos do pacto de Terbs.
+- **A semente da quebra:** No caminho de volta, Nolan investiga e descobre que Dagmar foi envenenada por vembra; enfurecido, Nolan executa Juleen sem julgamento formal, quebrando seu próprio código de legalidade.
 
 ---
 
 ## Noite Escura da Alma (~75-80%)
 
-No calabouço, Mário tem visões. Pela primeira vez, **ora sem pedir**. Apenas se cala diante de Deus.
-
-Nolan, movido pelo filho Saboc, leva água e comida escondido. Mário pede que ele perdoe os humanos. Nolan rejeita.
-
-Visões: Deus fala que Genocydo pagará por ter desafiado a Ele, não a Mário.
-
-Os revoltosos bolam cerco à Metrópole. Kate arregimenta em **Gus** — hegralianos da nova Academia dos Artífices (professores fugidos da Metrópole) e convertidos; entre eles, infiltrados de Alavria (canon 2026-09-05) — para resgatar Mário. Benjamim (Terbs) **cobra o contrato**: entrega a blasfêmia pública de Mário e recebe a apoteose — isca que Genocydo ainda crê real.
+**A tentação da via estatal (Ato 2b):** Na cela, Mário lê a Bíblia e recebe visitas regulares de Nolan. 
+- Nolan oferece a Mário a salvação via Estado: se Mário concordar em se apresentar ao Conselho da Metrópole ao lado de Nolan, o prestígio do Souhma vivo permitirá a Nolan derrubar Genocydo e assumir o trono. Em troca, Nolan promete proteção legal, liberdade de culto e o apoio do Estado para o evangelho (um paralelo com o apoio principesco à Reforma). Mário, exausto e temendo a tortura iminente, é profundamente tentado pelas vantagens pragmáticas da proposta.
+- **A fissura de Juleen:** Layla visita Mário na cela e revela que Nolan mandou executar Juleen sem processo ou direito de defesa. Mário confronta Nolan: percebe que a prometida "reconciliação" de Nolan é uma farsa e que o Estado que ele propõe continuará esmagando os fracos para preservar a ordem.
+- **O embate diante do Conselho:** Nolan leva Mário perante o Conselho do Trono, seguro da validação de seu golpe de Estado. Mas, diante dos conselheiros, Mário recusa endossar Nolan. Mário denuncia a hipocrisia da ordem estatal e rejeita ser o trunfo político de um novo tirano. O golpe de Nolan desaba publicamente.
+- **O custo aceito:** Sem o manto protetor de Nolan, Genocydo reassume o controle e decreta o suplício imediato. Mário compreende e aceita o custo: será submetido à tortura do **Garfo do Herege** em praça pública.
 
 ---
 
 ## Break Into 3 (~80%)
 
-Mário aceita a **Via Crucis** — não por submissão orada, mas porque acha que exposição pública da Palavra será benéfica. **Ironia (correção 2026-08-10): ele entra consciente na simulação de Terbs — o inimigo quer a blasfêmia pública; Mário acredita que pode transformar o palco da vergonha em exposição da Palavra.** Genocydo refaz a via crucis com Mário lendo a Bíblia. A simulação não arranca a blasfêmia — no Final, a arma de Terbs vira testemunho.
-
-Durante o festival, o portão se abre: Nolan crê liderar a abertura (o golpe dele), mas quem a executa é **Koda, por Alavria** — deixa entrar, com os revoltosos, o destacamento alavriano oculto (infiltrados + força de choque). Lupe'i não participa (canon 2026-09-05).
+**O Garfo do Herege em Gerikhad:** Mário é levado ao patíbulo público durante o festival e preso com o Garfo do Herege (as quatro pontas agudas de ferro cravando-se sob o queixo e contra o esterno). O aparelho não permite que a cabeça tombe sem perfurar a garganta; o objetivo de Genocydo e Terbs é forçá-lo a verbalizar a blasfêmia para aliviar a agonia. 
+- No Garfo, o orgulho de Mário e sua tentativa de controlar o desfecho se despedaçam: ele cede absolutamente o controle a Deus, suportando a dor sem pronunciar a negação.
+- **A Incursão de Gus:** Simultaneamente, a força de Kate, Lakand e os Artífices de Gus lança o assalto cruzando o rio Cran com balsas e mecanismos de engenharia, iniciando o cerco e rompendo as portas inferiores da Metrópole para resgatá-lo.
 
 ---
 
 ## Final (~80-99%)
 
-Mário é tirado da cruz. Genocydo está morto: um infiltrado do destacamento alavriano o matou durante a tomada. Kate e Nolan querem que Mário faça um grande discurso para inspirar os dele contra os alavrianos.
+**O Resgate Humano:** Em meio ao incêndio e ao tumulto do assalto de Kate, Lakand e Kate rompem até a praça de Gerikhad. Lakand ou Kate avança sobre o cadafalso e arranca os ferros do Garfo do Herege do pescoço de Mário. Mário é libertado por ação humana direta de seus companheiros.
 
-**Mário hesita.** Retira-se para orar. Pela primeira vez, ora sem pedidos:
+**Surpresa na Torre Alta (O Golpe de Alavria):** Quando o resgate parece concluído, a armadilha se fecha. Koda Deltëra, agindo como espião de Alavria, abre os portões sul para o **destacamento oculto de Alavria** (força de choque e infiltrados). A incursão de Kate fora usada como cavalo de Troia. Os alavrianos invadem a praça para massacrar a nobreza e anexar a Metrópole. Um infiltrado alavriano assassina Genocydo. A cidade inteira está prestes a ser exterminada.
 
-> _"Não o que eu quero. O que o Senhor quer."_
-
-O silêncio é a resposta. Não há anjos, não há visão — apenas o silêncio. Lá fora, nos portões, a carnificina divina — estilo premonição, eco do sonho do cap. 1 — **aniquila todos os alavrianos** (exceção deliberada ao guardrail do milagre; ver `insights/nolan-sufoca-boatos-sinal.md`). Não há celebração — há pânico. O milagre é aterrorizante.
-
-**Mário não discursa.** Recusa o palco. O povo o coroa **também por medo** do deus que causou a carnificina — a legitimidade nasce envenenada, solo do L2.
+**A Oração e a Intervenção Divina:**
+- Mário, ensanguentado, enfraquecido e amparado por Kate e Lakand, vê o exército alavriano avançando para o banho de sangue.
+- Tendo já renunciado ao controle no Garfo, Mário ergue uma súplica audível a Deus por socorro e misericórdia — sem exigir táticas nem operar milagre como arma (eco bíblico de 2 Crônicas 20:12: *"Não sabemos o que fazer, mas os nossos olhos estão em Ti"*).
+- **Ação Divina Soberana:** Fora de qualquer fórmula mágica, Deus intervém com juízo soberano. Uma mortandade invisível e aterrorizante — eco exato da carnificina nos portões vista no sonho profético do Cap. 1 — fulmina instantaneamente todo o destacamento alavriano nas entradas da Metrópole.
+- **O Terror e a Coroação Envenenada:** Não há cânticos de vitória ou celebração; há pavor cósmico. A população e os conselheiros sobreviventes testemunham o aniquilamento dos invasores e, tomados de pânico reverente diante do Deus invocado pelo Souhma, **entronam Mário como Rei** para aplacar a cólera do Senhor do céu. A legitimidade do reinado nasce envenenada pelo medo.
 
 ---
 
 ## Imagem Final (~99-100%)
 
-O povo rejeita Nolan e **entrona Mário como Rei**. A coroa chega pelas mãos dos outros, não pela ambição dele.
+Mário é coroado sob os olhares aterrorizados do povo. A coroa é um fardo pesado de sangue e tremor, estabelecendo o terreno para os dilemas morais do Livro 2.
 
-Nolan, furioso, aceita pacto com **Terbs** — acha que usa Terbs, mas é usado.
-**Para Nolan, o pacto é também o abandono do próprio deus (Vonos)**: a fé
-institucional que sustentava a ordem dele se quebra no mesmo gesto da traição
-política. **A rachadura que antecedeu a queda foi o diário de Genocydo
-(semente #15): o deus da Verdade trouxe um terráqueo (Kraviam) para o
-experimento de um "filho de Deus" no trono — mas Kraviam só parecia cristão
-(era Nachash), e o povo o entronizou como "Antigo Rei" por erro de
-interpretação. A ordem que Nolan servia era a impostura do próprio deus —
-ou o deus enganado por um falso cristão.** A transição para o L2 está plantada.
+Nolan, desprovido de seu cargo, humilhado pelo colapso de sua ordem racional e rejeitado pela corte, entra em ruína espiritual. Compreendendo a farsa da religião de Vonos através do diário de Genocydo (semente #15), Nolan sela um pacto nas sombras com **Terbs**, iniciando sua trajetória de vingança e heresia para o Livro 2.
 
 ---
 
@@ -1109,22 +1107,22 @@ ou o deus enganado por um falso cristão.** A transição para o L2 está planta
 | **Monólito de diamante maculado** com entalhes de coroa sobre sol nascente e inscrição quebrada | Mário vê o **Monólito real da Praça Central** quando é levado prisioneiro à Metrópole. A inscrição quebrada no sonho agora está legível. O Monólito está intacto, mas já não firma a leitura. | Mostra que a profecia do sonho se cumpriu: o monumento da Verdade nunca foi a verdade. |
 | **"Talvez o preferido do Rei já tenha fugido"**                                                 | Alguém (Kate? Nolan?) diz que Mário **"fugiu"** quando ele se retira para orar em vez de discursar.                                                                             | Eco verbal que amarra profecia a cumprimento.                                          |
 | **Fraticida seduzido por Hícse**                                                                | Mário vê **Genocydo como espelho**: o outro terráqueo que cedeu à promessa errada. Mário não responde com argumento — apenas **silencia**.                                      | Mostra que Mário aprendeu a diferença entre os dois exércitos do sonho.                |
-| **"Esse é seu papel. Impeça."**                                                                 | Mário **impede pela rendição, não pela ação**. A oração sem pedidos é o ato de "impedir".                                                                                       | A Voz estava certa: ele **podia** impedir. Mas o método era entrega, não esforço.      |
+| **"Esse é seu papel. Impeça."**                                                                 | Mário **impede pela rendição no Garfo e pela súplica pública, não pela força**. A renúncia ao controle e a oração de dependência consumam o papel.                                                                                       | A Voz estava certa: ele **podia** impedir. Mas o método era entrega, não esforço.      |
 | **"Sangue do seu próprio sangue!"**                                                             | Genocydo (terráqueo como Mário) é torturador e espelho. Mário o reconhece como o que ele mesmo poderia ter sido.                                                                | Paralelo de origem: dois terráqueos, dois caminhos.                                    |
 | **Guerra que não acabou**                                                                       | Na última cena, Mário — já coroado — **ouve o mesmo som distante**: Hícse solta, Alavria se preparando, Nolan conspirando. Agora ele **não teme**.                              | A última linha do L1 ecoa a primeira do sonho.                                         |
-| **"Aprenda com eles"**                                                                          | Mário **aplica** o que aprendeu: recusa o controle, aceita o silêncio, não pega o palco.                                                                                        | Aprendizado encarnado, não intelectualizado.                                           |
+| **"Aprenda com eles"**                                                                          | Mário **aplica** o que aprendeu: recusa a via estatal de Nolan, aceita o Garfo, não usa a fé como arma.                                                                                        | Aprendizado encarnado, não intelectualizado.                                           |
 
 ### Notas de Execução
 
 1. **O eco do Monólito** não precisa ser um momento mastigado. Pode ser uma linha seca: Mário vê o Monólito ao entrar na Metrópole, reconhece os entalhes, e segue em silêncio.
 
-2. **"O preferido fugiu"** pode vir de Kate, frustrada por Mário ter se retirado para orar. A ironia é que a fuga dele é o ápice da jornada.
+2. **"O preferido fugiu"** pode vir de Nolan ou dos nobres, frustrados por Mário recusar o papel de orador e o púlpito estatal.
 
 3. **Genocydo como espelho** é o momento mais arriscado: pode virar exposição se mal executado. Sugestão: Genocydo diz apenas uma frase ambígua sobre a origem deles, e Mário **não responde**.
 
 4. **O som distante na última cena** deve ser sutil — quase imperceptível. Mário não se vira para olhar.
 
-5. **A oração sem pedidos** é o momento em que "Aprenda com eles" se consuma. Mário pensa nos mortos do sonho — nos dois exércitos — e entende que todos eles morreram por reinos e deuses que não salvam.
+5. **A rendição no Garfo e a súplica:** No Garfo, Mário quebra o orgulho de defender a honra de Deus com argumentos; diante da invasão de Alavria, sua oração por misericórdia ecoa Josafá (2 Crônicas 20:12): Mário pensa nos mortos do sonho — nos dois exércitos — e entende que nenhum reino ou espada da terra salva.
 
 ---
 

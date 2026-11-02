@@ -63,14 +63,14 @@ Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
    recompensa de **resgate** (quer o Souhma VIVO — canon cap. 18: "Quem o
    encontrar, prenda. Vivo.")
 2. Durante o L1, alimentado por Benjamim, busca a **apoteose** — o
-   **contrato com Terbs** (correção 2026-08-10): se Genocydo **levar Mário
-   à blasfêmia pública** (via simulação da Via Crucis), Terbs o tornaria
-   **deus**. A apoteose é a **recompensa do contrato**, não um processo
+   **contrato com Terbs**: se Genocydo **levar Mário
+   à blasfêmia pública** (via Garfo do Herege em Gerikhad), Terbs o tornaria
+   **deus**, e o Reino seria formalmente cedido aos Clãs de Sangue por ordem de Hícse. A apoteose é a **recompensa do contrato**, não um processo
    que Genocydo persegue por si — é o pagamento por entregar a blasfêmia do
    Souhma. Terbs mente: a recompensa é isca; Genocydo é o instrumento.
-3. Prende Mário e, instruído por Benjamim, refaz a Paixão de Cristo como
-   **simulação de blasfêmia pública** (via crucis)
-4. É morto no final do L1
+3. Prende Mário após a entrega em Gus e o submete ao Garfo do Herege
+   em praça pública durante o grande festival para forçar a blasfêmia
+4. É assassinado no final do L1 por um infiltrado do destacamento alavriano durante a invasão do portão sul
 
 ## Relações
 
