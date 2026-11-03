@@ -1014,7 +1014,7 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 - **O livro de registros:** Nolan recolhe as poucas páginas legíveis, mas elas não recompõem quarenta anos de dívidas e cotas de quartzo. Sem o volume completo, a Coroa perde a conta confiável da produção e das remessas.
 - **Dedução técnica e cegueira de classe:** Nolan percebe que as cargas foram postas nos pontos de sustentação ("havia outros homens dentro daquela montanha"). Ele descarta os trabalhadores por preconceito, não por evidência; a rede alavriana entre os devedores continua invisível para ele.
 - **Um destino provável, não confirmado:** As pegadas na garganta norte estão misturadas demais para distinguir o grupo de Mário. Pela geografia, Nolan conclui que a Cidadela de Gus é o refúgio mais provável para os fugitivos e parte com carruagem e escolta; ainda não sabe se Mário sobreviveu.
-- **Viagem, proteção da família e espera:** No trajeto pela rota secundária, cruza com grupos de sobreviventes ainda seguindo para o vale, sem conseguir confirmar que Mário está entre eles. Chega aos arredores de Gus no fim da tarde do dia seguinte. Acomoda Mira, Saboc e a carruagem no celeiro sul sob senha rigorosa ("três batidas secas e a palavra cinza") e deixa os rampillas sob a quietude de Ossan. Decide esperar a primeira leva de carroções da manhã para entrar disfarçado.
+- **Viagem, proteção da família e espera:** O cocheiro conduz a carruagem pela rota secundária; Mathias ajuda nos trechos estreitos. Nolan cruza com sobreviventes ainda seguindo para o vale, sem confirmar se Mário está entre eles. Chega aos arredores de Gus no fim da tarde do dia seguinte. Acomoda Mira, Saboc, o cocheiro e a carruagem no celeiro sul sob senha rigorosa ("três batidas secas e a palavra cinza"), deixando os rampillas sob a quietude de Ossan. O cocheiro mantém a parelha pronta para uma retirada enquanto Nolan espera a manhã para entrar disfarçado.
 - **Fecho:** Nolan deixa Mira e Saboc no celeiro e prepara a entrada ao amanhecer. Corte A.
 
 #### Capítulo 41 (PoV de Mário) — A Cátedra dos Proscritos
@@ -1025,7 +1025,7 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 - **A grande tentação:** Orval oferece a Mário uma cátedra formal na Academia de Gus — mesa, respeito, pão e segurança. Mário sente a tentação da fuga burguesa e compara o carinho dos homens com o silêncio austero e doloroso da Voz. Corte C.
 
 #### Capítulo 42 (PoV de Nolan) — O Rastro e o Disfarce
-- **Entrada disfarçada:** Na manhã seguinte, Nolan prepara com Mathias e Ossan a identidade de mercador de Garyun e cruza o portão sul a pé, misturado aos carroções. Mira e Saboc permanecem no celeiro.
+- **Entrada disfarçada:** Na manhã seguinte, Nolan prepara com Mathias e Ossan a identidade de mercador de Garyun e cruza o portão sul a pé, misturado aos carroções. Mira, Saboc e o cocheiro permanecem no celeiro com a carruagem pronta.
 - **A cidade que ele tentou sufocar:** Nolan atravessa Gus sem os símbolos do Trono; vê humanos e leviantares trabalhando juntos e ouve artífices discutindo a falha do Sinal de Vonos e dos diapasões de Rifte.
 - **Notícias dos Clãs:** Na taverna, compra informações sobre os Clãs de Sangue e seus alvarás. Deduz equivocadamente que a carta que enviou a Genocydo precipitou a negociação.
 - **O risco de ser reconhecido:** Um antigo mestre hegraliano fixa o olhar em Nolan e quase o identifica. Nolan não pode fugir nem reagir como juiz; Mathias contém a mão junto à espada e Ossan interrompe a linha de visão.

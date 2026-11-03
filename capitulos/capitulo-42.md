@@ -5,14 +5,14 @@ pov: Nolan
 beat_stc: Vilões se Aproximam
 percentual_l1: ~78,0%
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo42.md
-timestamp: 2026-11-02T22:15:00-03:00
+timestamp: 2026-11-03T06:42:00-03:00
 ---
 
 # Capítulo 42 — O Rastro e o Disfarce (POV Nolan)
 
 ## Resumo
 
-Na manhã seguinte à chegada de Nolan aos arredores de Gus, ele deixa Mira, Saboc e a carruagem escondidos no celeiro e prepara o disfarce de mercador de Garyun para cruzar o portão com Mathias e Ossan. A infiltração depende de não revelar o porte de juiz nem chamar atenção entre os carroções. Dentro da Cidadela, a convivência sem Segregação e a conversa aberta sobre a falha do Sinal expõem o mundo que Nolan tentou sufocar com decretos. Na taverna, compra informações sobre os Clãs de Sangue e deduz, equivocadamente, que sua própria carta provocou a negociação do Trono. Um antigo mestre hegraliano quase o reconhece; Nolan segura o disfarce enquanto Mathias se contém e Ossan quebra a linha de visão. Seguindo os feridos da Mina até a carpintaria, Nolan confirma por testemunho que Mário está abrigado ali. É o único dos dois capítulos de Nolan em que a fumaça dos Clãs aparece: ele a vê ao norte e decide que precisa alcançar o Estrangeiro antes do ataque.
+Na manhã seguinte à chegada de Nolan aos arredores de Gus, ele deixa Mira, Saboc, o cocheiro e a carruagem no celeiro. O cocheiro mantém os cavalos prontos para uma retirada enquanto Nolan prepara o disfarce de mercador de Garyun para cruzar o portão com Mathias e Ossan. A infiltração depende de não revelar o porte de juiz nem chamar atenção entre os carroções. Dentro da Cidadela, a convivência sem Segregação e a conversa aberta sobre a falha do Sinal expõem o mundo que Nolan tentou sufocar com decretos. Na taverna, compra informações sobre os Clãs de Sangue e deduz, equivocadamente, que sua própria carta provocou a negociação do Trono. Um antigo mestre hegraliano quase o reconhece; Nolan segura o disfarce enquanto Mathias se contém e Ossan quebra a linha de visão. Seguindo os feridos da Mina até a carpintaria, Nolan confirma por testemunho que Mário está abrigado ali. É o único dos dois capítulos de Nolan em que a fumaça dos Clãs aparece: ele a vê ao norte e decide que precisa alcançar o Estrangeiro antes do ataque.
 
 ## Personagens
 
@@ -20,6 +20,7 @@ Na manhã seguinte à chegada de Nolan aos arredores de Gus, ele deixa Mira, Sab
 - **Mathias** — escolta disfarçada de mercenário de estrada; sua mão se aproxima da espada durante o quase reconhecimento, mas Nolan o impede de reagir.
 - **Ossan** — xamã daërunmege; acompanha a infiltração e interrompe a linha de visão do antigo mestre na taverna.
 - **Mira e Saboc** — permanecem escondidos no celeiro sul; não entram na Cidadela.
+- **Cocheiro da comitiva** — fica no celeiro com Mira e Saboc, mantendo os cavalos e a carruagem prontos para uma retirada.
 - **Sentinelas e carroceiros de Gus** — vigiam a passagem e dão à comitiva cobertura entre os carregamentos.
 - **Artífices de Gus** — discutem a falha do Sinal de Vonos e dos diapasões de Rifte.
 - **Serviçal da taverna** — vende informações sobre a descida dos Clãs de Sangue.

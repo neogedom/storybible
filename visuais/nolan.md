@@ -145,7 +145,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Objetos**: folhas do livro de dívidas de Uorier manchadas de sangue; edital real de custódia no bolso.
 - **Local**: pátio arruinado da Mina → garganta norte com pegadas sobrepostas → celeiro fora da muralha sul de Gus.
 - **Expressão**: cálculo contábil diante da ruína; atenção técnica ao desabamento; reserva diante dos corpos da família de Uorier.
-- **Ação**: recupera as folhas de dívida, conclui que a implosão foi técnica, não consegue distinguir os rastros da fuga e escolhe Gus como destino provável. Deixa Mira e Saboc no celeiro sob senha e quietude dos rampillas, esperando a manhã para entrar.
+- **Ação**: recupera as folhas de dívida, conclui que a implosão foi técnica, não consegue distinguir os rastros da fuga e escolhe Gus como destino provável. O cocheiro conduz a carruagem e, ao chegar, permanece no celeiro com Mira e Saboc, mantendo a parelha pronta. Nolan espera a manhã para entrar.
 - **Iluminação**: poeira cinzenta ao entardecer → luz baixa da chegada ao celeiro.
 
 ## Capítulo 42 — O Rastro e o Disfarce (Mini-INGEST, 2026-11-02)
@@ -156,7 +156,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Local**: celeiro fechado no arraial exterior sul → fosso seco e entrada sul da Cidadela de Gus → ruas de oficinas e fundições → penumbra da taverna baixa no mercado de couros → vielas de serraria e carpintaria.
 - **Expressão**: frieza calculada; repulsa contida diante da ausência de Segregação; controle rígido quando o antigo mestre quase o reconhece.
 - **Ação**: entra com a identidade de mercador de Garyun; cruza o portão na sombra dos carroções; ouve artífices e tropeiros; paga por inteligência; não reage à suspeita do antigo mestre, impedindo Mathias de levar a mão à espada; segue os feridos até receber confirmação de que Mário está na carpintaria; vê a fumaça dos Clãs.
-- **Séquito**: Mira, Saboc e carruagem trancados no celeiro; quatro rampillas agachados no capim externo; Mathias e Ossan a pé ao lado dele.
+- **Séquito**: Mira e Saboc no celeiro com o cocheiro e a carruagem; quatro rampillas agachados no capim externo; Mathias e Ossan a pé ao lado dele.
 - **Iluminação**: luz da manhã na entrada e nas ruas de cantaria de Gus → penumbra enfumaçada da taverna → fumaça escura no horizonte norte.
 
 ## Histórico por Capítulo

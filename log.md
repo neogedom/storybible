@@ -1,5 +1,16 @@
 # Log de Atualizações
 
+## 2026-11-03 (presença do cocheiro no bloco de Gus)
+
+- Cap. 40: o cocheiro conduz a carruagem pela rota secundária; Mathias ajuda
+  nos trechos estreitos. Ao chegar a Gus, o cocheiro fica no celeiro com Mira
+  e Saboc e mantém a parelha pronta para a retirada.
+- Cap. 42: explicitado que Nolan entra a pé com Mathias e Ossan, deixando a
+  família, o cocheiro e a carruagem no celeiro.
+- Sincronizados o resumo do cap. 40, o resumo do cap. 42, o esquema L1, o
+  visual de Nolan e a semente #30, que agora inclui o cocheiro na retirada
+  prevista. Ele permanece sem nome e sem arco próprio.
+
 ## 2026-11-03 (comentários do cap. 40)
 
 - Resolvidos os quatro comentários `(* ... *)` do manuscrito: a importância da
