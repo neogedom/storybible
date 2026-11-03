@@ -5,14 +5,14 @@ pov: Nolan
 beat_stc: Vilões se Aproximam
 percentual_l1: ~74,5%
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo40.md
-timestamp: 2026-11-02T22:10:00-03:00
+timestamp: 2026-11-03T06:20:00-03:00
 ---
 
 # Capítulo 40 — A Ruína e o Rumo (POV Nolan)
 
 ## Resumo
 
-Quase uma hora após o colapso da Mina de Quartzo, Nolan desce ao pátio devastado com Mathias. Constata o assassinato da família do barão Uorier, recolhe as folhas ensanguentadas do livro de dívidas e identifica a demolição técnica dos pilares mestres, deduzindo a presença de outros agentes sabotadores. As pegadas na garganta norte estão misturadas demais para identificar qualquer grupo. Pela geografia, Nolan calcula que a Cidadela de Gus é o único refúgio viável para o Estrangeiro e os feridos; não sabe se Mário sobreviveu nem se de fato tomou esse rumo. Parte com carruagem e escolta, alcança os arredores de Gus no fim da tarde do dia seguinte e acomoda Mira, Saboc e a carruagem num celeiro discreto. Dá à ama uma senha rigorosa ("três batidas secas e a palavra cinza") e deixa os rampillas sob a quietude de Ossan. Nolan decide esperar o fluxo de carroções da manhã para entrar na Cidadela disfarçado.
+Quase uma hora após o colapso da Mina de Quartzo, Nolan desce ao pátio devastado com Mathias. Ele não presenciou a execução da família Uorier: uma fonte nas galerias lhe avisara que o sangue da família seria o sinal para o levante, e os corpos confirmam o relato. A Mina era a única fonte de quartzo do Reino; as remessas para Rifte sustentavam parte decisiva da receita mineral da Coroa. Nolan recolhe as poucas páginas legíveis do livro de registros, mas não consegue recuperar as contas de quarenta anos. Identifica a demolição técnica dos pilares mestres e suspeita de outros agentes, embora descarte os devedores por preconceito de classe. As pegadas na garganta norte estão misturadas demais para identificar qualquer grupo. Pela geografia, calcula que a Cidadela de Gus é o refúgio mais provável para o Estrangeiro e os feridos, sem saber se Mário sobreviveu nem se tomou esse rumo. No caminho pela rota secundária, cruza com grupos de fugitivos que ainda seguem para o vale, mas não consegue confirmar se Mário está entre eles. Chega aos arredores de Gus no fim da tarde do dia seguinte, acomoda Mira e Saboc no celeiro e decide esperar a manhã para entrar disfarçado.
 
 ## Personagens
 
@@ -25,10 +25,12 @@ Quase uma hora após o colapso da Mina de Quartzo, Nolan desce ao pátio devasta
 
 ## Eventos
 
-- Inspeção da Mina pós-colapso: Nolan avalia a insolvência da Coroa, constata a degola da família Uorier e recolhe as folhas de dívida.
-- Análise da implosão técnica: Nolan deduz que escravos e Mário não teriam perícia para implodir pilares mestres com fogo de rocha ("havia outros homens dentro daquela montanha").
+- Inspeção da Mina pós-colapso: Nolan percebe que a perda da única fonte de quartzo do Reino ameaça a receita mineral da Coroa; Rifte era um comprador importante.
+- A fonte nas galerias já lhe dissera que a execução da família seria o sinal do levante. Nolan não a testemunhou; os corpos confirmam o relato.
+- Recolhe as páginas legíveis do livro de dívidas, insuficientes para reconstituir quarenta anos de contas.
+- Análise da implosão técnica: Nolan deduz que os devedores não teriam perícia para implodir pilares mestres com fogo de rocha ("havia outros homens dentro daquela montanha"), mas sua exclusão dos trabalhadores vem de preconceito, não de prova.
 - Dedução geográfica: a lama pisoteada não permite identificar rastros; Nolan conclui que Gus é a rota mais provável para os fugitivos.
-- Viagem pela rota secundária e chegada aos arredores de Gus no fim da tarde do dia seguinte.
+- Viagem lenta pela rota secundária; Nolan cruza com sobreviventes ainda seguindo para o vale, mas não consegue confirmar que Mário está entre eles. Chega aos arredores de Gus no fim da tarde do dia seguinte.
 - Acomodação de Mira, Saboc, carruagem e rampillas no celeiro sob senha de emergência.
 - Fecho: Nolan decide esperar a manhã e entrar misturado aos carroções, sem ainda saber onde Mário está.
 

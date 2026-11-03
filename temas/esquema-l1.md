@@ -999,7 +999,7 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 
 ## Vilões se Aproximam (~68-75%) — O Bloco da Cidadela de Gus
 
-> **Mapeamento Cap-a-Cap (canon 2026-11-02):** O bloco desenvolve a convergência de Mário, Kate e Nolan na Cidadela de Gus, o interlúdio acadêmico, o ultimato de Estruzzo e dos Clãs de Sangue, a entrega sacrificial de Mário e a aliança tática de resgate.
+> **Mapeamento Cap-a-Cap (canon 2026-11-03):** O bloco desenvolve a convergência de Mário, Kate e Nolan na Cidadela de Gus, o interlúdio acadêmico, o ultimato de Estruzzo e dos Clãs de Sangue, a entrega sacrificial de Mário e a aliança tática de resgate.
 
 #### Capítulo 39 (PoV de Mário) — A Fenda e o Acolhimento
 - **Abertura:** A cena ocorre nos primeiros minutos após o desabamento, antes de a poeira começar a baixar. Mário desce pela ravina norte, frio e em silêncio com Kate; recusa ajuda e alimento dela, repulsado por ter sido usado como cortina para o massacre da família de Uorier.
@@ -1010,9 +1010,11 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 - **Fecho:** Mário isolado na oficina, oprimido pela culpa e incapaz de orar. Corte C.
 
 #### Capítulo 40 (PoV de Nolan) — A Ruína e o Rumo
-- **Ruína da Mina e dedução técnica:** Quase uma hora após o colapso, Nolan desce ao pátio da Mina com Mathias. Constata a família de Uorier degolada, recolhe as folhas de dívida e deduz a sabotagem dos pilares mestres ("havia outros homens dentro daquela montanha").
+- **Ruína, receita e informação da fonte:** Quase uma hora após o colapso, Nolan desce ao pátio da Mina com Mathias. A Mina é a única fonte de quartzo do Reino; as remessas para Rifte sustentam parte decisiva da receita mineral da Coroa. Nolan não presenciou a execução da família de Uorier: uma fonte nas galerias lhe dissera que o sangue da família seria o sinal do levante, e os corpos confirmam a notícia.
+- **O livro de registros:** Nolan recolhe as poucas páginas legíveis, mas elas não recompõem quarenta anos de dívidas e cotas de quartzo. Sem o volume completo, a Coroa perde a conta confiável da produção e das remessas.
+- **Dedução técnica e cegueira de classe:** Nolan percebe que as cargas foram postas nos pontos de sustentação ("havia outros homens dentro daquela montanha"). Ele descarta os trabalhadores por preconceito, não por evidência; a rede alavriana entre os devedores continua invisível para ele.
 - **Um destino provável, não confirmado:** As pegadas na garganta norte estão misturadas demais para distinguir o grupo de Mário. Pela geografia, Nolan conclui que a Cidadela de Gus é o refúgio mais provável para os fugitivos e parte com carruagem e escolta; ainda não sabe se Mário sobreviveu.
-- **Proteção da família e espera:** No fim da tarde do dia seguinte à queda, chega aos arredores de Gus. Acomoda Mira, Saboc e a carruagem no celeiro sul sob senha rigorosa ("três batidas secas e a palavra cinza") e deixa os rampillas sob a quietude de Ossan. Decide esperar a primeira leva de carroções da manhã para entrar disfarçado.
+- **Viagem, proteção da família e espera:** No trajeto pela rota secundária, cruza com grupos de sobreviventes ainda seguindo para o vale, sem conseguir confirmar que Mário está entre eles. Chega aos arredores de Gus no fim da tarde do dia seguinte. Acomoda Mira, Saboc e a carruagem no celeiro sul sob senha rigorosa ("três batidas secas e a palavra cinza") e deixa os rampillas sob a quietude de Ossan. Decide esperar a primeira leva de carroções da manhã para entrar disfarçado.
 - **Fecho:** Nolan deixa Mira e Saboc no celeiro e prepara a entrada ao amanhecer. Corte A.
 
 #### Capítulo 41 (PoV de Mário) — A Cátedra dos Proscritos

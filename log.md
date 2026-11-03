@@ -1,5 +1,19 @@
 # Log de Atualizações
 
+## 2026-11-03 (comentários do cap. 40)
+
+- Resolvidos os quatro comentários `(* ... *)` do manuscrito: a importância da
+  Mina agora se explica pela produção e venda de quartzo, sem introduzir
+  empréstimos não estabelecidos do Templo; a execução de Uorier é informação
+  recebida por fonte, não presenciada por Nolan; a função do livro de registros
+  é descrita por dívidas e cotas de remessa; a viagem inclui fugitivos ainda
+  seguindo para Gus e obstáculos da rota, sem confirmar se Mário está entre
+  eles.
+- Tornada explícita como cegueira de Nolan sua suposição de que trabalhadores
+  pobres não poderiam executar a sabotagem; a pista alavriana permanece oculta.
+- Atualizados `Livro 1/capitulo40.md`, `capitulos/capitulo-40.md` e
+  `temas/esquema-l1.md`; removidos todos os marcadores de comentário do cap. 40.
+
 ## 2026-11-02 (Desdobramento do capítulo de Nolan em Gus)
 
 - O cap. 40 foi separado em dois objetivos: Nolan lê a ruína e decide procurar
