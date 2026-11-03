@@ -1,5 +1,16 @@
 # Log de Atualizações
 
+## 2026-11-03 (pedido de cura dos sobreviventes nos caps. 39-41)
+
+- O pedido de cura foi deslocado para a chegada à enfermaria no cap. 39, onde
+  Mário já ajuda a carregar um ferido. Um sobrevivente que o chama de Souhma
+  pede cura; Mário não promete milagre, chama Decian e fica ao lado dele,
+  ciente dos outros feridos que ainda esperam.
+- O cap. 41 mantém apenas o eco emocional já presente na cena do descanso: o
+  conforto de Gus quase lhe parece uma ofensa diante do que deixou na Mina.
+- Removido o comentário `(* ... *)` do cap. 41. Atualizados `capitulo39.md`,
+  `capitulos/capitulo-39.md` e `temas/esquema-l1.md`.
+
 ## 2026-11-03 (presença do cocheiro no bloco de Gus)
 
 - Cap. 40: o cocheiro conduz a carruagem pela rota secundária; Mathias ajuda

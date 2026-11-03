@@ -5,14 +5,14 @@ pov: Mário
 beat_stc: Vilões se Aproximam
 percentual_l1: ~73,3%
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo39.md
-timestamp: 2026-11-02T22:00:00-03:00
+timestamp: 2026-11-03T20:47:00-03:00
 ---
 
 # Capítulo 39 — A Fenda e o Acolhimento (POV Mário)
 
 ## Resumo
 
-Nos primeiros minutos após o desabamento, antes de a poeira começar a baixar, Mário encontra mais de uma dezena de fugitivos espalhados em pequenos grupos pela trilha; três feridos estão mais perto. O grupo encontrado ainda não chegou a Gus, mas quem consegue andar segue para lá em busca de socorro. Um deles repele Mário com pavor e ódio, acusando sua pregação de ter trazido a ruína sobre os escravos. Mário assume a dívida moral de ir atrás dos sobreviventes e encarar as consequências de sua passagem. Depois, recusa a água e o contato de Kate, que tenta justificar a violência contra a família de Uorier; Mário a acusa de ter usado a pregação para abrir um açougue. Lakand atua como elo entre os dois: transmite que Kate quer a perícia dos artífices de Gus para descobrir a causa técnica do desabamento e que Nolan não tem autoridade na cidade. Ao meio-dia do dia seguinte, Mário chega ao planalto da Cidadela de Gus ao lado dos sobreviventes que ainda caminham; alguns já alcançaram a cidade, enquanto outros vêm atrás, amparando os feridos. Mário se depara com uma ordem inédita de convivência livre entre humanos e não-humanos sem chicotes nem divisões. Acolhido na carpintaria, reencontra Decian, que agora vive disfarçado tratando os artífices. Decian cuida dos ferimentos de Mário, descobre o nome do forasteiro e relata que Kenod morreu de velhice e ferimentos, e que Charles assumiu a alcateia para caçar a recompensa do Trono. Mário fecha os olhos diante do silêncio gélido da Voz.
+Nos primeiros minutos após o desabamento, antes de a poeira começar a baixar, Mário encontra mais de uma dezena de fugitivos espalhados em pequenos grupos pela trilha; três feridos estão mais perto. O grupo encontrado ainda não chegou a Gus, mas quem consegue andar segue para lá em busca de socorro. Um deles repele Mário com pavor e ódio, acusando sua pregação de ter trazido a ruína sobre os escravos. Mário assume a dívida moral de ir atrás dos sobreviventes e encarar as consequências de sua passagem. Depois, recusa a água e o contato de Kate, que tenta justificar a violência contra a família de Uorier; Mário a acusa de ter usado a pregação para abrir um açougue. Lakand atua como elo entre os dois: transmite que Kate quer a perícia dos artífices de Gus para descobrir a causa técnica do desabamento e que Nolan não tem autoridade na cidade. Ao meio-dia do dia seguinte, Mário chega ao planalto da Cidadela de Gus ao lado dos sobreviventes que ainda caminham; alguns já alcançaram a cidade, enquanto outros vêm atrás, amparando os feridos. Mário se depara com uma ordem inédita de convivência livre entre humanos e não-humanos sem chicotes nem divisões. Na carpintaria, ajuda a levar um ferido até Decian; quando o homem lhe pede uma cura, Mário não promete milagre, chama o curandeiro e permanece ao lado dele. Vendo os demais feridos à espera, Mário não sabe como poderá ajudar a todos. Decian também cuida dos cortes de Mário, descobre o nome do forasteiro e relata que Kenod morreu de velhice e ferimentos, e que Charles assumiu a alcateia para caçar a recompensa do Trono. Mário fecha os olhos diante do silêncio gélido da Voz.
 
 ## Personagens
 
@@ -31,6 +31,7 @@ Nos primeiros minutos após o desabamento, antes de a poeira começar a baixar, 
 - Encontro, logo após a saída da Mina, com mais de uma dezena de fugitivos dispersos em pequenos grupos; três feridos estão mais perto. Eles ainda não chegaram a Gus, mas quem consegue andar segue para lá, guiado pelo rumor de água e atendimento médico. Um sobrevivente acusa a pregação de Mário pelo desastre; Mário abraça o dever de encarar os frutos de sua passagem.
 - Mediação de Lakand: Kate quer o saber técnico dos artífices para provar que não explodiu a montanha e sabe que Nolan não tem jurisdição em Gus.
 - Ao meio-dia do dia seguinte, visão panorâmica e entrada na Cidadela de Gus: contraste visual com a feira de Tronk e as senzalas da Mina (casas de pedra, água compartilhada, convivência sem correntes).
+- Na enfermaria, Mário ajuda a levar um ferido até Decian. O homem pede que o Souhma o cure; Mário não promete milagre, chama o curandeiro e permanece ao lado dele. Os outros feridos continuam esperando, e Mário não sabe como poderá ajudar todos.
 - Chegada à carpintaria e colapso físico de Mário por exaustão e poeira de quartzo.
 - Reencontro com Decian: tratamento com água morna e casca de raiz negra; Decian pergunta e aprende o nome de Mário.
 - Relato de Decian sobre a dispersão da alcateia, a morte de Kenod e a liderança de Charles caçando a recompensa do Trono no norte.
