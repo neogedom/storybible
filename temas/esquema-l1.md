@@ -991,37 +991,44 @@ o **Nota de beat (checkpoint 2026-09-18):** é aqui que **Kate mede ferramentas*
 
 > **⚠️ AVISO:** O conteúdo abaixo (Vilões se Aproximam em diante) ainda não foi planejado cap-a-cap — ao detalhá-lo, usar sempre a numeração nova (a mesma dos arquivos do livro).
 
-> **Atualização 2026-10-23 — Mini-INGEST do cap. 40.** O manuscrito do cap. 40 tem
-> **2.177 palavras**; a contagem acumulada dos caps. 0–40 atinge **100.835 palavras (73,3% da régua de 137,5k)**.
+u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada como cap. 40 (atual cap. 39).** O manuscrito daquela versão tinha
+> **2.177 palavras**; a contagem acumulada dos caps. 0–40 atingia **100.835 palavras (73,3% da régua de 137,5k)**. Esses valores são históricos e não descrevem a numeração ou a contagem atuais.
 > O bloco da Cidadela de Gus fecha o beat Vilões se Aproximam e estabelece o limiar de Tudo Está Perdido.
 
 ---
 
 ## Vilões se Aproximam (~68-75%) — O Bloco da Cidadela de Gus
 
-> **Mapeamento Cap-a-Cap (canon 2026-10-20):** O bloco desenvolve a convergência de Mário, Kate e Nolan na Cidadela de Gus, o interlúdio acadêmico, o ultimato de Estruzzo e dos Clãs de Sangue e a entrega sacrificial de Mário.
+> **Mapeamento Cap-a-Cap (canon 2026-11-02):** O bloco desenvolve a convergência de Mário, Kate e Nolan na Cidadela de Gus, o interlúdio acadêmico, o ultimato de Estruzzo e dos Clãs de Sangue, a entrega sacrificial de Mário e a aliança tática de resgate.
 
-#### Capítulo 40 (PoV de Mário) — A Fenda e o Acolhimento
-- **Abertura:** Descida exaustiva pela ravina norte pós-desabamento da Mina. Frieza e silêncio de Mário em relação a Kate; ele recusa ajuda e alimento dela, repulsado por ter sido usado como cortina para o massacre da família de Uorier.
-- **Os feridos da Mina:** Nos primeiros minutos após o desabamento, ao deixarem a saída, encontram mais de uma dezena de fugitivos espalhados em pequenos grupos; três feridos estão mais perto. Eles ainda não chegaram a Gus, mas quem consegue andar segue para lá, guiado pelo rumor de água e atendimento médico. Um deles acusa com pavor a pregação de Mário de ter atraído a desgraça sobre os escravos. Mário assume a dívida moral de seguir os sobreviventes para encarar as consequências do evangelho. A cena se sobrepõe à hora de poeira e busca mostrada pelo POV de Nolan no cap. 39.
+#### Capítulo 39 (PoV de Mário) — A Fenda e o Acolhimento
+- **Abertura:** A cena ocorre nos primeiros minutos após o desabamento, antes de a poeira começar a baixar. Mário desce pela ravina norte, frio e em silêncio com Kate; recusa ajuda e alimento dela, repulsado por ter sido usado como cortina para o massacre da família de Uorier.
+- **Os feridos da Mina:** Logo após deixarem a saída, encontram mais de uma dezena de fugitivos espalhados em pequenos grupos; três feridos estão mais perto. O grupo ainda não chegou a Gus, mas quem consegue andar segue para lá em busca de socorro. Um deles acusa com pavor a pregação de Mário de ter atraído a desgraça sobre os escravos. Mário assume a dívida moral de seguir os sobreviventes para encarar as consequências do evangelho.
 - **Mediação de Lakand:** O lobo transmite o recado de Kate: ela busca os artífices de Gus para desvendar a sabotagem técnica da Mina e sabe que Nolan não tem jurisdição na cidade dos proscritos.
-- **Chegada à Cidadela de Gus, no dia seguinte ao meio-dia:** Mário testemunha a única terra desenvolvida fora da Metrópole onde humanos e leviantares convivem nas mesmas ruas sem ferros da Segregação.
+- **Chegada à Cidadela de Gus, ao meio-dia do dia seguinte:** Mário chega com os sobreviventes que ainda caminhavam; alguns já alcançaram a cidade, enquanto outros vêm atrás amparando os feridos. Ele testemunha a única terra desenvolvida fora da Metrópole onde humanos e leviantares convivem nas mesmas ruas sem ferros da Segregação.
 - **Reencontro com Decian:** Decian, fugitivo como curandeiro de ervas em Gus, trata os ferimentos de Mário e traz notícias da alcateia: Kenod morreu no colapso pós-massacre e Charles assumiu o bando para caçar a recompensa do Trono.
 - **Fecho:** Mário isolado na oficina, oprimido pela culpa e incapaz de orar. Corte C.
 
-#### Capítulo 41 (PoV de Nolan) — O Juiz na Cidade dos Proscritos
-- **Abertura e disfarce:** Nolan acomoda Mira, Saboc e a carruagem no celeiro sul fora das muralhas, combinando com a ama a senha de emergência ("três batidas secas e a palavra cinza"); os quatro rampillas ficam agachados no mato como sentinela sob controle de raiz de Ossan. No celeiro, Nolan instrui Mathias a agir como mercenário de escolta ("patrão"), ensaia o sotaque arrastado de Garyun e absorve o conselho de Ossan de que "homem da estrada conhece de longe quem vive de dar sentença".
-- **Infiltração e choque de ordem:** Entram a pé misturados a carroções de salitre pela entrada sul. Nolan sente repulsa visceral pela anarquia organizada de Gus (humanos e leviantares sem Segregação) e entreouve artífices discutindo as falhas nos diapasões de Rifte e a quebra do Sinal.
-- **Inteligência e dedução:** Na taverna do entreposto, Nolan capta boatos de condutores de carga sobre tropas do norte com sinetes vermelhos. Deduz que o Trono abriu as gargantas aos Clãs de Sangue para recolher o curandeiro e supõe erroneamente que sua própria carta à capital precipitou a loucura de Genocydo e Benjamim.
-- **Quase reconhecimento e trilha:** Um mestre hegraliano da Academia velha da Metrópole quase o identifica na taverna; Ossan quebra o contato visual. Nolan localiza no barro da carpintaria as marcas da bota manca do forasteiro, as garras de Lakand e os passos de Kate.
-- **Fecho:** Fumaça dos Clãs de Sangue no horizonte norte; Nolan aperta o auto de custódia civil, determinado a prender o Estrangeiro antes que a cidade seja massacrada. Corte A.
+#### Capítulo 40 (PoV de Nolan) — A Ruína e o Rumo
+- **Ruína da Mina e dedução técnica:** Quase uma hora após o colapso, Nolan desce ao pátio da Mina com Mathias. Constata a família de Uorier degolada, recolhe as folhas de dívida e deduz a sabotagem dos pilares mestres ("havia outros homens dentro daquela montanha").
+- **Um destino provável, não confirmado:** As pegadas na garganta norte estão misturadas demais para distinguir o grupo de Mário. Pela geografia, Nolan conclui que a Cidadela de Gus é o refúgio mais provável para os fugitivos e parte com carruagem e escolta; ainda não sabe se Mário sobreviveu.
+- **Proteção da família e espera:** No fim da tarde do dia seguinte à queda, chega aos arredores de Gus. Acomoda Mira, Saboc e a carruagem no celeiro sul sob senha rigorosa ("três batidas secas e a palavra cinza") e deixa os rampillas sob a quietude de Ossan. Decide esperar a primeira leva de carroções da manhã para entrar disfarçado.
+- **Fecho:** Nolan deixa Mira e Saboc no celeiro e prepara a entrada ao amanhecer. Corte A.
 
-#### Capítulo 42 (PoV de Mário) — A Cátedra dos Proscritos
+#### Capítulo 41 (PoV de Mário) — A Cátedra dos Proscritos
 - **Worldbuilding de Gus e Vitysh:** O dia a dia da Cidadela e o legado do Castelo do Saber (símbolos do esquadro, prumo e concha de água).
 - **A aula de geometria e forças:** Mário assiste a uma aula ministrada pelo mestre Orval. A identificação profunda de Mário com a vida acadêmica e o rigor do pensamento livre.
 - **A hipótese hegraliana:** Orval partilha a visão dos filósofos de Vitysh: os deuses do Limbo não criaram o mundo; são forças cósmicas imensas domesticadas por mitos sacerdotais para cobrar tributo.
 - **As estrelas desconhecidas:** Mário revela discretamente que suas estrelas natais não existem naquele céu, confirmando que Ornick é uma província cósmica aberta.
 - **A grande tentação:** Orval oferece a Mário uma cátedra formal na Academia de Gus — mesa, respeito, pão e segurança. Mário sente a tentação da fuga burguesa e compara o carinho dos homens com o silêncio austero e doloroso da Voz. Corte C.
+
+#### Capítulo 42 (PoV de Nolan) — O Rastro e o Disfarce
+- **Entrada disfarçada:** Na manhã seguinte, Nolan prepara com Mathias e Ossan a identidade de mercador de Garyun e cruza o portão sul a pé, misturado aos carroções. Mira e Saboc permanecem no celeiro.
+- **A cidade que ele tentou sufocar:** Nolan atravessa Gus sem os símbolos do Trono; vê humanos e leviantares trabalhando juntos e ouve artífices discutindo a falha do Sinal de Vonos e dos diapasões de Rifte.
+- **Notícias dos Clãs:** Na taverna, compra informações sobre os Clãs de Sangue e seus alvarás. Deduz equivocadamente que a carta que enviou a Genocydo precipitou a negociação.
+- **O risco de ser reconhecido:** Um antigo mestre hegraliano fixa o olhar em Nolan e quase o identifica. Nolan não pode fugir nem reagir como juiz; Mathias contém a mão junto à espada e Ossan interrompe a linha de visão.
+- **Localização de Mário:** Seguindo os feridos da Mina até a carpintaria, Nolan confirma com uma testemunha que o Estrangeiro chegou e está abrigado na marcenaria.
+- **Fecho:** Só Nolan vê a fumaça dos Clãs ao norte. Decide alcançar Mário antes que a horda chegue. Corte A.
 
 #### Capítulo 43 (PoV de Kate) — O Rastro da Deusa
 - **A recusa de Lakand:** À noite, na estrebaria, Kate busca refúgio no corpo de Lakand para tentar fugir do olhar de Mário; Lakand a afasta com lucidez ("Saramant virou cinza; você só quer anestesiar a cara do forasteiro").

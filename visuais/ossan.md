@@ -24,7 +24,13 @@ timestamp: 2026-08-26
 - **Postura**: senta-se à mesa de Uorier, fora do lugar dos criados; ninguém
   volta a tratá-lo como criado.
 
-## Capítulo 41 — O Rastro e o Disfarce (Mini-INGEST, 2026-10-25)
+## Capítulo 40 — A Ruína e o Rumo
+
+- **Vestimenta**: túnica surrada de linho cru, cabelo preso por tira de couro e sacola de estopa com terra preta e sementes.
+- **Postura**: mantém os quatro rampillas agachados no capim do celeiro sul sob quietude pelo canal da terra.
+- **Ação**: acompanha Nolan até os arredores de Gus e sustenta a guarda discreta da carruagem, Mira e Saboc.
+
+## Capítulo 42 — O Rastro e o Disfarce (Mini-INGEST, 2026-11-02)
 
 - **Vestimenta**: túnica surrada de linho cru com que fugira de Saramant; cabelos ásperos presos por uma tira de couro; sacola de estopa a tiracolo com terra preta e sementes secas.
 - **Postura**: passos silenciosos sobre o pó; meio passo atrás de Nolan e Mathias; senta-se em banco baixo na taverna raspando uma raiz com a unha polegar.

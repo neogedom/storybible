@@ -139,16 +139,25 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Iluminação**: subida e observação da Mina durante o dia; o texto não fixa
   a iluminação da refeição.
 
-## Capítulo 41 — O Rastro e o Disfarce (Mini-INGEST, 2026-10-25)
+## Capítulo 40 — A Ruína e o Rumo
+
+- **Vestimenta**: casaco preto coberto de poeira, gola salpicada de sangue alheio, corte fino na têmpora; insígnia do Conselho escondida no forro ao chegar aos arredores de Gus.
+- **Objetos**: folhas do livro de dívidas de Uorier manchadas de sangue; edital real de custódia no bolso.
+- **Local**: pátio arruinado da Mina → garganta norte com pegadas sobrepostas → celeiro fora da muralha sul de Gus.
+- **Expressão**: cálculo contábil diante da ruína; atenção técnica ao desabamento; reserva diante dos corpos da família de Uorier.
+- **Ação**: recupera as folhas de dívida, conclui que a implosão foi técnica, não consegue distinguir os rastros da fuga e escolhe Gus como destino provável. Deixa Mira e Saboc no celeiro sob senha e quietude dos rampillas, esperando a manhã para entrar.
+- **Iluminação**: poeira cinzenta ao entardecer → luz baixa da chegada ao celeiro.
+
+## Capítulo 42 — O Rastro e o Disfarce (Mini-INGEST, 2026-11-02)
 
 - **Vestimenta**: casaco preto de corte metropolitano, agora desprovido de insígnias de bronze (escondida no forro), lapelas e botas empoeiradas pela descida da serra; punhos de camisa recolhidos.
 - **Óculos**: armação fina sobre o nariz, usados para manter o disfarce de letrado de Garyun.
 - **Acessórios**: folhas arrancadas do livro de dívidas de Uorier (com manchas de sangue seco) e o auto de custódia civil nos bolsos internos; moeda de prata gasta de feira.
-- **Local**: celeiro fechado no arraial exterior sul → fosso seco e entrada sul da Cidadela de Gus → ruas de oficinas e fundições → penumbra da taverna baixa no mercado de couros → vielas de serraria até a soleira da carpintaria.
-- **Expressão**: frieza calculada; repulsa contida diante da ausência de Segregação; concentração analítica ao ler o solo; rigidez disfarçada na soleira da taverna.
-- **Ação**: tranca o celeiro e define a senha com Mira; instrui Mathias e ensaia sotaque arrastado de Garyun; cruza o portão na sombra das carroças; entreouve artífices e tropeiros; paga por inteligência; evita reconhecimento baixando o olhar; rastreia pegadas no barro e avista a fumaça dos Clãs.
+- **Local**: celeiro fechado no arraial exterior sul → fosso seco e entrada sul da Cidadela de Gus → ruas de oficinas e fundições → penumbra da taverna baixa no mercado de couros → vielas de serraria e carpintaria.
+- **Expressão**: frieza calculada; repulsa contida diante da ausência de Segregação; controle rígido quando o antigo mestre quase o reconhece.
+- **Ação**: entra com a identidade de mercador de Garyun; cruza o portão na sombra dos carroções; ouve artífices e tropeiros; paga por inteligência; não reage à suspeita do antigo mestre, impedindo Mathias de levar a mão à espada; segue os feridos até receber confirmação de que Mário está na carpintaria; vê a fumaça dos Clãs.
 - **Séquito**: Mira, Saboc e carruagem trancados no celeiro; quatro rampillas agachados no capim externo; Mathias e Ossan a pé ao lado dele.
-- **Iluminação**: penumbra abafada do celeiro → luz fria e cinzenta do meio-dia nas ruas de cantaria de Gus → penumbra enfumaçada da taverna → céu opaco com fumaça escura no horizonte norte.
+- **Iluminação**: luz da manhã na entrada e nas ruas de cantaria de Gus → penumbra enfumaçada da taverna → fumaça escura no horizonte norte.
 
 ## Histórico por Capítulo
 

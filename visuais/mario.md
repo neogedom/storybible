@@ -75,7 +75,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Iluminação | Antes da luz (madrugada); poeira da descarga suspensa no ar             |
 | Fundo      | Saída da fenda; mato alto ao lado do acampamento dos mercenários        |
 
-## Capítulo 40 — A Fenda e o Acolhimento
+## Capítulo 39 — A Fenda e o Acolhimento
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |

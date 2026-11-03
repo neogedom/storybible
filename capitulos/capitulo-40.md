@@ -1,46 +1,41 @@
 ---
 type: Chapter
-title: Capítulo 40 — A Fenda e o Acolhimento
-pov: Mário
+title: Capítulo 40 — A Ruína e o Rumo
+pov: Nolan
 beat_stc: Vilões se Aproximam
-percentual_l1: ~73,3%
+percentual_l1: ~74,5%
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo40.md
-timestamp: 2026-10-23T01:25:00-03:00
+timestamp: 2026-11-02T22:10:00-03:00
 ---
 
-# Capítulo 40 — A Fenda e o Acolhimento (POV Mário)
+# Capítulo 40 — A Ruína e o Rumo (POV Nolan)
 
 ## Resumo
 
-Nos primeiros minutos após o desabamento, Mário encontra mais de uma dezena de fugitivos espalhados em pequenos grupos pela trilha; três feridos estão mais perto. Eles ainda não chegaram a Gus, mas quem consegue andar segue para lá, guiado pelo rumor de água e atendimento médico. Um deles repele Mário com pavor e ódio, acusando sua pregação de ter trazido a ruína sobre os escravos. Mário assume a dívida moral de ir atrás dos sobreviventes e encarar as consequências de sua passagem. Depois, recusa a água e o contato de Kate, que tenta justificar a violência contra a família de Uorier; Mário a acusa de ter usado a pregação para abrir um açougue. Lakand atua como elo entre os dois: transmite que Kate quer a perícia dos artífices de Gus para descobrir a causa técnica do desabamento e que Nolan não tem autoridade na cidade. No dia seguinte, ao meio-dia, o grupo chega ao planalto da Cidadela de Gus, onde Mário se depara com uma ordem inédita de convivência livre entre humanos e não-humanos sem chicotes nem divisões. Acolhido na carpintaria, reencontra Decian, que agora vive disfarçado tratando os artífices. Decian cuida dos ferimentos de Mário, descobre o nome do forasteiro e relata que Kenod morreu de velhice e ferimentos, e que Charles assumiu a alcateia para caçar a recompensa do Trono. Mário fecha os olhos diante do silêncio gélido da Voz.
+Quase uma hora após o colapso da Mina de Quartzo, Nolan desce ao pátio devastado com Mathias. Constata o assassinato da família do barão Uorier, recolhe as folhas ensanguentadas do livro de dívidas e identifica a demolição técnica dos pilares mestres, deduzindo a presença de outros agentes sabotadores. As pegadas na garganta norte estão misturadas demais para identificar qualquer grupo. Pela geografia, Nolan calcula que a Cidadela de Gus é o único refúgio viável para o Estrangeiro e os feridos; não sabe se Mário sobreviveu nem se de fato tomou esse rumo. Parte com carruagem e escolta, alcança os arredores de Gus no fim da tarde do dia seguinte e acomoda Mira, Saboc e a carruagem num celeiro discreto. Dá à ama uma senha rigorosa ("três batidas secas e a palavra cinza") e deixa os rampillas sob a quietude de Ossan. Nolan decide esperar o fluxo de carroções da manhã para entrar na Cidadela disfarçado.
 
 ## Personagens
 
-- **Mário** — POV; em choque moral, fisicamente exausto, corta laços emocionais com Kate e tenta buscar sentido na oração, encontrando silêncio.
-- **Kate** — marcha à frente; tenta justificar a sobrevivência e a degola de Uorier; confrontada por Mário, recua em fúria contida.
-- **Lakand** — fecha a retaguarda em marcha híbrida; silencioso, não intervém na briga; troca olhar sem palavras com Decian.
-- **Sentinelas de Gus** — guardas de gibão de couro simples na paliçada; dão passagem ao grupo ao verem o estado de fuga e indicam a enfermaria.
-- **Decian** — curandeiro daërunmege vivendo em forma humana na baia de ervas da carpintaria; acolhe Mário, trata os cortes com raiz negra, pergunta o nome dele e atualiza a situação da alcateia (morte de Kenod e ascensão de Charles).
-- **Charles e Kenod** — não aparecem em cena; mencionados por Decian como líder ativo mercenário e ancião falecido.
-- **Nolan** — não aparece em cena; mencionado indiretamente por Kate como o homem do casaco preto com soldados no túnel da Mina.
+- **Nolan** — POV; pragmatismo contábil e político; recupera as folhas do livro de Uorier e deduz a demolição técnica da Mina; escolhe Gus como destino provável, mas ainda não confirma que Mário está vivo nem que chegou lá.
+- **Mathias** — acompanha Nolan desde a fuga da Mina; guarda de escolta da Coroa e apoio na viagem.
+- **Mira e Saboc** — permanecem escondidos na carruagem e no celeiro fora das muralhas; Nolan nota a serenidade sobrenatural da criança ressuscitada por Mário.
+- **Ossan** — xamã daërunmege; sustenta a quietude dos quatro rampillas deixados como guarda do celeiro.
+- **Gwill Uorier e família** — corpos examinados por Nolan no pátio da Mina; degolados antes do colapso.
+- **Mário, Kate e Lakand** — não aparecem; Nolan só infere que o Estrangeiro pode ter sobrevivido e fugido com o grupo.
 
 ## Eventos
 
-- Fuga pela ravina norte com tropeços e sede; Mário recusa deliberadamente a água oferecida por Kate.
-- Confronto direto no capim seco: Kate alega que comprou a saída de Mário; Mário afirma que ninguém pediu que comprasse nada com sangue de criança e pregação corrompida.
-- Encontro, logo após a saída da Mina, com mais de uma dezena de fugitivos dispersos em pequenos grupos; três feridos estão mais perto. Eles ainda não chegaram a Gus, mas quem consegue andar segue para lá, guiado pelo rumor de água e atendimento médico. Um sobrevivente acusa a pregação de Mário pelo desastre; Mário abraça o dever de encarar os frutos de sua passagem.
-- Mediação de Lakand: Kate quer o saber técnico dos artífices para provar que não explodiu a montanha e sabe que Nolan não tem jurisdição em Gus.
-- No dia seguinte, ao meio-dia, visão panorâmica e entrada na Cidadela de Gus: contraste visual com a feira de Tronk e as senzalas da Mina (casas de pedra, água compartilhada, convivência sem correntes).
-- Chegada à carpintaria e colapso físico de Mário por exaustão e poeira de quartzo.
-- Reencontro com Decian: tratamento com água morna e casca de raiz negra; Decian pergunta e aprende o nome de Mário.
-- Relato de Decian sobre a dispersão da alcateia, a morte de Kenod e a liderança de Charles caçando a recompensa do Trono no norte.
-- Fecho: Mário busca em vão uma oração; a Voz permanece em silêncio absoluto e o jovem adormece no escuro.
+- Inspeção da Mina pós-colapso: Nolan avalia a insolvência da Coroa, constata a degola da família Uorier e recolhe as folhas de dívida.
+- Análise da implosão técnica: Nolan deduz que escravos e Mário não teriam perícia para implodir pilares mestres com fogo de rocha ("havia outros homens dentro daquela montanha").
+- Dedução geográfica: a lama pisoteada não permite identificar rastros; Nolan conclui que Gus é a rota mais provável para os fugitivos.
+- Viagem pela rota secundária e chegada aos arredores de Gus no fim da tarde do dia seguinte.
+- Acomodação de Mira, Saboc, carruagem e rampillas no celeiro sob senha de emergência.
+- Fecho: Nolan decide esperar a manhã e entrar misturado aos carroções, sem ainda saber onde Mário está.
 
 ## Sementes e Conexões
 
-- **Kenod e Charles:** A morte do ancião Kenod fecha a transição de comando da alcateia. Charles assume os remanescentes como caçadores mercenários a serviço do edital da Metrópole (preparando o perigo da retaguarda no norte e o arco de "Cão da Inquisição" no L2).
-- **A Cidadela de Gus:** Apresentação da cidade sem Segregação; prepara o interlúdio com a Academia dos Artífices no cap. 42 e o cerco militar no cap. 43.
-- **A Voz e o Silêncio:** O silêncio da Providência após o massacre da Mina contrasta com a repreensão e revelação do cap. 26, acentuando a crise teológica de Mário rumo a *Tudo Está Perdido*.
-- **Fronteira:** O cap. 39 fechou com Nolan analisando o desabamento técnico da Mina e seguindo rastros para Gus. O cap. 40 processa a fuga e estabelece a chegada de Mário e Kate a Gus. O cap. 41 muda para o POV de Nolan entrando clandestinamente na Cidadela.
-- **Fecho:** Corte **C** (decisão/retenção). Mário recolhe-se na penumbra da oficina, isolado de Kate, incapaz de justificar o sangue inocente.
-- **Conexões:** [cap. 38](/capitulos/capitulo-38.md), [cap. 39](/capitulos/capitulo-39.md), [cap. 41](/temas/esquema-l1.md), [Cidadela de Gus](/lugares/cidadela-de-gus.md), [Decian](/personagens/decian.md).
+- **Semente #29 (O Desengano de Nolan):** A suspeita de sabotagem por agentes desconhecidos prepara a revelação posterior sobre a rede de Alavria.
+- **Semente #30 (O Canal dos Rampillas e a Senha):** A senha e o celeiro sul preparam a fuga e o resgate no cap. 45.
+- **Fronteira:** O cap. 39 mostrou Mário chegando a Gus ao meio-dia. O cap. 40 acompanha Nolan até os arredores da cidade, sem confirmar o paradeiro de Mário. O cap. 41 acompanha a manhã de Mário na Academia; o cap. 42 mostra Nolan entrando disfarçado.
+- **Fecho:** Corte **A** (decisão). Nolan escolhe esperar a primeira leva de carroções para atravessar o portão.
+- **Conexões:** [cap. 38](/capitulos/capitulo-38.md), [cap. 39](/capitulos/capitulo-39.md), [cap. 41](/capitulos/capitulo-41.md), [Cidadela de Gus](/lugares/cidadela-de-gus.md).

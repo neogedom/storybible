@@ -67,7 +67,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Postura    | Deitado virado para fora → engatinhando para trás → de pé torto, fugindo para o mato |
 | Fundo      | Boca da fenda; mato alto ao lado do acampamento                        |
 
-## Capítulo 40 — A Fenda e o Acolhimento
+## Capítulo 39 — A Fenda e o Acolhimento
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |

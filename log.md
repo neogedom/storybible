@@ -1,5 +1,35 @@
 # Log de Atualizações
 
+## 2026-11-02 (Desdobramento do capítulo de Nolan em Gus)
+
+- O cap. 40 foi separado em dois objetivos: Nolan lê a ruína e decide procurar
+  Mário em Gus, depois deixa Mira, Saboc e a carruagem protegidos nos arredores;
+  o cap. 42 acompanha a preparação do disfarce, a entrada na Cidadela e a
+  investigação que confirma onde Mário está.
+- A chegada de Nolan aos arredores fica no fim da tarde do dia seguinte à
+  queda. Ele espera a manhã para entrar, no mesmo período em que Mário está na
+  Academia no cap. 41. O percurso e a noite de espera ficam explícitos.
+- A fumaça dos Clãs sai do fim do cap. 41 e aparece apenas no POV de Nolan no
+  cap. 42. A quase identificação pelo antigo mestre foi ampliada para pôr em
+  risco o disfarce, sem alterar a informação obtida.
+- Renumeração: a antiga Kate do cap. 42 passa ao 43; o antigo cap. 43 passa ao
+  44; o antigo cap. 44 passa ao 45; o bloco seguinte da Metrópole começa no
+  46. Manuscritos, fichas, esquema, página de Gus, sementes, insight e visuais
+  dos personagens envolvidos foram sincronizados.
+
+## 2026-11-02 (Fusão do capítulo de Nolan e renumeração do bloco de Gus)
+
+- **Fusão do POV de Nolan:** O antigo capítulo 39 (Nolan na ruína da Mina de Quartzo) foi fundido com o antigo capítulo 41 (Nolan chegando em Gus, disfarce de Garyun, taberna e confirmação do paradeiro de Mário). O novo capítulo cobre um arco completo de Nolan: leitura do desabamento técnico, resgate do livro de dívidas de Uorier, dedução geográfica de que os fugitivos marcham para Gus, viagem, disfarce, escuta dos diapasões e boatos dos Clãs, quase reconhecimento e localização de Mário na enfermaria dos carpinteiros.
+- **Renumeração dos capítulos (Livro 1 e Story Bible):**
+  - **Capítulo 39 (novo):** POV Mário — A Fenda e o Acolhimento (antigo cap. 40).
+  - **Capítulo 40 (novo):** POV Nolan — O Rastro e o Disfarce (fusão dos antigos 39 e 41).
+  - **Capítulo 41 (novo):** POV Mário — A Cátedra dos Proscritos (antigo cap. 42).
+  - **Capítulo 42 (novo):** POV Kate — O Rastro da Deusa (antigo cap. 43).
+  - **Capítulo 43 (novo):** POV Mário — O Preço da Cidade (antigo cap. 44).
+  - **Capítulo 44 (novo):** POV Kate — A Cinza de Gus e o Pacto da Fenda (antigo cap. 45).
+  - `Livro 1/capitulo45.md` removido.
+- **Story Bible atualizada:** Fichas de capítulos sincronizadas em `capitulos/capitulo-39.md`, `capitulo-40.md`, `capitulo-41.md`, `capitulo-42.md`, `capitulo-43.md` e `capitulo-44.md`. Atualizados `temas/esquema-l1.md` e `lugares/cidadela-de-gus.md`.
+
 ## 2026-11-02 (vítimas da Mina no capítulo 40)
 
 - Reposicionado o encontro com os mineradores feridos para poucos passos após
@@ -13,6 +43,22 @@
   vista pelo POV de Nolan no cap. 39.
 - Atualizados `Livro 1/capitulo40.md`, `capitulos/capitulo-40.md` e
   `temas/esquema-l1.md`.
+
+## 2026-11-02 (continuidade da saída da Mina até a Cidadela)
+
+- O cap. 39 agora se passa quase uma hora após o desabamento e mostra Nolan
+  encontrando os mesmos sobreviventes vistos por Mário. Ele não distingue
+  pegadas na fuga coletiva; uma testemunha informa que Mário seguiu com Kate e
+  Lakand para a Cidadela de Gus.
+- O cap. 40 marca a cena de Mário como anterior ao início da queda da poeira e
+  esclarece que parte dos sobreviventes chega à Cidadela antes dele. Mário
+  alcança Gus ao meio-dia do dia seguinte.
+- O cap. 41 situa Nolan no fim da tarde do mesmo dia. Ele segue os sobreviventes
+  até a enfermaria dos carpinteiros e confirma por testemunho que Mário está
+  abrigado na oficina; a localização não depende de rastros individualizados.
+- Atualizados `Livro 1/capitulo39.md`, `capitulo40.md`, `capitulo41.md`,
+  `capitulos/capitulo-40.md`, `capitulos/capitulo-41.md`,
+  `temas/esquema-l1.md` e `lugares/cidadela-de-gus.md`.
 
 ## 2026-11-01 (Consolidação do Final do L1 e Pós-Mina no Story Bible e Manuscritos)
 

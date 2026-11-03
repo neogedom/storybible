@@ -3,39 +3,37 @@ type: Chapter
 title: Capítulo 43 — O Rastro da Deusa
 pov: Kate
 beat_stc: Vilões se Aproximam
-percentual_l1: ~79,5% (real, régua 137,5k)
+percentual_l1: ~77,5%
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo43.md
-timestamp: 2026-10-30T06:39:00-03:00
+timestamp: 2026-11-02T22:15:00-03:00
 ---
 
 # Capítulo 43 — O Rastro da Deusa (POV Kate)
 
 ## Resumo
 
-À noite, Kate procura Lakand na estrebaria e tenta usar a proximidade dele para fugir da culpa e do desprezo de Mário. Lakand a afasta: ela não busca a cama dele, mas uma volta impossível a Saramant. Na muralha norte, Estruzzo surge da sombra e agradece, com escárnio, por Kate ter matado Gaviorn'l e lhe dado o comando da horda. Ele diz que Terbs cedeu o vale aos Clãs de Sangue e revela que Gaviorn'l era o selo de Hícse; Kate rejeita a explicação. Os canibais farejam nela a brasa da deusa, e Kate passa a interpretar a fome e a queimação como sinais de Hícse. Estruzzo exige que entreguem o forasteiro vivo ao amanhecer, ou Gus será destruída; o sino da Academia anuncia a invasão.
+À noite, Kate procura Lakand na estrebaria da carpintaria e tenta usar a proximidade física dele para fugir da culpa e da frieza com que Mário a trata desde a matança na Mina. Lakand a afasta: ela não busca a cama dele, mas uma volta impossível às tocas de Saramant. Na muralha norte, Estruzzo surge da sombra e tripudia com escárnio sobre a morte de Gaviorn'l, agradecendo a Kate por cortar a garganta do velho e pôr o chicote em suas mãos. Ele avisa que Terbs cedeu o vale aos Clãs de Sangue para pagar a dívida da deusa que Kate soltou ao matar o lorde. Das pedras surgem batedores canibais que farejam Kate e a reconhecem como portadora da brasa e do apetite da Senhora das Lâminas (Mãe Hícse). Kate interpreta o calor febril em sua nuca como a presença da deusa. Estruzzo exige que entreguem o forasteiro vivo ao amanhecer, ou Gus será massacrada; em seguida, recua para a escuridão. No alto da torre da Academia, o sino de ferro repica o alarme geral enquanto as tochas dos Clãs começam a descer a montanha.
 
 ## Personagens
 
-- **Kate** — POV; procura Lakand para escapar do confronto moral com Mário. Primeiro rejeita a explicação de Estruzzo sobre Hícse; depois, diante dos batedores, interpreta a fome e a brasa como influência da deusa.
-- **Lakand** — Deitado na estrebaria sobre estopa limpa; a cicatriz no peito permanece visível. Impede Kate de tocá-lo, solta seu pulso e volta a dormir.
-- **Estruzzo** — Gornad colossal, de escamas cinzentas e placas de osso exposto; órbita esquerda destruída e cicatrizada, olho direito amarelo. Surge da sombra, entrega o ultimato e recua para a escarpa.
-- **Batedores dos Clãs de Sangue** — Canibais de arreios de couro cru, dentes de javali e lanças de osso; farejam Kate e a reconhecem como portadora da brasa de Hícse.
-- **Mário** — Não aparece; sua reação ao massacre da Mina motiva a tentativa de fuga de Kate.
+- **Kate** — POV; procura Lakand para escapar do confronto moral com Mário; confrontada por Estruzzo e farejada pelos batedores, reconhece a queimação em sua nuca como a brasa de Hícse.
+- **Lakand** — deitado na estrebaria sobre estopa limpa; recusa a aproximação de Kate com sobriedade ("Saramant virou cinza; você só quer anestesiar a cara do forasteiro").
+- **Estruzzo** — gornad colossal com placas de osso exposto e órbita esquerda cicatrizada; lidera a vanguarda e entrega o ultimato de Terbs.
+- **Batedores dos Clãs de Sangue** — canibais com arreios de couro cru e dentes de javali; farejam o sangue de Hícse na carne de Kate.
+- **Mário** — mencionado; sua frieza e julgamento silencioso motivam a fuga de Kate para a estrebaria.
 
 ## Eventos
 
-- Kate abandona a hospedagem e procura Lakand na estrebaria; ele recusa a aproximação e a confronta sobre a perda de Saramant e o julgamento de Mário.
-- Na paliçada norte, Estruzzo aparece na sombra. Agradece sarcasticamente a Kate por matar Gaviorn'l, que mantinha a horda sob disciplina.
-- Estruzzo afirma que Terbs prometeu as terras aos Clãs de Sangue como pagamento pela dívida da deusa libertada com a morte de Gaviorn'l. Identifica-o como selo de Hícse; Kate nega a explicação.
-- Os batedores farejam Kate e a chamam de portadora da brasa da Mãe Hícse. Kate associa a fome e a queimação que sente à deusa, e nota que a brasa se intensificou após a queda de Gaviorn'l.
-- Estruzzo exige que o forasteiro seja entregue vivo ao amanhecer; caso contrário, ameaça destruir Gus. Ele e os batedores recuam para a escarpa.
-- O sino da Academia toca enquanto as tochas dos Clãs de Sangue começam a descer a serra.
+- Kate abandona a hospedagem e procura Lakand na estrebaria; o lobo recusa a aproximação e expõe a fuga emocional dela.
+- Kate sobe à muralha norte; Estruzzo materializa-se das sombras da serra com escárnio sobre a morte de Gaviorn'l.
+- Estruzzo revela que Terbs cedeu o vale aos Clãs de Sangue como pagamento pela dívida da deusa libertada com a queda de Gaviorn'l.
+- Canibais farejam Kate e a aclamam como portadora da brasa da Mãe Hícse; Kate associa sua fome violenta à deusa.
+- Ultimato de Estruzzo: entregar o forasteiro vivo ao amanhecer ou a cidade inteira será arrasada.
+- O sino da Academia repica e as tochas da invasão começam a descer a encosta.
 
 ## Sementes e Conexões
 
-- **Canon em cena:** Estruzzo e os batedores nomeiam Hícse como origem da brasa em Kate. A leitura que Kate faz da fome e da queimação é registrada como percepção dela, não como nova regra objetiva.
-- **Sem nova semente cross-livro.** A cena desenvolve a soltura de Hícse estabelecida no cap. 30 e o fio do sonho registrado em [sementes](/temas/sementes.md).
-- **Fronteira:** O cap. 42 termina com Mário diante da tentação da cátedra e fumaça surgindo ao norte. O cap. 43 passa à noite, primeiro na estrebaria e depois na muralha, onde a ameaça se confirma. Não há ficha Mini-INGEST do cap. 42 disponível; a checagem foi feita pelo manuscrito e pelo esquema.
-- **Próximo capítulo:** O cap. 44 abre com a cidade sob ataque; o desastre deixa Kate sem resposta à exigência e Gus precisa processar a invasão.
-- **Fecho:** Corte **A** (ameaça em curso). O sino toca e as tochas inimigas descem a serra.
-- **Conexões:** [Hícse](/conceitos/hicse.md), [cap. 40](/capitulos/capitulo-40.md), [cap. 41](/capitulos/capitulo-41.md), [esquema L1](/temas/esquema-l1.md).
+- **A Brasa de Hícse:** O reconhecimento de que a queimação na nuca de Kate está ligada a Hícse aprofunda o arco de contaminação e tentação que culminará no final do L1 e L2.
+- **Fronteira:** O cap. 41 trouxe Mário tentado pela cátedra na Academia. O cap. 42 mostrou Nolan entrando disfarçado e localizando Mário. O cap. 43 traz Kate na muralha recebendo o ultimato; o cap. 44 abre com o cerco e a invasão de Gus.
+- **Fecho:** Corte **A** (Ação / Iminência). O sino toca e as tochas inimigas descem a serra.
+- **Conexões:** [Hícse](/conceitos/hicse.md), [cap. 41](/capitulos/capitulo-41.md), [cap. 42](/capitulos/capitulo-42.md), [cap. 44](/capitulos/capitulo-44.md), [Cidadela de Gus](/lugares/cidadela-de-gus.md).

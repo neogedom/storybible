@@ -25,7 +25,7 @@ O Ato 2 pode se organizar em duas respostas à violência:
   Metrópole. Sua intenção continua sendo usar Mário como instrumento político,
   não salvá-lo por altruísmo.
 
-O cap. 41 já estabelece a entrada clandestina de Nolan: identidade falsa de
+O cap. 42 já estabelece a entrada clandestina de Nolan: identidade falsa de
 mercador de Garyun, travessia misturado a uma caravana e quase reconhecimento
 por um mestre da Academia. Também planta a contradição dele: vê a convivência
 entre humanos e leviantares como anarquia, ouve que a Coroa autorizou a marcha

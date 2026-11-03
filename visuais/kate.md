@@ -67,7 +67,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Iluminação | Antes da luz (madrugada); o escuro da fenda, depois o cinza do mato              |
 | Fundo      | Beira da água com os mercenários em fila, os cavalos sem sela, as três caixas; mato alto e moita fechada de galho morto. Na fila, **reconhece o homem do machado do cap. 26** pelo corte que ela mesma lhe abriu entre as costelas (plant do cap. 28 — 2026-09-20) |
 
-## Capítulo 40 — A Fenda e o Acolhimento
+## Capítulo 39 — A Fenda e o Acolhimento
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |

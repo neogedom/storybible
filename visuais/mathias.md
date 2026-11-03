@@ -56,7 +56,14 @@ silêncio, por desespero. O nome dele nunca é dito no capítulo (POV de Kate:
   traz a mala da ama.
 - Não há detalhe novo de vestimenta ou aparência no capítulo.
 
-## Capítulo 41 — O Rastro e o Disfarce (Mini-INGEST, 2026-10-25)
+## Capítulo 40 — A Ruína e o Rumo
+
+- **Vestimenta**: armadura coberta de pó branco; capa cinzenta rasgada por estilhaços; escudo de aço.
+- **Postura**: baixa o escudo ao lado de Nolan e acompanha a inspeção dos escombros; guarda a bainha durante a escolha da rota.
+- **Expressão**: alerta, preocupado com os ferimentos de Nolan e desconfiado da Cidadela de Gus.
+- **Ação**: acompanha Nolan da ruína até o celeiro nos arredores de Gus e participa da segurança da família.
+
+## Capítulo 42 — O Rastro e o Disfarce (Mini-INGEST, 2026-11-02)
 
 - **Vestimenta**: capa cinzenta rústica de estopa enrolada no antebraço direito, cobrindo o escudo de aço e as placas de armadura (comprada de um mascate na descida da ravina por dois cobres); bordas rasgadas por lascas da Mina; aspecto de mercenário de caravana itinerante.
 - **Postura**: esforço consciente para desarmar o porte militar de Espada da Lei e soltar a musculatura do pescoço; mão mantida a quatro dedos do punho da espada oculta; de pé encostado ao pilar da taverna vigiando entradas.

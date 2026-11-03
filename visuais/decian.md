@@ -7,7 +7,7 @@ ultimo_capitulo: 19
 
 # Decian — Registro Visual
 
-## Capítulo 40 — A Fenda e o Acolhimento
+## Capítulo 39 — A Fenda e o Acolhimento
 
 | Atributo   | Estado                                                                 |
 | ---------- | ---------------------------------------------------------------------- |
