@@ -4,9 +4,9 @@
 
 - O antigo carpinteiro foi colocado à saída da hospedagem, na manhã do cap. 41,
   reparando a soleira. Mário para para observar o reparo e pergunta como o
-  homem escolhe onde apoiar a cunha; a resposta leva à aula pública de forças
-  de Orval. A ida à Academia nasce da curiosidade de Mário, não de uma
-  recomendação sem causa.
+  homem sabe onde apoiar a cunha; o carpinteiro responde que aprendeu no ofício
+  e menciona a aula pública de forças de Orval naquela manhã. O tema é novo
+  para Mário, estudante de Direito; a curiosidade pelo reparo o leva à Academia.
 - Removido o comentário `(* ... *)` sobre a continuidade temporal. O resumo
   do cap. 41 e o esquema foram sincronizados.
 
