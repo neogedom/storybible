@@ -5,14 +5,14 @@ pov: Mário
 beat_stc: Vilões se Aproximam
 percentual_l1: ~76,0%
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo41.md
-timestamp: 2026-11-02T22:10:00-03:00
+timestamp: 2026-11-03T21:24:00-03:00
 ---
 
 # Capítulo 41 — A Cátedra dos Proscritos (POV Mário)
 
 ## Resumo
 
-Na manhã seguinte à sua chegada a Gus, Mário acorda após uma noite de sono reparador na hospedagem, com os ferimentos tratados por Decian. Seguindo o conselho de um carpinteiro, sobe até a galeria alta da Academia dos Artífices. Lá testemunha jovens humanos e leviantares estudando lado a lado sem grilhões e assiste à aula pública de Geometria e Estudo das Forças ministrada pelo mestre Orval. O idoso leciona que a pedra e a gravidade não obedecem a linhagens nem a deuses, mas à exatidão das medidas e ao prumo. Após a aula, Orval dialoga com Mário sobre as hipóteses hegralianas acerca dos deuses e do Llyfr. Diante da erudição de Mário, Orval faz-lhe uma proposta tentadora: uma cátedra formal na Academia, sustento, papel, segurança e a oportunidade de traduzir a mensagem de seu Deus para a população. Mário sente a tentação da paz acadêmica e a compara com o silêncio austero da Voz desde o massacre da Mina. Da varanda, pede tempo para pensar diante da oferta.
+Na manhã seguinte à sua chegada a Gus, Mário acorda após uma noite de sono reparador na hospedagem, com os ferimentos tratados por Decian. Ao sair, para para observar um carpinteiro reparando a soleira da porta e pergunta como ele sabe onde apoiar a cunha. O carpinteiro indica a aula pública de forças do mestre Orval na Academia dos Artífices. Lá Mário testemunha jovens humanos e leviantares estudando lado a lado sem grilhões e assiste à aula de Geometria e Estudo das Forças. Orval leciona que a pedra e a gravidade não obedecem a linhagens nem a deuses, mas à exatidão das medidas e ao prumo. Após a aula, dialoga com Mário sobre as hipóteses hegralianas acerca dos deuses e do Llyfr. Diante da erudição de Mário, oferece-lhe uma cátedra formal na Academia, sustento, papel, segurança e a oportunidade de traduzir a mensagem de seu Deus para a população. Mário sente a tentação da paz acadêmica e a compara com o silêncio austero da Voz desde o massacre da Mina. Da varanda, pede tempo para pensar diante da oferta.
 
 ## Personagens
 

@@ -1019,6 +1019,7 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 - **Fecho:** Nolan deixa Mira e Saboc no celeiro e prepara a entrada ao amanhecer. Corte A.
 
 #### Capítulo 41 (PoV de Mário) — A Cátedra dos Proscritos
+- **Indicação da aula:** Ao sair da hospedagem na manhã seguinte, Mário para para observar um carpinteiro ajustando a soleira da porta e pergunta como ele sabe onde apoiar a cunha. O carpinteiro menciona a aula pública de forças de Orval; essa curiosidade concreta leva Mário à Academia.
 - **Worldbuilding de Gus e Vitysh:** O dia a dia da Cidadela e o legado do Castelo do Saber (símbolos do esquadro, prumo e concha de água).
 - **A aula de geometria e forças:** Mário assiste a uma aula ministrada pelo mestre Orval. A identificação profunda de Mário com a vida acadêmica e o rigor do pensamento livre.
 - **A hipótese hegraliana:** Orval partilha a visão dos filósofos de Vitysh: os deuses do Limbo não criaram o mundo; são forças cósmicas imensas domesticadas por mitos sacerdotais para cobrar tributo.

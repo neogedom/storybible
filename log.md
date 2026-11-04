@@ -1,5 +1,15 @@
 # Log de Atualizações
 
+## 2026-11-03 (encontro com o carpinteiro no cap. 41)
+
+- O antigo carpinteiro foi colocado à saída da hospedagem, na manhã do cap. 41,
+  reparando a soleira. Mário para para observar o reparo e pergunta como o
+  homem escolhe onde apoiar a cunha; a resposta leva à aula pública de forças
+  de Orval. A ida à Academia nasce da curiosidade de Mário, não de uma
+  recomendação sem causa.
+- Removido o comentário `(* ... *)` sobre a continuidade temporal. O resumo
+  do cap. 41 e o esquema foram sincronizados.
+
 ## 2026-11-03 (pedido de cura dos sobreviventes nos caps. 39-41)
 
 - O pedido de cura foi deslocado para a chegada à enfermaria no cap. 39, onde
