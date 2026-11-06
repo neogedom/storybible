@@ -1035,6 +1035,7 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 - **Fecho:** Só Nolan vê a fumaça dos Clãs ao norte. Decide alcançar Mário antes que a horda chegue. Corte A.
 
 #### Capítulo 43 (PoV de Kate) — O Rastro da Deusa
+- **Hipóteses sobre a Mina e raiva de Mário:** Durante o dia, Kate pergunta a mais de um artífice como uma mina daquele porte poderia desabar. Eles sugerem causas possíveis, mas não fecham diagnóstico sem examinar a Mina. Kate avalia que os quatro rapazes que levou, armados de lâminas velhas e picaretas, não tinham ferramentas nem preparo para aqueles métodos. A conclusão não prova quem sabotou a Mina. Ainda assim, tomada pela raiva, ela decide que Mário não merece mais esforço para convencê-lo de que ela não derrubou a Mina.
 - **A recusa de Lakand:** À noite, na estrebaria, Kate busca refúgio no corpo de Lakand para tentar fugir do olhar de Mário; Lakand a afasta com lucidez ("Saramant virou cinza; você só quer anestesiar a cara do forasteiro").
 - **Estruzzo das sombras:** Na muralha norte, o ar congela e Estruzzo se materializa da escuridão. O gornad tripudia sarcasticamente sobre a morte de Gaviorn'l ("vim te agradecer por abrir o pescoço do velho e pôr a vara na minha mão").
 - **O ultimato de Terbs e o faro dos Clãs:** Estruzzo avisa que Terbs cedeu o vale para pagar a dívida da deusa que Kate soltou. Batedores canibais surgem nas frestas e farejam Kate, reconhecendo nela o cheiro e a brasa de Hícse ("A Senhora das Lâminas tá na carne dela!").

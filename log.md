@@ -1,5 +1,24 @@
 # Log de Atualizações
 
+## 2026-11-05 (Renath, Metalurgia, Galvanismo e Varek d'Alavr no clímax do L1)
+
+- **Renath fixado como Elohim da Metalurgia, Aço e Engenharia Pesada:** Oficializado o domínio de Renath (`conceitos/renath.md`). Alavria representa o espírito de Babel/Marduk: soberba da técnica, demolição química, construção naval e metalurgia de precisão.
+- **Têmpera Galvânica / Eletricidade Conduzida:** Definido que a manifestação militar alavriana utiliza alta voltagem conduzida por ligas de cobre e ferro (galvanismo militar), em contraste com feitiçarias místicas vulgares.
+- **Criação da ficha de Varek d'Alavr (`personagens/varek.md`):** Leviantar colossal, comandante de choque de Alavria, Golias militar do clímax em Gerikhad. Sobrepuja Lakand (paralisia por tétano), Decian (fraturas e desmaio) e Kate (desarme galvânico) antes de ser fulminado pela ação soberana de Deus na oração de Mário (2 Cr 20:12).
+- **Integração de Decian e Varek:** Atualizados `capitulo46.md`, `capitulo64.md` e `capitulo66.md` com a participação médica de Decian e o embate contra Varek.
+- **Atualização de índices:** Sincronizados `index.md`, `lugares/alavria.md` e `conceitos/renath.md`.
+
+## 2026-11-05 (artífices e raiva de Kate no cap. 43)
+
+- Inserido no cap. 43 um resumo da consulta de Kate a vários artífices sobre
+  hipóteses para a queda da Mina. Eles não fecham diagnóstico sem examinar o
+  local; Kate julga que os quatro rapazes que levou não tinham meios para
+  executar aqueles métodos. A sabotagem alavriana permanece desconhecida, e a
+  passagem não absolve Kate da violência que organizou.
+- A decisão de parar de tentar provar a Mário que não derrubou a Mina é
+  marcada como raiva e orgulho ferido, não compaixão. Sincronizados o resumo
+  do cap. 43, o esquema L1 e a página da Cidadela de Gus.
+
 ## 2026-11-03 (encontro com o carpinteiro no cap. 41)
 
 - O antigo carpinteiro foi colocado à saída da hospedagem, na manhã do cap. 41,

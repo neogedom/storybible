@@ -80,6 +80,7 @@ O bloco da Cidadela de Gus fecha o estágio **Vilões se Aproximam (~68% a ~75% 
    - Seguindo os feridos da Mina, Nolan confirma na carpintaria que Mário chegou à Cidadela. Só Nolan vê a fumaça dos Clãs ao norte e decide alcançar o Estrangeiro antes do ataque.
 
 5. **Capítulo 43 (PoV de Kate) — O Rastro da Deusa:**
+   - Durante o dia, Kate consulta mais de um artífice sobre possíveis causas para a queda da Mina. Eles não chegam a diagnóstico sem examinar o local; Kate conclui que os quatro rapazes que levou não tinham os meios para executar as hipóteses e, com raiva de Mário, decide parar de tentar provar sua inocência a ele.
    - Kate procura Lakand à noite buscando o refúgio da "carne quente" e do passado familiar de Saramant; Lakand a rejeita com sobriedade ("não tem caverna pra onde voltar; você só quer anestesiar a cara do forasteiro").
    - Na muralha norte, o ar congela e Estruzzo se materializa da escuridão. O gornad tripudia sarcasticamente sobre a morte de Gaviorn'l ("vim te agradecer por abrir o pescoço do velho e pôr a vara na minha mão").
    - Estruzzo avisa que Terbs cedeu o vale para pagar a dívida da deusa que Kate soltou. Batedores canibais surgem nas frestas e farejam Kate, reconhecendo nela o cheiro e a brasa de Hícse ("A Senhora das Lâminas tá na carne dela!").

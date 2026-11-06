@@ -8,11 +8,35 @@ timestamp: 2026-07-26T12:00:00-03:00
 
 # Renath
 
+**Domínio:** Metalurgia, Aço e Engenharia Pesada (Avanço Técnico, Galvanismo e Expansão Imperial)
+**Nível:** 3 (servo comissionado de Marduk)
+**Facção:** Leal a Marduk (agenda imperial tecnocrata)
+
 ## Visão Geral
 
 **Renath** é um dos servos comissionados por Marduk (Nível 3 da hierarquia
 divina de Ornick), da mesma categoria de Vonos, Terbs, Hícse, Lunus e Mesmia.
 É o elohim patrono de **Alavria**.
+
+Representa a vertente mais fiel ao espírito de Marduk em Babel: a **soberba da
+técnica e do maquinário humano**. Enquanto o restante de Ornick depende de
+oráculos arcaicos, sacrifícios de sangue e pactos místicos, a civilização de
+Renath desenvolveu metalurgia de precisão, ligas avançadas de aço e cobre,
+balística naval e demolição química.
+
+## A Ciência da Guerra e o Galvanismo (canon L1)
+
+A manifestação militar de Renath não é misticismo abstrato nem feitiçaria
+elemental vulgar; é **engenharia aplicada e condução galvânica**:
+
+- **Metalurgia e Demolição:** Os agentes de Renath dominam a ciência dos
+  materiais — foi essa engenharia que permitiu a sabotagem milimétrica da Mina
+  de Quartzo no Cap. 37 (perfurações em ângulo de 45 graus e salitre refinado).
+- **Condução Galvânica (Eletricidade de Choque):** Através de couraças
+  articuladas com serpentinas de cobre e armas forjadas como condutores
+  cinéticos, os comandantes de elite de Renath — como **Varek d'Alavr** —
+  conduzem alta voltagem elétrica em combate. O choque não queima como fogo
+  comum; provoca tétano muscular imediato, colapso nervoso e arritmia fatal.
 
 ## Posição na Hierarquia
 

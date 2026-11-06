@@ -22,6 +22,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Mathias](personagens/mathias.md) — Espada da Lei, mão-direita de Nolan, poder de fogo (contra-fogo).
 - [Mira](personagens/mira.md) — Parteira-ama do castelo de Devour, ama de leite de Saboc, testemunha da ressurreição.
 - [Ossan](personagens/ossan.md) — Xamã sobrevivente da corte de Devour, filho do lorde, asset de Nolan (raiz-mestra/rampillas).
+- [Varek d'Alavr](personagens/varek.md) — Comandante da vanguarda de choque de Alavria, leviantar colossal, condutor galvânico de Renath.
 
 ## Capítulos
 

@@ -22,11 +22,10 @@ o mundo conhecido para além de Ornick.
 - **Koda Deltëra** quer o trono de Ornick vazio para que Alavria invada.
   Sua motivação é vingança pessoal contra Genocydo (confisco das terras dos
   Deltëra na Guerra do Grifo).
-- **Operação do L1 (canon 2026-09-05)**: não há exército externo — Alavria
+- **Operação do L1 (canon 2026-09-05; refino 2026-11-05)**: não há exército externo — Alavria
   mantém um **destacamento oculto** (infiltrados entre os hegralianos de Gus +
-  força de choque) que entra via portão de Koda durante a incursão de Kate à
-  Metrópole. O destacamento mata Genocydo e tenta tomar a cidade por dentro,
-  mas é **aniquilado pela ação divina** (ver `insights/nolan-sufoca-boatos-sinal.md`).
+  força de choque liderada pelo comandante **Varek d'Alavr**) que entra via portão de Koda durante a incursão de Kate à
+  Metrópole. O destacamento mata Genocydo, sobrepuja a defesa de Lakand, Decian e Kate na praça, mas é **aniquilado pela ação divina** (ver `insights/nolan-sufoca-boatos-sinal.md`).
   **Valinor Addorbek** morre defendendo a Metrópole da incursão.
 
 ## Patrono — Renath
