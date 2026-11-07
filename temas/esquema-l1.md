@@ -59,7 +59,11 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 31       | Jogos e Diversão                    | Mário        | ~57-59%                 | ~61,3%               | 2.921    |
 | 32       | Jogos e Diversão                    | Kate         | ~59-61%                 | ~62,9%               | 2.183    |
 | 33       | Jogos e Diversão                    | Nolan        | ~60-62%                 | ~64,5%               | 2.141    |
-| 43       | Vilões se Aproximam                 | Kate         | ~74-75%                 | ~79,5%               | 2.226    |
+| 43       | Vilões se Aproximam                 | Kate         | ~74-75%                 | ~80,5%               | 2.346    |
+
+> **Atualização 2026-11-06 — Mini-INGEST do cap. 43.** O manuscrito atual tem
+> **2.346 palavras**; o acumulado dos caps. 0–43 é **110.672 palavras (80,5%)**
+> na régua de 137.500.
 
 > **Recontagem 2026-10-09, baseada nos manuscritos atuais.** A coluna
 > **Palavras** foi conferida nos arquivos `Livro 1/capituloN.md` com

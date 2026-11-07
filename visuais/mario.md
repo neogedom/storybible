@@ -88,6 +88,10 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Iluminação | Sol cru do meio-dia no planalto → penumbra fresca do alpendre da carpintaria |
 | Fundo      | Ravina norte árida → terraços cultivados e praça de cantaria da Cidadela de Gus |
 
+## Capítulo 43 — O Rastro da Deusa
+
+- _Não aparece em cena._ Kate o menciona e reage à frieza que lhe atribui; não há descrição visual dele.
+
 ## Capítulo 26 — O Cerco
 
 | Atributo   | Estado                                                                 |
