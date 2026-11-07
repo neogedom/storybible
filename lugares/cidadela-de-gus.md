@@ -55,6 +55,8 @@ naquela rua** (ver `decisoes/jornada-nolan-acre-2026-10-03.md`, §11).
 
 O bloco da Cidadela de Gus fecha o estágio **Vilões se Aproximam (~68% a ~75% STC)** e prepara a transição para **Tudo Está Perdido**:
 
+**Eixo espacial do bloco (canon 2026-11-07):** O núcleo de cantaria da Cidadela de Gus fica dentro da paliçada exterior de mourões. Ao norte, as oficinas terminam na paliçada; logo além começa a escarpa de rocha que dá para a garganta. A guarita fica do lado de dentro, voltada para essa saída. A entrada sul é protegida por um fosso seco. A vanguarda dos Clãs atravessa as sombras para dentro da paliçada norte e recua por essa passagem; o grosso chega depois pelo norte, e os Clãs levam Mário para o sul após capturá-lo.
+
 1. **Capítulo 39 (PoV de Mário) — A Fenda e o Acolhimento:**
    - Nos primeiros minutos após o desabamento, Mário encontra mais de uma dezena de sobreviventes à saída da Mina; três feridos estão mais perto. Um deles o repele, e Mário segue os fugitivos que buscam socorro na Cidadela de Gus. A frieza e o silêncio com Kate vêm de ela ter usado sua palavra como cortina de fumaça para a degola das filhas de Uorier.
    - Chegada à Cidadela de Gus: o contraste de humanos e leviantares convivendo sem correntes na rua.

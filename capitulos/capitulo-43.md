@@ -14,8 +14,7 @@ timestamp: 2026-11-06T23:59:07-03:00
 
 Durante o dia, Kate consulta artífices sobre o desabamento da Mina. Eles não fecham causa sem examinar o local; ela conclui que os quatro rapazes não tinham meios para provocá-lo e, ferida pelo julgamento de Mário, decide parar de tentar provar sua inocência.
 À noite, procura Lakand na estrebaria e tenta se refugiar na intimidade dele. Lakand a recusa e expõe sua tentativa de fugir do que Mário lhe disse e da perda de Saramant; ao apertar o pulso, Kate se lembra da fala de Gaviorn'l sobre a mãe.
-Na muralha norte, Estruzzo revela que Terbs cedeu o vale aos Clãs de Sangue e diz que a morte de Gaviorn'l libertou Hícse. Os batedores farejam a brasa em Kate; ela primeiro rejeita a explicação e depois interpreta a fome e a queimação como influência da deusa.
-Estruzzo exige Mário vivo ao amanhecer, ou Gus será destruída. O sino toca, e as tochas inimigas começam a descer a serra.
+Na guarita do lado de dentro da paliçada norte, Kate vê Estruzzo materializar-se pela sombra junto ao mourão. Ele revela que Terbs cedeu o vale aos Clãs de Sangue e que a morte de Gaviorn'l libertou Hícse. Batedores canibais atravessam as sombras das frestas para dentro da Cidadela e farejam a brasa em Kate; ela primeiro rejeita a explicação e depois interpreta a fome e a queimação como influência da deusa. Estruzzo exige Mário vivo ao amanhecer, ou a Cidadela será destruída. Depois do ultimato, ele e os batedores recuam pela mesma passagem para a escarpa, vistos por Kate da guarita; o sino toca, e as tochas do restante dos Clãs começam a descer a serra.
 
 ## Personagens
 
@@ -31,11 +30,11 @@ Estruzzo exige Mário vivo ao amanhecer, ou Gus será destruída. O sino toca, e
 - Durante o dia, Kate pergunta a vários artífices como a Mina poderia desabar. As hipóteses não identificam a causa; Kate avalia que os quatro rapazes que levou não tinham ferramentas nem preparo para executá-las. Com raiva da condenação de Mário, decide parar de tentar provar que não derrubou a Mina.
 - Kate abandona a hospedagem e procura Lakand na estrebaria; o lobo recusa a aproximação e expõe a fuga emocional dela.
 - Na muralha, ao apertar o pulso que Lakand segurara, Kate recorda a fala de Gaviorn'l sobre a mãe.
-- Kate sobe à muralha norte; Estruzzo materializa-se das sombras da serra com escárnio sobre a morte de Gaviorn'l.
+- Kate, na guarita do lado de dentro da paliçada norte, vê Estruzzo materializar-se pela sombra junto ao mourão.
 - Estruzzo revela que Terbs cedeu o vale aos Clãs de Sangue como pagamento pela dívida da deusa libertada com a queda de Gaviorn'l.
-- Canibais farejam Kate e a aclamam como portadora da brasa da Mãe Hícse; Kate associa sua fome violenta à deusa.
+- Batedores canibais atravessam as sombras das frestas para dentro da Cidadela, farejam Kate e a aclamam como portadora da brasa da Mãe Hícse; Kate associa sua fome violenta à deusa.
 - Ultimato de Estruzzo: entregar o forasteiro vivo ao amanhecer ou a cidade inteira será arrasada.
-- O sino da Academia repica e as tochas da invasão começam a descer a encosta.
+- Após o ultimato, Estruzzo e os batedores recuam pela mesma passagem para a escarpa; o sino da Academia repica enquanto as tochas do restante dos Clãs começam a descer a encosta.
 
 ## Sementes e Conexões
 

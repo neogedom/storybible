@@ -66,3 +66,7 @@ Fortaleza híbrida, dois anéis:
   borda de Saramant) via **raiz-mestra subterrânea** (ver
   `insights/nolan-controla-rampillas.md`) e faz do castelo chamuscado sua
   base militar.
+- **Disputa pós-Devour (Koda a relata no cap. 47, com base em mercadores):** a morte do lorde deixa
+  aberta a disputa pelo castelo e pelas terras de Saramant entre várias
+  facções. A ocupação de Nolan como base militar não equivale a controle
+  incontestado da região.
