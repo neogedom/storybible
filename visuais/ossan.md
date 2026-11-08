@@ -44,3 +44,11 @@ timestamp: 2026-08-26
 - **Aparência**: baixo e magro; acompanha Nolan atrás de Mathias.
 - **Objeto**: carrega um caixote junto ao peito.
 - **Fundo**: entrada da oficina de carpintaria durante o ataque.
+
+## Capítulo 45 — A Cinza de Gus e o Pacto da Fenda
+
+- **Vestimenta**: roupas escuras marcadas por musgo e seiva.
+- **Aparência**: baixo e magro; permanece um passo atrás de Nolan.
+- **Objeto**: mantém o caixote junto ao peito.
+- **Ação**: some do beiral durante a luta e espera no celeiro sul com a escolta; Mathias é enviado para buscá-lo.
+- **Fundo**: marcenaria → celeiro sul da Cidadela.

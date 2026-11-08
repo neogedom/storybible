@@ -59,8 +59,9 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 31       | Jogos e Diversão                    | Mário        | ~57-59%                 | ~61,3%               | 2.921    |
 | 32       | Jogos e Diversão                    | Kate         | ~59-61%                 | ~62,9%               | 2.183    |
 | 33       | Jogos e Diversão                    | Nolan        | ~60-62%                 | ~64,5%               | 2.141    |
-| 43       | Vilões se Aproximam                 | Kate         | ~74-75%                 | ~80,5%               | 2.346    |
-| 44       | Vilões se Aproximam                 | Mário        | ~75%                    | ~81,8%               | 1.780    |
+| 43       | Vilões se Aproximam                 | Kate         | ~74-75%                 | ~80,3%               | 2.108    |
+| 44       | Vilões se Aproximam                 | Mário        | ~75%                    | ~81,6%               | 1.780    |
+| 45       | Vilões se Aproximam                 | Kate         | ~75%                    | ~83,1%               | 2.107    |
 
 > **Atualização 2026-11-06 — Mini-INGEST do cap. 43.** O manuscrito atual tem
 > **2.346 palavras**; o acumulado dos caps. 0–43 é **110.672 palavras (80,5%)**
@@ -70,6 +71,16 @@ timestamp: 2026-09-10T12:00:00-03:00
 > **1.780 palavras**; o acumulado dos caps. 0–44 é **112.452 palavras (81,8%)**
 > na régua de 137.500. A posição real segue além da faixa planejada do beat;
 > este Mini-INGEST não replaneja o mapa.
+
+> **Atualização 2026-11-07 — Mini-INGEST do cap. 45.** O manuscrito atual tem
+> **2.031 palavras**; o acumulado dos caps. 0–45 é **114.483 palavras (83,3%)**
+> na régua de 137.500. A posição real segue além da faixa planejada do beat;
+> este Mini-INGEST não replaneja o mapa.
+
+> **Atualização 2026-11-08 — confirmação de Hícse nos caps. 43–45.** A
+> confirmação dos Clãs saiu do cap. 43 e foi transferida para o ataque do
+> cap. 45. Contagens atuais: cap. 43, **2.108**; cap. 44, **1.780**; cap. 45,
+> **2.107**; acumulado até o cap. 45, **114.321 palavras (83,1%)**.
 
 > **Recontagem 2026-10-09, baseada nos manuscritos atuais.** A coluna
 > **Palavras** foi conferida nos arquivos `Livro 1/capituloN.md` com
@@ -1050,8 +1061,8 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 - **Hipóteses sobre a Mina e raiva de Mário:** Durante o dia, Kate pergunta a mais de um artífice como uma mina daquele porte poderia desabar. Eles sugerem causas possíveis, mas não fecham diagnóstico sem examinar a Mina. Kate avalia que os quatro rapazes que levou, armados de lâminas velhas e picaretas, não tinham ferramentas nem preparo para aqueles métodos. A conclusão não prova quem sabotou a Mina. Ainda assim, tomada pela raiva, ela decide que Mário não merece mais esforço para convencê-lo de que ela não derrubou a Mina.
 - **A recusa de Lakand:** À noite, na estrebaria, Kate busca refúgio no corpo de Lakand para tentar fugir do olhar de Mário; Lakand a afasta com lucidez ("Saramant virou cinza; você só quer anestesiar a cara do forasteiro").
 - **Estruzzo das sombras:** Na guarita do lado de dentro da paliçada norte, o ar congela e Estruzzo se materializa pela sombra junto ao mourão. O gornad tripudia sarcasticamente sobre a morte de Gaviorn'l ("vim te agradecer por abrir o pescoço do velho e pôr a vara na minha mão").
-- **O ultimato de Terbs e o faro dos Clãs:** Estruzzo avisa que Terbs cedeu o vale para pagar a dívida da deusa que Kate soltou. Batedores canibais atravessam as sombras das frestas para dentro da Cidadela e farejam Kate, reconhecendo nela o cheiro e a brasa de Hícse ("A Senhora das Lâminas tá na carne dela!").
-- **Fecho:** Depois do ultimato, Estruzzo e os batedores recuam pela mesma passagem para a escarpa; o sino soa enquanto as tochas do restante dos Clãs de Sangue começam a descer a serra. Corte A.
+- **Estruzzo nomeia Hícse; Kate rejeita:** Ele avisa que Terbs cedeu o vale para pagar a dívida da deusa que Kate soltou. Kate nega; a confirmação dos Clãs fica para o cap. 45.
+- **Fecho:** Depois do ultimato, Estruzzo recua sozinho pela sombra; o sino soa enquanto as tochas do restante dos Clãs de Sangue começam a descer a serra. Corte A.
 
 #### Capítulo 44 (PoV de Mário) — O Preço da Cidade
 - **Ataque e pânico:** O grosso dos Clãs de Sangue desce do norte e ataca a paliçada exterior; o portão norte de carvalho cede sob aríetes e machados, e os sinos da Academia repicam em pânico.
@@ -1062,9 +1073,10 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 
 #### Capítulo 45 (PoV de Kate) — A Cinza de Gus e o Pacto da Fenda
 - **A entrega voluntária e a captura:** Mário não resiste; é subjugado com uma forquilha de carvalho, atado com cordas de caça e içado sobre uma montaria. Kate e Lakand abatem os primeiros atacantes, mas o olhar de Mário proíbe o sacrifício inútil. Os Clãs tocam retirada imediata com a presa viva em direção à garganta sul, poupando a Cidadela de Gus.
+- **A confirmação da brasa:** Durante o ataque, um guerreiro dos Clãs fareja Hícse em Kate. Depois de rejeitar Estruzzo no cap. 43, ela já não consegue descartar a afirmação como ameaça vazia; a influência segue somática, sem voz ou posse.
 - **A astúcia e a coalizão de Nolan:** Os artífices armados e Kate encurralam Nolan e Mathias na oficina, exigindo o linchamento do magistrado da corte. Nolan desarma a turba com frieza lógica: adverte que os Clãs levarão Mário vivo para cobrar o edital e que uma marcha rústica de operários seria massacrada no rio Cran. Nolan propõe uma divisão tática: ele próprio descerá à Metrópole para agir por dentro (usar sua posição burocrática para adiar a execução pública com Genocydo e proteger Mário nas celas), enquanto Kate, Lakand e os Artífices organizam a travessia técnica do Cran e o resgate.
 - **A morte da ambição de Kate:** Diante do sacrifício voluntário de Mário, a ambição militar de Kate morre na cinza; junto com Lakand e os Artífices, passa a viver unicamente para resgatá-lo.
-- **Fecho:** Nolan parte para a Metrópole com Mathias e rampillas; Kate embainha a faca e decide descer para a capital com os artífices. Corte D.
+- **Fecho:** Nolan fica em Gus para reunir Ossan e a escolta e planejar a travessia do Cran antes da partida; Kate decide resgatar Mário com Lakand e os artífices. Corte D.
 
 ---
 

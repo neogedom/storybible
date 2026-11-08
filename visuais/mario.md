@@ -101,6 +101,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Expressão  | Firme e controlada; não demonstra tremor diante do risco |
 | Fundo      | Oficina de carpintaria → terreiro em chamas diante da paliçada norte |
 
+## Capítulo 45 — A Cinza de Gus e o Pacto da Fenda
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Roupas     | Camiseta urbana, calça jeans e tênis; pó e cascalho após a queda |
+| Ferimentos | Mãos enfaixadas; golpe na nuca, sem ferimento visível descrito |
+| Postura    | Prensado ao chão, amarrado pelos pulsos e tornozelos, colocado sobre uma mula |
+| Expressão  | Calma e firme; seu olhar impede Kate de avançar contra a horda |
+| Fundo      | Terreiro da marcenaria → levado pelos Clãs em direção à garganta sul |
+
 ## Capítulo 26 — O Cerco
 
 | Atributo   | Estado                                                                 |

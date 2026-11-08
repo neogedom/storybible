@@ -206,9 +206,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Roupas         | Couro remendado de caçadora; sem mudança descrita |
 | Armas          | Faca de caça na coxa; cai no feno quando Kate se aproxima de Lakand e é recolocada antes de ela sair |
 | Ferimentos     | Nenhum novo |
-| Sinais físicos | Queimação na nuca e na mandíbula; fome que trava os dentes; a brasa se intensifica diante dos batedores |
-| Expressão      | Ressentimento e fúria contida com Lakand; desafio a Estruzzo; pavor quando os canibais a farejam |
-| Postura        | Ajoelha-se junto a Lakand; recua quando ele solta seu pulso; depois se firma na guarita e recua diante dos batedores |
+| Sinais físicos | Queimação na nuca e na mandíbula; fome que trava os dentes; a brasa cresce quando ela tenta apagá-la com o vento |
+| Expressão      | Ressentimento e fúria contida com Lakand; desafia Estruzzo e rejeita a afirmação sobre Hícse |
+| Postura        | Ajoelha-se junto a Lakand; recua quando ele solta seu pulso; depois se firma na guarita diante de Estruzzo |
 | Fundo          | Estrebaria da oficina de carpintaria → vielas de Gus → paliçada norte e escarpa |
 
 ## Capítulo 44 — O Preço da Cidade
@@ -221,6 +221,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Expressão      | Alerta e combativa; tenta impedir Mário de sair |
 | Postura        | Corre da guarita norte à carpintaria e permanece no terreiro após a entrega |
 | Fundo          | Paliçada norte → carpintaria → pátio em chamas |
+
+## Capítulo 45 — A Cinza de Gus e o Pacto da Fenda
+
+| Atributo       | Estado |
+| -------------- | ------ |
+| Roupas         | Couro remendado de caçadora; sem troca descrita |
+| Armas          | Faca de caça; mata um canibal, ameaça Nolan, limpa a lâmina na coxa e a embainha |
+| Sinais físicos | Queimação persistente na nuca enquanto os Clãs a reconhecem; depois se apaga, deixando frio oco no estômago; sangue nos dedos |
+| Expressão      | Fúria ao ver Mário capturado; choque com a confirmação de Estruzzo; luto pela cidade; resolve resgatá-lo |
+| Postura        | Salta ao terreiro, ataca os Clãs, enfrenta Nolan e chama Lakand para reunir os artífices |
+| Fundo          | Terreiro da marcenaria sob fumaça → pátio após a retirada dos Clãs |
 
 ---
 

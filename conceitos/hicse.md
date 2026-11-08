@@ -3,7 +3,7 @@ type: Concept
 title: Hícse
 description: Serva poderosa leal a Marduk, aprisionada dentro de Gaviorn'l por Vonos durante a Guerra Milenar.
 tags: [conceito, elohim, hicse, guerra-milenar]
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-08T08:54:49-03:00
 ---
 
 # Hícse
@@ -65,12 +65,12 @@ consentimento dele.
   mata desde criança, e isso é hábito. A brasa sobe quando ela **olha alguém
   matar por causa dela.** Ela deixou de ser a mão e virou a **forja** — e é
   isso que a coisa quer: não uma arma, uma **fonte**.
-- ⚠️ **A descoberta acontece em Gus, pós-Mina (cap. 43).** Até então, Kate
+- ⚠️ **A descoberta acontece em Gus, pós-Mina (cap. 45).** Até então, Kate
   lê a brasa como natureza própria ("é o que eu sou") e não sabe que libertou
-  Hícse. Estruzzo nomeia a deusa e os batedores reconhecem a brasa nela;
-  Kate primeiro rejeita a explicação, depois interpreta a fome e a queimação
-  como influência de Hícse. É a leitura de Kate naquela cena, não uma voz,
-  posse ou diálogo com a deusa.
+  Hícse. Estruzzo nomeia a deusa no cap. 43, mas Kate rejeita a afirmação.
+  Durante o ataque do cap. 45, um guerreiro dos Clãs fareja e reconhece a
+  brasa nela; Kate então já não consegue descartar a fala de Estruzzo. É a
+  leitura somática de Kate, não uma voz, posse ou diálogo com a deusa.
 - **Consequência com a Ordem:** com o selo rompido, o **Sinal perde o objeto**
   (não "fica mudo" — ver `decisoes/sinal-permanentemente-instavel.md`). A
   Ordem caça com um instrumento morto — e é por isso que querem **enquadrar**

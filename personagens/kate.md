@@ -157,6 +157,9 @@ mas também não consegue explicar.
 
 - [Mário](/personagens/mario.md) — protegido. Kate escolhe Mário contra o
   próprio interesse. Relação ambígua.
+- Theodore — antigo amor humano, frágil e morto. No cap. 45, Kate recorda que
+  ele a chamou durante um ataque ao burgo baixo enquanto ela permanecia de
+  guarda por ordem de Gaviorn'l; a forma exata da morte não é descrita.
 - [Nolan](/personagens/nolan.md) — estranho/independente. Kate não serve a
   Nolan; ela foi treinada pela facção de Terbs (Gaviorn'l/Cressadar) para
   atacar a Metrópole. Nolan a vê como "a caçadora sem lealdade" (cap. 19).

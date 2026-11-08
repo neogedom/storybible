@@ -40,8 +40,10 @@ arco pode pagar o afeto sem exigir que Kate o declare em fala.
 
 - Bloco final do L1: resultados da Mina → Cidadela de Gus → Noite Escura da
   Alma de Kate → entrada na Metrópole para resgatar Mário.
-- Absorver ao estruturar e escrever esse bloco; não alterar capítulos já
-  escritos nem mexer agora no esquema do L1.
+- Absorvido no bloco de Gus: Estruzzo nomeia Hícse no cap. 43, Kate rejeita a
+  afirmação, e os Clãs confirmam a brasa durante o ataque no cap. 45. A
+  confirmação atrasada prepara a mudança de prioridade de Kate; segue
+  somática, sem voz ou posse.
 
 ## Conexões
 

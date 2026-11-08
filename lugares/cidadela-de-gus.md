@@ -85,8 +85,8 @@ O bloco da Cidadela de Gus fecha o estágio **Vilões se Aproximam (~68% a ~75% 
    - Durante o dia, Kate consulta mais de um artífice sobre possíveis causas para a queda da Mina. Eles não chegam a diagnóstico sem examinar o local; Kate conclui que os quatro rapazes que levou não tinham os meios para executar as hipóteses e, com raiva de Mário, decide parar de tentar provar sua inocência a ele.
    - Kate procura Lakand à noite buscando o refúgio da "carne quente" e do passado familiar de Saramant; Lakand a rejeita com sobriedade ("não tem caverna pra onde voltar; você só quer anestesiar a cara do forasteiro").
    - Na muralha norte, o ar congela e Estruzzo se materializa da escuridão. O gornad tripudia sarcasticamente sobre a morte de Gaviorn'l ("vim te agradecer por abrir o pescoço do velho e pôr a vara na minha mão").
-   - Estruzzo avisa que Terbs cedeu o vale para pagar a dívida da deusa que Kate soltou. Batedores canibais surgem nas frestas e farejam Kate, reconhecendo nela o cheiro e a brasa de Hícse ("A Senhora das Lâminas tá na carne dela!").
-   - Estruzzo evapora na sombra; o sino da torre soa o alarme geral de invasão.
+   - Estruzzo avisa que Terbs cedeu o vale para pagar a dívida da deusa que Kate soltou. Kate rejeita a afirmação de que libertou Hícse.
+   - Estruzzo recua sozinho pela sombra; o sino da torre soa o alarme geral de invasão.
 
 6. **Capítulo 44 (PoV de Mário) — O Preço da Cidade:**
    - Cerco e invasão das paliçadas externas de Gus. Pânico na cidade.

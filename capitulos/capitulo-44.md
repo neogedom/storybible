@@ -3,9 +3,9 @@ type: Chapter
 title: Capítulo 44 — O Preço da Cidade
 pov: Mário
 beat_stc: Vilões se Aproximam
-percentual_l1: ~81,8%
+percentual_l1: ~81,6%
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo44.md
-timestamp: 2026-11-07T16:04:25-03:00
+timestamp: 2026-11-08T08:54:49-03:00
 ---
 
 # Capítulo 44 — O Preço da Cidade (POV Mário)
@@ -39,6 +39,6 @@ Os Clãs de Sangue atacam a paliçada norte da Cidadela de Gus. Kate retorna da 
 
 - **O Sacrifício Vicário:** Mário oferece o próprio corpo para poupar a Cidadela; o cap. 45 executa a captura e mostra a reação de Kate.
 - **Canon e sementes:** Nenhuma regra de mundo, milagre ou semente cross-livro nova.
-- **Fronteira:** O cap. 43 fecha com Estruzzo e os batedores recuando para a escarpa enquanto o grosso dos Clãs desce. O cap. 44 termina com a entrega voluntária; o cap. 45 abre com a captura.
+- **Fronteira:** O cap. 43 fecha com Estruzzo recuando sozinho enquanto o grosso dos Clãs desce. O cap. 44 termina com a entrega voluntária; o cap. 45 abre com a captura.
 - **Fecho:** Decisão de Mário e corte **A**: a horda interrompe o avanço diante dele, de braços abertos.
 - **Conexões:** [cap. 43](/capitulos/capitulo-43.md), [cap. 45](/capitulos/capitulo-45.md), [Cidadela de Gus](/lugares/cidadela-de-gus.md).

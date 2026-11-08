@@ -1,5 +1,30 @@
 # Log de Atualizações
 
+## 2026-11-08 (Confirmação de Hícse no cap. 45)
+
+- Estruzzo continua nomeando Hícse no cap. 43, mas Kate rejeita a afirmação;
+  os batedores que a confirmavam foram retirados da infiltração. No cap. 45,
+  um guerreiro da horda fareja a brasa em Kate e confirma a fala de Estruzzo.
+- Ajustada a base da leitura de Nolan: o decreto "Prende-se, vivo", a fala de
+  Nuh sobre a apoteose e o rumor de entrega viva sustentam que o Rei não o quer
+  morto na chegada, sem revelar o uso que pretende dar a Mário.
+- Sincronizados os resumos dos caps. 43–45, o conceito de Hícse, a timeline
+  visual de Kate, a página da Cidadela, o esquema e o insight de Kate. A leitura
+  permanece somática, sem voz ou posse. Recontagem: caps. 43–45 = 2.108,
+  1.780 e 2.107 palavras; 114.321 acumuladas (83,1%). O beat e o corte não mudam.
+
+## 2026-11-07 (Mini-INGEST do cap. 45)
+
+- Sincronizados o resumo do capítulo, o progresso e os visuais de Kate, Mário,
+  Nolan, Mathias, Ossan e Lakand: 2.031 palavras; 114.483 acumuladas (83,3%).
+  Registrada a lembrança de Theodore como novo detalhe da história de Kate;
+  sem regra de mundo, milagre ou semente cross-livro. Mantida no cap. 43 a
+  descoberta de Hícse; a proposta de movê-la foi descartada e registrada no
+  insight de Kate. Fronteira 44→45: a
+  entrega vira captura; 45→46: Kate decide resgatar Mário e a coalizão se
+  reúne em Gus para planejar a travessia. Corte D. Dezessete capítulos
+  (29–45) desde o checkpoint completo de 18/09; oferecer checkpoint leve.
+
 ## 2026-11-07 (Mini-INGEST do cap. 44)
 
 - Atualizados resumo, progresso e visuais de Mário, Kate, Lakand, Decian,

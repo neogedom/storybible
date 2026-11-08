@@ -76,3 +76,9 @@ silêncio, por desespero. O nome dele nunca é dito no capítulo (POV de Kate:
 - **Armas e equipamento**: escudo de aço e grilhões de ferro forjado.
 - **Postura**: protege Nolan da faca de Kate; baixa o escudo para depositar os grilhões ao lado do livro.
 - **Fundo**: oficina de carpintaria sob ataque.
+
+## Capítulo 45 — A Cinza de Gus e o Pacto da Fenda
+
+- **Armas e equipamento**: escudo de aço e espada; marca da Chama visível na mão.
+- **Postura**: protege Nolan durante a ameaça dos artífices; depois segue ao celeiro sul para buscar Ossan e a escolta.
+- **Fundo**: beiral da marcenaria → celeiro sul da Cidadela.

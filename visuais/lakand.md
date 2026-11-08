@@ -162,6 +162,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Expressão  | Alerta, contida |
 | Fundo      | Pátio da carpintaria, junto à paliçada norte |
 
+## Capítulo 45 — A Cinza de Gus e o Pacto da Fenda
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Forma      | Mais lobo que homem; ataca os Clãs com as quatro patas |
+| Pelagem    | Cinzenta; nenhum ferimento novo descrito |
+| Postura    | Mata um lanceiro, depois permanece ao lado de Kate |
+| Expressão  | Silenciosa e cautelosa; alerta Kate sobre Nolan |
+| Fundo      | Terreiro da marcenaria durante a retirada dos Clãs |
+
 ---
 
 ## Prompt de Imagem (modelo)

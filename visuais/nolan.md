@@ -167,6 +167,13 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Expressão**: fria e calculista; não demonstra medo durante o confronto.
 - **Fundo**: alpendre e oficina de carpintaria durante o ataque à paliçada norte.
 
+## Capítulo 45 — A Cinza de Gus e o Pacto da Fenda
+
+- **Vestimenta**: casaco preto e óculos; sem nova mudança descrita.
+- **Postura**: mantém a calma sob ameaça, explica sua dedução sobre Genocydo e fica em Gus para organizar o plano da travessia.
+- **Ação**: pede que Mathias traga Ossan e a escolta do celeiro sul à Academia; não parte ainda para a Metrópole.
+- **Fundo**: beiral e terreiro da marcenaria, depois a entrada da Academia.
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->
