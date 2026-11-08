@@ -92,6 +92,15 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - _Não aparece em cena._ Kate o menciona e reage à frieza que lhe atribui; não há descrição visual dele.
 
+## Capítulo 44 — O Preço da Cidade
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Ferimentos | Mãos enfaixadas; nenhum novo ferimento descrito |
+| Postura    | Deixa a oficina e caminha ao pátio; abre as mãos desarmadas diante da horda |
+| Expressão  | Firme e controlada; não demonstra tremor diante do risco |
+| Fundo      | Oficina de carpintaria → terreiro em chamas diante da paliçada norte |
+
 ## Capítulo 26 — O Cerco
 
 | Atributo   | Estado                                                                 |

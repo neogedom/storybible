@@ -2,7 +2,7 @@
 type: Visual
 character: Decian
 primeiro_capitulo: 19
-ultimo_capitulo: 19
+ultimo_capitulo: 44
 ---
 
 # Decian — Registro Visual
@@ -17,6 +17,15 @@ ultimo_capitulo: 19
 | Mãos       | Compridas, calmas, com cutículas impregnadas de resina verde-escura de ervas |
 | Expressão  | Sobressalto tímido ao reconhecer o forasteiro → mansidão humilde e cuidado fraterno |
 | Fundo      | Baia de secagem de ervas e alpendre de carpintaria na Cidadela de Gus   |
+
+## Capítulo 44 — O Preço da Cidade
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Postura    | Recolhe fardos de ervas e os aperta contra o peito |
+| Expressão  | Assustado; orelhas coladas ao crânio |
+| Fala       | Diz que só ouviu o sino |
+| Fundo      | Pátio de terra batida da carpintaria |
 
 ## Capítulo 19 (introdução)
 

@@ -211,6 +211,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Postura        | Ajoelha-se junto a Lakand; recua quando ele solta seu pulso; depois se firma na guarita e recua diante dos batedores |
 | Fundo          | Estrebaria da oficina de carpintaria → vielas de Gus → paliçada norte e escarpa |
 
+## Capítulo 44 — O Preço da Cidade
+
+| Atributo       | Estado |
+| -------------- | ------ |
+| Roupas         | Couro remendado de caçadora; sem troca descrita |
+| Armas          | Faca de caça na mão direita; ergue-a contra Nolan |
+| Sinais físicos | Mão esquerda na nuca; olhos arregalados |
+| Expressão      | Alerta e combativa; tenta impedir Mário de sair |
+| Postura        | Corre da guarita norte à carpintaria e permanece no terreiro após a entrega |
+| Fundo          | Paliçada norte → carpintaria → pátio em chamas |
+
 ---
 
 ## Prompt de Imagem (modelo)

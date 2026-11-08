@@ -1,5 +1,14 @@
 # Log de Atualizações
 
+## 2026-11-07 (Mini-INGEST do cap. 44)
+
+- Atualizados resumo, progresso e visuais de Mário, Kate, Lakand, Decian,
+  Nolan, Mathias e Ossan: 1.780 palavras; 112.452 acumuladas (81,8%). Sem
+  canon duro, milagre ou semente cross-livro novos. Fronteira 43→44: o cerco
+  começa; 44→45: a decisão de Mário abre para a captura. Corte A. Dezesseis
+  capítulos (29–44) desde o checkpoint completo de 18/09; oferecer checkpoint
+  leve.
+
 ## 2026-11-06 (Mini-INGEST do cap. 43)
 
 - Sincronizados resumo, progresso e timeline visual de Mário (ausente) com o Mini-INGEST do cap. 43: 2.346 palavras; 110.672 acumuladas (80,5%). Sem canon ou semente novos; visuais de Kate, Lakand e Estruzzo já registrados. Fronteira 43→44 ok, corte A. Quinze capítulos (29–43) desde o checkpoint completo de 18/09: oferecer checkpoint leve.

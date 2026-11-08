@@ -37,3 +37,10 @@ timestamp: 2026-08-26
 - **Expressão**: olhos fundos, indiferença calculada de quem já viu castelos arderem.
 - **Fala**: tom baixo, seco, sem deboche: avisa Nolan que falar macio não esconde olhar de juiz e recomenda discrição.
 - **Ação**: sustenta a quietude dos quatro rampillas no capim externo via raiz; cruza o fosso sul; pigarreia e ergue a tigela de barro na taverna para quebrar a linha visual do mestre acadêmico que quase reconhece Nolan.
+
+## Capítulo 44 — O Preço da Cidade
+
+- **Vestimenta**: roupas escuras marcadas por musgo e seiva.
+- **Aparência**: baixo e magro; acompanha Nolan atrás de Mathias.
+- **Objeto**: carrega um caixote junto ao peito.
+- **Fundo**: entrada da oficina de carpintaria durante o ataque.

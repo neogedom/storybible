@@ -60,10 +60,16 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 32       | Jogos e Diversão                    | Kate         | ~59-61%                 | ~62,9%               | 2.183    |
 | 33       | Jogos e Diversão                    | Nolan        | ~60-62%                 | ~64,5%               | 2.141    |
 | 43       | Vilões se Aproximam                 | Kate         | ~74-75%                 | ~80,5%               | 2.346    |
+| 44       | Vilões se Aproximam                 | Mário        | ~75%                    | ~81,8%               | 1.780    |
 
 > **Atualização 2026-11-06 — Mini-INGEST do cap. 43.** O manuscrito atual tem
 > **2.346 palavras**; o acumulado dos caps. 0–43 é **110.672 palavras (80,5%)**
 > na régua de 137.500.
+
+> **Atualização 2026-11-07 — Mini-INGEST do cap. 44.** O manuscrito atual tem
+> **1.780 palavras**; o acumulado dos caps. 0–44 é **112.452 palavras (81,8%)**
+> na régua de 137.500. A posição real segue além da faixa planejada do beat;
+> este Mini-INGEST não replaneja o mapa.
 
 > **Recontagem 2026-10-09, baseada nos manuscritos atuais.** A coluna
 > **Palavras** foi conferida nos arquivos `Livro 1/capituloN.md` com

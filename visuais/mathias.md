@@ -1,7 +1,7 @@
 ---
 type: Visual
 character: Mathias
-ultimo_capitulo: 24
+ultimo_capitulo: 44
 ---
 
 # Mathias — Registro Visual
@@ -70,3 +70,9 @@ silêncio, por desespero. O nome dele nunca é dito no capítulo (POV de Kate:
 - **Expressão**: cenho franzido, maxilar travado, desconfiança extrema com a ausência de autoridade real em Gus.
 - **Fala**: chama Nolan estritamente de "patrão" para manter o disfarce; sussurra avisos de canto de boca.
 - **Ação**: segue Nolan a pé misturado aos carroções; apoia-se no pilar da taverna; reconhece um antigo mestre hegraliano da capital e alerta o juiz.
+
+## Capítulo 44 — O Preço da Cidade
+
+- **Armas e equipamento**: escudo de aço e grilhões de ferro forjado.
+- **Postura**: protege Nolan da faca de Kate; baixa o escudo para depositar os grilhões ao lado do livro.
+- **Fundo**: oficina de carpintaria sob ataque.

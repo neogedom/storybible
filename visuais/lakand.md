@@ -152,6 +152,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Expressão  | Reservada e firme; fecha os olhos depois de dizer que Saramant virou cinza |
 | Fundo      | Estrebaria nos fundos da oficina de carpintaria de Gus |
 
+## Capítulo 44 — O Preço da Cidade
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Forma      | Híbrida, presente no pátio da carpintaria |
+| Pelagem    | Cinzenta; nenhum ferimento novo descrito |
+| Postura    | Fareja o norte e avança para deter Mário, mas para quando ele o encara |
+| Expressão  | Alerta, contida |
+| Fundo      | Pátio da carpintaria, junto à paliçada norte |
+
 ---
 
 ## Prompt de Imagem (modelo)

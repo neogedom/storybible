@@ -159,6 +159,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Séquito**: Mira e Saboc no celeiro com o cocheiro e a carruagem; quatro rampillas agachados no capim externo; Mathias e Ossan a pé ao lado dele.
 - **Iluminação**: luz da manhã na entrada e nas ruas de cantaria de Gus → penumbra enfumaçada da taverna → fumaça escura no horizonte norte.
 
+## Capítulo 44 — O Preço da Cidade
+
+- **Vestimenta**: casaco preto abotoado até o colarinho.
+- **Objeto**: livro de dívidas de Uorier, aberto sobre a bancada da carpintaria.
+- **Postura**: mantém-se firme diante da faca de Kate; mede Mário e apresenta os grilhões por meio de Mathias.
+- **Expressão**: fria e calculista; não demonstra medo durante o confronto.
+- **Fundo**: alpendre e oficina de carpintaria durante o ataque à paliçada norte.
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->
