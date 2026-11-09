@@ -30,9 +30,23 @@ vive o corpo intelectual que a Metrópole expulsou.
 
 ## A Academia dos Artífices (Gus)
 
-**Embrião de uma nova Academia**, formada pelos **professores hegralianos que
-fugiram da Metrópole** depois do desmantelamento (obra de **Nolan**, cap. 7).
-Educa humanos também — o que, na prática, é ilegal.
+**Projeto gradual de uma nova Academia**, formado por professores que deixam
+a Academia dos Artífices da Metrópole para ensinar em Gus. A Academia
+metropolitana não foi desmantelada: continua funcionando, e a Metrópole quer
+mantê-la por sua importância para os metropolitanos. Parte dos professores
+permanece lá por motivos diferentes:
+
+1. Preferem manter seu status e viver na Metrópole a se aventurar na
+   Cidadela.
+2. Acreditam que ainda podem recuperar a Academia da Cidadela.
+3. Estão alinhados com Genocydo.
+4. Consideram ir para a Cidadela, mas ainda não tiveram coragem.
+
+A migração dos professores é gradual; as duas Academias coexistem. Edgard
+Lupe'i continua professor e conselheiro na Metrópole. Ele não se muda para
+Gus, mas faz visitas temporárias para apoiar o projeto da nova Academia e
+volta às suas funções na capital. A instituição de Gus também educa humanos,
+o que, na prática, é ilegal.
 
 **Consequência política que importa:** para Gus, **Nolan é o homem que caçou
 os professores deles**. Ele é **desafeto** ali, e a autoridade dele **não vale

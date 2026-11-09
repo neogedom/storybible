@@ -102,6 +102,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Vonos](conceitos/vonos.md) — Elohim da Verdade, servo-chefe rebelde contra Marduk.
 - [Terbs](conceitos/terbs.md) — Elohim da Corrupção/Apoteose.
 - [Hícse](conceitos/hicse.md) — Serva aprisionada dentro de Gaviorn'l, cujo vazamento Kate sente.
+- [Clãs de Sangue](conceitos/clas-de-sangue.md) — Povos tribais antigos, dispersos por Ornick; vários clãs vivem nas Montanhas Esquecidas e veneram Hícse.
 - [Lordes Defuntos](conceitos/lordes-defuntos.md) — Sociedade vampírica. Filhos de Khaine, era de ouro sob Gondor, Comunidade sobrevivente.
 - [Renath](conceitos/renath.md) — Elohim patrono de Alavria, servo comissionado de Marduk.
 - [O Sinal de Vonos](conceitos/sinal-de-vonos.md) — O oráculo que auditava a realidade de Ornick.

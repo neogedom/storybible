@@ -12,7 +12,7 @@ timestamp: 2026-11-03T06:42:00-03:00
 
 ## Resumo
 
-Na manhã seguinte à chegada de Nolan aos arredores de Gus, ele deixa Mira, Saboc, o cocheiro e a carruagem no celeiro. O cocheiro mantém os cavalos prontos para uma retirada enquanto Nolan prepara o disfarce de mercador de Garyun para cruzar o portão com Mathias e Ossan. A infiltração depende de não revelar o porte de juiz nem chamar atenção entre os carroções. Dentro da Cidadela, a convivência sem Segregação e a conversa aberta sobre a falha do Sinal expõem o mundo que Nolan tentou sufocar com decretos. Na taverna, compra informações sobre os Clãs de Sangue e deduz, equivocadamente, que sua própria carta provocou a negociação do Trono. Um antigo mestre hegraliano quase o reconhece; Nolan segura o disfarce enquanto Mathias se contém e Ossan quebra a linha de visão. Seguindo os feridos da Mina até a carpintaria, Nolan confirma por testemunho que Mário está abrigado ali. É o único dos dois capítulos de Nolan em que a fumaça dos Clãs aparece: ele a vê ao norte e decide que precisa alcançar o Estrangeiro antes do ataque.
+Na manhã seguinte à chegada de Nolan aos arredores de Gus, ele deixa Mira, Saboc, o cocheiro e a carruagem no celeiro. O cocheiro mantém os cavalos prontos para uma retirada enquanto Nolan prepara o disfarce de mercador de Garyun para cruzar o portão com Mathias e Ossan. A infiltração depende de não revelar o porte de juiz nem chamar atenção entre os carroções. Dentro da Cidadela, a convivência sem Segregação e a conversa aberta sobre a falha do Sinal expõem o mundo que Nolan tentou sufocar com decretos. Na taverna, compra informações sobre os Clãs de Sangue e deduz, equivocadamente, que sua própria carta provocou a negociação do Trono. Ao ver Edgard Lupe'i atravessar a praça durante uma visita à Academia, Nolan se esconde na taverna até o conselheiro passar, preservando o disfarce. Seguindo os feridos da Mina até a carpintaria, Nolan confirma por testemunho que Mário está abrigado ali. É o único dos dois capítulos de Nolan em que a fumaça dos Clãs aparece: ele a vê ao norte e decide que precisa alcançar o Estrangeiro antes do ataque.
 
 ## Personagens
 
@@ -24,7 +24,7 @@ Na manhã seguinte à chegada de Nolan aos arredores de Gus, ele deixa Mira, Sab
 - **Sentinelas e carroceiros de Gus** — vigiam a passagem e dão à comitiva cobertura entre os carregamentos.
 - **Artífices de Gus** — discutem a falha do Sinal de Vonos e dos diapasões de Rifte.
 - **Serviçal da taverna** — vende informações sobre a descida dos Clãs de Sangue.
-- **Antigo mestre hegraliano** — reconhece traços de Nolan e quase o expõe.
+- **Edgard Lupe'i** — conselheiro e professor da Academia da Metrópole, em visita a Gus; Nolan o reconhece e se esconde para manter o disfarce.
 - **Mineradores feridos da Mina** — encaminhados à carpintaria; uma testemunha confirma que Mário chegou com eles e foi levado aos curandeiros.
 
 ## Eventos
@@ -33,14 +33,14 @@ Na manhã seguinte à chegada de Nolan aos arredores de Gus, ele deixa Mira, Sab
 - Entrada a pé entre carroções de salitre, breu e ferro, sob observação dos sentinelas.
 - Caminhada pelas ruas de Gus; Nolan vê humanos e leviantares trabalhando juntos e ouve artífices discutirem a instabilidade do Sinal.
 - Na taverna, recolhe rumores sobre os Clãs e os alvarás do Trono; supõe, sem saber, que a própria carta desencadeou a negociação.
-- Quase reconhecimento pelo antigo mestre; Nolan controla a reação, Mathias segura a mão perto da espada e Ossan interrompe o contato visual.
+- Nolan vê Lupe'i atravessar a praça e se esconde até o conselheiro passar, evitando expor o disfarce.
 - Nolan segue os sobreviventes encaminhados para a enfermaria dos carpinteiros; um minerador confirma que Mário está abrigado na marcenaria.
 - Nolan vê a fumaça dos Clãs no horizonte norte e decide agir antes que a horda alcance a Cidadela.
 
 ## Sementes e Conexões
 
 - **Semente #29 (O Desengano de Nolan):** A suposição de que sua carta precipitou a barganha de Genocydo prepara o desengano por Koda Deltëra na Metrópole.
-- **O disfarce sob pressão:** A quase identificação por um antigo mestre mostra que Nolan pode ser reconhecido em Gus; sua autoridade não o protege ali.
+- **O disfarce sob pressão:** A presença de Lupe'i em visita a Gus mostra que Nolan pode ser reconhecido por membros do Conselho; sua autoridade não o protege ali.
 - **Fronteira:** O cap. 41 mostrou Mário na Academia sem ver a fumaça. O cap. 42 acompanha Nolan entrando e buscando o paradeiro dele; a fumaça dos Clãs fica restrita ao POV de Nolan. O cap. 43 passa ao POV de Kate e ao ultimato de Estruzzo.
 - **Fecho:** Corte **A** (Ação / iminência). Nolan confirma que Mário está na carpintaria e precisa alcançá-lo antes da invasão.
 - **Conexões:** [cap. 40](/capitulos/capitulo-40.md), [cap. 41](/capitulos/capitulo-41.md), [cap. 43](/capitulos/capitulo-43.md), [Cidadela de Gus](/lugares/cidadela-de-gus.md).

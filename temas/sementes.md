@@ -667,3 +667,11 @@ _Atualizar a cada INGEST de capítulo._
 - **Plantio no L1:** Cap. 40 (Nolan instrui Mira no celeiro com a senha "três batidas secas e a palavra cinza"; o cocheiro permanece com ela, Saboc e a carruagem, mantendo os cavalos prontos; quatro rampillas ficam agachados no capim externo sob controle de raiz de Ossan). O cap. 42 confirma que Nolan entra em Gus a pé, deixando a família e o cocheiro no celeiro.
 - **Payoff e Clímax no L1:** Caps. 44 e 45. Durante a invasão dos Clãs de Sangue a Gus, Ossan toca o solo e lê pelo canal dos rampillas o cerco iminente ao celeiro sul. Em desespero pelo filho, Nolan divide suas forças e despacha Mathias para resgatar Saboc e Mira usando a senha.
 - **Função Mecânica e Dramática:** Essa divisão explica com rigor tático por que Nolan fica desprotegido no pátio interno da cidade e perde a custódia de Mário para os Clãs de Sangue no cap. 44: ele priorizou a vida de seu herdeiro sobre a custódia do prisioneiro de Estado. Mathias alcança o celeiro e escolta Mira e Saboc; o cocheiro conduz a carruagem enquanto os quatro rampillas contêm a horda na escuridão. O cocheiro continua sem nome e não precisa de arco próprio.
+
+## 31. O Rumor de Saramant e a Caçada de Nolan (canon 2026-11-09)
+
+- **Plantio no L1:** Cap. 14 — Lupe'i conta a Nolan que um estrangeiro chamado de Souhma está entre os daërunmeges em Saramant; Nolan decide ir atrás do rumor.
+- **Germinação anterior:** Cap. 39 — Lakand revela a Mário que o homem de casaco preto é Nolan Guenayer, juiz do Trono e conselheiro da Coroa. Isso permite a Mário associar o cargo quando ouve Orval chamar Lupe'i de conselheiro (cap. 41).
+- **Germinação e payoff no L1:** Durante uma visita de Lupe'i à Academia de Gus, Nolan se esconde para preservar o disfarce. Depois da invasão dos Clãs, Lupe'i o vê na sala de traçagem e pergunta se ele persegue o Souhma desde que recebeu a informação.
+- **Função:** Conectar o relato de Lupe'i à busca de Nolan e às consequências que alcançam Gus. Lupe'i não esperava os Clãs na Cidadela e pode cobrar de Nolan sua ligação com o Trono.
+- **Limite de causalidade:** Não afirmar que o relato de Lupe'i ou a perseguição pessoal de Nolan causaram o contrato dos Clãs. A Coroa é quem firmou o pacto; Lupe'i pode suspeitar ou responsabilizar Nolan sem que a disputa seja encerrada.

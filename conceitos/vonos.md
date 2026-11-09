@@ -25,6 +25,11 @@ redimida — para consertar Ornick.
 **A Guerra Milenar:** Vonos enganou Hícse (a serva mais poderosa da facção
 leal a Marduk) e a aprisionou dentro de Gaviorn'l, com ajuda de Lunus e Terbs.
 
+## Patronato do Reino
+
+Vonos é o patrono vigente de todo o Reino de Genocydo, não apenas da
+Metrópole.
+
 ## O Plano de Vonos (a Tese)
 
 **A tese (correção 2026-08-11):** um governo liderado por um "filho de Deus"

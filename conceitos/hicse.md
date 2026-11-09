@@ -50,6 +50,10 @@ consentimento dele.
   no livro: gornads, alguns lobisomens, canibais dos Clãs de Sangue e **um
   único vampiro** — o último verdadeiro Lorde Defunto, o veterano do monte
   de Gondor (canon 2026-08-12; ver `conceitos/lordes-defuntos.md`).
+- **Patronato do Reino:** Vonos é o patrono vigente de todo o Reino de
+  Genocydo. Depois de liberta, Hícse e os Clãs de Sangue buscam assumir esse
+  patronato; a disputa ainda não foi resolvida. Isso não implica uma voz ou
+  confirmação direta de Hícse.
 
 ## Depois da soltura — a regra (canon 2026-09-21)
 

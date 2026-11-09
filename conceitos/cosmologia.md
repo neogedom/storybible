@@ -84,10 +84,12 @@ Manifestar os DOIS elementos é extremamente raro. Os **gnocks** (leviantar
 nascido sem poder) são produto RARO dessas hibridizações — o normal é nascer
 com potencial em um elemento.
 
-**Espadas da Lei (canon 2026-08-12):** são fortes porque (1) aptos na
-habilidade de fogo e (2) **treinados** para serem mais que leviantares
-comuns — mesmo os que só manifestam fogo/calor de forma modesta (ex.: Dagmar
-esquenta o chá com o poder dela, sem treino de combate).
+**Espadas da Lei (canon 2026-08-12; complementado em 2026-11-09):** todos
+são leviantares com a marca da Chama. São treinados para incendiar armas,
+uma técnica transmitida pela linhagem militar Addorbek; ela não é exclusiva
+dessa linhagem. A intensidade do poder varia: mesmo um Espada que manifesta
+fogo ou calor de forma modesta (como Dagmar ao esquentar o chá) precisa de
+treino para usá-lo em combate.
 Vonos trouxe **dois tipos de humanos**:
 
 1. **Herança de Nachash** — experimento original de Marduk, humanos sem

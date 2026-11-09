@@ -115,14 +115,17 @@ Ver o [insight da virada de prioridade](./kate-prioriza-mario-apos-gus.md).
   mata é **um alavriano** — não o Lakand) e tomar a Metrópole por dentro
   (Renath quer anexação). **Morrem na ação divina "estilo premonição"** no
   final.
-- **Gus = Cidadela de Lupe'i com o embrião de uma nova Academia dos
-  Artífices** (canon 2026-09-05): após o desmantelamento dos hegralianos na
-  Metrópole (cap. 7), os melhores professores hegralianos migram para Gus —
-  a Academia oficial segue na Metrópole (miniatura do Castelo do Saber, em
-  Vitysh). Mário se entregou para salvar Gus → os hegralianos lhe devem a
-  vida → matéria-prima da invasão. Os Artífices de Gus dão a Kate o meio
-  técnico de cruzar o Cran e cercar a ilha-Metrópole. A rede anti-Segregação
-  hegraliana foi infiltrada por Alavria.
+- **Gus = Cidadela de Lupe'i com o projeto gradual de uma nova Academia dos
+  Artífices** (canon 2026-09-05; atualizado 2026-11-09): após as medidas de
+  Nolan e Genocydo contra os hegralianos na Metrópole (cap. 7), parte dos
+  professores deixa a capital para participar do projeto em Gus. A Academia
+  metropolitana continua funcionando; as duas instituições coexistem.
+  Lupe'i mantém seu assento no Conselho e seu posto de professor na
+  Metrópole, mas faz visitas temporárias a Gus para apoiar a nova Academia.
+  Mário se entregou para salvar Gus → os hegralianos lhe devem a vida →
+  matéria-prima da invasão. Os Artífices de Gus dão a Kate o meio técnico de
+  cruzar o Cran e cercar a ilha-Metrópole. A rede anti-Segregação hegraliana
+  foi infiltrada por Alavria.
 - **Lupe'i não sabe** dos infiltrados e **não participa da abertura do
   portão**; o papel principal da abertura é de Koda (por Alavria).
 - **Koda ganha nos dois cenários**: o golpe falha (cap. 14) ou o regime cai
@@ -163,13 +166,16 @@ micro-semente para releitura, a decidir).
 5. **Hegralianos = leviantares** que apoiam a causa dos humanos (mesma
    ideologia de Lupe'i, anti-Segregação). Criar verbetes de glossário
    ("hegralianos", "Academia dos Artífices", "Cidadela de Gus").
-6. **Academia dos Artífices — reconciliação com a Geografia de Ornick
-   (refino 2026-09-05)**: a Academia oficial do Reino fica na **Metrópole**
-   (miniatura do Castelo do Saber, em Vitysh — a maior de Ornick). Em **Gus**
-   já existe o **embrião de uma nova Academia**: para lá migraram os melhores
-   professores hegralianos, fugindo da opressão de Genocydo (o episódio do
-   cap. 7). É dela que Kate arregimenta — e seus Artífices dão à força de
-   Kate o meio técnico de cruzar o Cran (estrutural).
+6. **Academias dos Artífices — reconciliação com a Geografia de Ornick
+   (refino 2026-09-05; atualizado 2026-11-09)**: a Academia oficial do
+   Reino continua na **Metrópole** (miniatura do Castelo do Saber, em
+   Vitysh — a maior de Ornick). Em **Gus** está em formação uma segunda
+   Academia. A migração de professores hegralianos é gradual; não significa
+   o fechamento da Academia metropolitana. Lupe'i conserva seus vínculos de
+   professor e conselheiro na capital e visita Gus temporariamente para
+   apoiar o projeto. É da Academia de Gus que Kate arregimenta — e seus
+   Artífices dão à força de Kate o meio técnico de cruzar o Cran
+   (estrutural).
 7. **Força de Alavria no L1 = destacamento escondido (P3 resolvido)**: não há
    exército externo invadindo no fim do L1 — há um destacamento oculto
    (infiltrados + força de choque) que entra via portão de Koda durante a
