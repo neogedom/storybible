@@ -4,6 +4,7 @@ title: Os Clãs de Sangue testemunham a blasfêmia e sobrevivem à coroação
 description: Os Clãs assistem ao suplício de Mário; sem a blasfêmia, a cessão formal não se consuma. Um contingente sobrevive à intervenção e mantém uma reivindicação em Gerdialias.
 tags: [insight, L1, clans, genocydo, alavria, hicse, metropole]
 destino: congelamento-L1
+status: aplicado-no-rascunho
 timestamp: 2026-11-08T22:35:32-03:00
 ---
 
@@ -42,21 +43,33 @@ custo para a ordem que tenta controlar; Layla pode relatar a tomada de
 Gerdialias como fato concreto. Cada relato deve acrescentar uma consequência
 diferente, sem repetir a mesma queixa.
 
-## Ainda por definir na escrita
+## Aplicação no rascunho
 
-- Se todos os Clãs entram para assistir ou se parte permanece no acampamento;
-  o alcance da passagem pela Metrópole.
-- A função do líder no Conselho e ao acompanhar Benjamim.
-- O alcance da autorização de Genocydo para o canibalismo e quais humanos
-  ficam expostos.
-- A escala das baixas e a forma concreta do recuo e do ponto de apoio em
-  Gerdialias.
+- **Cap. 51:** o acampamento fica na planície sul; grupos dos Clãs atravessam
+  o portão sem escolta.
+- **Cap. 53:** Layla relata que já ocupam pátios do Gerdialias, que Genocydo
+  autorizou que levem moradores humanos como alimento e que a Coroa ainda
+  envia farinha ao acampamento. Nolan trata a ocupação como custo adiável.
+- **Caps. 58, 61 e 63:** Karrk acompanha Benjamim, assiste ao Conselho sem
+  voto e leva os guerreiros para testemunhar o suplício. Elysia, baroa e líder
+  de capitania, está na Metrópole pela fome e para ver o Souhma; ela contesta
+  perante o Conselho a licença e as provisões dadas aos Clãs.
+- **Caps. 64 e 66:** os Clãs enfrentam a vanguarda de Alavria, sofrem baixas e
+  recuam com Karrk para o Gerdialias. A intervenção divina continua atingindo
+  apenas Alavria; os sobreviventes não se submetem à coroação e conservam a
+  reivindicação sobre as ruas ocupadas.
+
+## Ainda por definir
+
+- A escala exata das baixas dos Clãs.
+- Como a Coroa e os Clãs vão disputar Gerdialias depois da coroação.
 
 ## Destino
 
-Insight estrutural amarelo, aprovado pelo autor para absorção no congelamento
-do L1. Não alterar agora o esquema nem os capítulos; distinguir a ocupação de
-fato da cessão formal condicionada à blasfêmia.
+Insight estrutural amarelo, aplicado aos rascunhos a pedido do autor. O esquema
+do L1 ainda não foi alterado; absorver a sequência nele no checkpoint ou no
+congelamento. A ocupação de fato continua distinta da cessão formal
+condicionada à blasfêmia.
 
 ## Conexões
 

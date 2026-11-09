@@ -1,5 +1,21 @@
 # Log de Atualizações
 
+## 2026-11-08 (Clãs de Sangue na Metrópole e no desfecho do L1)
+
+- Implementados nos caps. 51, 53, 58, 61, 63, 64 e 66 o acampamento fora da
+  Metrópole, a passagem livre, o avanço no Gerdialias, a autorização de
+  Genocydo para tomar moradores humanos como alimento e o envio de farinha
+  aos Clãs.
+- Elysia participa do Conselho como baroa e líder de capitania, levada pela
+  fome e pela curiosidade de ver Mário. Karrk acompanha Benjamim e fiscaliza o
+  cumprimento do pacto; os Clãs permanecem para assistir ao suplício.
+- Na invasão de Alavria, os Clãs sofrem baixas e recuam para Gerdialias.
+  Sobreviventes mantêm sua reivindicação após a coroação; a intervenção divina
+  segue limitada a Alavria.
+- `insights/clans-de-sangue-no-suplicio-e-coroacao.md` atualizado para refletir
+  a aplicação no rascunho. `temas/esquema-l1.md` permanece inalterado para o
+  checkpoint ou congelamento do L1.
+
 ## 2026-11-08 (Clãs de Sangue no suplício e após a coroação)
 
 - Registrada em `insights/clans-de-sangue-no-suplicio-e-coroacao.md` a decisão
