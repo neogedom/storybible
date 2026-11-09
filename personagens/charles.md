@@ -24,6 +24,8 @@ Caça Mário pela recompensa para comprar sua liberdade da alcateia.
 - **L1**: Infiltrado entre vampiros em Opium. Cap. 8: revela-se, salva Mário.
   Cap. 11: amarra Mário como carga, quer a recompensa.
   Age "para a glória de Mesmia". Rejeita o remorso de Decian.
+  Cap. 40: após a dispersão da alcateia e a morte de Kenod, assume os
+  remanescentes e segue para o norte caçando Mário pelo edital do Trono.
 - **L2**: Perde a alcateia. Sobrevivente odioso.
 - **L2**: "Cão da Inquisição" — converte-se falsamente; torna-se carrasco de Mário.
 

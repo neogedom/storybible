@@ -14,10 +14,14 @@ Edgard Lupe'i é filho de fazendeiros (a família Lupe'i cria gado e produz
 lavouras). O pai o enviou para estudar na ilha de **Vitysh**; de lá voltou
 "com a mente doutrinada" pelos ensinamentos do filósofo **Garun-thor Hegral**
 (hegralismo/humanismo) e tornou-se professor da **Academia dos Artífices da
-Metrópole** e conselheiro do Reino (fonte: Geografia de Ornick). Após o
-"desmantelamento dos hegralianos", integra a **nova Academia** que se forma
-na Cidadela de Gus — para onde migram os melhores professores, fugindo da
-opressão de Genocydo.
+Metrópole** e conselheiro do Reino (fonte: Geografia de Ornick).
+
+A Academia da Metrópole continua funcionando. Sob a pressão política e a
+perseguição aos hegralianos, parte dos professores deixa a capital
+gradualmente para participar do projeto de uma nova Academia na Cidadela de
+Gus. Lupe'i não abandona a Metrópole: mantém seu posto no Conselho e seu
+vínculo como professor da Academia metropolitana. Faz visitas temporárias à
+Cidadela para demonstrar apoio à nova instituição e retorna à capital.
 
 Fundou a **Cidadela de Gus** (sede da Capitania de Gus) — a única terra
 desenvolvida fora dos muros da Metrópole, onde humanos e leviantares
@@ -40,6 +44,7 @@ Evangelho autêntico — e vê Mário traí-lo.
 ## Relações
 
 - [Mário](/personagens/mario.md) — Testemunha sua corrupção
+- [Nolan](/personagens/nolan.md) — Lupe'i lhe conta o rumor do Souhma em Saramant (cap. 14). Durante uma visita a Gus, pergunta se Nolan o persegue desde então e o confronta após a chegada dos Clãs, que ele não esperava na Cidadela.
 - [Gunad](/personagens/gunad.md) — Conecta-se no Remanescente
 
 ## Prompt de Referência Canônica

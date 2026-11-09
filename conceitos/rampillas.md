@@ -138,6 +138,11 @@ Nolan, conhecendo o jardim e a raiz-mestra (ver cap. 22 e
     (`decisoes/jornada-nolan-acre-2026-10-03.md`, §5 e §10);
   - o canal entrega **presença, não leitura**: frio, peso, calor, cheiro. Ele
     não lê botas sobre sangue pelo fio da raiz.
+- **Escolta de Nolan na Metrópole (cap. 46):** os quatro rampillas recebem
+  antes da chegada uma ordem simples para segui-lo até o palácio. Em solo de
+  pedra e longe da raiz, não recebem novas ordens nem percebem através da
+  rede; sua presença é uma ameaça visível, não uma escolta que se adapta ao
+  ambiente.
 
 ## Prompt de Referência Canônica (criatura)
 

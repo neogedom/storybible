@@ -15,10 +15,13 @@ carregou o corpo de Saboc ao calabouço no cap. 20 e testemunhou o milagre.
 É quem garante a sobrevivência de Nolan e do bebê no incêndio do Castelo de
 Devour.
 
-## Poder de Fogo (canon 2026-08-03)
+## Poder de Fogo (canon 2026-08-03; complementado em 2026-11-09)
 
-- **Treino padrão dos Espadas da Lei:** colocar fogo nas armas. A origem está
-  na tradição militar da linhagem Addorbek (fogo), da qual Dagmar descendia.
+- **Marca e treino dos Espadas da Lei:** todos são leviantares com a marca
+  da Chama. O treino para incendiar armas vem da tradição militar Addorbek,
+  linhagem que ensinou a técnica à ordem; ela não é exclusiva dos Addorbek.
+- **Flechas incendiárias:** os flecheiros da ordem usam a marca da Chama
+  para acender pontas preparadas com estopa, breu e óleo mineral.
 - **Extensão (com limite estrito):** durante a fuga do incêndio (cap. 22,
   cold-open, POV Nolan), Mathias usa **contra-fogo/firebreak** (queimar uma
   faixa à frente para parar o incêndio — técnica realista de combate a fogo)
