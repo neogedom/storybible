@@ -195,9 +195,13 @@ micro-semente para releitura, a decidir).
   quando o alavriano mata Genocydo?
 - **Valinor**: confirmar o objeto da morte dele (defesa contra a incursão de
   Kate / tomada alavriana — não exército externo).
-- **Colaterais da carnificina divina**: mata todos os alavrianos; há mortes
-  além deles? (o pânico e a coroação por medo sugerem terror amplo —
-  decidir no texto.)
+- **Clãs de Sangue entre os colaterais (decisão aprovada em 2026-11-08):**
+  os Clãs assistem ao suplício e sobrevivem à intervenção, que continua
+  dirigida ao destacamento alavriano. Podem sofrer baixas no combate; o
+  contingente sobrevivente recua da praça sem conversão ou submissão e
+  preserva um ponto de apoio e uma reivindicação em Gerdialias. A escala das
+  baixas e as demais mortes colaterais continuam para a escrita. Ver
+  [Clãs de Sangue no suplício e na coroação](./clans-de-sangue-no-suplicio-e-coroacao.md).
 - **Nolan na abertura do portão**: grau de envolvimento consciente
   (recomendado: Nolan crê liderar a abertura — o golpe dele — enquanto Koda
   a executa de verdade para Alavria).

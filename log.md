@@ -1,5 +1,16 @@
 # Log de Atualizações
 
+## 2026-11-08 (Clãs de Sangue no suplício e após a coroação)
+
+- Registrada em `insights/clans-de-sangue-no-suplicio-e-coroacao.md` a decisão
+  de manter os Clãs como espectadores da blasfêmia pública, sobreviventes da
+  intervenção divina e ameaça territorial após a coroação. A cessão formal
+  não se consuma; o contingente remanescente recua da praça e preserva uma
+  reivindicação sobre Gerdialias.
+- Atualizado `insights/nolan-sufoca-boatos-sinal.md` para resolver a presença
+  dos Clãs entre os possíveis colaterais da ação divina. Esquema e capítulos
+  não foram alterados; destino: congelamento do L1.
+
 ## 2026-11-08 (Confirmação de Hícse no cap. 45)
 
 - Estruzzo continua nomeando Hícse no cap. 43, mas Kate rejeita a afirmação;
