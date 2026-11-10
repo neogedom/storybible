@@ -46,6 +46,21 @@ Alavria.
    matam Genocydo e tomam a cidade por dentro
 6. Traição descoberta por Gunad no L2
 
+## Transição L1–L2 (decisão do autor, 2026-11-09)
+
+- Koda sobrevive à intervenção divina no final do L1.
+- Seu desaparecimento após a queda da Metrópole é intencional; o paradeiro
+  será um mistério a resolver no L2.
+- O autor aprovou o pagamento no L1: Koda revela que a promessa de terras aos
+  Clãs antecedeu a carta de Nolan. A cena ainda não foi aplicada ao manuscrito.
+- **Direção L2 em avaliação:** Gunad pode investigar o desaparecimento do pai
+  e o destino de Joachin, com uma possível viagem a Alavria. O papel e os
+  desejos de Joachin ainda não estão definidos.
+- O assassinato de Koda como motor de investigação é apenas uma hipótese. O
+  resumo atual do L2 também prevê que Koda interceda por Gunad e tenha uma
+  morte redentora; a sequência precisa ser revista para conciliar os elementos.
+- Ver a [direção de POV e dos arcos de Gunad, Koda e Lakand](../insights/povs-l2-gunad-lakand-koda.md).
+
 ## Relações
 
 - [Nolan](/personagens/nolan.md) — Aliado na conspiração contra Genocydo

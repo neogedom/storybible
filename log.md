@@ -1,5 +1,30 @@
 # Log de Atualizações
 
+## 2026-11-09 (Direções de POV e arcos de Gunad, Lakand e Koda para o L2)
+
+- Criado `insights/povs-l2-gunad-lakand-koda.md` com a direção em avaliação:
+  Mário como eixo, Gunad e Lakand como candidatos a POVs recorrentes; a busca
+  de Gunad por Koda e Joachin pode levá-lo a Alavria; Lakand reconhece como
+  sagrado o mesmo monte onde recruta o Lorde Defunto e encontra Mesmia.
+- Reconciliado o resumo em `temas/arcos-por-livro.md`: a busca pelo Koda
+  desaparecido precede a decisão sobre seu destino; a morte redentora deixa de
+  ser um desfecho fixo. O assassinato continua hipótese, e a intercessão de
+  Koda por Gunad ainda precisa ser encaixada.
+- Atualizadas as fichas de Koda e Gunad para distinguir fatos já decididos das
+  direções ainda em avaliação. `temas/esquema-l2.md` não foi alterado.
+- O pagamento aprovado para Koda no cap. 47 do L1 continua pendente de
+  aplicação ao manuscrito.
+
+## 2026-11-09 (Koda sobrevive e desaparece antes do L2)
+
+- Registrada em `personagens/koda.md` a decisão do autor: Koda sobrevive à
+  intervenção divina e seu desaparecimento é um mistério intencional do L2.
+- Confirmado o pagamento do L1: Koda corrige Nolan, revelando que a promessa
+  dos Clãs antecedeu a carta. A inserção no manuscrito ainda está pendente.
+- A hipótese de assassinato e o arco de Joachin não foram canonizados.
+  Reconciliar a hipótese com a morte redentora de Koda prevista no arco de
+  Gunad antes de fechar o planejamento do L2.
+
 ## 2026-11-08 (Clãs de Sangue na Metrópole e no desfecho do L1)
 
 - Implementados nos caps. 51, 53, 58, 61, 63, 64 e 66 o acampamento fora da

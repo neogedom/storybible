@@ -35,14 +35,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Fase   | Arco                                        |
 | ------ | ------------------------------------------- |
 | **L1** | Conspira com Nolan; espião de Alavria       |
-| **L2** | Traição descoberta; morte redentora (Gunad) |
+| **L2** | Desaparecimento investigado por Gunad → traição descoberta; destino e eventual morte redentora em avaliação |
 
 ## Gunad Deltëra
 
 | Fase   | Arco                                                                                                       |
 | ------ | ---------------------------------------------------------------------------------------------------------- |
 | **L1** | Citado como músico de rua (cap. 7)                                                                         |
-| **L2** | Emerge como pregador leigo → forma eixo espiritual do Remanescente → sobrevive → vê Mário partir peregrino |
+| **L2** | Emerge como pregador leigo → forma eixo espiritual do Remanescente → possível busca por Koda e Joachin em Alavria → sobrevive → vê Mário partir peregrino |
 
 ## Charles
 

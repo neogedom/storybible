@@ -27,6 +27,10 @@ conquista poder, Gunad canta nos becos. O contraste é a tese central do L2.
 - **L2**: Vive anônimo → perseguidos o procuram → Nolan descobre →
   Koda intercede → lidera rede de esconderijos → sobrevive → vê Mário
   partir peregrino
+- **Direção L2 em avaliação:** possível POV recorrente; Gunad investiga o
+  desaparecimento de Koda e o destino de Joachin, talvez viajando a Alavria.
+  Essa busca precisa conflitar com suas responsabilidades no Remanescente.
+  Ver a [direção de POV e dos arcos de Gunad, Koda e Lakand](../insights/povs-l2-gunad-lakand-koda.md).
 
 ## Semente Musical
 
