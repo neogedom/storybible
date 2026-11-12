@@ -35,6 +35,23 @@ ter recusado a ele as informações sobre o Estrangeiro.
 - Calibragem em aberto: cobrança **com prova na mão** (o Estrangeiro, o
   registro do tabelião) ou só com a ferida institucional.
 
+## Possível extensão: Saboc diante de Nuh (ideia do autor, 2026-11-11; em avaliação; destino: congelamento-L1)
+
+O autor considera que, quando Nolan confrontar Nuh na Metrópole (rascunho
+atual do cap. 49), o sumo sacerdote note Saboc vivo, se impressione e faça
+perguntas a Nolan sobre o menino. Para essa cena, Mira e Saboc devem estar
+com Nolan na Metrópole. A ideia permanece em avaliação; não altera o esquema
+nem o rascunho do cap. 49 nesta fase.
+
+- **Ganho:** liga a curiosidade de Nuh ao milagre de Saboc e à cobrança
+  institucional já planejada.
+- **Risco de continuidade:** no cap. 47, Nolan diz a Valinor que Saboc morreu
+  e a carruagem é descrita como vazia. Se o menino viaja com Nolan, esconder
+  sua presença precisa ficar claro, ou parecerá um erro de continuidade.
+- **Guardrail:** manter as perguntas de Nuh concretas e a reação ambígua; não
+  transformar o milagre em prova que encerra o conflito nem em ferramenta de
+  vitória.
+
 ## Conexões
 
 - [Nuh d'Teraghar](/personagens/nuh-dteraghar.md)
