@@ -12,7 +12,7 @@ timestamp: 2026-07-25T12:00:00-03:00
 
 - `temas/esquema-l1.md` — Livro 1 (fonte primária, cap por cap com % recalibradas para multi-PoV)
 - `temas/esquema-l2.md` — Livro 2 (fonte primária, por estágio STC)
-- `temas/arco-stc.md` — Visão geral dos beats STC com progressão por capítulo
+- `temas/arco-stc.md` — Definição dos beats STC (a progressão por capítulo fica no esquema)
 - `conceitos/riscos-estruturais.md` — Mapeamento das 3 colisões e 5 riscos estruturais
 - `memories/repo/arquiteto-densidade-avaliacao-l1.md` — Diagnóstico completo do desvio de pacing e tabela recalibrada
 

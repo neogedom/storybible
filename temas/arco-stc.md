@@ -105,54 +105,8 @@ Coroação feia. Pacto de Nolan com Terbs.
 
 ## Progressão por Capítulo
 
-| Capítulo | Beat STC | POV | Status |
-| -------- | -------- | --- | ------ |
-| 0 | Imagem de Abertura | Nolan + Kate | ✅ Escrito |
-| 1 | Configuração | Mário | ✅ Escrito |
-| 2 | Configuração (novo) | Mário | ✅ Escrito |
-| 3 | Configuração / Catalisador | Mário | ✅ Escrito |
-| 4 | Debate | Nolan | ✅ Escrito |
-| 5 | Debate | Mário | ✅ Escrito |
-| 6 | Debate | Kate | ✅ Escrito |
-| 7 | Debate | Nolan | ✅ Escrito |
-| 8 | Debate | Mário | ✅ Escrito |
-| 9 | Debate | Kate | ✅ Escrito |
-| 10 | Debate | Nolan | ✅ Escrito |
-| 11 | Debate | Mário | ✅ Escrito |
-| 12 | Debate | Kate | ✅ Escrito |
-| 13 | Debate | Mário | ✅ Escrito |
-| 14 | Debate | Nolan | ✅ Escrito |
-| 15 | Debate | Kate | ✅ Escrito |
-| 16 | Debate | Mário | ✅ Escrito |
-| 17 | Debate | Nolan | ✅ Escrito |
-| 18 | Debate | Kate | ✅ Escrito |
-| 19 | Break Into 2 | Nolan | ✅ Escrito |
-| 20 | Break Into 2 | Kate | ✅ Escrito |
-| 21 | Jogos e Diversão | Mário | ✅ Escrito |
-| 22 | Jogos e Diversão | Nolan | ✅ Escrito |
-| 23 | Jogos e Diversão | Kate | ✅ Escrito |
-| 24 | Jogos e Diversão | Mário | ✅ Escrito |
-| 25 | Jogos e Diversão | Kate | ✅ Escrito |
-| 26 | Jogos e Diversão | Mário | ✅ Escrito |
-| 27 | Jogos e Diversão | Kate | ✅ Escrito |
-| 28 | Jogos e Diversão | Nolan | ✅ Escrito |
-| 29 | Jogos e Diversão | Mário | ✅ Escrito |
-| 30 | Jogos e Diversão | Kate | ✅ Escrito |
-| 31 | Jogos e Diversão | Mário | ✅ Escrito |
-| 32 | Jogos e Diversão | Kate | ✅ Escrito |
-| 33 | Jogos e Diversão | Nolan | ✅ Escrito |
-| 34 | Jogos e Diversão | Mário | ✅ Escrito |
-| 35 | Jogos e Diversão | Kate | ✅ Escrito |
-| 36 | Jogos e Diversão | Mário | ✅ Escrito |
-| 37 | Ponto Central | Mário | ✅ Escrito |
-| 38 | Ponto Central (sem entrada própria) | Kate | ✅ Escrito |
-| 39 | Vilões se Aproximam | Mário | ✅ Escrito |
-| 40 | Vilões se Aproximam | Nolan | ✅ Escrito |
-| 41 | Vilões se Aproximam | Mário | ✅ Escrito |
-| 42 | Vilões se Aproximam | Nolan | ✅ Escrito |
-| 43 | Vilões se Aproximam | Kate | ✅ Escrito |
-| 44 | Vilões se Aproximam | Mário | ✅ Escrito |
-| 45 | Vilões se Aproximam | Kate | ✅ Escrito |
-| 47-66 e epílogo | Blocos seguintes (ver esquema) | — | ✍️ Rascunho; revisão pendente |
+A progressão por capítulo (beat, POV, palavras e % real) vive só em `temas/esquema-l1.md`, na seção **"Progressão por Capítulo (Escritos)"**. Não duplicar aqui.
 
-_Atualizado a cada INGEST de capítulo._
+→ [Ver a progressão no esquema](esquema-l1.md#progressão-por-capítulo-escritos)
+
+Capítulos 47 a 66 e epílogo: rascunho, ainda sem linha na tabela do esquema.
