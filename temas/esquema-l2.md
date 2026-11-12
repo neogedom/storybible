@@ -80,7 +80,7 @@ letras a Kate agora assinam decretos de sangue.
 
 ## STC: Vilões se Aproximam
 
-- Hícse liberta → constrói Hoste da Purgação
+- Hícse (Iquize) liberta → constrói Hoste da Purgação, núcleo militar da coalizão (decisão de 2026-11-12)
 - Inquisição aperta; Gunad lidera Rede de esconderijos
 - Layla junta-se ao Remanescente como informante
 - Charles como "Cão da Inquisição"

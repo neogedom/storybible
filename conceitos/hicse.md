@@ -90,3 +90,7 @@ consentimento dele.
 - [Vonos](/conceitos/vonos.md) — Quem a aprisionou
 - [Terbs](/conceitos/terbs.md) — Quem guardou a chave
 - [Cosmologia](/conceitos/cosmologia.md) — Hierarquia divina
+
+## Nome na proposta do L2 (decidido em 2026-11-12)
+
+- **Iquize é Hícse**: mesma entidade. A coalizão do L2 é a dela. Ver `decisoes/2026-11-12-l2-coalizao-hicse.md`.
