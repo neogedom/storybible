@@ -3565,3 +3565,11 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
   Inquiridores: intimação enviada a Devour.
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.
+
+## 2026-11-12 (Mini-INGEST recuperado dos caps. 34 a 38)
+
+- O mini-INGEST original dos caps. 34 a 38 se perdeu (não estava em nenhum commit). Refeito a partir do texto revisado, com pendências marcadas em cada ficha.
+- Criados `capitulos/capitulo-34.md` a `capitulo-38.md`; acrescentadas notas em `visuais/mario.md`, `kate.md`, `lakand.md` e `temas/sementes.md`.
+- `temas/esquema-l1.md`: linhas 34 a 42 adicionadas à tabela de progresso (faltavam). Palavras pelo `wc -w`; % real a recalcular.
+- `temas/arco-stc.md`: tabela regenerada a partir do esquema (a versão anterior tinha perdido 34 a 42).
+- Pendências: custo do milagre (cap. 34); quem reativou os rampillas (35); Etemenanki (37); quem ordenou a morte do barão e quem plantou as cargas (37-38); identidade do homem de casaco preto (37-38); entrada do cap. 38 no esquema.

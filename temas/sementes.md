@@ -675,3 +675,12 @@ _Atualizar a cada INGEST de capítulo._
 - **Germinação e payoff no L1:** Durante uma visita de Lupe'i à Academia de Gus, Nolan se esconde para preservar o disfarce. Depois da invasão dos Clãs, Lupe'i o vê na sala de traçagem e pergunta se ele persegue o Souhma desde que recebeu a informação.
 - **Função:** Conectar o relato de Lupe'i à busca de Nolan e às consequências que alcançam Gus. Lupe'i não esperava os Clãs na Cidadela e pode cobrar de Nolan sua ligação com o Trono.
 - **Limite de causalidade:** Não afirmar que o relato de Lupe'i ou a perseguição pessoal de Nolan causaram o contrato dos Clãs. A Coroa é quem firmou o pacto; Lupe'i pode suspeitar ou responsabilizar Nolan sem que a disputa seja encerrada.
+
+## Sementes dos capítulos 34 a 38 (mini-INGEST refeito, 2026-11-12)
+
+> Status: a confirmar pelo autor. Conferir antes de tratar como canon.
+
+- **Rampillas reativados no sul** (cap. 35): quem os reativou não é explicado. Pendente.
+- **Etemenanki** (cap. 37): torre escalonada, serpente alada e inscrição cuneiforme numa galeria da Mina. Mário reconhece o nome sem saber por quê. Pendente.
+- **Cargas nos pilares** (cap. 38): fogo de rocha que derruba a Mina. Nolan atribui a Kate; ela nega. Pendente.
+- **Maxilar quadrado** (caps. 34 a 38): o homem recrutado por Kate e batizado por Mário é o executor do barão. Ele fecha um arco de conversão e violência.

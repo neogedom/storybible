@@ -141,6 +141,15 @@ Coroação feia. Pacto de Nolan com Terbs.
 | 31 | Jogos e Diversão | Mário | ✅ Escrito |
 | 32 | Jogos e Diversão | Kate | ✅ Escrito |
 | 33 | Jogos e Diversão | Nolan | ✅ Escrito |
+| 34 | Jogos e Diversão | Mário | ✅ Escrito |
+| 35 | Jogos e Diversão | Kate | ✅ Escrito |
+| 36 | Jogos e Diversão | Mário | ✅ Escrito |
+| 37 | Ponto Central | Mário | ✅ Escrito |
+| 38 | Ponto Central (sem entrada própria) | Kate | ✅ Escrito |
+| 39 | Vilões se Aproximam | Mário | ✅ Escrito |
+| 40 | Vilões se Aproximam | Nolan | ✅ Escrito |
+| 41 | Vilões se Aproximam | Mário | ✅ Escrito |
+| 42 | Vilões se Aproximam | Nolan | ✅ Escrito |
 | 43 | Vilões se Aproximam | Kate | ✅ Escrito |
 | 44 | Vilões se Aproximam | Mário | ✅ Escrito |
 | 45 | Vilões se Aproximam | Kate | ✅ Escrito |

@@ -177,3 +177,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## Prompt de Imagem (modelo)
 
 `Lakand, Daërunmege, aparência selvagem, cicatrizes visíveis, roupas de pele/couro bruto, postura de predador, ambiente de floresta/sombras — tons de terra, marrom, cinza sangue`
+
+## Capítulos 34 a 38 (mini-INGEST refeito, 2026-11-12)
+- Cap. 35: orelhas curtas voltadas para o abrigo; caninos à mostra na irritação; silêncio ao fim.
+- Cap. 36: a menina toca o antebraço cabeludo; orelhas curtas; olhos amarelos; cicatrizes na testa.
+- Cap. 38: chega pelo norte, abre caminho a unhadas e empurrões.

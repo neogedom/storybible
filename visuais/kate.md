@@ -238,3 +238,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## Prompt de Imagem (modelo)
 
 `Kate, cabelo longo escuro, pele clara, [roupas do capítulo], faca de caça à mostra, expressão de [emoção], iluminação [tipo], fundo [descrição] — tons #3E2F2C, #5A4330, #7B6A4F, #2F4B39, #B86B2E`
+
+## Capítulos 34 a 38 (mini-INGEST refeito, 2026-11-12)
+- Cap. 35: lâmina pesada de Saramant guardada na bota; luta com faca de caça na mão.
+- Cap. 37: capuz de estopa sobre o rosto, com fuligem.
+- Cap. 38: manga de couro; faca de caça na cintura, sem sacar.

@@ -59,6 +59,15 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 31       | Jogos e Diversão                    | Mário        | ~57-59%                 | ~61,3%               | 2.921    |
 | 32       | Jogos e Diversão                    | Kate         | ~59-61%                 | ~62,9%               | 2.183    |
 | 33       | Jogos e Diversão                    | Nolan        | ~60-62%                 | ~64,5%               | 2.141    |
+| 34       | Jogos e Diversão                    | Mário        | —                      | a recalcular         | 1.829    |
+| 35       | Jogos e Diversão                    | Kate         | —                      | a recalcular         | 1.818    |
+| 36       | Jogos e Diversão                    | Mário        | —                      | a recalcular         | 1.655    |
+| 37       | Ponto Central                       | Mário        | —                      | a recalcular         | 2.304    |
+| 38       | Ponto Central (sem entrada própria) | Kate         | —                      | a recalcular         | 1.581    |
+| 39       | Vilões se Aproximam                 | Mário        | —                      | a recalcular         | 2.731    |
+| 40       | Vilões se Aproximam                 | Nolan        | —                      | a recalcular         | 1.769    |
+| 41       | Vilões se Aproximam                 | Mário        | —                      | a recalcular         | 3.498    |
+| 42       | Vilões se Aproximam                 | Nolan        | —                      | a recalcular         | 2.870    |
 | 43       | Vilões se Aproximam                 | Kate         | ~74-75%                 | ~80,3%               | 2.108    |
 | 44       | Vilões se Aproximam                 | Mário        | ~75%                    | ~81,6%               | 1.780    |
 | 45       | Vilões se Aproximam                 | Kate         | ~75%                    | ~83,1%               | 2.107    |
