@@ -9,8 +9,7 @@ INGEST/QUERY/LINT para agentes de IA.
 
 - **Fonte de verdade canônica** do universo (personagens, lugares, conceitos, lore)
 - **Segundo cérebro** que acumula conhecimento entre conversas e sessões
-- **Referência para agentes** (Copilot, futuramente Claude, Cursor) via
-  `.github/copilot-instructions.md` e `AGENTS.md`
+- **Referência para agentes** via `AGENTS.md` (esquema) e as skills do Claude no repo `livro`
 - **Vault Obsidian** acessível de qualquer lugar via GitHub (web, mobile, Codespaces)
 
 ## Repositórios Relacionados
@@ -25,15 +24,18 @@ INGEST/QUERY/LINT para agentes de IA.
 2. Abra o Obsidian → "Open folder as vault" → selecione a pasta clonada
 3. Plugins recomendados: Obsidian Git (auto-sync), Graph View, Backlinks
 
-### Prompts para o Copilot
+### Comandos para o Claude
 
-| Prompt                              | Ação                                                                 |
-| ----------------------------------- | -------------------------------------------------------------------- |
-| "Iniciar revisão do capítulo X"     | Ciclo qualidade (densidade → coerência → linguística) + audiochapter |
-| "Finalizar capítulo X"              | INGEST na storybible + LINT automático                               |
-| "Lintar storybible"                 | Varredura completa de coerência                                      |
-| "Query: [pergunta]"                 | Consulta com citações                                                |
-| "Preparar capítulo X para Substack" | LINT visual + prompt de imagem + show notes                          |
+| Comando (no repo `livro`, Claude) | Ação |
+| --------------------------------- | ---- |
+| `/revisar-capitulo X` | Ciclo de revisão (densidade → coerência → linguística) |
+| `/finalizar-capitulo X` | Mini-INGEST do capítulo fechado (modo privado) |
+| `/ingest-completo X` | INGEST completo, no congelamento |
+| `/lint-storybible` | Varredura completa de coerência |
+| `/query-storybible [pergunta]` | Consulta com citações |
+| `/passe-anti-slop X`, `/passe-fechos X` | Passes de checkpoint (sob demanda) |
+
+Publicação (`/publicar-substack`) e áudio (`/audiochapter`) estão arquivados em `docs/arquivo/skills/` no repo `livro`, por decisão de 2026-11-12.
 
 ## Estrutura
 

@@ -213,3 +213,22 @@ O bundle está conforme OKF v0.1 quando:
 
 Campos opcionais ausentes, tipos desconhecidos, links quebrados e índices
 ausentes em subdiretórios **não invalidam** o bundle.
+
+---
+
+## Regras de Ouro (migradas de `.github/copilot-instructions.md`, 2026-11-12)
+
+- Personagens (type: Character) SEMPRE têm frontmatter YAML válido
+- Visuais (type: VisualState) SEMPRE registram "não aparece" quando o personagem não está no capítulo
+- NUNCA contradizer um fato registrado sem reportar ao usuário primeiro
+- Milagre tem custo — registrar qual foi o custo em cada ocorrência
+- Quando 2 dos 3 (Mário/Nolan/Kate) concordam, o mundo piora — verificar se isso se mantém
+- Links entre conceitos DEVEM ter contexto explicativo (o link sozinho não tipa a relação)
+- Salvamento de insights é automático — não perguntar se pode salvar
+
+## Guardrails
+
+- **Teologia**: Milagre resolve o problema | Deus confirma plano do personagem | Fé funciona como superpoder → **todos são erro**
+- **Voz**: Prosa fluida demais (tom YA/autoajuda) | Decisão crucial sem reflexão interior | Diálogo genérico → **todos são erro**
+- **Ambiguidade é intencional; confusão é erro**
+- **Sofrer é parte da prosa** — se o personagem não paga, o leitor desconfia
