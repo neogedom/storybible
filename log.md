@@ -3578,3 +3578,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 
 - Canon decidido pelo autor: Kate ordenou a morte do barão; alavrianos plantaram as cargas. Revelação da origem das cargas nos capítulos finais.
 - Atualizados: fichas dos caps. 37 e 38; sementes (fio das cargas com setup nos caps. 40 e 43); `personagens/kate.md`; `lugares/alavria.md`; `decisoes/2026-11-12-canon-massacre-cargas.md`.
+
+## 2026-11-12 (correção: epílogo)
+
+- Prólogo é o cap. 0 (`capitulo-00.md`). O epílogo é o último capítulo do L1, ainda vai passar por revisão e não tem INGEST. Pendências de `decisoes/2026-11-12-checkpoint-ideias-congelamento.md` atualizadas.

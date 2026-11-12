@@ -14,6 +14,6 @@ Status: decidido pelo autor em conversa, em 2026-11-12.
 
 ## Pendências
 
-- Confirmar o INGEST dos capítulos 34 a 38 e do epílogo. Os arquivos não existem na storybible; o log registra renumeração em 02/11.
+- Validar a refação do INGEST dos capítulos 34 a 38 (feita em 2026-11-12). O epílogo é o último capítulo: revisar primeiro, depois fazer o INGEST.
 - Medir a distinção de falas entre personagens (caps. 40 a 46) antes de criar as fichas de voz.
 - Decidir se a tabela de progresso de `temas/arco-stc.md` deve ser substituída por um link para o esquema. Hoje ela está sincronizada, mas duplicada.
