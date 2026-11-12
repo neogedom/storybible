@@ -20,6 +20,5 @@ Cada força serve a um deus, e os conflitos são disputas sobre qual deus govern
 
 ## Pendências
 
-- Idade do Saboc no L2 (11 a 13 anos) e a escala de tempo do livro.
 - A coalizão é contra Mário e contra Alavria, ou aliada de Alavria?
 - Quando a segunda onda de Alavria chega em relação à coalizão.
