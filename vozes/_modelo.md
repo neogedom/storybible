@@ -12,4 +12,4 @@ Cada ficha tem sete blocos:
 6. **Falas canônicas**: 5 a 8, copiadas do texto revisado (com capítulo).
 7. **Contraexemplos**: 2 a 3 falas que soariam erradas para ele.
 
-Regra comum a todas: nenhuma fala termina em aforismo ou frase de efeito que dê lição, a menos que o registro do personagem peça isso e a ficha diga.
+Regra comum a todas, sem exceção por padrão: nenhuma fala termina em aforismo ou frase de efeito que dê lição. Só um personagem explicitamente marcado como aforístico na própria ficha pode ter isso. Por padrão, nenhum está marcado (decidido em 2026-11-12).

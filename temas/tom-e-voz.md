@@ -51,6 +51,7 @@ timestamp: 2026-09-13T12:00:00-03:00
 
 - Cada personagem deve soar distinto
 - Diálogo carrega subtexto — o que não é dito importa mais
+- **Nenhuma fala termina em aforismo ou frase de efeito que dê lição**, para nenhum personagem. A exceção existe só para personagem marcado como aforístico na própria ficha; por padrão, nenhum está marcado (decidido em 2026-11-12).
 - Falas revelam conflito interno, não apenas transmitem informação
 - Evitar diálogos expositivos
 - Fechamentos de argumento resolvem em **transação ou evidência** (o que
