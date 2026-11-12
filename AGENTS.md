@@ -89,7 +89,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Operações
 
-### INGEST — Finalizar capítulo
+### INGEST (Mini-INGEST e INGEST completo)
 
 Disparado pela skill **`/finalizar-capitulo X`** (Mini-INGEST, modo privado) ou **`/ingest-completo X`** (INGEST completo, congelamento).
 
