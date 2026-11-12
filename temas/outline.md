@@ -42,8 +42,8 @@ Cada capítulo deve responder:
 | Catalisador              | ~7-12%          | 3-4       | ✅ Escrito   |
 | Debate                   | ~12-42%         | 4-18      | ✅ Escrito   |
 | Break Into 2             | ~42-45%         | 19-20     | ✅ Escrito   |
-| Jogos (Velocino de Ouro) | ~45-68%         | 21-35     | ✍️ Escrevendo |
-| Ponto Central            | ~68%            | ~36       | 📝 Planejado |
+| Jogos (Velocino de Ouro) | ~45-68%         | 21-36     | ✅ Escrito (rascunho) |
+| Ponto Central            | ~68%            | 37        | ✅ Escrito (rascunho) |
 | Vilões se Aproximam      | ~68-75%         | —         | 📝 Planejado |
 | Tudo Está Perdido        | ~75%            | —         | 📝 Planejado |
 | Noite Escura da Alma     | ~75-80%         | —         | 📝 Planejado |
