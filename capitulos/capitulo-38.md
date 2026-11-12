@@ -48,3 +48,5 @@ Kate encontra Mário vomitando no pátio, depois do massacre. Ele a acusa de mat
 - **Cargas nos pilares: alavrianos**, revelação nos capítulos finais. Nolan acusa Kate; ela nega a autoria das cargas e não nega a ordem do barão. Ver `decisoes/2026-11-12-canon-massacre-cargas.md`.
 - **Capítulo 38 sem entrada no esquema**: continua pendente.
 - **Identidade do homem de casaco preto**: provavelmente Nolan. Kate o reconhece de Devour, então no POV dela o nome deveria aparecer. Hoje o texto não o nomeia: ponto de escrita a decidir.
+
+> Nota (2026-11-12): o cap. 38 agora registra, em POV de Kate, que ela deu o sinal do sino do alto da escada. O cap. 37 (POV de Mário) não recebe essa informação.

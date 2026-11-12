@@ -4,7 +4,7 @@ Status: decidido pelo autor em conversa, em 2026-11-12.
 
 ## Decisões
 
-1. **O massacre do barão foi ordenado por Kate** (cap. 37). No texto, a ordem é implícita. A decisão de mostrá-la em cena fica em aberto.
+1. **O massacre do barão foi ordenado por Kate** (cap. 37). Mostrado no cap. 38, em POV de Kate, como o sinal do sino que ela deu da escada. O cap. 37 não mostra isso, porque o POV é de Mário.
 2. **As cargas de fogo de rocha foram plantadas pelos alavrianos**, destacamento infiltrado (caps. 37 a 38).
 3. **A revelação da origem das cargas fica para os capítulos finais do L1.** Não se revela antes.
 
@@ -27,3 +27,7 @@ Status: decidido pelo autor em conversa, em 2026-11-12.
 - **Rampillas do cap. 35**: canon existente aponta para Nolan, por ordem dada pela raiz-mestra, seguindo o sangue de Kate. Falta decidir quando e como isso aparece no texto.
 - **Casaco preto**: provavelmente Nolan. No cap. 38 (POV de Kate, que o conhece de Devour), o nome ainda não aparece.
 - **Pendências em aberto**: custo do milagre (cap. 34); quando revelar a ordem dos rampillas; se Kate mente sobre a ordem do barão em cena (hoje ela não nega, só justifica).
+
+## Atualização (cap. 38)
+
+O sinal de Kate foi inserido no cap. 38 (POV de Kate). Não foi inserido no cap. 37, porque o POV é de Mário.
