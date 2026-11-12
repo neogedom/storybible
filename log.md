@@ -3582,3 +3582,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-12 (correção: epílogo)
 
 - Prólogo é o cap. 0 (`capitulo-00.md`). O epílogo é o último capítulo do L1, ainda vai passar por revisão e não tem INGEST. Pendências de `decisoes/2026-11-12-checkpoint-ideias-congelamento.md` atualizadas.
+
+## 2026-11-12 (fratura da voz de Lakand)
+
+- Opção A aprovada: cena de Lakand na clareira no cap. 16 (POV de Mário). Registrada em `personagens/lakand.md`.

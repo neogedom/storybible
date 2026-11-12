@@ -208,3 +208,9 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 
 **Prompt de referência (imagem-retrato do arquivo):**
 Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um lobisomem híbrido diante de um fundo de floresta em chamas com fumaça rente ao chão. Lakand, Daërunmege em forma híbrida mais fera que homem, corpo musculoso coberto de pelagem escura e acinzentada, cicatrizes de batalha visíveis, olhos intensos e animais, postura de predador com peso sobre as pontas dos pés, garras, pelagem chamuscada em tufos, peles e couro bruto, expressão selvagem e alerta. Iluminação: chiaroscuro dramático com clarão de incêndio e fumaça. Atmosfera: caótica, instintiva, de desespero animal. Paleta de cores: marrons de terra, cinza sangue, âmbar de fogo e fumaça. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.
+
+## Fratura da voz (decidido em 2026-11-12)
+
+- **Cap. 16 (POV de Mário)**: Lakand chega à clareira depois do massacre e fala pouco: "Foram todos?" e "Vai". Tae-Tabor era seu amigo (cap. 12 mostra o vínculo; ele o salvara antes dos outros lobisomens). O luto é silencioso e sem culpa a Mário.
+- Caps. 17 a 19: sem falas dele. O silêncio pesa.
+- Caps. 20 em diante: falas curtas, como já estavam.
