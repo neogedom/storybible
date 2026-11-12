@@ -44,7 +44,9 @@ Mário entra pela rampa inferior, marcado como devedor. Na galeria, vê um ental
 
 ## Pendências para o autor
 
-- **Quem ordenou a morte do barão**: o texto deixa Kate ambígua. Nolan diz que é o sinal combinado; o homem de maxilar quadrado age "pela liberdade dos cativos". Decidir o canon antes do congelamento.
-- **Identidade do homem de casaco preto**: o cap. 37 não dá nome. O cap. 38 o liga ao castelo de Devour e a Mathias. Confirmar se é Nolan.
-- **Quem plantou as cargas**: em aberto. Confirmar se é intencional.
-- O esquema prevê o sinal como consequência pública. O texto mostra o sinal como massacre. Confirmar.
+## Canon (decidido pelo autor em 2026-11-12)
+
+- **Quem ordenou a morte do barão: Kate.** O texto dá a ordem como implícita (Nolan fala em \"sinal combinado\"; Kate justifica o sangue do senhor no cap. 38). A ordem não é mostrada em cena. Manter assim, ou mostrar, é decisão de escrita a confirmar.
+- **Quem plantou as cargas de fogo de rocha: os alavrianos** (destacamento infiltrado). A revelação fica para os capítulos finais do L1. Ver `decisoes/2026-11-12-canon-massacre-cargas.md`.
+- **Identidade do homem de casaco preto**: a confirmar (ver ficha do cap. 38).
+- **Etemenanki**: ainda pendente, sem decisão.

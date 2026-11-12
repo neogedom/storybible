@@ -3573,3 +3573,8 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 - `temas/esquema-l1.md`: linhas 34 a 42 adicionadas à tabela de progresso (faltavam). Palavras pelo `wc -w`; % real a recalcular.
 - `temas/arco-stc.md`: tabela regenerada a partir do esquema (a versão anterior tinha perdido 34 a 42).
 - Pendências: custo do milagre (cap. 34); quem reativou os rampillas (35); Etemenanki (37); quem ordenou a morte do barão e quem plantou as cargas (37-38); identidade do homem de casaco preto (37-38); entrada do cap. 38 no esquema.
+
+## 2026-11-12 (canon do massacre e das cargas)
+
+- Canon decidido pelo autor: Kate ordenou a morte do barão; alavrianos plantaram as cargas. Revelação da origem das cargas nos capítulos finais.
+- Atualizados: fichas dos caps. 37 e 38; sementes (fio das cargas com setup nos caps. 40 e 43); `personagens/kate.md`; `lugares/alavria.md`; `decisoes/2026-11-12-canon-massacre-cargas.md`.

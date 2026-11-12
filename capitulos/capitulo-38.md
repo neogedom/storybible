@@ -43,5 +43,8 @@ Kate encontra Mário vomitando no pátio, depois do massacre. Ele a acusa de mat
 
 ## Pendências para o autor
 
-- **Capítulo 38 sem entrada no esquema**. Decidir se é um capítulo próprio, parte do 37, ou se o esquema precisa de uma linha. Hoje ele aparece na tabela só como "Ponto Central (sem entrada própria)".
-- **Cargas nos pilares**: a acusação de Nolan a Kate fica sem resposta definitiva. Decidir o canon.
+## Canon (decidido pelo autor em 2026-11-12)
+
+- **Cargas nos pilares: alavrianos**, revelação nos capítulos finais. Nolan acusa Kate; ela nega a autoria das cargas e não nega a ordem do barão. Ver `decisoes/2026-11-12-canon-massacre-cargas.md`.
+- **Capítulo 38 sem entrada no esquema**: continua pendente.
+- **Identidade do homem de casaco preto**: a confirmar.

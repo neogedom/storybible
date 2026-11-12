@@ -275,3 +275,8 @@ _Registrar citações marcantes durante o INGEST dos capítulos._
 
 **Prompt de referência (imagem-retrato do arquivo):**
 Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de uma caçadora diante de um fundo escuro de floresta noturna em sombras. Kate, mulher leviantar gnock de 25-32 anos, cabelo longo escuro desgrenhado, olhos escuros, pele clara, porte atlético e ágil, couro remendado de caçadora em camadas rasgadas, faca de caça escura à vista, expressão fria e alerta com um traço de cansaço e desconfiança. Iluminação: chiaroscuro dramático com luz âmbar de tocha e luar frio. Atmosfera: de prontidão, selvagem e contida. Paleta de cores: marrom escuro, couro, bege sujo, verde musgo e âmbar de tocha. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.
+
+## Fatos duros — L1 (canon 2026-11-12)
+
+- **Cap. 37**: Kate ordenou a morte do barão da Mina. Ato não mostrado em cena; revelado ao leitor pelo contexto (ver fichas dos caps. 37 e 38).
+- Investiga a origem das cargas em Gus (cap. 43). Revelação da origem: capítulos finais.
