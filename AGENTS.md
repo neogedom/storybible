@@ -91,14 +91,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ### INGEST — Finalizar capítulo
 
-Disparado pelo usuário com o prompt **"Finalizar capítulo X"**.
+Disparado pela skill **`/finalizar-capitulo X`** (Mini-INGEST, modo privado) ou **`/ingest-completo X`** (INGEST completo, congelamento).
 
 O protocolo detalhado está em `protocolo-ingest.md`. Resumo:
 
 > **Dois modos (ver `protocolo-ingest.md`):**
-> - **Mini-INGEST (modo privado)** — gatilho "cap. X pronto"; roda a cada
+> - **Mini-INGEST (modo privado)** — gatilho "cap. X pronto" ou `/finalizar-capitulo X`; roda a cada
 >   capítulo fechado durante a escrita privada do L1; só fatos duros.
-> - **INGEST completo (congelamento)** — gatilho "Finalizar capítulo X";
+> - **INGEST completo (congelamento)** — skill `/ingest-completo X`;
 >   enriquece os Mini-INGESTs; inclui LINT e análise de arco.
 
 1. Ler capítulo de `neogedom/livro/Livro 1/capituloX.md`
@@ -130,7 +130,7 @@ Durante qualquer conversa no chat, o agente DEVE detectar automaticamente:
 
 ### QUERY — Consultar a storybible
 
-Disparado pelo usuário com o prompt **"Query: [pergunta]"**.
+Disparado pela skill **`/query-storybible [pergunta]`**.
 
 1. Ler `index.md` para localizar páginas relevantes
 2. Navegar por subíndices e links entre conceitos
@@ -140,7 +140,7 @@ Disparado pelo usuário com o prompt **"Query: [pergunta]"**.
 
 ### LINT — Verificar saúde da wiki
 
-Disparado pelo usuário com **"Lintar storybible"** (ou automaticamente pós-INGEST).
+Disparado pela skill **`/lint-storybible`** (ou automaticamente pós-INGEST).
 
 Verificar:
 
@@ -180,13 +180,14 @@ Verificar:
 
 ## Prompts do Usuário
 
-| Você diz                            | O agente faz                                                                                                             |
+| Comando (repo `livro`, Claude)      | O agente faz                                                                                                             |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| "Iniciar revisão do capítulo X"     | @Arquiteto de Densidade → @Guardião de Coerência → @Revisor Linguístico → extrai narração audiochapter (no repo `livro`) |
-| "Finalizar capítulo X"              | INGEST: lê capítulo em `neogedom/livro`, extrai fatos, atualiza storybible, LINT automático                              |
-| "Lintar storybible"                 | LINT completo: estrutura, links, coerência narrativa, coerência visual, lacunas                                          |
-| "Query: [pergunta]"                 | Navega índice, lê docs, responde com citações                                                                            |
-| "Preparar capítulo X para Substack" | LINT visual → gera prompt de imagem + show notes + roteiro social media                                                  |
+| `/revisar-capitulo X`               | Ciclo de revisão, em ordem: subagentes `arquiteto-densidade` → `guardiao-coerencia` → `revisor-linguistico` |
+| `/finalizar-capitulo X`             | Mini-INGEST do capítulo fechado (modo privado): ficha, visuais, canon duro, esquema e log. Para o INGEST completo, use `/ingest-completo X` |
+| `/lint-storybible`                  | LINT completo: estrutura, links, coerência narrativa, coerência visual, lacunas |
+| `/query-storybible [pergunta]`      | Navega índice, lê docs, responde com citações |
+| `/ingest-completo X`               | INGEST completo (congelamento): fatos, personagens, visuais, conceitos, sementes e LINT |
+| Publicação e áudio                  | Arquivados em `docs/arquivo/skills/` (repo `livro`), por pausa da publicação. Ver `docs/handoff/estado-estrategico.md` |
 
 ---
 
@@ -194,9 +195,9 @@ Verificar:
 
 | Momento                                              | Escopo                                                                     | Automático? |
 | ---------------------------------------------------- | -------------------------------------------------------------------------- | ----------- |
-| Pós-INGEST (após "Finalizar capítulo X")             | Parcial: contradições do capítulo novo vs. histórico + consistência visual | ✅          |
-| Sob demanda ("Lintar storybible")                    | Completo                                                                   | Manual      |
-| Pré-publicação ("Preparar capítulo X para Substack") | Visual: estado dos personagens                                             | ✅          |
+| Pós-INGEST (após `/ingest-completo X`)             | Parcial: contradições do capítulo novo vs. histórico + consistência visual | ✅          |
+| Sob demanda (`/lint-storybible`)                    | Completo                                                                   | Manual      |
+| Pré-publicação (pausada; skill arquivada) | Visual: estado dos personagens                                             | ✅          |
 | Pré-escrita (antes de iniciar capítulo novo)         | Fronteira: estado atual                                                    | Manual      |
 | Periódico (a cada ~5 capítulos)                      | Completo                                                                   | Manual      |
 

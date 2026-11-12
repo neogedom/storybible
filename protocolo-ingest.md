@@ -1,8 +1,8 @@
 # Protocolo INGEST — Finalização de Capítulo
 
 > **Dois modos.** O **Mini-INGEST** roda a cada capítulo fechado durante a
-> escrita privada do L1 (gatilho "cap. X pronto"); o **INGEST completo** roda
-> no congelamento (gatilho "Finalizar capítulo X"). Norte: avançar sobre
+> escrita privada do L1 (skill `/finalizar-capitulo X`, ou "cap. X pronto"); o **INGEST completo** roda
+> no congelamento (skill `/ingest-completo X`). Norte: avançar sobre
 > aperfeiçoar; revisão fina só no congelamento (ver
 > `decisoes/estrategia-publicacao-l1.md`).
 
@@ -103,7 +103,7 @@ Ideias absorvem para frente.
 
 ### Quando executar
 
-Usuário diz **"Finalizar capítulo X"** após o ciclo de revisão estar completo.
+Usuário invoca **`/ingest-completo X`** após o ciclo de revisão estar completo.
 
 ## Pré-condições
 
