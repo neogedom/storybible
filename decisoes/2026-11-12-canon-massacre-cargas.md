@@ -31,3 +31,7 @@ Status: decidido pelo autor em conversa, em 2026-11-12.
 ## Atualização (cap. 38)
 
 O sinal de Kate foi inserido no cap. 38 (POV de Kate). Não foi inserido no cap. 37, porque o POV é de Mário.
+
+## Atualização (rampillas)
+
+A ordem dos seis rampillas do cap. 35 foi revelada no cap. 40, em POV de Nolan (opção B da discussão). A revelação da origem das cargas continua para o final.
