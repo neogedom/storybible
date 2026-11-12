@@ -79,9 +79,7 @@ Mário se entrega. Kate mata Gaviorn'l → liberta Hícse. Clãs revelam promess
 
 ## Noite Escura (~75-80%)
 
-**A escrever**
-
-Mário no calabouço; visões; entrega.
+Mário lê a Bíblia e o diário de Kraviam. Reconhece a própria culpa, mas o reconhecimento não lhe dá um método para salvar alguém. Ao oferecer a Kraviam redenção e graça, vê que ele entende e recusa; Mário não abandona a teologia nem o testemunho, mas para de tratar o próximo argumento como garantia de conversão. Isso prepara a recusa da via estatal de Nolan e a aceitação do custo no Garfo.
 
 ## Break Into 3 (~80%)
 

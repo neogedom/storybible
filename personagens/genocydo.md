@@ -31,8 +31,10 @@ reencarnado" foi a interpretação errônea do povo, não a intenção de Vonos.
 **instruído em Química na Terra** — é o que explica a guerra biológica da
 Guerra do Grifo (antraz; as cartas forradas de "pó letal" do cap. 7; o
 câncer que corroeu os próprios lábios, vindo do laboratório secreto).
-Cristão **nominal** (não fiel): tinha o verniz religioso, nunca foi eleito
-(semente de Nachash). **Aprendeu ornickenho com os Guenayer** ao chegar —
+Cristão **nominal** (não fiel): conhecia credos e retórica sinodal o bastante
+para compreender os apelos de Mário sobre pecado, arrependimento, redenção e
+graça; esse verniz não era fé viva. Nunca foi eleito (semente de Nachash).
+**Aprendeu ornickenho com os Guenayer** ao chegar —
 por esforço humano, NÃO por milagre. Contraste com Mário: o verdadeiro
 Souhma chegou inteiro e recebeu a língua da Voz (cap. 13); o falso falou por
 aprendizado, o verdadeiro por dom.
@@ -70,6 +72,8 @@ Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
    Souhma. Terbs mente: a recompensa é isca; Genocydo é o instrumento.
 3. Prende Mário após a entrega em Gus e o submete ao Garfo do Herege
    em praça pública durante o grande festival para forçar a blasfêmia
+   pública. Na conversa do cap. 54, compreende a oferta de redenção de Mário
+   e a recusa: não refuta a doutrina, prefere a apoteose.
 4. É assassinado no final do L1 por um infiltrado do destacamento alavriano durante a invasão do portão sul
 
 ## Relações

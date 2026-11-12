@@ -119,8 +119,9 @@ técnica argumentativa.
 ### Necessidade Real (o que ele PRECISA)
 
 Independentemente da sofisticação teológica, **Deus é soberano**: decide
-quando, como e com quem age. As ferramentas dele não salvam ninguém — só Deus
-salva. Controle e entendimento são vício e muleta (cap. 21), não salvação.
+quando, como e com quem age. A teologia e a lógica podem servir ao testemunho,
+mas não produzem fé nem garantem o resultado. Só Deus salva. Controle e
+entendimento são vício e muleta (cap. 21), não salvação.
 
 ### Sintoma Comportamental
 
@@ -136,9 +137,10 @@ novo?"
 
 ### Evolução
 
-- **L1**: as ferramentas NÃO salvam (o garoto do beco morre com Mário
-  "pronto"); o bebê do cap. 20 respira SEM ferramentas e SEM consentimento
-  dele — Deus age soberano.
+- **L1**: as ferramentas não garantem o resultado (o garoto do beco morre com
+  Mário "pronto"); o bebê do cap. 20 respira sem ferramentas e sem consentimento
+  dele. Isso não torna a razão e a teologia inúteis: elas servem ao testemunho,
+  mas não controlam a ação soberana de Deus.
 - **L2**: a corrupção do próprio reinado; nem a teologia mais apurada
   imuniza contra o pecado.
 - **Resolução**: a rendição — obedecer sem entender; "Eu Sou" decide.
@@ -149,6 +151,13 @@ NUNCA deixar Mário verbalizar a lição ("Deus é soberano" como conclusão)
 antes do clímax — o leitor deve senti-la na estrutura, não ouvi-la como
 sermão. A soberania ambígua (o bebê salvo; Lucas não; o garoto do beco não)
 é o motor do livro — não resolvê-la cedo.
+
+**Noite Escura, cap. 54:** Mário pode oferecer a Kraviam uma defesa sincera
+do pecado, da redenção e da graça. Kraviam entende o apelo e o recusa, sem
+refutar a doutrina. A epifania aparece quando Mário para de procurar outro
+argumento capaz de garantir a resposta. Não exigir silêncio nem concluir que
+teologia e apologética são inúteis: Mário ainda testemunha, mas não controla a
+conversão.
 
 ## Teologia de Mário — idioma reformado (canon 2026-08-10)
 
