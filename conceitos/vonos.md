@@ -68,7 +68,8 @@ porque a frequência de Mário ocupou o canal.
 - [Sinal de Vonos](/conceitos/sinal-de-vonos.md) — O oráculo
 - [Cosmologia](/conceitos/cosmologia.md) — Hierarquia divina
 
-## Racha entre os elohins (decidido em 2026-11-12)
+## Plano de Vonos e Lunus (decidido em 2026-11-12)
 
 - Vonos foi enviado por Marduk para Ornick, e em Ornick passou a agir contra as diretrizes de Marduk, junto com Lunus.
-- O racha: Hícse e Terbs de um lado; Vonos e Lunus do outro. Pendência: explicar a passagem de Terbs para o lado de Hícse (ver `terbs.md`).
+- Vonos e Lunus começaram a trazer terráqueos para plantar uma semente diferente da de Nachash, para governar. Terbs fingiu apoiá-los e agia contra eles.
+- Observação para o L2: o plano de trazer humanos da Herança de Javé se aproxima do que Mário é. Essa ligação precisa ser decidida antes de o texto a explorar.

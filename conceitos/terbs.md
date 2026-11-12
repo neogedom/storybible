@@ -57,6 +57,8 @@ Genocydo com a promessa.
 - [Hícse](/conceitos/hicse.md) — Chave de libertação guardada por Terbs
 - [Cosmologia](/conceitos/cosmologia.md) — Hierarquia divina
 
-## Racha entre os elohins (decidido em 2026-11-12)
+## Jogo duplo (decidido em 2026-11-12)
 
-- Terbs fica do lado de Hícse no racha entre Hícse e Terbs de um lado e Vonos e Lunus do outro. Pendência: por que Terbs, que ajudou a aprisioná-la e guardou a chave, passa para o lado dela. Se for interesse próprio, o texto precisa mostrar o preço.
+- Terbs sempre foi contra Javé e segue os próprios interesses. Não é aliado de Hícse: os métodos dela atrapalham os planos dele.
+- Quando Vonos e Lunus começaram a trazer terráqueos para plantar uma semente diferente da de Nachash, para governar, Terbs fingiu estar do lado deles, mas agia contra eles.
+- A enganação que ele patrocinou a Genocydo prova esse método.

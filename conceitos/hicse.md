@@ -94,3 +94,5 @@ consentimento dele.
 ## Papel no L2 (decidido em 2026-11-12)
 
 - Hícse reúne seres de várias raças e forma uma nova Hoste da Purgação, que é a própria coalizão. Ver `decisoes/2026-11-12-l2-coalizao-hicse.md`.
+
+- Terbs não é aliado de Hícse: ver `terbs.md` (jogo duplo, decidido em 2026-11-12).
