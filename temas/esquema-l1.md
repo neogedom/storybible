@@ -71,6 +71,28 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 43       | Vilões se Aproximam                 | Kate         | ~74-75%                 | ~80,3%               | 2.108    |
 | 44       | Vilões se Aproximam                 | Mário        | ~75%                    | ~81,6%               | 1.780    |
 | 45       | Vilões se Aproximam                 | Kate         | ~75%                    | ~83,1%               | 2.107    |
+| 46       | Vilões se Aproximam (inferido)      | Kate         | —                      | a recalcular         | 2.186    |
+| 47       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 2.150    |
+| 48       | Tudo Está Perdido (inferido)        | Mário        | —                      | a recalcular         | 1.632    |
+| 49       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 1.642    |
+| 50       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 998      |
+| 51       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 1.000    |
+| 52       | Noite Escura da Alma (inferido)     | Mário        | —                      | a recalcular         | 1.376    |
+| 53       | Noite Escura da Alma (inferido)     | Nolan        | —                      | a recalcular         | 1.160    |
+| 54       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 1.364    |
+| 55       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 930      |
+| 56       | Noite Escura da Alma (inferido)     | Mário        | —                      | a recalcular         | 1.260    |
+| 57       | Noite Escura da Alma (inferido)     | Kate         | —                      | a recalcular         | 1.025    |
+| 58       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 1.115    |
+| 59       | Break Into 3 (inferido)             | Kate         | —                      | a recalcular         | 919      |
+| 60       | Break Into 3 (inferido)             | Nolan        | —                      | a recalcular         | 905      |
+| 61       | Break Into 3 (inferido)             | Mário        | —                      | a recalcular         | 876      |
+| 62       | Break Into 3 (inferido)             | a confirmar  | —                      | a recalcular         | 759      |
+| 63       | Break Into 3 (inferido)             | Mário        | —                      | a recalcular         | 940      |
+| 64       | Final (inferido)                    | a confirmar  | —                      | a recalcular         | 1.504    |
+| 65       | Final (inferido)                    | Nolan        | —                      | a recalcular         | 1.098    |
+| 66       | Final (inferido)                    | Mário        | —                      | a recalcular         | 1.281    |
+| epílogo  | Imagem Final (inferido)             | a confirmar  | —                      | a recalcular         | 879      |
 
 > **Atualização 2026-11-06 — Mini-INGEST do cap. 43.** O manuscrito atual tem
 > **2.346 palavras**; o acumulado dos caps. 0–43 é **110.672 palavras (80,5%)**
