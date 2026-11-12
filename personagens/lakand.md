@@ -211,6 +211,7 @@ Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital co
 
 ## Fratura da voz (decidido em 2026-11-12)
 
-- **Cap. 16 (POV de Mário)**: Lakand chega à clareira depois do massacre e fala pouco: "Foram todos?" e "Vai". Tae-Tabor era seu amigo (cap. 12 mostra o vínculo; ele o salvara antes dos outros lobisomens). O luto é silencioso e sem culpa a Mário.
+- **Cap. 16 (POV de Mário)**: Lakand chega à clareira depois do massacre. Reconhece os mortos da alcateia de Kenod um a um, sem nomear, e fala pouco: "Foram todos?" e "Vai". O luto tem duas camadas: Tae-Tabor, seu amigo (cap. 12 mostra o vínculo; ele o salvara antes dos outros lobisomens), e os irmãos da alcateia. O luto é silencioso e sem culpa a Mário.
+- **Justificativa do silêncio**: a perda da alcateia inteira, e não só de um amigo, sustenta o silêncio que se estende pelos caps. 17 a 21. Sem essa perda coletiva, o silêncio seria exagero.
 - Caps. 17 a 19: sem falas dele. O silêncio pesa.
 - Caps. 20 em diante: falas curtas, como já estavam.
