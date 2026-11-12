@@ -148,7 +148,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 ## Agentes (Workflow)
 
-- [Preparador de Áudio](../Livro/.github/agents/preparador-audio.agent.md) — Agente especializado em preparar scripts de narração Minimax.
+- [Preparador de Áudio](../Livro/.claude/agents/preparador-audio.md) — Agente especializado em preparar scripts de narração Minimax.
 
 ---
 

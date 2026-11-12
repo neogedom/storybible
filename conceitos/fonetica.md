@@ -55,6 +55,6 @@ timestamp: 2026-07-24T12:00:00-03:00
 As regras de acentuação fonética aplicadas no pipeline de áudio (ex.: alcateia →
 alcatéia) **não** fazem parte deste dicionário: são um workaround operacional do
 TTS, não um fato do mundo. A fonte única dessas regras é a skill
-`Livro/.github/skills/preparar-audiochapter/SKILL.md` (seção 3). Não duplicar
+`Livro/.claude/skills/preparar-audiochapter/SKILL.md` (seção 3). Não duplicar
 aqui: este arquivo guarda apenas a **pronúncia canônica dos nomes** (tabela
 acima).

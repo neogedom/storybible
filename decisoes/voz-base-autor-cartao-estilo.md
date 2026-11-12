@@ -43,9 +43,9 @@ de `temas/tom-e-voz.md` (não arquivo novo).
 - `raw/voz-autor/` — criada; 4 textos-fonte salvos verbatim
   (`01-novela-terror-alemanha-nazista.md`, `02-haroldo.md`,
   `03-lamentacoes-de-abaddon.md`, `04-ativismo.md`).
-- `Livro/.github/agents/editor-anti-slop.agent.md` — ponteira: as marcas da
+- `Livro/.claude/agents/editor-anti-slop.md` — ponteira: as marcas da
   voz-base do autor não se cortam (referência à seção no tom-e-voz).
-- `Livro/.github/agents/livro-writer.agent.md` — ponteira: seção "Voz-base do
+- `Livro/.claude/agents/livro-writer.md` — ponteira: seção "Voz-base do
   autor" como régua da prosa na escrita. *(Edições em arquivos de agente só
   valem após Reload Window.)*
 

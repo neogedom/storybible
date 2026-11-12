@@ -148,7 +148,7 @@ provavelmente está cortando voz, não slop.
 
 Fonte: quatro textos do autor (2026-09-13), brutos em `raw/voz-autor/` — este
 cartão cita trechos. Consumidores: escrita (calibração da prosa) e passe
-anti-slop (`.github/agents/editor-anti-slop.agent.md`, repo do livro).
+anti-slop (`.claude/agents/editor-anti-slop.md`, repo do livro).
 
 ## Conexões
 

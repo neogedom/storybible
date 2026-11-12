@@ -33,7 +33,7 @@ Definition of Done (prosa completa, fronteira ok).
    (algo dá errado)? Desastre sem sequel → o próximo abre processando;
    decisão → o próximo abre executando. Decisão adiada há mais de 2
    capítulos: sinalizar no esquema (dívida — não reescrever). Anotar também
-   **onde o capítulo corta** (A/B/C/D — ver `passe-fechos.prompt.md`, no
+   **onde o capítulo corta** (A/B/C/D — ver skill `passe-fechos`, no
    Livro): é o dado que alimenta o passe de fechos do checkpoint.
 6. `log.md`: 1 linha (pode ser batch a cada 5 caps).
 7. Contador de checkpoint: verificar quantos capítulos passaram desde o
@@ -46,7 +46,7 @@ Definition of Done (prosa completa, fronteira ok).
    - **Passe anti-slop em lote** — cirurgia local (teste F13).
    - **Passe de fechos** — cortes A/B/C/D do bloco, repetição de gesto
      final, rotação de POV e quem decide em cada capítulo
-     (`passe-fechos.prompt.md`, no Livro).
+     (skill `passe-fechos`, no Livro).
    Executado, registrar no `log.md`.
 
 ### Obrigatório agora vs. espera o congelamento
@@ -65,7 +65,7 @@ Definition of Done (prosa completa, fronteira ok).
 > (uniformidade + capítulos com reescrita pesada).
 
 > **Passe de fechos (decisão do autor, 2026-09-14):** no mesmo checkpoint,
-> além do anti-slop, roda o **passe de fechos** (`passe-fechos.prompt.md`, no
+> além do anti-slop, roda o **passe de fechos** (skill `passe-fechos`, no
 > Livro). Ele lê o bloco **como sequência**, não capítulo a capítulo: onde
 > cada capítulo corta (A/B/C/D), se dois fechos seguidos repetem o mesmo
 > gesto ("norte", corpo em movimento, "E" inicial), como girou o POV e quem
