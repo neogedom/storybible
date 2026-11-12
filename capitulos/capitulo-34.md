@@ -39,5 +39,5 @@ Mário chega a um assentamento de refugiados, perto do pó de quartzo. Cura uma 
 
 ## Pendências para o autor
 
-- **Custo do milagre**: o texto não diz o que a cura custa a Mário. A doutrina do projeto exige custo. Conferir antes de registrar em `conceitos/milagre.md`.
+- **Custo do milagre** (decidido em 2026-11-12): tremor da mão como medo, não exaustão; a Voz não responde ao gesto. Nenhum efeito físico.
 - Mário menciona "Ele pagou" sem trazer custo visível; o leitor pode ler isso como ferramenta.
