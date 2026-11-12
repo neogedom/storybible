@@ -5,7 +5,8 @@
 ## Filtro de POV
 
 - Percebe **dívida, prova, autoridade, contrato e injustiça como processo**. Vê o mundo como um caso a ser argumentado.
-- Mente acelerada: enfileira réplicas, silogismos e objeções. A pausa para escutar é o que mais lhe falta.
+- Pensa em silogismos, à maneira aristotélica: premissas, conclusão, definições, não contradição. A pausa para escutar é o que mais lhe falta.
+- A lógica falha quando o mundo não obedece à premissa: a "teologia límpida" não responde ao mingau do armazém (cap. 37). Esse choque é a fissura do personagem.
 - Sensorial, mas de forma tardia: nota pele, suor, sede e cheiro depois de pensar. Quando o corpo fala primeiro, é porque o chão o abalou (vômito, joelhos).
 - Reconhece palavras e lugares pela memória da Terra ("Etemenanki", "Oriente Médio", "missionários") sem saber de onde vem o reconhecimento.
 - Vocabulário de percepção: "argumento", "quitação", "ônus", "credor", "prova", "tribunal" (e "ruína", quando está abalado).
@@ -19,7 +20,8 @@
 
 ## Registro de fala
 
-- Em **argumento**: frases longas, formais, em português moderno, com termos jurídicos e teológicos. Nunca arcaico (ver `personagens/mario.md`).
+- Em **argumento**: explicita a estrutura, premissa e conclusão, como num silogismo. Frases formais, em português moderno, com termos jurídicos e teológicos. Nunca arcaico (ver `personagens/mario.md`).
+- Exemplos no texto: "Se o credor recebeu o resgate, a cobrança se torna extorsão" (cap. 36, condicional); "Nenhuma lei humana pode penhorar o que Deus declarou livre" (cap. 36, premissa).
 - Em **crise**: frases curtas, interjeições, sem fechamento elegante ("Isso é um matadouro, Kate...").
 - Ironia seca, às vezes autodepreciativa.
 - Fecha argumento em **transação ou evidência** ("A conta foi quitada inteira!" é um fecho de efeito; ver contraexemplo).
@@ -41,6 +43,6 @@
 
 ## Contraexemplos
 
-- "A conta foi quitada inteira! Vocês não devem servidão a homem nenhum!" (cap. 37, real). É um fecho de efeito com lição. Viola a regra de Mário. **Candidata a corte ou a reescrita de fechamento.**
+- "O credor já recebeu o pagamento. Se duvidam, peçam ao barão que abra o livro." (cap. 37, reescrito). Fecha em evidência, como a regra exige.
 - "Tudo bem, a gente resolve isso com calma." (soa a autoajuda.)
 - "Kate, você está certa, a violência é sempre o último recurso." (Mário cedendo sem argumento, fora do personagem.)
