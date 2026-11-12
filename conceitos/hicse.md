@@ -91,6 +91,6 @@ consentimento dele.
 - [Terbs](/conceitos/terbs.md) — Quem guardou a chave
 - [Cosmologia](/conceitos/cosmologia.md) — Hierarquia divina
 
-## Nome na proposta do L2 (decidido em 2026-11-12)
+## Papel no L2 (decidido em 2026-11-12)
 
-- **Iquize é Hícse**: mesma entidade. A coalizão do L2 é a nova Hoste da Purgação, formada por ela a partir de seres de várias raças. Ver `decisoes/2026-11-12-l2-coalizao-hicse.md`.
+- Hícse reúne seres de várias raças e forma uma nova Hoste da Purgação, que é a própria coalizão. Ver `decisoes/2026-11-12-l2-coalizao-hicse.md`.
