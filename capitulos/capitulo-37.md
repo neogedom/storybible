@@ -38,7 +38,7 @@ Mário entra pela rampa inferior, marcado como devedor. Na galeria, vê um ental
 
 ## Sementes e conexões
 
-- **Etemenanki** (torre escalonada, serpente alada, cuneiforme): semente nova. Mário reconhece a palavra sem saber por quê. Registrar em `temas/sementes.md` como pista de origem não-humana ou de conhecimento de Terra. Decisão do autor.
+- **Etemenanki** (torre escalonada, serpente alada, cuneiforme): semente nova. Mário reconhece a palavra sem saber por quê. Semente #25 já planejada (`temas/sementes.md`, seção 25): zigurate de Etemenanki, ligado à Torre de Babel. **Semente crossbook: pagamento no L2.**
 - **Cargas nos pilares**: Nolan atribui a Kate; ela nega no cap. 38. Semente.
 - **Fato duro**: Mário sobe no caixote e prega com o plano do cap. 36. O sermão falha. Consequência: escalada e perseguição, como o esquema pede.
 
@@ -48,5 +48,5 @@ Mário entra pela rampa inferior, marcado como devedor. Na galeria, vê um ental
 
 - **Quem ordenou a morte do barão: Kate.** O texto dá a ordem como implícita (Nolan fala em \"sinal combinado\"; Kate justifica o sangue do senhor no cap. 38). A ordem não é mostrada em cena. Manter assim, ou mostrar, é decisão de escrita a confirmar.
 - **Quem plantou as cargas de fogo de rocha: os alavrianos** (destacamento infiltrado). A revelação fica para os capítulos finais do L1. Ver `decisoes/2026-11-12-canon-massacre-cargas.md`.
-- **Identidade do homem de casaco preto**: a confirmar (ver ficha do cap. 38).
-- **Etemenanki**: ainda pendente, sem decisão.
+- **Identidade do homem de casaco preto**: provavelmente Nolan (ver ficha do cap. 38). O POV de Mário não conhece o nome dele, então o nome pode ficar de fora aqui.
+- **Etemenanki**: resolvido. Semente crossbook ligada à Torre de Babel, paga no L2.

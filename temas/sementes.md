@@ -680,7 +680,7 @@ _Atualizar a cada INGEST de capítulo._
 
 > Status: a confirmar pelo autor. Conferir antes de tratar como canon.
 
-- **Rampillas reativados no sul** (cap. 35): quem os reativou não é explicado. Pendente.
-- **Etemenanki** (cap. 37): torre escalonada, serpente alada e inscrição cuneiforme numa galeria da Mina. Mário reconhece o nome sem saber por quê. Pendente.
+- **Rampillas reativados no sul** (cap. 35): o canon já diz que foram enviados por ordem de Nolan, através da raiz-mestra (`conceitos/rampillas.md`). Revelar no texto: decisão do autor.
+- **Etemenanki** (cap. 37, semente #25): torre escalonada, serpente alada e inscrição cuneiforme numa galeria da Mina. Mário reconhece o nome sem saber por quê. **Semente crossbook ligada à Torre de Babel; pagamento no L2.**
 - **Cargas nos pilares** (caps. 37 a 38): fogo de rocha que derruba a Mina. **Canon (2026-11-12): plantadas pelos alavrianos.** Setup no texto: cap. 40 (Nolan conclui que quem plantou sabia o que fazia) e cap. 43 (Kate pergunta a artífices em Gus como a mina desaba; resposta: fogo de rocha nos pilares internos). **Pagamento: revelação nos capítulos finais (a localizar).**
 - **Maxilar quadrado** (caps. 34 a 38): o homem recrutado por Kate e batizado por Mário é o executor do barão. Ele fecha um arco de conversão e violência.

@@ -20,3 +20,10 @@ Status: decidido pelo autor em conversa, em 2026-11-12.
 - Canal da revelação: Varek (que morre no cap. 66), Koda (espião alavriano), ou outro. Escolher.
 - Localizar, no texto, as cenas finais em que a revelação acontece.
 - Decidir se a ordem de Kate será mostrada em cena ou fica implícita.
+
+## Atualização (mesmo dia)
+
+- **Etemenanki**: semente #25 já planejada. Zigurate ligado à Torre de Babel, pagamento no L2.
+- **Rampillas do cap. 35**: canon existente aponta para Nolan, por ordem dada pela raiz-mestra, seguindo o sangue de Kate. Falta decidir quando e como isso aparece no texto.
+- **Casaco preto**: provavelmente Nolan. No cap. 38 (POV de Kate, que o conhece de Devour), o nome ainda não aparece.
+- **Pendências em aberto**: custo do milagre (cap. 34); quando revelar a ordem dos rampillas; se Kate mente sobre a ordem do barão em cena (hoje ela não nega, só justifica).
