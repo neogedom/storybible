@@ -67,3 +67,8 @@ porque a frequência de Mário ocupou o canal.
 - [Terbs](/conceitos/terbs.md) — Aliado/rival que jogou dos dois lados
 - [Sinal de Vonos](/conceitos/sinal-de-vonos.md) — O oráculo
 - [Cosmologia](/conceitos/cosmologia.md) — Hierarquia divina
+
+## Racha entre os elohins (decidido em 2026-11-12)
+
+- Vonos foi enviado por Marduk para Ornick, e em Ornick passou a agir contra as diretrizes de Marduk, junto com Lunus.
+- O racha: Hícse e Terbs de um lado; Vonos e Lunus do outro. Pendência: explicar a passagem de Terbs para o lado de Hícse (ver `terbs.md`).
