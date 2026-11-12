@@ -109,4 +109,4 @@ A progressão por capítulo (beat, POV, palavras e % real) vive só em `temas/es
 
 → [Ver a progressão no esquema](esquema-l1.md#progressão-por-capítulo-escritos)
 
-Capítulos 47 a 66 e epílogo: rascunho, ainda sem linha na tabela do esquema.
+Capítulos 47 a 66 e epílogo: rascunho em revisão. Beats e POVs desses capítulos estão marcados como inferidos no esquema, até você confirmar.
