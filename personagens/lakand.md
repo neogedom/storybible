@@ -148,7 +148,7 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 - Lakand **NÃO estava com a alcateia que perseguiu Mário** — ele é batedor
   (cap. 9) e estava em serviço.
 - Ao perceber que a alcateia demorava demais, foi ao encontro dela — e
-  encontrou o massacre (cap. 16): a alcateia de Kenod dizimada.
+  encontrou o massacre (cap. 16): parte da alcateia de Kenod morta; Kenod e Charles estavam fora do ataque.
 - **Lakand NÃO culpa Mário pela morte da alcateia** (decisão 2026-08-04). Se
   carregasse culpa/rivalidade, repetiria o arco de Decian (cap. 17, "Vi os
   meus morrendo"). A perda é luto silencioso, sem alvo — nunca nomeado.
@@ -211,7 +211,7 @@ Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital co
 
 ## Fratura da voz (decidido em 2026-11-12)
 
-- **Cap. 16 (POV de Mário)**: Lakand chega à clareira depois do massacre. Reconhece os mortos da alcateia de Kenod um a um, sem nomear, e fala pouco: "Foram todos?" e "Vai". O luto tem duas camadas: Tae-Tabor, seu amigo (cap. 12 mostra o vínculo; ele o salvara antes dos outros lobisomens), e os irmãos da alcateia. O luto é silencioso e sem culpa a Mário.
+- **Cap. 16 (POV de Mário)**: Lakand chega à clareira depois do massacre. Reconhece os mortos da alcateia de Kenod um a um, sem nomear, e fala pouco: "Quantos ficaram?" e "Vai". O luto tem duas camadas: Tae-Tabor, seu amigo (cap. 12 mostra o vínculo; ele o salvara antes dos outros lobisomens), e os irmãos da alcateia. O luto é silencioso e sem culpa a Mário.
 - **Justificativa do silêncio**: a perda da alcateia inteira, e não só de um amigo, sustenta o silêncio que se estende pelos caps. 17 a 21. Sem essa perda coletiva, o silêncio seria exagero.
 - Caps. 17 a 19: sem falas dele. O silêncio pesa.
 - Caps. 20 em diante: falas curtas, como já estavam.

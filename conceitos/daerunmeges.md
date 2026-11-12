@@ -58,7 +58,7 @@ Vivem em **alcateias**. Cada alcateia tem um líder. A alcateia liderada por **K
 - Envolvidos em massacre com rampillas na floresta de Saramant
 - Estavam caçando um forasteiro (Mário) que apareceu do nada
 - Decian, um curandeiro daërunmege, tratou o forasteiro e depois viu sua alcateia morrer ao persegui-lo
-- A alcateia de Kenod foi dizimada
+- Parte da alcateia de Kenod morreu no massacre. Kenod morre depois, de causas naturais; os sobreviventes seguem com Charles, que assume o comando (decidido em 2026-11-12).
 
 ## Decian — Variação
 

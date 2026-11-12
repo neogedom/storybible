@@ -1061,7 +1061,7 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 - **Mediação de Lakand:** O lobo transmite o recado de Kate: ela busca os artífices de Gus para desvendar a sabotagem técnica da Mina. Também informa Mário que o homem do casaco preto é Nolan Guenayer, juiz do Trono e conselheiro da Coroa, embora não tenha jurisdição na Cidadela.
 - **Chegada à Cidadela de Gus, ao meio-dia do dia seguinte:** Mário chega com os sobreviventes que ainda caminhavam; alguns já alcançaram a cidade, enquanto outros vêm atrás amparando os feridos. Ele testemunha a única terra desenvolvida fora da Metrópole onde humanos e leviantares convivem nas mesmas ruas sem ferros da Segregação.
 - **O pedido ao Souhma:** Na enfermaria, Mário ajuda a levar um ferido até Decian. O homem pede que ele o cure. Mário não promete milagre; chama Decian e permanece com o ferido. Ao ver os demais esperando, percebe que não sabe como ajudá-los todos. A cena fica integrada à chegada, sem abrir outra sequência.
-- **Reencontro com Decian:** Decian, fugitivo como curandeiro de ervas em Gus, trata os ferimentos de Mário e traz notícias da alcateia: Kenod morreu no colapso pós-massacre e Charles assumiu o bando para caçar a recompensa do Trono.
+- **Reencontro com Decian:** Decian, fugitivo como curandeiro de ervas em Gus, trata os ferimentos de Mário e traz notícias da alcateia: Kenod morreu de causas naturais, depois do massacre e Charles assumiu o bando para caçar a recompensa do Trono.
 - **Fecho:** Mário isolado na oficina, oprimido pela culpa e incapaz de orar. Corte C.
 
 #### Capítulo 40 (PoV de Nolan) — A Ruína e o Rumo
