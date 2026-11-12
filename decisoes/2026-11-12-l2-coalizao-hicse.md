@@ -24,3 +24,11 @@ Cada força serve a um deus, e os conflitos são disputas sobre qual deus govern
 
 - A coalizão é contra Mário e contra Alavria, ou aliada de Alavria?
 - Quando a segunda onda de Alavria chega em relação à coalizão.
+
+## Aliança e agente do caos (decidido em 2026-11-12)
+
+- **Aliança instável entre Hícse (a Hoste) e Renath (Alavria).** Os dois são servos de Marduk e têm inimigos comuns, mas disputam o Reino: Renath quer anexá-lo, e Hícse quer libertação e vingança. A aliança dura enquanto serve aos dois, e a desconfiança cresce até o ato final.
+- **Agente do caos: a definir.** Opções:
+  - **Gunad (recomendado).** Líder do Remanescente, investiga o desaparecimento de Koda e o destino de Joachin, refém em Alavria. Pode jogar dos dois lados, por exemplo passando informação de uma força para a outra, e isso se encaixa no conflito de responsabilidades que a ficha dele já prevê.
+  - **Lakand (não recomendado).** No canon do L2 ele é corrompido por Mesmia e vira recrutador da Hoste. Usá-lo como sabotador exige uma virada que contraria esse arco.
+- **Cuidado com a vantagem de Mário.** A vantagem precisa ser consequência das escolhas dos outros, e não de um plano de Mário. Mário não controla o resultado, como o arco dele pede.
