@@ -1,6 +1,6 @@
 # Logística de Alavria: travessia, renanthao e invasão final
 
-Status: rascunho para decisão do autor. Nada aqui foi aplicado ao texto.
+Status: em aplicação. Decidido: renanthao de Alavria (caps. 4 e 6 ajustados); Mathias entrega o fragmento no cap. 42. Ainda pendente: distância, tamanho da força e rota dos infiltrados.
 
 ## O que o texto já exige
 

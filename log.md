@@ -3586,3 +3586,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-12 (fratura da voz de Lakand)
 
 - Opção A aprovada: cena de Lakand na clareira no cap. 16 (POV de Mário). Registrada em `personagens/lakand.md`.
+
+## 2026-11-12 (renanthao de Alavria e entrega do fragmento)
+
+- Caps. 4 e 6: renanthao de Alavria. Cap. 42: Mathias entrega o fragmento a Nolan.
