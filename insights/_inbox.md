@@ -19,6 +19,23 @@
 
 ## Entradas
 
+### 2026-11-13: Nuh pergunta a Nolan se teve parte no silêncio do Sinal
+
+- **Data**: 2026-11-13
+- **Ideia (uma linha)**: nos capítulos finais, na Metrópole, Nuh d'Teraghar pergunta a Nolan se ele teve alguma parte no silêncio do Sinal, e Nolan dá a resposta mais adequada. Reforça que o Sinal está mudo e dá a Nuh o beat de arco que falta.
+- **Capítulos afetados**: epílogo (proposta); alternativa: cap. 53.
+- **Status**: em desenvolvimento (ideia do autor; falta decidir o ponto e a resposta de Nolan).
+- **Destino**: epílogo, na revisão (rascunho ainda não revisado).
+- **Relação com o cânone**: `personagens/nuh-dteraghar.md` ("Final do L1: choque teológico: Vonos não estava no controle. Some."); `insights/nolan-cobra-nuh-informacao-negada.md` (a cobrança de Nolan, já feita no cap. 49); `conceitos/sinal-de-vonos.md` (mudo e definitivo desde o cap. 30); cap. 4 (o hegraliano: "o Sinal perdeu o eixo antes de eu ser preso").
+
+1. O que muda? Uma cena curta de Nuh e Nolan. No cap. 49, Nolan cobra Nuh. Aqui Nuh vira o jogo e pergunta a Nolan. Hoje Nuh não reaparece depois do cap. 49, e o beat dele ("choque teológico: Vonos não estava no controle. Some.") não está escrito.
+2. Em quais capítulos? Epílogo, antes da chegada de Benjamim. Nuh vem depois de ver o Monólito morto e depois da intervenção do cap. 66, quando o choque teológico dele já aconteceu. Alternativa: cap. 53 (POV Nolan, de noite), mas aí Nuh ainda acredita que Vonos está no controle e o choque fica sem lugar.
+3. Qual o custo? Cerca de 250 a 300 palavras. O epílogo (879 palavras) cresce cerca de um terço. Nuh sai da história depois da cena ("some").
+4. O que paga? O beat de arco de Nuh; o espelho do cap. 49; o callback do hegraliano do cap. 4 (Nolan o queimou mesmo sabendo); o risco 2 (Nolan não pode ser sempre certo: ele culpa o Estrangeiro e não conhece a causa, Hícse); e a leitura do epílogo.
+5. Cena exemplo (epílogo, POV Nolan): "— O Monólito calou, magistrado — disse Nuh, com o diapasão quebrado nas mãos. — O senhor queimou os mestres que diziam que ele vacilava. Teve o senhor alguma parte nisso? / — Nenhuma. Ele vacilou antes de eu prender o primeiro. O hegraliano do Salão de Justiça me disse isso na cara, e eu o mandei queimar assim mesmo. / Nuh demorou a responder. / — Eu lhe disse no templo que Vonos estava no controle. / — Disse."
+- **Por que essa resposta de Nolan:** é verdadeira (o Sinal vacilou antes de qualquer ato dele), é de juiz (data e testemunho), custa a Nolan (confessa que queimou quem dizia a verdade) e não fecha em frase de efeito. Nolan não conhece a causa verdadeira (Hícse); para o leitor, que sabe, a ironia fica.
+- **Ponto a ajustar no epílogo:** a narração diz que a Verdade de Vonos "fora silenciada pela soberania de outro Nome". Pelo canon, o Sinal calou com a libertação de Hícse (cap. 30). Com esta cena, a frase pode passar a ser a leitura de Nolan, e não um fato do narrador.
+
 ### 2026-11-13: O rapaz curado dos Clãs reconhecido no cap. 63
 
 - **Data**: 2026-11-13

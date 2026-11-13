@@ -3665,3 +3665,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-13 (rapaz curado dos Clãs)
 
 - Autor aprovou o reconhecimento do rapaz curado (cap. 48) entre os Clãs no cap. 63: ele vê o homem que o curou ser torturado, sem ajoelhar e sem agir. Registrado como semente #32 e no inbox (destino: cap. 63, na revisão). Sem nome por ora.
+
+## 2026-11-13 (Nuh e Nolan sobre o silêncio do Sinal)
+
+- Ideia do autor capturada no inbox: nos capítulos finais, Nuh pergunta a Nolan se teve parte no silêncio do Sinal. Proposta: epílogo, antes de Benjamim; resposta de Nolan factual (o Sinal vacilou antes de qualquer ato dele; ele queimou o hegraliano assim mesmo). Status: em desenvolvimento.
