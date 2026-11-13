@@ -1119,7 +1119,7 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 
 #### Capítulo 46 (PoV de Kate) — A Sala de Traçagem
 - **Confronto de Lupe'i:** cobra a Nolan o rastro de sangue desde Saramant e as mortes em Gerikhad; Nolan responde que o Trono tem contrato com os Clãs e que precisa do rapaz vivo.
-- **O plano:** Kate propõe descer o Cran no degelo; Nolan traça a entrada pelos canais de deságue na quebra de vigilância entre a terceira e a quarta vigília (escala alterada por Valinor). Nolan segue por terra com Mathias, Mira, Saboc e Ossan; Kate, Lakand, artífices e Decian vão de barcaça.
+- **O plano:** Kate propõe descer o Cran, cheio das chuvas da serra; Nolan traça a entrada pelos canais de deságue na quebra de vigilância entre a terceira e a quarta vigília (escala alterada por Valinor). Nolan segue por terra com Mathias, Mira, Saboc e Ossan; Kate, Lakand, artífices e Decian vão de barcaça.
 - **Fecho:** decisão (plano fixado); próximo abre executando. Corte D, segundo D seguido (45 e 46): sinalizar ao passe de fechos.
 
 ---

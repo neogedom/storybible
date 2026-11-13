@@ -5,7 +5,7 @@
 ## Filtro de POV
 
 - Percebe **prazos, custos, cadeia de comando, documentos e quem deve a quem**. Avalia pessoas por utilidade e risco.
-- Sensorial e frio: postura, gola, mãos, óculos. Quando está abalado, o corpo entrega (o tremor disfarçado apertando o aro de prata dos óculos, cap. 46).
+- Sensorial e frio: postura, gola, mãos, óculos. Quando está abalado, o corpo entrega (o tremor disfarçado apertando a armação de ébano dos óculos, cap. 46).
 - Vocabulário de percepção: "autos", "pasta de autos", "gabinete", "prazo", "custódia", "edital", "perante a lei", "tribunal".
 
 ## Conhecimento proibido

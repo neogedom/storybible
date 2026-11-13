@@ -78,3 +78,10 @@ Conferido contra a chave do teste, guardada fora do repositório.
 - L1 (Kate conhecer nome e filiação de Ossan): não é erro semeado; a frase já estava no original. Possível problema real do texto, para o autor avaliar. Não é falso alarme grave.
 - Veredito pelo critério do plano (pelo menos 3 de 4, sem falso alarme grave): **passou**.
 - Contaminação: a rodada 1 leu a ficha do cap. 46. Por isso a rodada 2 é a medida mais limpa. Regra de isolamento incluída no plano.
+
+## Resolução dos apontamentos (2026-11-13)
+
+- L1: Kate pode saber o nome de Ossan; mantido.
+- L31: "aro de prata" corrigido para "armação de ébano" no cap. 46, em `visuais/nolan.md` e em `vozes/nolan.md`.
+- L45: "degelo da serra" corrigido para "chuvas da serra" (o Livro 1 corre no outono). Ajustados também a ficha e o esquema.
+- Os demais apontamentos de gravidade baixa ou média ficam sem ação por ora.

@@ -177,8 +177,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## Capítulo 46 — A Sala de Traçagem (Mini-INGEST, 2026-11-13)
 
 - **Vestimenta**: lenço de seda na lapela imundo de terra preta; colarinho desabotoado; ajeita a gola torta; lenço cinzento para limpar o carvão.
-- **Acessórios**: óculos de aro de prata.
-- **Sinais físicos**: dedos compridos da mão direita tremem de leve, disfarçados no aro dos óculos; pescoço pálido e rígido.
+- **Acessórios**: óculos de armação de ébano.
+- **Sinais físicos**: dedos compridos da mão direita tremem de leve, disfarçados na armação dos óculos; pescoço pálido e rígido.
 - **Postura**: sentado; postura de homem de gabinete; traça a rota com carvão no pergaminho.
 - **Fundo**: sala de traçagem da Academia de Gus.
 
