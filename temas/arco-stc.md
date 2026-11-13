@@ -69,13 +69,13 @@ na Cidadela de Gus.
 
 **A escrever**
 
-Caça a Mário; cidadela de Gus massacrada.
+**Redefinido em 2026-11-13 (checkpoint caps. 37-46, aprovado pelo autor).** O beat foi escrito nos caps. 39 a 43 (chegada a Gus e Decian, Nolan avalia o terreno, a tentação de Orval, a infiltração de Nolan, Estruzzo e o ultimato) e consumiu ~19k palavras (~13,9% do livro, contra ~7% planejado). A Cidadela de Gus **não foi massacrada**: a entrega de Mário fez a horda recuar. Gus paga pouco; o custo da entrega fica para os caps. 47 em diante.
 
 ## Tudo Está Perdido (~75%)
 
 **A escrever**
 
-Mário se entrega. Kate mata Gaviorn'l → liberta Hícse. Clãs revelam promessa de Terbs.
+**Já escrito, nos caps. 43 a 46 (antecipado):** Clãs revelam a promessa de Terbs (cap. 43); Mário se entrega (caps. 44-45); a coalizão Kate/Nolan/artífices planeja a travessia do Cran (cap. 46). **Falta no beat (caps. 47+):** o custo humano de Gus e da entrega, uma perda real (o "sopro de morte"), Mário de volta à página em cativeiro, e o plano de Nolan falhando visivelmente. Kate/Gaviorn'l/Hícse: ver caps. 43 e 45 antes de dar o beat por cumprido.
 
 ## Noite Escura (~75-80%)
 

@@ -3617,3 +3617,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 
 - Executado: Arquiteto de Densidade (leve), anti-slop em lote (59 cirurgias nos caps. 37 a 45; cap. 46 só candidatos, por estar em revisão manual) e passe de fechos (bloco gravado em `temas/esquema-l1.md`).
 - Densidade: Vilões se Aproximam consumiu ~19k palavras (~13,9%) contra ~7% planejado; o bloco absorveu os primeiros beats do Tudo Está Perdido. Cap. 41 em excesso; Gus quase não paga a entrega de Mário; mapa do arco-stc precisa ser redefinido antes do cap. 47.
+
+## 2026-11-13 (cap. 46 fechado e checkpoint aprovado)
+
+- Autor aprovou os pontos do checkpoint. Correções de coerência aplicadas nos caps. 37, 38, 41, 43, 44, 45 e 46 (olhos de Nolan escuros, conforme `personagens/nolan.md`; cinco seguidores; erros de grafia). Arco-stc redefinido; ajustes estruturais em `insights/_inbox.md`. Pendente: prazo do ultimato de Estruzzo (cap. 43) contra o ataque na mesma noite.
