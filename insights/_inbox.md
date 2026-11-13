@@ -24,7 +24,7 @@
 - **Data**: 2026-11-13
 - **Ideia (uma linha)**: nos capítulos finais, na Metrópole, Nuh d'Teraghar pergunta a Nolan se ele teve alguma parte no silêncio do Sinal, e Nolan dá a resposta mais adequada. Reforça que o Sinal está mudo e dá a Nuh o beat de arco que falta.
 - **Capítulos afetados**: epílogo (proposta); alternativa: cap. 53.
-- **Status**: aceito pelo autor em 2026-11-13 quanto à ideia e ao lugar (epílogo, cerca de 300 palavras). A resposta de Nolan foi corrigida pela cronologia do autor (ver abaixo) e aguarda confirmação.
+- **Status**: aceito pelo autor em 2026-11-13: a ideia, o lugar (epílogo, cerca de 300 palavras) e a resposta de Nolan, já corrigida pela cronologia do autor (ver abaixo).
 - **Destino**: epílogo, na revisão (rascunho ainda não revisado).
 - **Relação com o cânone**: `personagens/nuh-dteraghar.md` ("Final do L1: choque teológico: Vonos não estava no controle. Some."); `insights/nolan-cobra-nuh-informacao-negada.md` (a cobrança de Nolan, já feita no cap. 49); `conceitos/sinal-de-vonos.md` (mudo e definitivo desde o cap. 30); cap. 4 (o hegraliano: "O Sinal perdeu o eixo, Juiz. Vonos já não confirma este reino.").
 
@@ -36,6 +36,32 @@
 - **Cronologia (autor, 2026-11-13):** (1) Nolan já tinha uma rixa antiga com os hegralianos; (2) o Sinal falha; (3) os hegralianos aproveitam a falha para espalhar o boato de que Vonos abandonou o reino, ou de que há um problema na relação de Vonos com o Rei; (4) Nolan trata isso como crime e condena os hegralianos à fogueira de Gerikhad por espalharem o boato; (5) sufocar os boatos é um dos principais objetivos dele nesse momento do livro; (6) o Sinal calou depois, com a libertação de Hícse. No texto: cap. 4 (a acusação formal é da rixa, contra a Segregação, mas o réu diz "Vonos já não confirma este reino") e cap. 42 ("mandara queimar mestres hegralianos... para impedir que o boato da instabilidade divina se espalhasse").
 - **Por que essa resposta de Nolan:** é verdadeira (o Sinal falhou antes de ele queimar por causa do boato), é de juiz (admite a rixa antiga e separa o que fez), custa a Nolan (confessa que queimou quem dizia o que o Sinal depois confirmou) e termina em fato, não em frase de efeito. Nolan não conhece a causa verdadeira (Hícse); para o leitor, que sabe, a ironia fica. A cena fecha o fio de Nolan como o homem que tenta ser dono da narrativa do divino e a perde (`insights/nolan-sufoca-boatos-sinal.md`).
 - **Decisão do autor sobre a narração do epílogo:** a frase "A Verdade de Vonos fora silenciada pela soberania de outro Nome" fica como está (a proposta anterior de reescrevê-la como leitura de Nolan foi retirada). É uma leitura teológica, de providência: Deus age por meio de fatos do mundo, e quem olha só pelo mundo não vê. A mecânica continua a mesma (Hícse solta, o Sinal sem objeto, mudo); o narrador nomeia a causa primeira, e Nolan e Nuh veem só a causa segunda. Eco do cap. 49, em que Nuh usa a gramática da providência para o Deus errado ("Terbs é apenas o machado nas mãos de Vonos").
+
+- **Rascunho proposto da cena (NÃO inserido no epílogo; entra entre o parágrafo dos pergaminhos e a chegada de Benjamim, antes de "O som suave de passos arrastados quebrou o silêncio da galeria."):**
+
+  Passos pesados e hesitantes ecoaram no claustro. Nolan os reconheceu antes de erguer os olhos: o ranger de couro velho de quem já não sabia aonde ir.
+
+  Nuh d'Teraghar atravessou a galeria sem cortejo e sem o talismã no peito. A túnica de linho cru estava rasgada na barra e escura de cinza. Nas mãos trazia um diapasão de bronze partido ao meio, que segurava pela haste, com os dois polegares sobre a fratura.
+
+  Parou diante do banco. Pestanejou contra o reflexo da lente trincada e demorou a achar o rosto do juiz.
+
+  — O Monólito calou, magistrado.
+
+  Nolan não respondeu.
+
+  — O senhor queimou quem dizia que Vonos já não confirmava este reino — disse o sacerdote, sem a solenidade de antes. — Teve o senhor alguma parte nisso?
+
+  Nolan pesou a pergunta pelo que ela pedia: um dia, uma testemunha, um documento. Tinha os três.
+
+  — Nenhuma. Eu já perseguia os hegralianos por outras razões. O Sinal falhou primeiro, no dia em que o Estrangeiro caiu; só então eles passaram a dizer aquilo, e eu os mandei queimar pelo boato.
+
+  Nuh demorou a responder. O diapasão tremeu entre os dedos dele, sem som.
+
+  — Eu lhe disse no templo que Vonos estava no controle.
+
+  — Disse.
+
+  O sacerdote pousou o diapasão partido sobre o banco, ao lado das folhas de pergaminho. Não esperou resposta. Deu meia-volta e se afastou pela galeria, e o ranger do couro foi sumindo sob as arcadas até Nolan não distinguir se o ouvia ou se o lembrava.
 
 ### 2026-11-13: O rapaz curado dos Clãs reconhecido no cap. 63
 

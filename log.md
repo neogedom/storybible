@@ -3677,3 +3677,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-13 (cronologia do boato e dos hegralianos)
 
 - Autor corrigiu a resposta de Nolan a Nuh: rixa antiga com os hegralianos; o Sinal falhou primeiro; os hegralianos espalharam o boato (Vonos abandonou o reino ou há problema com o Rei); Nolan os queimou em Gerikhad pelo boato; o Sinal calou depois. Cronologia registrada em `insights/nolan-sufoca-boatos-sinal.md` e a cena exemplo do inbox foi refeita.
+
+## 2026-11-13 (cena de Nuh e Nolan: resposta aceita)
+
+- Autor aceitou a resposta de Nolan a Nuh. Rascunho em prosa da cena (cerca de 220 palavras) guardado no inbox, sem inserir no epílogo.
