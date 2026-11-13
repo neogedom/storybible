@@ -3625,3 +3625,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-13 (ultimato de Estruzzo)
 
 - Ultimato do cap. 43 passa a ser "antes da meia-noite" (era "ao amanhecer", incompatível com o ataque na mesma noite). Ficha `capitulos/capitulo-43.md` ajustada.
+
+## 2026-11-13 (signatário do contrato com os Clãs)
+
+- Decisão do autor: Nolan não assinou o contrato com os Clãs de Sangue. Registrado em `decisoes/2026-11-13-signatario-contrato-claos.md`. Pendências: o termo "Rei fantoche" (cap. 43) e o pacto de Nolan com Terbs no final do L1 (`nolan.md`, `benjamim.md`).
