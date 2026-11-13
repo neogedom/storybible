@@ -3680,4 +3680,4 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 
 ## 2026-11-13 (cena de Nuh e Nolan: resposta aceita)
 
-- Autor aceitou a resposta de Nolan a Nuh. Rascunho em prosa da cena (cerca de 220 palavras) guardado no inbox, sem inserir no epílogo.
+- Autor aceitou a resposta de Nolan a Nuh. Rascunho em prosa da cena (254 palavras) guardado no inbox, sem inserir no epílogo.
