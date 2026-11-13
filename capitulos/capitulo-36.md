@@ -10,7 +10,7 @@ timestamp: 2026-11-12T00:00:00-03:00
 
 # Capítulo 36 — O ensaio e a entrada pela rampa (POV Mário)
 
-> Mini-INGEST refeito em 2026-11-12 a partir do texto revisado. O original se perdeu; esta versão deve ser conferida pelo autor. Palavras: 1655 (wc -w).
+> Mini-INGEST refeito em 2026-11-12 a partir do texto revisado. O original se perdeu; esta versão deve ser conferida pelo autor. Palavras: 1622 (wc -w, texto atual). Conferida com o texto em 2026-11-13.
 
 ## Resumo
 
@@ -41,4 +41,6 @@ Mário ensaia o discurso para a Mina, sozinho, enquanto o grupo descansa. Recusa
 
 ## Pendências para o autor
 
+- Conferido: "Souhma" na boca da menina tem o sentido do glossário (nome popular do Estrangeiro profetizado, aqui aplicado a Mário). Pergunta resolvida.
+- Quem dá os dados da Mina (rampa inferior, triagem, conferência só no terceiro nível) é o homem de maxilar quadrado, ex-mineiro. Ele chama Mário de "mestre" e "senhor". O cap. 37 confirma que a conferência miúda não acontece na boca da rampa.
 - Nada de canon novo. A tempestade de quartzo (retirada em 2026-10-10) não aparece, como previsto.

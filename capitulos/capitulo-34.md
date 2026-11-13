@@ -10,7 +10,7 @@ timestamp: 2026-11-12T00:00:00-03:00
 
 # Capítulo 34 — O assentamento e o batismo (POV Mário)
 
-> Mini-INGEST refeito em 2026-11-12 a partir do texto revisado. O original se perdeu; esta versão deve ser conferida pelo autor. Palavras: 1829 (wc -w).
+> Mini-INGEST refeito em 2026-11-12 a partir do texto revisado. O original se perdeu; esta versão deve ser conferida pelo autor. Palavras: 1814 (wc -w, texto atual). Conferida com o texto em 2026-11-13.
 
 ## Resumo
 
@@ -41,3 +41,7 @@ Mário chega a um assentamento de refugiados, perto do pó de quartzo. Cura uma 
 
 - **Custo do milagre** (decidido em 2026-11-12): tremor da mão como medo, não exaustão; a Voz não responde ao gesto. Nenhum efeito físico.
 - Mário menciona "Ele pagou" sem trazer custo visível; o leitor pode ler isso como ferramenta.
+- Conferido no texto: o tremor aparece como medo ("não era cansaço"), a Voz "não respondeu ao gesto" e, no fim, "permaneceu muda". A decisão da Mina é lógica de Mário, não da Voz. Bate com a decisão de 2026-11-12.
+- Conferido: "Javé" aparece pela primeira vez neste capítulo (próxima ocorrência: cap. 52).
+- Contagem de seguidores: o cap. 34 diz que Kate chega com "cinco" (mulher com a criança, homem da mão mutilada, rapaz da tipoia etc.); o cap. 37 fala em "quatro homens do assentamento"; o cap. 35 só nomeia três homens. Os números não fecham com certeza. Decidir se vale ajustar o texto.
+- Risco 1 (protagonismo): o fecho do capítulo mostra Mário convencido de "conduzir os próprios passos" ("Ela acha que eu não vejo"). É a ironia que o cap. 37 cobra. Manter.

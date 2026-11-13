@@ -10,7 +10,7 @@ timestamp: 2026-11-12T00:00:00-03:00
 
 # Capítulo 35 — O batismo de sangue (POV Kate)
 
-> Mini-INGEST refeito em 2026-11-12 a partir do texto revisado. O original se perdeu; esta versão deve ser conferida pelo autor. Palavras: 1818 (wc -w).
+> Mini-INGEST refeito em 2026-11-12 a partir do texto revisado. O original se perdeu; esta versão deve ser conferida pelo autor. Palavras: 1770 (wc -w, texto atual). Conferida com o texto em 2026-11-13.
 
 ## Resumo
 
@@ -22,7 +22,7 @@ Kate mede o grupo e recruta o homem de maxilar quadrado, prometendo aço e fuga.
 - Lakand: sem fala no fim; acusa Kate de estar apaixonada por Mário.
 - Homem de maxilar quadrado: recrutado, mata o último rampilla.
 - Rapaz da tipoia e carregador mais velho: presentes no recrutamento.
-- Mário aparece só na primeira parte, pregando; não tem objeção aqui.
+- Mário aparece só ao fundo (prega e ensina oração, no início e no fim); não tem objeção aqui.
 
 ## Eventos
 
@@ -41,5 +41,5 @@ Kate mede o grupo e recruta o homem de maxilar quadrado, prometendo aço e fuga.
 
 ## Pendências para o autor
 
-- **Quem reativou os rampillas** (o texto deixa em aberto). Confirmar se é intencional e registrar em `temas/sementes.md` como pendência.
+- **Quem reativou os rampillas**: RESOLVIDO. A ordem foi revelada no cap. 40, em POV de Nolan (`decisoes/2026-11-12-canon-massacre-cargas.md`, atualização "rampillas"). No cap. 35 a pergunta fica em aberto de propósito, na cabeça de Kate.
 - O esquema diz que Mário não aparece no movimento 2, e o texto confirma. Ok.
