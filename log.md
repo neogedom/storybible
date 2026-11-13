@@ -3629,3 +3629,9 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-13 (signatário do contrato com os Clãs)
 
 - Decisão do autor: Nolan não assinou o contrato com os Clãs de Sangue. Registrado em `decisoes/2026-11-13-signatario-contrato-claos.md`. Pendências: o termo "Rei fantoche" (cap. 43) e o pacto de Nolan com Terbs no final do L1 (`nolan.md`, `benjamim.md`).
+
+## 2026-11-13 (Rei fantoche e pacto de Nolan com Terbs)
+
+- Decisão do autor: "Rei fantoche" é Genocydo (termo de Estruzzo; Terbs o move por meio de Benjamim Cressadar). Genocydo assinou a entrega das terras aos Clãs. O pacto de Nolan com Terbs continua de pé, como evento separado (no epílogo do rascunho, Nolan pega o sinete).
+- Atualizados: `decisoes/2026-11-13-signatario-contrato-claos.md` (reescrita, sem pendências), `personagens/genocydo.md`, `personagens/nolan.md`, `personagens/benjamim.md`, `conceitos/terbs.md`, `conceitos/clas-de-sangue.md`, ficha do cap. 43.
+- Corrigido um resíduo: a ficha do cap. 43 ainda dizia "ao amanhecer" no resumo; agora diz "antes da meia-noite".

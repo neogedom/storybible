@@ -50,6 +50,9 @@ Ver timeline visual completa em [visuais/benjamim.md](/visuais/benjamim.md).
    Terbs de fazer Mário **blasfemar contra Deus publicamente** (correção
    2026-08-10); Genocydo acredita ser humilhação/apoteose próprias
 6. **Pacto com Nolan (final L1)**: oferece pacto com Terbs; Nolan aceita
+   (escrito no epílogo do rascunho: Nolan pega o sinete de Terbs). Canon
+   2026-11-13: o pacto continua de pé e é distinto do contrato dos Clãs, que
+   Genocydo assinou com Benjamim como intermediário
 
 ### Livro 2
 
