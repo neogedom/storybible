@@ -3673,3 +3673,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-13 (Nuh e Nolan no epílogo: aceito)
 
 - Autor aceitou a cena de Nuh e Nolan no epílogo (cerca de 300 palavras) e decidiu manter a frase do narrador "silenciada pela soberania de outro Nome" como leitura teológica (providência: causa primeira e causas segundas). Falta confirmar a resposta de Nolan. Atualizados: inbox, `conceitos/sinal-de-vonos.md`, `personagens/nuh-dteraghar.md`.
+
+## 2026-11-13 (cronologia do boato e dos hegralianos)
+
+- Autor corrigiu a resposta de Nolan a Nuh: rixa antiga com os hegralianos; o Sinal falhou primeiro; os hegralianos espalharam o boato (Vonos abandonou o reino ou há problema com o Rei); Nolan os queimou em Gerikhad pelo boato; o Sinal calou depois. Cronologia registrada em `insights/nolan-sufoca-boatos-sinal.md` e a cena exemplo do inbox foi refeita.
