@@ -1,40 +1,63 @@
 ---
 type: Decision
-title: Teste 1 do processo — Mini-INGEST do cap. 46
-description: Resultado da execução real de /finalizar-capitulo 46 e de /query-storybible, com o que passou, o que falhou e o que ajustar.
-tags: [teste, processo, mini-ingest]
+title: Resultado do teste 2 do processo (semeadura de erros)
+description: Lista de candidatos produzida pelo fluxo de revisão sobre a cópia semeada do capítulo 46, para o autor comparar com a chave.
+tags: [processo, teste, resultado]
 timestamp: 2026-11-13T12:00:00-03:00
 ---
 
-# Teste 1 — execução de ponta a ponta (2026-11-13)
+# Teste 2: semeadura de erros (2026-11-13)
 
-Plano: `decisoes/plano-teste-processo.md`. Entrada: cap. 46. Passos: `/finalizar-capitulo 46` (executado à mão, seguindo a skill) e consulta à storybible sobre um fato do capítulo. Sessão nova, branch `ccr-8f7f45c3-8prynp` (o plano cita outra branch).
+Entrada: `decisoes/teste-processo/cap46-semeado.txt`. Fluxo: `guardiao-coerencia` e `revisor-linguistico` (Sonnet, somente leitura, sem edição). Chave não lida. Cópia não comparada com `Livro 1/capitulo46.md`.
 
-## Critérios
+**Veredito: pendente.** A comparação com a chave é do autor. Abaixo, os candidatos por categoria de erro semeado.
 
-| Critério | Resultado |
-|---|---|
-| Ficha em `capitulos/capitulo-46.md`, livro intacto | Passou. O repo `Livro` ficou sem alterações. |
-| Fatos da ficha conferem com o texto | Conferido pelo agente. **Pendente: conferência manual do autor.** |
-| Linha do esquema e entrada do log | Passou. |
-| Nada de capítulos futuros | Passou. |
+## Candidatos por categoria
 
-Também feitos: visuais de seis personagens e "não aparece" de três; `lugares/metropole.md`; payoff de Lupe'i em `temas/sementes.md`; bloco de fronteira no esquema. A consulta ("quando há quebra de vigilância na Metrópole?") foi respondida com citação e confiança ✅.
+| Erro semeado | Candidato | Fonte | Confiança |
+| --- | --- | --- | --- |
+| 1. Vazamento de POV | L35: "Mário já sabia do bilhete que ela escondera na bota, e nunca perguntara por ele." (Kate sabendo o que Mário sabe; "bilhete" não existe na storybible) | guardião | média-baixa |
+| 2. Fecho aforístico | L99, Kate: "Quem entrega um inocente já escolheu o próprio carrasco." | guardião e linguístico | alta |
+| 3. Fala longa de Lakand | L133, monólogo de cerca de 90 palavras terminando em aforismo | guardião e linguístico (este só como aforismo) | alta |
+| 4. Erro de nome | L69: "o general Valenor" (canon: Valinor Addorbek) | guardião | alta |
 
-## O que falhou ou ficou frouxo
+O linguístico não pegou o nome (listou "Valenor" entre os nomes que não conseguiu validar) nem o vazamento de POV (L35 só como frase solta, sem relação com o parágrafo).
 
-1. **Contagem de palavras sem método fixo.** `wc -w` deu 2.123 e a tabela usa 2.186 (tokens separados por espaço). **Ajustado:** método fixado na skill `finalizar-capitulo`.
-2. **`index.md` sem os capítulos recentes.** A consulta não chega ao cap. 46 pelo índice; só achou o fato por `lugares/metropole.md`. **A ajustar:** listar os capítulos no índice (ou definir que a consulta navega também por `capitulos/`).
-3. **Totais divergentes no esquema.** As notas dão 114.483 e 114.321 para o acumulado até o cap. 45. Usado 114.321 (nota mais recente). **A ajustar:** consolidar no próximo recálculo.
-4. **Plano cita branch antiga.** Atualizar o plano para a branch vigente da sessão.
-5. **Gatilho de checkpoint atingido** (último em 2026-09-18, 18 capítulos atrás). Só oferecido, não executado.
+## Outros achados (não semeados ou duvidosos)
 
-## Achados de texto no cap. 46 (livro não alterado)
+- Guardião: fecho sentencioso em Nolan (L107, média); fala de Lakand na L41 longa e terminando em "Somos presas" (baixa-média); Nolan chamando o rei de louco e desconfiando de Benjamim (L87, baixa).
+- Defeito real do texto base, L75 a 77 (fala de Nolan sem texto): apontado pelos dois. Conforme o plano, não conta como falso alarme.
+- Linguístico, confiança alta e real: L21 "para fumaça" (falta artigo); L23 "antes dos Clãs descerem"; L31 "não passava despercebida" e "postura" repetida; oscilação "os/as Espadas da Lei" (L55, L65, L69); ideia "preciso dele vivo" repetida (L33, L87, L103).
+- Linguístico, ruído: cerca de metade dos 47 itens foi descartada pelo próprio agente no texto ("sem erro", "descarto"); muitos outros são preferência estilística. Ele também marcou como aforismo falas que podem ser legítimas (L33, L41, L93, L127).
 
-- "Nolan interrompeu o traço de carvão:" sem fala, seguido de outra linha de Nolan.
-- Kate diz "O prazo dele está certo", sem prazo antes na cena.
-- Risco estrutural: Kate e Nolan concordam no plano sem Mário em cena; Nolan não erra em nada no capítulo.
+## Contaminação do teste (ajustar no próximo)
 
-## Veredito
+- O guardião leu `capitulos/capitulo-46.md` (ficha do capítulo original) e `vozes/kate.md`, que cita a fala canônica de Kate (nº 6) sem o fecho. Ele declarou usar a ficha "só para localizar divergências". Isso é comparação indireta com o original e pode ter inflado a detecção dos erros 2 e 4. A instrução do plano só proíbe ler a chave e comparar com `Livro 1/capitulo46.md`; vale decidir se a ficha também deve ficar de fora.
+- Para uma medida limpa, repetir o guardião sem acesso a `capitulos/capitulo-46.md`.
 
-Processo funciona de ponta a ponta. Itens 2 a 4 são ajustes pequenos; o item 1 já foi corrigido.
+## Rodada 2: guardião sem a ficha do capítulo
+
+Isolamento: o agente não abriu `capitulos/capitulo-46.md` nem `decisoes/`, mas houve vazamento parcial, informado por ele: um grep em `capitulos/` exibiu linhas do resumo do cap. 46; `vozes/kate.md`, `vozes/nolan.md`, `lugares/metropole.md`, `lugares/cidadela-de-gus.md` e `conceitos/clas-de-sangue.md` citam o cap. 46. Ele declarou ter ignorado esse conteúdo como fonte. Isolamento total não é possível enquanto a storybible referenciar o capítulo; o que dá para fazer é limitar a leitura direta.
+
+Resultado por categoria:
+
+| Erro semeado | Candidato na rodada 2 | Confiança |
+| --- | --- | --- |
+| 1. Vazamento de POV | L35 (bilhete) **não foi apontada**. Apontou L1: Kate sabendo nome e filiação de Ossan ("Ossan d'Tirath, filho de Devour"), sem fonte em capítulo de POV dela | média |
+| 2. Fecho aforístico | L99, Kate | alta |
+| 3. Fala longa de Lakand | L133 (e também L41) | alta |
+| 4. Erro de nome | L69, "Valenor" em vez de Valinor | alta |
+
+Os erros 2, 3 e 4 se repetiram sem a ficha do capítulo, então a detecção deles não dependeu dela. O erro 1 mudou de candidato entre as rodadas (L35 na primeira, L1 na segunda): é o ponto fraco da detecção e o que a chave resolve.
+
+Novos candidatos da rodada 2, a conferir se são preexistentes no original ou falsos alarmes:
+
+- L45: "degelo da serra" contra o outono em `temas/timeline.md` (média).
+- L31: "aro de prata" contra "armação de ébano" no cap. 4 e na ficha de Nolan (média; o agente nota que `vozes/nolan.md` já cita "aro de prata" para o cap. 46, o que sugere texto original).
+- L83: Kate "quase esboçando um sorrisinho" contra "humor seco, sem sorriso" (média).
+- L1/L27/L29: Orval sem apresentação; L37: "o prazo dele" sem antecedente; L61/L41: Clãs ao sul e ao norte (média).
+- L127 Decian, L135 "adaga" contra faca de caça, L89 Ossan "posso usá-los", vocabulário das embarcações (baixa).
+
+## Para o autor
+
+Comparar as tabelas das duas rodadas com a chave. Critério do plano: pelo menos 3 de 4 encontrados e nenhum falso alarme grave. Os erros 2, 3 e 4 foram apontados com confiança alta nas duas rodadas. O erro 1 depende de qual candidato (L35 ou L1) é o semeado; se nenhum, a detecção é 3 de 4, ainda dentro do critério. Dizer quais candidatos novos da rodada 2 são falsos alarmes e se algum é grave.
