@@ -3647,3 +3647,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 
 - Autor aprovou o item 8 do inbox: micro-gestos em cinco pontos (caps. 25, 27, 36 abertura, 36 fecho, e um do lado de Mário em 21, 26 ou 34), sem nomear o amor; destino congelamento-L1. Cap. 45: tese do sacrifício condensada na fase 3; a linha "Amor..." decidida depois da curva.
 - `personagens/kate.md` corrigido: o vínculo deixa de ser "não romântico" e passa a crescer sem nome no L1 e virar casamento no L2.
+
+## 2026-11-13 (Sinal instável no L1: Kate receptora)
+
+- Autor aprovou "Kate como receptora" (caps. 20 e 23), destino congelamento-L1, registrado no inbox com as cinco perguntas. A ideia de o Monólito responder "não consta" foi rejeitada. O efeito da falta do Sinal sobre os Inquiridores e o culto a Vonos no L2 foi capturado. Semente #27 (Charles) a revisar.
