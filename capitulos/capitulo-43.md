@@ -32,7 +32,7 @@ Na guarita do lado de dentro da paliçada norte, Kate vê Estruzzo materializar-
 - Kate, na guarita do lado de dentro da paliçada norte, vê Estruzzo materializar-se pela sombra junto ao mourão.
 - Estruzzo revela que Terbs cedeu o vale aos Clãs de Sangue como pagamento pela dívida da deusa libertada com a queda de Gaviorn'l.
 - Kate rejeita a afirmação de Estruzzo sobre Hícse; a confirmação dos Clãs fica para o ataque do cap. 45.
-- Ultimato de Estruzzo: entregar o forasteiro vivo ao amanhecer ou a cidade inteira será arrasada.
+- Ultimato de Estruzzo: entregar o forasteiro vivo antes da meia-noite ou a cidade inteira será arrasada.
 - Após o ultimato, Estruzzo recua sozinho pela sombra; o sino da Academia repica enquanto as tochas do restante dos Clãs começam a descer a encosta.
 
 ## Sementes e Conexões

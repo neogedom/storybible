@@ -3621,3 +3621,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-13 (cap. 46 fechado e checkpoint aprovado)
 
 - Autor aprovou os pontos do checkpoint. Correções de coerência aplicadas nos caps. 37, 38, 41, 43, 44, 45 e 46 (olhos de Nolan escuros, conforme `personagens/nolan.md`; cinco seguidores; erros de grafia). Arco-stc redefinido; ajustes estruturais em `insights/_inbox.md`. Pendente: prazo do ultimato de Estruzzo (cap. 43) contra o ataque na mesma noite.
+
+## 2026-11-13 (ultimato de Estruzzo)
+
+- Ultimato do cap. 43 passa a ser "antes da meia-noite" (era "ao amanhecer", incompatível com o ataque na mesma noite). Ficha `capitulos/capitulo-43.md` ajustada.
