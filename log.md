@@ -3669,3 +3669,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-13 (Nuh e Nolan sobre o silêncio do Sinal)
 
 - Ideia do autor capturada no inbox: nos capítulos finais, Nuh pergunta a Nolan se teve parte no silêncio do Sinal. Proposta: epílogo, antes de Benjamim; resposta de Nolan factual (o Sinal vacilou antes de qualquer ato dele; ele queimou o hegraliano assim mesmo). Status: em desenvolvimento.
+
+## 2026-11-13 (Nuh e Nolan no epílogo: aceito)
+
+- Autor aceitou a cena de Nuh e Nolan no epílogo (cerca de 300 palavras) e decidiu manter a frase do narrador "silenciada pela soberania de outro Nome" como leitura teológica (providência: causa primeira e causas segundas). Falta confirmar a resposta de Nolan. Atualizados: inbox, `conceitos/sinal-de-vonos.md`, `personagens/nuh-dteraghar.md`.

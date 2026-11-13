@@ -24,7 +24,7 @@
 - **Data**: 2026-11-13
 - **Ideia (uma linha)**: nos capítulos finais, na Metrópole, Nuh d'Teraghar pergunta a Nolan se ele teve alguma parte no silêncio do Sinal, e Nolan dá a resposta mais adequada. Reforça que o Sinal está mudo e dá a Nuh o beat de arco que falta.
 - **Capítulos afetados**: epílogo (proposta); alternativa: cap. 53.
-- **Status**: em desenvolvimento (ideia do autor; falta decidir o ponto e a resposta de Nolan).
+- **Status**: aceito pelo autor em 2026-11-13 quanto à ideia e ao lugar (epílogo, cerca de 300 palavras). Falta confirmar a resposta de Nolan.
 - **Destino**: epílogo, na revisão (rascunho ainda não revisado).
 - **Relação com o cânone**: `personagens/nuh-dteraghar.md` ("Final do L1: choque teológico: Vonos não estava no controle. Some."); `insights/nolan-cobra-nuh-informacao-negada.md` (a cobrança de Nolan, já feita no cap. 49); `conceitos/sinal-de-vonos.md` (mudo e definitivo desde o cap. 30); cap. 4 (o hegraliano: "o Sinal perdeu o eixo antes de eu ser preso").
 
@@ -34,7 +34,7 @@
 4. O que paga? O beat de arco de Nuh; o espelho do cap. 49; o callback do hegraliano do cap. 4 (Nolan o queimou mesmo sabendo); o risco 2 (Nolan não pode ser sempre certo: ele culpa o Estrangeiro e não conhece a causa, Hícse); e a leitura do epílogo.
 5. Cena exemplo (epílogo, POV Nolan): "— O Monólito calou, magistrado — disse Nuh, com o diapasão quebrado nas mãos. — O senhor queimou os mestres que diziam que ele vacilava. Teve o senhor alguma parte nisso? / — Nenhuma. Ele vacilou antes de eu prender o primeiro. O hegraliano do Salão de Justiça me disse isso na cara, e eu o mandei queimar assim mesmo. / Nuh demorou a responder. / — Eu lhe disse no templo que Vonos estava no controle. / — Disse."
 - **Por que essa resposta de Nolan:** é verdadeira (o Sinal vacilou antes de qualquer ato dele), é de juiz (data e testemunho), custa a Nolan (confessa que queimou quem dizia a verdade) e não fecha em frase de efeito. Nolan não conhece a causa verdadeira (Hícse); para o leitor, que sabe, a ironia fica.
-- **Ponto a ajustar no epílogo:** a narração diz que a Verdade de Vonos "fora silenciada pela soberania de outro Nome". Pelo canon, o Sinal calou com a libertação de Hícse (cap. 30). Com esta cena, a frase pode passar a ser a leitura de Nolan, e não um fato do narrador.
+- **Decisão do autor sobre a narração do epílogo:** a frase "A Verdade de Vonos fora silenciada pela soberania de outro Nome" fica como está (a proposta anterior de reescrevê-la como leitura de Nolan foi retirada). É uma leitura teológica, de providência: Deus age por meio de fatos do mundo, e quem olha só pelo mundo não vê. A mecânica continua a mesma (Hícse solta, o Sinal sem objeto, mudo); o narrador nomeia a causa primeira, e Nolan e Nuh veem só a causa segunda. Eco do cap. 49, em que Nuh usa a gramática da providência para o Deus errado ("Terbs é apenas o machado nas mãos de Vonos").
 
 ### 2026-11-13: O rapaz curado dos Clãs reconhecido no cap. 63
 

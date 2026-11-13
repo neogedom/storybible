@@ -103,6 +103,7 @@ Alimenta a germinação de #19 no L2 (a Ordem atrás dela).
 - **Definitivo:** o mudo não é reversível. A única saída seria Vonos reconstruir o instrumento, o que o autor descarta (não vai acontecer). Isso fecha a porta de o Sinal voltar no L2 e confirma o "definitivamente morto" do epílogo do rascunho.
 - **Vocabulário:** "mudo", "apagado" e "cessou" valem do cap. 30 em diante. Até o cap. 29 vale a regra de 2026-09-05 (instável, nunca mudo).
 - **A profecia:** o Llyfr diz "Quando o sinal cessar, o Souhma virá para julgar os deuses e coroar os homens". O mudo cumpre o "cessar". Falas de personagens que já dizem "o sinal cessou" (por exemplo, o Inquiridor do cap. 3) deixam de ser tensão de canon.
+- **Leitura teológica (autor, 2026-11-13):** o epílogo diz que a Verdade de Vonos "fora silenciada pela soberania de outro Nome". Não contradiz a mecânica: é a providência (causa primeira) agindo por meio de causas segundas (Hícse solta pela mão de Kate; o Sinal sem objeto). Os personagens veem só a causa segunda.
 - **Vonos:** a decisão de 2026-09-05 se mantém neste ponto. O Sinal calado é o instrumento sem objeto, não Vonos calado nem Vonos ausente.
 - **L2:** a falta do Sinal pesa sobre os Inquiridores (operam sem instrumento: testemunho e registro escrito) e sobre o culto a Vonos. Charles não tem relação com o Sinal (autor, 2026-11-13).
 - **Passagens do texto a conferir (cap. 30 em diante):**
