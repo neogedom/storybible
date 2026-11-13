@@ -3635,3 +3635,10 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 - Decisão do autor: "Rei fantoche" é Genocydo (termo de Estruzzo; Terbs o move por meio de Benjamim Cressadar). Genocydo assinou a entrega das terras aos Clãs. O pacto de Nolan com Terbs continua de pé, como evento separado (no epílogo do rascunho, Nolan pega o sinete).
 - Atualizados: `decisoes/2026-11-13-signatario-contrato-claos.md` (reescrita, sem pendências), `personagens/genocydo.md`, `personagens/nolan.md`, `personagens/benjamim.md`, `conceitos/terbs.md`, `conceitos/clas-de-sangue.md`, ficha do cap. 43.
 - Corrigido um resíduo: a ficha do cap. 43 ainda dizia "ao amanhecer" no resumo; agora diz "antes da meia-noite".
+
+## 2026-11-13 (Sinal mudo no final do L1)
+
+- Decisão do autor: o Sinal pode estar mudo no final do L1, porque mede o selo de Hícse e Hícse está solta. Trajetória: instável (prólogo a cap. 29) → perde o objeto (cap. 30+) → mudo (Ato 3 e epílogo).
+- Atualizados: `conceitos/sinal-de-vonos.md` (nova seção "Estado no final do L1"), `decisoes/sinal-permanentemente-instavel.md` (revisão), `conceitos/hicse.md`, ficha do cap. 0.
+- O que o rascunho já tem (cap. 47 "apagado", cap. 50 "mudo", epílogo "definitivamente morto") não é erro de canon. A sinalização anterior em contrário foi retirada.
+- Em aberto: a partir de qual capítulo o mudo vale; se é permanente ou reversível no L2.

@@ -76,7 +76,7 @@ consentimento dele.
   brasa nela; Kate então já não consegue descartar a fala de Estruzzo. É a
   leitura somática de Kate, não uma voz, posse ou diálogo com a deusa.
 - **Consequência com a Ordem:** com o selo rompido, o **Sinal perde o objeto**
-  (não "fica mudo" — ver `decisoes/sinal-permanentemente-instavel.md`). A
+  (na transição não "fica mudo"; no final do L1 fica mudo, revisão 2026-11-13: ver `conceitos/sinal-de-vonos.md`). A
   Ordem caça com um instrumento morto — e é por isso que querem **enquadrar**
   o que não conseguem mais medir. Regra completa em
   `conceitos/sinal-de-vonos.md` ("Por que os Inquiridores nunca o alcançam").

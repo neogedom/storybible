@@ -1,7 +1,7 @@
 ---
 type: Concept
 title: O Sinal de Vonos
-description: O oráculo que audita a realidade de Ornick. Com a chegada de Mário, ficou permanentemente instável — não emudeceu, mas nunca mais audita direito.
+description: O oráculo que audita a realidade de Ornick. Com a chegada de Mário, ficou instável (não mudo); com a libertação de Hícse perde o objeto e, no final do L1, fica mudo (revisão 2026-11-13).
 tags: [conceito, vonos, oraculo, sinal]
 timestamp: 2026-09-05T12:00:00-03:00
 ---
@@ -68,6 +68,8 @@ falha de rito. É como se... como se algo estivesse ocupando o canal."_
 
 ### Camada 2 — depois da Hícse (a partir do cap. 30): **o Sinal perde o objeto**
 
+> **Revisão 2026-11-13:** esta camada descreve a transição. No final do L1 o Sinal fica mudo (ver "Estado no final do L1", abaixo).
+
 - O Sinal é o **eletrocardiograma do selo**. Rompido o selo
   (`conceitos/hicse.md`, "Depois da soltura"), o aparelho **perde a
   referência**: não é interferência, é **ausência de sujeito**. Não há selo
@@ -90,6 +92,18 @@ cap. 30, **é o mundo que não consta** — o registro perde o referente. Numa
 instituição cuja arma é o arquivo, isso é o princípio do fim: **a Ordem vai
 atrás da anomalia justamente quando deixou de saber medir qualquer coisa.**
 Alimenta a germinação de #19 no L2 (a Ordem atrás dela).
+
+## Estado no final do L1 — mudo (canon 2026-11-13)
+
+> Autorizado pelo autor em 2026-11-13: no final do L1, o Sinal pode estar **mudo**. Revisão do canon de 2026-09-05 ("permanentemente instável, nunca mudo") para esta fase.
+
+- **Razão:** o Sinal é o eletrocardiograma do selo de Hícse. Com Hícse solta (cap. 30), não há selo para medir. O aparelho calado é a consequência direta da libertação, não uma falha nova.
+- **Trajetória:** instável e embaralhado (do prólogo ao cap. 29: a frequência de Mário ocupa o canal) → perde o objeto, só ruído (a partir do cap. 30; os artífices de Gus discutem a falha, cap. 42) → **mudo no final do L1** (Ato 3 e epílogo).
+- **Vocabulário:** "mudo", "apagado" e "cessou" estão autorizados no Ato 3 e no epílogo. Exemplos já no rascunho: o Monólito "apagado" (cap. 47) e "mudo" (cap. 50), o Sacrário "definitivamente morto" (epílogo) e o "Vonos perdeu o Sinal" de Benjamim. Até o Ato 2 vale a regra anterior (instável, nunca mudo; ver a decisão de 2026-09-05).
+- **A profecia:** o Llyfr diz "Quando o sinal cessar, o Souhma virá para julgar os deuses e coroar os homens". O mudo do final do L1 cumpre o "cessar". Falas de personagens que já dizem "o sinal cessou" (por exemplo, o Inquiridor do cap. 3) deixam de ser tensão de canon.
+- **Vonos:** a decisão de 2026-09-05 se mantém neste ponto. O Sinal calado é o instrumento sem objeto, não Vonos calado nem Vonos ausente.
+- **L2:** a falta do Sinal pesa sobre os Inquiridores (operam sem instrumento: testemunho e registro escrito) e sobre o culto a Vonos.
+- **Pontos em aberto (do autor):** (1) a partir de qual capítulo o mudo vale; o Ato 3 começa no cap. 47, onde o rascunho já mostra o Monólito apagado. (2) Se o mudo é permanente ou reversível no L2 (o Sinal poderia voltar se Hícse fosse selada de novo). O epílogo do rascunho diz que o Sacrário está "definitivamente morto", o que fecharia essa porta.
 
 ## Conexões
 
