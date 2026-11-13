@@ -8,7 +8,7 @@ timestamp: 2026-11-13T12:00:00-03:00
 
 # Plano de teste do processo de escrita
 
-Status (atualizado em 2026-11-13): teste 4 executado em 2026-11-12, com registro em `decisoes/teste-processo-2026-11-12.md`. Testes 1, 2 e 3 pendentes. Materiais dos testes 2 e 3 prontos em `decisoes/teste-processo/`. As chaves de respostas ficam com o autor, fora do repositório.
+Status (atualizado em 2026-11-13): teste 4 executado em 2026-11-12, com registro em `decisoes/teste-processo-2026-11-12.md`. Testes 1 e 2 concluídos (ver registros). Teste 3 encerrado sem resultado válido: a rodada sem fichas teve teto de desempenho e contexto de papéis, e a identificação de falas será avaliada no uso. Materiais dos testes 2 e 3 prontos em `decisoes/teste-processo/`. As chaves de respostas ficam com o autor, fora do repositório.
 
 **Como retomar em outra sessão:** abra um contexto novo e peça "leia `storybible/decisoes/plano-teste-processo.md` e execute o teste N". Branch de trabalho: `ccr-a010bd86-ntyqcg`, nos repositórios `Livro` e `storybible`.
 

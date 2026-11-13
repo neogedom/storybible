@@ -107,3 +107,16 @@ Vonos trouxe **dois tipos de humanos**:
 - [Sinal de Vonos](/conceitos/sinal-de-vonos.md) — O oráculo que auditava a realidade
 - [Mário](/personagens/mario.md) — Herança de Javé Verdadeira
 - [Genocydo](/personagens/genocydo.md) — Herança de Nachash
+
+## Parâmetros físicos de Ornick (pendentes de decisão do autor)
+
+Ainda não há canon para estes valores. O que já existe no texto: o planeta tem **duas luas** (cap. 5, "duas luas"; cap. 13, "as duas luas"); o L1 corre do outono ao inverno (`temas/timeline.md`).
+
+- **Distância da Terra**: 2000 anos-luz é proposta, ainda não registrada como canon.
+- **Gravidade**: próxima da terrestre? (as quedas e o peso de carga no texto assumem isso).
+- **Inclinação do eixo**: define as estações. Terrestre (~23°) ou outra?
+- **Duração do dia e do ano**: quantos dias de 24 horas por ano? Isso depende da duração do L1.
+- **Órbita e período das duas luas**: afeta marés e a claridade noturna.
+- **Duração do L1**: quantos dias ou semanas cobre o livro? Com isso, a virada para o inverno (caps. 49 e 61) define o ano.
+
+Quando o autor decidir, cada valor sai desta lista e entra na seção de fatos.
