@@ -50,4 +50,6 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 **Estação:** o Livro 1 corre no **outono**, encostando no fim do verão seco (canon 2026-09-20; caso do cap. 28, "as pernas que tinham dormido no frio"). A estiagem é geográfica — **faixa seca na subida da Mina** —, não geral; ver `conceitos/agua-e-seca.md`.
 
+**Virada para o inverno no fim do L1 (texto):** a estação muda perto do fim do livro. Cap. 49: "luz fosca de uma tarde de inverno cinzento"; cap. 61: "sol de inverno". Confirmar com o autor o capítulo da virada e a duração do L1, que definem o ano do planeta (ver `conceitos/cosmologia.md`).
+
 _Timeline parcial — expandir a cada INGEST de capítulo._
