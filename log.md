@@ -3651,3 +3651,9 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-13 (Sinal instável no L1: Kate receptora)
 
 - Autor aprovou "Kate como receptora" (caps. 20 e 23), destino congelamento-L1, registrado no inbox com as cinco perguntas. A ideia de o Monólito responder "não consta" foi rejeitada. O efeito da falta do Sinal sobre os Inquiridores e o culto a Vonos no L2 foi capturado. Semente #27 (Charles) a revisar.
+
+## 2026-11-13 (Sinal mudo a partir de Hícse, e definitivo)
+
+- Decisão do autor: o Sinal está mudo a partir da libertação de Hícse (cap. 30), não só no Ato 3; e o mudo é definitivo, salvo se Vonos reconstruísse o instrumento, o que não vai acontecer.
+- Atualizados: `conceitos/sinal-de-vonos.md` (Camada 2 e nova seção), `decisoes/sinal-permanentemente-instavel.md`, `decisoes/gaviornl-morte-antecipada-hicse.md`, `conceitos/hicse.md`, ficha do cap. 0, inbox.
+- Texto: fala dos artífices de Gus no cap. 42 ajustada (a pedra do templo não responde; o Sinal não voltou).

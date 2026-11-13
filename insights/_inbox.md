@@ -25,11 +25,11 @@
 - **Ideia (uma linha)**: aproveitar melhor o fenômeno do Sinal instável no L1 e pensar o efeito da sua falta sobre os Inquiridores e o culto a Vonos no L2.
 - **Capítulos afetados**: 20 e 23 (L1); L2.
 - **Status**: item 1 aceito pelo autor; item 3 capturado; item 2 rejeitado; "cessou ou vacilou" em esclarecimento.
-- **Relação com o cânone**: `conceitos/sinal-de-vonos.md` (inclui o estado mudo no final do L1, canon 2026-11-13); `conceitos/hicse.md`; `temas/sementes.md` (#8, #19, #27).
+- **Relação com o cânone**: `conceitos/sinal-de-vonos.md` (inclui o estado mudo e definitivo a partir da libertação de Hícse, canon 2026-11-13); `conceitos/hicse.md`; `temas/sementes.md` (#8, #19, #27).
 
 **1. Kate como receptora do abalo do Sinal (caps. 20 e 23)**
 - O que muda: uma frase em cada capítulo em que a brasa na nuca de Kate responde ao milagre de Mário. Ela não entende e lê como fome ou calor. Cumpre o canon ("a agudização do Sinal reverbera em Kate") e a nota `(* ... )` do prólogo, que pede mais ocasiões em que o abalo do Sinal desperte a sede de sangue de Kate. Dá a Kate e a Mário um laço físico sem nome (liga com o item 8 do outro registro de hoje).
-- Em quais capítulos: cap. 20 (a ressurreição do bebê, vista da cela; hoje o texto diz "Kate sentiu o corpo inteiro travar") e cap. 23 (o joelho da menina; hoje o texto diz só que a criança gritou). Não estender além do cap. 29: depois da libertação de Hícse (cap. 30) o Sinal perde o objeto e, no fim do L1, fica mudo.
+- Em quais capítulos: cap. 20 (a ressurreição do bebê, vista da cela; hoje o texto diz "Kate sentiu o corpo inteiro travar") e cap. 23 (o joelho da menina; hoje o texto diz só que a criança gritou). Não estender além do cap. 29: a partir da libertação de Hícse (cap. 30) o Sinal está mudo, de forma definitiva.
 - Custo: cerca de 40 a 60 palavras no total; reabre dois capítulos fechados, então o destino é o congelamento do L1. Atualizar as fichas dos caps. 20 e 23. Usar só o vocabulário somático de `conceitos/hicse.md` (pressão abaixo do osso, dente travando, sangue grosso e quente), sem voz nem posse, e sem Kate ligar a sensação ao Sinal.
 - Paga: o canon da agudização; a nota do prólogo; o cap. 35, onde a brasa passa a despertar com a morte executada por ordem dela.
 - Cena exemplo (cap. 23, depois do estalo): "Sob a nuca, a pressão subiu e travou-lhe os dentes, e passou." No cap. 20, ao tossir do bebê: "Kate sentiu o corpo inteiro travar, e uma pressão sob a nuca, como um dedo apoiado no osso, que subiu e se desfez."

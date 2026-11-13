@@ -95,9 +95,10 @@ a carga e ainda paga dois plantios antigos (abaixo).
   quando Kate mata (hábito); sobe quando ela **vê alguém matar por causa
   dela**. Sem voz, sem posse: somática. E **Kate não sabe** — lê como natureza
   própria até Gus.
-- **O Sinal não "para".** Contradiz `decisoes/sinal-permanentemente-instavel.md`
-  ("perde o eixo", nunca mudez). O certo: o instrumento **perde o objeto**
-  — selo rompido não lê nada.
+- **O Sinal perde o objeto e cala** (revisão 2026-11-13, autor). A regra
+  antiga ("não para", nunca mudez, de `decisoes/sinal-permanentemente-instavel.md`)
+  valia até a libertação de Hícse. Selo rompido não lê nada: a partir do
+  cap. 30 o Sinal está mudo, de forma definitiva.
 - **A alternância de PoV fechou (2026-10-01):** 29 = Nolan (a bacia) / 30 =
   Mário+Lakand / 31 = Kate (o reencontro fecha o capítulo). O batismo e o
   reveal de "Javé" migraram para o **cap. 34** (mapa de 2026-10-04).

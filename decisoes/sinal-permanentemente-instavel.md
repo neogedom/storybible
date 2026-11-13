@@ -8,7 +8,7 @@ timestamp: 2026-09-05T12:00:00-03:00
 
 # O Sinal ficou permanentemente instável — não mudo
 
-> **Revisão 2026-11-13 (autor):** a regra abaixo (nunca "mudo/emudeceu/cessou") vale do prólogo até o Ato 2. No final do L1 (Ato 3 e epílogo) o Sinal pode estar mudo, porque mede o selo de Hícse e Hícse está solta. Ver `conceitos/sinal-de-vonos.md`, "Estado no final do L1".
+> **Revisão 2026-11-13 (autor):** a regra abaixo (nunca "mudo/emudeceu/cessou") vale do prólogo até o cap. 29. A partir da libertação de Hícse (cap. 30) o Sinal fica mudo, de forma definitiva, porque mede o selo de Hícse e Hícse está solta. Ver `conceitos/sinal-de-vonos.md`, "Estado a partir da libertação de Hícse".
 
 ## Contexto
 
@@ -57,7 +57,7 @@ Sim.
 
 ## Revisão (2026-11-13)
 
-- O autor autorizou o Sinal **mudo** no final do L1. Razão: o Sinal mede o selo de Hícse; com Hícse solta, não há o que medir.
-- A trajetória fica: instável (prólogo a cap. 29) → perde o objeto (a partir do cap. 30) → mudo (Ato 3 e epílogo).
-- O vocabulário "mudo", "apagado" e "cessou" passa a ser autorizado no Ato 3 e no epílogo. O que o rascunho já tem nessas passagens (cap. 47 "apagado", cap. 50 "mudo", epílogo "definitivamente morto") não é erro de canon.
-- Pontos em aberto: de qual capítulo o mudo vale e se ele é permanente ou reversível no L2.
+- O autor decidiu que o Sinal fica **mudo a partir da libertação de Hícse (cap. 30)**. Razão: o Sinal mede o selo de Hícse; com Hícse solta, não há o que medir.
+- A trajetória fica: instável (prólogo ao cap. 29) → mudo (cap. 30 em diante). Não há estágio intermediário de ruído.
+- O mudo é **definitivo**. A única saída seria Vonos reconstruir o instrumento, o que o autor descarta.
+- O vocabulário "mudo", "apagado" e "cessou" é autorizado do cap. 30 em diante. O que o rascunho já tem (cap. 47 "apagado", cap. 50 "mudo", epílogo "definitivamente morto") não é erro de canon.
