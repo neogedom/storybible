@@ -86,6 +86,14 @@
 - Paga: as promessas do próprio livro.
 - **Decisão do autor necessária**: quais sementes são pagas no L1.
 
+#### Decisões do autor (registradas em 2026-11-13)
+
+- **Item 5 (devolver a mesa de Orval no cap. 48): aceito.** Mário lembra concretamente a mesa da cátedra oferecida no cap. 41; a recusa do cap. 44 passa a ter peso.
+- **Item 1 (cap. 47, cativeiro): revisado.** O custo da ameaça dos Clãs já está parcialmente pago em cena (cap. 44, Lakand: "comem a carne dos prisioneiros"; cap. 43, Terbs: "carne"). O que falta é a experiência de Mário no cap. 47, em POV dele. Evitar repetir o motivo de Mário carregado nos ombros (cap. 18, Kate e Charles): Mário anda acorrentado, sob o ritmo dos captores, ou é levado em jaula ou carroça, com a câmera no que ele vê.
+- **Item 2 (perda entre os caps. 47 e 51): recomendação, sem decisão.** Sem morte de personagem de Gus, porque a morte transfere o custo do sacrifício de Mário para terceiros. O custo deve cair sobre Mário, e a perda pode ser material (oficina, torre-sino, livros). Aguarda confirmação do autor.
+- **Item 6 (Kate): revisado.** Sem a palavra "amor" nos caps. 47 a 51. A sensação nasce do afastamento de Mário, não de uma escolha: é a ausência que ela não pôde evitar, como com Theodore (`personagens/kate.md`, cap. 45). A resposta à acusação de Lakand (cap. 35) aparece na ação, por exemplo Kate voltando atrás contra a vontade de Lakand. O trecho "Amor. Estava pronta..." do cap. 45 fica para condensação na fase 3.
+- **Item 7 (sementes): lista aceita em princípio.** Lupe'i já tem pagamento no cap. 46 (confronto); falta consequência nos caps. 47 a 66. A ordem de Nolan sobre o Sinal (cap. 42, censura dos boatos) paga quando o controle falha.
+
 #### Pontos que dependem de decisão do autor
 
 1. Quem morre no item 2 (Decian, artífice ou outro).
