@@ -19,6 +19,22 @@
 
 ## Entradas
 
+### 2026-11-13: O rapaz curado dos Clãs reconhecido no cap. 63
+
+- **Data**: 2026-11-13
+- **Ideia (uma linha)**: o rapaz que Mário cura no cap. 48 aparece entre os guerreiros dos Clãs no cap. 63, vendo o homem que o curou ser torturado, sem se ajoelhar e sem agir.
+- **Capítulos afetados**: 63 (caps. 64 e 66 sem alteração).
+- **Status**: aceito pelo autor em 2026-11-13.
+- **Destino**: cap. 63, aplicar na revisão do capítulo (rascunho ainda não revisado).
+- **Relação com o cânone**: semente #32 (`temas/sementes.md`); `insights/clans-de-sangue-no-suplicio-e-coroacao.md`.
+
+1. O que muda? Uma frase no cap. 63: Mário reconhece o rapaz curado entre os Clãs. Sem retorno do favor.
+2. Em quais capítulos? Cap. 63 (POV Mário, na Garfo, junto às arcadas onde Karrk mantém os Clãs). O cap. 66 já diz que os sobreviventes "não se ajoelharam".
+3. Qual o custo? Cerca de 40 palavras. Risco: virar recompensa do milagre. Vetado: o rapaz não ajuda Mário, não se ajoelha, não se converte, e nenhuma reação dos Clãs muda por causa dele.
+4. O que paga? A cena do cap. 48 (o milagre sem recompensa, a cruz como o lugar dos cravos) e dá um rosto aos Clãs.
+5. Cena exemplo (cap. 63): "Entre os guerreiros das arcadas, Mário reconheceu o rapaz da carroça, de pé sobre as duas pernas, a mão aberta sobre a coxa. Ele não se ajoelhava nem desviava os olhos."
+- Nome: sem nome por ora. Só se alguém o disser em cena; deixar para o L2 se ele voltar a importar.
+
 ### 2026-11-13: O Sinal instável no L1 e o efeito da sua falta no L2
 
 - **Data**: 2026-11-13

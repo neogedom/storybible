@@ -3661,3 +3661,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-13 (semente #27)
 
 - Autor aprovou tirar Charles da semente #27: a Ordem dos Inquiridores opera sem o Sinal no L2 e segue atrás da anomalia de Kate (#19); o "Cão da Inquisição" de Charles é outro fio. Nota do inbox atualizada.
+
+## 2026-11-13 (rapaz curado dos Clãs)
+
+- Autor aprovou o reconhecimento do rapaz curado (cap. 48) entre os Clãs no cap. 63: ele vê o homem que o curou ser torturado, sem ajoelhar e sem agir. Registrado como semente #32 e no inbox (destino: cap. 63, na revisão). Sem nome por ora.
