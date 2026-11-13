@@ -22,10 +22,10 @@
 ### 2026-11-13: Ajustes estruturais do checkpoint dos caps. 37 a 46
 
 - **Data**: 2026-11-13
-- **Ideia (uma linha)**: absorver para frente o que o checkpoint apontou, em sete itens (abaixo). Nenhum item reescreve capítulo fechado.
-- **Capítulos afetados**: 47 a 66 (absorve para frente). Caps. 41, 42 e 45 ficam para a fase 3 (prosa dos capítulos passados).
+- **Ideia (uma linha)**: absorver para frente o que o checkpoint apontou, em oito itens (abaixo). Os itens 1 a 7 não reescrevem capítulo fechado; o item 8 propõe micro-gestos em capítulos fechados e tem destino congelamento-L1.
+- **Capítulos afetados**: 47 a 66 (absorve para frente). Caps. 41, 42 e 45 ficam para a fase 3 (prosa dos capítulos passados). O item 8 toca os caps. 21, 25, 26, 27, 34 e 36.
 - **Status**: em desenvolvimento (correção: a versão anterior marcava "aceita" por leitura da concordância do autor com o diagnóstico; a decisão por item ainda não foi tomada no checkpoint)
-- **Destino**: caps. 47 a 66 e fase 3
+- **Destino**: caps. 47 a 66, fase 3 e congelamento-L1 (item 8)
 - **Relação com o cânone**: `temas/arco-stc.md` (beats redefinidos, marcados como proposta); `temas/esquema-l1.md` (passe de fechos 37-46); `temas/sementes.md`.
 
 #### Desenvolvimento (cinco perguntas por item)
@@ -86,6 +86,30 @@
 - Paga: as promessas do próprio livro.
 - **Decisão do autor necessária**: quais sementes são pagas no L1.
 
+**8. Curva de aproximação entre Kate e Mário (caps. 20 a 36), sem nomear o amor**
+- O que muda: o leitor passa a ver o vínculo crescer entre o cap. 20 e o 46, por gestos e falas pequenas, sem nomear. São micro-gestos de 50 a 150 palavras dentro de cenas existentes, e não cenas novas. O `personagens/kate.md` foi corrigido. A linha "Amor. Estava pronta para assumir isso?" do cap. 45 é decidida depois que a curva existir.
+- Já existe e não se toca:
+  - cap. 20: ela o apoia no ombro; "Os dois", por instinto, mas "ia usar";
+  - cap. 21: ela o ergue e o baixa com cuidado, o queixo no ombro dele;
+  - cap. 23: põe a comida na mão dele; senta ao lado e espera;
+  - cap. 24: o olhar que basta;
+  - cap. 25: "Fica esperto"; no fim, Lakand diz "Como se ele fosse o Theodore" e ela responde "Mário é um instrumento. Nada mais.";
+  - cap. 26: deixa o choro dele acabar sozinho; guarda a boca da fenda;
+  - cap. 32: o impulso de tocá-lo contido, a mão no pulso, "Você demorou. / Você também.";
+  - cap. 37: o toque no antebraço, que é a mentira;
+  - caps. 43 e 44: refugia-se em Lakand depois de julgada por Mário; tenta agarrar a manga dele.
+- Em quais capítulos (inserções propostas, aceitas pelo autor):
+  - **a. Cap. 25 (POV Kate), antes do assentamento:** um cuidado prático que ele não nota (por exemplo, ela se põe entre ele e a estrada). Vem antes da negação do fim do capítulo.
+  - **b. Cap. 27 (POV Kate), na saída:** ela instrui Lakand ("Quando o chão cantar, tira o pé do chão") e sai sem dizer nada a Mário. Acrescentar um olhar para trás ou uma palavra mínima, sem frase de efeito.
+  - **c. Cap. 36 (POV Mário), abertura:** retrospectiva curta da noite no assentamento, em que Kate dorme perto dele pela primeira vez (sinal de conforto), registrada por ele.
+  - **d. Cap. 36 (POV Mário), fecho:** Kate ajusta ela mesma a corda de Mário, para não ferir, enquanto separa as cordas. É o cuidado dentro do plano que leva ao massacre, e o toque do cap. 37 passa a pesar mais.
+  - **e. Lado de Mário:** uma percepção dele sobre ela em um dos caps. 21, 26 ou 34 (por exemplo, ela só dorme depois dele, ou ele repara onde ela se posiciona).
+- Custo: de 500 a 800 palavras no total, num livro que já está ~3,8k acima de 137,5k. Reabre capítulos fechados (25, 27, 36 e um entre 21, 26 e 34), então o destino é o congelamento do L1. As fichas e os visuais de Kate e Mário dos capítulos tocados precisam de atualização. Cautela: o conforto convive com o medo de ser usada (`kate.md`, "vão me comprar de novo") e com a negação dela (caps. 25 e 35, "Mário inspira. Eu lidero."). Kate não amolece e continua usando Mário.
+- Paga: o risco estrutural 3 (Kate como abstração); a acusação de Lakand (caps. 25 e 35); a ruptura dos caps. 38 e 39, que precisa de uma base de conforto para doer; o item 6 (a reação de Kate no cap. 45 e nos caps. 47 a 51); e o casamento do L2 (`temas/esquema-l2.md`).
+- Cena exemplo (cap. 36, fecho): "Kate passou a corda pelo pescoço de Mário e acertou o nó com dois dedos, para o cânhamo não morder a pele sob a orelha. / — Está folgada — disse ele. / — Vai ficar justa quando a fila andar. / Os dedos dela ficaram um instante a mais no nó antes de ela voltar para o grupo."
+- Cap. 45: o parágrafo da tese do sacrifício ("Mário não precisara de exército...") é condensado na fase 3. A linha "Amor. Estava pronta para assumir isso?" fica ou sai depois que a curva estiver construída; com a curva, pode sair sem perda.
+- **Status do item 8:** aceito pelo autor em 2026-11-13. **Destino:** congelamento-L1.
+
 #### Correção de premissa (2026-11-13)
 
 - Os caps. 47 a 66 e o epílogo **já existem como rascunho** em `Livro 1/`. Os itens acima foram escritos como se fossem capítulos a escrever. Na prática, são revisões de texto existente.
@@ -99,6 +123,7 @@
 - **Item 1 (cap. 47, cativeiro): em grande parte já pago pelo cap. 48.** O cap. 48 já mostra o transporte violento (forquilha de freixo, couro cru que corta os pulsos, ombro deslocado, "fardo de carniça" sobre a mula) e o primeiro milagre diante dos Clãs. O cap. 47 é de Nolan, e não precisa de uma cena de cativeiro de Mário. Não há no cap. 48 ameaça explícita de comerem partes de Mário; só a "liturgia de fome" de Karrk. O receio de repetir o cap. 18 tem fundamento menor: o fecho do cap. 48 repete a imagem do fardo ("jogaram-no sobre a mula como um fardo de carniça", como no cap. 18). Se quiser, variar essa frase.
 - **Item 2 (perda entre os caps. 47 e 51): recomendação, sem decisão.** Sem morte de personagem de Gus, porque a morte transfere o custo do sacrifício de Mário para terceiros. O custo deve cair sobre Mário, e a perda pode ser material (oficina, torre-sino, livros). Aguarda confirmação do autor.
 - **Item 6 (Kate): revisado.** Sem a palavra "amor" nos caps. 47 a 51. A sensação nasce do afastamento de Mário, não de uma escolha: é a ausência que ela não pôde evitar, como com Theodore (`personagens/kate.md`, cap. 45). A resposta à acusação de Lakand (cap. 35) aparece na ação, por exemplo Kate voltando atrás contra a vontade de Lakand. O trecho "Amor. Estava pronta..." do cap. 45 fica para condensação na fase 3.
+- **Item 8 (curva Kate–Mário): aceito.** Cinco pontos de inserção (cap. 25, cap. 27, abertura e fecho do cap. 36, e um do lado de Mário em 21, 26 ou 34), com destino congelamento-L1. `personagens/kate.md` corrigido. Cap. 45: a tese do sacrifício é condensada na fase 3, e a linha "Amor..." é decidida depois da curva.
 - **Item 7 (sementes): lista aceita em princípio.** Lupe'i já tem pagamento no cap. 46 (confronto); falta consequência nos caps. 47 a 66. A ordem de Nolan sobre o Sinal (cap. 42, censura dos boatos) paga quando o controle falha.
 
 #### Pontos que dependem de decisão do autor

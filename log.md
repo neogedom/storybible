@@ -3642,3 +3642,8 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 - Atualizados: `conceitos/sinal-de-vonos.md` (nova seção "Estado no final do L1"), `decisoes/sinal-permanentemente-instavel.md` (revisão), `conceitos/hicse.md`, ficha do cap. 0.
 - O que o rascunho já tem (cap. 47 "apagado", cap. 50 "mudo", epílogo "definitivamente morto") não é erro de canon. A sinalização anterior em contrário foi retirada.
 - Em aberto: a partir de qual capítulo o mudo vale; se é permanente ou reversível no L2.
+
+## 2026-11-13 (curva de aproximação Kate–Mário)
+
+- Autor aprovou o item 8 do inbox: micro-gestos em cinco pontos (caps. 25, 27, 36 abertura, 36 fecho, e um do lado de Mário em 21, 26 ou 34), sem nomear o amor; destino congelamento-L1. Cap. 45: tese do sacrifício condensada na fase 3; a linha "Amor..." decidida depois da curva.
+- `personagens/kate.md` corrigido: o vínculo deixa de ser "não romântico" e passa a crescer sem nome no L1 e virar casamento no L2.

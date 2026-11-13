@@ -14,8 +14,9 @@ elemental, o que a torna única entre os leviantares. Essa ausência de magia
 no sangue é também sua maior arma: é imune ao efeito mágico das armas
 geométricas dos Inquiridores — o fio ainda a fere; o apodrecimento do
 renanthao, não. Inicialmente encarregada de capturar
-Mário, ela desenvolve um vínculo ambíguo com ele — não romântico, não maternal,
-mas algo entre proteção, dívida e escolha própria.
+Mário, ela desenvolve um vínculo ambíguo com ele — não maternal; entre
+proteção, dívida e escolha própria, com uma proximidade que cresce sem nome
+no L1 (ela a nega nos caps. 25 e 35) e vira casamento no L2 (decisão 2026-11-13).
 
 **Sobrenome:** Daggon' (com apóstrofo; aparece no cap. 6 e no cap. 18).
 
@@ -96,7 +97,7 @@ ferida: "vão me comprar de novo."
 ### Evolução
 
 - **L1**: escolhe "Os dois" por instinto, não por fé; quer usar Mário como
-  estopim da guerra (cap. 21) — repete o padrão de quem a usou, sem perceber.
+  estopim da guerra (cap. 21) — repete o padrão de quem a usou, sem perceber. O vínculo com Mário cresce sem nome ao longo do L1 (gestos, não declaração); a separação do cap. 45 mostra o que ele já é (decisão 2026-11-13; ver `insights/_inbox.md`, item 8).
 - **L2**: casa com Mário e tem os gêmeos Bernardo e Stella — o primeiro ato
   de RECEBER (amor, lar, filhos) sem preço. Morre guerreira (~75%) deixando
   os gêmeos órfãos: a mulher que temia ser abandonada é a que parte — a
