@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-13 (Sobrenome de Kate e grafias de nomes no livro)
+
+- Decisão do autor: o sobrenome de Kate é "Daggon'", com o apóstrofo, como aparece no cap. 6.
+- Registrado em `personagens/kate.md`.
+- Livro: cap. 18, linha 83, "Kate Daggon" passa a "Kate Daggon'"; cap. 13, linha 187, "Dërunmege" passa a "Daërunmege".
+
 ## 2026-11-09 (Direções de POV e arcos de Gunad, Lakand e Koda para o L2)
 
 - Criado `insights/povs-l2-gunad-lakand-koda.md` com a direção em avaliação:

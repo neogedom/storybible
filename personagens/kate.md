@@ -4,7 +4,7 @@ title: Kate
 description: Caçadora leviantar gnock (nascida sem poder), protetora relutante de Mário. Vínculo ambíguo entre dever e escolha.
 tags: [protagonista, leviantar, gnock, cacadora, L1]
 resource: https://github.com/neogedom/storybible/blob/main/personagens/kate.md
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-13T12:00:00-03:00
 ---
 
 ## Visão Geral
@@ -16,6 +16,8 @@ geométricas dos Inquiridores — o fio ainda a fere; o apodrecimento do
 renanthao, não. Inicialmente encarregada de capturar
 Mário, ela desenvolve um vínculo ambíguo com ele — não romântico, não maternal,
 mas algo entre proteção, dívida e escolha própria.
+
+**Sobrenome:** Daggon' (com apóstrofo; aparece no cap. 6 e no cap. 18).
 
 Kate é o **pé no chão** da história. Enquanto Mário questiona o sentido do
 universo e Nolan calcula variáveis, Kate age. Ela não tem tempo para filosofia
