@@ -139,7 +139,7 @@ a armadura de renanthao é segura para o portador).
 
 - **Não apodrecem**: humanos sem magia; gnocks (ex.: Kate); Mário — o poder
   nele não é dele, é de Deus (decisão 2026-09-09).
-- **Apodrecem**: leviantares com afinidade; daërunmegos (transmorfia); demais
+- **Apodrecem**: leviantares com afinidade; daërunmeges (transmorfia); demais
   seres com magia no sangue.
 
 É esse efeito — uma escoriação como sentença — que sustenta o terror da
