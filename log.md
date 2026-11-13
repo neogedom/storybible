@@ -4,7 +4,7 @@
 
 - Decisão do autor: Kate pode saber o nome de Ossan (cap. 46, linha 1 mantida).
 - Cap. 46, linha 31: "aro de prata" passa a "armação de ébano", como no cap. 4 e na ficha de Nolan. Ajustados `visuais/nolan.md` e `vozes/nolan.md`.
-- Cap. 46, linha 45: "degelo da serra" passa a "chuvas da serra", por causa do outono (`temas/timeline.md`). Ajustados a ficha do cap. 46 e `temas/esquema-l1.md`.
+- Cap. 46, linha 45: "degelo da serra" sai, por causa do outono (`temas/timeline.md`), e "chuvas da serra" também não entra, porque o livro não tem nenhuma cena de chuva. A fala passa a "o Cran não tem vau perto da Metrópole". Ajustados a ficha do cap. 46 e `temas/esquema-l1.md`.
 - A cópia semeada `decisoes/teste-processo/cap46-semeado.txt` não foi alterada.
 
 ## 2026-11-13 (Sobrenome de Kate e grafias de nomes no livro)

@@ -14,7 +14,7 @@ timestamp: 2026-11-13T12:00:00-03:00
 
 ## Resumo
 
-Na sala de traçagem da Academia de Gus, Edgard Lupe'i confronta Nolan: acusa-o de perseguir o Souhma desde Saramant, de arrastar o rastro de sangue até a Cidadela e de ter queimado hegralianos em Gerikhad sem julgamento. Nolan responde que precisa do rapaz vivo, que o Trono tem contrato com os Clãs e que a dignidade deve esperar. Kate cede ao argumento de Lakand (no território dos Clãs seriam presas) e propõe descer o Cran, cheio das chuvas da serra. Orval, Mathias e Nolan montam o plano de travessia: três batelões, entrada pelos canais de deságue das tinturarias, na quebra de vigilância entre a terceira e a quarta vigília. Nolan não embarca: segue por terra de carruagem com Mathias, Mira, Saboc e Ossan, para estar no Castelo de Quartzo antes dos Clãs. Kate o ameaça; Lakand duvida dele; Kate resume o pacto: Nolan só precisa abrir a porta da frente.
+Na sala de traçagem da Academia de Gus, Edgard Lupe'i confronta Nolan: acusa-o de perseguir o Souhma desde Saramant, de arrastar o rastro de sangue até a Cidadela e de ter queimado hegralianos em Gerikhad sem julgamento. Nolan responde que precisa do rapaz vivo, que o Trono tem contrato com os Clãs e que a dignidade deve esperar. Kate cede ao argumento de Lakand (no território dos Clãs seriam presas) e propõe descer o Cran, que não tem vau perto da Metrópole. Orval, Mathias e Nolan montam o plano de travessia: três batelões, entrada pelos canais de deságue das tinturarias, na quebra de vigilância entre a terceira e a quarta vigília. Nolan não embarca: segue por terra de carruagem com Mathias, Mira, Saboc e Ossan, para estar no Castelo de Quartzo antes dos Clãs. Kate o ameaça; Lakand duvida dele; Kate resume o pacto: Nolan só precisa abrir a porta da frente.
 
 ## Personagens
 
@@ -33,7 +33,7 @@ Na sala de traçagem da Academia de Gus, Edgard Lupe'i confronta Nolan: acusa-o 
 - Kate chega à sala de traçagem. Presentes: Nolan, Lakand, Decian, Mathias, Ossan, Lupe'i, Orval, um professor e dois artífices.
 - Lupe'i pergunta o que Nolan faz ali. Nolan: "Vim atrás do Souhma que você disse estar em Saramant." Lupe'i o acusa de empurrar o Souhma e o rastro de sangue até Gus, de queimar hegralianos em Gerikhad sem julgamento, e ameaça-o, só contido pelo respeito a Orval.
 - Nolan nega a autoria da presença dos Clãs ("assunto do Rei"); diz que o Trono tem contrato com os Clãs e destino ainda desconhecido para o Estrangeiro; manda guardarem a dignidade para depois.
-- Kate propõe descer o rio Cran, cheio das chuvas da serra, depois que Lakand rejeita perseguir os Clãs em território deles.
+- Kate propõe descer o rio Cran, que não tem vau perto da Metrópole, depois que Lakand rejeita perseguir os Clãs em território deles.
 - Orval: três batelões de fundo chato em quatro horas; muralha voltada ao Cran com doze braças; sentinelas com projéteis incendiários.
 - Mathias: dois Espadas da Lei no parapeito da Torre do Cran, um na balista leve, outro vigiando o acampamento dos Clãs na planície sul.
 - Nolan traça a rota: quebra de vigilância entre a terceira e a quarta vigília, depois da troca da guarda da muralha oeste (escalas mudadas há dois meses por Valinor, sogro de Nolan, para economizar óleo); canais de deságue das tinturarias, no lado sudeste, guardados por milicianos sem marca da Chama; barcaças sem mastro, rente aos juncais da margem esquerda.

@@ -83,5 +83,5 @@ Conferido contra a chave do teste, guardada fora do repositório.
 
 - L1: Kate pode saber o nome de Ossan; mantido.
 - L31: "aro de prata" corrigido para "armação de ébano" no cap. 46, em `visuais/nolan.md` e em `vozes/nolan.md`.
-- L45: "degelo da serra" corrigido para "chuvas da serra" (o Livro 1 corre no outono). Ajustados também a ficha e o esquema.
+- L45: "degelo da serra" substituído por "o Cran não tem vau perto da Metrópole" (o Livro 1 corre no outono e não tem cena de chuva). Ajustados também a ficha e o esquema.
 - Os demais apontamentos de gravidade baixa ou média ficam sem ação por ora.
