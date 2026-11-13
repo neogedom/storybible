@@ -3608,3 +3608,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 
 - Criado `capitulos/capitulo-46.md` (POV Kate, ~84,7%). Visuais: Kate, Nolan, Lakand, Mathias, Ossan, Decian; "não aparece" para Mário, Mira e Saboc. Linha do cap. 46 e bloco de fronteira no `esquema-l1.md`; defesas da muralha em `lugares/metropole.md`; payoff de Lupe'i em `temas/sementes.md`.
 - Gatilho de checkpoint atingido: último registrado em 2026-09-18 (caps. 21-28), 18 capítulos atrás, e o cap. 46 fecha o bloco "Vilões se Aproximam". Oferecido ao autor, não executado.
+
+## 2026-11-13 (validação das fichas 34 a 38)
+
+- Fichas conferidas com o texto. Decisões do autor: repique frenético (cap. 38 ajustado); picareta (cap. 37 ajustado); cinco seguidores (caps. 37 e 38); mapa da reestruturação com o cap. 38 em POV de Kate; massacre da família Uorier, com Mira e Saboc vivos; cap. 38 reescrito para o reconhecimento de Nolan (o nome vem do soldado no cap. 20).

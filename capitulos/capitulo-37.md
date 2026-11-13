@@ -22,8 +22,8 @@ Mário entra pela rampa inferior, marcado como devedor. Na galeria, vê um ental
 - Feitor de maça e gibão: atacou Mário.
 - Homem de casaco preto, com caderno de registros: sem nome no capítulo. Identificado pelo contexto como Nolan (ver pendências).
 - Mathias (capa cinzenta, escudo): salva Mário.
-- Barão da Mina, sem nome no capítulo (o cap. 38 o chama de Uorier; ver `personagens/uorier.md`), a esposa e as duas filhas pequenas: mortos.
-- Homem de maxilar quadrado: executa o barão.
+- Barão da Mina, sem nome no capítulo (o cap. 38 o chama de Uorier; ver `personagens/uorier.md`), a esposa e as duas filhas pequenas: mortos (massacre da família Uorier; Mira e Saboc estão vivos).
+- Homem de maxilar quadrado: executa o barão, com uma picareta de ponta afiada.
 
 ## Eventos
 

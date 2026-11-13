@@ -43,5 +43,5 @@ Mário chega a um assentamento de refugiados, perto do pó de quartzo. Cura uma 
 - Mário menciona "Ele pagou" sem trazer custo visível; o leitor pode ler isso como ferramenta.
 - Conferido no texto: o tremor aparece como medo ("não era cansaço"), a Voz "não respondeu ao gesto" e, no fim, "permaneceu muda". A decisão da Mina é lógica de Mário, não da Voz. Bate com a decisão de 2026-11-12.
 - Conferido: "Javé" aparece pela primeira vez neste capítulo (próxima ocorrência: cap. 52).
-- Contagem de seguidores: o cap. 34 diz que Kate chega com "cinco" (mulher com a criança, homem da mão mutilada, rapaz da tipoia etc.); o cap. 37 fala em "quatro homens do assentamento"; o cap. 35 só nomeia três homens. Os números não fecham com certeza. Decidir se vale ajustar o texto.
+- Contagem de seguidores: o cap. 34 diz que Kate chega com "cinco" (mulher com a criança, homem da mão mutilada, rapaz da tipoia etc.); o cap. 37 fala em "quatro homens do assentamento"; o cap. 35 só nomeia três homens. Decidido em 2026-11-13: são cinco. Caps. 37 e 38 ajustados.
 - Risco 1 (protagonismo): o fecho do capítulo mostra Mário convencido de "conduzir os próprios passos" ("Ela acha que eu não vejo"). É a ironia que o cap. 37 cobra. Manter.
