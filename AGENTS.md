@@ -20,6 +20,12 @@ consistência.
 
 ---
 
+## Branch de trabalho (teste de um mês, a partir de 2026-11-13)
+
+Todo o trabalho com o Claude fica na branch **`trabalho`**, neste repositório e em `../livro/`. A `main` não é tocada durante o teste. Comece a sessão na `trabalho`, commite e dê push nela (autorizado pelo autor); integre nela qualquer branch própria da sessão (`ccr-...`); não crie outras branches nem PRs sem pedido. Detalhes: `decisoes/2026-11-13-branch-de-trabalho.md`.
+
+---
+
 ## Arquitetura
 
 ```

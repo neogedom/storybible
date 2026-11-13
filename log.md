@@ -3681,3 +3681,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-13 (cena de Nuh e Nolan: resposta aceita)
 
 - Autor aceitou a resposta de Nolan a Nuh. Rascunho em prosa da cena (254 palavras) guardado no inbox, sem inserir no epílogo.
+
+## 2026-11-13 (branch de trabalho)
+
+- Autor decidiu centralizar o trabalho com o Claude na branch `trabalho`, nos dois repositórios, por cerca de um mês; se der certo, ela assume a `main`. Regras e estado das branches antigas em `decisoes/2026-11-13-branch-de-trabalho.md`.
