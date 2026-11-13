@@ -69,7 +69,7 @@ na Cidadela de Gus.
 
 **A escrever**
 
-**Redefinido em 2026-11-13 (checkpoint caps. 37-46, aprovado pelo autor).** O beat foi escrito nos caps. 39 a 43 (chegada a Gus e Decian, Nolan avalia o terreno, a tentação de Orval, a infiltração de Nolan, Estruzzo e o ultimato) e consumiu ~19k palavras (~13,9% do livro, contra ~7% planejado). A Cidadela de Gus **não foi massacrada**: a entrega de Mário fez a horda recuar. Gus paga pouco; o custo da entrega fica para os caps. 47 em diante.
+**Redefinido em 2026-11-13 (proposta do checkpoint caps. 37-46; decisão pendente do autor).** O beat foi escrito nos caps. 39 a 43 (chegada a Gus e Decian, Nolan avalia o terreno, a tentação de Orval, a infiltração de Nolan, Estruzzo e o ultimato) e consumiu ~19k palavras (~13,9% do livro, contra ~7% planejado). A Cidadela de Gus **não foi massacrada**: a entrega de Mário fez a horda recuar. Gus paga pouco; o custo da entrega fica para os caps. 47 em diante.
 
 ## Tudo Está Perdido (~75%)
 
