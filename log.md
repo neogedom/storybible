@@ -3612,3 +3612,8 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-13 (validação das fichas 34 a 38)
 
 - Fichas conferidas com o texto. Decisões do autor: repique frenético (cap. 38 ajustado); picareta (cap. 37 ajustado); cinco seguidores (caps. 37 e 38); mapa da reestruturação com o cap. 38 em POV de Kate; massacre da família Uorier, com Mira e Saboc vivos; cap. 38 reescrito para o reconhecimento de Nolan (o nome vem do soldado no cap. 20).
+
+## 2026-11-13 (checkpoint caps. 37 a 46)
+
+- Executado: Arquiteto de Densidade (leve), anti-slop em lote (59 cirurgias nos caps. 37 a 45; cap. 46 só candidatos, por estar em revisão manual) e passe de fechos (bloco gravado em `temas/esquema-l1.md`).
+- Densidade: Vilões se Aproximam consumiu ~19k palavras (~13,9%) contra ~7% planejado; o bloco absorveu os primeiros beats do Tudo Está Perdido. Cap. 41 em excesso; Gus quase não paga a entrega de Mário; mapa do arco-stc precisa ser redefinido antes do cap. 47.

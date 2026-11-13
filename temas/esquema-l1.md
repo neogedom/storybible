@@ -925,6 +925,33 @@ o **✂️ Corte do capítulo (decisão de checkpoint, 2026-10-11):** o capítul
 >
 > **Regra de fecho para 29-35 (herdada do checkpoint):** fora do fecho — "norte", "escuro" e "silêncio"; não abrir o fecho com "E"; nunca dois capítulos seguidos com o mesmo tipo de corte; nenhum capítulo fecha em deslocamento de grupo.
 
+> **✂️ Passe de fechos — bloco 37-46 (checkpoint 2026-11-13).** Mapa medido (fecho → corte → gesto → POV → quem decide):
+>
+> | Cap. | POV | Corte | Gesto do fecho | Quem decide |
+> | --- | --- | --- | --- | --- |
+> | 37 | Mário | C | revolta dos escravos, "frenesi" | Mário decide pregar; o resto reage |
+> | 38 | Kate | C | a Mina desaba inteira | Kate (arrasta Mário) |
+> | 39 | Mário | D | adormece; a Voz muda | Mário reage (a decisão "é para lá" fica no meio) |
+> | 40 | Nolan | B (leve) | pergunta interior sobre o Deus Desconhecido + logística | Nolan |
+> | 41 | Mário | B | "preciso pensar" | Mário adia |
+> | 42 | Nolan | A (leve, por raciocínio) | "alcançar o Estrangeiro antes que a horda arrombasse" | Nolan |
+> | 43 | Kate | A | sino, "a invasão estava posta" | Kate perde (Lakand recusa) |
+> | 44 | Mário | C | "Eu sou o homem que vocês querem!" | Mário |
+> | 45 | Kate | D | Kate ordena a Lakand, limpa e embainha a lâmina | Kate |
+> | 46 | Kate | D | Kate fala a Lakand, ajeita o fecho da adaga | Kate / Nolan |
+>
+> Contagem: A 2 (42, 43), B 2 (40, 41), C 3 (37, 38, 44), D 3 (39, 45, 46). O mix é saudável; o bloco tem B (ao contrário do 21-28).
+>
+> **Alertas:**
+> 1. **Gesto repetido, 45 e 46 (mesmo POV, em sequência):** os dois fecham com Kate falando a Lakand e mexendo na arma (`encaixou a lâmina na bainha`, `ajeitando o fecho da adaga`). É a repetição que o passe proíbe. Candidato a mudança no 46 (cap. em revisão manual): fechar em outro gesto (por exemplo, o Cran, a sala vazia ou Nolan saindo), e tirar a fala de Lakand em lição (`Alguém como ele não abandona suas convicções assim tão rápido`).
+> 2. **Fecho mental em 39, 40, 41 e 42:** quatro dos seis fechos entre 39 e 44 terminam em pensamento do POV. Só o 43 e o 44 fecham em ação. Sem ação a corrigir agora, mas o 47 em diante deve alternar.
+> 3. **Rotação de POV:** Kate em 45 e 46 seguidos, e Mário ausente do 45 ao 47 se o 47 não for dele. O 48 já é Mário (esquema). Recomendação: o 47 em POV de Mário (cativeiro). Registrado, decisão do autor.
+> 4. **Protagonismo (risco 1):** Mário decide em 37 e 44 (cume); reage em 39; adia em 41. Ausente de 45 a 47. O 48 deve devolver a decisão a ele.
+> 5. **Palavra-senha:** `peso` (e `chumbo`) circula pelo bloco; o anti-slop já reduziu. `Estômago dar um nó` também foi cortado onde repetia.
+>
+> **Marca para o cap. 47 e seguintes (proposta):** abrir com Mário em cativeiro, fecho em B (o que ele fará com a entrega paga). Não repetir o gesto de Kate/Lakand/arma. Ver também o relatório de densidade do mesmo checkpoint (`docs/revisao/` se arquivado).
+
+
 ---
 
 ## Ponto Central (~68%) — A Tomada da Mina de Quartzo
