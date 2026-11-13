@@ -648,7 +648,7 @@ _Atualizar a cada INGEST de capítulo._
 
 - **Plantio:** L1, caps. 27, 28 e 30 (o combate na bacia, a recusa do escriba a Nolan, e a morte do Inquiridor da cicatriz por Gaviorn'l).
 - **Payoff no L1 (Ato 3):** No retorno de Nolan à Metrópole, ele confronta o Sumo Sacerdote Nuh d'Teraghar no Templo de Vonos para cobrar a autoridade negada. Nuh revela que a patrulha voltou do sul derrotada, o líder morreu, o Sinal no Monólito perdeu a calibração de busca e o relatório acusa que uma caçadora ferida por lâmina de ofício não apodreceu.
-- **Germinação:** L2 — A Ordem dos Inquiridores opera sem eixo até recrutar Charles ("Cão da Inquisição") para caçar a anomalia de Kate.
+- **Germinação:** L2 — A Ordem dos Inquiridores opera sem o Sinal (mudo e definitivo desde a libertação de Hícse, cap. 30), por testemunho e registro escrito, e segue atrás da anomalia de Kate (#19). Charles não tem relação com o Sinal nem com esta semente (decisão do autor, 2026-11-13); o "Cão da Inquisição" do L2 é outro fio.
 
 ## 28. O Rei Docente e a Cátedra de Tradução da Bíblia de Kraviam (canon 2026-10-21)
 

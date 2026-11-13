@@ -3657,3 +3657,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 - Decisão do autor: o Sinal está mudo a partir da libertação de Hícse (cap. 30), não só no Ato 3; e o mudo é definitivo, salvo se Vonos reconstruísse o instrumento, o que não vai acontecer.
 - Atualizados: `conceitos/sinal-de-vonos.md` (Camada 2 e nova seção), `decisoes/sinal-permanentemente-instavel.md`, `decisoes/gaviornl-morte-antecipada-hicse.md`, `conceitos/hicse.md`, ficha do cap. 0, inbox.
 - Texto: fala dos artífices de Gus no cap. 42 ajustada (a pedra do templo não responde; o Sinal não voltou).
+
+## 2026-11-13 (semente #27)
+
+- Autor aprovou tirar Charles da semente #27: a Ordem dos Inquiridores opera sem o Sinal no L2 e segue atrás da anomalia de Kate (#19); o "Cão da Inquisição" de Charles é outro fio. Nota do inbox atualizada.

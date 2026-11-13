@@ -40,7 +40,7 @@
 
 **3. Efeito da falta do Sinal no L2 (Inquiridores e culto a Vonos)**
 - Ideia do autor (2026-11-13): a falta do Sinal pode pesar sobre os Inquiridores e sobre o culto a Vonos no L2. Capturada, sem desenvolvimento.
-- Correção do autor: Charles não tem relação com o Sinal. A semente #27 (`temas/sementes.md`) liga a Ordem a Charles ("Cão da Inquisição") e fica a revisar.
+- Correção do autor: Charles não tem relação com o Sinal. A semente #27 (`temas/sementes.md`) ligava a Ordem a Charles ("Cão da Inquisição"); foi revisada em 2026-11-13 e Charles saiu dela.
 - **Status:** capturada. **Destino:** L2.
 
 **"Cessou" ou "vacilou" como alavanca política (caps. 49, 56 e 58)**
