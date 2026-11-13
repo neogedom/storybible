@@ -35,6 +35,7 @@ Muita coisa foi construída e corrigida, mas o fluxo completo nunca foi executad
   4. Erro de nome: um personagem chamado de outro nome.
 - **Passos:** rodar o fluxo de revisão (guardião de coerência, revisor linguístico e a lista de candidatos) sobre a cópia e comparar com a chave.
 - **Critérios de aprovação:** pelo menos três dos quatro encontrados, e nenhum falso alarme grave.
+- **Isolamento da rodada de detecção:** o revisor não lê `capitulos/capitulo-46.md`. Ele também não deve abrir `vozes/` nem `lugares/` que citem o cap. 46 (o `grep` em `capitulos/` já expõe trechos do resumo). Se não for possível isolar, registrar o vazamento no resultado. A rodada 1 do teste 2 leu a ficha e não é medida limpa.
 
 ## Teste 3: atribuição cega de falas
 
@@ -51,7 +52,7 @@ Muita coisa foi construída e corrigida, mas o fluxo completo nunca foi executad
 
 ## Registro
 
-Os resultados vão para `storybible/decisoes/teste-processo-AAAA-MM-DD.md`, com o que passou, o que falhou e o que ajustar.
+Os resultados vão para `storybible/decisoes/teste-processo-AAAA-MM-DD.md`, com o que passou, o que falhou e o que ajustar. Se houver mais de um teste no mesmo dia, usar sufixo (`...-teste2.md`), para não sobrescrever o registro anterior.
 
 ## Materiais
 

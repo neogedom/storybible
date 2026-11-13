@@ -61,3 +61,20 @@ Novos candidatos da rodada 2, a conferir se são preexistentes no original ou fa
 ## Para o autor
 
 Comparar as tabelas das duas rodadas com a chave. Critério do plano: pelo menos 3 de 4 encontrados e nenhum falso alarme grave. Os erros 2, 3 e 4 foram apontados com confiança alta nas duas rodadas. O erro 1 depende de qual candidato (L35 ou L1) é o semeado; se nenhum, a detecção é 3 de 4, ainda dentro do critério. Dizer quais candidatos novos da rodada 2 são falsos alarmes e se algum é grave.
+
+## Conferência com a chave (2026-11-13)
+
+Conferido contra a chave do teste, guardada fora do repositório.
+
+| Erro semeado | Rodada 1 | Rodada 2 |
+|---|---|---|
+| 1. Vazamento de POV (L35) | apontado | não apontado (apontou L1, ver abaixo) |
+| 2. Fecho aforístico (L99) | apontado | apontado |
+| 3. Fala longa de Lakand (L133) | apontado | apontado |
+| 4. Nome "Valenor" (L69) | apontado | apontado |
+
+- Rodada 1: 4 de 4. Rodada 2: 3 de 4.
+- Defeito real do texto base (L75 a 77): apontado nas duas rodadas. Não conta como falso alarme.
+- L1 (Kate conhecer nome e filiação de Ossan): não é erro semeado; a frase já estava no original. Possível problema real do texto, para o autor avaliar. Não é falso alarme grave.
+- Veredito pelo critério do plano (pelo menos 3 de 4, sem falso alarme grave): **passou**.
+- Contaminação: a rodada 1 leu a ficha do cap. 46. Por isso a rodada 2 é a medida mais limpa. Regra de isolamento incluída no plano.
