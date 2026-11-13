@@ -19,12 +19,6 @@ conceitos:
   - Jejum de Mário (não por disciplina — tentativa de arrancar resposta da Voz)
   - Idolatria como hábito (ajoelhar é tudo que sabem fazer)
   - Pitch da Mina em duas fases (mapa → recusa de Mário → negociação pela cura/esperança)
-sementes:
-  - Kate começa a ver humanos como "potencial" em vez de "künerv" — ainda não é empatia, mas já não é desprezo puro (metáfora do aço)
-  - Mário não ora — o silêncio da Voz pesa; ele espera uma carta que não chega
-  - O tique do pulso de Kate (aperta o próprio pulso quando a transação se fecha)
-  - Kate usa o nome de Mário pela primeira vez ("Mário, seu nome, não é?") — humaniza a transação
-  - Lakand testemunha a cura e pergunta "com magia?" — frame de magia/feitçaria, não milagre
 ---
 
 # Capítulo 23 — O Assentamento
@@ -76,6 +70,14 @@ Mário não come. Não ora. Fica sentado perto das crianças, as mãos paradas, 
 5. Pessoas se ajoelham; Mário recua; Kate observa e recalibra
 6. Kate aperta o pulso — a transação se fecha
 7. Noite: Mário não ora; Kate vai caçar
+
+## Sementes e conexões
+
+Kate começa a ver humanos como "potencial" em vez de "künerv" — ainda não é empatia, mas já não é desprezo puro (metáfora do aço)
+Mário não ora — o silêncio da Voz pesa; ele espera uma carta que não chega
+O tique do pulso de Kate (aperta o próprio pulso quando a transação se fecha)
+Kate usa o nome de Mário pela primeira vez ("Mário, seu nome, não é?") — humaniza a transação
+Lakand testemunha a cura e pergunta "com magia?" — frame de magia/feitçaria, não milagre
 
 ## Fronteira
 

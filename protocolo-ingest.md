@@ -62,7 +62,7 @@ Definition of Done (prosa completa, fronteira ok).
 > Livro). Ele lê o bloco **como sequência**, não capítulo a capítulo: onde
 > cada capítulo corta (A/B/C/D), se dois fechos seguidos repetem o mesmo
 > gesto ("norte", corpo em movimento, "E" inicial), como girou o POV e quem
-> **decidiu** em cada capítulo. Diagnóstico + marcas no `esquema-l1.md` para
+> **decidiu** em cada capítulo. Diagnóstico + marcas no `temas/esquema-l1.md` para
 > os caps. futuros — nunca reescreve prosa no modo privado.
 
 Regra de bolso: `personagens/<nome>.md` só muda quando um **fato duro** muda
