@@ -13,3 +13,7 @@ timestamp: 2026-10-11
 - **Expressão**: dorme de boca aberta.
 - **Cobertura**: o peito sobe sob a manta.
 - **Local**: carroça e, depois, o quarto na casa de Uorier.
+
+## Capítulo 46 — A Sala de Traçagem (Mini-INGEST, 2026-11-13)
+
+- _Não aparece._ Citado por Nolan, que ordena que vá com a carruagem.

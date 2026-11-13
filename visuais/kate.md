@@ -233,6 +233,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Postura        | Salta ao terreiro, ataca os Clãs, enfrenta Nolan e chama Lakand para reunir os artífices |
 | Fundo          | Terreiro da marcenaria sob fumaça → pátio após a retirada dos Clãs |
 
+## Capítulo 46 — A Sala de Traçagem (Mini-INGEST, 2026-11-13)
+
+| Atributo       | Estado |
+| -------------- | ------ |
+| Roupas         | Couro remendado de caçadora; sem troca descrita |
+| Armas          | Adaga na cintura (ajusta o fecho no fim da cena) |
+| Sinais físicos | Fumaça do pátio ainda na garganta; polegar esquerdo cravado na parte interna do pulso |
+| Expressão      | Atenta, braços cruzados no batente; raiva contida; sorriso quase esboçado ao provocar Nolan |
+| Postura        | Do batente avança três passos até a bancada, a menos de um braço de Nolan |
+| Fundo          | Sala de traçagem da Academia de Gus: bancada de carvalho, três archotes de sebo |
+
 ---
 
 ## Prompt de Imagem (modelo)

@@ -82,3 +82,9 @@ silêncio, por desespero. O nome dele nunca é dito no capítulo (POV de Kate:
 - **Armas e equipamento**: escudo de aço e espada; marca da Chama visível na mão.
 - **Postura**: protege Nolan durante a ameaça dos artífices; depois segue ao celeiro sul para buscar Ossan e a escolta.
 - **Fundo**: beiral da marcenaria → celeiro sul da Cidadela.
+
+## Capítulo 46 — A Sala de Traçagem (Mini-INGEST, 2026-11-13)
+
+- **Armas e equipamento**: tira a luva de couro rachada; palma calejada pelo punho da espada, com queimaduras e cicatrizes esbranquiçadas.
+- **Postura**: à direita de Nolan; bate o punho no peito ao receber a ordem.
+- **Fundo**: sala de traçagem; sai para atrelar a carruagem.

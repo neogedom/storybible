@@ -32,6 +32,7 @@ o outro concentra quem paga por eles.
   Quando o sinal falha, o quartzo permanece opaco e frio.
 - **Castelo de Quartzo**: Residência do Rei Genocydo.
 - **Guildas e mercado**: Ao redor da praça, sob as arcadas.
+- **Torre do Cran e vigilância da muralha** (cap. 46): na muralha voltada ao rio, a Torre do Cran abriga dois sentinelas dos Espadas da Lei no parapeito (um maneja balista leve, outro vigia o acampamento dos Clãs na planície sul). Há quebra de vigilância entre a terceira e a quarta vigília, depois da troca de guarda da muralha oeste (escalas mudadas por Valinor). Os canais de deságue das tinturarias, a sudeste, são vigiados por milicianos leviantares sem a marca da Chama.
 
 ## História
 
