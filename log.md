@@ -3590,3 +3590,8 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-12 (renanthao de Alavria e entrega do fragmento)
 
 - Caps. 4 e 6: renanthao de Alavria. Cap. 42: Mathias entrega o fragmento a Nolan.
+
+## 2026-11-13 (Mini-INGEST do cap. 46)
+
+- Criado `capitulos/capitulo-46.md` (POV Kate, ~84,7%). Visuais: Kate, Nolan, Lakand, Mathias, Ossan, Decian; "não aparece" para Mário, Mira e Saboc. Linha do cap. 46 e bloco de fronteira no `esquema-l1.md`; defesas da muralha em `lugares/metropole.md`; payoff de Lupe'i em `temas/sementes.md`.
+- Gatilho de checkpoint atingido: último registrado em 2026-09-18 (caps. 21-28), 18 capítulos atrás, e o cap. 46 fecha o bloco "Vilões se Aproximam". Oferecido ao autor, não executado.

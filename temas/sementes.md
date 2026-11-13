@@ -673,6 +673,7 @@ _Atualizar a cada INGEST de capítulo._
 - **Plantio no L1:** Cap. 14 — Lupe'i conta a Nolan que um estrangeiro chamado de Souhma está entre os daërunmeges em Saramant; Nolan decide ir atrás do rumor.
 - **Germinação anterior:** Cap. 39 — Lakand revela a Mário que o homem de casaco preto é Nolan Guenayer, juiz do Trono e conselheiro da Coroa. Isso permite a Mário associar o cargo quando ouve Orval chamar Lupe'i de conselheiro (cap. 41).
 - **Germinação e payoff no L1:** Durante uma visita de Lupe'i à Academia de Gus, Nolan se esconde para preservar o disfarce. Depois da invasão dos Clãs, Lupe'i o vê na sala de traçagem e pergunta se ele persegue o Souhma desde que recebeu a informação.
+- **Payoff confirmado (cap. 46):** Lupe'i confronta Nolan na sala de traçagem, cobrando a perseguição ao Souhma e o rastro de sangue; não afirma que Nolan assinou o contrato.
 - **Função:** Conectar o relato de Lupe'i à busca de Nolan e às consequências que alcançam Gus. Lupe'i não esperava os Clãs na Cidadela e pode cobrar de Nolan sua ligação com o Trono.
 - **Limite de causalidade:** Não afirmar que o relato de Lupe'i ou a perseguição pessoal de Nolan causaram o contrato dos Clãs. A Coroa é quem firmou o pacto; Lupe'i pode suspeitar ou responsabilizar Nolan sem que a disputa seja encerrada.
 

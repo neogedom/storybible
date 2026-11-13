@@ -241,6 +241,11 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: luz do dia, feira movimentada
 - Fundo: barracas de lona, carroças, fogueiras acesas no meio do dia
 
+## Capítulo 46 — A Sala de Traçagem (Mini-INGEST, 2026-11-13)
+
+- _Não aparece._ Levado pelos Clãs; só mencionado.
+
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

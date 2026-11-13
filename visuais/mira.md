@@ -34,3 +34,7 @@ timestamp: 2026-08-26
 - Desce com o bebê; a esposa do barão a recebe e leva as filhas para o quarto.
 - Nolan a vê acomodar Saboc num berço emprestado; não há mudança visual
   específica descrita para Mira.
+
+## Capítulo 46 — A Sala de Traçagem (Mini-INGEST, 2026-11-13)
+
+- _Não aparece._ Citada por Nolan, que ordena que ela vá com a carruagem.

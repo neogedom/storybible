@@ -71,7 +71,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 43       | Vilões se Aproximam                 | Kate         | ~74-75%                 | ~80,3%               | 2.108    |
 | 44       | Vilões se Aproximam                 | Mário        | ~75%                    | ~81,6%               | 1.780    |
 | 45       | Vilões se Aproximam                 | Kate         | ~75%                    | ~83,1%               | 2.107    |
-| 46       | Vilões se Aproximam (inferido)      | Kate         | —                      | a recalcular         | 2.186    |
+| 46       | Vilões se Aproximam                 | Kate         | —                      | ~84,7%               | 2.186    |
 | 47       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 2.150    |
 | 48       | Tudo Está Perdido (inferido)        | Mário        | —                      | a recalcular         | 1.632    |
 | 49       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 1.642    |
@@ -112,6 +112,12 @@ timestamp: 2026-09-10T12:00:00-03:00
 > confirmação dos Clãs saiu do cap. 43 e foi transferida para o ataque do
 > cap. 45. Contagens atuais: cap. 43, **2.108**; cap. 44, **1.780**; cap. 45,
 > **2.107**; acumulado até o cap. 45, **114.321 palavras (83,1%)**.
+
+> **Atualização 2026-11-13 — Mini-INGEST do cap. 46.** O manuscrito atual tem
+> **2.186 palavras** (contagem por tokens separados por espaço); acumulado dos
+> caps. 0–46 ≈ **116.507 palavras (84,7%)** na régua de 137.500, somando ao
+> total do cap. 45 da nota de 2026-11-08. Fecha em decisão (plano da travessia);
+> corte D, como o 45. Este Mini-INGEST não replaneja o mapa.
 
 > **Recontagem 2026-10-09, baseada nos manuscritos atuais.** A coluna
 > **Palavras** foi conferida nos arquivos `Livro 1/capituloN.md` com
@@ -1110,6 +1116,11 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 - **Lupe'i confronta Nolan (continuação no arquivo capitulo46.md):** Surpreso ao vê-lo na sala, pergunta se Nolan persegue o homem chamado de Souhma desde o rumor de Saramant que lhe contou. Lupe'i não esperava os Clãs na Cidadela; cobra a ligação de Nolan com o Trono, sem afirmar que ele assinou o contrato.
 - **A morte da ambição de Kate:** Diante do sacrifício voluntário de Mário, a ambição militar de Kate morre na cinza; junto com Lakand e os Artífices, passa a viver unicamente para resgatá-lo.
 - **Fecho:** Nolan fica em Gus para reunir Ossan e a escolta e planejar a travessia do Cran antes da partida; Kate decide resgatar Mário com Lakand e os artífices. Corte D.
+
+#### Capítulo 46 (PoV de Kate) — A Sala de Traçagem
+- **Confronto de Lupe'i:** cobra a Nolan o rastro de sangue desde Saramant e as mortes em Gerikhad; Nolan responde que o Trono tem contrato com os Clãs e que precisa do rapaz vivo.
+- **O plano:** Kate propõe descer o Cran no degelo; Nolan traça a entrada pelos canais de deságue na quebra de vigilância entre a terceira e a quarta vigília (escala alterada por Valinor). Nolan segue por terra com Mathias, Mira, Saboc e Ossan; Kate, Lakand, artífices e Decian vão de barcaça.
+- **Fecho:** decisão (plano fixado); próximo abre executando. Corte D, segundo D seguido (45 e 46): sinalizar ao passe de fechos.
 
 ---
 
