@@ -86,6 +86,13 @@
 - Paga: as promessas do próprio livro.
 - **Decisão do autor necessária**: quais sementes são pagas no L1.
 
+#### Correção de premissa (2026-11-13)
+
+- Os caps. 47 a 66 e o epílogo **já existem como rascunho** em `Livro 1/`. Os itens acima foram escritos como se fossem capítulos a escrever. Na prática, são revisões de texto existente.
+- Estado atual lido nos arquivos: cap. 47 abre na travessia do Cran, na madrugada; cap. 48 tem Mário na mula, com a forquilha de freixo no pescoço (POV de Mário, já em cativeiro); cap. 50 é a entrada de Mário na Metrópole, com a multidão pedindo cura; cap. 51 é a balsa no rio Cran.
+- Portanto, o item 1 (cativeiro de Mário no cap. 47) já está em parte no cap. 48, e o item 3 (travessia) já está nos caps. 47 e 51. Antes de decidir, é preciso conferir cada item contra o texto dos caps. 47 a 51.
+- **A cena de cura de um canibal não existe em nenhum lugar** (caps. 1 a 66, epílogo, `storybible/capitulos/` e `capitulos/cortados/`). Se for para escrevê-la, é item novo.
+
 #### Decisões do autor (registradas em 2026-11-13)
 
 - **Item 5 (devolver a mesa de Orval no cap. 48): aceito.** Mário lembra concretamente a mesa da cátedra oferecida no cap. 41; a recusa do cap. 44 passa a ter peso.
