@@ -33,7 +33,10 @@ um preço.
   designar todos os vampiros — o termo técnico nasce do nome do primeiro
   transformado. Ver [Lordes Defuntos](/conceitos/lordes-defuntos.md).
 - **Apoteose:** Promessa de elevação divina que Terbs vende a Genocydo
-  através de Benjamim.
+  através de Benjamim. **Condições (cap. 47, 2026-11-14):** a cessão do Reino
+  inteiro aos Clãs é "mais uma condição" da apoteose; Koda só a viu (exigiu
+  selo) e sabe que há outras. A blasfêmia pública de Mário é a condição não
+  nomeada no cap. 47.
 
 ## Agenda sobre Mário (correção 2026-08-10)
 

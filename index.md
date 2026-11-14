@@ -79,6 +79,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Layla — Timeline Visual](visuais/layla.md)
 - [Mathias — Registro Visual](visuais/mathias.md)
 - [Devour — Registro Visual](visuais/devour.md)
+- [Valinor — Timeline Visual](visuais/valinor.md)
+- [Koda — Timeline Visual](visuais/koda.md)
 
 ## Lugares
 

@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-14 (Mini-INGEST do cap. 47)
+
+- Cap. 47 fechado (3.135 palavras; ~87,0%). Criada `capitulos/capitulo-47.md`; visuais de Nolan, Mathias, Ossan, Mira, Saboc e Benjamim atualizados; criados `visuais/valinor.md` e `visuais/koda.md`; "não aparece" em Kate, Mário, Lakand, Decian e Genocydo.
+- Sementes: #29 aplicada; novas #33 ("mais uma condição" da apoteose) e #34 (o fragmento galvânico e a lavra de Alavria); #26 (Saboc) com a germinação do L1. Canon duro em `conceitos/terbs.md`, `personagens/benjamim.md` e `personagens/genocydo.md`.
+- Fecho: Corte D (consequência); 45, 46 e 47 fecham em D, três seguidos (o POV gira). Observação para o passe de fechos. Próximo gatilho de checkpoint: o fim do beat Tudo Está Perdido ou 10 capítulos desde o checkpoint de 37 a 46 (2026-11-13).
+
 ## 2026-11-14 (Mapa do Reino: lugares, divisas, Rifte, Opium e Saramant)
 
 - Decisões do autor, registradas em `decisoes/2026-11-14-mapa-do-reino-lugares-e-divisas.md`: nomes fora do Reino (Landorp, Garyun, Vitysh, Velho Continente, Alavria e Gondor) só como divisa ou seta; Valoran, Duannis e Ilton como cidades do Reino; divisas com Gondor (oeste), Clãs (leste) e fronteira aberta ao norte, com fortes de guarnição; Rifte como enclave do Templo dentro do Reino; Opium na ponta oeste da mata; Saramant alargada sobre as terras dos daërunmeges e além da divisa; Campo dos Moribundos no mapa.

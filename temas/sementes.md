@@ -642,6 +642,7 @@ _Atualizar a cada INGEST de capítulo._
 
 - **Plantio:** L1, caps. 4, 19, 20 e 22 (a ressurreição na cela; o filho de Nolan e Dagmar que une as linhagens Guenayer e Addorbek).
 - **Desenvolvimento no L2:** Saboc cresce na corte da Metrópole junto aos filhos de Mário e Kate (os gêmeos Bernardo e Stella). Sendo alguns anos mais velho (11-13 anos), torna-se amigo leal e protetor fraternal deles.
+- **Germinação no L1 (cap. 47, 2026-11-14):** Saboc entra vivo na Metrópole com Mira e Valinor o conhece. Para a corte, sobreviveu naturalmente ao parto; só Nuh sabe da ressurreição (soube pelo escriba), fora do texto.
 - **Germinação / Payoff:** No final do L2, Mário abdica do trono temporal para seguir como peregrino e recusa coroar seus filhos na corte corrompida (entregando-os à fé do Remanescente). O trono secular é assumido por Saboc. A ironia fecha a ambição de Nolan: sua linhagem governa a Metrópole não pelo pacto sujo com Terbs, mas porque Mário ressuscitou Saboc por pura graça anos antes em Saramant.
 
 ## 27. O Destino dos Inquiridores e o Sinal Cego (canon 2026-10-17)
@@ -679,6 +680,21 @@ _Atualizar a cada INGEST de capítulo._
 - **Payoff confirmado (cap. 46):** Lupe'i confronta Nolan na sala de traçagem, cobrando a perseguição ao Souhma e o rastro de sangue; não afirma que Nolan assinou o contrato.
 - **Função:** Conectar o relato de Lupe'i à busca de Nolan e às consequências que alcançam Gus. Lupe'i não esperava os Clãs na Cidadela e pode cobrar de Nolan sua ligação com o Trono.
 - **Limite de causalidade:** Não afirmar que o relato de Lupe'i ou a perseguição pessoal de Nolan causaram o contrato dos Clãs. A Coroa é quem firmou o pacto; Lupe'i pode suspeitar ou responsabilizar Nolan sem que a disputa seja encerrada.
+
+## 33. "Mais uma condição": as condições da apoteose (canon 2026-11-14)
+
+- **Plantio no L1 (cap. 47, POV Nolan):** Koda diz que Benjamim trouxe a cessão do Reino aos Clãs como "mais uma condição da apoteose" e que o Rei assinou sem o Conselho. Koda só viu essa condição, porque exigiu selo e passou pela mesa dele; sabe que as outras existem. Nolan registra que "mais uma condição" quer dizer que há outras.
+- **Surpresa de escala:** Nolan sabia de um acordo com os Clãs, mas imaginava só Saramant, "um pedaço de mato"; foi o Reino inteiro.
+- **Payoff no L1:** Nolan descobre os termos do pacto ao confrontar Benjamim (esquema, Tudo Está Perdido) e cobra satisfação de Genocydo em um próximo capítulo dele. A condição da blasfêmia pública de Mário vem à tona nessa sequência.
+- **Limite:** a blasfêmia não é nomeada no cap. 47, e Nolan não sabe que é ela.
+
+## 34. O fragmento galvânico e a lavra de Alavria (canon 2026-11-12; aplicado ao cap. 47 em 2026-11-14)
+
+- **Plantio no L1 (cap. 42):** Mathias entrega a Nolan um fragmento das ruínas da Mina: núcleo de metal escuro, fios finos em espiral e uma marca rasa, de traços retos e um círculo partido. Nolan não reconhece o desenho.
+- **Germinação (cap. 47):** Nolan o mostra a Koda: "A lavra é a mesma dos diapasões que você mandou importar de Alavria"; acusa Alavria, por inferência de lavra mais importação (cap. 4), não por prova. O metal é **galvânico, não renanthao** (decisão do autor, 2026-11-14): sem a propriedade antimagia. Koda desvia ("Alavria fica a semanas pelo mar") e leva a mão ao colete, onde guarda os despachos do porto sul.
+- **Reforço:** Nolan lembra a oferta antiga de Alavria na ocupação de Gondor (ajuda para expulsar os gondorianos em troca de o Reino virar província), recusada pelos Guenayer.
+- **Payoff:** a confissão parcial de Koda (cap. 60) e a revelação das cargas e da vanguarda de Alavria (caps. finais).
+- **Limite:** o fragmento não é prova; Nolan guarda a reação de Koda "no arquivo mental das contradições do Trono".
 
 ## Sementes dos capítulos 34 a 38 (mini-INGEST refeito, 2026-11-12)
 
