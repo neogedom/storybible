@@ -3685,3 +3685,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-13 (branch de trabalho)
 
 - Autor decidiu centralizar o trabalho com o Claude na branch `trabalho`, nos dois repositórios, por cerca de um mês; se der certo, ela assume a `main`. Regras e estado das branches antigas em `decisoes/2026-11-13-branch-de-trabalho.md`.
+
+## 2026-11-14 (fluxo de PR por sessão)
+
+- Autor decidiu: a main é a fonte; cada sessão abre PR para a main quando pedir; backup em `backup/main-2026-11-14`; `.github` (e `.kilo`, no Livro) ficam como na main. A branch `trabalho` foi superada. Decisão em `decisoes/2026-11-14-fluxo-pr-por-sessao.md`.

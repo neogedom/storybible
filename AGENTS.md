@@ -20,9 +20,12 @@ consistência.
 
 ---
 
-## Branch de trabalho (teste de um mês, a partir de 2026-11-13)
+## Fluxo de trabalho (desde 2026-11-14)
 
-Todo o trabalho com o Claude fica na branch **`trabalho`**, neste repositório e em `../livro/`. A `main` não é tocada durante o teste. Comece a sessão na `trabalho`, commite e dê push nela (autorizado pelo autor); integre nela qualquer branch própria da sessão (`ccr-...`); não crie outras branches nem PRs sem pedido. Detalhes: `decisoes/2026-11-13-branch-de-trabalho.md`.
+- A `main` é a fonte. Cada sessão trabalha na sua própria branch (`ccr-...`). Quando o autor pedir, a sessão abre **um PR para a `main`**, mesclado com merge commit; depois do merge, a branch da sessão é apagada.
+- A `backup/main-2026-11-14` guarda a `main` antes deste fluxo. Para voltar atrás, a `main` é reposta a partir dela, com o autor.
+- Não alterar `.github/`: `copilot-instructions.md` fica como está na `main`.
+- Detalhes e pendências: `decisoes/2026-11-14-fluxo-pr-por-sessao.md`.
 
 ---
 

@@ -8,7 +8,7 @@ timestamp: 2026-11-13T12:00:00-03:00
 
 # Branch de trabalho única (teste de um mês)
 
-Status: decidido pelo autor em 2026-11-13. Motivo: cada sessão do Claude cria a própria branch (`ccr-...`), e isso vira bagunça de branches.
+Status: decidido pelo autor em 2026-11-13. **Superada em 2026-11-14** por `decisoes/2026-11-14-fluxo-pr-por-sessao.md`. Motivo: cada sessão do Claude cria a própria branch (`ccr-...`), e isso vira bagunça de branches.
 
 ## Decisão
 
