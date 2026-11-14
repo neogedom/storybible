@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-14 (Epílogo corrigido e proposta da trajetória dos Clãs)
+
+- Epílogo: tirados "do bebê deixado num celeiro de palha" e "não tinha mais família", que contradizem Saboc vivo; a linha agora diz "nem sogro, nem corte. Só o filho, pequeno demais para saber de qualquer uma daquelas perdas".
+- Epílogo: as fogueiras dos Clãs não marcham mais "em direção às serras de Alavria" (Alavria é além-mar); os sobreviventes continuam nos becos do Gerdialias, como nos caps. 64 e 66.
+- Proposta da trajetória dos Clãs até a Metrópole registrada no inbox, a avaliar.
+
 ## 2026-11-14 (Cap. 47: pendências resolvidas pelo autor)
 
 - Cap. 56, linha 55: "Matou Dagmar e o meu filho" passa a "Matou Dagmar e tentou matar o meu filho", porque Saboc está vivo.

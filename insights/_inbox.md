@@ -253,3 +253,12 @@
 - **Capítulos afetados**: 47 (ou 48 a 53).
 - **Status**: aplicada no cap. 47 em 2026-11-14, com a cessão como "mais uma condição da apoteose" e a surpresa de o acordo ser o Reino inteiro, não Saramant. Ver `temas/sementes.md` #29.
 - **Destino**: fechado.
+
+### 2026-11-14: Trajetória dos Clãs até a Metrópole (proposta a avaliar)
+
+- **Data**: 2026-11-14
+- **Ideia (uma linha)**: o Cran separa duas margens. Nolan desce pela margem oeste (estrada real: Mina, Tronk, Estalagem do Vau, estrada de Saramant, ponte de pedra, portão oeste). Os Clãs cruzam o Cran por um vau do alto curso, perto de Gus, e descem pela margem leste, fora das estradas, até o acampamento da planície sul e o Portão Leste.
+- **Capítulos afetados**: 45, 47 (linha 1), 48 (a curva do Cran), 50, 51, 53 (portão sul).
+- **Status**: capturada (aguarda avaliação do autor)
+- **Destino**: L1, antes do congelamento.
+- **Pontos a decidir**: como a margem leste chega ao Portão Leste, se a cidade é ilha; e a barcaça de Kate, que desce rente à mesma margem (cap. 46).
