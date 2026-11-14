@@ -9,7 +9,7 @@ timestamp: 2026-08-13
 # Estratégia de Publicação do Livro 1
 
 Decisão formal fechada em 2026-08-13 (handoff entre sessões).
-Fonte viva e completa: `Livro/.github/handoff/estado-estrategico.md` (consultar
+Fonte viva e completa: `Livro/docs/handoff/estado-estrategico.md` (consultar
 antes de qualquer copy, produção ou planejamento).
 
 **Norte do projeto (2026-08-13):** terminar de contar o L1 é o objetivo primário —

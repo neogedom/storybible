@@ -241,6 +241,11 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: luz do dia, feira movimentada
 - Fundo: barracas de lona, carroças, fogueiras acesas no meio do dia
 
+## Capítulo 46 — A Sala de Traçagem (Mini-INGEST, 2026-11-13)
+
+- _Não aparece._ Levado pelos Clãs; só mencionado.
+
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->
@@ -250,3 +255,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## Prompt de Imagem (modelo)
 
 `Mário, cabelo preto curto desgrenhado, pele clara pálida, [roupas do capítulo], expressão de [emoção], iluminação [tipo], fundo [descrição] — tons #2F2E33, #D4C5A9, #4A6B8C, #6B4226, #C0C0C0`
+
+## Capítulos 34 a 38 (mini-INGEST refeito, 2026-11-12)
+- Cap. 34: camisa limpa de estopa crua e botas de couro duro, dadas pelos convertidos; crosta de poeira lavada.
+- Caps. 36 e 37: suor e fuligem no rosto, para disfarçar a pele limpa; corda e placa de chumbo no pescoço.
+- Cap. 38: vomita bile e poeira; olhos dilatados de pó.

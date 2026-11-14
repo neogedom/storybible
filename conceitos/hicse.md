@@ -76,7 +76,7 @@ consentimento dele.
   brasa nela; Kate então já não consegue descartar a fala de Estruzzo. É a
   leitura somática de Kate, não uma voz, posse ou diálogo com a deusa.
 - **Consequência com a Ordem:** com o selo rompido, o **Sinal perde o objeto**
-  (não "fica mudo" — ver `decisoes/sinal-permanentemente-instavel.md`). A
+  e **fica mudo, de forma definitiva** (canon 2026-11-13: ver `conceitos/sinal-de-vonos.md`). A
   Ordem caça com um instrumento morto — e é por isso que querem **enquadrar**
   o que não conseguem mais medir. Regra completa em
   `conceitos/sinal-de-vonos.md` ("Por que os Inquiridores nunca o alcançam").
@@ -90,3 +90,9 @@ consentimento dele.
 - [Vonos](/conceitos/vonos.md) — Quem a aprisionou
 - [Terbs](/conceitos/terbs.md) — Quem guardou a chave
 - [Cosmologia](/conceitos/cosmologia.md) — Hierarquia divina
+
+## Papel no L2 (decidido em 2026-11-12)
+
+- Hícse reúne seres de várias raças e forma uma nova Hoste da Purgação, que é a própria coalizão. Ver `decisoes/2026-11-12-l2-coalizao-hicse.md`.
+
+- Terbs não é aliado de Hícse: ver `terbs.md` (jogo duplo, decidido em 2026-11-12).

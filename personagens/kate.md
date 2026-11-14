@@ -4,7 +4,7 @@ title: Kate
 description: Caçadora leviantar gnock (nascida sem poder), protetora relutante de Mário. Vínculo ambíguo entre dever e escolha.
 tags: [protagonista, leviantar, gnock, cacadora, L1]
 resource: https://github.com/neogedom/storybible/blob/main/personagens/kate.md
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-13T12:00:00-03:00
 ---
 
 ## Visão Geral
@@ -14,8 +14,11 @@ elemental, o que a torna única entre os leviantares. Essa ausência de magia
 no sangue é também sua maior arma: é imune ao efeito mágico das armas
 geométricas dos Inquiridores — o fio ainda a fere; o apodrecimento do
 renanthao, não. Inicialmente encarregada de capturar
-Mário, ela desenvolve um vínculo ambíguo com ele — não romântico, não maternal,
-mas algo entre proteção, dívida e escolha própria.
+Mário, ela desenvolve um vínculo ambíguo com ele — não maternal; entre
+proteção, dívida e escolha própria, com uma proximidade que cresce sem nome
+no L1 (ela a nega nos caps. 25 e 35) e vira casamento no L2 (decisão 2026-11-13).
+
+**Sobrenome:** Daggon' (com apóstrofo; aparece no cap. 6 e no cap. 18).
 
 Kate é o **pé no chão** da história. Enquanto Mário questiona o sentido do
 universo e Nolan calcula variáveis, Kate age. Ela não tem tempo para filosofia
@@ -94,7 +97,7 @@ ferida: "vão me comprar de novo."
 ### Evolução
 
 - **L1**: escolhe "Os dois" por instinto, não por fé; quer usar Mário como
-  estopim da guerra (cap. 21) — repete o padrão de quem a usou, sem perceber.
+  estopim da guerra (cap. 21) — repete o padrão de quem a usou, sem perceber. O vínculo com Mário cresce sem nome ao longo do L1 (gestos, não declaração); a separação do cap. 45 mostra o que ele já é (decisão 2026-11-13; ver `insights/_inbox.md`, item 8).
 - **L2**: casa com Mário e tem os gêmeos Bernardo e Stella — o primeiro ato
   de RECEBER (amor, lar, filhos) sem preço. Morre guerreira (~75%) deixando
   os gêmeos órfãos: a mulher que temia ser abandonada é a que parte — a
@@ -275,3 +278,8 @@ _Registrar citações marcantes durante o INGEST dos capítulos._
 
 **Prompt de referência (imagem-retrato do arquivo):**
 Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de uma caçadora diante de um fundo escuro de floresta noturna em sombras. Kate, mulher leviantar gnock de 25-32 anos, cabelo longo escuro desgrenhado, olhos escuros, pele clara, porte atlético e ágil, couro remendado de caçadora em camadas rasgadas, faca de caça escura à vista, expressão fria e alerta com um traço de cansaço e desconfiança. Iluminação: chiaroscuro dramático com luz âmbar de tocha e luar frio. Atmosfera: de prontidão, selvagem e contida. Paleta de cores: marrom escuro, couro, bege sujo, verde musgo e âmbar de tocha. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.
+
+## Fatos duros — L1 (canon 2026-11-12)
+
+- **Cap. 37**: Kate ordenou a morte do barão da Mina. Ato não mostrado em cena; revelado ao leitor pelo contexto (ver fichas dos caps. 37 e 38).
+- Investiga a origem das cargas em Gus (cap. 43). Revelação da origem: capítulos finais.

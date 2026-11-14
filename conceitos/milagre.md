@@ -236,3 +236,7 @@ pela jurisdição).
 - [Cap. 20 — O Bebê](/capitulos/capitulo-20.md)
 - [Mário](/personagens/mario.md) — Mecânica da Voz
 - [Dagmar](/personagens/dagmar.md) — o custo
+
+## Registro de custo: cap. 34 (canon 2026-11-12)
+
+- A cura da menina não tem efeito físico em Mário. O custo aparece como medo (tremor) e como silêncio da Voz logo depois do gesto. Motivo: o milagre vem de Deus e não é mecanismo do personagem; exaustão ou sangramento o tornariam poder do corpo dele.

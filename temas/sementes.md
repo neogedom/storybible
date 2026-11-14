@@ -648,7 +648,7 @@ _Atualizar a cada INGEST de capítulo._
 
 - **Plantio:** L1, caps. 27, 28 e 30 (o combate na bacia, a recusa do escriba a Nolan, e a morte do Inquiridor da cicatriz por Gaviorn'l).
 - **Payoff no L1 (Ato 3):** No retorno de Nolan à Metrópole, ele confronta o Sumo Sacerdote Nuh d'Teraghar no Templo de Vonos para cobrar a autoridade negada. Nuh revela que a patrulha voltou do sul derrotada, o líder morreu, o Sinal no Monólito perdeu a calibração de busca e o relatório acusa que uma caçadora ferida por lâmina de ofício não apodreceu.
-- **Germinação:** L2 — A Ordem dos Inquiridores opera sem eixo até recrutar Charles ("Cão da Inquisição") para caçar a anomalia de Kate.
+- **Germinação:** L2 — A Ordem dos Inquiridores opera sem o Sinal (mudo e definitivo desde a libertação de Hícse, cap. 30), por testemunho e registro escrito, e segue atrás da anomalia de Kate (#19). Charles não tem relação com o Sinal nem com esta semente (decisão do autor, 2026-11-13); o "Cão da Inquisição" do L2 é outro fio.
 
 ## 28. O Rei Docente e a Cátedra de Tradução da Bíblia de Kraviam (canon 2026-10-21)
 
@@ -673,5 +673,25 @@ _Atualizar a cada INGEST de capítulo._
 - **Plantio no L1:** Cap. 14 — Lupe'i conta a Nolan que um estrangeiro chamado de Souhma está entre os daërunmeges em Saramant; Nolan decide ir atrás do rumor.
 - **Germinação anterior:** Cap. 39 — Lakand revela a Mário que o homem de casaco preto é Nolan Guenayer, juiz do Trono e conselheiro da Coroa. Isso permite a Mário associar o cargo quando ouve Orval chamar Lupe'i de conselheiro (cap. 41).
 - **Germinação e payoff no L1:** Durante uma visita de Lupe'i à Academia de Gus, Nolan se esconde para preservar o disfarce. Depois da invasão dos Clãs, Lupe'i o vê na sala de traçagem e pergunta se ele persegue o Souhma desde que recebeu a informação.
+- **Payoff confirmado (cap. 46):** Lupe'i confronta Nolan na sala de traçagem, cobrando a perseguição ao Souhma e o rastro de sangue; não afirma que Nolan assinou o contrato.
 - **Função:** Conectar o relato de Lupe'i à busca de Nolan e às consequências que alcançam Gus. Lupe'i não esperava os Clãs na Cidadela e pode cobrar de Nolan sua ligação com o Trono.
 - **Limite de causalidade:** Não afirmar que o relato de Lupe'i ou a perseguição pessoal de Nolan causaram o contrato dos Clãs. A Coroa é quem firmou o pacto; Lupe'i pode suspeitar ou responsabilizar Nolan sem que a disputa seja encerrada.
+
+## Sementes dos capítulos 34 a 38 (mini-INGEST refeito, 2026-11-12)
+
+> Status: a confirmar pelo autor. Conferir antes de tratar como canon.
+
+- **Rampillas reativados no sul** (cap. 35): o canon já diz que foram enviados por ordem de Nolan, através da raiz-mestra (`conceitos/rampillas.md`). Revelado no texto no cap. 40 (POV de Nolan): foi ele quem deu a ordem, na marcha ao norte. Decidido em 2026-11-12.
+- **Etemenanki** (cap. 37, semente #25): torre escalonada, serpente alada e inscrição cuneiforme numa galeria da Mina. Mário reconhece o nome sem saber por quê. **Semente crossbook ligada à Torre de Babel; pagamento no L2.**
+- **Cargas nos pilares** (caps. 37 a 38): fogo de rocha que derruba a Mina. **Canon (2026-11-12): plantadas pelos alavrianos.** Setup no texto: cap. 40 (Nolan conclui que quem plantou sabia o que fazia) e cap. 43 (Kate pergunta a artífices em Gus como a mina desaba; resposta: fogo de rocha nos pilares internos). **Pagamento: revelação nos capítulos finais (a localizar).**
+- **Maxilar quadrado** (caps. 34 a 38): o homem recrutado por Kate e batizado por Mário é o executor do barão. Ele fecha um arco de conversão e violência.
+
+## 32. O Rapaz Curado dos Clãs (canon 2026-11-13)
+
+- **Plantio executado (cap. 48, POV Mário):** na marcha dos Clãs, uma carroça tomba no Despenhadeiro das Cruzes e esmaga a coxa de um rapaz jovem (peito nu coberto de cinza ritual, olhos claros). Karrk vai matá-lo a faca. Mário pede que lhe desatem os braços e o cura por reflexo. O milagre não converte ninguém, Mário é amarrado mais apertado e a Voz não diz nada. O rapaz não tem nome no texto.
+- **Payoff aceito para o L1 (cap. 63, POV Mário, na Garfo):** entre os guerreiros dos Clãs reunidos junto às arcadas, Mário reconhece o rapaz da carroça, de pé sobre as duas pernas, a mão aberta sobre a coxa. Ele vê o homem que o curou ser torturado, sem se ajoelhar e sem agir. Linha de referência: "Entre os guerreiros das arcadas, Mário reconheceu o rapaz da carroça, de pé sobre as duas pernas, a mão aberta sobre a coxa. Ele não se ajoelhava nem desviava os olhos."
+- **Caps. 64 e 66:** sem alteração. O cap. 66 já diz que os sobreviventes "não se ajoelharam diante de Mário"; o destino do rapaz fica em aberto.
+- **Função:** realiza a tese do cap. 48 (o milagre não é recompensado; a cruz como o lugar onde cravam os cravos na mão que acabou de curá-los) sem pagar o milagre, e dá um rosto aos Clãs.
+- **Limite:** o rapaz não age a favor de Mário, não se ajoelha e não se converte, e nenhuma reação dos Clãs muda por causa dele. Sem nome por ora: só se alguém o disser em cena (a velha de rosto tatuado do cap. 48 é a candidata natural); deixar para o L2 se ele voltar a importar.
+- **Germinação (L2):** pode voltar entre os guerreiros da Hoste de Hícse. Possibilidade, sem compromisso.
+

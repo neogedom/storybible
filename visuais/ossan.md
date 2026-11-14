@@ -52,3 +52,10 @@ timestamp: 2026-08-26
 - **Objeto**: mantém o caixote junto ao peito.
 - **Ação**: some do beiral durante a luta e espera no celeiro sul com a escolta; Mathias é enviado para buscá-lo.
 - **Fundo**: marcenaria → celeiro sul da Cidadela.
+
+## Capítulo 46 — A Sala de Traçagem (Mini-INGEST, 2026-11-13)
+
+- **Vestimenta**: túnica verde-escura; mãos mergulhadas nas mangas.
+- **Aparência**: pés descalços, deslizando sem ruído na pedra.
+- **Postura**: encolhido a um canto; voz baixa como folhas secas; olhos baixos.
+- **Fundo**: sala de traçagem; sai com Mathias para a carruagem.

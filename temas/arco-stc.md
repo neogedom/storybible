@@ -69,13 +69,13 @@ na Cidadela de Gus.
 
 **A escrever**
 
-Caça a Mário; cidadela de Gus massacrada.
+**Redefinido em 2026-11-13 (proposta do checkpoint caps. 37-46; decisão pendente do autor).** O beat foi escrito nos caps. 39 a 43 (chegada a Gus e Decian, Nolan avalia o terreno, a tentação de Orval, a infiltração de Nolan, Estruzzo e o ultimato) e consumiu ~19k palavras (~13,9% do livro, contra ~7% planejado). A Cidadela de Gus **não foi massacrada**: a entrega de Mário fez a horda recuar. Gus paga pouco; o custo da entrega fica para os caps. 47 em diante.
 
 ## Tudo Está Perdido (~75%)
 
 **A escrever**
 
-Mário se entrega. Kate mata Gaviorn'l → liberta Hícse. Clãs revelam promessa de Terbs.
+**Já escrito, nos caps. 43 a 46 (antecipado):** Clãs revelam a promessa de Terbs (cap. 43); Mário se entrega (caps. 44-45); a coalizão Kate/Nolan/artífices planeja a travessia do Cran (cap. 46). **Falta no beat (caps. 47+):** o custo humano de Gus e da entrega, uma perda real (o "sopro de morte"), Mário de volta à página em cativeiro, e o plano de Nolan falhando visivelmente. Kate/Gaviorn'l/Hícse: ver caps. 43 e 45 antes de dar o beat por cumprido.
 
 ## Noite Escura (~75-80%)
 
@@ -105,17 +105,8 @@ Coroação feia. Pacto de Nolan com Terbs.
 
 ## Progressão por Capítulo
 
-| Capítulo | Beat STC                   | POV                    | Status        |
-| -------- | -------------------------- | ---------------------- | ------------- |
-| 0        | Imagem de Abertura         | Nolan + Kate           | ✅ Escrito    |
-| 1        | Configuração               | Mário                  | ✅ Escrito    |
-| 2        | Configuração / Catalisador | Mário                  | ✅ Escrito    |
-| 3        | Catalisador / Debate       | —                      | ✅ Escrito    |
-| 4-18     | Debate                     | —                      | ✅ Escrito    |
-| 19-20    | Break Into 2               | Nolan (19) + Kate (20) | ✅ Escrito    |
-| 21-29    | Jogos                      | —                      | ✅ Escrito    |
-| 30-35    | Jogos (restante)           | —                      | 📝 A escrever |
-| 36       | Midpoint (Ponto Central)   | Mário                  | 📝 A escrever |
-| 37       | Pós-Mina (a leitura da ruína) | Nolan               | 📝 A escrever |
+A progressão por capítulo (beat, POV, palavras e % real) vive só em `temas/esquema-l1.md`, na seção **"Progressão por Capítulo (Escritos)"**. Não duplicar aqui.
 
-_Atualizado a cada INGEST de capítulo._
+→ [Ver a progressão no esquema](esquema-l1.md#progressão-por-capítulo-escritos)
+
+Capítulos 47 a 66 e epílogo: rascunho em revisão. Beats e POVs desses capítulos estão marcados como inferidos no esquema, até você confirmar.

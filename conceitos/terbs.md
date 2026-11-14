@@ -50,9 +50,20 @@ instrumento; o pagamento nunca será entregue. Terbs opera via **Benjamim**
 (clérigo infiltrado) — que intermedeia o contrato e alimenta a paranoia de
 Genocydo com a promessa.
 
+**Quem assinou (canon 2026-11-13):** Genocydo assinou a entrega das terras
+aos Clãs de Sangue (cap. 43). Estruzzo o chama de "Rei fantoche" porque
+Terbs o move por meio de Benjamim Cressadar. Nolan não é signatário desse
+contrato; o pacto dele com Terbs, no final do L1, é um evento separado.
+
 ## Relações
 
 - [Benjamim](/personagens/benjamim.md) — Servo direto, clérigo infiltrado
 - [Vonos](/conceitos/vonos.md) — Aliado temporário na Guerra Milenar
 - [Hícse](/conceitos/hicse.md) — Chave de libertação guardada por Terbs
 - [Cosmologia](/conceitos/cosmologia.md) — Hierarquia divina
+
+## Jogo duplo (decidido em 2026-11-12)
+
+- Terbs sempre foi contra Javé e segue os próprios interesses. Não é aliado de Hícse: os métodos dela atrapalham os planos dele.
+- Quando Vonos e Lunus começaram a trazer terráqueos para plantar uma semente diferente da de Nachash, para governar, Terbs fingiu estar do lado deles, mas agia contra eles.
+- A enganação que ele patrocinou a Genocydo prova esse método.

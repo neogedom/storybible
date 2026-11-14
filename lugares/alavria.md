@@ -55,3 +55,14 @@ o mundo conhecido para além de Ornick.
   a Metrópole da invasão
 - [Castelo de Devour](castelo-devour.md) — Posição estratégica em Saramant,
   potencial cabeça de ponte alavriana
+
+## Cargas da Mina (canon 2026-11-12)
+
+- O destacamento infiltrado plantou as cargas de fogo de rocha nos pilares da Mina de Quartzo (caps. 37 a 38). Compatível com o domínio de Renath (engenharia e condução galvânica).
+- Revelação ao leitor: capítulos finais do L1. Motivo a definir na revelação.
+- Varek, comandante da vanguarda, morre com o destacamento no cap. 66. Antes disso, ele é um canal possível para a confissão.
+
+## Renanthao e fragmento (decidido em 2026-11-12)
+
+- O renanthao vem de Alavria, por mar (caps. 4 e 6 foram ajustados). Renath, patrono da metalurgia, dá nome ao metal.
+- O fragmento de condutor galvânico com marca de Renath é entregue a Nolan por Mathias no cap. 42, recolhido nas ruínas da Mina.

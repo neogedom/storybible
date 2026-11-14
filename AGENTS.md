@@ -20,6 +20,15 @@ consistência.
 
 ---
 
+## Fluxo de trabalho (desde 2026-11-14)
+
+- A `main` é a fonte. Cada sessão trabalha na sua própria branch (`ccr-...`). Quando o autor pedir, a sessão abre **um PR para a `main`**, mesclado com merge commit; depois do merge, a branch da sessão é apagada.
+- A `backup/main-2026-11-14` guarda a `main` antes deste fluxo. Para voltar atrás, a `main` é reposta a partir dela, com o autor.
+- Não alterar `.github/`: `copilot-instructions.md` fica como está na `main`.
+- Detalhes e pendências: `decisoes/2026-11-14-fluxo-pr-por-sessao.md`.
+
+---
+
 ## Arquitetura
 
 ```
@@ -89,16 +98,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Operações
 
-### INGEST — Finalizar capítulo
+### INGEST (Mini-INGEST e INGEST completo)
 
-Disparado pelo usuário com o prompt **"Finalizar capítulo X"**.
+Disparado pela skill **`/finalizar-capitulo X`** (Mini-INGEST, modo privado) ou **`/ingest-completo X`** (INGEST completo, congelamento).
 
 O protocolo detalhado está em `protocolo-ingest.md`. Resumo:
 
 > **Dois modos (ver `protocolo-ingest.md`):**
-> - **Mini-INGEST (modo privado)** — gatilho "cap. X pronto"; roda a cada
+> - **Mini-INGEST (modo privado)** — gatilho "cap. X pronto" ou `/finalizar-capitulo X`; roda a cada
 >   capítulo fechado durante a escrita privada do L1; só fatos duros.
-> - **INGEST completo (congelamento)** — gatilho "Finalizar capítulo X";
+> - **INGEST completo (congelamento)** — skill `/ingest-completo X`;
 >   enriquece os Mini-INGESTs; inclui LINT e análise de arco.
 
 1. Ler capítulo de `neogedom/livro/Livro 1/capituloX.md`
@@ -130,7 +139,7 @@ Durante qualquer conversa no chat, o agente DEVE detectar automaticamente:
 
 ### QUERY — Consultar a storybible
 
-Disparado pelo usuário com o prompt **"Query: [pergunta]"**.
+Disparado pela skill **`/query-storybible [pergunta]`**.
 
 1. Ler `index.md` para localizar páginas relevantes
 2. Navegar por subíndices e links entre conceitos
@@ -140,7 +149,7 @@ Disparado pelo usuário com o prompt **"Query: [pergunta]"**.
 
 ### LINT — Verificar saúde da wiki
 
-Disparado pelo usuário com **"Lintar storybible"** (ou automaticamente pós-INGEST).
+Disparado pela skill **`/lint-storybible`** (ou automaticamente pós-INGEST).
 
 Verificar:
 
@@ -180,13 +189,14 @@ Verificar:
 
 ## Prompts do Usuário
 
-| Você diz                            | O agente faz                                                                                                             |
+| Comando (repo `livro`, Claude)      | O agente faz                                                                                                             |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| "Iniciar revisão do capítulo X"     | @Arquiteto de Densidade → @Guardião de Coerência → @Revisor Linguístico → extrai narração audiochapter (no repo `livro`) |
-| "Finalizar capítulo X"              | INGEST: lê capítulo em `neogedom/livro`, extrai fatos, atualiza storybible, LINT automático                              |
-| "Lintar storybible"                 | LINT completo: estrutura, links, coerência narrativa, coerência visual, lacunas                                          |
-| "Query: [pergunta]"                 | Navega índice, lê docs, responde com citações                                                                            |
-| "Preparar capítulo X para Substack" | LINT visual → gera prompt de imagem + show notes + roteiro social media                                                  |
+| `/revisar-capitulo X`               | Ciclo de revisão, em ordem: subagentes `arquiteto-densidade` → `guardiao-coerencia` → `revisor-linguistico` |
+| `/finalizar-capitulo X`             | Mini-INGEST do capítulo fechado (modo privado): ficha, visuais, canon duro, esquema e log. Para o INGEST completo, use `/ingest-completo X` |
+| `/lint-storybible`                  | LINT completo: estrutura, links, coerência narrativa, coerência visual, lacunas |
+| `/query-storybible [pergunta]`      | Navega índice, lê docs, responde com citações |
+| `/ingest-completo X`               | INGEST completo (congelamento): fatos, personagens, visuais, conceitos, sementes e LINT |
+| Publicação e áudio                  | Arquivados em `docs/arquivo/skills/` (repo `livro`), por pausa da publicação. Ver `docs/handoff/estado-estrategico.md` |
 
 ---
 
@@ -194,9 +204,9 @@ Verificar:
 
 | Momento                                              | Escopo                                                                     | Automático? |
 | ---------------------------------------------------- | -------------------------------------------------------------------------- | ----------- |
-| Pós-INGEST (após "Finalizar capítulo X")             | Parcial: contradições do capítulo novo vs. histórico + consistência visual | ✅          |
-| Sob demanda ("Lintar storybible")                    | Completo                                                                   | Manual      |
-| Pré-publicação ("Preparar capítulo X para Substack") | Visual: estado dos personagens                                             | ✅          |
+| Pós-INGEST (após `/ingest-completo X`)             | Parcial: contradições do capítulo novo vs. histórico + consistência visual | ✅          |
+| Sob demanda (`/lint-storybible`)                    | Completo                                                                   | Manual      |
+| Pré-publicação (pausada; skill arquivada) | Visual: estado dos personagens                                             | ✅          |
 | Pré-escrita (antes de iniciar capítulo novo)         | Fronteira: estado atual                                                    | Manual      |
 | Periódico (a cada ~5 capítulos)                      | Completo                                                                   | Manual      |
 
@@ -213,3 +223,22 @@ O bundle está conforme OKF v0.1 quando:
 
 Campos opcionais ausentes, tipos desconhecidos, links quebrados e índices
 ausentes em subdiretórios **não invalidam** o bundle.
+
+---
+
+## Regras de Ouro (migradas de `.github/copilot-instructions.md`, 2026-11-12)
+
+- Personagens (type: Character) SEMPRE têm frontmatter YAML válido
+- Visuais (type: VisualState) SEMPRE registram "não aparece" quando o personagem não está no capítulo
+- NUNCA contradizer um fato registrado sem reportar ao usuário primeiro
+- Milagre tem custo — registrar qual foi o custo em cada ocorrência
+- Quando 2 dos 3 (Mário/Nolan/Kate) concordam, o mundo piora — verificar se isso se mantém
+- Links entre conceitos DEVEM ter contexto explicativo (o link sozinho não tipa a relação)
+- Salvamento de insights é automático — não perguntar se pode salvar
+
+## Guardrails
+
+- **Teologia**: Milagre resolve o problema | Deus confirma plano do personagem | Fé funciona como superpoder → **todos são erro**
+- **Voz**: Prosa fluida demais (tom YA/autoajuda) | Decisão crucial sem reflexão interior | Diálogo genérico → **todos são erro**
+- **Ambiguidade é intencional; confusão é erro**
+- **Sofrer é parte da prosa** — se o personagem não paga, o leitor desconfia

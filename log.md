@@ -1,5 +1,18 @@
 # Log de Atualizações
 
+## 2026-11-13 (Correções do teste 2 no cap. 46)
+
+- Decisão do autor: Kate pode saber o nome de Ossan (cap. 46, linha 1 mantida).
+- Cap. 46, linha 31: "aro de prata" passa a "armação de ébano", como no cap. 4 e na ficha de Nolan. Ajustados `visuais/nolan.md` e `vozes/nolan.md`.
+- Cap. 46, linha 45: "degelo da serra" sai, por causa do outono (`temas/timeline.md`), e "chuvas da serra" também não entra, porque o livro não tem nenhuma cena de chuva. A fala passa a "o Cran não tem vau perto da Metrópole". Ajustados a ficha do cap. 46 e `temas/esquema-l1.md`.
+- A cópia semeada `decisoes/teste-processo/cap46-semeado.txt` não foi alterada.
+
+## 2026-11-13 (Sobrenome de Kate e grafias de nomes no livro)
+
+- Decisão do autor: o sobrenome de Kate é "Daggon'", com o apóstrofo, como aparece no cap. 6.
+- Registrado em `personagens/kate.md`.
+- Livro: cap. 18, linha 83, "Kate Daggon" passa a "Kate Daggon'"; cap. 13, linha 187, "Dërunmege" passa a "Daërunmege".
+
 ## 2026-11-09 (Direções de POV e arcos de Gunad, Lakand e Koda para o L2)
 
 - Criado `insights/povs-l2-gunad-lakand-koda.md` com a direção em avaliação:
@@ -3565,3 +3578,114 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
   Inquiridores: intimação enviada a Devour.
   Visuals atualizados: Mário (trapos, pés descalços, duas luas).
   Sementes: Mesmia (1º altar), Opium (chacina), tradução automática.
+
+## 2026-11-12 (Mini-INGEST recuperado dos caps. 34 a 38)
+
+- O mini-INGEST original dos caps. 34 a 38 se perdeu (não estava em nenhum commit). Refeito a partir do texto revisado, com pendências marcadas em cada ficha.
+- Criados `capitulos/capitulo-34.md` a `capitulo-38.md`; acrescentadas notas em `visuais/mario.md`, `kate.md`, `lakand.md` e `temas/sementes.md`.
+- `temas/esquema-l1.md`: linhas 34 a 42 adicionadas à tabela de progresso (faltavam). Palavras pelo `wc -w`; % real a recalcular.
+- `temas/arco-stc.md`: tabela regenerada a partir do esquema (a versão anterior tinha perdido 34 a 42).
+- Pendências: custo do milagre (cap. 34); quem reativou os rampillas (35); Etemenanki (37); quem ordenou a morte do barão e quem plantou as cargas (37-38); identidade do homem de casaco preto (37-38); entrada do cap. 38 no esquema.
+
+## 2026-11-12 (canon do massacre e das cargas)
+
+- Canon decidido pelo autor: Kate ordenou a morte do barão; alavrianos plantaram as cargas. Revelação da origem das cargas nos capítulos finais.
+- Atualizados: fichas dos caps. 37 e 38; sementes (fio das cargas com setup nos caps. 40 e 43); `personagens/kate.md`; `lugares/alavria.md`; `decisoes/2026-11-12-canon-massacre-cargas.md`.
+
+## 2026-11-12 (correção: epílogo)
+
+- Prólogo é o cap. 0 (`capitulo-00.md`). O epílogo é o último capítulo do L1, ainda vai passar por revisão e não tem INGEST. Pendências de `decisoes/2026-11-12-checkpoint-ideias-congelamento.md` atualizadas.
+
+## 2026-11-12 (fratura da voz de Lakand)
+
+- Opção A aprovada: cena de Lakand na clareira no cap. 16 (POV de Mário). Registrada em `personagens/lakand.md`.
+
+## 2026-11-12 (renanthao de Alavria e entrega do fragmento)
+
+- Caps. 4 e 6: renanthao de Alavria. Cap. 42: Mathias entrega o fragmento a Nolan.
+
+## 2026-11-13 (Mini-INGEST do cap. 46)
+
+- Criado `capitulos/capitulo-46.md` (POV Kate, ~84,7%). Visuais: Kate, Nolan, Lakand, Mathias, Ossan, Decian; "não aparece" para Mário, Mira e Saboc. Linha do cap. 46 e bloco de fronteira no `esquema-l1.md`; defesas da muralha em `lugares/metropole.md`; payoff de Lupe'i em `temas/sementes.md`.
+- Gatilho de checkpoint atingido: último registrado em 2026-09-18 (caps. 21-28), 18 capítulos atrás, e o cap. 46 fecha o bloco "Vilões se Aproximam". Oferecido ao autor, não executado.
+
+## 2026-11-13 (validação das fichas 34 a 38)
+
+- Fichas conferidas com o texto. Decisões do autor: repique frenético (cap. 38 ajustado); picareta (cap. 37 ajustado); cinco seguidores (caps. 37 e 38); mapa da reestruturação com o cap. 38 em POV de Kate; massacre da família Uorier, com Mira e Saboc vivos; cap. 38 reescrito para o reconhecimento de Nolan (o nome vem do soldado no cap. 20).
+
+## 2026-11-13 (checkpoint caps. 37 a 46)
+
+- Executado: Arquiteto de Densidade (leve), anti-slop em lote (59 cirurgias nos caps. 37 a 45; cap. 46 só candidatos, por estar em revisão manual) e passe de fechos (bloco gravado em `temas/esquema-l1.md`).
+- Densidade: Vilões se Aproximam consumiu ~19k palavras (~13,9%) contra ~7% planejado; o bloco absorveu os primeiros beats do Tudo Está Perdido. Cap. 41 em excesso; Gus quase não paga a entrega de Mário; mapa do arco-stc precisa ser redefinido antes do cap. 47.
+
+## 2026-11-13 (cap. 46 fechado e checkpoint aprovado)
+
+- Autor aprovou os pontos do checkpoint. Correções de coerência aplicadas nos caps. 37, 38, 41, 43, 44, 45 e 46 (olhos de Nolan escuros, conforme `personagens/nolan.md`; cinco seguidores; erros de grafia). Arco-stc redefinido; ajustes estruturais em `insights/_inbox.md`. Pendente: prazo do ultimato de Estruzzo (cap. 43) contra o ataque na mesma noite.
+
+## 2026-11-13 (ultimato de Estruzzo)
+
+- Ultimato do cap. 43 passa a ser "antes da meia-noite" (era "ao amanhecer", incompatível com o ataque na mesma noite). Ficha `capitulos/capitulo-43.md` ajustada.
+
+## 2026-11-13 (signatário do contrato com os Clãs)
+
+- Decisão do autor: Nolan não assinou o contrato com os Clãs de Sangue. Registrado em `decisoes/2026-11-13-signatario-contrato-claos.md`. Pendências: o termo "Rei fantoche" (cap. 43) e o pacto de Nolan com Terbs no final do L1 (`nolan.md`, `benjamim.md`).
+
+## 2026-11-13 (Rei fantoche e pacto de Nolan com Terbs)
+
+- Decisão do autor: "Rei fantoche" é Genocydo (termo de Estruzzo; Terbs o move por meio de Benjamim Cressadar). Genocydo assinou a entrega das terras aos Clãs. O pacto de Nolan com Terbs continua de pé, como evento separado (no epílogo do rascunho, Nolan pega o sinete).
+- Atualizados: `decisoes/2026-11-13-signatario-contrato-claos.md` (reescrita, sem pendências), `personagens/genocydo.md`, `personagens/nolan.md`, `personagens/benjamim.md`, `conceitos/terbs.md`, `conceitos/clas-de-sangue.md`, ficha do cap. 43.
+- Corrigido um resíduo: a ficha do cap. 43 ainda dizia "ao amanhecer" no resumo; agora diz "antes da meia-noite".
+
+## 2026-11-13 (Sinal mudo no final do L1)
+
+- Decisão do autor: o Sinal pode estar mudo no final do L1, porque mede o selo de Hícse e Hícse está solta. Trajetória: instável (prólogo a cap. 29) → perde o objeto (cap. 30+) → mudo (Ato 3 e epílogo).
+- Atualizados: `conceitos/sinal-de-vonos.md` (nova seção "Estado no final do L1"), `decisoes/sinal-permanentemente-instavel.md` (revisão), `conceitos/hicse.md`, ficha do cap. 0.
+- O que o rascunho já tem (cap. 47 "apagado", cap. 50 "mudo", epílogo "definitivamente morto") não é erro de canon. A sinalização anterior em contrário foi retirada.
+- Em aberto: a partir de qual capítulo o mudo vale; se é permanente ou reversível no L2.
+
+## 2026-11-13 (curva de aproximação Kate–Mário)
+
+- Autor aprovou o item 8 do inbox: micro-gestos em cinco pontos (caps. 25, 27, 36 abertura, 36 fecho, e um do lado de Mário em 21, 26 ou 34), sem nomear o amor; destino congelamento-L1. Cap. 45: tese do sacrifício condensada na fase 3; a linha "Amor..." decidida depois da curva.
+- `personagens/kate.md` corrigido: o vínculo deixa de ser "não romântico" e passa a crescer sem nome no L1 e virar casamento no L2.
+
+## 2026-11-13 (Sinal instável no L1: Kate receptora)
+
+- Autor aprovou "Kate como receptora" (caps. 20 e 23), destino congelamento-L1, registrado no inbox com as cinco perguntas. A ideia de o Monólito responder "não consta" foi rejeitada. O efeito da falta do Sinal sobre os Inquiridores e o culto a Vonos no L2 foi capturado. Semente #27 (Charles) a revisar.
+
+## 2026-11-13 (Sinal mudo a partir de Hícse, e definitivo)
+
+- Decisão do autor: o Sinal está mudo a partir da libertação de Hícse (cap. 30), não só no Ato 3; e o mudo é definitivo, salvo se Vonos reconstruísse o instrumento, o que não vai acontecer.
+- Atualizados: `conceitos/sinal-de-vonos.md` (Camada 2 e nova seção), `decisoes/sinal-permanentemente-instavel.md`, `decisoes/gaviornl-morte-antecipada-hicse.md`, `conceitos/hicse.md`, ficha do cap. 0, inbox.
+- Texto: fala dos artífices de Gus no cap. 42 ajustada (a pedra do templo não responde; o Sinal não voltou).
+
+## 2026-11-13 (semente #27)
+
+- Autor aprovou tirar Charles da semente #27: a Ordem dos Inquiridores opera sem o Sinal no L2 e segue atrás da anomalia de Kate (#19); o "Cão da Inquisição" de Charles é outro fio. Nota do inbox atualizada.
+
+## 2026-11-13 (rapaz curado dos Clãs)
+
+- Autor aprovou o reconhecimento do rapaz curado (cap. 48) entre os Clãs no cap. 63: ele vê o homem que o curou ser torturado, sem ajoelhar e sem agir. Registrado como semente #32 e no inbox (destino: cap. 63, na revisão). Sem nome por ora.
+
+## 2026-11-13 (Nuh e Nolan sobre o silêncio do Sinal)
+
+- Ideia do autor capturada no inbox: nos capítulos finais, Nuh pergunta a Nolan se teve parte no silêncio do Sinal. Proposta: epílogo, antes de Benjamim; resposta de Nolan factual (o Sinal vacilou antes de qualquer ato dele; ele queimou o hegraliano assim mesmo). Status: em desenvolvimento.
+
+## 2026-11-13 (Nuh e Nolan no epílogo: aceito)
+
+- Autor aceitou a cena de Nuh e Nolan no epílogo (cerca de 300 palavras) e decidiu manter a frase do narrador "silenciada pela soberania de outro Nome" como leitura teológica (providência: causa primeira e causas segundas). Falta confirmar a resposta de Nolan. Atualizados: inbox, `conceitos/sinal-de-vonos.md`, `personagens/nuh-dteraghar.md`.
+
+## 2026-11-13 (cronologia do boato e dos hegralianos)
+
+- Autor corrigiu a resposta de Nolan a Nuh: rixa antiga com os hegralianos; o Sinal falhou primeiro; os hegralianos espalharam o boato (Vonos abandonou o reino ou há problema com o Rei); Nolan os queimou em Gerikhad pelo boato; o Sinal calou depois. Cronologia registrada em `insights/nolan-sufoca-boatos-sinal.md` e a cena exemplo do inbox foi refeita.
+
+## 2026-11-13 (cena de Nuh e Nolan: resposta aceita)
+
+- Autor aceitou a resposta de Nolan a Nuh. Rascunho em prosa da cena (254 palavras) guardado no inbox, sem inserir no epílogo.
+
+## 2026-11-13 (branch de trabalho)
+
+- Autor decidiu centralizar o trabalho com o Claude na branch `trabalho`, nos dois repositórios, por cerca de um mês; se der certo, ela assume a `main`. Regras e estado das branches antigas em `decisoes/2026-11-13-branch-de-trabalho.md`.
+
+## 2026-11-14 (fluxo de PR por sessão)
+
+- Autor decidiu: a main é a fonte; cada sessão abre PR para a main quando pedir; backup em `backup/main-2026-11-14`; `.github` (e `.kilo`, no Livro) ficam como na main. A branch `trabalho` foi superada. Decisão em `decisoes/2026-11-14-fluxo-pr-por-sessao.md`.

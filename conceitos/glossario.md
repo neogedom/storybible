@@ -64,5 +64,5 @@ timestamp: 2026-07-24T12:00:00-03:00
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **cairn**            | "monte de pedras" / "marco de pedras" — nunca a palavra inglesa no texto do livro (é POV ornickenho; ex.: o marco de Dagmar, cap. 22) |
 
-> Glossário completo com ~80 termos no arquivo-fonte original.
-> Para consulta detalhada, ver `.github/storybible/GLOSSARIO.md` no repo `livro`.
+> Este arquivo reúne 43 entradas em tabela.
+> Este arquivo é a referência atual do glossário. O ponteiro antigo para `.github/storybible/GLOSSARIO.md` (repo `livro`) nunca existiu no histórico daquele repositório.

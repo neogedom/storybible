@@ -1,8 +1,8 @@
 # Protocolo INGEST — Finalização de Capítulo
 
 > **Dois modos.** O **Mini-INGEST** roda a cada capítulo fechado durante a
-> escrita privada do L1 (gatilho "cap. X pronto"); o **INGEST completo** roda
-> no congelamento (gatilho "Finalizar capítulo X"). Norte: avançar sobre
+> escrita privada do L1 (skill `/finalizar-capitulo X`, ou "cap. X pronto"); o **INGEST completo** roda
+> no congelamento (skill `/ingest-completo X`). Norte: avançar sobre
 > aperfeiçoar; revisão fina só no congelamento (ver
 > `decisoes/estrategia-publicacao-l1.md`).
 
@@ -33,20 +33,13 @@ Definition of Done (prosa completa, fronteira ok).
    (algo dá errado)? Desastre sem sequel → o próximo abre processando;
    decisão → o próximo abre executando. Decisão adiada há mais de 2
    capítulos: sinalizar no esquema (dívida — não reescrever). Anotar também
-   **onde o capítulo corta** (A/B/C/D — ver `passe-fechos.prompt.md`, no
+   **onde o capítulo corta** (A/B/C/D — ver skill `passe-fechos`, no
    Livro): é o dado que alimenta o passe de fechos do checkpoint.
 6. `log.md`: 1 linha (pode ser batch a cada 5 caps).
-7. Contador de checkpoint: verificar quantos capítulos passaram desde o
-   último checkpoint registrado no `log.md` (se nunca houve, contar desde o
-   início do bloco/beat). Da **6ª** marca em diante → **oferecer ao autor**
-   o checkpoint leve (decisão do autor, 2026-09-14), que roda sobre os
-   capítulos fechados desde o último checkpoint:
-   - **Arquiteto de Densidade** — leve, nas fronteiras de beat: corrige o
-     mapa para frente, nunca o texto.
-   - **Passe anti-slop em lote** — cirurgia local (teste F13).
-   - **Passe de fechos** — cortes A/B/C/D do bloco, repetição de gesto
-     final, rotação de POV e quem decide em cada capítulo
-     (`passe-fechos.prompt.md`, no Livro).
+7. Gatilho de checkpoint (decisão do autor, 2026-11-12): roda ao **fechar uma fronteira de beat** do esquema, ou após **10 capítulos** desde o último checkpoint registrado no `log.md`, o que vier primeiro. Ao atingir o gatilho, **oferecer ao autor**. Níveis:
+   - **Bloco (leve)**: Arquiteto de Densidade leve (corrige o mapa para frente, nunca o texto) + passe anti-slop em lote (teste F13) + passe de fechos (skill `passe-fechos`).
+   - **Ato (completo)**: nas fronteiras de ato (Ponto Central e Break Into 3), o Arquiteto de Densidade roda em modo completo.
+   - **Pauta fixa**: decidir as ideias pendentes em `insights/_inbox.md` que afetam capítulos ainda não revisados.
    Executado, registrar no `log.md`.
 
 ### Obrigatório agora vs. espera o congelamento
@@ -65,11 +58,11 @@ Definition of Done (prosa completa, fronteira ok).
 > (uniformidade + capítulos com reescrita pesada).
 
 > **Passe de fechos (decisão do autor, 2026-09-14):** no mesmo checkpoint,
-> além do anti-slop, roda o **passe de fechos** (`passe-fechos.prompt.md`, no
+> além do anti-slop, roda o **passe de fechos** (skill `passe-fechos`, no
 > Livro). Ele lê o bloco **como sequência**, não capítulo a capítulo: onde
 > cada capítulo corta (A/B/C/D), se dois fechos seguidos repetem o mesmo
 > gesto ("norte", corpo em movimento, "E" inicial), como girou o POV e quem
-> **decidiu** em cada capítulo. Diagnóstico + marcas no `esquema-l1.md` para
+> **decidiu** em cada capítulo. Diagnóstico + marcas no `temas/esquema-l1.md` para
 > os caps. futuros — nunca reescreve prosa no modo privado.
 
 Regra de bolso: `personagens/<nome>.md` só muda quando um **fato duro** muda
@@ -79,11 +72,20 @@ Regra de bolso: `personagens/<nome>.md` só muda quando um **fato duro** muda
 ### Semáforo de ideias
 
 - **Verde (micro):** detalhe local que não toca esquema/arco/canon → implementa, zero registro.
-- **Amarelo (estrutural):** mudaria capítulo/arco/canon → **não implementa**; registra em `insights/` com `destino: L2/L3` ou `destino: congelamento-L1`.
+- **Amarelo (estrutural):** mudaria capítulo/arco/canon → **não implementa no texto**; captura em `insights/_inbox.md` e desenvolve (ver abaixo). Depois, segue um dos dois caminhos:
+  - **Capítulos ainda não revisados** (hoje, 47 a 66 e epílogo): decisão no checkpoint de bloco. Se aceita, reescreve a cena no rascunho **antes** de revisar.
+  - **Capítulos já fechados**: absorve só para frente. Canon profundo vai para `insights/` com `destino: congelamento-L1`; o resto com `destino: L2/L3`.
 - **Vermelho (guardrail):** viola teologia/risco estrutural → registra e alerta; nunca implementa.
 
 `temas/esquema-l1.md` é o contrato: nunca editá-lo no meio de um capítulo.
 Ideias absorvem para frente.
+
+### Inbox e ciclo de decisão de ideias
+
+1. **Captura (um minuto)**: uma linha com data, capítulos afetados e a ideia, em `insights/_inbox.md`.
+2. **Desenvolvimento, antes de qualquer prosa**: cinco perguntas. O que muda? Em quais capítulos? Qual o custo? O que paga (semente ou arco)? Cena exemplo em 3 a 5 linhas. Ideia que não passa por aqui não entra no esquema.
+3. **Decisão no checkpoint**: aceitar (vai para o esquema e para a fila de rascunho), rejeitar (vai para `ideias-rejeitadas/`) ou adiar (próximo bloco ou L2).
+4. **Regra antes de revisar**: antes de revisar um capítulo ainda não revisado, checar o inbox. Se houver ideia pendente que o afeta, decidir primeiro.
 
 ### Definition of Done (modo privado)
 
@@ -101,7 +103,7 @@ Ideias absorvem para frente.
 
 ### Quando executar
 
-Usuário diz **"Finalizar capítulo X"** após o ciclo de revisão estar completo.
+Usuário invoca **`/ingest-completo X`** após o ciclo de revisão estar completo.
 
 ## Pré-condições
 

@@ -16,7 +16,7 @@ timestamp: 2026-09-05T12:00:00-03:00
 Na Praça Central da Metrópole, a **Liturgia do Entardecer** falha: os prismas
 de quartzo do Monólito da Verdade não firmam a leitura, a água da bacia não
 forma os padrões geométricos limpos que sinalizam a presença de Vonos — a
-leitura vem embaralhada (o Sinal fica permanentemente instável, não mudo;
+leitura vem embaralhada (o Sinal fica instável, não mudo; ele só fica mudo a partir da libertação de Hícse, cap. 30;
 ver `conceitos/sinal-de-vonos.md`). Nolan Guenayer, Juiz
 da Metrópole, observa a cerimônia com crescente irritação (rinite, espirros).
 

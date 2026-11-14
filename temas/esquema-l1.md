@@ -59,9 +59,40 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 31       | Jogos e Diversão                    | Mário        | ~57-59%                 | ~61,3%               | 2.921    |
 | 32       | Jogos e Diversão                    | Kate         | ~59-61%                 | ~62,9%               | 2.183    |
 | 33       | Jogos e Diversão                    | Nolan        | ~60-62%                 | ~64,5%               | 2.141    |
+| 34       | Jogos e Diversão                    | Mário        | —                      | a recalcular         | 1.829    |
+| 35       | Jogos e Diversão                    | Kate         | —                      | a recalcular         | 1.818    |
+| 36       | Jogos e Diversão                    | Mário        | —                      | a recalcular         | 1.655    |
+| 37       | Ponto Central                       | Mário        | —                      | a recalcular         | 2.304    |
+| 38       | Ponto Central (sem entrada própria) | Kate         | —                      | a recalcular         | 1.581    |
+| 39       | Vilões se Aproximam                 | Mário        | —                      | a recalcular         | 2.731    |
+| 40       | Vilões se Aproximam                 | Nolan        | —                      | a recalcular         | 1.769    |
+| 41       | Vilões se Aproximam                 | Mário        | —                      | a recalcular         | 3.498    |
+| 42       | Vilões se Aproximam                 | Nolan        | —                      | a recalcular         | 2.870    |
 | 43       | Vilões se Aproximam                 | Kate         | ~74-75%                 | ~80,3%               | 2.108    |
 | 44       | Vilões se Aproximam                 | Mário        | ~75%                    | ~81,6%               | 1.780    |
 | 45       | Vilões se Aproximam                 | Kate         | ~75%                    | ~83,1%               | 2.107    |
+| 46       | Vilões se Aproximam                 | Kate         | —                      | ~84,7%               | 2.186    |
+| 47       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 2.150    |
+| 48       | Tudo Está Perdido (inferido)        | Mário        | —                      | a recalcular         | 1.632    |
+| 49       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 1.642    |
+| 50       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 998      |
+| 51       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 1.000    |
+| 52       | Noite Escura da Alma (inferido)     | Mário        | —                      | a recalcular         | 1.376    |
+| 53       | Noite Escura da Alma (inferido)     | Nolan        | —                      | a recalcular         | 1.160    |
+| 54       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 1.364    |
+| 55       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 930      |
+| 56       | Noite Escura da Alma (inferido)     | Mário        | —                      | a recalcular         | 1.260    |
+| 57       | Noite Escura da Alma (inferido)     | Kate         | —                      | a recalcular         | 1.025    |
+| 58       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 1.115    |
+| 59       | Break Into 3 (inferido)             | Kate         | —                      | a recalcular         | 919      |
+| 60       | Break Into 3 (inferido)             | Nolan        | —                      | a recalcular         | 905      |
+| 61       | Break Into 3 (inferido)             | Mário        | —                      | a recalcular         | 876      |
+| 62       | Break Into 3 (inferido)             | a confirmar  | —                      | a recalcular         | 759      |
+| 63       | Break Into 3 (inferido)             | Mário        | —                      | a recalcular         | 940      |
+| 64       | Final (inferido)                    | a confirmar  | —                      | a recalcular         | 1.504    |
+| 65       | Final (inferido)                    | Nolan        | —                      | a recalcular         | 1.098    |
+| 66       | Final (inferido)                    | Mário        | —                      | a recalcular         | 1.281    |
+| epílogo  | Imagem Final (inferido)             | a confirmar  | —                      | a recalcular         | 879      |
 
 > **Atualização 2026-11-06 — Mini-INGEST do cap. 43.** O manuscrito atual tem
 > **2.346 palavras**; o acumulado dos caps. 0–43 é **110.672 palavras (80,5%)**
@@ -81,6 +112,12 @@ timestamp: 2026-09-10T12:00:00-03:00
 > confirmação dos Clãs saiu do cap. 43 e foi transferida para o ataque do
 > cap. 45. Contagens atuais: cap. 43, **2.108**; cap. 44, **1.780**; cap. 45,
 > **2.107**; acumulado até o cap. 45, **114.321 palavras (83,1%)**.
+
+> **Atualização 2026-11-13 — Mini-INGEST do cap. 46.** O manuscrito atual tem
+> **2.186 palavras** (contagem por tokens separados por espaço); acumulado dos
+> caps. 0–46 ≈ **116.507 palavras (84,7%)** na régua de 137.500, somando ao
+> total do cap. 45 da nota de 2026-11-08. Fecha em decisão (plano da travessia);
+> corte D, como o 45. Este Mini-INGEST não replaneja o mapa.
 
 > **Recontagem 2026-10-09, baseada nos manuscritos atuais.** A coluna
 > **Palavras** foi conferida nos arquivos `Livro 1/capituloN.md` com
@@ -576,7 +613,7 @@ o **✔ Escrito (2026-09-19; reestruturado em 2026-09-20).** Cap. 28 fechado em
 > | 35 | **Kate** | **O combate dos rampillas** — as seis alcançam a região; **ela sai para proteger o grupo e o homem formado vai com ela** (o Mário fica longe e **não vê**) → Kate mata cinco e deixa o sexto para o pupilo matar — a **formatura** → a brasa sobe → o **Lakand cheira** o rampilla neles quando voltam, entende e **cala** → ⚠️ **sem o Mário no capítulo**, e **sem objeção**: ela só vem na Mina. |
 > | 36 | **Mário** | A marcha → o ensaio do discurso → a criança toca o Lakand. A tempestade saiu; Etemenanki passou ao cap. 37. |
 > | 37 | **Mário** | A Mina (Ponto Central). |
-> | 38 | **Nolan** | A leitura da ruína. |
+> | 38 | **Kate** | O sino e a ruína: Kate dá o sinal, enfrenta Nolan, a Mina desaba. (Ajustado em 2026-11-13: o capítulo foi escrito em POV de Kate.) |
 >
 > **O que mudou em 2026-10-03/04 (três movimentos):** o **antigo cap. 29 do Nolan deixou de existir** — a lição e a ordem desceram para o rabo do **28**; tudo o que era ≥30 desceu um; o **salvamento do Lakand entrou como 31**; e o **cap. 30 foi partido** — a **arregimentação e o treino** saíram dele e viraram o **32**, empurrando o resto para cima. **Nolan não volta à Metrópole no L1** — ele sobe pelo **Espinhaço** e compra informação; a **vembra** desce para a **volta** (Mira, na descida). Ver `decisoes/jornada-nolan-acre-2026-10-03.md` e `decisoes/capitulo-31-uma-noite-salvamento.md`.
 > ⚠️ **Custo assumido:** o 34 carrega dois movimentos (batismo + decisão) — escrevê-lo **curto**, com a decisão como virada final (Corte C com ironia). O 35 carrega **o combate + a fissura + o Lakand** — também **curto**, fechando no corte B; a tempestade já não está nele. O 36 fica com a marcha, o ensaio e a criança; seu fecho precisa ser redefinido.
@@ -888,6 +925,33 @@ o **✂️ Corte do capítulo (decisão de checkpoint, 2026-10-11):** o capítul
 >
 > **Regra de fecho para 29-35 (herdada do checkpoint):** fora do fecho — "norte", "escuro" e "silêncio"; não abrir o fecho com "E"; nunca dois capítulos seguidos com o mesmo tipo de corte; nenhum capítulo fecha em deslocamento de grupo.
 
+> **✂️ Passe de fechos — bloco 37-46 (checkpoint 2026-11-13).** Mapa medido (fecho → corte → gesto → POV → quem decide):
+>
+> | Cap. | POV | Corte | Gesto do fecho | Quem decide |
+> | --- | --- | --- | --- | --- |
+> | 37 | Mário | C | revolta dos escravos, "frenesi" | Mário decide pregar; o resto reage |
+> | 38 | Kate | C | a Mina desaba inteira | Kate (arrasta Mário) |
+> | 39 | Mário | D | adormece; a Voz muda | Mário reage (a decisão "é para lá" fica no meio) |
+> | 40 | Nolan | B (leve) | pergunta interior sobre o Deus Desconhecido + logística | Nolan |
+> | 41 | Mário | B | "preciso pensar" | Mário adia |
+> | 42 | Nolan | A (leve, por raciocínio) | "alcançar o Estrangeiro antes que a horda arrombasse" | Nolan |
+> | 43 | Kate | A | sino, "a invasão estava posta" | Kate perde (Lakand recusa) |
+> | 44 | Mário | C | "Eu sou o homem que vocês querem!" | Mário |
+> | 45 | Kate | D | Kate ordena a Lakand, limpa e embainha a lâmina | Kate |
+> | 46 | Kate | D | Kate fala a Lakand, ajeita o fecho da adaga | Kate / Nolan |
+>
+> Contagem: A 2 (42, 43), B 2 (40, 41), C 3 (37, 38, 44), D 3 (39, 45, 46). O mix é saudável; o bloco tem B (ao contrário do 21-28).
+>
+> **Alertas:**
+> 1. **Gesto repetido, 45 e 46 (mesmo POV, em sequência):** os dois fecham com Kate falando a Lakand e mexendo na arma (`encaixou a lâmina na bainha`, `ajeitando o fecho da adaga`). É a repetição que o passe proíbe. Candidato a mudança no 46 (cap. em revisão manual): fechar em outro gesto (por exemplo, o Cran, a sala vazia ou Nolan saindo), e tirar a fala de Lakand em lição (`Alguém como ele não abandona suas convicções assim tão rápido`).
+> 2. **Fecho mental em 39, 40, 41 e 42:** quatro dos seis fechos entre 39 e 44 terminam em pensamento do POV. Só o 43 e o 44 fecham em ação. Sem ação a corrigir agora, mas o 47 em diante deve alternar.
+> 3. **Rotação de POV:** Kate em 45 e 46 seguidos, e Mário ausente do 45 ao 47 se o 47 não for dele. O 48 já é Mário (esquema). Recomendação: o 47 em POV de Mário (cativeiro). Registrado, decisão do autor.
+> 4. **Protagonismo (risco 1):** Mário decide em 37 e 44 (cume); reage em 39; adia em 41. Ausente de 45 a 47. O 48 deve devolver a decisão a ele.
+> 5. **Palavra-senha:** `peso` (e `chumbo`) circula pelo bloco; o anti-slop já reduziu. `Estômago dar um nó` também foi cortado onde repetia.
+>
+> **Marca para o cap. 47 e seguintes (proposta):** abrir com Mário em cativeiro, fecho em B (o que ele fará com a entrega paga). Não repetir o gesto de Kate/Lakand/arma. Ver também o relatório de densidade do mesmo checkpoint (`docs/revisao/` se arquivado).
+
+
 ---
 
 ## Ponto Central (~68%) — A Tomada da Mina de Quartzo
@@ -1030,7 +1094,7 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 - **Mediação de Lakand:** O lobo transmite o recado de Kate: ela busca os artífices de Gus para desvendar a sabotagem técnica da Mina. Também informa Mário que o homem do casaco preto é Nolan Guenayer, juiz do Trono e conselheiro da Coroa, embora não tenha jurisdição na Cidadela.
 - **Chegada à Cidadela de Gus, ao meio-dia do dia seguinte:** Mário chega com os sobreviventes que ainda caminhavam; alguns já alcançaram a cidade, enquanto outros vêm atrás amparando os feridos. Ele testemunha a única terra desenvolvida fora da Metrópole onde humanos e leviantares convivem nas mesmas ruas sem ferros da Segregação.
 - **O pedido ao Souhma:** Na enfermaria, Mário ajuda a levar um ferido até Decian. O homem pede que ele o cure. Mário não promete milagre; chama Decian e permanece com o ferido. Ao ver os demais esperando, percebe que não sabe como ajudá-los todos. A cena fica integrada à chegada, sem abrir outra sequência.
-- **Reencontro com Decian:** Decian, fugitivo como curandeiro de ervas em Gus, trata os ferimentos de Mário e traz notícias da alcateia: Kenod morreu no colapso pós-massacre e Charles assumiu o bando para caçar a recompensa do Trono.
+- **Reencontro com Decian:** Decian, fugitivo como curandeiro de ervas em Gus, trata os ferimentos de Mário e traz notícias da alcateia: Kenod morreu de causas naturais, depois do massacre e Charles assumiu o bando para caçar a recompensa do Trono.
 - **Fecho:** Mário isolado na oficina, oprimido pela culpa e incapaz de orar. Corte C.
 
 #### Capítulo 40 (PoV de Nolan) — A Ruína e o Rumo
@@ -1079,6 +1143,11 @@ u ca> **Nota histórica 2026-10-23 — Mini-INGEST da versão então numerada co
 - **Lupe'i confronta Nolan (continuação no arquivo capitulo46.md):** Surpreso ao vê-lo na sala, pergunta se Nolan persegue o homem chamado de Souhma desde o rumor de Saramant que lhe contou. Lupe'i não esperava os Clãs na Cidadela; cobra a ligação de Nolan com o Trono, sem afirmar que ele assinou o contrato.
 - **A morte da ambição de Kate:** Diante do sacrifício voluntário de Mário, a ambição militar de Kate morre na cinza; junto com Lakand e os Artífices, passa a viver unicamente para resgatá-lo.
 - **Fecho:** Nolan fica em Gus para reunir Ossan e a escolta e planejar a travessia do Cran antes da partida; Kate decide resgatar Mário com Lakand e os artífices. Corte D.
+
+#### Capítulo 46 (PoV de Kate) — A Sala de Traçagem
+- **Confronto de Lupe'i:** cobra a Nolan o rastro de sangue desde Saramant e as mortes em Gerikhad; Nolan responde que o Trono tem contrato com os Clãs e que precisa do rapaz vivo.
+- **O plano:** Kate propõe descer o Cran, que não tem vau perto da Metrópole; Nolan traça a entrada pelos canais de deságue na quebra de vigilância entre a terceira e a quarta vigília (escala alterada por Valinor). Nolan segue por terra com Mathias, Mira, Saboc e Ossan; Kate, Lakand, artífices e Decian vão de barcaça.
+- **Fecho:** decisão (plano fixado); próximo abre executando. Corte D, segundo D seguido (45 e 46): sinalizar ao passe de fechos.
 
 ---
 

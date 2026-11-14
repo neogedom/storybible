@@ -14,7 +14,7 @@ timestamp: 2026-11-08T08:54:49-03:00
 
 Durante o dia, Kate consulta artífices sobre o desabamento da Mina. Eles não fecham causa sem examinar o local; ela conclui que os quatro rapazes não tinham meios para provocá-lo e, ferida pelo julgamento de Mário, decide parar de tentar provar sua inocência.
 À noite, procura Lakand na estrebaria e tenta se refugiar na intimidade dele. Lakand a recusa e expõe sua tentativa de fugir do que Mário lhe disse e da perda de Saramant; ao apertar o pulso, Kate se lembra da fala de Gaviorn'l sobre a mãe.
-Na guarita do lado de dentro da paliçada norte, Kate vê Estruzzo materializar-se pela sombra junto ao mourão. Ele revela que Terbs cedeu o vale aos Clãs de Sangue e afirma que a morte de Gaviorn'l libertou Hícse. Kate o chama de mentiroso e não aceita a explicação. Estruzzo exige Mário vivo ao amanhecer, ou a Cidadela será destruída. Depois do ultimato, ele recua sozinho pela sombra para a escarpa; o sino toca, e as tochas do restante dos Clãs começam a descer a serra.
+Na guarita do lado de dentro da paliçada norte, Kate vê Estruzzo materializar-se pela sombra junto ao mourão. Ele revela que Terbs cedeu o vale aos Clãs de Sangue e afirma que a morte de Gaviorn'l libertou Hícse. Kate o chama de mentiroso e não aceita a explicação. Estruzzo exige Mário vivo antes da meia-noite, ou a Cidadela será destruída. Depois do ultimato, ele recua sozinho pela sombra para a escarpa; o sino toca, e as tochas do restante dos Clãs começam a descer a serra.
 
 ## Personagens
 
@@ -31,8 +31,9 @@ Na guarita do lado de dentro da paliçada norte, Kate vê Estruzzo materializar-
 - Na muralha, ao apertar o pulso que Lakand segurara, Kate recorda a fala de Gaviorn'l sobre a mãe.
 - Kate, na guarita do lado de dentro da paliçada norte, vê Estruzzo materializar-se pela sombra junto ao mourão.
 - Estruzzo revela que Terbs cedeu o vale aos Clãs de Sangue como pagamento pela dívida da deusa libertada com a queda de Gaviorn'l.
+- Estruzzo diz que "o Rei fantoche assinou a entrega das terras": o Rei é Genocydo, a quem Terbs move por meio de Benjamim Cressadar (canon 2026-11-13). Nolan não assinou o contrato.
 - Kate rejeita a afirmação de Estruzzo sobre Hícse; a confirmação dos Clãs fica para o ataque do cap. 45.
-- Ultimato de Estruzzo: entregar o forasteiro vivo ao amanhecer ou a cidade inteira será arrasada.
+- Ultimato de Estruzzo: entregar o forasteiro vivo antes da meia-noite ou a cidade inteira será arrasada.
 - Após o ultimato, Estruzzo recua sozinho pela sombra; o sino da Academia repica enquanto as tochas do restante dos Clãs começam a descer a encosta.
 
 ## Sementes e Conexões

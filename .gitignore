@@ -4,3 +4,7 @@ Thumbs.db
 
 # Obsidian (opcional - manter se quiser compartilhar config)
 # .obsidian/
+
+# Chaves de respostas dos testes do processo: ficam com o autor, nunca versionar
+chave-*.md
+chave-*.txt

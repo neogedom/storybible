@@ -1,0 +1,27 @@
+# Falas para o teste 3 (atribuição cega)
+
+Doze falas de personagens de Livro 1, sem o nome do falante. Ordem embaralhada.
+
+1. Decian, sabe o que aconteceu?
+
+2. Se você cair nas mãos dos Clãs, você chega à Metrópole aos pedaços, num saco de carga. Sob a custódia da Coroa, acompanhado de mim, você chega vivo e inteiro.
+
+3. Não é alternativa. É outra forma de me levar. Você garante que chego vivo ao Conselho, não que Gus fique de pé. Estruzzo deixou claro o preço: se eu não descer amarrado, a cidade paga.
+
+4. Fique onde está, mulher. Você está errada quanto aos Inquiridores.
+
+5. A Cidadela não é sua paróquia, forasteiro. Não é você quem decide quem morre aqui!
+
+6. Espere, Mathias.
+
+7. Eu não estou procurando conciliação. Estou pagando a conta.
+
+8. Você enlouqueceu? Não são os mercenários de armas enferrujadas! São centenas! Eles comem a carne dos prisioneiros antes do corpo esfriar!
+
+9. Pense bem. É a sua única alternativa racional, rapaz.
+
+10. Mário! Não faz isso! Eles vão te retalhar vivo!
+
+11. Nós não vamos fugir.
+
+12. Dá três passos para a frente, juiz. Eu rasgo a tua goela antes do teu lacaio de capa cinzenta piscar.

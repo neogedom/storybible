@@ -142,3 +142,8 @@ e não olha para os escravos a três passos.
 
 **Prompt de referência (imagem-retrato do arquivo):**
 Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um administrador obeso diante de uma galeria de mina iluminada por lampiões de óleo, com veios de quartzo brilhando na rocha. Uorier, leviantar de terra e pedra, administrador da Mina de Quartzo, homem gordo e pesado de mãos largas como pedra, rosto suado e glutão, vestes sóbrias de administrador com pó de quartzo nos ombros, livro-razão encadernado sob o braço, olhar de quem mede e não olha, expressão contida e covarde. Iluminação: chiaroscuro dramático com luz baixa de lampião e reflexo frio do quartzo. Atmosfera: de contabilidade, opressão e medo contido. Paleta de cores: cinza-pedra, branco de quartzo e marrom de couro. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.
+
+
+## Nota (2026-11-13)
+
+O massacre no cap. 37 atinge a família inteira (esposa e duas filhas pequenas). Mira e Saboc, hospedados na casa de Uorier nos caps. 28 a 33, estão vivos e não estavam na Mina.

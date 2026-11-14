@@ -233,8 +233,24 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Postura        | Salta ao terreiro, ataca os Clãs, enfrenta Nolan e chama Lakand para reunir os artífices |
 | Fundo          | Terreiro da marcenaria sob fumaça → pátio após a retirada dos Clãs |
 
+## Capítulo 46 — A Sala de Traçagem (Mini-INGEST, 2026-11-13)
+
+| Atributo       | Estado |
+| -------------- | ------ |
+| Roupas         | Couro remendado de caçadora; sem troca descrita |
+| Armas          | Adaga na cintura (ajusta o fecho no fim da cena) |
+| Sinais físicos | Fumaça do pátio ainda na garganta; polegar esquerdo cravado na parte interna do pulso |
+| Expressão      | Atenta, braços cruzados no batente; raiva contida; sorriso quase esboçado ao provocar Nolan |
+| Postura        | Do batente avança três passos até a bancada, a menos de um braço de Nolan |
+| Fundo          | Sala de traçagem da Academia de Gus: bancada de carvalho, três archotes de sebo |
+
 ---
 
 ## Prompt de Imagem (modelo)
 
 `Kate, cabelo longo escuro, pele clara, [roupas do capítulo], faca de caça à mostra, expressão de [emoção], iluminação [tipo], fundo [descrição] — tons #3E2F2C, #5A4330, #7B6A4F, #2F4B39, #B86B2E`
+
+## Capítulos 34 a 38 (mini-INGEST refeito, 2026-11-12)
+- Cap. 35: lâmina pesada de Saramant guardada na bota; luta com faca de caça na mão.
+- Cap. 37: capuz de estopa sobre o rosto, com fuligem.
+- Cap. 38: manga de couro; faca de caça na cintura, sem sacar.

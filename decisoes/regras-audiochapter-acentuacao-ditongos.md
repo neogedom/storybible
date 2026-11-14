@@ -31,13 +31,13 @@ gráfico, fazendo a TTS ler com entonação incorreta em alguns casos.
 
 ## Arquivos alterados
 
-- `Livro/.github/skills/preparar-audiochapter/SKILL.md` — reescrita completa com
+- `Livro/.claude/skills/preparar-audiochapter/SKILL.md` — reescrita completa com
   regras detalhadas de extração, acentuação e formatação.
 - `storybible/conceitos/fonetica.md` — adicionada seção "Acentuação Fonética de
   Tritongos e Ditongos Decrescentes" com tabela de substituição e regras de ouro.
-- `Livro/.github/prompts/audiochapter.prompt.md` — atualizado para referenciar a
+- `Livro/.claude/skills/audiochapter/SKILL.md` — atualizado para referenciar a
   skill e as regras fonéticas completas.
-- `Livro/.github/agents/preparador-audio.agent.md` — agente especializado criado
+- `Livro/.claude/agents/preparador-audio.md` — agente especializado criado
   para executar o workflow de áudio com checklist de qualidade.
 
 ## Riscos mapeados

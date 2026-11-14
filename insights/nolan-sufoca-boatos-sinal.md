@@ -240,3 +240,14 @@ força alavriana ataca. Só então vem a intervenção divina contra Alavria.
 Uma oração audível de Mário por misericórdia é uma hipótese de ligação
 pública, não gatilho do milagre. Ver `duas-vias-de-salvacao-ato-2.md`. Esta
 atualização não altera o canon nem o esquema do L1.
+
+## Cronologia do boato e dos hegralianos (autor, 2026-11-13)
+
+1. Nolan já tinha uma rixa antiga com os hegralianos (Segregação, humanos; ver o julgamento do cap. 4).
+2. O Sinal falha (prólogo: no dia em que o Estrangeiro cai em Saramant).
+3. Os hegralianos aproveitam a falha para espalhar o boato de que Vonos abandonou o reino, ou de que há um problema na relação de Vonos com o Rei.
+4. Nolan interpreta isso como crime e condena os hegralianos à fogueira de Gerikhad por espalharem o boato. Sufocar os boatos é um dos principais objetivos dele nessa fase do livro.
+5. O Sinal calou depois, de forma definitiva, com a libertação de Hícse (cap. 30).
+
+Uso no epílogo: Nuh pergunta a Nolan se ele teve parte no silêncio do Sinal; Nolan responde pela cronologia (ver `insights/_inbox.md`, entrada "Nuh pergunta a Nolan...").
+

@@ -12,9 +12,9 @@ timestamp: 2026-07-25T12:00:00-03:00
 
 - `temas/esquema-l1.md` — Livro 1 (fonte primária, cap por cap com % recalibradas para multi-PoV)
 - `temas/esquema-l2.md` — Livro 2 (fonte primária, por estágio STC)
-- `temas/arco-stc.md` — Visão geral dos beats STC com progressão por capítulo
+- `temas/arco-stc.md` — Definição dos beats STC (a progressão por capítulo fica no esquema)
 - `conceitos/riscos-estruturais.md` — Mapeamento das 3 colisões e 5 riscos estruturais
-- `memories/repo/arquiteto-densidade-avaliacao-l1.md` — Diagnóstico completo do desvio de pacing e tabela recalibrada
+- `temas/esquema-l1.md` — Tabela recalibrada das porcentagens. O diagnóstico completo do desvio de pacing não existe mais como arquivo próprio
 
 ---
 
@@ -42,8 +42,8 @@ Cada capítulo deve responder:
 | Catalisador              | ~7-12%          | 3-4       | ✅ Escrito   |
 | Debate                   | ~12-42%         | 4-18      | ✅ Escrito   |
 | Break Into 2             | ~42-45%         | 19-20     | ✅ Escrito   |
-| Jogos (Velocino de Ouro) | ~45-68%         | 21-35     | ✍️ Escrevendo |
-| Ponto Central            | ~68%            | ~36       | 📝 Planejado |
+| Jogos (Velocino de Ouro) | ~45-68%         | 21-36     | ✅ Escrito (rascunho) |
+| Ponto Central            | ~68%            | 37        | ✅ Escrito (rascunho) |
 | Vilões se Aproximam      | ~68-75%         | —         | 📝 Planejado |
 | Tudo Está Perdido        | ~75%            | —         | 📝 Planejado |
 | Noite Escura da Alma     | ~75-80%         | —         | 📝 Planejado |

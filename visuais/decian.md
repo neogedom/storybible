@@ -27,6 +27,17 @@ ultimo_capitulo: 44
 | Fala       | Diz que só ouviu o sino |
 | Fundo      | Pátio de terra batida da carpintaria |
 
+## Capítulo 46 — A Sala de Traçagem (Mini-INGEST, 2026-11-13)
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Mãos       | Pontas dos dedos manchadas de resina verde-escura |
+| Equipamento| Bolsa de couro cru a tiracolo com rolos de linho e potes de barro selados com cera; sem arma |
+| Postura    | Ombros caídos; não encara Nolan |
+| Voz        | Mansa e arrastada |
+| Fundo      | Sala de traçagem da Academia de Gus |
+
+
 ## Capítulo 19 (introdução)
 
 - **Forma**: Humana (não assume forma de lobisomem neste capítulo)

@@ -174,6 +174,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Ação**: pede que Mathias traga Ossan e a escolta do celeiro sul à Academia; não parte ainda para a Metrópole.
 - **Fundo**: beiral e terreiro da marcenaria, depois a entrada da Academia.
 
+## Capítulo 46 — A Sala de Traçagem (Mini-INGEST, 2026-11-13)
+
+- **Vestimenta**: lenço de seda na lapela imundo de terra preta; colarinho desabotoado; ajeita a gola torta; lenço cinzento para limpar o carvão.
+- **Acessórios**: óculos de armação de ébano.
+- **Sinais físicos**: dedos compridos da mão direita tremem de leve, disfarçados na armação dos óculos; pescoço pálido e rígido.
+- **Postura**: sentado; postura de homem de gabinete; traça a rota com carvão no pergaminho.
+- **Fundo**: sala de traçagem da Academia de Gus.
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

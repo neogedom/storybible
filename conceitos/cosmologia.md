@@ -107,3 +107,17 @@ Vonos trouxe **dois tipos de humanos**:
 - [Sinal de Vonos](/conceitos/sinal-de-vonos.md) — O oráculo que auditava a realidade
 - [Mário](/personagens/mario.md) — Herança de Javé Verdadeira
 - [Genocydo](/personagens/genocydo.md) — Herança de Nachash
+
+## Parâmetros físicos de Ornick
+
+**Definidos pelo autor:**
+
+- **Gravidade**: próxima da terrestre, um pouco menor. No cap. 41 (POV de Mário, na aula de Orval), Mário pensa que talvez esteja num planeta onde "a terra puxasse com um pouco menos de voracidade", e nota que o chumbo do pêndulo oscila mais devagar que na memória dele.
+- **Duração do L1**: alguns meses (estimativa do autor, pela contagem de semanas do livro; o número exato não está fixado).
+
+**Pendentes de decisão do autor:**
+
+- **Distância da Terra**: 2000 anos-luz é proposta, ainda não registrada como canon.
+- **Inclinação do eixo**: define as estações. Terrestre (~23°) ou outra?
+- **Duração do dia e do ano**: quantos dias de 24 horas por ano? Com o L1 de alguns meses, a virada para o inverno (caps. 49 e 61) cabe num ano de inclinação parecida com a da Terra.
+- **Órbita e período das duas luas**: afeta marés e a claridade noturna. O texto já tem as duas luas (caps. 5 e 13).

@@ -8,6 +8,8 @@ timestamp: 2026-09-05T12:00:00-03:00
 
 # O Sinal ficou permanentemente instável — não mudo
 
+> **Revisão 2026-11-13 (autor):** a regra abaixo (nunca "mudo/emudeceu/cessou") vale do prólogo até o cap. 29. A partir da libertação de Hícse (cap. 30) o Sinal fica mudo, de forma definitiva, porque mede o selo de Hícse e Hícse está solta. Ver `conceitos/sinal-de-vonos.md`, "Estado a partir da libertação de Hícse".
+
 ## Contexto
 
 Referências ao Sinal no texto do livro usavam linguagem de mudez total:
@@ -52,3 +54,10 @@ Sim.
 - `Livro 1/capitulo3.md` (L50 — fala do Inquiridor)
 - `Livro 1/capitulo4.md` (L19, L21, L25 — tribunal)
 - `log.md`
+
+## Revisão (2026-11-13)
+
+- O autor decidiu que o Sinal fica **mudo a partir da libertação de Hícse (cap. 30)**. Razão: o Sinal mede o selo de Hícse; com Hícse solta, não há o que medir.
+- A trajetória fica: instável (prólogo ao cap. 29) → mudo (cap. 30 em diante). Não há estágio intermediário de ruído.
+- O mudo é **definitivo**. A única saída seria Vonos reconstruir o instrumento, o que o autor descarta.
+- O vocabulário "mudo", "apagado" e "cessou" é autorizado do cap. 30 em diante. O que o rascunho já tem (cap. 47 "apagado", cap. 50 "mudo", epílogo "definitivamente morto") não é erro de canon.

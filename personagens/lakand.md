@@ -148,7 +148,7 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 - Lakand **NÃO estava com a alcateia que perseguiu Mário** — ele é batedor
   (cap. 9) e estava em serviço.
 - Ao perceber que a alcateia demorava demais, foi ao encontro dela — e
-  encontrou o massacre (cap. 16): a alcateia de Kenod dizimada.
+  encontrou o massacre (cap. 16): parte da alcateia de Kenod morta; Kenod e Charles estavam fora do ataque.
 - **Lakand NÃO culpa Mário pela morte da alcateia** (decisão 2026-08-04). Se
   carregasse culpa/rivalidade, repetiria o arco de Decian (cap. 17, "Vi os
   meus morrendo"). A perda é luto silencioso, sem alvo — nunca nomeado.
@@ -208,3 +208,10 @@ Ver timeline visual completa em [visuais/lakand.md](/visuais/lakand.md).
 
 **Prompt de referência (imagem-retrato do arquivo):**
 Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um lobisomem híbrido diante de um fundo de floresta em chamas com fumaça rente ao chão. Lakand, Daërunmege em forma híbrida mais fera que homem, corpo musculoso coberto de pelagem escura e acinzentada, cicatrizes de batalha visíveis, olhos intensos e animais, postura de predador com peso sobre as pontas dos pés, garras, pelagem chamuscada em tufos, peles e couro bruto, expressão selvagem e alerta. Iluminação: chiaroscuro dramático com clarão de incêndio e fumaça. Atmosfera: caótica, instintiva, de desespero animal. Paleta de cores: marrons de terra, cinza sangue, âmbar de fogo e fumaça. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.
+
+## Fratura da voz (decidido em 2026-11-12)
+
+- **Cap. 16 (POV de Mário)**: Lakand chega à clareira depois do massacre. Reconhece os mortos da alcateia de Kenod um a um, sem nomear, e fala pouco: "Quantos ficaram?" e "Vai". O luto tem duas camadas: Tae-Tabor, seu amigo (cap. 12 mostra o vínculo; ele o salvara antes dos outros lobisomens), e os irmãos da alcateia. O luto é silencioso e sem culpa a Mário.
+- **Justificativa do silêncio**: a perda da alcateia inteira, e não só de um amigo, sustenta o silêncio que se estende pelos caps. 17 a 21. Sem essa perda coletiva, o silêncio seria exagero.
+- Caps. 17 a 19: sem falas dele. O silêncio pesa.
+- Caps. 20 em diante: falas curtas, como já estavam.
