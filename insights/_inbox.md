@@ -230,26 +230,26 @@
 - **Condições para desenvolver**: o custo da oferta; por que Vonos a faz (interesse próprio, não generosidade); como a decisão de Mário é lida em termos de fé, e não de conveniência.
 - **Relação com o cânone**: `conceitos/cosmologia.md` (Mário é o primeiro a ser trazido da outra herança); `temas/timeline.md` (experimento Kraviam).
 
-### 2026-11-14: Cap. 47, mentira de Nolan sobre Saboc (a decidir)
+### 2026-11-14: Cap. 47, mentira de Nolan sobre Saboc (resolvido: não há mentira)
 
 - **Data**: 2026-11-14
 - **Ideia (uma linha)**: Nolan diz a Valinor que o bebê "não sobreviveu à fumaça". Motivo possível: esconder o herdeiro Guenayer-Addorbek, alvo da encomenda a Juleen (`decisoes/mandante-juleen-alvo-linhagem.md`), e não expor o milagre.
 - **Capítulos afetados**: 47 (fala), 49 e 56 (56 repete "matou Dagmar e o meu filho" em público), 65 ("cuide do menino"), epílogo ("bebê deixado num celeiro de palha").
-- **Status**: capturada (decisão do autor)
-- **Destino**: L1, pagamento no epílogo ou cap. 65. Exige onde Mira e Saboc ficam antes da Praça: cap. 46 diz que vêm na carruagem, o epílogo fala em celeiro.
+- **Status**: aceita e aplicada no cap. 47 em 2026-11-14. O autor decidiu que **não há mentira**: Mira e Saboc entram na Metrópole e, para todos os efeitos, Saboc sobreviveu naturalmente ao parto. Só Nuh sabe da ressurreição (o escriba lhe contou).
+- **Destino**: fechado. ⚠️ Pendente no texto: cap. 56, linha 55, Nolan diz em público "Matou Dagmar e o meu filho", o que agora contradiz Saboc vivo.
 - **Obs.**: "fumaça" remete ao incêndio de Devour, que no cap. 47 só aparece como rumor de Koda.
 
-### 2026-11-14: Cap. 47, precedente de Alavria (a decidir)
+### 2026-11-14: Cap. 47, precedente de Alavria (aceito e aplicado)
 
 - **Data**: 2026-11-14
 - **Ideia (uma linha)**: Reflexão de Nolan sobre tentativas antigas de Alavria de anexar o Reino (via diplomática, no Interregno), para a acusação não soar artificial.
 - **Capítulos afetados**: 47 (hoje a pista é o fragmento da Mina + renanthao importado, cap. 4).
-- **Status**: capturada
-- **Destino**: L1 ou L2; inventa história, então depende do autor.
+- **Status**: aceita pelo autor e aplicada no cap. 47 em 2026-11-14: Alavria ofereceu ajudar a expulsar Gondor em troca de o Reino virar província alavriana; os Guenayer da época recusaram.
+- **Destino**: fechado; registrado em `lugares/alavria.md` e `lugares/gondor.md`.
 
-### 2026-11-14: Semente #29 sem pagamento no cap. 47
+### 2026-11-14: Semente #29 no cap. 47 (aplicada)
 
 - **Ideia (uma linha)**: o desengano de Koda (a carta de Nolan foi ignorada; a capitania já fora prometida aos Clãs) estava previsto para a cena da tesouraria e não aparece.
 - **Capítulos afetados**: 47 (ou 48 a 53).
-- **Status**: capturada
-- **Destino**: L1, a localizar.
+- **Status**: aplicada no cap. 47 em 2026-11-14, com a cessão como "mais uma condição da apoteose" e a surpresa de o acordo ser o Reino inteiro, não Saramant. Ver `temas/sementes.md` #29.
+- **Destino**: fechado.

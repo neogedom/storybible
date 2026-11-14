@@ -24,6 +24,14 @@ Central; na baixa, os bairros de trabalho e dívida, onde vive o povo comum.
 O muro materializa a divisão de castas: um lado concentra dignidade e poder,
 o outro concentra quem paga por eles.
 
+### Pontes, entradas e rotas (cap. 47, 2026-11-14)
+
+- **Ponte de pedra, a oeste:** é a do cap. 17 (Nolan sai rumo a Saramant) e a do cap. 47 (Nolan volta). Dá no **portão oeste**, de grade de carvalho reforçada a ferro, onde antes dois fiscais da chancelaria conferiam manifestos e agora há doze soldados da infantaria comum.
+- **Ponte do Leste:** o cap. 47 diz que, pelo contrato do Trono, os Clãs só entram por ela, depois de uma parada na planície sul, longe da ponte de pedra. O cap. 50 fala em "Portão Leste". ⚠️ A ficha dizia que a ponte de pedra é a única travessia segura: passa a ser a única do lado oeste. Conferir a redação do cap. 50.
+- **Rota dos Clãs:** pela estrada real, mais longa e mais lenta, com o cativo febril no meio da coluna. **Rota de Nolan:** pela trilha do Espinhaço, atalho da serra, longe da estrada real. ⚠️ Cap. 33: a carroça não vence o Espinhaço; no cap. 47 uma carruagem leve faz o trajeto. Se incomodar, chamar de "atalho da serra".
+- **Burgos de humanos:** ao longo da margem, antes da muralha, casebres de taipa sem fumaça nas chaminés (cap. 47). ⚠️ Premissa a confirmar com o autor: ficam fora da muralha. O burgo baixo é a parte baixa, dentro dela.
+- **Estado da cidade no cap. 47:** filas nas padarias; o alqueire de centeio, que custava quatro cobres quando Nolan partiu, está a doze; pão cinzento com casca de aveia e gesso; Monólito apagado; oficinas de lapidários e relojoeiros fechadas; Benjamim circula em público com turíbulo e acólitos de túnica púrpura.
+
 ## Locais
 
 - **Praça Central**: Onde o Monólito da Verdade está plantado. Local da

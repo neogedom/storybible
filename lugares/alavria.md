@@ -28,6 +28,10 @@ o mundo conhecido para além de Ornick.
   Metrópole. O destacamento mata Genocydo, sobrepuja a defesa de Lakand, Decian e Kate na praça, mas é **aniquilado pela ação divina** (ver `insights/nolan-sufoca-boatos-sinal.md`).
   **Valinor Addorbek** morre defendendo a Metrópole da incursão.
 
+## Precedente da anexação (decisão do autor, 2026-11-14; cap. 47)
+
+- Durante a ocupação de Gondor, Alavria ofereceu ajuda para expulsar os gondorianos (navios e engenheiros) em troca de o Reino virar província alavriana. Os **Guenayer** da época recusaram. Nolan conhece o episódio pelos papéis da ocupação guardados pela família e o lembra no cap. 47, depois de acusar Alavria diante de Koda.
+
 ## Patrono — Renath
 
 - **Renath** é o elohim patrono de Alavria, da mesma categoria de Vonos, Terbs,

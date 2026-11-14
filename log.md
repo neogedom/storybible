@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-11-14 (Cap. 47: revisão em lote dos comentários do autor)
+
+- Aplicados no `capitulo47.md` os comentários `(* ...)` do autor, a pedido dele, ainda no modo privado (sem Mini-INGEST do 47).
+- Decisões do autor: não há mentira sobre Saboc (Mira e Saboc entram na Metrópole; só Nuh sabe da ressurreição, pelo escriba); precedente de Alavria no Interregno (ofereceu ajuda contra Gondor em troca de o Reino virar província; os Guenayer recusaram); o desengano de Koda, com a cessão aos Clãs como "mais uma condição da apoteose", sem nomear a blasfêmia.
+- Ajustes de canon no texto: insígnia de bronze do Conselho recolocada no portão (cap. 40 a escondera); capa vermelha de Mathias de volta; cocheiro fica no celeiro (cap. 46); "festividades de Gerikhad" vira "festa dos Clãs" (cap. 49); estação e cifras que Nolan não poderia saber saem da narração.
+- Registrados: semente #29 reescrita; fichas de Koda, Valinor, Saboc e Nuh; `lugares/metropole.md` (pontes, rotas, burgos), `lugares/alavria.md` e `lugares/gondor.md` (precedente); entradas do inbox de 2026-11-14 fechadas.
+- Pendências: cap. 56, linha 55 ("matou Dagmar e o meu filho"); cap. 50 ("Portão Leste" x "ponte do Leste"); brasão/anel de sinete dos Guenayer no cap. 40; ajuste do fragmento de renanthao no cap. 47; tensão entre a decisão de 2026-11-09 (a promessa antecedeu a carta) e o texto (a carta não foi a causa).
+
 ## 2026-11-13 (Correções do teste 2 no cap. 46)
 
 - Decisão do autor: Kate pode saber o nome de Ossan (cap. 46, linha 1 mantida).
