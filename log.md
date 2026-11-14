@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-11-14 (Geografia do Cran aprovada e aplicada)
+
+- Decisão do autor: a Metrópole é uma ilha com dois braços do Cran; Nolan desce pela estrada real e os Clãs pelas serras do outro lado do rio, com vau perto de Gus. Decisão em `decisoes/2026-11-14-geografia-cran-clas-metropole.md`; mapa em `lugares/mapa-cran-metropole.svg` e `.png`.
+- Livro: cap. 47, linha 1 ("pelas serras do outro lado do Cran, território que já era deles"); cap. 46, fala de Lakand ("Nas serras deles, com centenas de guerreiros carregando Mário").
+- Conferidos sem mudança: entrada pelo norte e saída pela garganta sul de Gus (caps. 43 a 45), Portão Leste (cap. 50), planície sul e barcaça (caps. 51 e 53). Cap. 45: "garganta sul" mantida.
+- Registros: `lugares/metropole.md`, `lugares/cidadela-de-gus.md`, `conceitos/clas-de-sangue.md`, nova ficha `personagens/elysia.md`; índice atualizado; entrada do inbox fechada.
+- O número dos Clãs é "mais de duzentos a cavalo" (cap. 44); "seiscentos" são os soldados de Alavria (cap. 66).
+
 ## 2026-11-14 (Epílogo corrigido e proposta da trajetória dos Clãs)
 
 - Epílogo: tirados "do bebê deixado num celeiro de palha" e "não tinha mais família", que contradizem Saboc vivo; a linha agora diz "nem sogro, nem corte. Só o filho, pequeno demais para saber de qualquer uma daquelas perdas".

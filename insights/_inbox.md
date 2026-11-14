@@ -254,11 +254,10 @@
 - **Status**: aplicada no cap. 47 em 2026-11-14, com a cessão como "mais uma condição da apoteose" e a surpresa de o acordo ser o Reino inteiro, não Saramant. Ver `temas/sementes.md` #29.
 - **Destino**: fechado.
 
-### 2026-11-14: Trajetória dos Clãs até a Metrópole (proposta a avaliar)
+### 2026-11-14: Trajetória dos Clãs até a Metrópole (aceita e aplicada)
 
 - **Data**: 2026-11-14
-- **Ideia (uma linha)**: o Cran separa duas margens. Nolan desce pela margem oeste (estrada real: Mina, Tronk, Estalagem do Vau, estrada de Saramant, ponte de pedra, portão oeste). Os Clãs cruzam o Cran por um vau do alto curso, perto de Gus, e descem pela margem leste, fora das estradas, até o acampamento da planície sul e o Portão Leste.
-- **Capítulos afetados**: 45, 47 (linha 1), 48 (a curva do Cran), 50, 51, 53 (portão sul).
-- **Status**: capturada (aguarda avaliação do autor)
-- **Destino**: L1, antes do congelamento.
-- **Pontos a decidir**: como a margem leste chega ao Portão Leste, se a cidade é ilha; e a barcaça de Kate, que desce rente à mesma margem (cap. 46).
+- **Ideia (uma linha)**: o Cran separa dois caminhos. Nolan desce pela estrada real (Gus, Mina, Tronk, estrada de Saramant, ponte de pedra). Os Clãs vêm pelas serras do outro lado do rio: cruzam um vau perto de Gus, atacam pelo norte, saem pela garganta sul, voltam ao vau e descem a serra até a planície sul. Entram pelo Portão Leste.
+- **Capítulos afetados**: 46 (fala de Lakand), 47 (linha 1), 45, 48, 50, 51 e 53 conferidos sem mudança.
+- **Status**: aceita pelo autor e aplicada em 2026-11-14. Mapa em `lugares/mapa-cran-metropole.svg`.
+- **Destino**: fechado. Registrado em `lugares/metropole.md`, `lugares/cidadela-de-gus.md`, `conceitos/clas-de-sangue.md` e `personagens/elysia.md`; decisão em `decisoes/2026-11-14-geografia-cran-clas-metropole.md`.

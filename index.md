@@ -23,6 +23,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Mira](personagens/mira.md) — Parteira-ama do castelo de Devour, ama de leite de Saboc, testemunha da ressurreição.
 - [Ossan](personagens/ossan.md) — Xamã sobrevivente da corte de Devour, filho do lorde, asset de Nolan (raiz-mestra/rampillas).
 - [Varek d'Alavr](personagens/varek.md) — Comandante da vanguarda de choque de Alavria, leviantar colossal, condutor galvânico de Renath.
+- [Elysia](personagens/elysia.md) — Baroa e líder de capitania; suas terras abasteciam a Metrópole de grão; pede grão e contesta a licença dada aos Clãs (cap. 58).
 
 ## Capítulos
 
@@ -144,6 +145,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Manto de Xilomagia de Tharin](decisoes/manto-xilomagia-tharin.md) — Chekhov's Gun recuperado no cap. 20; gatilho de ativação, carga finita, recarga por ritual de xilomago (canon 2026-08-14).
 - [Morte de Gaviorn'l antecipada](decisoes/gaviornl-morte-antecipada-hicse.md) — Kate mata Gaviorn'l em "Vilões se Aproximam"; Hícse livre cedo; o pagamento (a própria mão dela) fica em Gus (canon 2026-09-20).
 - [Gaviorn'l nunca soube do selo](decisoes/gaviornl-nunca-soube-do-selo.md) — A ignorância do receptáculo é cláusula da operação: o selo não exigiu ciência nem consentimento; a morte abre por escolha, não por ciência (canon 2026-10-06).
+- [Geografia do Cran, rota de Nolan e trajetória dos Clãs](decisoes/2026-11-14-geografia-cran-clas-metropole.md) — A Metrópole é uma ilha com dois braços do Cran; Nolan desce pela estrada real e os Clãs pelas serras do outro lado do rio; mapa em lugares/ (2026-11-14)
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 
 ## Agentes (Workflow)
