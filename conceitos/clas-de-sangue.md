@@ -18,7 +18,8 @@ timestamp: 2026-11-09T14:55:00Z
 - Organizam-se em tribos. Há vários Clãs, sem um líder geral que os reúna.
   No Reino de Genocydo, vários deles vivem nas Montanhas Esquecidas.
 - A representação das tribos no contrato com a Coroa mencionado no cap. 46
-  ainda não está definida.
+  ainda não está definida. O signatário pela Coroa é Genocydo (decisão
+  2026-11-13); Nolan não assinou.
 
 ## Língua
 

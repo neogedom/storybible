@@ -1,7 +1,7 @@
 ---
 type: Concept
 title: O Sinal de Vonos
-description: O oráculo que audita a realidade de Ornick. Com a chegada de Mário, ficou permanentemente instável — não emudeceu, mas nunca mais audita direito.
+description: O oráculo que audita a realidade de Ornick. Com a chegada de Mário, ficou instável (não mudo); com a libertação de Hícse (cap. 30) perde o objeto e fica mudo, de forma definitiva (revisão 2026-11-13).
 tags: [conceito, vonos, oraculo, sinal]
 timestamp: 2026-09-05T12:00:00-03:00
 ---
@@ -54,7 +54,7 @@ falha de rito. É como se... como se algo estivesse ocupando o canal."_
 > Pergunta estrutural do autor. **A resposta não é conveniência: é o próprio
 > Mário — e depois é a Hícse.**
 
-### Camada 1 — antes da Hícse (caps. 0-31): **ele é a interferência**
+### Camada 1 — antes da Hícse (caps. 0-29): **ele é a interferência**
 
 - O aparelho não erra **por estar quebrado — erra por causa dele.** A
   frequência de Mário ocupa o canal: **o caçado é a falha do instrumento.**
@@ -68,13 +68,16 @@ falha de rito. É como se... como se algo estivesse ocupando o canal."_
 
 ### Camada 2 — depois da Hícse (a partir do cap. 30): **o Sinal perde o objeto**
 
+> **Revisão 2026-11-13:** a partir da libertação de Hícse o Sinal fica **mudo** (ver "Estado a partir da libertação de Hícse", abaixo). Esta camada explica a causa (o aparelho perde o objeto); não há estágio intermediário de ruído.
+
 - O Sinal é o **eletrocardiograma do selo**. Rompido o selo
   (`conceitos/hicse.md`, "Depois da soltura"), o aparelho **perde a
   referência**: não é interferência, é **ausência de sujeito**. Não há selo
   para medir.
-- ⚠️ **Não dizer "o Sinal parou"** — contradiz a decisão de 2026-09-05. O
-  certo: **perdeu o objeto**, e com ele a **linha de base**. O que sobra é
-  ruído — tudo lê como *"não consta"*.
+- **Revisão 2026-11-13:** o aparelho **perdeu o objeto**, e com ele a
+  **linha de base**, e por isso **calou**. Não há leitura nem ruído a
+  interpretar: o Sinal está mudo. (A regra anterior, "não dizer que o Sinal
+  parou", valia só para a fase instável, do prólogo ao cap. 29.)
 - **Consequência:** a Ordem continua caçando e **caça pior** — a pé, por
   testemunho, por registro escrito. É por isso que, no bloco da Mina, a caça
   é feita pelos **dois com vara que sobem atrás do Mário** (cap. 28), e não
@@ -90,6 +93,22 @@ cap. 30, **é o mundo que não consta** — o registro perde o referente. Numa
 instituição cuja arma é o arquivo, isso é o princípio do fim: **a Ordem vai
 atrás da anomalia justamente quando deixou de saber medir qualquer coisa.**
 Alimenta a germinação de #19 no L2 (a Ordem atrás dela).
+
+## Estado a partir da libertação de Hícse — mudo e definitivo (canon 2026-11-13)
+
+> Decidido pelo autor em 2026-11-13. Revisa o canon de 2026-09-05 ("permanentemente instável, nunca mudo") a partir da libertação de Hícse.
+
+- **Razão:** o Sinal é o eletrocardiograma do selo de Hícse. Com Hícse solta (cap. 30), não há selo para medir, e o aparelho cala.
+- **Trajetória:** instável e embaralhado do prólogo ao cap. 29 (a frequência de Mário ocupa o canal) → **mudo a partir do cap. 30**, quando Hícse é libertada.
+- **Definitivo:** o mudo não é reversível. A única saída seria Vonos reconstruir o instrumento, o que o autor descarta (não vai acontecer). Isso fecha a porta de o Sinal voltar no L2 e confirma o "definitivamente morto" do epílogo do rascunho.
+- **Vocabulário:** "mudo", "apagado" e "cessou" valem do cap. 30 em diante. Até o cap. 29 vale a regra de 2026-09-05 (instável, nunca mudo).
+- **A profecia:** o Llyfr diz "Quando o sinal cessar, o Souhma virá para julgar os deuses e coroar os homens". O mudo cumpre o "cessar". Falas de personagens que já dizem "o sinal cessou" (por exemplo, o Inquiridor do cap. 3) deixam de ser tensão de canon.
+- **Leitura teológica (autor, 2026-11-13):** o epílogo diz que a Verdade de Vonos "fora silenciada pela soberania de outro Nome". Não contradiz a mecânica: é a providência (causa primeira) agindo por meio de causas segundas (Hícse solta pela mão de Kate; o Sinal sem objeto). Os personagens veem só a causa segunda.
+- **Vonos:** a decisão de 2026-09-05 se mantém neste ponto. O Sinal calado é o instrumento sem objeto, não Vonos calado nem Vonos ausente.
+- **L2:** a falta do Sinal pesa sobre os Inquiridores (operam sem instrumento: testemunho e registro escrito) e sobre o culto a Vonos. Charles não tem relação com o Sinal (autor, 2026-11-13).
+- **Passagens do texto a conferir (cap. 30 em diante):**
+  - Cap. 42 (artífices de Gus): falavam em "oscilação" da pedra do templo e em "desconexão definitiva" em "duas estações", como se o Sinal ainda oscilasse. Ajustado em 2026-11-13 para "a pedra do templo não respondeu" e "se o Sinal não voltar... ninguém mais vai esperar que volte". Os artífices não sabem que é definitivo.
+  - Cap. 33 (POV Nolan), "Os Inquiridores ainda podiam seguir o Sinal": pode ficar como suposição de Nolan, que não sabe.
 
 ## Conexões
 

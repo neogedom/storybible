@@ -70,6 +70,10 @@ Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
    **deus**, e o Reino seria formalmente cedido aos Clãs de Sangue por ordem de Hícse. A apoteose é a **recompensa do contrato**, não um processo
    que Genocydo persegue por si — é o pagamento por entregar a blasfêmia do
    Souhma. Terbs mente: a recompensa é isca; Genocydo é o instrumento.
+   **Canon 2026-11-13:** foi Genocydo quem assinou a entrega das terras aos
+   Clãs de Sangue (cap. 43). Estruzzo o chama de "Rei fantoche" porque Terbs
+   o move por meio de Benjamim Cressadar. Nolan não assinou esse contrato
+   (`decisoes/2026-11-13-signatario-contrato-claos.md`).
 3. Prende Mário após a entrega em Gus e o submete ao Garfo do Herege
    em praça pública durante o grande festival para forçar a blasfêmia
    pública. Na conversa do cap. 54, compreende a oferta de redenção de Mário

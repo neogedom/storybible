@@ -32,6 +32,8 @@ teológico**, não malícia.
   Nolan ↔ Inquiridores
   ([insight](/insights/nolan-cobra-nuh-informacao-negada.md)).
 - **Final do L1**: Choque teológico: Vonos não estava no controle. Some.
+  **Aceito em 2026-11-13:** no epílogo, antes de Benjamim chegar, Nuh pergunta a
+  Nolan se ele teve parte no silêncio do Sinal (ver `insights/_inbox.md`).
 - **Entre L1 e L2**: Bêbado anônimo.
 - **L2**: Encontra o Remanescente. "Já é tarde."
 

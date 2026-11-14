@@ -50,6 +50,11 @@ instrumento; o pagamento nunca será entregue. Terbs opera via **Benjamim**
 (clérigo infiltrado) — que intermedeia o contrato e alimenta a paranoia de
 Genocydo com a promessa.
 
+**Quem assinou (canon 2026-11-13):** Genocydo assinou a entrega das terras
+aos Clãs de Sangue (cap. 43). Estruzzo o chama de "Rei fantoche" porque
+Terbs o move por meio de Benjamim Cressadar. Nolan não é signatário desse
+contrato; o pacto dele com Terbs, no final do L1, é um evento separado.
+
 ## Relações
 
 - [Benjamim](/personagens/benjamim.md) — Servo direto, clérigo infiltrado
