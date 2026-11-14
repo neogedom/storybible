@@ -1,5 +1,15 @@
 # Log de Atualizações
 
+## 2026-11-14 (Cap. 47: pendências resolvidas pelo autor)
+
+- Cap. 56, linha 55: "Matou Dagmar e o meu filho" passa a "Matou Dagmar e tentou matar o meu filho", porque Saboc está vivo.
+- Portões: o cap. 47 passa a dizer "Portão Leste" (sem "ponte do Leste"), em acordo com o cap. 50; a ponte de pedra dá no portão oeste. Registrado em `lugares/metropole.md`.
+- Rota: o Espinhaço fica na Subida, entre Tronk e a Mina, e não leva à Metrópole. Caps. 46 e 47: Nolan desce pela estrada do sul, sem pouso; o cap. 33 não foi alterado.
+- Burgos de humanos ficam fora da muralha (a muralha separa humanos de leviantares).
+- Cap. 40: Nolan também esconde o anel de sinete dos Guenayer ao chegar em Gus, porque os hegralianos o reconheceriam; no cap. 47 ele o recoloca junto da insígnia.
+- Fragmento: metal galvânico, não renanthao; a referência a Alavria é a lavra. Ajustada a fala de Nolan no cap. 47.
+- A promessa dos Clãs não precisa ter antecedido a carta no texto: basta que a carta não tenha sido a causa. Semente #29 e ficha de Koda atualizadas.
+
 ## 2026-11-14 (Cap. 47: revisão em lote dos comentários do autor)
 
 - Aplicados no `capitulo47.md` os comentários `(* ...)` do autor, a pedido dele, ainda no modo privado (sem Mini-INGEST do 47).

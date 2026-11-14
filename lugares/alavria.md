@@ -70,3 +70,4 @@ o mundo conhecido para além de Ornick.
 
 - O renanthao vem de Alavria, por mar (caps. 4 e 6 foram ajustados). Renath, patrono da metalurgia, dá nome ao metal.
 - O fragmento de condutor galvânico com marca de Renath é entregue a Nolan por Mathias no cap. 42, recolhido nas ruínas da Mina.
+- **Decisão do autor (2026-11-14):** o metal do fragmento é **galvânico, não renanthao**: não tem a propriedade antimagia que apodrece a carne de quem tem magia. A referência a Alavria vem da **lavra** (o fio em espiral e a marca), e é assim que Nolan a usa diante de Koda no cap. 47: "A lavra é a mesma dos diapasões que você mandou importar de Alavria". Nolan pode carregá-lo no bolso sem risco.

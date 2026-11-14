@@ -41,7 +41,7 @@ Na sala de traçagem da Academia de Gus, Edgard Lupe'i confronta Nolan: acusa-o 
 - Nolan recusa embarcar: os vigias o veriam com rebeldes. Diz que o Rei tem informantes na guarnição e que precisa estar no Castelo de Quartzo antes dos Clãs cruzarem o fosso.
 - Ossan oferece os quatro rampillas; Nolan quer só o medo que causam no palácio.
 - Kate ameaça Nolan; ele responde que precisa de Mário vivo tanto quanto ela.
-- Nolan ordena a Mathias: carruagem leve; Mira e Saboc vão; caixas pesadas ficam no celeiro com o cocheiro; trilha do Espinhaço.
+- Nolan ordena a Mathias: carruagem leve; Mira e Saboc vão; caixas pesadas ficam no celeiro com o cocheiro; estrada do sul, sem pouso (cap. 46 ajustado em 2026-11-14: antes dizia "trilha do Espinhaço").
 - Decian se junta aos artífices; Kate e Lakand ficam na sala.
 
 ## Sementes e Conexões

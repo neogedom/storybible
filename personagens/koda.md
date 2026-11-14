@@ -52,7 +52,7 @@ Alavria.
 - Seu desaparecimento após a queda da Metrópole é intencional; o paradeiro
   será um mistério a resolver no L2.
 - O autor aprovou o pagamento no L1: Koda revela que a promessa de terras aos
-  Clãs antecedeu a carta de Nolan. **Aplicada ao cap. 47 em 2026-11-14**, com ajuste: o texto diz que a carta não foi a causa e que a cessão veio como condição da apoteose, sem fixar quem veio primeiro (o contrato é posterior à soltura de Hícse; ver `temas/sementes.md` #29).
+  Clãs antecedeu a carta de Nolan. **Aplicada ao cap. 47 em 2026-11-14**, com ajuste decidido pelo autor: o texto diz que a carta não foi a causa e que a cessão veio como condição da apoteose, sem afirmar que a promessa a antecedeu (o contrato é posterior à soltura de Hícse; ver `temas/sementes.md` #29).
 - **Direção L2 em avaliação:** Gunad pode investigar o desaparecimento do pai
   e o destino de Joachin, com uma possível viagem a Alavria. O papel e os
   desejos de Joachin ainda não estão definidos.

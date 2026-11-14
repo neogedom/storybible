@@ -141,7 +141,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Capítulo 40 — A Ruína e o Rumo
 
-- **Vestimenta**: casaco preto coberto de poeira, gola salpicada de sangue alheio, corte fino na têmpora; insígnia do Conselho escondida no forro ao chegar aos arredores de Gus.
+- **Vestimenta**: casaco preto coberto de poeira, gola salpicada de sangue alheio, corte fino na têmpora; insígnia do Conselho e anel de sinete dos Guenayer escondidos no forro ao chegar aos arredores de Gus (cap. 40).
 - **Objetos**: folhas do livro de dívidas de Uorier manchadas de sangue; edital real de custódia no bolso.
 - **Local**: pátio arruinado da Mina → garganta norte com pegadas sobrepostas → celeiro fora da muralha sul de Gus.
 - **Expressão**: cálculo contábil diante da ruína; atenção técnica ao desabamento; reserva diante dos corpos da família de Uorier.
