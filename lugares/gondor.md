@@ -70,6 +70,10 @@ nação mais poderosa que as anteriores.
 - Foi o pano de fundo do confisco das terras dos Deltëra (base da vingança
   de Koda; ver `lugares/alavria.md`).
 
+### A divisa do oeste (decisão do autor, 2026-11-14)
+
+A divisa com o Reino (cap. 17: "fronteira do oeste") atravessa a grande mata de Saramant, no território dos daërunmeges, e desce pela margem oeste do baixo Cran até a costa. A mata passa da divisa e afina do lado de Gondor. Duannis é a cidade de fronteira do Reino. Gondor não é desenhado no mapa; aparece como divisa e seta (`lugares/mapa-do-reino.md`).
+
 ## Estado Atual (L1 → L2)
 
 - Gondor **ainda existe** — derrotado na Guerra do Grifo, mas não

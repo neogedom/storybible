@@ -73,6 +73,8 @@ O bloco da Cidadela de Gus fecha o estágio **Vilões se Aproximam (~68% a ~75% 
 
 **O rio e o vau (decisão do autor, 2026-11-14):** o Cran passa a leste de Gus, e perto da cidade há um vau, que os Clãs usam. Eles chegam da serra do outro lado do rio, cruzam o vau, contornam Gus pelo norte e rompem a paliçada norte (caps. 43 e 44). Depois da captura de Mário, saem pela garganta sul (cap. 45), voltam ao vau e descem pela serra. As balsas de madeira dos artífices descem o Cran a partir de Gus (cap. 46); os batelões de fundo chato passam pelo raso. Mapa em `lugares/mapa-cran-metropole.svg`.
 
+**Ao norte (decisão do autor, 2026-11-14):** depois do planalto de colinas baixas começa a estepe e a fronteira aberta do norte (epílogo); Gus é o último posto antes dela. Ulna, o vilarejo fundador, aparece como ruína no alto Cran, ao norte. Mapa do Reino em `lugares/mapa-do-reino.md`.
+
 1. **Capítulo 39 (PoV de Mário) — A Fenda e o Acolhimento:**
    - Nos primeiros minutos após o desabamento, Mário encontra mais de uma dezena de sobreviventes à saída da Mina; três feridos estão mais perto. Um deles o repele, e Mário segue os fugitivos que buscam socorro na Cidadela de Gus. A frieza e o silêncio com Kate vêm de ela ter usado sua palavra como cortina de fumaça para a degola das filhas de Uorier.
    - Chegada à Cidadela de Gus: o contraste de humanos e leviantares convivendo sem correntes na rua.

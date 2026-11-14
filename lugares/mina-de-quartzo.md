@@ -29,9 +29,11 @@ e é exatamente por isso que ela é o alvo.
 Reino vem de lá: o **Monólito da Praça Central**, o quartzo do castelo, os
 instrumentos que dependem dele.
 
-**Rifte é outro reino — e é cliente.** O Templo de Vonos não é dono da Mina:
-ele **se beneficia da exportação** do quartzo do Reino. Ou seja, existe um
-**comércio** entre os dois reinos, e a pedra viaja.
+**Rifte é um enclave do Templo dentro do Reino — e é cliente.** (Decisão do
+autor, 2026-11-14: antes era "outro reino".) O Templo de Vonos não é dono
+da Mina: ele **se beneficia da exportação** do quartzo do Reino. Existe um
+**comércio** entre a Coroa e o enclave, com alfândega própria, e a pedra
+viaja de barcaça pelo Cran.
 
 Consequências travadas:
 

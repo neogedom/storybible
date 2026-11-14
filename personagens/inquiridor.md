@@ -11,7 +11,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## Visão Geral
 
 A **Ordem dos Inquiridores do Sinal** é o corpo de agentes a serviço do
-**Templo de Vonos**, em **Rifte** (reino vizinho). Não respondem ao Rei
+**Templo de Vonos**, em **Rifte** (enclave do Templo, dentro do Reino). Não respondem ao Rei
 Genocydo — apenas ao Templo — e têm autoridade para reivindicar custódia
 sobre qualquer caso relacionado ao Souhma.
 

@@ -83,11 +83,17 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 ## Lugares
 
 - [Metrópole](lugares/metropole.md) — Capital do Reino de Genocydo, sede do Monólito da Verdade.
-- [Saramant](lugares/saramant.md) — Floresta ao redor da fortaleza de Devour, território de caça de Kate.
-- [Vila de Opium](lugares/opium.md) — Povoado massacrado, onde Mário acorda em Ornick.
+- [Saramant](lugares/saramant.md) — A grande mata do oeste: do Vau e do castelo de Devour até a divisa com Gondor, e além; terras dos daërunmeges.
+- [Vila de Opium](lugares/opium.md) — Povoado massacrado, na ponta oeste da mata, onde Mário acorda em Ornick.
 - [Alavria](lugares/alavria.md) — Nação estrangeira, patrono Renath. Destacamento infiltrado aniquilado no L1; incursão frontal no L2.
 - [Gondor](lugares/gondor.md) — Império estrangeiro que dominou o Reino no Interregno; era de ouro dos vampiros; Guerra do Grifo.
-- [Rifte](lugares/rifte.md) — Reino vizinho; abriga o Templo de Vonos, sede da Ordem dos Inquiridores do Sinal.
+- [Rifte](lugares/rifte.md) — Enclave do Templo de Vonos dentro do Reino, na garganta do baixo Cran; sede da Ordem dos Inquiridores do Sinal.
+- [Mapa do Reino de Genocydo](lugares/mapa-do-reino.md) — Referência geográfica: lugares, estradas, divisas, guia de composição e prompt do mapa do livro.
+- [Valoran](lugares/valoran.md) — Cidade dos armazéns de grão, na planície sul.
+- [Duannis](lugares/duannis.md) — Cidade murada do baixo Cran, perto da divisa com Gondor.
+- [Ilton](lugares/ilton.md) — Cidade do planalto, ao norte da mata, na orla da estepe.
+- [Porto Sul](lugares/porto-sul.md) — Porto do Reino na foz do Cran; estaleiros dos Deltëra.
+- [Landorp](lugares/landorp.md) — Cidade-estado ou reino estrangeiro, onde estudantes derrubaram uma coroa.
 - [Os Moribundos](lugares/moribundos.md) — Campo de batalha da Guerra Milenar virado cicatriz; ecos presos em loop, que reagem à luta que se prepara.
 - [A Subida](lugares/subida-da-mina.md) — O vale da estrada da Mina: a estrada, o mato e o Espinhaço; a bacia de pedra e o carreador que só quem sabe acha.
 - [A Mina de Quartzo](lugares/mina-de-quartzo.md) — A mina que financia a Metrópole; quartzo, dívida e trabalho forçado. Cai enterrada no Ponto Central.
@@ -145,6 +151,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Manto de Xilomagia de Tharin](decisoes/manto-xilomagia-tharin.md) — Chekhov's Gun recuperado no cap. 20; gatilho de ativação, carga finita, recarga por ritual de xilomago (canon 2026-08-14).
 - [Morte de Gaviorn'l antecipada](decisoes/gaviornl-morte-antecipada-hicse.md) — Kate mata Gaviorn'l em "Vilões se Aproximam"; Hícse livre cedo; o pagamento (a própria mão dela) fica em Gus (canon 2026-09-20).
 - [Gaviorn'l nunca soube do selo](decisoes/gaviornl-nunca-soube-do-selo.md) — A ignorância do receptáculo é cláusula da operação: o selo não exigiu ciência nem consentimento; a morte abre por escolha, não por ciência (canon 2026-10-06).
+- [Mapa do Reino: lugares, divisas, Rifte, Opium e Saramant](decisoes/2026-11-14-mapa-do-reino-lugares-e-divisas.md) — Nomes fora do Reino, cidades, divisas, Rifte como enclave, Opium e Saramant alargada (2026-11-14)
 - [Geografia do Cran, rota de Nolan e trajetória dos Clãs](decisoes/2026-11-14-geografia-cran-clas-metropole.md) — A Metrópole é uma ilha com dois braços do Cran; Nolan desce pela estrada real e os Clãs pelas serras do outro lado do rio; mapa em lugares/ (2026-11-14)
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 

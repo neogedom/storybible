@@ -51,6 +51,7 @@ confirmados.
 - O acampamento da planície sul (cap. 46) é o corpo avançado, que chegou semanas antes (cap. 42). A massa a pé vista no norte (cap. 42) ainda desce pela serra, e é isso que torna a coluna lenta.
 - Entrada na Metrópole: trânsito diário pelo Portão Sul (cap. 53) e entrada cerimonial com Mário pelo Portão Leste (cap. 50), no fim da tarde do dia em que Nolan chega, ao amanhecer, pela ponte de pedra (caps. 47 e 50).
 - Os Clãs nunca tocam a estrada Mina, Tronk e Saramant, e Nolan nunca toca a serra: o rio é a separação.
+- **Divisa (cap. 14):** "as patrulhas das fronteiras [...] inclusive as que vigiam a divisa com os Clãs de Sangue". A linha corre ao pé da serra, do Cran até a costa sudeste, com pequenos fortes de guarnição (`lugares/mapa-do-reino.md`).
 - O contrato da Coroa os instalou na planície sul. O grão de Elysia, que chegava por esse lado, foi cortado pelos Clãs (ver `personagens/elysia.md`).
 
 ## Conexões

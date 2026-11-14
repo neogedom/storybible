@@ -39,6 +39,8 @@ O arquivo editável é `mapa-cran-metropole.svg`. O esquema é fora de escala, c
 - **Rotas no cap. 47:** Nolan desce pela estrada real (Gus, Mina, Tronk, estrada de Saramant, ponte de pedra), sem pouso, trocando a parelha em Tronk. A coluna dos Clãs vem pelas serras do outro lado do Cran (ver `conceitos/clas-de-sangue.md`). O rio fica entre os dois caminhos, que só se tocam na cidade, em portões opostos e com horas de diferença: Nolan chega ao amanhecer, a comitiva ao fim da tarde (caps. 47 e 50).
 - **O Espinhaço não faz parte da rota:** ele fica na Subida, entre Tronk e a Mina (`lugares/subida-da-mina.md`), e não leva à Metrópole. No cap. 46 a ordem é "Seguimos direto pela estrada do sul, sem pouso." O cap. 33 (a carroça não vence o Espinhaço) não foi alterado.
 - **Burgos de humanos:** ficam **fora da muralha**, ao longo da margem (a muralha separa humanos de leviantares, e a Segregação os confina ali). No cap. 47, casebres de taipa sem fumaça nas chaminés. O burgo baixo, dentro da muralha, é a parte baixa, abaixo do Muro Interno.
+- **Taverna do Porto Seco** (cap. 17): primeira parada de Nolan depois da ponte, servida por mãos humanas; fica ao norte da ponte, entre os burgos de humanos.
+- **Mapa do Reino:** o contexto regional (Saramant, Rifte, Porto Sul, divisas) está em `lugares/mapa-do-reino.md`.
 - **Estado da cidade no cap. 47:** filas nas padarias; o alqueire de centeio, que custava quatro cobres quando Nolan partiu, está a doze; pão cinzento com casca de aveia e gesso; Monólito apagado; oficinas de lapidários e relojoeiros fechadas; Benjamim circula em público com turíbulo e acólitos de túnica púrpura.
 
 ## Locais

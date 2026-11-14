@@ -1,5 +1,12 @@
 # Log de Atualizações
 
+## 2026-11-14 (Mapa do Reino: lugares, divisas, Rifte, Opium e Saramant)
+
+- Decisões do autor, registradas em `decisoes/2026-11-14-mapa-do-reino-lugares-e-divisas.md`: nomes fora do Reino (Landorp, Garyun, Vitysh, Velho Continente, Alavria e Gondor) só como divisa ou seta; Valoran, Duannis e Ilton como cidades do Reino; divisas com Gondor (oeste), Clãs (leste) e fronteira aberta ao norte, com fortes de guarnição; Rifte como enclave do Templo dentro do Reino; Opium na ponta oeste da mata; Saramant alargada sobre as terras dos daërunmeges e além da divisa; Campo dos Moribundos no mapa.
+- Novos: `lugares/mapa-do-reino.md` (com `.svg` e `.png` da referência e do guia, e o prompt final), `valoran.md`, `duannis.md`, `ilton.md`, `porto-sul.md`, `landorp.md`.
+- Atualizados: `rifte.md` e `saramant.md` (reescritas), `opium.md`, `gondor.md`, `subida-da-mina.md`, `cidadela-de-gus.md`, `moribundos.md`, `metropole.md`, `mina-de-quartzo.md`, `inquiridor.md`, `inquiridores-sinal.md`, `clas-de-sangue.md`, `elysia.md`, `index.md`.
+- Pendências: ponte velha (cap. 42), hierarquia do Templo (clérigo-mor × Nuh), pontos de L2 que dependem de posição.
+
 ## 2026-11-14 (Geografia do Cran aprovada e aplicada)
 
 - Decisão do autor: a Metrópole é uma ilha com dois braços do Cran; Nolan desce pela estrada real e os Clãs pelas serras do outro lado do rio, com vau perto de Gus. Decisão em `decisoes/2026-11-14-geografia-cran-clas-metropole.md`; mapa em `lugares/mapa-cran-metropole.svg` e `.png`.
