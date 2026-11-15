@@ -4,7 +4,7 @@ title: Cronologia do Livro 1 (estimada pelas âncoras)
 description: Dia a dia do L1, do prólogo ao epílogo, encadeado a partir das âncoras de tempo do texto e das fichas; registra as durações declaradas que não fecham e os alertas de consistência temporal.
 tags: [tema, timeline, cronologia, L1, consistencia]
 resource: https://github.com/neogedom/storybible/blob/main/temas/cronologia-l1.md
-timestamp: 2026-11-15T20:00:00-03:00
+timestamp: 2026-11-15T22:00:00-03:00
 ---
 
 # Cronologia do Livro 1 (estimada pelas âncoras)
@@ -86,9 +86,44 @@ As demais marcas de "semanas" cabem em quatro a cinco semanas: castelo ardeu "se
 
 Os caps. 1 a 3 (Terra) ficam de fora. A média dos 43 primeiros capítulos é de cerca de 3,7 mil palavras por dia de história; o final corre a pouco mais que o dobro.
 
+## Cenário de três meses (proposta de 2026-11-15, não aplicada)
+
+Pergunta do autor: dá para a história levar meses, como o cap. 48 declara, e resolver também os efeitos da queda da Mina? Resposta: o tempo só pode ser esticado antes da queda, porque os caps. 41 a 66 estão presos a "dois dias", "na manhã seguinte" e "amanhã". Duas costuras levam o livro a cerca de 97 dias.
+
+- **Costura 1, depois do incêndio de Devour: +21 dias.** Mário se recupera da febre no mato; Nolan enterra Dagmar, aprende a raiz-mestra e espera Mira e Saboc. Hoje Nolan parte "na manhã seguinte" com um recém-nascido (cap. 22, L141).
+- **Costura 2, na fase da Mina, entre os caps. 35 e 36: +42 dias.** Kate treina os seguidores (de 5, no cap. 32, a 40, no cap. 36) e Mário prega no assentamento; Nolan monta a vigília no Espinhaço ("Não tinha pressa", cap. 33, L9).
+- **Resultado:** Nolan fica 90 dias fora (Dia 5 ao 95); o Tronk fica a 49 dias do cap. 49; Saboc tem 12 semanas no cap. 48; a cicatriz de Lakand tem 49 dias; o inverno chega no Dia 44.
+
+**Costuras no texto (14):**
+
+1. Cap. 22, L141: "Na manhã seguinte" passa a "Três semanas depois".
+2. Cap. 23, antes da L1: duas frases sobre as três semanas no mato.
+3. Cap. 23, L7: tirar o "cheiro de fumaça".
+4. Cap. 29, L131: "outono" passa a "inverno".
+5. Cap. 33, L199: uma frase sobre as semanas de espera.
+6. Cap. 34, L99: "Amanhã subimos" passa a "Subimos quando o grupo estiver pronto".
+7. Cap. 35, L25: "poeira de outono" passa a "poeira de inverno".
+8. Cap. 36, L1: abrir com "Seis semanas depois,".
+9. Cap. 40, abertura: uma frase sobre as seis semanas de vigília de Nolan.
+10. Cap. 41, L3: "em semanas" passa a "em meses".
+11. Cap. 42, L63: "semanas antes" passa a "meses antes".
+12. Cap. 49, L21: "há três semanas" passa a "há sete semanas".
+13. Cap. 48, L25: "pela destruição da Mina de Quartzo" passa a "pela caçada ao Souhma nas estradas do norte".
+14. Cap. 48, L31: "Sem as remessas contínuas de quartzo bruto da Mina do norte" passa a "Com o Monólito mudo desde a noite do Sinal".
+
+**Os efeitos da queda da Mina (A2) não se resolvem só com o tempo.** A Mina continua a quatro dias do cap. 48. O que o cenário faz é dar 94 dias ao Sinal mudo e às incursões dos Clãs, e é isso que as costuras 13 e 14 passam a creditar. Resolver só pelo tempo exigiria semanas depois da queda, o que obriga a reescrever os caps. 41 a 43 e a acrescentar ao menos um capítulo sobre Gus.
+
+**Resolve:** A1, A3 (com um número), A5 (com duas trocas de palavra), A7 e A8. **Não muda:** A4 (lua), A6, A9 a A14.
+
+**Pontos novos:** (1) por que Inquiridores e Clãs não chegam a Mário em seis semanas, com a frequência dele "conhecida" (cap. 27, L141); (2) água e comida no assentamento, com o poço quase seco (cap. 34, L47); (3) a ferida e a febre de Mário, que persistem até o cap. 26 (cap. 23, L3; cap. 26, L3); (4) Nolan no castelo em ruínas, com as facções que Koda cita (cap. 48, L79).
+
+**Efeito no ritmo:** o miolo (caps. 23 a 46) cai de 2.747 para 892 palavras por dia e o final (7.827) passa a ser 6,7 vezes mais denso que a média dos 43 primeiros capítulos, contra 2,1 vezes hoje.
+
+**Alternativa barata, sem esticar:** trocar "três meses" e "meses antes" no cap. 48 (L65 e L3) e "três semanas" no cap. 49 (L21), mais as duas frases do cap. 48 (L25 e L31). Cerca de seis edições, e a estação continua pedindo as duas trocas de "outono".
+
 ## Decisões do autor pendentes
 
-1. **Duração do L1.** Manter cerca de cinco semanas e ajustar as frases do 48 e do 49, ou esticar a história para meses (e então inserir marcas de tempo e decidir a estação).
+1. **Duração do L1.** Manter cerca de cinco semanas e ajustar as frases do 48 e do 49, ou esticar a história para meses com as duas costuras do cenário acima.
 2. **Fases das luas.** Nomear qual lua está crescente e qual está minguante, ou alinhar os caps. 43, 53 e 55.
 3. **Ordem dos caps. 59 e 60.** Já descrita na decisão linkada acima.
 

@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-15 (Cenário de três meses para o Livro 1)
+
+- Pergunta do autor: dá para a história levar meses e resolver os efeitos da queda da Mina? Registrado em `temas/cronologia-l1.md` o cenário de duas costuras (+21 dias depois do incêndio de Devour, +42 dias na fase da Mina), com 14 edições de texto, pontos novos e efeito no ritmo. Proposta, nada aplicado ao livro.
+- Conclusão: o tempo só pode ser esticado antes da queda; os efeitos da Mina no cap. 48 pedem ainda duas frases reatribuídas (L25 e L31). A página "Cronologia do Livro 1" ganhou a opção "Cenário de três meses".
+
 ## 2026-11-15 (Cronologia do Livro 1 inteiro)
 
 - Pedido do autor: uma timeline do livro todo para avaliar a consistência temporal. Criado `temas/cronologia-l1.md` (cadeia de dias, durações declaradas contra estimadas, 14 alertas, ritmo por trecho) e a página interativa "Cronologia do Livro 1".
