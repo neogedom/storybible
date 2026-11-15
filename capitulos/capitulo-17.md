@@ -13,7 +13,7 @@ timestamp: 2026-07-25T12:00:00-03:00
 
 Nolan cruza o **Rio Cran** com Dagmar e Mathias. Sai da Metrópole; entra em
 Saramant. Reflete sobre como ajudou a construir a **Segregação** tijolo por
-tijolo.
+tijolo. Logo depois da ponte passa pelos casebres de portas fechadas dos burgos de humanos, na margem, sem erguer os olhos (frase acrescentada em 2026-11-15; ecoa o cap. 47).
 
 Pára na **Taverna do Porto Seco**. Come comida servida por mãos humanas —
 o mesmo tipo de pessoa que ele condena na Metrópole. Pergunta sobre

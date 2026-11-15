@@ -1,5 +1,12 @@
 # Log de Atualizações
 
+## 2026-11-15 (Cap. 47: edições do autor e novos comentários em lote)
+
+- Autor editou o cap. 47 (cortou comparações decorativas; ligou a fome à apoteose; trocou "barqueiros de Orval" por "artífices da Cidadela"; tirou a acusação explícita a Alavria da fala de Nolan e levou a oferta antiga para a narração; acrescentou um parágrafo final) e deixou cinco comentários `(* ...)`. No cap. 40 cortou a explicação do anel de sinete (o gesto fica).
+- Aplicado em lote, a pedido dele: Nolan não cita o contrato do Trono, infere a parada dos Clãs e o Portão Leste pelo relato de Mathias (cap. 46); a fumaça é a do acampamento da planície sul; barbacã explicada no texto; burgos ligados à Segregação (sem selagem literal) e mencionados também no cap. 17; alusão a Alavria em ponto de vista de Nolan, com Koda nomeando Alavria; erros de digitação e crase corrigidos.
+- Registrados: `capitulos/capitulo-47.md` e `capitulos/capitulo-17.md` (burgos); semente #34 (germinação reescrita); `lugares/alavria.md`; `lugares/metropole.md` e `lugares/mapa-do-reino.md` (a Taverna do Porto Seco fica a horas da ponte, não entre os burgos: correção de registro anterior); `visuais/ossan.md` (olhos pequenos).
+- Observação de texto (não alterei o livro): a fala final de Benjamim ainda fecha em aforismo; fica para o anti-slop em lote.
+
 ## 2026-11-14 (Mini-INGEST do cap. 47)
 
 - Cap. 47 fechado (3.135 palavras; ~87,0%). Criada `capitulos/capitulo-47.md`; visuais de Nolan, Mathias, Ossan, Mira, Saboc e Benjamim atualizados; criados `visuais/valinor.md` e `visuais/koda.md`; "não aparece" em Kate, Mário, Lakand, Decian e Genocydo.

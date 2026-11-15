@@ -62,6 +62,6 @@ timestamp: 2026-08-26
 
 ## Capítulo 47 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
 
-- **Postura**: caminha a três passos do estribo, de olhos miúdos varrendo as guaritas; ao pé da escadaria, imóvel entre os servos, com os quatro rampillas.
+- **Postura**: caminha a três passos do estribo, de olhos pequenos varrendo as guaritas; ao pé da escadaria, imóvel entre os servos, com os quatro rampillas.
 - **Observação**: aparece como "xamã maltrapilho" aos olhos dos servos.
 - **Fundo**: ponte de pedra, portão oeste, escadaria do Castelo de Quartzo.

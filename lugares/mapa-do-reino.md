@@ -28,7 +28,7 @@ Arquivos editáveis: `mapa-do-reino-referencia.svg` (com rótulos) e `mapa-do-re
 | Lugar | Fonte | Situação |
 |---|---|---|
 | Metrópole, ilha com dois braços do Cran, ponte de pedra, burgos de humanos fora da muralha | caps. 17, 46, 47 | no texto e decisão de 2026-11-14 (`lugares/metropole.md`) |
-| Taverna do Porto Seco | cap. 17 | no texto; fica ao norte da ponte, entre os burgos |
+| Taverna do Porto Seco | cap. 17 | no texto; fica na estrada de Saramant, a horas da ponte e depois dos campos (parada no fim da tarde); não está entre os burgos |
 | Saramant, a grande mata, do Vau e do castelo de Devour até a divisa com Gondor, e além | caps. 5, 17, 19 | no texto; extensão decidida (`lugares/saramant.md`) |
 | Estalagem do Vau e os três ramais | cap. 19 | no texto |
 | Castelo de Devour (leste do Vau) | caps. 13, 19 | no texto |

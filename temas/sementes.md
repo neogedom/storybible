@@ -691,10 +691,10 @@ _Atualizar a cada INGEST de capítulo._
 ## 34. O fragmento galvânico e a lavra de Alavria (canon 2026-11-12; aplicado ao cap. 47 em 2026-11-14)
 
 - **Plantio no L1 (cap. 42):** Mathias entrega a Nolan um fragmento das ruínas da Mina: núcleo de metal escuro, fios finos em espiral e uma marca rasa, de traços retos e um círculo partido. Nolan não reconhece o desenho.
-- **Germinação (cap. 47):** Nolan o mostra a Koda: "A lavra é a mesma dos diapasões que você mandou importar de Alavria"; acusa Alavria, por inferência de lavra mais importação (cap. 4), não por prova. O metal é **galvânico, não renanthao** (decisão do autor, 2026-11-14): sem a propriedade antimagia. Koda desvia ("Alavria fica a semanas pelo mar") e leva a mão ao colete, onde guarda os despachos do porto sul.
-- **Reforço:** Nolan lembra a oferta antiga de Alavria na ocupação de Gondor (ajuda para expulsar os gondorianos em troca de o Reino virar província), recusada pelos Guenayer.
+- **Germinação (cap. 47):** Nolan o mostra a Koda: "É o tipo de metal que só uma nação com conhecimento avançado sobre metalurgia saberia fundir" (edição do autor, 2026-11-15, no lugar de "A lavra é a mesma dos diapasões que você mandou importar de Alavria"). Descreve uma nação "que já demonstrou no passado interesse sobre nossas terras" sem nomeá-la. Quem nomeia Alavria é **Koda** ("Alavria fica a semanas pelo mar"), e leva a mão ao colete, onde guarda os despachos do porto sul: ele se entrega sem ser acusado. O metal é **galvânico, não renanthao** (decisão do autor, 2026-11-14): sem a propriedade antimagia.
+- **Reforço:** a alusão de Nolan carrega a oferta antiga de Alavria na ocupação de Gondor, no Interregno, com o trono vazio (ajuda para expulsar os gondorianos em troca de o Reino virar província), recusada pelos Guenayer da época. A narração a explica em uma frase, em ponto de vista de Nolan.
 - **Payoff:** a confissão parcial de Koda (cap. 60) e a revelação das cargas e da vanguarda de Alavria (caps. finais).
-- **Limite:** o fragmento não é prova; Nolan guarda a reação de Koda "no arquivo mental das contradições do Trono".
+- **Limite:** o fragmento não é prova; Nolan "guardou para si as conclusões sobre a reação de Koda".
 
 ## Sementes dos capítulos 34 a 38 (mini-INGEST refeito, 2026-11-12)
 

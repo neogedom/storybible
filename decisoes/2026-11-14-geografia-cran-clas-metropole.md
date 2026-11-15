@@ -29,7 +29,7 @@ Status: decidido pelo autor em 2026-11-14, ao revisar o cap. 47. Mapa: `lugares/
 
 ## Outras decisões do mesmo dia (ver `log.md`)
 
-Saboc vivo e sem mentira; precedente de Alavria no Interregno; fragmento de metal galvânico (a referência a Alavria é a lavra); anel de sinete dos Guenayer escondido no cap. 40; cessão aos Clãs como "mais uma condição da apoteose".
+Saboc vivo e sem mentira; precedente de Alavria no Interregno; fragmento de metal galvânico (a referência a Alavria é a lavra; ajuste de 2026-11-15, por edição do autor no cap. 47: Nolan não cita a lavra e é Koda quem nomeia Alavria); anel de sinete dos Guenayer escondido no cap. 40; cessão aos Clãs como "mais uma condição da apoteose".
 
 ## Conexões
 
