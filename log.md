@@ -8,6 +8,8 @@
 - Observação de texto (não alterei o livro): a fala final de Benjamim ainda fecha em aforismo; fica para o anti-slop em lote.
 - Esclarecimento a pedido do autor (mesmo dia): "faltava a coluna que trazia Mário" era ambíguo e a atribuição a Mathias passava do que ele disse; a abertura foi reescrita (o acampamento já está na planície sul; a coluna de Mário ainda não chegou a ele; o Portão Leste é cálculo de Nolan). Ponto em aberto no cap. 46: o texto não diz como Mathias sabe do acampamento estando em Gus.
 - Dúvida do autor (mesmo dia): por que o acampamento existe, se é fixo e como Mathias o saberia. Registrado: o contrato da Coroa o instalou na planície sul e ele é fixo (fogueiras atrás de paliçadas no cap. 51; farinha da tesouraria no cap. 53); a citação do cap. 42 em `conceitos/clas-de-sangue.md` era inferência e foi corrigida; a fonte de Mathias segue em aberto (três saídas na ficha do cap. 46).
+- Decisão do autor (mesmo dia): opção A. Cap. 46, linha 61: Mathias descreve só a rotina ("o outro vigia a planície sul"). Cap. 47, linha 1: Nolan vê a fumaça ao sul e conclui que é um acampamento dos Clãs; a coluna com Mário ainda não chegou a ele.
+- Pergunta do autor: se os Clãs desceram, acamparam e só depois atacaram Gus. Resposta registrada: não; o ataque a Gus veio direto da serra (caps. 43 e 44) e o acampamento da planície sul fica no extremo oposto, sem cena de origem. Proposta de história (contrato da Coroa como ponto de reunião; uma linha de Valinor no cap. 47) enviada ao autor, ainda sem decisão.
 
 ## 2026-11-14 (Mini-INGEST do cap. 47)
 
