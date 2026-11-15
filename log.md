@@ -11,6 +11,8 @@
 - Cap. 51 (Kate): a cronologia estrita pediria movê-lo para depois do 54; a recomendação é manter a ordem (detalhes na decisão).
 - Decisão do autor: o enforcamento de Juleen é à tarde. Cap. 60 ("Ontem à tarde") e epílogo, linha 27 ("naquela tarde") alinhados aos caps. 49, 53 e 56.
 - Juntar capítulos de Kate (51 + 55, 57 + 59): análise registrada na decisão; recomendação de não juntar agora e rever no congelamento.
+- Pergunta do autor: o trecho dos caps. 44 a 66 é denso demais para três dias? Avaliação registrada na decisão (medidas por dia, onde segura e onde aperta); sem decisão.
+- Correção: lidos os caps. 57 a 66 por inteiro, o final do 59 (cortejo com o prisioneiro) acontece depois do fim do Conselho (60). A contagem de recuos no tempo na ordem atual é 2 (51 e 59), não 1. Sugestão: trocar o 59 e o 60 de lugar. A página da cronologia foi corrigida.
 
 ## 2026-11-13 (Correções do teste 2 no cap. 46)
 
