@@ -155,6 +155,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Gaviorn'l nunca soube do selo](decisoes/gaviornl-nunca-soube-do-selo.md) — A ignorância do receptáculo é cláusula da operação: o selo não exigiu ciência nem consentimento; a morte abre por escolha, não por ciência (canon 2026-10-06).
 - [Mapa do Reino: lugares, divisas, Rifte, Opium e Saramant](decisoes/2026-11-14-mapa-do-reino-lugares-e-divisas.md) — Nomes fora do Reino, cidades, divisas, Rifte como enclave, Opium e Saramant alargada (2026-11-14)
 - [Geografia do Cran, rota de Nolan e trajetória dos Clãs](decisoes/2026-11-14-geografia-cran-clas-metropole.md) — A Metrópole é uma ilha com dois braços do Cran; Nolan desce pela estrada real e os Clãs pelas serras do outro lado do rio; mapa em lugares/ (2026-11-14)
+- [Acampamento dos Clãs na planície sul](decisoes/2026-11-15-acampamento-dos-clas.md) — O contrato do Trono fez da planície sul o ponto de reunião dos Clãs; o ataque a Gus não saiu dele; a ordem de Hícse é pressuposta, sem voz (2026-11-15)
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 
 ## Agentes (Workflow)

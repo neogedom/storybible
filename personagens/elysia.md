@@ -22,7 +22,7 @@ Elysia é baroa e líder de capitania. Suas terras são a fonte dos "carregament
 
 - As terras de Elysia ficam do lado sul/sudeste do Cran, junto à serra dos Clãs. A estrada do grão chega à planície sul, ao pé da serra.
 - O comboio de mercadores de Elysia foi massacrado nessa estrada, semanas antes, em território dos Clãs. É por isso que Nolan, que só andou pelo lado norte (caps. 28 a 40), não viu sinal deles.
-- A ironia: a Coroa instalou os Clãs na planície onde o grão chegava e ainda lhes manda farinha (cap. 53), enquanto a capitania de Elysia passa fome.
+- A ironia: a Coroa instalou os Clãs na planície onde o grão chegava e ainda lhes manda farinha (cap. 53), enquanto a capitania de Elysia passa fome. Valinor o diz no cap. 47: eles "armaram paliçada em cima da estrada do grão".
 - Mapa em `lugares/mapa-cran-metropole.svg`; contexto regional em `lugares/mapa-do-reino.md` (Capitania de Elysia, no sudeste, e estrada do grão por Valoran).
 
 ## Função
