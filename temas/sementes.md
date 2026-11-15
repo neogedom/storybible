@@ -642,6 +642,7 @@ _Atualizar a cada INGEST de capítulo._
 
 - **Plantio:** L1, caps. 4, 19, 20 e 22 (a ressurreição na cela; o filho de Nolan e Dagmar que une as linhagens Guenayer e Addorbek).
 - **Desenvolvimento no L2:** Saboc cresce na corte da Metrópole junto aos filhos de Mário e Kate (os gêmeos Bernardo e Stella). Sendo alguns anos mais velho (11-13 anos), torna-se amigo leal e protetor fraternal deles.
+- **Germinação no L1 (cap. 47, 2026-11-14):** Saboc entra vivo na Metrópole com Mira e Valinor o conhece. Para a corte, sobreviveu naturalmente ao parto; só Nuh sabe da ressurreição (soube pelo escriba), fora do texto.
 - **Germinação / Payoff:** No final do L2, Mário abdica do trono temporal para seguir como peregrino e recusa coroar seus filhos na corte corrompida (entregando-os à fé do Remanescente). O trono secular é assumido por Saboc. A ironia fecha a ambição de Nolan: sua linhagem governa a Metrópole não pelo pacto sujo com Terbs, mas porque Mário ressuscitou Saboc por pura graça anos antes em Saramant.
 
 ## 27. O Destino dos Inquiridores e o Sinal Cego (canon 2026-10-17)
@@ -656,11 +657,14 @@ _Atualizar a cada INGEST de capítulo._
 - **Germinação no L2:** Na Configuração do L2, Mário assume a coroa e ganha a alcunha de **o Rei Docente**. Ele reúne os eruditos da Academia dos Artífices no palácio da Metrópole, lê em voz alta o exemplar da Bíblia deixado por Kraviam e ensina o português aos letrados para operacionalizarem a tradução das Escrituras para o ornickenho.
 - **Corrupção trágica:** O projeto pedagógico vira a porta de entrada para a Inquisição imperial: Nolan e os juristas usam a tradução para sacralizar as leis do Estado ("Espadas do Evangelho"), cumprindo o alerta de Orval.
 
-## 29. O Desengano de Nolan e o Pânico de Koda (canon 2026-10-25)
+## 29. O Desengano de Nolan e o Pânico de Koda (canon 2026-10-25; aplicado ao cap. 47 em 2026-11-14)
 
-- **Plantio no L1:** Cap. 42 (Nolan supõe na taverna de Gus que Genocydo e Benjamim abriram os desfiladeiros aos Clãs de Sangue precipitados pela carta que ele despachara na estrada).
-- **Payoff no L1 (Ato 3 - Retorno à Metrópole):** Ao reencontrar Koda Deltëra na câmara contábil da Metrópole, Nolan tenta se justificar ou apontar que o Rei agiu em pânico após o seu aviso. Koda o desengana com aspereza: a carta de Nolan foi solenemente ignorada; o Trono já havia prometido a capitania do norte e terras de pasto aos Clãs semanas antes, por iniciativa direta de Benjamim e puro terror financeiro e militar de Genocydo.
-- **Conflito Oculto de Koda:** A revelação expõe o pânico de Koda. Ele planejou a tomada cirúrgica da cidade por Alavria abrindo os portões durante a confusão; a descida desgovernada dos Clãs de Sangue ameaça queimar o Reino antes que o destacamento alavriano possa intervir, arriscando o resgate de seu filho Joachin mantido como refém.
+- **Plantio no L1:** Cap. 42 (Nolan supõe na taverna de Gus que Genocydo, ao som de Benjamim, abriu os desfiladeiros aos Clãs de Sangue, "prometendo terras da capitania", precipitado pela carta que ele despachara na estrada).
+- **Payoff no L1 (cap. 47, tesouraria real):** Nolan tenta se justificar: o Rei teria agido em pânico depois do aviso dele. Koda o desengana com aspereza: a carta não moveu nada. Benjamim trouxe a cessão aos Clãs como **"mais uma condição da apoteose"**, e o Rei assinou sem passar pelo Conselho (o signatário é Genocydo, não Nolan: `decisoes/2026-11-13-signatario-contrato-claos.md`).
+- **A surpresa é de escala.** Nolan sabia de um acordo com os Clãs, mas pensava numa porção de terra selvagem, Saramant, que nenhum metropolitano reclamaria. Koda corrige: foi o Reino inteiro.
+- **"Mais uma condição."** Koda só viu a cessão, porque ela exigiu selo e passou pela mesa dele; as outras ele não viu e sabe apenas que existem. Nolan também não sabe quais. A condição da blasfêmia pública de Mário **não é nomeada** no cap. 47; fica para o confronto de Nolan com Genocydo (próximo capítulo de Nolan) e com Benjamim.
+- **Ordem no tempo.** O contrato com os Clãs é posterior à soltura de Hícse (cap. 30) e à cobrança dela a Terbs (`decisoes/gaviornl-morte-antecipada-hicse.md`). **Decisão do autor (2026-11-14):** o texto não precisa afirmar que a promessa antecedeu a carta de Nolan (cap. 28); basta dizer que a carta não foi a causa. A formulação de 2026-11-09 ("a promessa antecedeu a carta") fica superada por essa leitura.
+- **Conflito oculto de Koda:** no texto aparece só como gesto (amassa um recibo, pressa nas respostas). Ele planejou a tomada cirúrgica da cidade por Alavria abrindo os portões durante a confusão; a descida desgovernada dos Clãs ameaça queimar o Reino antes de o destacamento alavriano intervir, arriscando o resgate de Joachin, refém em Alavria.
 
 ## 30. O Canal dos Rampillas e a Senha do Celeiro Sul (canon 2026-10-25; cocheiro registrado em 2026-11-03)
 
@@ -676,6 +680,21 @@ _Atualizar a cada INGEST de capítulo._
 - **Payoff confirmado (cap. 46):** Lupe'i confronta Nolan na sala de traçagem, cobrando a perseguição ao Souhma e o rastro de sangue; não afirma que Nolan assinou o contrato.
 - **Função:** Conectar o relato de Lupe'i à busca de Nolan e às consequências que alcançam Gus. Lupe'i não esperava os Clãs na Cidadela e pode cobrar de Nolan sua ligação com o Trono.
 - **Limite de causalidade:** Não afirmar que o relato de Lupe'i ou a perseguição pessoal de Nolan causaram o contrato dos Clãs. A Coroa é quem firmou o pacto; Lupe'i pode suspeitar ou responsabilizar Nolan sem que a disputa seja encerrada.
+
+## 33. "Mais uma condição": as condições da apoteose (canon 2026-11-14)
+
+- **Plantio no L1 (cap. 47, POV Nolan):** Koda diz que Benjamim trouxe a cessão do Reino aos Clãs como "mais uma condição da apoteose" e que o Rei assinou sem o Conselho. Koda só viu essa condição, porque exigiu selo e passou pela mesa dele; sabe que as outras existem. Nolan registra que "mais uma condição" quer dizer que há outras.
+- **Surpresa de escala:** Nolan sabia de um acordo com os Clãs, mas imaginava só Saramant, "um pedaço de mato"; foi o Reino inteiro.
+- **Payoff no L1:** Nolan descobre os termos do pacto ao confrontar Benjamim (esquema, Tudo Está Perdido) e cobra satisfação de Genocydo em um próximo capítulo dele. A condição da blasfêmia pública de Mário vem à tona nessa sequência.
+- **Limite:** a blasfêmia não é nomeada no cap. 47, e Nolan não sabe que é ela.
+
+## 34. O fragmento galvânico e a lavra de Alavria (canon 2026-11-12; aplicado ao cap. 47 em 2026-11-14)
+
+- **Plantio no L1 (cap. 42):** Mathias entrega a Nolan um fragmento das ruínas da Mina: núcleo de metal escuro, fios finos em espiral e uma marca rasa, de traços retos e um círculo partido. Nolan não reconhece o desenho.
+- **Germinação (cap. 47):** Nolan o mostra a Koda: "É o tipo de metal que só uma nação com conhecimento avançado sobre metalurgia saberia fundir" (edição do autor, 2026-11-15, no lugar de "A lavra é a mesma dos diapasões que você mandou importar de Alavria"). Descreve uma nação "que já demonstrou no passado interesse sobre nossas terras" sem nomeá-la. Quem nomeia Alavria é **Koda** ("Alavria fica a semanas pelo mar"), e leva a mão ao colete, onde guarda os despachos do porto sul: ele se entrega sem ser acusado. O metal é **galvânico, não renanthao** (decisão do autor, 2026-11-14): sem a propriedade antimagia.
+- **Reforço:** a alusão de Nolan carrega a oferta antiga de Alavria na ocupação de Gondor, no Interregno, com o trono vazio (ajuda para expulsar os gondorianos em troca de o Reino virar província), recusada pelos Guenayer da época. A narração a explica em uma frase, em ponto de vista de Nolan.
+- **Payoff:** a confissão parcial de Koda (cap. 60) e a revelação das cargas e da vanguarda de Alavria (caps. finais).
+- **Limite:** o fragmento não é prova; Nolan "guardou para si as conclusões sobre a reação de Koda".
 
 ## Sementes dos capítulos 34 a 38 (mini-INGEST refeito, 2026-11-12)
 

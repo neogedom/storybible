@@ -28,6 +28,10 @@ o mundo conhecido para além de Ornick.
   Metrópole. O destacamento mata Genocydo, sobrepuja a defesa de Lakand, Decian e Kate na praça, mas é **aniquilado pela ação divina** (ver `insights/nolan-sufoca-boatos-sinal.md`).
   **Valinor Addorbek** morre defendendo a Metrópole da incursão.
 
+## Precedente da anexação (decisão do autor, 2026-11-14; cap. 47)
+
+- Durante a ocupação de Gondor (Interregno, com o trono vazio), Alavria ofereceu ajuda para expulsar os gondorianos (navios e engenheiros) em troca de o Reino virar província alavriana. Os **Guenayer** da época recusaram. No cap. 47 Nolan evoca o episódio por alusão, diante de Koda, sem nomear Alavria ("uma nação [...] que já demonstrou no passado interesse sobre nossas terras"); Koda é quem diz o nome. A origem do conhecimento de Nolan (papéis da ocupação guardados pela família) saiu do texto na edição do autor de 2026-11-15 e segue como canon de fundo, se um capítulo futuro precisar.
+
 ## Patrono — Renath
 
 - **Renath** é o elohim patrono de Alavria, da mesma categoria de Vonos, Terbs,
@@ -66,3 +70,4 @@ o mundo conhecido para além de Ornick.
 
 - O renanthao vem de Alavria, por mar (caps. 4 e 6 foram ajustados). Renath, patrono da metalurgia, dá nome ao metal.
 - O fragmento de condutor galvânico com marca de Renath é entregue a Nolan por Mathias no cap. 42, recolhido nas ruínas da Mina.
+- **Decisão do autor (2026-11-14):** o metal do fragmento é **galvânico, não renanthao**: não tem a propriedade antimagia que apodrece a carne de quem tem magia. A referência a Alavria vem da **lavra** (o fio em espiral e a marca). No cap. 47 (edição do autor, 2026-11-15) Nolan não cita a lavra nem os diapasões: diz só que é "o tipo de metal que só uma nação com conhecimento avançado sobre metalurgia saberia fundir", e é Koda quem nomeia Alavria. A ligação com os diapasões importados (cap. 4) fica como canon de fundo, fora do texto. Nolan pode carregá-lo no bolso sem risco.

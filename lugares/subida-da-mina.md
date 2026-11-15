@@ -115,6 +115,13 @@ que a estrada vai por fora e os dois vão reto.
 - **A ironia:** ele sobe escoltado por criaturas, seguindo a trilha dos
   fugitivos do próprio Reino.
 
+## No mapa oficial (decisão do autor, 2026-11-14)
+
+- O **Campo dos Moribundos** entra no mapa, ao lado da estrada, que faz a volta larga.
+- Entram também Tronk, o assentamento dos refugiados (entre o Vau e Tronk), o posto de comércio (um dia depois de Tronk), a casa de Uorier acima da entrada da Mina e o Espinhaço como serra, não como estrada.
+- **Mina a Gus:** trilha estreita de pedestre pela garganta norte (caps. 38 e 40) e "rota secundária" de carruagem; arraial de cocheiros fora do fosso seco de Gus (cap. 40).
+- Não entram o carreador nem a bacia de pedra ("fora de qualquer mapa").
+
 ## Disciplinas de escrita
 
 - **Não usar "corredor" para o vale** — a palavra já é usada para passagem

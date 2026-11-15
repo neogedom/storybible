@@ -229,3 +229,35 @@
 - **Destino**: L2
 - **Condições para desenvolver**: o custo da oferta; por que Vonos a faz (interesse próprio, não generosidade); como a decisão de Mário é lida em termos de fé, e não de conveniência.
 - **Relação com o cânone**: `conceitos/cosmologia.md` (Mário é o primeiro a ser trazido da outra herança); `temas/timeline.md` (experimento Kraviam).
+
+### 2026-11-14: Cap. 47, mentira de Nolan sobre Saboc (resolvido: não há mentira)
+
+- **Data**: 2026-11-14
+- **Ideia (uma linha)**: Nolan diz a Valinor que o bebê "não sobreviveu à fumaça". Motivo possível: esconder o herdeiro Guenayer-Addorbek, alvo da encomenda a Juleen (`decisoes/mandante-juleen-alvo-linhagem.md`), e não expor o milagre.
+- **Capítulos afetados**: 47 (fala), 49 e 56 (56 repete "matou Dagmar e o meu filho" em público), 65 ("cuide do menino"), epílogo ("bebê deixado num celeiro de palha").
+- **Status**: aceita e aplicada no cap. 47 em 2026-11-14. O autor decidiu que **não há mentira**: Mira e Saboc entram na Metrópole e, para todos os efeitos, Saboc sobreviveu naturalmente ao parto. Só Nuh sabe da ressurreição (o escriba lhe contou).
+- **Destino**: fechado. ⚠️ Pendente no texto: cap. 56, linha 55, Nolan diz em público "Matou Dagmar e o meu filho", o que agora contradiz Saboc vivo.
+- **Obs.**: "fumaça" remete ao incêndio de Devour, que no cap. 47 só aparece como rumor de Koda.
+
+### 2026-11-14: Cap. 47, precedente de Alavria (aceito e aplicado)
+
+- **Data**: 2026-11-14
+- **Ideia (uma linha)**: Reflexão de Nolan sobre tentativas antigas de Alavria de anexar o Reino (via diplomática, no Interregno), para a acusação não soar artificial.
+- **Capítulos afetados**: 47 (hoje a pista é o fragmento da Mina + renanthao importado, cap. 4).
+- **Status**: aceita pelo autor e aplicada no cap. 47 em 2026-11-14: Alavria ofereceu ajudar a expulsar Gondor em troca de o Reino virar província alavriana; os Guenayer da época recusaram.
+- **Destino**: fechado; registrado em `lugares/alavria.md` e `lugares/gondor.md`.
+
+### 2026-11-14: Semente #29 no cap. 47 (aplicada)
+
+- **Ideia (uma linha)**: o desengano de Koda (a carta de Nolan foi ignorada; a capitania já fora prometida aos Clãs) estava previsto para a cena da tesouraria e não aparece.
+- **Capítulos afetados**: 47 (ou 48 a 53).
+- **Status**: aplicada no cap. 47 em 2026-11-14, com a cessão como "mais uma condição da apoteose" e a surpresa de o acordo ser o Reino inteiro, não Saramant. Ver `temas/sementes.md` #29.
+- **Destino**: fechado.
+
+### 2026-11-14: Trajetória dos Clãs até a Metrópole (aceita e aplicada)
+
+- **Data**: 2026-11-14
+- **Ideia (uma linha)**: o Cran separa dois caminhos. Nolan desce pela estrada real (Gus, Mina, Tronk, estrada de Saramant, ponte de pedra). Os Clãs vêm pelas serras do outro lado do rio: cruzam um vau perto de Gus, atacam pelo norte, saem pela garganta sul, voltam ao vau e descem a serra até a planície sul. Entram pelo Portão Leste.
+- **Capítulos afetados**: 46 (fala de Lakand), 47 (linha 1), 45, 48, 50, 51 e 53 conferidos sem mudança.
+- **Status**: aceita pelo autor e aplicada em 2026-11-14. Mapa em `lugares/mapa-cran-metropole.svg`.
+- **Destino**: fechado. Registrado em `lugares/metropole.md`, `lugares/cidadela-de-gus.md`, `conceitos/clas-de-sangue.md` e `personagens/elysia.md`; decisão em `decisoes/2026-11-14-geografia-cran-clas-metropole.md`.

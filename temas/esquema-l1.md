@@ -72,7 +72,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 44       | Vilões se Aproximam                 | Mário        | ~75%                    | ~81,6%               | 1.780    |
 | 45       | Vilões se Aproximam                 | Kate         | ~75%                    | ~83,1%               | 2.107    |
 | 46       | Vilões se Aproximam                 | Kate         | —                      | ~84,7%               | 2.186    |
-| 47       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 2.150    |
+| 47       | Tudo Está Perdido (inferido)        | Nolan        | —                      | ~87,0%               | 3.135    |
 | 48       | Tudo Está Perdido (inferido)        | Mário        | —                      | a recalcular         | 1.632    |
 | 49       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 1.642    |
 | 50       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 998      |
