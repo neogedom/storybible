@@ -7,7 +7,8 @@
 - `temas/esquema-l1.md`: linhas 47 e 48 da tabela trocaram POV e contagem de palavras. Os beats (inferidos) ficam por posição.
 - Entradas antigas deste log que citam o "cap. 47" de Koda foram anotadas, não reescritas.
 - Os caps. 47 e 48 ainda não tinham Mini-INGEST nem ficha em `capitulos/`.
-- Avaliação dos caps. 49 a 53 registrada na decisão, sem alteração no texto do livro.
+- Avaliação dos caps. 49 a 56 registrada na decisão. No livro, a hora do enforcamento de Juleen foi alinhada ao cap. 49 (tarde): cap. 53, "no meio da tarde"; cap. 56, "ontem à tarde". Cap. 53, "terceira vigília da manhã" passou a "as primeiras horas da manhã". Pendente do autor: cap. 60 ("Ontem pela manhã") e epílogo (linha 27).
+- Cap. 51 (Kate): a cronologia estrita pediria movê-lo para depois do 54; a recomendação é manter a ordem (detalhes na decisão).
 
 ## 2026-11-13 (Correções do teste 2 no cap. 46)
 
