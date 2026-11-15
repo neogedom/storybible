@@ -1,10 +1,10 @@
 ---
 type: Theme
 title: Cronologia do Livro 1 (estimada pelas âncoras)
-description: Dia a dia do L1, do prólogo ao epílogo, encadeado a partir das âncoras de tempo do texto e das fichas; registra as durações declaradas que não fecham e os alertas de consistência temporal.
+description: Dia a dia do L1, do prólogo ao epílogo, encadeado a partir das âncoras de tempo do texto e das fichas; registra as durações declaradas que não fecham, os alertas de consistência temporal e dois cenários de tempo (A e B) que levam a história a cerca de três meses.
 tags: [tema, timeline, cronologia, L1, consistencia]
 resource: https://github.com/neogedom/storybible/blob/main/temas/cronologia-l1.md
-timestamp: 2026-11-15T22:00:00-03:00
+timestamp: 2026-11-15T23:50:00-03:00
 ---
 
 # Cronologia do Livro 1 (estimada pelas âncoras)
@@ -86,9 +86,9 @@ As demais marcas de "semanas" cabem em quatro a cinco semanas: castelo ardeu "se
 
 Os caps. 1 a 3 (Terra) ficam de fora. A média dos 43 primeiros capítulos é de cerca de 3,7 mil palavras por dia de história; o final corre a pouco mais que o dobro.
 
-## Cenário de três meses (proposta de 2026-11-15, não aplicada)
+## Cenário A: dois saltos de tempo (proposta de 2026-11-15, não aplicada)
 
-Pergunta do autor: dá para a história levar meses, como o cap. 48 declara, e resolver também os efeitos da queda da Mina? Resposta: o tempo só pode ser esticado antes da queda, porque os caps. 41 a 66 estão presos a "dois dias", "na manhã seguinte" e "amanhã". Duas costuras levam o livro a cerca de 97 dias.
+Pergunta do autor: dá para a história levar meses, como o cap. 48 declara, e resolver também os efeitos da queda da Mina? Resposta do cenário A: duas costuras antes da queda levam o livro a cerca de 97 dias. Os caps. 41 a 66 estão presos a "dois dias", "na manhã seguinte" e "amanhã", e por isso o A não estica depois da queda; o cenário B, mais abaixo, estica também depois, com Nolan fora de Gus.
 
 - **Costura 1, depois do incêndio de Devour: +21 dias.** Mário se recupera da febre no mato; Nolan enterra Dagmar, aprende a raiz-mestra e espera Mira e Saboc. Hoje Nolan parte "na manhã seguinte" com um recém-nascido (cap. 22, L141).
 - **Costura 2, na fase da Mina, entre os caps. 35 e 36: +42 dias.** Kate treina os seguidores (de 5, no cap. 32, a 40, no cap. 36) e Mário prega no assentamento; Nolan monta a vigília no Espinhaço ("Não tinha pressa", cap. 33, L9).
@@ -111,7 +111,7 @@ Pergunta do autor: dá para a história levar meses, como o cap. 48 declara, e r
 13. Cap. 48, L25: "pela destruição da Mina de Quartzo" passa a "pela caçada ao Souhma nas estradas do norte".
 14. Cap. 48, L31: "Sem as remessas contínuas de quartzo bruto da Mina do norte" passa a "Com o Monólito mudo desde a noite do Sinal".
 
-**Os efeitos da queda da Mina (A2) não se resolvem só com o tempo.** A Mina continua a quatro dias do cap. 48. O que o cenário faz é dar 94 dias ao Sinal mudo e às incursões dos Clãs, e é isso que as costuras 13 e 14 passam a creditar. Resolver só pelo tempo exigiria semanas depois da queda, o que obriga a reescrever os caps. 41 a 43 e a acrescentar ao menos um capítulo sobre Gus.
+**No cenário A, os efeitos da queda da Mina (A2) não se resolvem pelo tempo.** A Mina continua a quatro dias do cap. 48. O que o cenário faz é dar 94 dias ao Sinal mudo e às incursões dos Clãs, e é isso que as costuras 13 e 14 passam a creditar. Resolver pelo tempo exige semanas depois da queda, e é o que o cenário B faz, com Nolan fora das muralhas de Gus e a vida de Mário na cátedra.
 
 **Resolve:** A1, A3 (com um número), A5 (com duas trocas de palavra), A7 e A8. **Não muda:** A4 (lua), A6, A9 a A14.
 
@@ -121,9 +121,58 @@ Pergunta do autor: dá para a história levar meses, como o cap. 48 declara, e r
 
 **Alternativa barata, sem esticar:** trocar "três meses" e "meses antes" no cap. 48 (L65 e L3) e "três semanas" no cap. 49 (L21), mais as duas frases do cap. 48 (L25 e L31). Cerca de seis edições, e a estação continua pedindo as duas trocas de "outono".
 
+## Cenário B: estadias maiores (proposta de 2026-11-15, não aplicada)
+
+Ideia do autor: esticar o tempo com estadias maiores nos assentamentos e na Cidadela, com Mário pregando mais, e com mais dias dele entre os lobisomens de Charles, para dar mais afeição entre eles. Isso corrige o cenário A: o tempo também pode ser esticado depois da queda da Mina, desde que Nolan fique fora das muralhas de Gus até a véspera do ataque.
+
+Três estadias, +75 dias; o livro vai a cerca de 110 dias:
+
+- **Lobisomens, cap. 13: +12 dias** (Mário preso por 14,5 dias). O prazo de Kenod ("até as duas luas ficarem escuras", L115) vira o relógio da fuga; Decian dá duas semanas ao ombro (L153); a conversa de Lakand (L191 a L219) vira três ou quatro noites. Kate ganha 12 dias entre os caps. 12 e 15, o que sustenta as "últimas semanas em Saramant" (cap. 18, L131), e Nolan parte 12 dias depois do cap. 14.
+- **Moribundos, entre os caps. 35 e 36: +21 dias.** Mário prega e batiza; Kate treina a coluna de quarenta; Nolan espera no Espinhaço.
+- **Gus, entre os caps. 41 e 42: +42 dias.** O cap. 41 continua sendo o primeiro dia (a cátedra de Orval). Nolan espera no arraial dos cocheiros e entra na caravana no cap. 42; os caps. 43 e 44 caem 44 dias depois da chegada de Mário, e a entrega do cap. 44 passa a custar a vida que ele vinha vivendo.
+
+Fora do cenário: o primeiro assentamento (cap. 23) não se estica, porque é o dia do primeiro milagre público, em que Mário recusa a adoração e Kate diz "Não fica muito tempo" (L103); a feira de Tronk e o acampamento da estrada (caps. 24 e 25) também não, porque terminam em fuga, com mercenários no encalço. A costura de +21 do cenário A (luto e febre depois de Devour) não entra.
+
+**Resultado:** Nolan fica 90 dias fora (Dia 18 ao 107); a Mina cai 46 dias antes do cap. 48; o Tronk fica a 70 dias do cap. 49; Saboc tem 12 semanas; a cicatriz de Lakand tem 69 dias; o outono do cap. 35 fica a dez semanas do inverno do cap. 49, sem trocar palavra.
+
+**Resolve:** A1, A2 (pelo tempo, sem reatribuir a causa), A3 (com um número), A5, A7 e A8. **Não muda:** A4 (lua), A6, A9 a A14.
+
+| | Texto atual | A: dois saltos | B: estadias maiores |
+|---|---|---|---|
+| Duração do livro | cerca de 34 dias | cerca de 97 dias | cerca de 110 dias |
+| Nolan fora | 27 dias | 90 dias | 90 dias |
+| Da queda da Mina ao cap. 48 | 4 dias | 4 dias | 46 dias |
+| Alertas resolvidos | nenhum | A1, A3, A5, A7, A8 | A1, A2, A3, A5, A7, A8 |
+| Costuras no texto | 0 | 14 | 15 |
+| Cenas novas | 0 | 0 | 3 |
+| Palavras por dia, caps. 23 a 46 | 2.747 | 892 | 667 |
+| Final contra a média dos 43 primeiros capítulos | 2,1 vezes | 6,7 vezes | 7,6 vezes |
+
+**Costuras no texto (15):**
+
+1. Cap. 13, L153: Decian passa a dizer "Em seis dias o sangramento para. Em doze, cicatriza o suficiente...".
+2. Cap. 13, L167: "O sol nasceu e se pôs pela segunda vez" passa a "Os dias se repetiram, um igual ao outro."
+3. Cap. 13, L225: "Na terceira noite" passa a "Na última noite antes de as duas luas escurecerem".
+4. Cap. 33, L199: uma frase sobre as semanas de espera de Nolan.
+5. Cap. 34, L99: "Amanhã subimos" passa a "Subimos quando o grupo estiver pronto".
+6. Cap. 36, L1: abrir com "Três semanas depois,".
+7. Cap. 40, L65: duas frases: a Cidadela fechou os portões a quem vem da capital; Nolan espera no arraial pela primeira caravana e pela resposta das cartas.
+8. Cap. 42, L1: "Na manhã seguinte" passa a "Seis semanas depois".
+9. Cap. 42, L63: "semanas antes" passa a "meses antes".
+10. Cap. 42, L99: a notícia do desabamento "já devia ter alcançado a capital, e nenhuma das suas cartas fora respondida".
+11. Cap. 43, L7: "um quarto limpo para eles desde a chegada".
+12. Cap. 44, L7, L21 e L125: "mãos enfaixadas" passa a "mãos cicatrizadas" (os cortes de quartzo do cap. 41, L3, fecham em seis semanas).
+13. Cap. 44, L41: "os dois que o encontraram na Mina" ganha "seis semanas antes".
+14. Cap. 44, L81: "horas antes" passa a "Tudo aquilo era a sua vida havia seis semanas".
+15. Cap. 49, L21: "há três semanas" passa a "há dez semanas".
+
+**Material novo que as estadias pedem:** (1) cap. 13: mais noites com Lakand e Decian, onde nasce a afeição que os põe ao lado de Mário no cadafalso do cap. 66; (2) caps. 34 a 36: Mário prega de verdade e a coluna cresce de cinco para quarenta; (3) entre os caps. 41 e 42: Mário aceita a cátedra de Orval, dá aulas e cuida dos doentes da carpintaria.
+
+**Pontos novos:** (1) por que Inquiridores e Clãs não chegam em onze semanas a mais, com a frequência do Souhma "conhecida" (cap. 27, L141); a resposta está no cap. 43 (L105 a L111), onde Estruzzo herda o comando de Gaviorn'l e Terbs e o Rei assinam a entrega das terras, e só falta dizer que isso leva semanas; (2) água e comida nos Moribundos por três semanas, sem milagre (cap. 34, L47); (3) Nolan fora de Gus por seis semanas: razão, abrigo e dinheiro para Mira, Saboc, Mathias e Ossan (caps. 40 e 42); (4) a frieza entre Kate e Mário no cap. 43 (L7 a L9) nasce no dia da Mina e precisa esfriar ou piorar em seis semanas; (5) o ombro de Mário, que no cap. 23 (L25) "ainda não tinha fechado" e agora tem três semanas; (6) luas: o prazo de Kenod e as "duas luas pairando baixas" da fuga (cap. 16, L195) combinam com crescentes finas na véspera, mas A4 segue; (7) Nolan sai "na manhã seguinte" com um recém-nascido (cap. 22, L141), o que o B não resolve; (8) ritmo: o final fica 7,6 vezes mais denso que a média dos 43 primeiros capítulos, e as cenas novas diminuem a distância.
+
 ## Decisões do autor pendentes
 
-1. **Duração do L1.** Manter cerca de cinco semanas e ajustar as frases do 48 e do 49, ou esticar a história para meses com as duas costuras do cenário acima.
+1. **Duração do L1.** Manter cerca de cinco semanas e ajustar as frases do 48 e do 49; esticar a história com as duas costuras do cenário A; ou com as três estadias do cenário B, que resolve A2 pelo tempo e pede cenas novas.
 2. **Fases das luas.** Nomear qual lua está crescente e qual está minguante, ou alinhar os caps. 43, 53 e 55.
 3. **Ordem dos caps. 59 e 60.** Já descrita na decisão linkada acima.
 

@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-15 (Cenário B: estadias maiores)
+
+- Ideia do autor: esticar o tempo com estadias maiores nos assentamentos e na Cidadela e com mais dias de Mário entre os lobisomens de Charles (mais afeição). Registrado em `temas/cronologia-l1.md` o cenário B (+12 dias no cap. 13, +21 nos Moribundos, +42 em Gus; cerca de 110 dias), com 15 costuras, três blocos de cenas novas e pontos novos. Proposta, nada aplicado ao livro.
+- Corrige o registro anterior desta data: o tempo também pode ser esticado depois da queda da Mina, desde que Nolan fique fora das muralhas de Gus até a véspera do ataque. Assim o B resolve A2 pelo tempo (a Mina cai 46 dias antes do cap. 48) sem reatribuir a causa. O cenário A fica como alternativa. A página "Cronologia do Livro 1" ganhou o seletor "Texto atual / A / B".
+
 ## 2026-11-15 (Cenário de três meses para o Livro 1)
 
 - Pergunta do autor: dá para a história levar meses e resolver os efeitos da queda da Mina? Registrado em `temas/cronologia-l1.md` o cenário de duas costuras (+21 dias depois do incêndio de Devour, +42 dias na fase da Mina), com 14 edições de texto, pontos novos e efeito no ritmo. Proposta, nada aplicado ao livro.
