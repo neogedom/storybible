@@ -1,5 +1,12 @@
 # Log de Atualizações
 
+## 2026-11-15 (Cronologia do Livro 1 inteiro)
+
+- Pedido do autor: uma timeline do livro todo para avaliar a consistência temporal. Criado `temas/cronologia-l1.md` (cadeia de dias, durações declaradas contra estimadas, 14 alertas, ritmo por trecho) e a página interativa "Cronologia do Livro 1".
+- Resultado principal: a soma das âncoras de tempo dá cerca de 34 dias; "três meses" e "meses antes" (cap. 48), "há três semanas" (cap. 49) e os efeitos econômicos da queda da Mina no cap. 48 não fecham. Nenhum ajuste foi aplicado ao livro.
+- Correções a registros desta mesma data: o ataque a Gus (caps. 43 a 45) é de madrugada, não à tarde, e a razão de densidade do bloco final é pouco mais que o dobro do resto (3,7 mil contra 7,8 mil palavras por dia), não seis ou sete vezes. Ajustada a decisão `decisoes/2026-11-15-ordem-caps-47-48.md`.
+- `temas/timeline.md` recebeu um aviso: a tabela do L1 está desatualizada (linhas 24 a 29 deslocadas). `conceitos/cosmologia.md` recebeu uma nota na duração do L1, sem alterar a estimativa do autor.
+
 ## 2026-11-15 (Troca de ordem dos caps. 47 e 48)
 
 - Decisão do autor: os arquivos `capitulo47.md` e `capitulo48.md` do livro trocaram de lugar. O cap. 47 passa a ser Mário na marcha dos Clãs e o cap. 48 passa a ser Nolan chegando à Metrópole. Motivo e cronologia em `decisoes/2026-11-15-ordem-caps-47-48.md`.

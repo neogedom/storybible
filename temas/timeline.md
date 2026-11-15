@@ -29,6 +29,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Livro 1 — Timeline
 
+> **Atenção (2026-11-15):** esta tabela está desatualizada: as linhas 24 a 29 ficaram deslocadas depois do corte do antigo cap. 24, e ela para no cap. 29. A cronologia estimada do L1 inteiro, com âncoras e alertas, está em [Cronologia do Livro 1](/temas/cronologia-l1.md).
+
 | Cap.  | POV              | Evento                                                |
 | ----- | ---------------- | ----------------------------------------------------- |
 | 0     | Nolan + Kate     | Prólogo: Sinal falha; Kate sente Hícse                |
