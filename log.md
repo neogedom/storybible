@@ -1,5 +1,14 @@
 # Log de Atualizações
 
+## 2026-11-15 (Troca de ordem dos caps. 47 e 48)
+
+- Decisão do autor: os arquivos `capitulo47.md` e `capitulo48.md` do livro trocaram de lugar. O cap. 47 passa a ser Mário na marcha dos Clãs e o cap. 48 passa a ser Nolan chegando à Metrópole. Motivo e cronologia em `decisoes/2026-11-15-ordem-caps-47-48.md`.
+- Referências ao antigo cap. 47 (cena de Koda, Valinor e Benjamim) passam a cap. 48 em `lugares/castelo-devour.md`, `vozes/nolan.md`, `decisoes/2026-11-12-logistica-alavria.md`, `insights/nolan-cobra-nuh-informacao-negada.md` e `insights/povs-l2-gunad-lakand-koda.md`.
+- `temas/esquema-l1.md`: linhas 47 e 48 da tabela trocaram POV e contagem de palavras. Os beats (inferidos) ficam por posição.
+- Entradas antigas deste log que citam o "cap. 47" de Koda foram anotadas, não reescritas.
+- Os caps. 47 e 48 ainda não tinham Mini-INGEST nem ficha em `capitulos/`.
+- Avaliação dos caps. 49 a 53 registrada na decisão, sem alteração no texto do livro.
+
 ## 2026-11-13 (Correções do teste 2 no cap. 46)
 
 - Decisão do autor: Kate pode saber o nome de Ossan (cap. 46, linha 1 mantida).
@@ -25,7 +34,7 @@
   Koda por Gunad ainda precisa ser encaixada.
 - Atualizadas as fichas de Koda e Gunad para distinguir fatos já decididos das
   direções ainda em avaliação. `temas/esquema-l2.md` não foi alterado.
-- O pagamento aprovado para Koda no cap. 47 do L1 continua pendente de
+- O pagamento aprovado para Koda no cap. 48 do L1 (antigo cap. 47; ver a troca de 2026-11-15) continua pendente de
   aplicação ao manuscrito.
 
 ## 2026-11-09 (Koda sobrevive e desaparece antes do L2)
