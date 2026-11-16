@@ -164,7 +164,7 @@ Fora do cenário: o primeiro assentamento (cap. 23) não se estica, porque é o 
 14. Cap. 44, L81 e L83: a cátedra adiada, o papel de linho usado para cento e doze nomes de mortos, as seis semanas de serviço, a espera da quitação e o "eu sabia" (volta ao cap. 39, L15).
 15. Cap. 49, L21: "há três semanas" passa a "há dez semanas".
 
-**Pontos abertos do B:** lista na decisão linkada acima (lua, Nolan saindo no dia seguinte no cap. 22, Nolan sabendo onde Mário está no assentamento, Clãs e Inquiridores em onze semanas, guarda na Mina, ombro de Mário, papel de linho, esquema do L1).
+**Pontos abertos do B:** lista na decisão linkada acima (lua, Nolan saindo no dia seguinte no cap. 22, Nolan sabendo onde Mário está no assentamento, Clãs e Inquiridores em onze semanas, expedição à Mina sem resposta, ombro de Mário, papel de linho, esquema do L1).
 
 ## Decisões do autor pendentes
 

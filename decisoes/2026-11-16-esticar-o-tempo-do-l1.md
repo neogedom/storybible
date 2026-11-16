@@ -42,7 +42,7 @@ Ver a lista numerada com âncoras de linha em [Cronologia do Livro 1](/temas/cro
 2. **Nolan sai "na manhã seguinte" com um recém-nascido** (cap. 22, L141): o B não mexe nisso; a costura de +21 do cenário A resolveria.
 3. **Nolan sabe onde Mário está nas três semanas no assentamento:** os seis rampillas morrem no cap. 35 perto do assentamento (cap. 40, L79). A vigília na Mina é a aposta de que ele virá; talvez valha uma frase.
 4. **Por que Inquiridores e Clãs não chegam em onze semanas a mais**, com a frequência do Souhma "conhecida" (cap. 27, L141). A resposta está no cap. 43 (L105 a L111): Estruzzo herda o comando de Gaviorn'l, e Terbs e o Rei assinam a entrega das terras. Falta dizer que isso leva semanas.
-5. **Guarda na Mina:** o sumário do cap. 43 (L9) diz que os artífices que tentaram subir voltaram do primeiro posto de guarda. Quem guarda a Mina (a Coroa, os Inquiridores) não está dito em outro lugar.
+5. **Expedição à Mina:** no cap. 43 (L11) mestres e aprendizes de Gus sobem às ruínas com Kate e voltam sem a causa, porque a bacia de blocos partidos é funda demais para cavar. Conferir com o cap. 40, onde Nolan deduz a sabotagem dos pilares no dia do desabamento.
 6. **Ombro de Mário:** no cap. 23 (L25) a ferida "ainda não tinha fechado"; com doze dias a mais de cativeiro ela tem mais de três semanas. Precisa reabrir na queda do cap. 16 ou no incêndio.
 7. **Papel de linho:** o cap. 41 (L151) só oferece o papel; o cap. 44 (L83) diz que Orval o mandou para Mário pensar por escrito. Conferir se cabe uma frase no 41.
 8. **Números livres:** os cento e doze nomes (cap. 44, L83), as seis semanas de Nolan e as três do assentamento podem mudar sem efeito em cadeia, desde que se mantenham os 90 dias de Nolan fora.
@@ -54,7 +54,7 @@ Ver a lista numerada com âncoras de linha em [Cronologia do Livro 1](/temas/cro
 - **O assentamento do cap. 34 não tem nome** ("não tinha cerca nem nome", L1). Moribundos é o campo dos espectros que a estrada contorna (caps. 32 e 33), e não há assentamento ali. Os sumários e estes registros diziam "Moribundos" por engano; agora dizem "o assentamento" (nos docs, "assentamento da subida").
 - Cap. 36 (L1): a água vem antes do batismo (a vala de Lakand enche o poço); os "soterrados" passam a ser "os mineiros que a Mina soterrou".
 - Cap. 42 (L1): sem "posto de muda" (o pedido segue "com um cavaleiro dos correios, de posto em posto") e sem "chuva" (a folga é "para a demora do Rei").
-- Cap. 43 (L9 e L11): a guarda da Mina passa para o parágrafo dos artífices ("foram barrados por soldados da Coroa a meio caminho"), e o sumário de Kate separa essa guarda da lembrança de que Mário dava a volta pelo outro lado dos casebres para não passar pelos rapazes das picaretas ("Ele sabia o que aquilo era. Ela nunca lhe disse que tinha visto.").
+- Cap. 43 (L9 e L11): o sumário de Kate fica só com a lembrança de que Mário dava a volta pelo outro lado dos casebres para não passar pelos rapazes das picaretas ("Ele sabia o que aquilo era. Ela nunca lhe disse que tinha visto."). No parágrafo dos artífices, mestres e aprendizes sobem às ruínas com Kate e voltam sem a causa. Por pedido do autor, sem soldados da Coroa (commit `3c2f74b`).
 - O autor editou os sumários dos caps. 13 (L229) e 42 (L1) direto no PR (commits `e4285dc` e `05c1561`). A redação deles é a que vale; as contagens de palavras acima são aproximadas.
 
 ## Conexões

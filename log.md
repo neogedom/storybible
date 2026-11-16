@@ -3,12 +3,13 @@
 ## 2026-11-16 (Revisão do PR do Livro: sumários corrigidos)
 
 - O autor revisou os sumários no PR neogedom/Livro#16. Correções no texto (commit `11eed53`): o assentamento do cap. 34 não se chama Moribundos (esse é o campo dos espectros); a água vem antes do batismo; "soterrados" explicado; sem "posto de muda" nem "chuva" no cap. 42; o sumário de Kate no cap. 43 ficou mais claro. Detalhes na decisão `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`, seção de correções. O autor também editou os sumários dos caps. 13 e 42 direto no PR; a redação dele prevalece.
+- Depois, a pedido do autor, saíram os soldados da Coroa do cap. 43 (L11): mestres e aprendizes de Gus sobem às ruínas com Kate e voltam sem a causa (commit `3c2f74b`).
 
 ## 2026-11-16 (O tempo do L1 aplicado: cerca de 110 dias)
 
 - Decisões do autor: aplicar o cenário B em sumários, sem capítulos novos; Nolan espera o selo do Rei fora de Gus (papel e medo); o serviço de Mário aos sobreviventes é também uma tentativa de fazer a Voz voltar, e a Mina é em parte culpa dele (ele sabia da guerra de Kate). Registrado em `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`.
 - Texto alterado no livro (commit `cfc6c68`): caps. 13, 34, 36, 40, 42, 43, 44 e 49, com cinco sumários novos (cerca de 770 palavras) e trocas de marcadores de tempo. O cap. 48 passa a bater com "três meses". Atualizados `temas/cronologia-l1.md` (cenário B como aplicado), as fichas dos caps. 13, 34, 36, 40, 42, 43 e 44, `personagens/mario.md`, `vozes/mario.md`, `conceitos/cosmologia.md` e `temas/timeline.md`.
-- Pontos abertos na decisão: lua (A4), cap. 22 (Nolan sai no dia seguinte), Nolan sabendo onde Mário está no assentamento, Clãs e Inquiridores em onze semanas, guarda na Mina, ombro de Mário, papel de linho, contagens do esquema.
+- Pontos abertos na decisão: lua (A4), cap. 22 (Nolan sai no dia seguinte), Nolan sabendo onde Mário está no assentamento, Clãs e Inquiridores em onze semanas, expedição à Mina sem resposta, ombro de Mário, papel de linho, contagens do esquema.
 
 ## 2026-11-16 (Cenário B em sumários, sem capítulos novos)
 
