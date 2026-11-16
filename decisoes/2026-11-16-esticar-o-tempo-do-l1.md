@@ -11,7 +11,7 @@ timestamp: 2026-11-16T12:00:00-03:00
 ## Decisão
 
 1. O L1 passa de cerca de 34 para cerca de 110 dias (do Dia 1 ao meio-dia do Dia 110), por três estadias maiores: **+12 dias com os lobisomens** (cap. 13), **+21 nos Moribundos** (entre os caps. 35 e 36) e **+42 em Gus** (entre os caps. 41 e 42). Nolan fica 90 dias fora, e o cap. 48 ("três meses") passa a bater. Detalhes e números em [Cronologia do Livro 1](/temas/cronologia-l1.md), cenário B.
-2. **Sem capítulos novos.** O tempo passa em sumários dentro dos capítulos existentes (cerca de 700 palavras no total, nos caps. 13, 36, 42, 43 e 44).
+2. **Sem capítulos novos.** O tempo passa em sumários dentro dos capítulos existentes (cerca de 770 palavras no total, nos caps. 13, 36, 42, 43 e 44).
 3. **Nolan espera um papel.** Ele escreve ao Rei pedindo a custódia exclusiva do Estrangeiro e espera o selo fora das muralhas (cap. 40, L83; cap. 42, L1). O medo faz o papel de desculpa: a conta do cavaleiro fecha duas vezes e ele continua a refazê-la. O treino de atuação entra só como textura (o cocho de água); o disfarce de Garyun continua sendo a cena do cap. 42, intacta.
 4. **Mário serve aos sobreviventes (cap. 44, L81 e L83).** Lava ataduras, carrega água, anota os nomes dos mortos da Mina no papel de linho que Orval mandou para ele pensar, e toda noite espera a Voz como quem espera a quitação. Adia a resposta a Orval de semana em semana: nunca aceita nem recusa a cátedra.
 5. **Leitura de Mário sobre a Mina (decisão do autor).** A Mina é em parte culpa dele: ele sabia desde a saída do Castelo que Kate tinha uma guerra em mente, e a ânsia de provar que estava certo o fez tapar os olhos para a consequência inevitável. O serviço em Gus é também uma tentativa de reparar o que deixou acontecer e, assim, fazer a Voz voltar.
@@ -46,7 +46,7 @@ Ver a lista numerada com âncoras de linha em [Cronologia do Livro 1](/temas/cro
 6. **Ombro de Mário:** no cap. 23 (L25) a ferida "ainda não tinha fechado"; com doze dias a mais de cativeiro ela tem mais de três semanas. Precisa reabrir na queda do cap. 16 ou no incêndio.
 7. **Papel de linho:** o cap. 41 (L151) só oferece o papel; o cap. 44 (L83) diz que Orval o mandou para Mário pensar por escrito. Conferir se cabe uma frase no 41.
 8. **Números livres:** os cento e doze nomes (cap. 44, L83), as seis semanas de Nolan e as três dos Moribundos podem mudar sem efeito em cadeia, desde que se mantenham os 90 dias de Nolan fora.
-9. **Esquema do L1:** as contagens de palavras de `temas/esquema-l1.md` não foram atualizadas (cerca de +700 palavras nos caps. 13, 36, 42, 43 e 44).
+9. **Esquema do L1:** as contagens de palavras de `temas/esquema-l1.md` não foram atualizadas (cerca de +770 palavras nos caps. 13, 36, 42, 43 e 44).
 10. **Revisão teológica:** a barganha de Mário (obra para que a Voz volte) toca o alerta de teologia do guardrail. O `consultor-teologico` pode ler os sumários dos caps. 13 e 44 se o autor quiser.
 
 ## Conexões
