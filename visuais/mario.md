@@ -245,6 +245,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - _Não aparece._ Levado pelos Clãs; só mencionado.
 
+## Capítulo 47 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+
+- **Não aparece** (na marcha dos Clãs).
 
 ## Histórico por Capítulo
 

@@ -141,7 +141,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Capítulo 40 — A Ruína e o Rumo
 
-- **Vestimenta**: casaco preto coberto de poeira, gola salpicada de sangue alheio, corte fino na têmpora; insígnia do Conselho escondida no forro ao chegar aos arredores de Gus.
+- **Vestimenta**: casaco preto coberto de poeira, gola salpicada de sangue alheio, corte fino na têmpora; insígnia do Conselho e anel de sinete dos Guenayer escondidos no forro ao chegar aos arredores de Gus (cap. 40).
 - **Objetos**: folhas do livro de dívidas de Uorier manchadas de sangue; edital real de custódia no bolso.
 - **Local**: pátio arruinado da Mina → garganta norte com pegadas sobrepostas → celeiro fora da muralha sul de Gus.
 - **Expressão**: cálculo contábil diante da ruína; atenção técnica ao desabamento; reserva diante dos corpos da família de Uorier.
@@ -181,6 +181,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Sinais físicos**: dedos compridos da mão direita tremem de leve, disfarçados na armação dos óculos; pescoço pálido e rígido.
 - **Postura**: sentado; postura de homem de gabinete; traça a rota com carvão no pergaminho.
 - **Fundo**: sala de traçagem da Academia de Gus.
+
+## Capítulo 47 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+
+- **Vestimenta**: casaco preto sujo de poeira de serra; **insígnia de bronze do Conselho** presa de volta na lapela, no portão oeste; luvas, que desabotoa na tesouraria; colarinho ajustado diante de Benjamim.
+- **Acessórios**: **anel de sinete dos Guenayer** de volta no dedo; óculos de armação de ébano, ajustados com dois dedos.
+- **Postura**: inclinado na janela da carruagem, voz de autoridade gélida; sentado em cadeira de espaldar alto; imóvel até a fumaça de Benjamim se dissipar.
+- **Expressão**: sem mexer o rosto diante do golpe de Koda; repugnância contida com Benjamim.
+- **Fundo**: ponte de pedra ao amanhecer, portão oeste, burgo baixo, Praça Central, escadarias do Castelo de Quartzo, tesouraria real, Grande Galeria.
 
 ## Histórico por Capítulo
 

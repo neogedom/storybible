@@ -77,6 +77,62 @@
 - Pergunta do autor: o trecho dos caps. 44 a 66 é denso demais para três dias? Avaliação registrada na decisão (medidas por dia, onde segura e onde aperta); sem decisão.
 - Correção: lidos os caps. 57 a 66 por inteiro, o final do 59 (cortejo com o prisioneiro) acontece depois do fim do Conselho (60). A contagem de recuos no tempo na ordem atual é 2 (51 e 59), não 1. Sugestão: trocar o 59 e o 60 de lugar. A página da cronologia foi corrigida.
 
+## 2026-11-15 (Cap. 47: edições do autor e novos comentários em lote)
+
+- Autor editou o cap. 47 (cortou comparações decorativas; ligou a fome à apoteose; trocou "barqueiros de Orval" por "artífices da Cidadela"; tirou a acusação explícita a Alavria da fala de Nolan e levou a oferta antiga para a narração; acrescentou um parágrafo final) e deixou cinco comentários `(* ...)`. No cap. 40 cortou a explicação do anel de sinete (o gesto fica).
+- Aplicado em lote, a pedido dele: Nolan não cita o contrato do Trono: sabe do acampamento dos Clãs na planície sul (Mathias, cap. 46), a coluna com Mário ainda não chegou a ele, e Nolan calcula o Portão Leste; a fumaça é a do acampamento; barbacã explicada no texto; burgos ligados à Segregação (sem selagem literal) e mencionados também no cap. 17; alusão a Alavria em ponto de vista de Nolan, com Koda nomeando Alavria; erros de digitação e crase corrigidos.
+- Registrados: `capitulos/capitulo-47.md` e `capitulos/capitulo-17.md` (burgos); semente #34 (germinação reescrita); `lugares/alavria.md`; `lugares/metropole.md` e `lugares/mapa-do-reino.md` (a Taverna do Porto Seco fica a horas da ponte, não entre os burgos: correção de registro anterior); `visuais/ossan.md` (olhos pequenos).
+- Observação de texto (não alterei o livro): a fala final de Benjamim ainda fecha em aforismo; fica para o anti-slop em lote.
+- Esclarecimento a pedido do autor (mesmo dia): "faltava a coluna que trazia Mário" era ambíguo e a atribuição a Mathias passava do que ele disse; a abertura foi reescrita (o acampamento já está na planície sul; a coluna de Mário ainda não chegou a ele; o Portão Leste é cálculo de Nolan). Ponto em aberto no cap. 46: o texto não diz como Mathias sabe do acampamento estando em Gus.
+- Dúvida do autor (mesmo dia): por que o acampamento existe, se é fixo e como Mathias o saberia. Registrado: o contrato da Coroa o instalou na planície sul e ele é fixo (fogueiras atrás de paliçadas no cap. 51; farinha da tesouraria no cap. 53); a citação do cap. 42 em `conceitos/clas-de-sangue.md` era inferência e foi corrigida; a fonte de Mathias segue em aberto (três saídas na ficha do cap. 46).
+- Decisão do autor (mesmo dia): opção A. Cap. 46, linha 61: Mathias descreve só a rotina ("o outro vigia a planície sul"). Cap. 47, linha 1: Nolan vê a fumaça ao sul e conclui que é um acampamento dos Clãs; a coluna com Mário ainda não chegou a ele.
+- Pergunta do autor: se os Clãs desceram, acamparam e só depois atacaram Gus. Resposta registrada: não; o ataque a Gus veio direto da serra (caps. 43 e 44) e o acampamento da planície sul fica no extremo oposto, sem cena de origem. Proposta de história (contrato da Coroa como ponto de reunião; uma linha de Valinor no cap. 47) aprovada pelo autor no mesmo dia (`decisoes/2026-11-15-acampamento-dos-clas.md`); a frase de Valinor foi aplicada no cap. 47, linha 81. A descida dos Clãs vem da soltura de Hícse: o Reino é o presente de Terbs a Hícse, em compensação pelo tempo preso em Gaviorn'l; a ordem de Hícse é pressuposta, sem voz (registrado em `conceitos/hicse.md`).
+
+## 2026-11-14 (Mini-INGEST do cap. 47)
+
+- Cap. 47 fechado (3.135 palavras; ~87,0%). Criada `capitulos/capitulo-47.md`; visuais de Nolan, Mathias, Ossan, Mira, Saboc e Benjamim atualizados; criados `visuais/valinor.md` e `visuais/koda.md`; "não aparece" em Kate, Mário, Lakand, Decian e Genocydo.
+- Sementes: #29 aplicada; novas #33 ("mais uma condição" da apoteose) e #34 (o fragmento galvânico e a lavra de Alavria); #26 (Saboc) com a germinação do L1. Canon duro em `conceitos/terbs.md`, `personagens/benjamim.md` e `personagens/genocydo.md`.
+- Fecho: Corte D (consequência); 45, 46 e 47 fecham em D, três seguidos (o POV gira). Observação para o passe de fechos. Próximo gatilho de checkpoint: o fim do beat Tudo Está Perdido ou 10 capítulos desde o checkpoint de 37 a 46 (2026-11-13).
+
+## 2026-11-14 (Mapa do Reino: lugares, divisas, Rifte, Opium e Saramant)
+
+- Decisões do autor, registradas em `decisoes/2026-11-14-mapa-do-reino-lugares-e-divisas.md`: nomes fora do Reino (Landorp, Garyun, Vitysh, Velho Continente, Alavria e Gondor) só como divisa ou seta; Valoran, Duannis e Ilton como cidades do Reino; divisas com Gondor (oeste), Clãs (leste) e fronteira aberta ao norte, com fortes de guarnição; Rifte como enclave do Templo dentro do Reino; Opium na ponta oeste da mata; Saramant alargada sobre as terras dos daërunmeges e além da divisa; Campo dos Moribundos no mapa.
+- Novos: `lugares/mapa-do-reino.md` (com `.svg` e `.png` da referência e do guia, e o prompt final), `valoran.md`, `duannis.md`, `ilton.md`, `porto-sul.md`, `landorp.md`.
+- Atualizados: `rifte.md` e `saramant.md` (reescritas), `opium.md`, `gondor.md`, `subida-da-mina.md`, `cidadela-de-gus.md`, `moribundos.md`, `metropole.md`, `mina-de-quartzo.md`, `inquiridor.md`, `inquiridores-sinal.md`, `clas-de-sangue.md`, `elysia.md`, `index.md`.
+- Pendências: ponte velha (cap. 42), hierarquia do Templo (clérigo-mor × Nuh), pontos de L2 que dependem de posição.
+
+## 2026-11-14 (Geografia do Cran aprovada e aplicada)
+
+- Decisão do autor: a Metrópole é uma ilha com dois braços do Cran; Nolan desce pela estrada real e os Clãs pelas serras do outro lado do rio, com vau perto de Gus. Decisão em `decisoes/2026-11-14-geografia-cran-clas-metropole.md`; mapa em `lugares/mapa-cran-metropole.svg` e `.png`.
+- Livro: cap. 47, linha 1 ("pelas serras do outro lado do Cran, território que já era deles"); cap. 46, fala de Lakand ("Nas serras deles, com centenas de guerreiros carregando Mário").
+- Conferidos sem mudança: entrada pelo norte e saída pela garganta sul de Gus (caps. 43 a 45), Portão Leste (cap. 50), planície sul e barcaça (caps. 51 e 53). Cap. 45: "garganta sul" mantida.
+- Registros: `lugares/metropole.md`, `lugares/cidadela-de-gus.md`, `conceitos/clas-de-sangue.md`, nova ficha `personagens/elysia.md`; índice atualizado; entrada do inbox fechada.
+- O número dos Clãs é "mais de duzentos a cavalo" (cap. 44); "seiscentos" são os soldados de Alavria (cap. 66).
+
+## 2026-11-14 (Epílogo corrigido e proposta da trajetória dos Clãs)
+
+- Epílogo: tirados "do bebê deixado num celeiro de palha" e "não tinha mais família", que contradizem Saboc vivo; a linha agora diz "nem sogro, nem corte. Só o filho, pequeno demais para saber de qualquer uma daquelas perdas".
+- Epílogo: as fogueiras dos Clãs não marcham mais "em direção às serras de Alavria" (Alavria é além-mar); os sobreviventes continuam nos becos do Gerdialias, como nos caps. 64 e 66.
+- Proposta da trajetória dos Clãs até a Metrópole registrada no inbox, a avaliar.
+
+## 2026-11-14 (Cap. 47: pendências resolvidas pelo autor)
+
+- Cap. 56, linha 55: "Matou Dagmar e o meu filho" passa a "Matou Dagmar e tentou matar o meu filho", porque Saboc está vivo.
+- Portões: o cap. 47 passa a dizer "Portão Leste" (sem "ponte do Leste"), em acordo com o cap. 50; a ponte de pedra dá no portão oeste. Registrado em `lugares/metropole.md`.
+- Rota: o Espinhaço fica na Subida, entre Tronk e a Mina, e não leva à Metrópole. Caps. 46 e 47: Nolan desce pela estrada do sul, sem pouso; o cap. 33 não foi alterado.
+- Burgos de humanos ficam fora da muralha (a muralha separa humanos de leviantares).
+- Cap. 40: Nolan também esconde o anel de sinete dos Guenayer ao chegar em Gus, porque os hegralianos o reconheceriam; no cap. 47 ele o recoloca junto da insígnia.
+- Fragmento: metal galvânico, não renanthao; a referência a Alavria é a lavra. Ajustada a fala de Nolan no cap. 47.
+- A promessa dos Clãs não precisa ter antecedido a carta no texto: basta que a carta não tenha sido a causa. Semente #29 e ficha de Koda atualizadas.
+
+## 2026-11-14 (Cap. 47: revisão em lote dos comentários do autor)
+
+- Aplicados no `capitulo47.md` os comentários `(* ...)` do autor, a pedido dele, ainda no modo privado (sem Mini-INGEST do 47).
+- Decisões do autor: não há mentira sobre Saboc (Mira e Saboc entram na Metrópole; só Nuh sabe da ressurreição, pelo escriba); precedente de Alavria no Interregno (ofereceu ajuda contra Gondor em troca de o Reino virar província; os Guenayer recusaram); o desengano de Koda, com a cessão aos Clãs como "mais uma condição da apoteose", sem nomear a blasfêmia.
+- Ajustes de canon no texto: insígnia de bronze do Conselho recolocada no portão (cap. 40 a escondera); capa vermelha de Mathias de volta; cocheiro fica no celeiro (cap. 46); "festividades de Gerikhad" vira "festa dos Clãs" (cap. 49); estação e cifras que Nolan não poderia saber saem da narração.
+- Registrados: semente #29 reescrita; fichas de Koda, Valinor, Saboc e Nuh; `lugares/metropole.md` (pontes, rotas, burgos), `lugares/alavria.md` e `lugares/gondor.md` (precedente); entradas do inbox de 2026-11-14 fechadas.
+- Pendências: cap. 56, linha 55 ("matou Dagmar e o meu filho"); cap. 50 ("Portão Leste" x "ponte do Leste"); brasão/anel de sinete dos Guenayer no cap. 40; ajuste do fragmento de renanthao no cap. 47; tensão entre a decisão de 2026-11-09 (a promessa antecedeu a carta) e o texto (a carta não foi a causa).
+
 ## 2026-11-13 (Correções do teste 2 no cap. 46)
 
 - Decisão do autor: Kate pode saber o nome de Ossan (cap. 46, linha 1 mantida).
@@ -3685,3 +3741,84 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 
 - Criado `capitulos/capitulo-46.md` (POV Kate, ~84,7%). Visuais: Kate, Nolan, Lakand, Mathias, Ossan, Decian; "não aparece" para Mário, Mira e Saboc. Linha do cap. 46 e bloco de fronteira no `esquema-l1.md`; defesas da muralha em `lugares/metropole.md`; payoff de Lupe'i em `temas/sementes.md`.
 - Gatilho de checkpoint atingido: último registrado em 2026-09-18 (caps. 21-28), 18 capítulos atrás, e o cap. 46 fecha o bloco "Vilões se Aproximam". Oferecido ao autor, não executado.
+
+## 2026-11-13 (validação das fichas 34 a 38)
+
+- Fichas conferidas com o texto. Decisões do autor: repique frenético (cap. 38 ajustado); picareta (cap. 37 ajustado); cinco seguidores (caps. 37 e 38); mapa da reestruturação com o cap. 38 em POV de Kate; massacre da família Uorier, com Mira e Saboc vivos; cap. 38 reescrito para o reconhecimento de Nolan (o nome vem do soldado no cap. 20).
+
+## 2026-11-13 (checkpoint caps. 37 a 46)
+
+- Executado: Arquiteto de Densidade (leve), anti-slop em lote (59 cirurgias nos caps. 37 a 45; cap. 46 só candidatos, por estar em revisão manual) e passe de fechos (bloco gravado em `temas/esquema-l1.md`).
+- Densidade: Vilões se Aproximam consumiu ~19k palavras (~13,9%) contra ~7% planejado; o bloco absorveu os primeiros beats do Tudo Está Perdido. Cap. 41 em excesso; Gus quase não paga a entrega de Mário; mapa do arco-stc precisa ser redefinido antes do cap. 47.
+
+## 2026-11-13 (cap. 46 fechado e checkpoint aprovado)
+
+- Autor aprovou os pontos do checkpoint. Correções de coerência aplicadas nos caps. 37, 38, 41, 43, 44, 45 e 46 (olhos de Nolan escuros, conforme `personagens/nolan.md`; cinco seguidores; erros de grafia). Arco-stc redefinido; ajustes estruturais em `insights/_inbox.md`. Pendente: prazo do ultimato de Estruzzo (cap. 43) contra o ataque na mesma noite.
+
+## 2026-11-13 (ultimato de Estruzzo)
+
+- Ultimato do cap. 43 passa a ser "antes da meia-noite" (era "ao amanhecer", incompatível com o ataque na mesma noite). Ficha `capitulos/capitulo-43.md` ajustada.
+
+## 2026-11-13 (signatário do contrato com os Clãs)
+
+- Decisão do autor: Nolan não assinou o contrato com os Clãs de Sangue. Registrado em `decisoes/2026-11-13-signatario-contrato-claos.md`. Pendências: o termo "Rei fantoche" (cap. 43) e o pacto de Nolan com Terbs no final do L1 (`nolan.md`, `benjamim.md`).
+
+## 2026-11-13 (Rei fantoche e pacto de Nolan com Terbs)
+
+- Decisão do autor: "Rei fantoche" é Genocydo (termo de Estruzzo; Terbs o move por meio de Benjamim Cressadar). Genocydo assinou a entrega das terras aos Clãs. O pacto de Nolan com Terbs continua de pé, como evento separado (no epílogo do rascunho, Nolan pega o sinete).
+- Atualizados: `decisoes/2026-11-13-signatario-contrato-claos.md` (reescrita, sem pendências), `personagens/genocydo.md`, `personagens/nolan.md`, `personagens/benjamim.md`, `conceitos/terbs.md`, `conceitos/clas-de-sangue.md`, ficha do cap. 43.
+- Corrigido um resíduo: a ficha do cap. 43 ainda dizia "ao amanhecer" no resumo; agora diz "antes da meia-noite".
+
+## 2026-11-13 (Sinal mudo no final do L1)
+
+- Decisão do autor: o Sinal pode estar mudo no final do L1, porque mede o selo de Hícse e Hícse está solta. Trajetória: instável (prólogo a cap. 29) → perde o objeto (cap. 30+) → mudo (Ato 3 e epílogo).
+- Atualizados: `conceitos/sinal-de-vonos.md` (nova seção "Estado no final do L1"), `decisoes/sinal-permanentemente-instavel.md` (revisão), `conceitos/hicse.md`, ficha do cap. 0.
+- O que o rascunho já tem (cap. 47 "apagado", cap. 50 "mudo", epílogo "definitivamente morto") não é erro de canon. A sinalização anterior em contrário foi retirada.
+- Em aberto: a partir de qual capítulo o mudo vale; se é permanente ou reversível no L2.
+
+## 2026-11-13 (curva de aproximação Kate–Mário)
+
+- Autor aprovou o item 8 do inbox: micro-gestos em cinco pontos (caps. 25, 27, 36 abertura, 36 fecho, e um do lado de Mário em 21, 26 ou 34), sem nomear o amor; destino congelamento-L1. Cap. 45: tese do sacrifício condensada na fase 3; a linha "Amor..." decidida depois da curva.
+- `personagens/kate.md` corrigido: o vínculo deixa de ser "não romântico" e passa a crescer sem nome no L1 e virar casamento no L2.
+
+## 2026-11-13 (Sinal instável no L1: Kate receptora)
+
+- Autor aprovou "Kate como receptora" (caps. 20 e 23), destino congelamento-L1, registrado no inbox com as cinco perguntas. A ideia de o Monólito responder "não consta" foi rejeitada. O efeito da falta do Sinal sobre os Inquiridores e o culto a Vonos no L2 foi capturado. Semente #27 (Charles) a revisar.
+
+## 2026-11-13 (Sinal mudo a partir de Hícse, e definitivo)
+
+- Decisão do autor: o Sinal está mudo a partir da libertação de Hícse (cap. 30), não só no Ato 3; e o mudo é definitivo, salvo se Vonos reconstruísse o instrumento, o que não vai acontecer.
+- Atualizados: `conceitos/sinal-de-vonos.md` (Camada 2 e nova seção), `decisoes/sinal-permanentemente-instavel.md`, `decisoes/gaviornl-morte-antecipada-hicse.md`, `conceitos/hicse.md`, ficha do cap. 0, inbox.
+- Texto: fala dos artífices de Gus no cap. 42 ajustada (a pedra do templo não responde; o Sinal não voltou).
+
+## 2026-11-13 (semente #27)
+
+- Autor aprovou tirar Charles da semente #27: a Ordem dos Inquiridores opera sem o Sinal no L2 e segue atrás da anomalia de Kate (#19); o "Cão da Inquisição" de Charles é outro fio. Nota do inbox atualizada.
+
+## 2026-11-13 (rapaz curado dos Clãs)
+
+- Autor aprovou o reconhecimento do rapaz curado (cap. 48) entre os Clãs no cap. 63: ele vê o homem que o curou ser torturado, sem ajoelhar e sem agir. Registrado como semente #32 e no inbox (destino: cap. 63, na revisão). Sem nome por ora.
+
+## 2026-11-13 (Nuh e Nolan sobre o silêncio do Sinal)
+
+- Ideia do autor capturada no inbox: nos capítulos finais, Nuh pergunta a Nolan se teve parte no silêncio do Sinal. Proposta: epílogo, antes de Benjamim; resposta de Nolan factual (o Sinal vacilou antes de qualquer ato dele; ele queimou o hegraliano assim mesmo). Status: em desenvolvimento.
+
+## 2026-11-13 (Nuh e Nolan no epílogo: aceito)
+
+- Autor aceitou a cena de Nuh e Nolan no epílogo (cerca de 300 palavras) e decidiu manter a frase do narrador "silenciada pela soberania de outro Nome" como leitura teológica (providência: causa primeira e causas segundas). Falta confirmar a resposta de Nolan. Atualizados: inbox, `conceitos/sinal-de-vonos.md`, `personagens/nuh-dteraghar.md`.
+
+## 2026-11-13 (cronologia do boato e dos hegralianos)
+
+- Autor corrigiu a resposta de Nolan a Nuh: rixa antiga com os hegralianos; o Sinal falhou primeiro; os hegralianos espalharam o boato (Vonos abandonou o reino ou há problema com o Rei); Nolan os queimou em Gerikhad pelo boato; o Sinal calou depois. Cronologia registrada em `insights/nolan-sufoca-boatos-sinal.md` e a cena exemplo do inbox foi refeita.
+
+## 2026-11-13 (cena de Nuh e Nolan: resposta aceita)
+
+- Autor aceitou a resposta de Nolan a Nuh. Rascunho em prosa da cena (254 palavras) guardado no inbox, sem inserir no epílogo.
+
+## 2026-11-13 (branch de trabalho)
+
+- Autor decidiu centralizar o trabalho com o Claude na branch `trabalho`, nos dois repositórios, por cerca de um mês; se der certo, ela assume a `main`. Regras e estado das branches antigas em `decisoes/2026-11-13-branch-de-trabalho.md`.
+
+## 2026-11-14 (fluxo de PR por sessão)
+
+- Autor decidiu: a main é a fonte; cada sessão abre PR para a main quando pedir; backup em `backup/main-2026-11-14`; `.github` (e `.kilo`, no Livro) ficam como na main. A branch `trabalho` foi superada. Decisão em `decisoes/2026-11-14-fluxo-pr-por-sessao.md`.

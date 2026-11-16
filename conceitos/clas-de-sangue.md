@@ -18,7 +18,8 @@ timestamp: 2026-11-09T14:55:00Z
 - Organizam-se em tribos. Há vários Clãs, sem um líder geral que os reúna.
   No Reino de Genocydo, vários deles vivem nas Montanhas Esquecidas.
 - A representação das tribos no contrato com a Coroa mencionado no cap. 46
-  ainda não está definida.
+  ainda não está definida. O signatário pela Coroa é Genocydo (decisão
+  2026-11-13); Nolan não assinou.
 
 ## Língua
 
@@ -42,6 +43,16 @@ Há lendas sobre monstros inomináveis, rituais sangrentos e profanos e magia
 extremamente sombria entre os Clãs. A verdade desses relatos permanece em
 aberto. Na prosa, tratá-los como boatos atribuídos, nunca como fatos
 confirmados.
+
+## Território e rota no L1 (decisão do autor, 2026-11-14)
+
+- As Montanhas Esquecidas correm do extremo Norte, do lado do Cran oposto ao da estrada da Mina, até a planície sul da Metrópole. A serra é território dos Clãs; a Coroa e Nolan não passam por ela. Mapa em `lugares/mapa-cran-metropole.svg`.
+- Há um vau perto de Gus, a leste da cidade. Estruzzo e mais de duzentos cavaleiros (cap. 44) cruzam o vau, contornam Gus pelo norte e rompem a paliçada norte. Saem pela garganta sul com Mário (cap. 45), voltam ao vau e descem a serra do outro lado do Cran, em coluna de centenas (cap. 48), com cerca de trinta guerreiros ao redor dele.
+- O acampamento da planície sul (caps. 47, 51 e 53) é o corpo avançado dos Clãs (decisão do autor, 2026-11-15): o contrato do Trono fez da planície sul o ponto de reunião deles, no fim da serra e sobre a estrada do grão de Elysia; armaram paliçada em cima da estrada (Valinor, cap. 47) e a Coroa os abastece (cap. 53). Chegaram depois da partida de Nolan e Mathias. O ataque a Gus não saiu desse acampamento: os Clãs foram direto da serra a Gus (cap. 43: "já estão na boca do desfiladeiro"; cap. 44: mais de duzentos a cavalo nos portões baixos do norte). A massa a pé vista no norte (cap. 42) ainda desce pela serra, e é isso que torna a coluna lenta. Ver `decisoes/2026-11-15-acampamento-dos-clas.md`.
+- Entrada na Metrópole: trânsito diário pelo Portão Sul (cap. 53) e entrada cerimonial com Mário pelo Portão Leste (cap. 50), no fim da tarde do dia em que Nolan chega, ao amanhecer, pela ponte de pedra (caps. 47 e 50).
+- Os Clãs nunca tocam a estrada Mina, Tronk e Saramant, e Nolan nunca toca a serra: o rio é a separação.
+- **Divisa (cap. 14):** "as patrulhas das fronteiras [...] inclusive as que vigiam a divisa com os Clãs de Sangue". A linha corre ao pé da serra, do Cran até a costa sudeste, com pequenos fortes de guarnição (`lugares/mapa-do-reino.md`).
+- O contrato da Coroa os instalou na planície sul. O grão de Elysia, que chegava por esse lado, foi cortado pelos Clãs (ver `personagens/elysia.md`).
 
 ## Conexões
 

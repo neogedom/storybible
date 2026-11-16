@@ -33,7 +33,10 @@ um preço.
   designar todos os vampiros — o termo técnico nasce do nome do primeiro
   transformado. Ver [Lordes Defuntos](/conceitos/lordes-defuntos.md).
 - **Apoteose:** Promessa de elevação divina que Terbs vende a Genocydo
-  através de Benjamim.
+  através de Benjamim. **Condições (cap. 47, 2026-11-14):** a cessão do Reino
+  inteiro aos Clãs é "mais uma condição" da apoteose; Koda só a viu (exigiu
+  selo) e sabe que há outras. A blasfêmia pública de Mário é a condição não
+  nomeada no cap. 47.
 
 ## Agenda sobre Mário (correção 2026-08-10)
 
@@ -49,6 +52,11 @@ deus. Terbs **mente**: a apoteose é isca para usar Genocydo como
 instrumento; o pagamento nunca será entregue. Terbs opera via **Benjamim**
 (clérigo infiltrado) — que intermedeia o contrato e alimenta a paranoia de
 Genocydo com a promessa.
+
+**Quem assinou (canon 2026-11-13):** Genocydo assinou a entrega das terras
+aos Clãs de Sangue (cap. 43). Estruzzo o chama de "Rei fantoche" porque
+Terbs o move por meio de Benjamim Cressadar. Nolan não é signatário desse
+contrato; o pacto dele com Terbs, no final do L1, é um evento separado.
 
 ## Relações
 
