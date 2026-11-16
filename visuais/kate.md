@@ -195,7 +195,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: luz do dia, feira movimentada
 - Fundo: barracas de lona, carroças, fogueiras
 
-## Capítulo 47 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+## Capítulo 48 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
 
 - **Não aparece** (em Gus, preparando as barcaças).
 

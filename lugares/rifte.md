@@ -27,7 +27,7 @@ Garganta do baixo Cran, a oeste da Metrópole, a cerca de dois dias de barca. O 
 - **Cap. 14:** Nuh d'Teraghar, Sumo Sacerdote de Vonos, senta no Conselho do Rei, como representante do Templo.
 - **Cap. 49:** o Santuário de Vonos, na Metrópole, funciona como capela e representação do enclave.
 - **Cap. 57:** a comporta da cisterna foi forjada "nas fundições de Rifte".
-- **Caps. 42 e 47:** os "diapasões de Rifte" e a exportação do quartzo.
+- **Caps. 42 e 48:** os "diapasões de Rifte" e a exportação do quartzo.
 - Nenhuma frase do livro chama Rifte de "reino"; não há texto a mudar.
 
 ## Em aberto

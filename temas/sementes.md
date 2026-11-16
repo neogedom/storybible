@@ -642,7 +642,7 @@ _Atualizar a cada INGEST de capítulo._
 
 - **Plantio:** L1, caps. 4, 19, 20 e 22 (a ressurreição na cela; o filho de Nolan e Dagmar que une as linhagens Guenayer e Addorbek).
 - **Desenvolvimento no L2:** Saboc cresce na corte da Metrópole junto aos filhos de Mário e Kate (os gêmeos Bernardo e Stella). Sendo alguns anos mais velho (11-13 anos), torna-se amigo leal e protetor fraternal deles.
-- **Germinação no L1 (cap. 47, 2026-11-14):** Saboc entra vivo na Metrópole com Mira e Valinor o conhece. Para a corte, sobreviveu naturalmente ao parto; só Nuh sabe da ressurreição (soube pelo escriba), fora do texto.
+- **Germinação no L1 (cap. 48, 2026-11-14):** Saboc entra vivo na Metrópole com Mira e Valinor o conhece. Para a corte, sobreviveu naturalmente ao parto; só Nuh sabe da ressurreição (soube pelo escriba), fora do texto.
 - **Germinação / Payoff:** No final do L2, Mário abdica do trono temporal para seguir como peregrino e recusa coroar seus filhos na corte corrompida (entregando-os à fé do Remanescente). O trono secular é assumido por Saboc. A ironia fecha a ambição de Nolan: sua linhagem governa a Metrópole não pelo pacto sujo com Terbs, mas porque Mário ressuscitou Saboc por pura graça anos antes em Saramant.
 
 ## 27. O Destino dos Inquiridores e o Sinal Cego (canon 2026-10-17)
@@ -657,12 +657,12 @@ _Atualizar a cada INGEST de capítulo._
 - **Germinação no L2:** Na Configuração do L2, Mário assume a coroa e ganha a alcunha de **o Rei Docente**. Ele reúne os eruditos da Academia dos Artífices no palácio da Metrópole, lê em voz alta o exemplar da Bíblia deixado por Kraviam e ensina o português aos letrados para operacionalizarem a tradução das Escrituras para o ornickenho.
 - **Corrupção trágica:** O projeto pedagógico vira a porta de entrada para a Inquisição imperial: Nolan e os juristas usam a tradução para sacralizar as leis do Estado ("Espadas do Evangelho"), cumprindo o alerta de Orval.
 
-## 29. O Desengano de Nolan e o Pânico de Koda (canon 2026-10-25; aplicado ao cap. 47 em 2026-11-14)
+## 29. O Desengano de Nolan e o Pânico de Koda (canon 2026-10-25; aplicado ao cap. 48 em 2026-11-14)
 
 - **Plantio no L1:** Cap. 42 (Nolan supõe na taverna de Gus que Genocydo, ao som de Benjamim, abriu os desfiladeiros aos Clãs de Sangue, "prometendo terras da capitania", precipitado pela carta que ele despachara na estrada).
-- **Payoff no L1 (cap. 47, tesouraria real):** Nolan tenta se justificar: o Rei teria agido em pânico depois do aviso dele. Koda o desengana com aspereza: a carta não moveu nada. Benjamim trouxe a cessão aos Clãs como **"mais uma condição da apoteose"**, e o Rei assinou sem passar pelo Conselho (o signatário é Genocydo, não Nolan: `decisoes/2026-11-13-signatario-contrato-claos.md`).
+- **Payoff no L1 (cap. 48, tesouraria real):** Nolan tenta se justificar: o Rei teria agido em pânico depois do aviso dele. Koda o desengana com aspereza: a carta não moveu nada. Benjamim trouxe a cessão aos Clãs como **"mais uma condição da apoteose"**, e o Rei assinou sem passar pelo Conselho (o signatário é Genocydo, não Nolan: `decisoes/2026-11-13-signatario-contrato-claos.md`).
 - **A surpresa é de escala.** Nolan sabia de um acordo com os Clãs, mas pensava numa porção de terra selvagem, Saramant, que nenhum metropolitano reclamaria. Koda corrige: foi o Reino inteiro.
-- **"Mais uma condição."** Koda só viu a cessão, porque ela exigiu selo e passou pela mesa dele; as outras ele não viu e sabe apenas que existem. Nolan também não sabe quais. A condição da blasfêmia pública de Mário **não é nomeada** no cap. 47; fica para o confronto de Nolan com Genocydo (próximo capítulo de Nolan) e com Benjamim.
+- **"Mais uma condição."** Koda só viu a cessão, porque ela exigiu selo e passou pela mesa dele; as outras ele não viu e sabe apenas que existem. Nolan também não sabe quais. A condição da blasfêmia pública de Mário **não é nomeada** no cap. 48; fica para o confronto de Nolan com Genocydo (próximo capítulo de Nolan) e com Benjamim.
 - **Ordem no tempo.** O contrato com os Clãs é posterior à soltura de Hícse (cap. 30) e à cobrança dela a Terbs (`decisoes/gaviornl-morte-antecipada-hicse.md`). **Decisão do autor (2026-11-14):** o texto não precisa afirmar que a promessa antecedeu a carta de Nolan (cap. 28); basta dizer que a carta não foi a causa. A formulação de 2026-11-09 ("a promessa antecedeu a carta") fica superada por essa leitura.
 - **Conflito oculto de Koda:** no texto aparece só como gesto (amassa um recibo, pressa nas respostas). Ele planejou a tomada cirúrgica da cidade por Alavria abrindo os portões durante a confusão; a descida desgovernada dos Clãs ameaça queimar o Reino antes de o destacamento alavriano intervir, arriscando o resgate de Joachin, refém em Alavria.
 
@@ -683,15 +683,15 @@ _Atualizar a cada INGEST de capítulo._
 
 ## 33. "Mais uma condição": as condições da apoteose (canon 2026-11-14)
 
-- **Plantio no L1 (cap. 47, POV Nolan):** Koda diz que Benjamim trouxe a cessão do Reino aos Clãs como "mais uma condição da apoteose" e que o Rei assinou sem o Conselho. Koda só viu essa condição, porque exigiu selo e passou pela mesa dele; sabe que as outras existem. Nolan registra que "mais uma condição" quer dizer que há outras.
+- **Plantio no L1 (cap. 48, POV Nolan):** Koda diz que Benjamim trouxe a cessão do Reino aos Clãs como "mais uma condição da apoteose" e que o Rei assinou sem o Conselho. Koda só viu essa condição, porque exigiu selo e passou pela mesa dele; sabe que as outras existem. Nolan registra que "mais uma condição" quer dizer que há outras.
 - **Surpresa de escala:** Nolan sabia de um acordo com os Clãs, mas imaginava só Saramant, "um pedaço de mato"; foi o Reino inteiro.
 - **Payoff no L1:** Nolan descobre os termos do pacto ao confrontar Benjamim (esquema, Tudo Está Perdido) e cobra satisfação de Genocydo em um próximo capítulo dele. A condição da blasfêmia pública de Mário vem à tona nessa sequência.
-- **Limite:** a blasfêmia não é nomeada no cap. 47, e Nolan não sabe que é ela.
+- **Limite:** a blasfêmia não é nomeada no cap. 48, e Nolan não sabe que é ela.
 
-## 34. O fragmento galvânico e a lavra de Alavria (canon 2026-11-12; aplicado ao cap. 47 em 2026-11-14)
+## 34. O fragmento galvânico e a lavra de Alavria (canon 2026-11-12; aplicado ao cap. 48 em 2026-11-14)
 
 - **Plantio no L1 (cap. 42):** Mathias entrega a Nolan um fragmento das ruínas da Mina: núcleo de metal escuro, fios finos em espiral e uma marca rasa, de traços retos e um círculo partido. Nolan não reconhece o desenho.
-- **Germinação (cap. 47):** Nolan o mostra a Koda: "É o tipo de metal que só uma nação com conhecimento avançado sobre metalurgia saberia fundir" (edição do autor, 2026-11-15, no lugar de "A lavra é a mesma dos diapasões que você mandou importar de Alavria"). Descreve uma nação "que já demonstrou no passado interesse sobre nossas terras" sem nomeá-la. Quem nomeia Alavria é **Koda** ("Alavria fica a semanas pelo mar"), e leva a mão ao colete, onde guarda os despachos do porto sul: ele se entrega sem ser acusado. O metal é **galvânico, não renanthao** (decisão do autor, 2026-11-14): sem a propriedade antimagia.
+- **Germinação (cap. 48):** Nolan o mostra a Koda: "É o tipo de metal que só uma nação com conhecimento avançado sobre metalurgia saberia fundir" (edição do autor, 2026-11-15, no lugar de "A lavra é a mesma dos diapasões que você mandou importar de Alavria"). Descreve uma nação "que já demonstrou no passado interesse sobre nossas terras" sem nomeá-la. Quem nomeia Alavria é **Koda** ("Alavria fica a semanas pelo mar"), e leva a mão ao colete, onde guarda os despachos do porto sul: ele se entrega sem ser acusado. O metal é **galvânico, não renanthao** (decisão do autor, 2026-11-14): sem a propriedade antimagia.
 - **Reforço:** a alusão de Nolan carrega a oferta antiga de Alavria na ocupação de Gondor, no Interregno, com o trono vazio (ajuda para expulsar os gondorianos em troca de o Reino virar província), recusada pelos Guenayer da época. A narração a explica em uma frase, em ponto de vista de Nolan.
 - **Payoff:** a confissão parcial de Koda (cap. 60) e a revelação das cargas e da vanguarda de Alavria (caps. finais).
 - **Limite:** o fragmento não é prova; Nolan "guardou para si as conclusões sobre a reação de Koda".
@@ -707,10 +707,10 @@ _Atualizar a cada INGEST de capítulo._
 
 ## 32. O Rapaz Curado dos Clãs (canon 2026-11-13)
 
-- **Plantio executado (cap. 48, POV Mário):** na marcha dos Clãs, uma carroça tomba no Despenhadeiro das Cruzes e esmaga a coxa de um rapaz jovem (peito nu coberto de cinza ritual, olhos claros). Karrk vai matá-lo a faca. Mário pede que lhe desatem os braços e o cura por reflexo. O milagre não converte ninguém, Mário é amarrado mais apertado e a Voz não diz nada. O rapaz não tem nome no texto.
+- **Plantio executado (cap. 47, POV Mário):** na marcha dos Clãs, uma carroça tomba no Despenhadeiro das Cruzes e esmaga a coxa de um rapaz jovem (peito nu coberto de cinza ritual, olhos claros). Karrk vai matá-lo a faca. Mário pede que lhe desatem os braços e o cura por reflexo. O milagre não converte ninguém, Mário é amarrado mais apertado e a Voz não diz nada. O rapaz não tem nome no texto.
 - **Payoff aceito para o L1 (cap. 63, POV Mário, na Garfo):** entre os guerreiros dos Clãs reunidos junto às arcadas, Mário reconhece o rapaz da carroça, de pé sobre as duas pernas, a mão aberta sobre a coxa. Ele vê o homem que o curou ser torturado, sem se ajoelhar e sem agir. Linha de referência: "Entre os guerreiros das arcadas, Mário reconheceu o rapaz da carroça, de pé sobre as duas pernas, a mão aberta sobre a coxa. Ele não se ajoelhava nem desviava os olhos."
 - **Caps. 64 e 66:** sem alteração. O cap. 66 já diz que os sobreviventes "não se ajoelharam diante de Mário"; o destino do rapaz fica em aberto.
-- **Função:** realiza a tese do cap. 48 (o milagre não é recompensado; a cruz como o lugar onde cravam os cravos na mão que acabou de curá-los) sem pagar o milagre, e dá um rosto aos Clãs.
-- **Limite:** o rapaz não age a favor de Mário, não se ajoelha e não se converte, e nenhuma reação dos Clãs muda por causa dele. Sem nome por ora: só se alguém o disser em cena (a velha de rosto tatuado do cap. 48 é a candidata natural); deixar para o L2 se ele voltar a importar.
+- **Função:** realiza a tese do cap. 47 (o milagre não é recompensado; a cruz como o lugar onde cravam os cravos na mão que acabou de curá-los) sem pagar o milagre, e dá um rosto aos Clãs.
+- **Limite:** o rapaz não age a favor de Mário, não se ajoelha e não se converte, e nenhuma reação dos Clãs muda por causa dele. Sem nome por ora: só se alguém o disser em cena (a velha de rosto tatuado do cap. 47 é a candidata natural); deixar para o L2 se ele voltar a importar.
 - **Germinação (L2):** pode voltar entre os guerreiros da Hoste de Hícse. Possibilidade, sem compromisso.
 

@@ -74,7 +74,7 @@ Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
    Clãs de Sangue (cap. 43). Estruzzo o chama de "Rei fantoche" porque Terbs
    o move por meio de Benjamim Cressadar. Nolan não assinou esse contrato
    (`decisoes/2026-11-13-signatario-contrato-claos.md`).
-   **Cap. 47 (2026-11-14):** a cessão foi do **Reino inteiro**, não só de
+   **Cap. 48 (2026-11-14):** a cessão foi do **Reino inteiro**, não só de
    Saramant, trazida por Benjamim como "mais uma condição da apoteose"; o Rei
    assinou sem passar pelo Conselho. Mandou queimar três cofres de títulos para
    pagar as resinas e os óleos de unção de Benjamim e desautorizou qualquer

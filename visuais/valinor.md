@@ -8,7 +8,7 @@ timestamp: 2026-11-14T23:00:00-03:00
 
 > Primeiro registro visual de Valinor. Os caps. 10, 14, 45 e 46 ainda não foram registrados aqui.
 
-## Capítulo 47 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+## Capítulo 48 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
 
 - **Vestimenta**: capa vermelha impecavelmente presa por duas dragonas de ouro fosco.
 - **Acessórios**: espada de ordenança com punho de prata; a mão esquerda descansa sobre ele, de nós brancos.

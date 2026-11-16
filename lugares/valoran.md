@@ -17,7 +17,7 @@ timestamp: 2026-11-14T22:00:00-03:00
 ## Posição e papel (decisão do autor, 2026-11-14; fora do texto)
 
 - Planície sul, a cerca de um dia e meio do Portão Sul, na estrada do grão que vem das terras de Elysia.
-- Cidade dos armazéns de grão. O comboio de Elysia massacrado pelos Clãs (cap. 47) morreu antes de chegar a ela, ao pé da serra.
+- Cidade dos armazéns de grão. O comboio de Elysia massacrado pelos Clãs (cap. 48) morreu antes de chegar a ela, ao pé da serra.
 
 ## Em aberto
 

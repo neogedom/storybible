@@ -27,7 +27,7 @@ Arquivos editáveis: `mapa-do-reino-referencia.svg` (com rótulos) e `mapa-do-re
 
 | Lugar | Fonte | Situação |
 |---|---|---|
-| Metrópole, ilha com dois braços do Cran, ponte de pedra, burgos de humanos fora da muralha | caps. 17, 46, 47 | no texto e decisão de 2026-11-14 (`lugares/metropole.md`) |
+| Metrópole, ilha com dois braços do Cran, ponte de pedra, burgos de humanos fora da muralha | caps. 17, 46, 48 | no texto e decisão de 2026-11-14 (`lugares/metropole.md`) |
 | Taverna do Porto Seco | cap. 17 | no texto; fica na estrada de Saramant, a horas da ponte e depois dos campos (parada no fim da tarde); não está entre os burgos |
 | Saramant, a grande mata, do Vau e do castelo de Devour até a divisa com Gondor, e além | caps. 5, 17, 19 | no texto; extensão decidida (`lugares/saramant.md`) |
 | Estalagem do Vau e os três ramais | cap. 19 | no texto |
@@ -42,8 +42,8 @@ Arquivos editáveis: `mapa-do-reino-referencia.svg` (com rótulos) e `mapa-do-re
 | Montanhas Esquecidas (Clãs de Sangue) | ficha dos Clãs | decisão: a leste do Cran, de norte a sudeste |
 | Rifte, enclave do Templo, na garganta do baixo Cran | caps. 10, 28, 33, 40, 57 | decisão do autor (`lugares/rifte.md`) |
 | Duannis, Valoran, Ilton | cap. 17 | posições decididas (`lugares/duannis.md`, `valoran.md`, `ilton.md`) |
-| Porto Sul, estaleiros e floresta de mogno dos Deltëra | caps. 7, 47, 49, 64 | decisão do autor (`lugares/porto-sul.md`) |
-| Capitania de Elysia e a estrada do grão | caps. 47 e 58 | decisão do autor (`personagens/elysia.md`) |
+| Porto Sul, estaleiros e floresta de mogno dos Deltëra | caps. 7, 48, 49, 64 | decisão do autor (`lugares/porto-sul.md`) |
+| Capitania de Elysia e a estrada do grão | caps. 48 e 58 | decisão do autor (`personagens/elysia.md`) |
 | Ulna (ruína), no alto Cran | timeline | decisão do autor |
 
 ## Estradas

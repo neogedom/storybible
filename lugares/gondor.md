@@ -38,7 +38,7 @@ nação mais poderosa que as anteriores.
 - A dominação só terminou quando **Kraviam** venceu o Grifo com antraz
   (Guerra do Grifo) e libertou o Reino.
 
-- **Oferta de Alavria (cap. 47, 2026-11-14):** durante a ocupação, Alavria se ofereceu para ajudar a expulsar Gondor em troca de o Reino virar província alavriana. Os Guenayer da época recusaram (ver `lugares/alavria.md`).
+- **Oferta de Alavria (cap. 48, 2026-11-14):** durante a ocupação, Alavria se ofereceu para ajudar a expulsar Gondor em troca de o Reino virar província alavriana. Os Guenayer da época recusaram (ver `lugares/alavria.md`).
 
 ### A Era de Ouro dos Vampiros
 

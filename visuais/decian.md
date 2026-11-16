@@ -52,6 +52,6 @@ ultimo_capitulo: 44
 
 Mãos são o traço visual mais distintivo: não são mãos de guerreiro. A sujeira verde-escura nas cutículas é a marca do curandeiro.
 
-## Capítulo 47 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+## Capítulo 48 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
 
 - **Não aparece** (em Gus, com os artífices).

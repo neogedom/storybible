@@ -9,7 +9,7 @@ timestamp: 2026-11-14T20:00:00-03:00
 
 # Geografia do Cran, rota de Nolan e trajetória dos Clãs até a Metrópole
 
-Status: decidido pelo autor em 2026-11-14, ao revisar o cap. 47. Mapa: `lugares/mapa-cran-metropole.svg` (e `.png`).
+Status: decidido pelo autor em 2026-11-14, ao revisar o cap. 48. Mapa: `lugares/mapa-cran-metropole.svg` (e `.png`).
 
 ## Decisões
 
@@ -18,18 +18,18 @@ Status: decidido pelo autor em 2026-11-14, ao revisar o cap. 47. Mapa: `lugares/
 3. **A rota de Nolan.** Estrada real: Gus, Mina, Tronk, estrada de Saramant, ponte de pedra. O Espinhaço fica na Subida, entre Tronk e a Mina, e não faz parte dela. O cap. 46 passa a dizer "Seguimos direto pela estrada do sul, sem pouso." O cap. 33 não muda.
 4. **Os Clãs.** Vêm pelas serras (Montanhas Esquecidas) do outro lado do Cran, território deles. Cruzam um vau perto de Gus, atacam pelo norte, saem pela garganta sul com Mário, voltam ao vau e descem a serra em coluna de centenas, até a planície sul. Entram pelo Portão Leste (cerimonial, cap. 50) e pelo Portão Sul (trânsito, cap. 53).
 5. **Por que Nolan chega antes.** Estrada real, parelha trocada em Tronk, sem cativo. Os Clãs vão a passo de coluna, com o cativo febril, e param no acampamento da planície sul. O rio fica entre os dois caminhos.
-6. **Elysia.** Terras do lado sul/sudeste, junto à serra; o comboio dela foi massacrado ao pé da serra (cap. 47).
+6. **Elysia.** Terras do lado sul/sudeste, junto à serra; o comboio dela foi massacrado ao pé da serra (cap. 48).
 7. **Burgos de humanos.** Ficam fora da muralha, ao longo da margem. A muralha separa humanos de leviantares.
 8. **Números dos Clãs.** Mais de duzentos a cavalo (cap. 44) e centenas no total. Não usar "seiscentos", que é o número dos soldados de Alavria (cap. 66).
 
 ## Texto alterado
 
 - Cap. 46: fala de Lakand ("Nas serras deles, com centenas de guerreiros carregando Mário...") e ordem de Nolan ("estrada do sul, sem pouso").
-- Cap. 47: linha 1 (rota, Portão Leste, serras do outro lado do Cran).
+- Cap. 48: linha 1 (rota, Portão Leste, serras do outro lado do Cran).
 
 ## Outras decisões do mesmo dia (ver `log.md`)
 
-Saboc vivo e sem mentira; precedente de Alavria no Interregno; fragmento de metal galvânico (a referência a Alavria é a lavra; ajuste de 2026-11-15, por edição do autor no cap. 47: Nolan não cita a lavra e é Koda quem nomeia Alavria); anel de sinete dos Guenayer escondido no cap. 40; cessão aos Clãs como "mais uma condição da apoteose".
+Saboc vivo e sem mentira; precedente de Alavria no Interregno; fragmento de metal galvânico (a referência a Alavria é a lavra; ajuste de 2026-11-15, por edição do autor no cap. 48: Nolan não cita a lavra e é Koda quem nomeia Alavria); anel de sinete dos Guenayer escondido no cap. 40; cessão aos Clãs como "mais uma condição da apoteose".
 
 ## Conexões
 

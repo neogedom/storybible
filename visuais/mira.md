@@ -39,7 +39,7 @@ timestamp: 2026-08-26
 
 - _Não aparece._ Citada por Nolan, que ordena que ela vá com a carruagem.
 
-## Capítulo 47 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+## Capítulo 48 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
 
 - **Postura**: dentro da carruagem, embalando Saboc sob a manta; desce atrás de Nolan com o menino nos braços, de cabeça baixa.
 - **Fundo**: carruagem na Praça Central; escadaria do Castelo de Quartzo.

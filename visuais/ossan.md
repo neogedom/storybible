@@ -60,7 +60,7 @@ timestamp: 2026-08-26
 - **Postura**: encolhido a um canto; voz baixa como folhas secas; olhos baixos.
 - **Fundo**: sala de traçagem; sai com Mathias para a carruagem.
 
-## Capítulo 47 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+## Capítulo 48 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
 
 - **Postura**: caminha a três passos do estribo, de olhos pequenos varrendo as guaritas; ao pé da escadaria, imóvel entre os servos, com os quatro rampillas.
 - **Observação**: aparece como "xamã maltrapilho" aos olhos dos servos.
