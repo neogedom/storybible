@@ -130,7 +130,7 @@ Ideia do autor: esticar o tempo com estadias maiores nos assentamentos e na Cida
 Três estadias, +75 dias; o livro vai a cerca de 110 dias (do Dia 1 ao meio-dia do Dia 110):
 
 - **Lobisomens, cap. 13: +12 dias** (Mário preso por 14,5 dias, do Dia 2 ao Dia 17). O braço já serve na terceira noite, mas o nariz de Lakand vela as madrugadas; Mário espera, oferece um argumento por noite, e o prazo de Kenod ("até as duas luas ficarem escuras", L115) vira o relógio da fuga.
-- **Moribundos, entre os caps. 35 e 36: +21 dias** (Dia 40 ao Dia 61). Mário prega e batiza, Kate treina a coluna a andar em fila e calada, e Mário passa a ir ao poço pelo outro lado dos casebres.
+- **Assentamento da subida (cap. 34, sem nome), entre os caps. 35 e 36: +21 dias** (Dia 40 ao Dia 61). Mário prega e batiza, Kate treina a coluna a andar em fila e calada, e Mário passa a ir ao poço pelo outro lado dos casebres.
 - **Gus, entre os caps. 41 e 42: +42 dias** (Mário chega no Dia 62; o ataque é no Dia 106). O cap. 41 continua sendo o primeiro dia; Nolan espera fora das muralhas e entra no cap. 42 na primeira caravana de salitre.
 
 Fora do cenário: o primeiro assentamento (cap. 23) não se estica, porque é o dia do primeiro milagre público, em que Mário recusa a adoração e Kate diz "Não fica muito tempo" (L103); a feira de Tronk e o acampamento da estrada (caps. 24 e 25) também não, porque terminam em fuga, com mercenários no encalço. A costura de +21 do cenário A (luto e febre depois de Devour) não entra.
@@ -150,7 +150,7 @@ Fora do cenário: o primeiro assentamento (cap. 23) não se estica, porque é o 
 
 1. Cap. 13, L229: sumário de cerca de 190 palavras entre "Conseguia fugir." e o gatilho da fuga: por que Mário espera (o nariz de Lakand), as noites de argumento com Lakand, as folhas de Decian, o prazo de Kenod correndo.
 2. Cap. 34, L99: "Amanhã subimos" passa a "Subimos quando o grupo estiver pronto".
-3. Cap. 36, L1: sumário de cerca de 140 palavras: três semanas nos Moribundos, a coluna, o poço, o treino de Kate, os rapazes que amolam picaretas e Mário indo ao poço pelo outro lado.
+3. Cap. 36, L1: sumário de cerca de 150 palavras: três semanas no assentamento, a coluna, o poço, o treino de Kate, os rapazes que amolam picaretas e Mário indo ao poço pelo outro lado.
 4. Cap. 40, L5: Nolan "vigiava as rampas da Mina havia três semanas".
 5. Cap. 40, L83: Nolan escreverá ao Rei pedindo a custódia exclusiva e esperará o selo antes de entrar.
 6. Cap. 42, L1: sumário de cerca de 150 palavras com as seis semanas de Nolan; a cena de entrada abre em "Na manhã da caravana" (L3).
@@ -164,7 +164,7 @@ Fora do cenário: o primeiro assentamento (cap. 23) não se estica, porque é o 
 14. Cap. 44, L81 e L83: a cátedra adiada, o papel de linho usado para cento e doze nomes de mortos, as seis semanas de serviço, a espera da quitação e o "eu sabia" (volta ao cap. 39, L15).
 15. Cap. 49, L21: "há três semanas" passa a "há dez semanas".
 
-**Pontos abertos do B:** lista na decisão linkada acima (lua, Nolan saindo no dia seguinte no cap. 22, Nolan sabendo onde Mário está nos Moribundos, Clãs e Inquiridores em onze semanas, guarda na Mina, ombro de Mário, papel de linho, esquema do L1).
+**Pontos abertos do B:** lista na decisão linkada acima (lua, Nolan saindo no dia seguinte no cap. 22, Nolan sabendo onde Mário está no assentamento, Clãs e Inquiridores em onze semanas, guarda na Mina, ombro de Mário, papel de linho, esquema do L1).
 
 ## Decisões do autor pendentes
 

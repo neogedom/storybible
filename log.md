@@ -1,18 +1,22 @@
 # Log de Atualizações
 
+## 2026-11-16 (Revisão do PR do Livro: sumários corrigidos)
+
+- O autor revisou os sumários no PR neogedom/Livro#16. Correções no texto (commit `11eed53`): o assentamento do cap. 34 não se chama Moribundos (esse é o campo dos espectros); a água vem antes do batismo; "soterrados" explicado; sem "posto de muda" nem "chuva" no cap. 42; o sumário de Kate no cap. 43 ficou mais claro. Detalhes na decisão `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`, seção de correções. O autor também editou os sumários dos caps. 13 e 42 direto no PR; a redação dele prevalece.
+
 ## 2026-11-16 (O tempo do L1 aplicado: cerca de 110 dias)
 
 - Decisões do autor: aplicar o cenário B em sumários, sem capítulos novos; Nolan espera o selo do Rei fora de Gus (papel e medo); o serviço de Mário aos sobreviventes é também uma tentativa de fazer a Voz voltar, e a Mina é em parte culpa dele (ele sabia da guerra de Kate). Registrado em `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`.
 - Texto alterado no livro (commit `cfc6c68`): caps. 13, 34, 36, 40, 42, 43, 44 e 49, com cinco sumários novos (cerca de 770 palavras) e trocas de marcadores de tempo. O cap. 48 passa a bater com "três meses". Atualizados `temas/cronologia-l1.md` (cenário B como aplicado), as fichas dos caps. 13, 34, 36, 40, 42, 43 e 44, `personagens/mario.md`, `vozes/mario.md`, `conceitos/cosmologia.md` e `temas/timeline.md`.
-- Pontos abertos na decisão: lua (A4), cap. 22 (Nolan sai no dia seguinte), Nolan sabendo onde Mário está nos Moribundos, Clãs e Inquiridores em onze semanas, guarda na Mina, ombro de Mário, papel de linho, contagens do esquema.
+- Pontos abertos na decisão: lua (A4), cap. 22 (Nolan sai no dia seguinte), Nolan sabendo onde Mário está no assentamento, Clãs e Inquiridores em onze semanas, guarda na Mina, ombro de Mário, papel de linho, contagens do esquema.
 
 ## 2026-11-16 (Cenário B em sumários, sem capítulos novos)
 
-- Decisão do autor: não haverá capítulos novos; as esticadas de tempo do cenário B (lobisomens, Moribundos, Gus) passam em narrativa de sumário dentro dos capítulos existentes. Atualizado `temas/cronologia-l1.md`: 16 costuras, seis delas com sumário (caps. 13 duas vezes, 36, 42, 43 e 44; cerca de 800 palavras no total), no lugar das três cenas novas. A página "Cronologia do Livro 1" reflete a mudança. Nada aplicado ao livro.
+- Decisão do autor: não haverá capítulos novos; as esticadas de tempo do cenário B (lobisomens, assentamento da subida, Gus) passam em narrativa de sumário dentro dos capítulos existentes. Atualizado `temas/cronologia-l1.md`: 16 costuras, seis delas com sumário (caps. 13 duas vezes, 36, 42, 43 e 44; cerca de 800 palavras no total), no lugar das três cenas novas. A página "Cronologia do Livro 1" reflete a mudança. Nada aplicado ao livro.
 
 ## 2026-11-15 (Cenário B: estadias maiores)
 
-- Ideia do autor: esticar o tempo com estadias maiores nos assentamentos e na Cidadela e com mais dias de Mário entre os lobisomens de Charles (mais afeição). Registrado em `temas/cronologia-l1.md` o cenário B (+12 dias no cap. 13, +21 nos Moribundos, +42 em Gus; cerca de 110 dias), com 15 costuras, três blocos de cenas novas e pontos novos. Proposta, nada aplicado ao livro.
+- Ideia do autor: esticar o tempo com estadias maiores nos assentamentos e na Cidadela e com mais dias de Mário entre os lobisomens de Charles (mais afeição). Registrado em `temas/cronologia-l1.md` o cenário B (+12 dias no cap. 13, +21 no assentamento da subida, +42 em Gus; cerca de 110 dias), com 15 costuras, três blocos de cenas novas e pontos novos. Proposta, nada aplicado ao livro.
 - Corrige o registro anterior desta data: o tempo também pode ser esticado depois da queda da Mina, desde que Nolan fique fora das muralhas de Gus até a véspera do ataque. Assim o B resolve A2 pelo tempo (a Mina cai 46 dias antes do cap. 48) sem reatribuir a causa. O cenário A fica como alternativa. A página "Cronologia do Livro 1" ganhou o seletor "Texto atual / A / B".
 
 ## 2026-11-15 (Cenário de três meses para o Livro 1)

@@ -45,4 +45,4 @@ Mário ensaia o discurso para a Mina, sozinho, enquanto o grupo descansa. Recusa
 
 ## Atualização (2026-11-16)
 
-- Abre com um sumário de três semanas nos Moribundos (cerca de 140 palavras): pregação e batismos, a coluna, o poço aprofundado por Lakand, Kate ensinando o grupo a andar em fila e calado e a parar quando ela toca o cotovelo de alguém. Quatro rapazes amolam picaretas atrás do abrigo de mulas, e Mário passa a ir ao poço pelo outro lado dos casebres. Ver [a decisão de 2026-11-16](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md).
+- Abre com um sumário de três semanas no assentamento (cerca de 150 palavras): pregação e batismos, a coluna, o poço aprofundado por Lakand, Kate ensinando o grupo a andar em fila e calado e a parar quando ela toca o cotovelo de alguém. Quatro rapazes amolam picaretas atrás do abrigo de mulas, e Mário passa a ir ao poço pelo outro lado dos casebres. Ver [a decisão de 2026-11-16](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md).
