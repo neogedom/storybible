@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-16 (Sugestões da cronologia aplicadas; duas ordens em decisão)
+
+- O autor validou as sugestões da lista de alertas. Aplicadas ao livro (commit `07a0426`): luas nomeadas (A4), ultimato adiantado (A9), cena de Kate do epílogo datada (A10), "inferno úmido" no cap. 13 (A11), "quase trinta anos" no cap. 54 (A12), silos da cidade no cap. 58 (A13) e, no cap. 49, "A corte dispensou a bênção" e cerração no lugar da chuva. A tabela do L1 de `temas/timeline.md` foi refeita (A14). Detalhes em `temas/cronologia-l1.md`.
+- Em decisão do autor: ordem do cap. 51 (recomendação: manter e trocar "madrugada" por "noite" no cap. 51, L3) e ordem dos caps. 59 e 60 (recomendação: trocar). Análise em `decisoes/2026-11-15-ordem-caps-47-48.md`, seção de 2026-11-16.
+
 ## 2026-11-16 (Revisão do PR do Livro: sumários corrigidos)
 
 - O autor revisou os sumários no PR neogedom/Livro#16. Correções no texto (commit `11eed53`): o assentamento do cap. 34 não se chama Moribundos (esse é o campo dos espectros); a água vem antes do batismo; "soterrados" explicado; sem "posto de muda" nem "chuva" no cap. 42; o sumário de Kate no cap. 43 ficou mais claro. Detalhes na decisão `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`, seção de correções. O autor também editou os sumários dos caps. 13 e 42 direto no PR; a redação dele prevalece.

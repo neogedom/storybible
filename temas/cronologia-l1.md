@@ -61,7 +61,7 @@ timestamp: 2026-11-16T12:00:00-03:00
 
 As demais marcas de "semanas" cabem em quatro a cinco semanas: castelo ardeu "semanas antes" (35, 37), Decian "semanas antes" (39), Mário "pela primeira vez em semanas" (34, 41), Sinal falhou "semanas antes" (42), Saboc "de semanas" (28, 33).
 
-## Alertas de consistência (estado de 2026-11-15; o B resolveu A1, A2, A3, A5, A7 e A8)
+## Alertas de consistência (estado de 2026-11-15; o B resolveu A1, A2, A3, A5, A7 e A8; as sugestões de 2026-11-16 resolveram A4 e A9 a A13)
 
 - **A1 (alta).** "Três meses" e "meses antes" no cap. 48. Ajuste possível: "quase um mês" e "semanas antes", ou esticar a história com marcas de tempo entre os caps. 22 e 23 e entre 36 e 37.
 - **A2 (alta).** O cap. 48 descreve a ruína econômica (silos, oficinas, dízimos a menos de um terço) como efeito da Mina, que desabou quatro dias antes; o cap. 42 (Dia 30) ainda diz que a notícia não chegara à capital. Ajuste possível: atribuir a ruína às incursões dos Clãs e aos gastos do rei, ou usar o futuro.
@@ -166,11 +166,25 @@ Fora do cenário: o primeiro assentamento (cap. 23) não se estica, porque é o 
 
 **Pontos abertos do B:** lista na decisão linkada acima (lua, Nolan saindo no dia seguinte no cap. 22, Nolan sabendo onde Mário está no assentamento, Clãs e Inquiridores em onze semanas, expedição à Mina sem resposta, ombro de Mário, papel de linho, esquema do L1).
 
+## Ajustes aplicados depois do B (2026-11-16)
+
+O autor validou as sugestões da lista de alertas, e elas foram aplicadas ao texto (commit `07a0426` do livro):
+
+- **A4, luas:** Tristan é a crescente (cap. 43, L1: "a lua crescente de Tristan") e a que será cheia (cap. 53, L17: "sob a lua cheia de Tristan"); Nevëilla é a minguante (cap. 53, L67 e cap. 55, L3: "a lua minguante de Nevëilla"). Duas luas, duas fases.
+- **A9, ultimato:** cap. 44, L19, Kate: Estruzzo "adiantou o prazo: exige que você seja entregue vivo agora".
+- **A10, epílogo:** a cena de Kate abre com "Duas semanas depois, a centenas de quilômetros dali" (L33).
+- **A11, vegetação:** cap. 13, L1: "inferno verde" passa a "inferno úmido", para casar com as árvores despidas do outono do prólogo e do cap. 6.
+- **A12, Kraviam:** cap. 54, L27: Mário diz "Quase trinta anos de ausência", como o rei ("Faz quase trinta anos", L31). O diário do cap. 52 data o início do século XXI; se o autor quiser outro número, é só ajustar os dois.
+- **A13, trigo:** cap. 58, L41: "Os silos da cidade só têm trigo para mais duas semanas". O cap. 48 (L65) fala do estoque dos regimentos, três semanas.
+- **Cap. 49:** L11, "A corte dispensou a bênção matinal" (antes, "O Conselho reuniu-se", que sugeria uma segunda reunião antes da assembleia extraordinária); L43, a "chuva miúda" virou "cerração fria", porque o livro não tem cena de chuva (log de 2026-11-13).
+- **A14, timeline da storybible:** a tabela do L1 em `temas/timeline.md` foi refeita a partir desta cronologia.
+
 ## Decisões do autor pendentes
 
 1. **Duração do L1: decidida em 2026-11-16.** Cenário B, em sumários, aplicado ao texto (ver a decisão linkada no cenário B).
-2. **Fases das luas.** Nomear qual lua está crescente e qual está minguante, ou alinhar os caps. 43, 53 e 55.
-3. **Ordem dos caps. 59 e 60.** Já descrita na decisão linkada acima.
+2. **Fases das luas: resolvido em 2026-11-16** (Tristan crescente e cheia; Nevëilla minguante).
+3. **Ordem dos caps. 59 e 60.** Pendente. Recomendação: trocar os dois (ver [a decisão de 2026-11-15](/decisoes/2026-11-15-ordem-caps-47-48.md)).
+4. **Ordem do cap. 51 (Kate entra na Metrópole antes das cenas de 52 a 54).** Pendente. Recomendação: manter a ordem e trocar uma palavra (cap. 51, L3, "madrugada" por "noite"); a ordem estrita (52, 53, 54, 51, 55) continua possível. Ver a mesma decisão.
 
 ## Conexões
 
