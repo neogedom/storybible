@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-16 (Luas: o mês de 32 dias entra na fala de Orval)
+
+- O autor aceitou "olhos meio fechados" no cap. 16 (L195, commit `4ceb99d` do livro) e pediu que a fala de Orval não soasse a infodump. No cap. 41 (L81, commit `7d03ae3`), a fala tem o mesmo tamanho: "semanas e meses" virou "trinta e dois dias", sem frase nova e sem explicar que as luas são um par. O número entra como evidência da "ordem regular" que Orval defende. Um parágrafo curto de Mário depois da fala (aro de bronze, "Na Terra, a lua voltava em vinte e nove dias e meio") deixa a diferença no gesto, e a fala seguinte dele muda de assunto, como no L69 ("quis mencionar... mas preferiu que outro dissesse").
+- Registrado em `conceitos/cosmologia.md`, `capitulos/capitulo-41.md`, `temas/cronologia-l1.md` e `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`.
+
 ## 2026-11-16 (Festa da Poda e luas na mesma fase)
 
 - Decisão do autor: o festival de Gerikhad se chama **Festa da Poda**. As cinco menções do livro passaram a usar o nome (commit `89ab5aa`: caps. 48, 49, 52, 53 e 60). No storybible: `lugares/metropole.md` (seção renomeada, com a leitura e o que fica em aberto), `personagens/genocydo.md`, `temas/esquema-l1.md` (L1134 e L1155), `decisoes/2026-11-15-ordem-caps-47-48.md` e `insights/duas-vias-de-salvacao-ato-2.md`.

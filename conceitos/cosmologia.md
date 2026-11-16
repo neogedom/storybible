@@ -3,7 +3,7 @@ type: Concept
 title: Cosmologia de Ornick
 description: Os três planos da existência (Limbo, Miakhed, Rohdis) e a hierarquia divina que governa Ornick.
 tags: [conceito, cosmologia, planos, elohins]
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-16T12:00:00-03:00
 ---
 
 # Cosmologia de Ornick
@@ -120,5 +120,5 @@ Vonos trouxe **dois tipos de humanos**:
 - **Distância da Terra**: 2000 anos-luz é proposta, ainda não registrada como canon.
 - **Inclinação do eixo**: define as estações. Terrestre (~23°) ou outra?
 - **Duração do dia e do ano**: quantos dias de 24 horas por ano? Com o L1 de alguns meses, a virada para o inverno (caps. 49 e 61) cabe num ano de inclinação parecida com a da Terra.
-- **Duas luas (decidido em 2026-11-16):** Tristan e Nevëilla formam um par ligado, "gêmeas" (prólogo, cap. 6), "sobrepostas" (cap. 5) e "quase se tocando" (cap. 7). Andam na mesma fase, porque a fase é o ângulo entre a lua e o Sol e duas luas coladas no céu têm o mesmo. O mês, de cheia a cheia, tem **32 dias**: cheias nos Dias 1, 33, 65 e 97 do L1; escuras nos Dias 17 (prazo de Kenod, cap. 13), 49, 81 e 113 (Dia 1 = noite do prólogo). Ver `temas/cronologia-l1.md`, decisão 2.
+- **Duas luas (decidido em 2026-11-16):** Tristan e Nevëilla formam um par ligado, "gêmeas" (prólogo, cap. 6), "sobrepostas" (cap. 5) e "quase se tocando" (cap. 7). Andam na mesma fase, porque a fase é o ângulo entre a lua e o Sol e duas luas coladas no céu têm o mesmo. O mês, de cheia a cheia, tem **32 dias**: cheias nos Dias 1, 33, 65 e 97 do L1; escuras nos Dias 17 (prazo de Kenod, cap. 13), 49, 81 e 113 (Dia 1 = noite do prólogo). No texto, o número aparece na fala de Orval (cap. 41, L81: "trinta e dois dias"), e Mário o compara em silêncio com os 29 dias e meio da Terra. Ver `temas/cronologia-l1.md`, decisão 2.
 - **Órbita do par e marés**: em aberto. Afeta marés e a claridade noturna; um par ligado permite eclipses de uma lua sobre a outra (o cap. 41 cita "cada eclipse" no ensino do Templo).
