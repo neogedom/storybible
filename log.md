@@ -1,5 +1,14 @@
 # Log de Atualizações
 
+## 2026-11-16 (A festa dos Clãs vira as festividades de inverno)
+
+- Sugestão do autor: ninguém na Metrópole gosta dos Clãs e o pacto é só do Rei, então uma festa dos Clãs não faz sentido; a festa deve ser religiosa ou de estação. Cap. 49 (L11): "a festa dos Clãs" virou "as festividades de inverno", com o templo de Vonos preparando o óleo de unção (commit `d77e113` do livro). Era a única ocorrência; os outros trechos já diziam "festividades de Gerikhad" (cap. 48) e "o grande festival" (caps. 52, 53 e 60).
+- Registrado em `lugares/metropole.md` (nova seção "Festividades de inverno"), com o que o texto fixa e o que fica em aberto (nome próprio e data).
+
+## 2026-11-16 (Luas: recomendação refinada, ainda em decisão do autor)
+
+- A pergunta do autor foi qual modelo é mais acurado. Resposta registrada em `temas/cronologia-l1.md` (decisão pendente 2): a fase é o ângulo entre a lua e o Sol, então luas "gêmeas", "sobrepostas" e "quase se tocando" têm a mesma fase; o prazo de Kenod (uma data só) também pede isso. A recomendação passou de um mês de 31 para um de 32 dias, para o cap. 43 cair na meia-lua minguante e os caps. 53 e 55 na minguante fina. Nada mudou no livro.
+
 ## 2026-11-16 (Ordens decididas: cap. 51 fica e caps. 59 e 60 trocados)
 
 - Decisões do autor: manter a ordem do cap. 51 e trocar "madrugada" por "noite" na L3 (commit `fbc4b28` do livro); trocar os caps. 59 e 60 (commit `c8a7b4d`). Atualizados `temas/esquema-l1.md` (linhas 59 e 60 trocaram POV e contagem), `temas/timeline.md`, `temas/cronologia-l1.md` e a decisão de 2026-11-15. Não há fichas de capítulo para o 51 nem para o 59 e o 60.

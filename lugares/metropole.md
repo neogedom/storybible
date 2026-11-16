@@ -3,7 +3,7 @@ type: Location
 title: Metrópole
 description: Capital do Reino de Genocydo, sede do Monólito da Verdade e do poder político leviantar.
 tags: [lugar, capital, reino, metropole]
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-16T12:00:00-03:00
 ---
 
 # Metrópole
@@ -41,6 +41,15 @@ o outro concentra quem paga por eles.
 - A Liturgia do Entardecer falha — o sinal de Vonos cessa
 - Genocydo ordena a caça ao Souhma da Praça Central
 - Benjamim Cressadar interpreta o silêncio como profecia
+
+## Festividades de inverno (o grande festival)
+
+Decisão do autor, 2026-11-16: o festival de Gerikhad é religioso e de estação, não uma festa dos Clãs. Ninguém na Metrópole gosta dos Clãs, e o pacto com eles é negócio só do Rei. O cap. 49 (L11) dizia "a festa dos Clãs" e passou a "as festividades de inverno" (commit `d77e113` do livro).
+
+- **O que o texto fixa:** a corte abre "as festividades de Gerikhad" (cap. 48, L73); o Rei manda o templo de Vonos preparar "o óleo de unção para as festividades de inverno" (cap. 49, L11); Benjamim monta o cadafalso "do grande festival" na Praça de Gerikhad (cap. 53, L3); Gunad avisa a Mário "Amanhã você estará no cadafalso" (cap. 52, L67); "O grande festival começara" (cap. 60, L13).
+- **Leitura:** festa do templo de Vonos e da Coroa, com unção, no começo do inverno (o cap. 49, L3, abre numa "tarde de inverno cinzento"). Quem enche a praça é a cidade faminta, não os Clãs.
+- **Função no enredo:** é o palco da blasfêmia pública que o contrato de Terbs exige (ver [Genocydo](/personagens/genocydo.md): Garfo do Herege em praça pública, com grande audiência). A fala de Nolan no cap. 49 (L15), "comprando a própria condenação em moedas de sangue", comenta o pacto com os Clãs, não a festa.
+- **Em aberto:** o nome próprio da festa e a data no calendário religioso. O texto só diz "festividades de inverno" e "o grande festival". Ancorar a data no solstício obrigaria a fixar a duração do ano de Ornick (ver [Cosmologia](/conceitos/cosmologia.md)). Um nome possível, que ecoa a "poda" de Nuh no cap. 49 (L31), é "festa da Poda".
 
 ## Conexões
 
