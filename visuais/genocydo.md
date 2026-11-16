@@ -26,7 +26,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Expressão: choque, raiva, desespero, fragilidade
 - Acessórios: se apoia no ombro de Nolan
 
-## Capítulo 47 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+## Capítulo 48 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
 
 - **Não aparece** (citado por Valinor e Koda; não aparece).
 

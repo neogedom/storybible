@@ -89,7 +89,7 @@ silêncio, por desespero. O nome dele nunca é dito no capítulo (POV de Kate:
 - **Postura**: à direita de Nolan; bate o punho no peito ao receber a ordem.
 - **Fundo**: sala de traçagem; sai para atrelar a carruagem.
 
-## Capítulo 47 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+## Capítulo 48 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
 
 - **Vestimenta**: **capa vermelha de Espada da Lei** de volta aos ombros, desbotada pela poeira das serras do norte; a estopa cinzenta de Gus fica esquecida no assento.
 - **Postura**: conduz a parelha com as rédeas curtas (o cocheiro ficou no celeiro); atrás de Nolan nas escadarias; na soleira da tesouraria, de costas para a porta; mantém a mão longe do punho da espada diante de Benjamim.

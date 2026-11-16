@@ -1,5 +1,82 @@
 # Log de Atualizações
 
+## 2026-11-16 (Luas: o mês de 32 dias entra na fala de Orval)
+
+- O autor aceitou "olhos meio fechados" no cap. 16 (L195, commit `4ceb99d` do livro) e pediu que a fala de Orval não soasse a infodump. No cap. 41 (L81, commit `7d03ae3`), a fala tem o mesmo tamanho: "semanas e meses" virou "trinta e dois dias", sem frase nova e sem explicar que as luas são um par. O número entra como evidência da "ordem regular" que Orval defende. Um parágrafo curto de Mário depois da fala (aro de bronze, "Na Terra, a lua voltava em vinte e nove dias e meio") deixa a diferença no gesto, e a fala seguinte dele muda de assunto, como no L69 ("quis mencionar... mas preferiu que outro dissesse").
+- Registrado em `conceitos/cosmologia.md`, `capitulos/capitulo-41.md`, `temas/cronologia-l1.md` e `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`.
+
+## 2026-11-16 (Festa da Poda e luas na mesma fase)
+
+- Decisão do autor: o festival de Gerikhad se chama **Festa da Poda**. As cinco menções do livro passaram a usar o nome (commit `89ab5aa`: caps. 48, 49, 52, 53 e 60). No storybible: `lugares/metropole.md` (seção renomeada, com a leitura e o que fica em aberto), `personagens/genocydo.md`, `temas/esquema-l1.md` (L1134 e L1155), `decisoes/2026-11-15-ordem-caps-47-48.md` e `insights/duas-vias-de-salvacao-ato-2.md`.
+- Luas: o autor tratou o modelo como aceito (mesma fase, mês de 32 dias) e perguntou se o mês podia aparecer numa conversa de Mário e Orval. Aplicado no livro (commit `7431230`): "as luas minguantes" nos caps. 43, 53 e 55 e "as luas cheias" na fala do rei (cap. 53, L17). Registrado em `conceitos/cosmologia.md` e em `temas/cronologia-l1.md` (A4 resolvida, decisão 2 decidida) e em `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`.
+- Em decisão do autor: o "trinta e dois dias" no cap. 41 (L81) e, como ponto pequeno, o "olhos abertos" do cap. 16 (L195).
+
+## 2026-11-16 (A festa dos Clãs vira as festividades de inverno)
+
+- Sugestão do autor: ninguém na Metrópole gosta dos Clãs e o pacto é só do Rei, então uma festa dos Clãs não faz sentido; a festa deve ser religiosa ou de estação. Cap. 49 (L11): "a festa dos Clãs" virou "as festividades de inverno", com o templo de Vonos preparando o óleo de unção (commit `d77e113` do livro). Era a única ocorrência; os outros trechos já diziam "festividades de Gerikhad" (cap. 48) e "o grande festival" (caps. 52, 53 e 60).
+- Registrado em `lugares/metropole.md` (nova seção "Festividades de inverno"), com o que o texto fixa e o que fica em aberto (nome próprio e data).
+
+## 2026-11-16 (Luas: recomendação refinada, ainda em decisão do autor)
+
+- A pergunta do autor foi qual modelo é mais acurado. Resposta registrada em `temas/cronologia-l1.md` (decisão pendente 2): a fase é o ângulo entre a lua e o Sol, então luas "gêmeas", "sobrepostas" e "quase se tocando" têm a mesma fase; o prazo de Kenod (uma data só) também pede isso. A recomendação passou de um mês de 31 para um de 32 dias, para o cap. 43 cair na meia-lua minguante e os caps. 53 e 55 na minguante fina. Nada mudou no livro.
+
+## 2026-11-16 (Ordens decididas: cap. 51 fica e caps. 59 e 60 trocados)
+
+- Decisões do autor: manter a ordem do cap. 51 e trocar "madrugada" por "noite" na L3 (commit `fbc4b28` do livro); trocar os caps. 59 e 60 (commit `c8a7b4d`). Atualizados `temas/esquema-l1.md` (linhas 59 e 60 trocaram POV e contagem), `temas/timeline.md`, `temas/cronologia-l1.md` e a decisão de 2026-11-15. Não há fichas de capítulo para o 51 nem para o 59 e o 60.
+- A9 refeito: a primeira solução (Estruzzo "adiantou o prazo") não tinha motivo no texto. O ultimato do cap. 43 passou a valer "antes que a horda chegue ao portão" e a fala de Kate no cap. 44 voltou ao original (commit `7e57326`).
+- Em decisão do autor: as fases das duas luas (mesma fase ou fases diferentes). Anotado em `temas/cronologia-l1.md` e em `conceitos/cosmologia.md`.
+
+## 2026-11-16 (Sugestões da cronologia aplicadas; duas ordens em decisão)
+
+- O autor validou as sugestões da lista de alertas. Aplicadas ao livro (commit `07a0426`): luas nomeadas (A4), ultimato adiantado (A9), cena de Kate do epílogo datada (A10), "inferno úmido" no cap. 13 (A11), "quase trinta anos" no cap. 54 (A12), silos da cidade no cap. 58 (A13) e, no cap. 49, "A corte dispensou a bênção" e cerração no lugar da chuva. A tabela do L1 de `temas/timeline.md` foi refeita (A14). Detalhes em `temas/cronologia-l1.md`.
+- Em decisão do autor: ordem do cap. 51 (recomendação: manter e trocar "madrugada" por "noite" no cap. 51, L3) e ordem dos caps. 59 e 60 (recomendação: trocar). Análise em `decisoes/2026-11-15-ordem-caps-47-48.md`, seção de 2026-11-16.
+
+## 2026-11-16 (Revisão do PR do Livro: sumários corrigidos)
+
+- O autor revisou os sumários no PR neogedom/Livro#16. Correções no texto (commit `11eed53`): o assentamento do cap. 34 não se chama Moribundos (esse é o campo dos espectros); a água vem antes do batismo; "soterrados" explicado; sem "posto de muda" nem "chuva" no cap. 42; o sumário de Kate no cap. 43 ficou mais claro. Detalhes na decisão `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`, seção de correções. O autor também editou os sumários dos caps. 13 e 42 direto no PR; a redação dele prevalece.
+- Depois, a pedido do autor, saíram os soldados da Coroa do cap. 43 (L11): mestres e aprendizes de Gus sobem às ruínas com Kate e voltam sem a causa (commit `3c2f74b`).
+
+## 2026-11-16 (O tempo do L1 aplicado: cerca de 110 dias)
+
+- Decisões do autor: aplicar o cenário B em sumários, sem capítulos novos; Nolan espera o selo do Rei fora de Gus (papel e medo); o serviço de Mário aos sobreviventes é também uma tentativa de fazer a Voz voltar, e a Mina é em parte culpa dele (ele sabia da guerra de Kate). Registrado em `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`.
+- Texto alterado no livro (commit `cfc6c68`): caps. 13, 34, 36, 40, 42, 43, 44 e 49, com cinco sumários novos (cerca de 770 palavras) e trocas de marcadores de tempo. O cap. 48 passa a bater com "três meses". Atualizados `temas/cronologia-l1.md` (cenário B como aplicado), as fichas dos caps. 13, 34, 36, 40, 42, 43 e 44, `personagens/mario.md`, `vozes/mario.md`, `conceitos/cosmologia.md` e `temas/timeline.md`.
+- Pontos abertos na decisão: lua (A4), cap. 22 (Nolan sai no dia seguinte), Nolan sabendo onde Mário está no assentamento, Clãs e Inquiridores em onze semanas, expedição à Mina sem resposta, ombro de Mário, papel de linho, contagens do esquema.
+
+## 2026-11-16 (Cenário B em sumários, sem capítulos novos)
+
+- Decisão do autor: não haverá capítulos novos; as esticadas de tempo do cenário B (lobisomens, assentamento da subida, Gus) passam em narrativa de sumário dentro dos capítulos existentes. Atualizado `temas/cronologia-l1.md`: 16 costuras, seis delas com sumário (caps. 13 duas vezes, 36, 42, 43 e 44; cerca de 800 palavras no total), no lugar das três cenas novas. A página "Cronologia do Livro 1" reflete a mudança. Nada aplicado ao livro.
+
+## 2026-11-15 (Cenário B: estadias maiores)
+
+- Ideia do autor: esticar o tempo com estadias maiores nos assentamentos e na Cidadela e com mais dias de Mário entre os lobisomens de Charles (mais afeição). Registrado em `temas/cronologia-l1.md` o cenário B (+12 dias no cap. 13, +21 no assentamento da subida, +42 em Gus; cerca de 110 dias), com 15 costuras, três blocos de cenas novas e pontos novos. Proposta, nada aplicado ao livro.
+- Corrige o registro anterior desta data: o tempo também pode ser esticado depois da queda da Mina, desde que Nolan fique fora das muralhas de Gus até a véspera do ataque. Assim o B resolve A2 pelo tempo (a Mina cai 46 dias antes do cap. 48) sem reatribuir a causa. O cenário A fica como alternativa. A página "Cronologia do Livro 1" ganhou o seletor "Texto atual / A / B".
+
+## 2026-11-15 (Cenário de três meses para o Livro 1)
+
+- Pergunta do autor: dá para a história levar meses e resolver os efeitos da queda da Mina? Registrado em `temas/cronologia-l1.md` o cenário de duas costuras (+21 dias depois do incêndio de Devour, +42 dias na fase da Mina), com 14 edições de texto, pontos novos e efeito no ritmo. Proposta, nada aplicado ao livro.
+- Conclusão: o tempo só pode ser esticado antes da queda; os efeitos da Mina no cap. 48 pedem ainda duas frases reatribuídas (L25 e L31). A página "Cronologia do Livro 1" ganhou a opção "Cenário de três meses".
+
+## 2026-11-15 (Cronologia do Livro 1 inteiro)
+
+- Pedido do autor: uma timeline do livro todo para avaliar a consistência temporal. Criado `temas/cronologia-l1.md` (cadeia de dias, durações declaradas contra estimadas, 14 alertas, ritmo por trecho) e a página interativa "Cronologia do Livro 1".
+- Resultado principal: a soma das âncoras de tempo dá cerca de 34 dias; "três meses" e "meses antes" (cap. 48), "há três semanas" (cap. 49) e os efeitos econômicos da queda da Mina no cap. 48 não fecham. Nenhum ajuste foi aplicado ao livro.
+- Correções a registros desta mesma data: o ataque a Gus (caps. 43 a 45) é de madrugada, não à tarde, e a razão de densidade do bloco final é pouco mais que o dobro do resto (3,7 mil contra 7,8 mil palavras por dia), não seis ou sete vezes. Ajustada a decisão `decisoes/2026-11-15-ordem-caps-47-48.md`.
+- `temas/timeline.md` recebeu um aviso: a tabela do L1 está desatualizada (linhas 24 a 29 deslocadas). `conceitos/cosmologia.md` recebeu uma nota na duração do L1, sem alterar a estimativa do autor.
+
+## 2026-11-15 (Troca de ordem dos caps. 47 e 48)
+
+- Decisão do autor: os arquivos `capitulo47.md` e `capitulo48.md` do livro trocaram de lugar. O cap. 47 passa a ser Mário na marcha dos Clãs e o cap. 48 passa a ser Nolan chegando à Metrópole. Motivo e cronologia em `decisoes/2026-11-15-ordem-caps-47-48.md`.
+- Referências ao antigo cap. 47 (cena de Koda, Valinor e Benjamim) passam a cap. 48 em `lugares/castelo-devour.md`, `vozes/nolan.md`, `decisoes/2026-11-12-logistica-alavria.md`, `insights/nolan-cobra-nuh-informacao-negada.md` e `insights/povs-l2-gunad-lakand-koda.md`.
+- `temas/esquema-l1.md`: linhas 47 e 48 da tabela trocaram POV e contagem de palavras. Os beats (inferidos) ficam por posição.
+- Entradas antigas deste log que citam o "cap. 47" de Koda foram anotadas, não reescritas.
+- Os caps. 47 e 48 ainda não tinham Mini-INGEST nem ficha em `capitulos/`.
+- Avaliação dos caps. 49 a 56 registrada na decisão. No livro, a hora do enforcamento de Juleen foi alinhada ao cap. 49 (tarde): cap. 53, "no meio da tarde"; cap. 56, "ontem à tarde". Cap. 53, "terceira vigília da manhã" passou a "as primeiras horas da manhã". Cap. 60 e epílogo foram alinhados depois (ver abaixo).
+- Cap. 51 (Kate): a cronologia estrita pediria movê-lo para depois do 54; a recomendação é manter a ordem (detalhes na decisão).
+- Decisão do autor: o enforcamento de Juleen é à tarde. Cap. 60 ("Ontem à tarde") e epílogo, linha 27 ("naquela tarde") alinhados aos caps. 49, 53 e 56.
+- Juntar capítulos de Kate (51 + 55, 57 + 59): análise registrada na decisão; recomendação de não juntar agora e rever no congelamento.
+- Pergunta do autor: o trecho dos caps. 44 a 66 é denso demais para três dias? Avaliação registrada na decisão (medidas por dia, onde segura e onde aperta); sem decisão.
+- Correção: lidos os caps. 57 a 66 por inteiro, o final do 59 (cortejo com o prisioneiro) acontece depois do fim do Conselho (60). A contagem de recuos no tempo na ordem atual é 2 (51 e 59), não 1. Sugestão: trocar o 59 e o 60 de lugar. A página da cronologia foi corrigida.
+
 ## 2026-11-15 (Cap. 47: edições do autor e novos comentários em lote)
 
 - Autor editou o cap. 47 (cortou comparações decorativas; ligou a fome à apoteose; trocou "barqueiros de Orval" por "artífices da Cidadela"; tirou a acusação explícita a Alavria da fala de Nolan e levou a oferta antiga para a narração; acrescentou um parágrafo final) e deixou cinco comentários `(* ...)`. No cap. 40 cortou a explicação do anel de sinete (o gesto fica).
@@ -81,7 +158,7 @@
   Koda por Gunad ainda precisa ser encaixada.
 - Atualizadas as fichas de Koda e Gunad para distinguir fatos já decididos das
   direções ainda em avaliação. `temas/esquema-l2.md` não foi alterado.
-- O pagamento aprovado para Koda no cap. 47 do L1 continua pendente de
+- O pagamento aprovado para Koda no cap. 48 do L1 (antigo cap. 47; ver a troca de 2026-11-15) continua pendente de
   aplicação ao manuscrito.
 
 ## 2026-11-09 (Koda sobrevive e desaparece antes do L2)

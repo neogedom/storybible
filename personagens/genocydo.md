@@ -74,13 +74,13 @@ Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
    Clãs de Sangue (cap. 43). Estruzzo o chama de "Rei fantoche" porque Terbs
    o move por meio de Benjamim Cressadar. Nolan não assinou esse contrato
    (`decisoes/2026-11-13-signatario-contrato-claos.md`).
-   **Cap. 47 (2026-11-14):** a cessão foi do **Reino inteiro**, não só de
+   **Cap. 48 (2026-11-14):** a cessão foi do **Reino inteiro**, não só de
    Saramant, trazida por Benjamim como "mais uma condição da apoteose"; o Rei
    assinou sem passar pelo Conselho. Mandou queimar três cofres de títulos para
    pagar as resinas e os óleos de unção de Benjamim e desautorizou qualquer
    intervenção militar contra os Clãs.
 3. Prende Mário após a entrega em Gus e o submete ao Garfo do Herege
-   em praça pública durante o grande festival para forçar a blasfêmia
+   em praça pública durante a Festa da Poda para forçar a blasfêmia
    pública. Na conversa do cap. 54, compreende a oferta de redenção de Mário
    e a recusa: não refuta a doutrina, prefere a apoteose.
 4. É assassinado no final do L1 por um infiltrado do destacamento alavriano durante a invasão do portão sul

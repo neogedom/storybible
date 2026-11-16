@@ -26,7 +26,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Mãos: ossudas, sempre escondidas nas mangas
 - Expressão: impassível, não surpreso
 
-## Capítulo 47 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+## Capítulo 48 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
 
 - **Vestimenta**: túnicas púrpuras pesadas; seda que farfalha e cheira a terra de sepultura; quatro acólitos de túnica púrpura atrás.
 - **Acessórios**: turíbulo de prata na mão esquerda, com fumaça densa, adocicada e púrpura.

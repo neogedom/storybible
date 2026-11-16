@@ -1,5 +1,7 @@
 # Inbox de ideias (captura rápida)
 
+> **Numeração:** as entradas datadas até 2026-11-15 usam a numeração anterior à troca dos caps. 47 e 48: "cap. 47" é o capítulo de Nolan chegando à Metrópole (hoje 48) e "cap. 48" é o de Mário na marcha dos Clãs (hoje 47). Ver `decisoes/2026-11-15-ordem-caps-47-48.md`.
+
 > Ideias que surgem na escrita ou na revisão e podem mudar capítulos ainda não revisados ou o que vem para frente. Captura em uma linha. Desenvolvimento e decisão seguem o semáforo em `protocolo-ingest.md`.
 
 ## Modelo de entrada

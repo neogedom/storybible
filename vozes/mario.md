@@ -15,6 +15,7 @@
 
 - **Não conhece o nome de Nolan** no cap. 37: só sabe que é "o homem da corte". O nome aparece no POV dele só depois de a identidade ser estabelecida pelo texto.
 - **Não sabe** que Kate ordenou a morte do barão, nem que os alavrianos plantaram as cargas. No cap. 37 ele não conhece os planos de Kate.
+- **Sabe**, porém, que Kate quer guerra ("Você quer uma guerra", cap. 23, L65) e vê o treino da coluna no assentamento da subida (cap. 34, L83; cap. 36). A culpa dele é de ter escolhido não olhar (decisão de 2026-11-16), não de conhecer os planos específicos.
 - Não tem resposta da Voz: a Voz permanece muda nos capítulos de decisão. A lógica é dele, não revelada.
 - Não sabe o significado de "Souhma" além do que ouve dos outros.
 

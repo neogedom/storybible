@@ -181,7 +181,7 @@ a ascensão de Nolan ao trono anula, renegocia ou apenas adia o acordo.
 
 Nolan pode adiar a cerimônia com argumentos logísticos que também servem aos
 interesses de Genocydo: uma blasfêmia que transfere o Reino e promete
-apoteose precisa ser pública, com grande audiência, num festival importante.
+apoteose precisa ser pública, com grande audiência, num festival importante (a Festa da Poda, no texto).
 Os adiamentos compram tempo para Nolan subir ao poder, mas precisam acumular
 risco e suspeita; não podem parecer uma sequência sem custo.
 
@@ -257,7 +257,7 @@ intervenção divina acontece depois, durante a invasão.
 
 1. Mário recusa o apoio a Nolan diante do Conselho. A consequência é perder a
    proteção estatal e aceitar que pode passar pelo Garfo.
-2. No festival, Mário já está no Garfo e a tortura começou; a invasão
+2. Na Festa da Poda, Mário já está no Garfo e a tortura começou; a invasão
    alavriana já causou dano visível.
 3. Antes de Mário blasfemar, a intervenção destrói os alavrianos, no eco das
    mortes invisíveis nos portões do sonho do cap. 1.

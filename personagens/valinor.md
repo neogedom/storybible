@@ -18,7 +18,7 @@ como homem.
 
 - **Cap. 14**: Recusa Nolan no Conselho secreto. "O Rei é o Rei."
   Tensão familiar: Nolan é genro, Valinor não escolhe entre juramento e família.
-- **Cap. 47**: recebe Nolan no Castelo de Quartzo. Descobre ali a morte de Dagmar (as cartas de Nolan não a mencionavam) e conhece o neto Saboc, trazido por Mira. Conta a Nolan que o rei está louco, que o Conselho não tem farinha para os regimentos por mais três semanas e que Genocydo desautorizou qualquer ação militar contra os Clãs. Aparência fixada no texto: cabelo grisalho rente às têmporas, sulcos fundos, sobrancelhas brancas, capa vermelha com duas dragonas de ouro fosco, mão esquerda no punho de prata da espada de ordenança.
+- **Cap. 48**: recebe Nolan no Castelo de Quartzo. Descobre ali a morte de Dagmar (as cartas de Nolan não a mencionavam) e conhece o neto Saboc, trazido por Mira. Conta a Nolan que o rei está louco, que o Conselho não tem farinha para os regimentos por mais três semanas e que Genocydo desautorizou qualquer ação militar contra os Clãs. Aparência fixada no texto: cabelo grisalho rente às têmporas, sulcos fundos, sobrancelhas brancas, capa vermelha com duas dragonas de ouro fosco, mão esquerda no punho de prata da espada de ordenança.
 - **Pós-caps. 26 - 29**: Descobre que Nolan quer o trono.
 - **Queda da Metrópole (final L1)**: defende a cidade da incursão de Kate —
   que carrega o destacamento alavriano. Morre em combate.

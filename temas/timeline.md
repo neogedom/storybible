@@ -1,9 +1,9 @@
 ---
 type: Theme
 title: Timeline de Ornick
-description: Linha do tempo dos eventos, anterior e durante a narrativa. Referência para coerência cronológica.
+description: Linha do tempo dos eventos anteriores à narrativa e notas de estação. A cronologia do Livro 1 (dia de cada capítulo) está em cronologia-l1.
 tags: [tema, timeline, cronologia]
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-16T12:00:00-03:00
 ---
 
 # Timeline de Ornick
@@ -27,29 +27,12 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Instituição da Segregação                                                                                          | Idealizada por Nolan; implementada por Genocydo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Casamento Nolan + Dagmar                                                                                           | Filha de Valinor Addorbek                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-## Livro 1 — Timeline
+## Livro 1 — Cronologia
 
-| Cap.  | POV              | Evento                                                |
-| ----- | ---------------- | ----------------------------------------------------- |
-| 0     | Nolan + Kate     | Prólogo: Sinal falha; Kate sente Hícse                |
-| 1-3   | Mário            | Sonho; sequestro; Inquiridor atira                    |
-| 4     | Nolan            | Koda pede confronto com Genocydo                      |
-| 5-9   | Mário/Kate/Nolan | Paralelo: Mário em Opium; Kate treina; Nolan consipra |
-| 10-13 | Mário/Kate/Nolan | Bíblia; Charles; Lakand; nômades                      |
-| 14-19 | Nolan/Kate/Mário | Conselho; viagem; captura; Dagmar morre               |
-| 20    | Kate             | Milagre de Saboc; Kate escolhe Mário                  |
-| 21    | Mário            | Fuga do castelo em chamas; 1ª leitura abdutiva; "com quem você estava falando?" |
-| 22    | Nolan            | A pira involuntária; Mathias salva Saboc; a aliança de prata arrancada do dedo morto |
-| 23    | Kate             | O assentamento: a cura sem intenção da menina paralítica; os primeiros que se ajoelham |
-| 24    | Nolan            | O rastro: o milagre é replicável; Mira e o cheiro de vembra; as três cartas; Mathias parte |
-| 25    | Mário            | A feira de Tronk: a cura intencional; o evangelho; a conversão genuína |
-| 26    | Kate             | O preço da fama: "feiticeiro"; o debate; a recompensa escala; os convertidos se perdem |
-| 27    | Mário            | O cerco da caverna; o confronto com A Voz |
-| 28    | Kate             | A emboscada dos Inquiridores; Kate não apodrece; "Ele terá o trono. Vonos garante." |
-| 29    | Nolan            | Tronk na subida: a carta de Layla (Juleen viva; o Conselho sem ele), a doutrina torta na feira; dois dias ao norte, a fila dos oito, o edital no bolso de um morto e a negativa da custódia; ordem aos seis e volta à Metrópole |
+A cronologia do L1 (o dia de cada capítulo, as durações, os alertas de consistência e as decisões de tempo) fica em [Cronologia do Livro 1](/temas/cronologia-l1.md), na seção "Dia de cada capítulo". A versão interativa, com raias por PoV, é o arquivo único [cronologia-l1.html](/temas/cronologia-l1.html). Esta página guarda a história do mundo antes da narrativa e as notas de estação. O Dia 1 é a noite do prólogo, e o Dia do texto é estimado pelas âncoras, não é canon fixado.
 
 **Estação:** o Livro 1 corre no **outono**, encostando no fim do verão seco (canon 2026-09-20; caso do cap. 28, "as pernas que tinham dormido no frio"). A estiagem é geográfica — **faixa seca na subida da Mina** —, não geral; ver `conceitos/agua-e-seca.md`.
 
-**Virada para o inverno no fim do L1 (texto):** a estação muda perto do fim do livro. Cap. 49: "luz fosca de uma tarde de inverno cinzento"; cap. 61: "sol de inverno". Confirmar com o autor o capítulo da virada e a duração do L1, que definem o ano do planeta (ver `conceitos/cosmologia.md`).
+**Virada para o inverno no fim do L1 (texto):** a estação muda perto do fim do livro. Cap. 49: "luz fosca de uma tarde de inverno cinzento"; cap. 61: "sol de inverno". Confirmar com o autor o capítulo da virada e a duração do L1, que definem o ano do planeta (ver `conceitos/cosmologia.md`). Com a extensão de 2026-11-16, o outono do cap. 35 (Dia 40) fica a dez semanas do inverno do cap. 49 (Dia 108); a virada acontece entre os dois, sem marca no texto.
 
-_Timeline parcial — expandir a cada INGEST de capítulo._
+_A tabela do L1 mora em `temas/cronologia-l1.md`; o INGEST de cada capítulo atualiza ali o Dia do capítulo._

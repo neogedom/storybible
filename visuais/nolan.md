@@ -182,7 +182,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Postura**: sentado; postura de homem de gabinete; traça a rota com carvão no pergaminho.
 - **Fundo**: sala de traçagem da Academia de Gus.
 
-## Capítulo 47 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+## Capítulo 48 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
 
 - **Vestimenta**: casaco preto sujo de poeira de serra; **insígnia de bronze do Conselho** presa de volta na lapela, no portão oeste; luvas, que desabotoa na tesouraria; colarinho ajustado diante de Benjamim.
 - **Acessórios**: **anel de sinete dos Guenayer** de volta no dedo; óculos de armação de ébano, ajustados com dois dedos.

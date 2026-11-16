@@ -49,7 +49,7 @@ Ver timeline visual completa em [visuais/benjamim.md](/visuais/benjamim.md).
 5. Intermedeia a **simulação da via crucis** no final do L1 — o plano de
    Terbs de fazer Mário **blasfemar contra Deus publicamente** (correção
    2026-08-10); Genocydo acredita ser humilhação/apoteose próprias
-6. **Cap. 47 (2026-11-14)**: passa a circular em público, à luz do dia, com turíbulo
+6. **Cap. 48 (2026-11-14)**: passa a circular em público, à luz do dia, com turíbulo
    e quatro acólitos; os nobres beijam a barra de suas mangas. Meses antes
    trabalhava em sussurros, nos corredores fechados do Castelo. Trouxe ao Rei a
    cessão do Reino aos Clãs como "mais uma condição da apoteose" (relato de Koda).

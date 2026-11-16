@@ -45,7 +45,7 @@ nem o rascunho do cap. 49 nesta fase.
 
 - **Ganho:** liga a curiosidade de Nuh ao milagre de Saboc e à cobrança
   institucional já planejada.
-- **Risco de continuidade:** no cap. 47, Nolan diz a Valinor que Saboc morreu
+- **Risco de continuidade:** no cap. 48, Nolan diz a Valinor que Saboc morreu
   e a carruagem é descrita como vazia. Se o menino viaja com Nolan, esconder
   sua presença precisa ficar claro, ou parecerá um erro de continuidade.
 - **Guardrail:** manter as perguntas de Nuh concretas e a reação ambígua; não

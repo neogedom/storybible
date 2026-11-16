@@ -1,16 +1,18 @@
 ---
 type: Chapter
-title: Capítulo 47 — O Retorno à Metrópole
+title: Capítulo 48 — O Retorno à Metrópole
 pov: Nolan
 beat_stc: Tudo Está Perdido (inferido)
-percentual_l1: ~87,0%
-resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo47.md
-timestamp: 2026-11-15T15:20:00-03:00
+percentual_l1: a recalcular (era ~87,0% quando o capítulo era o 47)
+resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo48.md
+timestamp: 2026-11-16T12:00:00-03:00
 ---
 
-# Capítulo 47 — O Retorno à Metrópole (POV Nolan)
+# Capítulo 48 — O Retorno à Metrópole (POV Nolan)
 
 > Título provisório da ficha (o arquivo do livro não tem título); o autor pode renomear.
+>
+> **Numeração:** este capítulo era o 47 e passou a 48 na troca de 2026-11-15; o 47 é agora o de Mário na marcha dos Clãs. Registros datados antes de 2026-11-16 (log, inbox) usam a numeração antiga. Ver [a decisão da troca](/decisoes/2026-11-15-ordem-caps-47-48.md).
 
 ## Resumo
 
@@ -36,7 +38,7 @@ Ao amanhecer, Nolan cruza a ponte de pedra e entra na Metrópole pelo portão oe
 - Burgo baixo: filas nas padarias, alqueire de centeio de quatro para doze cobres, pão cinzento com aveia e gesso. Nolan liga a fome ao tesouro drenado por Genocydo.
 - Praça Central: o Monólito apagado; oficinas de lapidários e relojoeiros fechadas; Nolan só supõe o efeito da perda da Mina.
 - Castelo de Quartzo: Valinor pergunta por Dagmar. Nolan diz que ela não voltou e que a criança "nasceu fraco e sobreviveu". Valinor relata fome, os Clãs (o contrato do Trono lhes deu a planície sul, e eles armaram paliçada em cima da estrada do grão), o comboio de Elysia massacrado e o veto de Genocydo.
-- Nolan avisa que os Clãs trazem Mário ao Rei e chegam antes do cair da noite; manda voltar as sentinelas de fogo para a planície sul, deixar a guarda do rio como está e convocar assembleia extraordinária do Conselho antes da festa dos Clãs.
+- Nolan avisa que os Clãs trazem Mário ao Rei e chegam antes do cair da noite; manda voltar as sentinelas de fogo para a planície sul, deixar a guarda do rio como está e convocar assembleia extraordinária do Conselho antes da Festa da Poda (L89).
 - Tesouraria: Koda diz que a carta de Nolan não moveu nada; Benjamim trouxe a cessão como mais uma condição da apoteose, e o Rei assinou sem o Conselho; não foi Saramant, foi o Reino inteiro. Koda não viu as outras condições.
 - Nolan mostra o fragmento da Mina: "É o tipo de metal que só uma nação com conhecimento avançado sobre metalurgia saberia fundir." Alude a "uma nação [...] que já demonstrou no passado interesse sobre nossas terras" sem nomeá-la: a oferta antiga de Alavria na ocupação, recusada pelos Guenayer (a narração a explica em uma frase, em ponto de vista de Nolan). Quem diz "Alavria" é Koda ("Alavria fica a semanas pelo mar"), e a mão vai ao colete. Nolan guarda para si as conclusões sobre a reação dele.
 - Grande Galeria: Benjamim passa com acólitos e turíbulo; diálogo com Nolan; a lei como "convenção de homens mortais".
@@ -49,8 +51,8 @@ Ao amanhecer, Nolan cruza a ponte de pedra e entra na Metrópole pelo portão oe
 - **Saboc (#26):** entra vivo na Metrópole; só Nuh sabe da ressurreição (soube pelo escriba), fora do texto.
 - **Alavria:** oferta de ajuda contra Gondor em troca de o Reino virar província, recusada pelos Guenayer, evocada por Nolan só por alusão (`lugares/alavria.md`, `lugares/gondor.md`).
 - **Geografia:** portões Oeste, Leste e Sul, rota de Nolan e dos Clãs, burgos fora da muralha (`lugares/metropole.md`, `lugares/mapa-do-reino.md`, `decisoes/2026-11-14-geografia-cran-clas-metropole.md`).
-- **Cap. 49:** a "festa dos Clãs" citada aqui é a do cap. 49 (óleo de unção); o "festival" de Gerikhad dos caps. 52 a 59.
+- **Festa da Poda (nome dado em 2026-11-16):** é a festa que a corte abre aqui (L89), a do óleo de unção do cap. 49 e o "grande festival" dos caps. 52, 53 e 60. Antes aparecia como "festa dos Clãs"; o autor achou estranha uma festa para os Clãs, porque ninguém na Metrópole gosta deles e o pacto é só do Rei. Ver `lugares/metropole.md`.
 - **Observação de texto (não alterei o livro):** a fala final de Benjamim ("A lei é uma convenção de homens mortais... E o deus a quem o rei se entregou não se importa com a tinta das suas ordenanças") fecha em aforismo, contra o guardrail de falas: candidata ao anti-slop em lote.
-- **Fronteira:** abre onde o cap. 46 fechou (Nolan segue por terra com Mathias, Ossan, Mira e Saboc; Kate, Lakand, artífices e Decian descem o rio). Ponto de partida do próximo: Nolan dentro do Castelo de Quartzo; assembleia do Conselho no dia seguinte; Mário chega ao anoitecer (cap. 50). A cobrança a Genocydo, que Nolan deixa para depois na cena de Koda, é dívida de um próximo capítulo dele (o cap. 49 do rascunho abre no Santuário de Vonos).
-- **Fecho:** Nolan imóvel até a fumaça de Benjamim se dissipar; guarda as palavras mais duras e faz da próxima reunião do Conselho a sua resposta a Benjamim e à Metrópole (parágrafo acrescentado pelo autor em 2026-11-15, no lugar do antigo "E ele seria o juiz daquela sessão"). Corte **D** (consequência) com gancho para a assembleia: o confronto fica adiado, não decidido em cena. Atenção ao passe de fechos: 45, 46 e 47 fecham em D, três seguidos (o POV gira: Kate, Kate, Nolan); o gancho final atenua a sequência, mas não a desfaz.
+- **Fronteira:** a história de Nolan retoma onde o cap. 46 fechou (Nolan segue por terra com Mathias, Ossan, Mira e Saboc; Kate, Lakand, artífices e Decian descem o rio); na ordem de leitura, vem depois do cap. 47 (Mário na marcha dos Clãs). Ponto de partida do próximo: Nolan dentro do Castelo de Quartzo; assembleia do Conselho no dia seguinte; Mário chega ao anoitecer (cap. 50). A cobrança a Genocydo, que Nolan deixa para depois na cena de Koda, é dívida de um próximo capítulo dele (o cap. 49 do rascunho abre no Santuário de Vonos).
+- **Fecho:** Nolan imóvel até a fumaça de Benjamim se dissipar; guarda as palavras mais duras e faz da próxima reunião do Conselho a sua resposta a Benjamim e à Metrópole (parágrafo acrescentado pelo autor em 2026-11-15, no lugar do antigo "E ele seria o juiz daquela sessão"). Corte **D** (consequência) com gancho para a assembleia: o confronto fica adiado, não decidido em cena. Passe de fechos: antes da troca, 45, 46 e este fechavam em D, três seguidos (Kate, Kate, Nolan); com o cap. 47 (Mário) entre o 46 e este, conferir a sequência de novo.
 - **Conexões:** [cap. 46](/capitulos/capitulo-46.md), [Metrópole](/lugares/metropole.md), [Nolan](/personagens/nolan.md), [Valinor](/personagens/valinor.md), [Koda](/personagens/koda.md), [Benjamim](/personagens/benjamim.md), [Saboc](/personagens/saboc.md), [Alavria](/lugares/alavria.md), [Mapa do Reino](/lugares/mapa-do-reino.md).

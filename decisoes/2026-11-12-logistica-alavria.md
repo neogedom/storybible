@@ -11,7 +11,7 @@ Status: em aplicação. Decidido: renanthao de Alavria (caps. 4 e 6 ajustados); 
 
 ## Decisões pendentes
 
-- **Distância e tempo de travessia:** quantas semanas de mar entre Ornick e Alavria? (Hoje o cap. 47 diz "semanas".)
+- **Distância e tempo de travessia:** quantas semanas de mar entre Ornick e Alavria? (Hoje o cap. 48 diz "semanas".)
 - **Tamanho da força:** quantos navios e quantos homens? O texto não dá números, o que deixa espaço, mas a divisão precisa ser coerente. Sugestão de ordem de grandeza: uma vanguarda pequena e concentrada (Varek com a tropa blindada) e uma infantaria maior, dividida em duas levas, uma que chega antes para os infiltrados e outra no dia da invasão.
 - **Divisão da infantaria no final:** o texto menciona vanguarda blindada, infantaria pesada e besteiros. Decidir quantas unidades e onde desembarcam: a costa sul, o porto, ou o portão sul que Koda abre (cap. 65).
 - **Renanthao como cobertura:** os infiltrados viajam como carga ou tripulação de navios de renanthao? Quem registrou a entrada? Koda?
@@ -20,6 +20,6 @@ Status: em aplicação. Decidido: renanthao de Alavria (caps. 4 e 6 ajustados); 
 
 ## Consistência com outras decisões
 
-- Fim da fala de Koda no cap. 47: se Alavria é além-mar, "semanas pelo mar" fica como está.
+- Fim da fala de Koda no cap. 48: se Alavria é além-mar, "semanas pelo mar" fica como está.
 - Confissão parcial de Koda (cap. 60): fica mais forte se ele for o elo logístico da rota.
 - Cargas da Mina (cap. 37): precisam ter chegado com os infiltrados antes da rota ser estabelecida.

@@ -139,7 +139,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 - [Arco STC](temas/arco-stc.md) — Progressão dos beats do Save The Cat! no Livro 1.
 - [Tom e Voz Narrativa](temas/tom-e-voz.md) — Diretrizes de tom, gênero e voz por POV.
-- [Timeline de Ornick](temas/timeline.md) — Linha do tempo dos eventos.
+- [Timeline de Ornick](temas/timeline.md) — Eventos anteriores à narrativa e notas de estação.
+- [Cronologia do Livro 1](temas/cronologia-l1.md) — Dia de cada capítulo, durações, alertas de consistência e decisões de tempo; versão interativa em [cronologia-l1.html](temas/cronologia-l1.html).
 - [Mapa de Sementes](temas/sementes.md) — Sementes plantadas no L1 para germinar no L2.
 - [Arcos por Livro](temas/arcos-por-livro.md) — Arcos dos personagens secundários por livro.
 - [Esquema do L2](temas/esquema-l2.md) — Outline completo do Livro 2 (A Queda da Coroa).

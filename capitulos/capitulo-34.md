@@ -45,3 +45,7 @@ Mário chega a um assentamento de refugiados, perto do pó de quartzo. Cura uma 
 - Conferido: "Javé" aparece pela primeira vez neste capítulo (próxima ocorrência: cap. 52).
 - Contagem de seguidores: o cap. 34 diz que Kate chega com "cinco" (mulher com a criança, homem da mão mutilada, rapaz da tipoia etc.); o cap. 37 fala em "quatro homens do assentamento"; o cap. 35 só nomeia três homens. Decidido em 2026-11-13: são cinco. Caps. 37 e 38 ajustados.
 - Risco 1 (protagonismo): o fecho do capítulo mostra Mário convencido de "conduzir os próprios passos" ("Ela acha que eu não vejo"). É a ironia que o cap. 37 cobra. Manter.
+
+## Atualização (2026-11-16)
+
+- L99: "Amanhã subimos" passa a "Subimos quando o grupo estiver pronto". Mário delega ao treino de Kate a data da subida, que passa a ser três semanas depois (sumário no cap. 36). Ver [a decisão de 2026-11-16](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md).

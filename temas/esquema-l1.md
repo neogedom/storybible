@@ -72,8 +72,8 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 44       | Vilões se Aproximam                 | Mário        | ~75%                    | ~81,6%               | 1.780    |
 | 45       | Vilões se Aproximam                 | Kate         | ~75%                    | ~83,1%               | 2.107    |
 | 46       | Vilões se Aproximam                 | Kate         | —                      | ~84,7%               | 2.186    |
-| 47       | Tudo Está Perdido (inferido)        | Nolan        | —                      | ~87,0%               | 3.135    |
-| 48       | Tudo Está Perdido (inferido)        | Mário        | —                      | a recalcular         | 1.632    |
+| 47       | Tudo Está Perdido (inferido)        | Mário        | —                      | a recalcular         | 1.632    |
+| 48       | Tudo Está Perdido (inferido)        | Nolan        | —                      | a recalcular         | 3.135    |
 | 49       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 1.642    |
 | 50       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 998      |
 | 51       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 1.000    |
@@ -84,8 +84,8 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 56       | Noite Escura da Alma (inferido)     | Mário        | —                      | a recalcular         | 1.260    |
 | 57       | Noite Escura da Alma (inferido)     | Kate         | —                      | a recalcular         | 1.025    |
 | 58       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 1.115    |
-| 59       | Break Into 3 (inferido)             | Kate         | —                      | a recalcular         | 919      |
-| 60       | Break Into 3 (inferido)             | Nolan        | —                      | a recalcular         | 905      |
+| 59       | Break Into 3 (inferido)             | Nolan        | —                      | a recalcular         | 905      |
+| 60       | Break Into 3 (inferido)             | Kate         | —                      | a recalcular         | 919      |
 | 61       | Break Into 3 (inferido)             | Mário        | —                      | a recalcular         | 876      |
 | 62       | Break Into 3 (inferido)             | a confirmar  | —                      | a recalcular         | 759      |
 | 63       | Break Into 3 (inferido)             | Mário        | —                      | a recalcular         | 940      |
@@ -1158,7 +1158,7 @@ Mário é levado para a Metrópole pelos Clãs de Sangue e entregue a Genocydo.
 **O Acordo de Hícse e Terbs:** A cessão formal do Reino aos Clãs de Sangue e a apoteose prometida por Terbs a Genocydo **só se consumam com a blasfêmia pública de Mário**. Hícse sabe que se o Deus do Evangelho criar raízes em Ornick, a soberania dos elohins racha; por isso, a rendição de Mário precisa ser espiritual, pública e humilhante. Os Clãs acampam fora dos muros e aguardam a blasfêmia antes de tomar posse da terra.
 
 **Nolan operando por dentro:** Nolan chega à Metrópole à frente da coalizão e reassume seu posto burocrático para manobrar o rei:
-- Nolan convence Genocydo de que uma execução sumária em calabouço secreto desperdiçaria a vitória política: a blasfêmia precisa ser um grande espetáculo público no festival em Gerikhad, com a multidão reunida, para aniquilar o mito do Souhma. Com isso, ganha tempo precioso.
+- Nolan convence Genocydo de que uma execução sumária em calabouço secreto desperdiçaria a vitória política: a blasfêmia precisa ser um grande espetáculo público na Festa da Poda, em Gerikhad, com a multidão reunida, para aniquilar o mito do Souhma. Com isso, ganha tempo precioso.
 - Nolan melhora as condições do cativeiro de Mário: retira-o do poço imundo e o transfere para uma cela seca da torre, entregando-lhe mantas e material de leitura — incluindo a **Bíblia de Kraviam** e notas do diário de Genocydo.
 - Nolan confronta Benjamim com a ameaça física de seus rampillas e desvenda os termos sórdidos do pacto de Terbs.
 - **A semente da quebra:** No caminho de volta, Nolan investiga e descobre que Dagmar foi envenenada por vembra; enfurecido, Nolan executa Juleen sem julgamento formal, quebrando seu próprio código de legalidade.
@@ -1179,7 +1179,7 @@ Mário é levado para a Metrópole pelos Clãs de Sangue e entregue a Genocydo.
 
 ## Break Into 3 (~80%)
 
-**O Garfo do Herege em Gerikhad:** Mário é levado ao patíbulo público durante o festival e preso com o Garfo do Herege (as quatro pontas agudas de ferro cravando-se sob o queixo e contra o esterno). O aparelho não permite que a cabeça tombe sem perfurar a garganta; o objetivo de Genocydo e Terbs é forçá-lo a verbalizar a blasfêmia para aliviar a agonia. 
+**O Garfo do Herege em Gerikhad:** Mário é levado ao patíbulo público durante a Festa da Poda e preso com o Garfo do Herege (as quatro pontas agudas de ferro cravando-se sob o queixo e contra o esterno). O aparelho não permite que a cabeça tombe sem perfurar a garganta; o objetivo de Genocydo e Terbs é forçá-lo a verbalizar a blasfêmia para aliviar a agonia. 
 - No Garfo, o orgulho de Mário e sua tentativa de controlar o desfecho se despedaçam: ele cede absolutamente o controle a Deus, suportando a dor sem pronunciar a negação.
 - **A Incursão de Gus:** Simultaneamente, a força de Kate, Lakand e os Artífices de Gus lança o assalto cruzando o rio Cran com balsas e mecanismos de engenharia, iniciando o cerco e rompendo as portas inferiores da Metrópole para resgatá-lo.
 
