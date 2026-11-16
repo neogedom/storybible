@@ -183,7 +183,7 @@ O autor validou as sugestões da lista de alertas, e elas foram aplicadas ao tex
 
 - **Cap. 51:** a ordem fica. "A neblina da madrugada" virou "A neblina da noite" (cap. 51, L3, commit `fbc4b28`), o que põe a entrada de Kate antes das cenas dos caps. 52 a 54 e tira o recuo. O sino da quarta vigília (cap. 55) segue sendo a quebra de vigilância do plano do cap. 46.
 - **Caps. 59 e 60:** trocados (commit `c8a7b4d`). Agora o Conselho termina no 59 e Kate vê o cortejo no 60. Nenhuma linha de prosa mudou.
-- Com os dois, a ordem de leitura não tem mais recuo no tempo.
+- Com os dois, o bloco final (caps. 44 a 66) não tem mais recuo no tempo. Os que sobram na ordem de leitura são cortes paralelos de PoV nos caps. 8, 11, 13, 18 e 29 (voltas de 0,3 a 1,5 dia, com PoV diferente).
 
 ## Decisões do autor pendentes
 
