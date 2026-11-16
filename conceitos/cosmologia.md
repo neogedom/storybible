@@ -113,7 +113,7 @@ Vonos trouxe **dois tipos de humanos**:
 **Definidos pelo autor:**
 
 - **Gravidade**: próxima da terrestre, um pouco menor. No cap. 41 (POV de Mário, na aula de Orval), Mário pensa que talvez esteja num planeta onde "a terra puxasse com um pouco menos de voracidade", e nota que o chumbo do pêndulo oscila mais devagar que na memória dele.
-- **Duração do L1**: alguns meses (estimativa do autor, pela contagem de semanas do livro; o número exato não está fixado). Nota de 2026-11-15: a soma das âncoras de tempo dos capítulos dá cerca de 34 dias; ver [Cronologia do Livro 1](/temas/cronologia-l1.md).
+- **Duração do L1**: alguns meses (estimativa do autor, pela contagem de semanas do livro; o número exato não está fixado). Nota de 2026-11-15: a soma das âncoras de tempo dos capítulos dá cerca de 34 dias; ver [Cronologia do Livro 1](/temas/cronologia-l1.md). Nota de 2026-11-16: o texto foi estendido para cerca de 110 dias, com Nolan 90 dias fora (ver [a decisão](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md)).
 
 **Pendentes de decisão do autor:**
 

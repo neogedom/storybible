@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-16 (O tempo do L1 aplicado: cerca de 110 dias)
+
+- Decisões do autor: aplicar o cenário B em sumários, sem capítulos novos; Nolan espera o selo do Rei fora de Gus (papel e medo); o serviço de Mário aos sobreviventes é também uma tentativa de fazer a Voz voltar, e a Mina é em parte culpa dele (ele sabia da guerra de Kate). Registrado em `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`.
+- Texto alterado no livro (commit `cfc6c68`): caps. 13, 34, 36, 40, 42, 43, 44 e 49, com cinco sumários novos (cerca de 700 palavras) e trocas de marcadores de tempo. O cap. 48 passa a bater com "três meses". Atualizados `temas/cronologia-l1.md` (cenário B como aplicado), as fichas dos caps. 13, 34, 36, 40, 42, 43 e 44, `personagens/mario.md`, `vozes/mario.md`, `conceitos/cosmologia.md` e `temas/timeline.md`.
+- Pontos abertos na decisão: lua (A4), cap. 22 (Nolan sai no dia seguinte), Nolan sabendo onde Mário está nos Moribundos, Clãs e Inquiridores em onze semanas, guarda na Mina, ombro de Mário, papel de linho, contagens do esquema.
+
 ## 2026-11-16 (Cenário B em sumários, sem capítulos novos)
 
 - Decisão do autor: não haverá capítulos novos; as esticadas de tempo do cenário B (lobisomens, Moribundos, Gus) passam em narrativa de sumário dentro dos capítulos existentes. Atualizado `temas/cronologia-l1.md`: 16 costuras, seis delas com sumário (caps. 13 duas vezes, 36, 42, 43 e 44; cerca de 800 palavras no total), no lugar das três cenas novas. A página "Cronologia do Livro 1" reflete a mudança. Nada aplicado ao livro.

@@ -41,3 +41,7 @@ Mário chega a um assentamento de refugiados, perto do pó de quartzo. Cura uma 
 
 - **Custo do milagre** (decidido em 2026-11-12): tremor da mão como medo, não exaustão; a Voz não responde ao gesto. Nenhum efeito físico.
 - Mário menciona "Ele pagou" sem trazer custo visível; o leitor pode ler isso como ferramenta.
+
+## Atualização (2026-11-16)
+
+- L99: "Amanhã subimos" passa a "Subimos quando o grupo estiver pronto". Mário delega ao treino de Kate a data da subida, que passa a ser três semanas depois (sumário no cap. 36). Ver [a decisão de 2026-11-16](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md).

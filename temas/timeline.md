@@ -29,7 +29,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## Livro 1 — Timeline
 
-> **Atenção (2026-11-15):** esta tabela está desatualizada: as linhas 24 a 29 ficaram deslocadas depois do corte do antigo cap. 24, e ela para no cap. 29. A cronologia estimada do L1 inteiro, com âncoras e alertas, está em [Cronologia do Livro 1](/temas/cronologia-l1.md).
+> **Atenção (2026-11-15):** esta tabela está desatualizada: as linhas 24 a 29 ficaram deslocadas depois do corte do antigo cap. 24, e ela para no cap. 29. A cronologia estimada do L1 inteiro, com âncoras e alertas, está em [Cronologia do Livro 1](/temas/cronologia-l1.md). Em 2026-11-16 o L1 passou a cerca de 110 dias (ver [a decisão](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md)).
 
 | Cap.  | POV              | Evento                                                |
 | ----- | ---------------- | ----------------------------------------------------- |

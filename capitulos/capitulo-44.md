@@ -42,3 +42,8 @@ Os Clãs de Sangue atacam a paliçada norte da Cidadela de Gus. Kate retorna da 
 - **Fronteira:** O cap. 43 fecha com Estruzzo recuando sozinho enquanto o grosso dos Clãs desce. O cap. 44 termina com a entrega voluntária; o cap. 45 abre com a captura.
 - **Fecho:** Decisão de Mário e corte **A**: a horda interrompe o avanço diante dele, de braços abertos.
 - **Conexões:** [cap. 43](/capitulos/capitulo-43.md), [cap. 45](/capitulos/capitulo-45.md), [Cidadela de Gus](/lugares/cidadela-de-gus.md).
+
+## Atualização (2026-11-16)
+
+- "Mãos enfaixadas" passa a "mãos cicatrizadas" (L7, L21, L127); L41: os dois que o encontraram na Mina "seis semanas antes"; L61: Mário reconhece quatro nomes no livro de Uorier, os que anotara na enfermaria.
+- L81 e L83: memória-sumário no instante da entrega. A cátedra de Orval fica adiada de semana em semana; o papel de linho serve a cento e doze nomes de mortos da Mina; seis semanas lavando ataduras e carregando água; toda noite espera a quitação e a Voz não vem; na terceira semana ele lembra que sabia da guerra de Kate e que subiu à Mina mesmo assim (a defesa do cap. 39, L15, morreu na boca porque era falsa). Ver [a decisão de 2026-11-16](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md).

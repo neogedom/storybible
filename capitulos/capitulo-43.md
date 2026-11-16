@@ -41,3 +41,7 @@ Na guarita do lado de dentro da paliçada norte, Kate vê Estruzzo materializar-
 - **Fronteira:** O cap. 42 termina com Nolan decidindo alcançar Mário antes do ataque. O cap. 43 muda para Kate e fecha com a invasão começando; o cap. 44 abre com o cerco em curso e Kate avisando a carpintaria.
 - **Fecho:** Desastre/iminência — o sino soa e os Clãs começam a descer a serra. Corte **A** (Ação). O cap. 44 abre com o ataque em curso.
 - **Conexões:** [Hícse](/conceitos/hicse.md), [cap. 41](/capitulos/capitulo-41.md), [cap. 42](/capitulos/capitulo-42.md), [cap. 44](/capitulos/capitulo-44.md), [Cidadela de Gus](/lugares/cidadela-de-gus.md).
+
+## Atualização (2026-11-16)
+
+- L9: sumário das seis semanas de Kate em Gus (cerca de 110 palavras): Mário entre a Academia e a enfermaria, dormindo no chão; a oferta dela de treinar artífices, recusada com cortesia; a guarda na Mina; ela viu os olhos dele se desviarem dos rapazes das picaretas "e nunca disse a ele que sabia". L7: "um quarto limpo para eles desde a chegada"; L11: "Nas últimas semanas". Ver [a decisão de 2026-11-16](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md).
