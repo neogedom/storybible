@@ -71,7 +71,7 @@ Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
    que Genocydo persegue por si — é o pagamento por entregar a blasfêmia do
    Souhma. Terbs mente: a recompensa é isca; Genocydo é o instrumento.
 3. Prende Mário após a entrega em Gus e o submete ao Garfo do Herege
-   em praça pública durante o grande festival para forçar a blasfêmia
+   em praça pública durante a Festa da Poda para forçar a blasfêmia
    pública. Na conversa do cap. 54, compreende a oferta de redenção de Mário
    e a recusa: não refuta a doutrina, prefere a apoteose.
 4. É assassinado no final do L1 por um infiltrado do destacamento alavriano durante a invasão do portão sul

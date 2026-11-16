@@ -42,14 +42,14 @@ o outro concentra quem paga por eles.
 - Genocydo ordena a caça ao Souhma da Praça Central
 - Benjamim Cressadar interpreta o silêncio como profecia
 
-## Festividades de inverno (o grande festival)
+## Festa da Poda (o grande festival)
 
-Decisão do autor, 2026-11-16: o festival de Gerikhad é religioso e de estação, não uma festa dos Clãs. Ninguém na Metrópole gosta dos Clãs, e o pacto com eles é negócio só do Rei. O cap. 49 (L11) dizia "a festa dos Clãs" e passou a "as festividades de inverno" (commit `d77e113` do livro).
+Decisões do autor, 2026-11-16: o festival de Gerikhad é religioso e de estação, não uma festa dos Clãs (ninguém na Metrópole gosta dos Clãs, e o pacto com eles é negócio só do Rei), e se chama **Festa da Poda**. O cap. 49 (L11) dizia "a festa dos Clãs" (commit `d77e113` do livro); o nome entrou nos cinco trechos que citam a festa (commit `89ab5aa`).
 
-- **O que o texto fixa:** a corte abre "as festividades de Gerikhad" (cap. 48, L73); o Rei manda o templo de Vonos preparar "o óleo de unção para as festividades de inverno" (cap. 49, L11); Benjamim monta o cadafalso "do grande festival" na Praça de Gerikhad (cap. 53, L3); Gunad avisa a Mário "Amanhã você estará no cadafalso" (cap. 52, L67); "O grande festival começara" (cap. 60, L13).
-- **Leitura:** festa do templo de Vonos e da Coroa, com unção, no começo do inverno (o cap. 49, L3, abre numa "tarde de inverno cinzento"). Quem enche a praça é a cidade faminta, não os Clãs.
+- **O que o texto fixa:** a corte abre "a Festa da Poda" (cap. 48, L73); o Rei manda o templo de Vonos preparar "o óleo de unção para a Festa da Poda" (cap. 49, L11); Benjamim monta o cadafalso "da Festa da Poda" na Praça de Gerikhad (cap. 53, L3); Gunad avisa a Mário "Amanhã você estará no cadafalso. A Festa da Poda não vai poupar a sua carne" (cap. 52, L67); "A Festa da Poda começara" (cap. 60, L13). No mesmo cap. 49 (L31), Nuh chama a queda do reino de "a poda necessária para que a árvore mestra floresça".
+- **Leitura:** festa do templo de Vonos e da Coroa, com unção, no começo do inverno (o cap. 49, L3, abre numa "tarde de inverno cinzento"). Poda é trabalho de inverno; a unção do rei lembra o selo de óleo sobre o corte. Quem enche a praça é a cidade faminta, não os Clãs.
 - **Função no enredo:** é o palco da blasfêmia pública que o contrato de Terbs exige (ver [Genocydo](/personagens/genocydo.md): Garfo do Herege em praça pública, com grande audiência). A fala de Nolan no cap. 49 (L15), "comprando a própria condenação em moedas de sangue", comenta o pacto com os Clãs, não a festa.
-- **Em aberto:** o nome próprio da festa e a data no calendário religioso. O texto só diz "festividades de inverno" e "o grande festival". Ancorar a data no solstício obrigaria a fixar a duração do ano de Ornick (ver [Cosmologia](/conceitos/cosmologia.md)). Um nome possível, que ecoa a "poda" de Nuh no cap. 49 (L31), é "festa da Poda".
+- **Em aberto:** a liturgia (o que se poda, quem poda, o que a unção sela) e a data no calendário religioso. Ancorar a data no solstício obrigaria a fixar a duração do ano de Ornick (ver [Cosmologia](/conceitos/cosmologia.md)). O cap. 50 usa "celebração" (L1) e "espetáculo" (L39) sem nomear a festa; essas linhas não foram tocadas.
 
 ## Conexões
 

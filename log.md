@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-16 (Festa da Poda e luas na mesma fase)
+
+- Decisão do autor: o festival de Gerikhad se chama **Festa da Poda**. As cinco menções do livro passaram a usar o nome (commit `89ab5aa`: caps. 48, 49, 52, 53 e 60). No storybible: `lugares/metropole.md` (seção renomeada, com a leitura e o que fica em aberto), `personagens/genocydo.md`, `temas/esquema-l1.md` (L1134 e L1155), `decisoes/2026-11-15-ordem-caps-47-48.md` e `insights/duas-vias-de-salvacao-ato-2.md`.
+- Luas: o autor tratou o modelo como aceito (mesma fase, mês de 32 dias) e perguntou se o mês podia aparecer numa conversa de Mário e Orval. Aplicado no livro (commit `7431230`): "as luas minguantes" nos caps. 43, 53 e 55 e "as luas cheias" na fala do rei (cap. 53, L17). Registrado em `conceitos/cosmologia.md` e em `temas/cronologia-l1.md` (A4 resolvida, decisão 2 decidida) e em `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`.
+- Em decisão do autor: o "trinta e dois dias" no cap. 41 (L81) e, como ponto pequeno, o "olhos abertos" do cap. 16 (L195).
+
 ## 2026-11-16 (A festa dos Clãs vira as festividades de inverno)
 
 - Sugestão do autor: ninguém na Metrópole gosta dos Clãs e o pacto é só do Rei, então uma festa dos Clãs não faz sentido; a festa deve ser religiosa ou de estação. Cap. 49 (L11): "a festa dos Clãs" virou "as festividades de inverno", com o templo de Vonos preparando o óleo de unção (commit `d77e113` do livro). Era a única ocorrência; os outros trechos já diziam "festividades de Gerikhad" (cap. 48) e "o grande festival" (caps. 52, 53 e 60).

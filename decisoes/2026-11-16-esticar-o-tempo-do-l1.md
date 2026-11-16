@@ -38,7 +38,7 @@ Ver a lista numerada com âncoras de linha em [Cronologia do Livro 1](/temas/cro
 
 ## Pontos abertos
 
-1. **A lua (A4):** crescente no cap. 43 e minguante no cap. 53, a duas noites. O prazo de Kenod ("até as duas luas ficarem escuras", cap. 13, L115) e as "duas luas pairando baixas" da fuga (cap. 16, L195) combinam com crescentes finas na véspera, mas isso não fixa as fases.
+1. **A lua (A4): resolvida em 2026-11-16.** As duas luas andam na mesma fase, com mês de 32 dias (cheia no Dia 1, escura no Dia 17, no prazo de Kenod). Os caps. 43, 53 e 55 dizem "as luas minguantes" (commit `7431230` do livro). Ver `temas/cronologia-l1.md`, decisão 2. Resta um ponto pequeno: o cap. 16 (L195) chama as luas de "olhos abertos" na noite em que o cap. 13 (L229) as faz "dois fios parecendo lascas de unhas".
 2. **Nolan sai "na manhã seguinte" com um recém-nascido** (cap. 22, L141): o B não mexe nisso; a costura de +21 do cenário A resolveria.
 3. **Nolan sabe onde Mário está nas três semanas no assentamento:** os seis rampillas morrem no cap. 35 perto do assentamento (cap. 40, L79). A vigília na Mina é a aposta de que ele virá; talvez valha uma frase.
 4. **Por que Inquiridores e Clãs não chegam em onze semanas a mais**, com a frequência do Souhma "conhecida" (cap. 27, L141). A resposta está no cap. 43 (L105 a L111): Estruzzo herda o comando de Gaviorn'l, e Terbs e o Rei assinam a entrega das terras. Falta dizer que isso leva semanas.
