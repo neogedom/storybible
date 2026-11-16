@@ -120,4 +120,4 @@ Vonos trouxe **dois tipos de humanos**:
 - **Distância da Terra**: 2000 anos-luz é proposta, ainda não registrada como canon.
 - **Inclinação do eixo**: define as estações. Terrestre (~23°) ou outra?
 - **Duração do dia e do ano**: quantos dias de 24 horas por ano? Com o L1 de alguns meses, a virada para o inverno (caps. 49 e 61) cabe num ano de inclinação parecida com a da Terra.
-- **Órbita e período das duas luas**: afeta marés e a claridade noturna. O texto já tem as duas luas (caps. 5 e 13).
+- **Órbita e período das duas luas**: afeta marés e a claridade noturna. O texto já tem as duas luas (caps. 5 e 13). Nota de 2026-11-16: o texto as chama de "gêmeas" (prólogo, cap. 6) e "sobrepostas" (cap. 5); se elas andam na mesma fase ou em fases diferentes está em decisão do autor (ver `temas/cronologia-l1.md`, decisão pendente 2).

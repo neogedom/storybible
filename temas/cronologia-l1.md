@@ -68,10 +68,10 @@ As demais marcas de "semanas" cabem em quatro a cinco semanas: castelo ardeu "se
 - **A3 (média).** "Há três semanas" (49, L21) para o Tronk, que é de cerca de uma semana antes.
 - **A4 (média).** Lua crescente (43, Dia 30) e minguante (53 e 55, Dias 32 e 33); o rei fala em "lua cheia" (53, L17). Com duas luas pode ser uma de cada, mas o texto não diz.
 - **A5 (média).** Do outono (29, 35) ao inverno (49, 61) em cinco dias.
-- **A6 (média).** O final do cap. 59 (o cortejo) acontece depois do fim do Conselho (60). Ver [decisão da ordem dos caps. 47 e 48](/decisoes/2026-11-15-ordem-caps-47-48.md).
+- **A6 (média).** O final do cap. 59 (o cortejo) acontecia depois do fim do Conselho (60). **Resolvido em 2026-11-16:** os dois foram trocados. Ver [decisão da ordem dos caps. 47 e 48](/decisoes/2026-11-15-ordem-caps-47-48.md).
 - **A7 (baixa).** Cicatriz de Lakand "semanas antes" (43, L5), cerca de seis dias.
 - **A8 (baixa).** "Onze dias de estrada" (28, L149), mas Nolan chega à Mina em cerca de três (33).
-- **A9 (baixa).** Ultimato "ao amanhecer" (43, L131) e ataque antes do amanhecer (44, 45).
+- **A9 (baixa).** Ultimato "ao amanhecer" (43, L131) e ataque antes do amanhecer (44, 45). **Resolvido em 2026-11-16:** o ultimato passou a valer "antes que a horda chegue ao portão".
 - **A10 (baixa).** O epílogo mistura dois momentos sem marca de tempo; Kate sai do 64 com a clavícula quebrada.
 - **A11 (baixa).** Floresta "despida do outono" (prólogo, 6) no Dia 1 e "verde e sufocante" (13) no Dia 2.
 - **A12 (baixa).** Kraviam: "quarenta anos de ausência" (54, L27), "quase trinta anos" (54, L31) e diário do "início do século vinte e um" (52, L5).
@@ -170,8 +170,8 @@ Fora do cenário: o primeiro assentamento (cap. 23) não se estica, porque é o 
 
 O autor validou as sugestões da lista de alertas, e elas foram aplicadas ao texto (commit `07a0426` do livro):
 
-- **A4, luas:** Tristan é a crescente (cap. 43, L1: "a lua crescente de Tristan") e a que será cheia (cap. 53, L17: "sob a lua cheia de Tristan"); Nevëilla é a minguante (cap. 53, L67 e cap. 55, L3: "a lua minguante de Nevëilla"). Duas luas, duas fases.
-- **A9, ultimato:** cap. 44, L19, Kate: Estruzzo "adiantou o prazo: exige que você seja entregue vivo agora".
+- **A4, luas (em decisão do autor):** o texto hoje assume fases diferentes: Tristan crescente (cap. 43, L1) e a que será cheia (cap. 53, L17), Nevëilla minguante (cap. 53, L67 e cap. 55, L3). Ver a decisão pendente 2.
+- **A9, ultimato:** a primeira solução (Estruzzo "adiantou o prazo", cap. 44) não tinha motivo no texto e foi desfeita. Agora o cap. 43 (L131) diz "Entreguem o forasteiro vivo antes que a horda chegue ao portão", e a fala de Kate no cap. 44 voltou ao original (commits `7e57326`).
 - **A10, epílogo:** a cena de Kate abre com "Duas semanas depois, a centenas de quilômetros dali" (L33).
 - **A11, vegetação:** cap. 13, L1: "inferno verde" passa a "inferno úmido", para casar com as árvores despidas do outono do prólogo e do cap. 6.
 - **A12, Kraviam:** cap. 54, L27: Mário diz "Quase trinta anos de ausência", como o rei ("Faz quase trinta anos", L31). O diário do cap. 52 data o início do século XXI; se o autor quiser outro número, é só ajustar os dois.
@@ -179,12 +179,18 @@ O autor validou as sugestões da lista de alertas, e elas foram aplicadas ao tex
 - **Cap. 49:** L11, "A corte dispensou a bênção matinal" (antes, "O Conselho reuniu-se", que sugeria uma segunda reunião antes da assembleia extraordinária); L43, a "chuva miúda" virou "cerração fria", porque o livro não tem cena de chuva (log de 2026-11-13).
 - **A14, timeline da storybible:** a tabela do L1 em `temas/timeline.md` foi refeita a partir desta cronologia.
 
+## Decisões de ordem (2026-11-16)
+
+- **Cap. 51:** a ordem fica. "A neblina da madrugada" virou "A neblina da noite" (cap. 51, L3, commit `fbc4b28`), o que põe a entrada de Kate antes das cenas dos caps. 52 a 54 e tira o recuo. O sino da quarta vigília (cap. 55) segue sendo a quebra de vigilância do plano do cap. 46.
+- **Caps. 59 e 60:** trocados (commit `c8a7b4d`). Agora o Conselho termina no 59 e Kate vê o cortejo no 60. Nenhuma linha de prosa mudou.
+- Com os dois, a ordem de leitura não tem mais recuo no tempo.
+
 ## Decisões do autor pendentes
 
 1. **Duração do L1: decidida em 2026-11-16.** Cenário B, em sumários, aplicado ao texto (ver a decisão linkada no cenário B).
-2. **Fases das luas: resolvido em 2026-11-16** (Tristan crescente e cheia; Nevëilla minguante).
-3. **Ordem dos caps. 59 e 60.** Pendente. Recomendação: trocar os dois (ver [a decisão de 2026-11-15](/decisoes/2026-11-15-ordem-caps-47-48.md)).
-4. **Ordem do cap. 51 (Kate entra na Metrópole antes das cenas de 52 a 54).** Pendente. Recomendação: manter a ordem e trocar uma palavra (cap. 51, L3, "madrugada" por "noite"); a ordem estrita (52, 53, 54, 51, 55) continua possível. Ver a mesma decisão.
+2. **Fases das luas.** Em decisão do autor (2026-11-16). O prólogo e o cap. 6 dizem "luas gêmeas", o cap. 5 "duas luas sobrepostas", e o cap. 48 conta o mês pela lua ("na próxima lua"); o cap. 41 (Orval) fala de ciclos de "semanas e meses". Opção a: fases diferentes (o que o texto tem hoje). Opção b, recomendada: gêmeas na mesma fase, com um mês de cerca de 31 dias (cheia nos Dias 1 a 3, escura no Dia 17, no prazo de Kenod, minguante nos Dias 106 a 109, nova no Dia 111); só o "crescente" do cap. 43 destoa (vira "minguante") e os nomes que foram postos nas luas saem.
+3. **Ordem dos caps. 59 e 60: decidida em 2026-11-16** (trocados).
+4. **Ordem do cap. 51: decidida em 2026-11-16** (a ordem fica; "madrugada" virou "noite" no cap. 51).
 
 ## Conexões
 

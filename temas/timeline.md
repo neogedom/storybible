@@ -84,7 +84,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 | 48 | Nolan | Chegada | Dia 107 |
 | 49 | Nolan | Juleen | Dia 107 |
 | 50 | Mário | Portão Leste | Dia 107 |
-| 51 | Kate | Canais | Dia 108 |
+| 51 | Kate | Canais | Dia 107 |
 | 52 | Mário | Diário e Gunad | Dia 107 |
 | 53 | Nolan | Layla | Dia 107 |
 | 54 | Mário | O rei | Dia 107 a 108 |
@@ -92,8 +92,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 | 56 | Mário | Alvorada | Dia 108 |
 | 57 | Kate | Galeria | Dia 108 |
 | 58 | a confirmar | Conselho | Dia 108 |
-| 59 | Kate | Poço | Dia 108 |
-| 60 | Nolan | Conselho | Dia 108 |
+| 59 | Nolan | Conselho | Dia 108 |
+| 60 | Kate | Poço | Dia 108 |
 | 61 | Mário | O Garfo | Dia 108 |
 | 62 | a confirmar | Tablado | Dia 109 |
 | 63 | Mário | 24 horas | Dia 109 |

@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-16 (Ordens decididas: cap. 51 fica e caps. 59 e 60 trocados)
+
+- Decisões do autor: manter a ordem do cap. 51 e trocar "madrugada" por "noite" na L3 (commit `fbc4b28` do livro); trocar os caps. 59 e 60 (commit `c8a7b4d`). Atualizados `temas/esquema-l1.md` (linhas 59 e 60 trocaram POV e contagem), `temas/timeline.md`, `temas/cronologia-l1.md` e a decisão de 2026-11-15. Não há fichas de capítulo para o 51 nem para o 59 e o 60.
+- A9 refeito: a primeira solução (Estruzzo "adiantou o prazo") não tinha motivo no texto. O ultimato do cap. 43 passou a valer "antes que a horda chegue ao portão" e a fala de Kate no cap. 44 voltou ao original (commit `7e57326`).
+- Em decisão do autor: as fases das duas luas (mesma fase ou fases diferentes). Anotado em `temas/cronologia-l1.md` e em `conceitos/cosmologia.md`.
+
 ## 2026-11-16 (Sugestões da cronologia aplicadas; duas ordens em decisão)
 
 - O autor validou as sugestões da lista de alertas. Aplicadas ao livro (commit `07a0426`): luas nomeadas (A4), ultimato adiantado (A9), cena de Kate do epílogo datada (A10), "inferno úmido" no cap. 13 (A11), "quase trinta anos" no cap. 54 (A12), silos da cidade no cap. 58 (A13) e, no cap. 49, "A corte dispensou a bênção" e cerração no lugar da chuva. A tabela do L1 de `temas/timeline.md` foi refeita (A14). Detalhes em `temas/cronologia-l1.md`.

@@ -84,8 +84,8 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 56       | Noite Escura da Alma (inferido)     | Mário        | —                      | a recalcular         | 1.260    |
 | 57       | Noite Escura da Alma (inferido)     | Kate         | —                      | a recalcular         | 1.025    |
 | 58       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 1.115    |
-| 59       | Break Into 3 (inferido)             | Kate         | —                      | a recalcular         | 919      |
-| 60       | Break Into 3 (inferido)             | Nolan        | —                      | a recalcular         | 905      |
+| 59       | Break Into 3 (inferido)             | Nolan        | —                      | a recalcular         | 905      |
+| 60       | Break Into 3 (inferido)             | Kate         | —                      | a recalcular         | 919      |
 | 61       | Break Into 3 (inferido)             | Mário        | —                      | a recalcular         | 876      |
 | 62       | Break Into 3 (inferido)             | a confirmar  | —                      | a recalcular         | 759      |
 | 63       | Break Into 3 (inferido)             | Mário        | —                      | a recalcular         | 940      |
