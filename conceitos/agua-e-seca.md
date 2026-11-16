@@ -3,7 +3,7 @@ type: Concept
 title: Água e Seca
 description: Regra dura da água no L1 — a seca como relógio, a água como informação e poder, o custo em carne e a água que cobra na cicatriz dos Moribundos.
 tags: [conceito, L1, seca, agua, sobrevivencia, relogio, moribundos]
-timestamp: 2026-09-20T12:00:00-03:00
+timestamp: 2026-11-16T12:00:00-03:00
 ---
 
 # Água e Seca
@@ -284,6 +284,7 @@ Variantes disponíveis:
   moeda que mantém os vivos de pé. Liga ao L2 com Mesmia como **rival pela
   água**, não como argumento.
 - ⚠️ **Não fechar sem o autor:** a cena carrega o primeiro "Javé" do livro.
+- **Os três batismos seguintes (sumário do cap. 36, 2026-11-16):** o poço continua quase seco e cada batismo sai do punhado que o convertido tira da própria cabaça, como no cap. 34. O autor recusou uma nascente achada por Lakand ("dentro do cenário de seca, faz sentido Lakand achar água assim?"): Lakand não acha água na faixa seca (caps. 29 a 31) e uma fonte nova tira o custo do gesto. O abastecimento do assentamento é o do cap. 34: a ração do dia e a carroça de água que vende copos a preço de cobre.
 
 ## 7. Guardrails
 

@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-16 (Segunda rodada de comentários do PR #16)
+
+- O autor comentou o cap. 36 (L1) e o cap. 49 (L43). **Água:** "Dentro do cenário de seca que descrevemos na fase Fun and Games do livro, faz sentido Lakand achar água assim?" Não faz: a nascente farejada por Lakand desfazia a escassez, repetia o que ele não conseguiu nos caps. 29 a 31 e tirava o custo do batismo. O sumário voltou ao cap. 34: poço quase seco e batismo com o punhado da ração de cada convertido (commit `2713953` do livro). Registrado em `conceitos/agua-e-seca.md`, `capitulos/capitulo-36.md` e `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`. **Vocabulário:** "O que é lixívia?" Saiu dos caps. 49, 51 e 60 (commit `d625413`).
+- O PR #3 do storybible foi mesclado na `main` pelo autor e a branch recomeçou da `main`. Esta rodada vai num PR novo.
+
 ## 2026-11-16 (Luas: o mês de 32 dias entra na fala de Orval)
 
 - O autor aceitou "olhos meio fechados" no cap. 16 (L195, commit `4ceb99d` do livro) e pediu que a fala de Orval não soasse a infodump. No cap. 41 (L81, commit `7d03ae3`), a fala tem o mesmo tamanho: "semanas e meses" virou "trinta e dois dias", sem frase nova e sem explicar que as luas são um par. O número entra como evidência da "ordem regular" que Orval defende. Um parágrafo curto de Mário depois da fala (aro de bronze, "Na Terra, a lua voltava em vinte e nove dias e meio") deixa a diferença no gesto, e a fala seguinte dele muda de assunto, como no L69 ("quis mencionar... mas preferiu que outro dissesse").
