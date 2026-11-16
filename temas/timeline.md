@@ -1,9 +1,9 @@
 ---
 type: Theme
 title: Timeline de Ornick
-description: Linha do tempo dos eventos, anterior e durante a narrativa. Referência para coerência cronológica.
+description: Linha do tempo dos eventos anteriores à narrativa e notas de estação. A cronologia do Livro 1 (dia de cada capítulo) está em cronologia-l1.
 tags: [tema, timeline, cronologia]
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-16T12:00:00-03:00
 ---
 
 # Timeline de Ornick
@@ -27,83 +27,12 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Instituição da Segregação                                                                                          | Idealizada por Nolan; implementada por Genocydo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Casamento Nolan + Dagmar                                                                                           | Filha de Valinor Addorbek                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-## Livro 1 — Timeline
+## Livro 1 — Cronologia
 
-> **Atualizada em 2026-11-16:** a tabela do L1 foi refeita a partir de [Cronologia do Livro 1](/temas/cronologia-l1.md), com os títulos de `temas/cronologia-l1.md` e os dias do texto depois da extensão para cerca de 110 dias (ver [a decisão](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md)). A versão antiga estava deslocada (linhas 24 a 29, depois do corte do antigo cap. 24) e parava no cap. 29. O número do Dia é estimado pelas âncoras do texto, não é canon fixado.
-
-| Cap. | POV | Título | Dia (texto de 2026-11-16) |
-| ---- | --- | ------ | ------------------------- |
-| Prólogo | Nolan e Kate | Sinal falha | Dia 1 |
-| 1 | Mário | O Sonho | Terra (o sequestro coincide com a noite do Dia 1) |
-| 2 | Mário | O Inquérito | Terra (o sequestro coincide com a noite do Dia 1) |
-| 3 | Mário | A Travessia | Terra (o sequestro coincide com a noite do Dia 1) |
-| 4 | Nolan | Conspiração | Dia 1 |
-| 5 | Mário | Opium | Dia 1 a 2 |
-| 6 | Kate | A Selvagem | Dia 1 a 2 |
-| 7 | Nolan | O Jogo | Dia 2 |
-| 8 | Mário | Lordes Defuntos | Dia 2 |
-| 9 | Kate | A Caverna | Dia 2 |
-| 10 | Nolan | Diário Perdido | Dia 3 |
-| 11 | Mário | A Carga | Dia 2 |
-| 12 | Kate | Os Nômades | Dia 3 |
-| 13 | Mário | A Jaula | Dia 2 a 16 |
-| 14 | Nolan | Sala Secreta | Dia 16 |
-| 15 | Kate | O Encontro | Dia 16 |
-| 16 | Mário | A Queda | Dia 16 a 17 |
-| 17 | Nolan | A Travessia | Dia 17 a 19 |
-| 18 | Kate | Devour | Dia 16 a 17 |
-| 19 | Nolan | Dagmar morre | Dia 19 a 22 |
-| 20 | Kate | O milagre | Dia 22 |
-| 21 | Mário | Castelo em chamas | Dia 22 a 23 |
-| 22 | Nolan | A pira | Dia 22 a 23 |
-| 23 | Kate | Assentamento | Dia 23 a 30 |
-| 24 | Mário | Feira de Tronk | Dia 31 a 32 |
-| 25 | Kate | Estrada norte | Dia 33 |
-| 26 | Mário | Fuga e caverna | Dia 34 |
-| 27 | Kate | Cerco da caverna | Dia 34 a 35 |
-| 28 | Nolan | Edital e Tronk | Dia 35 a 37 |
-| 29 | Mário | Sem água | Dia 35 a 36 |
-| 30 | Kate | A outra metade | Dia 35 a 36 |
-| 31 | Mário | Uma Noite | Dia 36 a 37 |
-| 32 | Kate | A Estrada e a Mentira | Dia 37 a 39 |
-| 33 | Nolan | A Mina como lugar | Dia 38 a 39 |
-| 34 | Mário | Assentamento e batismo | Dia 39 |
-| 35 | Kate | Batismo de sangue | Dia 39 a 40 |
-| 36 | Mário | O ensaio | Dia 61 |
-| 37 | Mário | A Mina | Dia 61 |
-| 38 | Kate | Galeria de serviço | Dia 61 |
-| 39 | Mário | A Fenda | Dia 61 a 62 |
-| 40 | Nolan | A Ruína | Dia 61 a 62 |
-| 41 | Mário | Cátedra dos Proscritos | Dia 63 |
-| 42 | Nolan | Rastro e disfarce | Dia 105 |
-| 43 | Kate | Rastro da Deusa | Dia 105 a 106 |
-| 44 | Mário | Preço da Cidade | Dia 106 |
-| 45 | Kate | Cinza de Gus | Dia 106 |
-| 46 | Kate | Sala de Traçagem | Dia 106 |
-| 47 | Mário | Marcha dos Clãs | Dia 106 |
-| 48 | Nolan | Chegada | Dia 107 |
-| 49 | Nolan | Juleen | Dia 107 |
-| 50 | Mário | Portão Leste | Dia 107 |
-| 51 | Kate | Canais | Dia 107 |
-| 52 | Mário | Diário e Gunad | Dia 107 |
-| 53 | Nolan | Layla | Dia 107 |
-| 54 | Mário | O rei | Dia 107 a 108 |
-| 55 | Kate | Cisterna | Dia 108 |
-| 56 | Mário | Alvorada | Dia 108 |
-| 57 | Kate | Galeria | Dia 108 |
-| 58 | a confirmar | Conselho | Dia 108 |
-| 59 | Nolan | Conselho | Dia 108 |
-| 60 | Kate | Poço | Dia 108 |
-| 61 | Mário | O Garfo | Dia 108 |
-| 62 | a confirmar | Tablado | Dia 109 |
-| 63 | Mário | 24 horas | Dia 109 |
-| 64 | a confirmar | O estrado | Dia 109 |
-| 65 | Nolan | Invasão | Dia 109 |
-| 66 | Mário | Campeão | Dia 109 |
-| Epílogo | Nolan e Kate | Epílogo | depois do Dia 110 |
+A cronologia do L1 (o dia de cada capítulo, as durações, os alertas de consistência e as decisões de tempo) fica em [Cronologia do Livro 1](/temas/cronologia-l1.md), na seção "Dia de cada capítulo". A versão interativa, com raias por PoV, é o arquivo único [cronologia-l1.html](/temas/cronologia-l1.html). Esta página guarda a história do mundo antes da narrativa e as notas de estação. O Dia 1 é a noite do prólogo, e o Dia do texto é estimado pelas âncoras, não é canon fixado.
 
 **Estação:** o Livro 1 corre no **outono**, encostando no fim do verão seco (canon 2026-09-20; caso do cap. 28, "as pernas que tinham dormido no frio"). A estiagem é geográfica — **faixa seca na subida da Mina** —, não geral; ver `conceitos/agua-e-seca.md`.
 
 **Virada para o inverno no fim do L1 (texto):** a estação muda perto do fim do livro. Cap. 49: "luz fosca de uma tarde de inverno cinzento"; cap. 61: "sol de inverno". Confirmar com o autor o capítulo da virada e a duração do L1, que definem o ano do planeta (ver `conceitos/cosmologia.md`). Com a extensão de 2026-11-16, o outono do cap. 35 (Dia 40) fica a dez semanas do inverno do cap. 49 (Dia 108); a virada acontece entre os dois, sem marca no texto.
 
-_Timeline parcial — expandir a cada INGEST de capítulo._
+_A tabela do L1 mora em `temas/cronologia-l1.md`; o INGEST de cada capítulo atualiza ali o Dia do capítulo._
