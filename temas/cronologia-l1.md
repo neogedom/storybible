@@ -4,7 +4,7 @@ title: Cronologia do Livro 1 (estimada pelas âncoras)
 description: Dia a dia do L1, do prólogo ao epílogo, encadeado a partir das âncoras de tempo do texto e das fichas; registra as durações declaradas que não fecham, os alertas de consistência temporal e dois cenários de tempo (A e B) que levam a história a cerca de três meses.
 tags: [tema, timeline, cronologia, L1, consistencia]
 resource: https://github.com/neogedom/storybible/blob/main/temas/cronologia-l1.md
-timestamp: 2026-11-15T23:50:00-03:00
+timestamp: 2026-11-16T09:30:00-03:00
 ---
 
 # Cronologia do Livro 1 (estimada pelas âncoras)
@@ -121,9 +121,11 @@ Pergunta do autor: dá para a história levar meses, como o cap. 48 declara, e r
 
 **Alternativa barata, sem esticar:** trocar "três meses" e "meses antes" no cap. 48 (L65 e L3) e "três semanas" no cap. 49 (L21), mais as duas frases do cap. 48 (L25 e L31). Cerca de seis edições, e a estação continua pedindo as duas trocas de "outono".
 
-## Cenário B: estadias maiores (proposta de 2026-11-15, não aplicada)
+## Cenário B: estadias maiores, em sumários (proposta de 2026-11-15, não aplicada)
 
 Ideia do autor: esticar o tempo com estadias maiores nos assentamentos e na Cidadela, com Mário pregando mais, e com mais dias dele entre os lobisomens de Charles, para dar mais afeição entre eles. Isso corrige o cenário A: o tempo também pode ser esticado depois da queda da Mina, desde que Nolan fique fora das muralhas de Gus até a véspera do ataque.
+
+**Decisão do autor (2026-11-16): sem capítulos novos.** As esticadas de tempo passam em narrativa de sumário, dentro dos capítulos existentes (seis sumários, cerca de 800 palavras no total, listados abaixo).
 
 Três estadias, +75 dias; o livro vai a cerca de 110 dias:
 
@@ -144,35 +146,36 @@ Fora do cenário: o primeiro assentamento (cap. 23) não se estica, porque é o 
 | Da queda da Mina ao cap. 48 | 4 dias | 4 dias | 46 dias |
 | Alertas resolvidos | nenhum | A1, A3, A5, A7, A8 | A1, A2, A3, A5, A7, A8 |
 | Costuras no texto | 0 | 14 | 15 |
-| Cenas novas | 0 | 0 | 3 |
+| Sumários novos | 0 | 0 | 6 (cerca de 800 palavras) |
 | Palavras por dia, caps. 23 a 46 | 2.747 | 892 | 667 |
 | Final contra a média dos 43 primeiros capítulos | 2,1 vezes | 6,7 vezes | 7,6 vezes |
 
-**Costuras no texto (15):**
+**Costuras no texto (16, seis delas com sumário):**
 
 1. Cap. 13, L153: Decian passa a dizer "Em seis dias o sangramento para. Em doze, cicatriza o suficiente...".
-2. Cap. 13, L167: "O sol nasceu e se pôs pela segunda vez" passa a "Os dias se repetiram, um igual ao outro."
-3. Cap. 13, L225: "Na terceira noite" passa a "Na última noite antes de as duas luas escurecerem".
-4. Cap. 33, L199: uma frase sobre as semanas de espera de Nolan.
-5. Cap. 34, L99: "Amanhã subimos" passa a "Subimos quando o grupo estiver pronto".
-6. Cap. 36, L1: abrir com "Três semanas depois,".
-7. Cap. 40, L65: duas frases: a Cidadela fechou os portões a quem vem da capital; Nolan espera no arraial pela primeira caravana e pela resposta das cartas.
-8. Cap. 42, L1: "Na manhã seguinte" passa a "Seis semanas depois".
-9. Cap. 42, L63: "semanas antes" passa a "meses antes".
-10. Cap. 42, L99: a notícia do desabamento "já devia ter alcançado a capital, e nenhuma das suas cartas fora respondida".
-11. Cap. 43, L7: "um quarto limpo para eles desde a chegada".
-12. Cap. 44, L7, L21 e L125: "mãos enfaixadas" passa a "mãos cicatrizadas" (os cortes de quartzo do cap. 41, L3, fecham em seis semanas).
-13. Cap. 44, L41: "os dois que o encontraram na Mina" ganha "seis semanas antes".
-14. Cap. 44, L81: "horas antes" passa a "Tudo aquilo era a sua vida havia seis semanas".
-15. Cap. 49, L21: "há três semanas" passa a "há dez semanas".
+2. Cap. 13, L167: "O sol nasceu e se pôs pela segunda vez" vira um sumário de cerca de 120 palavras (a rotina da jaula na primeira semana, o curativo de Decian, o prazo de Kenod correndo).
+3. Cap. 13, depois da L223: sumário de cerca de 100 palavras com os dias seguintes à dúvida de Lakand, o que ele deixa de fazer e o que isso lhe custa na alcateia.
+4. Cap. 13, L225: "Na terceira noite" passa a "Na última noite antes de as duas luas escurecerem".
+5. Cap. 33, L199: uma frase sobre as semanas de espera de Nolan.
+6. Cap. 34, L99: "Amanhã subimos" passa a "Subimos quando o grupo estiver pronto".
+7. Cap. 36, L1: abrir com um sumário de cerca de 200 palavras (três semanas nos Moribundos, sermões e batismos, a coluna de cinco para quarenta, Kate ensinando a andar e a calar).
+8. Cap. 40, L65: uma frase: a Cidadela fechou os portões a quem vem da capital.
+9. Cap. 42, L1: abrir com um sumário de cerca de 120 palavras (seis semanas no arraial, cartas sem resposta, a primeira caravana) e seguir com "Na manhã da caravana,".
+10. Cap. 42, L63: "semanas antes" passa a "meses antes".
+11. Cap. 42, L99: a notícia do desabamento "já devia ter alcançado a capital, e nenhuma das suas cartas fora respondida".
+12. Cap. 43, L7 a L9: "um quarto limpo para eles desde a chegada" e cerca de 100 palavras de sumário com as seis semanas de Kate (Mário na Academia, Lakand na estrebaria, Decian entre humanos, a frieza que não esfria).
+13. Cap. 44, L7, L21 e L125: "mãos enfaixadas" passa a "mãos cicatrizadas" (os cortes de quartzo do cap. 41, L3, fecham em seis semanas).
+14. Cap. 44, L41: "os dois que o encontraram na Mina" ganha "seis semanas antes".
+15. Cap. 44, L81: "horas antes" passa a "Tudo aquilo era a sua vida havia seis semanas", seguido de um sumário de cerca de 120 palavras da cátedra (as aulas, os doentes da carpintaria, as conversas com Orval).
+16. Cap. 49, L21: "há três semanas" passa a "há dez semanas".
 
-**Material novo que as estadias pedem:** (1) cap. 13: mais noites com Lakand e Decian, onde nasce a afeição que os põe ao lado de Mário no cadafalso do cap. 66; (2) caps. 34 a 36: Mário prega de verdade e a coluna cresce de cinco para quarenta; (3) entre os caps. 41 e 42: Mário aceita a cátedra de Orval, dá aulas e cuida dos doentes da carpintaria.
+**Como ler os sumários:** nenhum é cena. O cap. 23 já conta o tempo assim ("No segundo dia… No sétimo dia", L7 a L91), e o parágrafo da "vitrine" do cap. 13 (L167) também. A afeição com Lakand e Decian (cap. 13) e o peso da cátedra (cap. 44, L81) precisam chegar por gesto concreto e por preço, sem lição no fim, ou o cadafalso do cap. 66 e a entrega do cap. 44 não cobram nada.
 
-**Pontos novos:** (1) por que Inquiridores e Clãs não chegam em onze semanas a mais, com a frequência do Souhma "conhecida" (cap. 27, L141); a resposta está no cap. 43 (L105 a L111), onde Estruzzo herda o comando de Gaviorn'l e Terbs e o Rei assinam a entrega das terras, e só falta dizer que isso leva semanas; (2) água e comida nos Moribundos por três semanas, sem milagre (cap. 34, L47); (3) Nolan fora de Gus por seis semanas: razão, abrigo e dinheiro para Mira, Saboc, Mathias e Ossan (caps. 40 e 42); (4) a frieza entre Kate e Mário no cap. 43 (L7 a L9) nasce no dia da Mina e precisa esfriar ou piorar em seis semanas; (5) o ombro de Mário, que no cap. 23 (L25) "ainda não tinha fechado" e agora tem três semanas; (6) luas: o prazo de Kenod e as "duas luas pairando baixas" da fuga (cap. 16, L195) combinam com crescentes finas na véspera, mas A4 segue; (7) Nolan sai "na manhã seguinte" com um recém-nascido (cap. 22, L141), o que o B não resolve; (8) ritmo: o final fica 7,6 vezes mais denso que a média dos 43 primeiros capítulos, e as cenas novas diminuem a distância.
+**Pontos novos:** (1) por que Inquiridores e Clãs não chegam em onze semanas a mais, com a frequência do Souhma "conhecida" (cap. 27, L141); a resposta está no cap. 43 (L105 a L111), onde Estruzzo herda o comando de Gaviorn'l e Terbs e o Rei assinam a entrega das terras, e só falta dizer que isso leva semanas; (2) água e comida nos Moribundos por três semanas, sem milagre (cap. 34, L47); (3) Nolan fora de Gus por seis semanas: razão, abrigo e dinheiro para Mira, Saboc, Mathias e Ossan (caps. 40 e 42); (4) a frieza entre Kate e Mário no cap. 43 (L7 a L9) nasce no dia da Mina e precisa esfriar ou piorar em seis semanas; (5) o ombro de Mário, que no cap. 23 (L25) "ainda não tinha fechado" e agora tem três semanas; (6) luas: o prazo de Kenod e as "duas luas pairando baixas" da fuga (cap. 16, L195) combinam com crescentes finas na véspera, mas A4 segue; (7) Nolan sai "na manhã seguinte" com um recém-nascido (cap. 22, L141), o que o B não resolve; (8) sumário que explica demais: precisa de gesto concreto e de preço, sem lição (alertas de voz do guardrail); (9) ritmo: o miolo fica em cerca de 700 palavras por dia (os sumários somam cerca de 800 palavras e quase não mudam a razão) e o final fica 7,6 vezes mais denso que a média dos 43 primeiros capítulos; com sumários, o contraste vira estrutura: três meses resumidos e três dias em cena.
 
 ## Decisões do autor pendentes
 
-1. **Duração do L1.** Manter cerca de cinco semanas e ajustar as frases do 48 e do 49; esticar a história com as duas costuras do cenário A; ou com as três estadias do cenário B, que resolve A2 pelo tempo e pede cenas novas.
+1. **Duração do L1.** Manter cerca de cinco semanas e ajustar as frases do 48 e do 49; esticar a história com as duas costuras do cenário A; ou com as três estadias do cenário B, em sumários e sem capítulos novos, que resolve A2 pelo tempo.
 2. **Fases das luas.** Nomear qual lua está crescente e qual está minguante, ou alinhar os caps. 43, 53 e 55.
 3. **Ordem dos caps. 59 e 60.** Já descrita na decisão linkada acima.
 

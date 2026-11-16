@@ -1,5 +1,9 @@
 # Log de Atualizações
 
+## 2026-11-16 (Cenário B em sumários, sem capítulos novos)
+
+- Decisão do autor: não haverá capítulos novos; as esticadas de tempo do cenário B (lobisomens, Moribundos, Gus) passam em narrativa de sumário dentro dos capítulos existentes. Atualizado `temas/cronologia-l1.md`: 16 costuras, seis delas com sumário (caps. 13 duas vezes, 36, 42, 43 e 44; cerca de 800 palavras no total), no lugar das três cenas novas. A página "Cronologia do Livro 1" reflete a mudança. Nada aplicado ao livro.
+
 ## 2026-11-15 (Cenário B: estadias maiores)
 
 - Ideia do autor: esticar o tempo com estadias maiores nos assentamentos e na Cidadela e com mais dias de Mário entre os lobisomens de Charles (mais afeição). Registrado em `temas/cronologia-l1.md` o cenário B (+12 dias no cap. 13, +21 nos Moribundos, +42 em Gus; cerca de 110 dias), com 15 costuras, três blocos de cenas novas e pontos novos. Proposta, nada aplicado ao livro.
