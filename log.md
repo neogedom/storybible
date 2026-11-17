@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-17 (Gunad largou a casa do pai antes de Mário chegar)
+
+- Decisão do autor: a "abdicação" de Gunad (largar a casa e os títulos do pai, cap. 52) foi antes de Mário chegar a Ornick. Registrada como decisão 5 em `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`, nos dois insights do Ato 3 e em `personagens/gunad.md` (fato de passado). O cap. 7 não contradiz: Nolan pergunta por Gunad porque é o único da casa que não é "silencioso e submisso".
+- Em aberto: por que ele largou a casa (sugestão: o motivo que ele dá é a casa do pai, mas no fundo não sabe dizer por quê), onde cai o reconhecimento de Mário e quanto tempo antes Kraviam chegou.
+
 ## 2026-11-17 (Mecanismo do hino confirmado)
 
 - O autor confirmou o mecanismo: Gunad ouve Mário cantar pela porta, aprende o hino na cela, jura cantá-lo na praça e verte os versos para o ornickenho na madrugada. Registrado como decisão 4 em `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md` e nos dois insights do Ato 3. Os trechos dos caps. 52 e 63 só entram no rascunho quando o autor pedir.

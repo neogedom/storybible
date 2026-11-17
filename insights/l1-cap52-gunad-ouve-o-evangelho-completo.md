@@ -5,7 +5,7 @@ description: No cap. 52, Gunad deixa de visitar a cela por curiosidade política
 tags: [insight, L1, cap-52, cap-63, gunad, mario, evangelho, conversao, hino, pecado, traducao, L2]
 destino: checkpoint de bloco (caps. 52 e 63 ainda não revisados); L2 (amizade e evangelismo de Gunad)
 status: em desenvolvimento; semáforo amarelo; decididos pelo autor (Gunad convertido; hino aprendido antes de cantar; mecanismo do hino confirmado)
-timestamp: 2026-11-17T21:00:00-03:00
+timestamp: 2026-11-17T22:00:00-03:00
 ---
 
 # Gunad procura Mário, converte-se e aprende o hino (cap. 52)
@@ -86,6 +86,7 @@ A pregação de Tronk (cap. 25) já anunciou a substituição pela ponte da dív
 
 - **Mário fala como o primeiro dos culpados**, não como mestre: o capítulo já o pôs de joelhos.
 - **Gunad é o convertido na cena (decisão do autor, 2026-11-17).** Sem rito de conversão e sem oração em fórmula: o sinal é o que ele pede (o livro, a canção) e o que faz (cantar na praça). Conversão é obra de Deus: Mário não a produz, e a cena não deve parecer resultado do argumento dele (é o eco do Ato 3: não é a teologia que decide).
+- **Gunad largou a casa e os títulos do pai antes de Mário chegar a Ornick (decisão do autor, 2026-11-17).** O "já abdicou dos títulos" que ele diz no começo do capítulo fica como está; uma fala curta na conversa basta para Mário (e o leitor) perceberem que isso veio antes dele, sem explicar o porquê.
 - **A canção não vira prova nem truque.** Ela abre a porta, mas quem converte é Deus; nada de a música "mover" Gunad por efeito, e a cena não termina na música.
 - **Gunad não lê português.** O livro preto está na língua da Terra; o pedido dele pelo texto numa língua que possa ler é a primeira demanda humana pelo projeto de tradução (que no cap. 41 nasceu de Mário e Orval). Semente para o status quo de Mário no L2.
 - **Ponte da dívida como idioma**, conforme a decisão de Tronk, mas agora com o nome do pecado dito e a ressurreição explícita.

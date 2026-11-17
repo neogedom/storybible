@@ -3,7 +3,7 @@ type: Character
 title: Gunad Deltëra
 description: Músico de rua, primogênito dos Deltëra que abdicou. Líder do Remanescente no L2.
 tags: [personagem, remanescente, musico, L1, L2]
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-17T22:00:00-03:00
 ---
 
 # Gunad Deltëra
@@ -23,6 +23,9 @@ conquista poder, Gunad canta nos becos. O contraste é a tese central do L2.
 
 ## Arco
 
+- **Antes do L1 (decisão do autor, 2026-11-17)**: abdicou da primogenitura, isto
+  é, largou a casa e os títulos do pai antes de Mário chegar a Ornick, e passou
+  a viver como músico de rua nos becos de Gerikhad. O porquê segue em aberto.
 - **L1**: Mencionado por Koda (cap. 7) — "Gunad não está."
 - **L2**: Vive anônimo → perseguidos o procuram → Nolan descobre →
   Koda intercede → lidera rede de esconderijos → sobrevive → vê Mário
