@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-17 (Adendo: o ritual dos rampillas era costumeiro)
+
+- Decisão do autor: a noite do Prólogo não é "a noite de criação dos rampillas"; o ritual da semente já era costumeiro em Devour e Kate interrompeu um entre muitos. Corrige a entrada abaixo, que usava essa expressão no cap. 45.
+- Livro: cap. 45, linha 53, passa a "desde a noite em que interrompera um ritual de Devour, em Saramant"; cap. 30, linha 175, passa de "E diferente da noite de criação dos rampillas" para "E diferente daquela noite em Saramant" (frase do autor; reversível se preferir outra forma).
+- Storybible: regra nova em `conceitos/rampillas.md` ("Criação"), adendo em `decisoes/2026-11-17-brasa-de-kate-comeca-na-falha-do-sinal.md` e ajuste da linha da fome em `capitulos/capitulo-30.md`.
+
 ## 2026-11-17 (A brasa de Kate começa só quando o Sinal falha)
 
 - Decisão do autor: a brasa nasce na falha do Sinal (Prólogo); nenhuma menção pode situá-la antes. Registrada em `decisoes/2026-11-17-brasa-de-kate-comeca-na-falha-do-sinal.md` e na regra nova de `conceitos/hicse.md`.
