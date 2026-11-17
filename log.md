@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-11-17 (Ideias do autor: fecho do L1, Gunad no cap. 52 e status quo de abertura do L2)
+
+- Capturadas e avaliadas cinco ideias do autor em `insights/_inbox.md`, com desenvolvimento em três insights: `l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md`, `l1-cap52-gunad-ouve-o-evangelho-completo.md` e `l2-status-quo-de-abertura-gunad-lakand-mario.md`.
+- Semáforo: as duas de L1 (epílogo e cap. 52) são amarelas e entram na pauta do checkpoint de bloco, porque os capítulos ainda não foram revisados; as três de L2 têm destino L2. Nenhuma é vermelha; o epílogo carrega alerta de Risco 4.
+- Nada alterado em capítulos, `temas/esquema-l1.md`, `temas/esquema-l2.md` ou fichas de personagens. Acrescentada uma conexão em `insights/povs-l2-gunad-lakand-koda.md`.
+- Achado colateral: a abertura do epílogo ainda descreve o Sinal como morto, opaco e silenciado, vocabulário que a decisão de 2026-09-05 corrigiu nos outros capítulos. Alinhar na revisão do epílogo.
+- Pendência registrada: os "12 anos" do L2 são o intervalo depois do L1 ou a duração do L2?
+
 ## 2026-11-13 (Correções do teste 2 no cap. 46)
 
 - Decisão do autor: Kate pode saber o nome de Ossan (cap. 46, linha 1 mantida).

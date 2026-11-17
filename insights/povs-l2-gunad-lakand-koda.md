@@ -99,3 +99,6 @@ Insight estrutural para desenvolvimento do L2. Não alterar ainda
 - [Lakand](../personagens/lakand.md) — recrutador da Hoste e candidato a POV.
 - [Esquema do L2](../temas/esquema-l2.md) — não atualizado; revisar no
   planejamento do L2.
+- [Status quo de abertura do L2](l2-status-quo-de-abertura-gunad-lakand-mario.md)
+  — onde cada linha começa (notas de 2026-11-17); inclui a pista de Koda e
+  Joachin nas viagens de evangelismo de Gunad.
