@@ -1,6 +1,6 @@
 # Voz — Kate
 
-**Papel e POV**: POV recorrente (batedora de Saramant, recrutadora e líder da ação na Mina). A brasa (Hícse) desperta nela quando mata por ordem sua.
+**Papel e POV**: POV recorrente (batedora de Saramant, recrutadora e líder da ação na Mina). A brasa (Hícse) começa na noite do Prólogo, com a falha do Sinal, e sobe quando ela vê alguém matar por ordem sua.
 
 ## Filtro de POV
 

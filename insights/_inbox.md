@@ -263,3 +263,77 @@
 - **Capítulos afetados**: 46 (fala de Lakand), 47 (linha 1), 45, 48, 50, 51 e 53 conferidos sem mudança.
 - **Status**: aceita pelo autor e aplicada em 2026-11-14. Mapa em `lugares/mapa-cran-metropole.svg`.
 - **Destino**: fechado. Registrado em `lugares/metropole.md`, `lugares/cidadela-de-gus.md`, `conceitos/clas-de-sangue.md` e `personagens/elysia.md`; decisão em `decisoes/2026-11-14-geografia-cran-clas-metropole.md`.
+
+### 2026-11-17: L1 fecha com Orval e Piet Brö (o Sinal e o Está Consumado)
+
+- **Data**: 2026-11-17
+- **Ideia (uma linha)**: O epílogo termina com Orval e Piet Brö conversando sobre astronomia; Orval conta que Mário vem de outro planeta, Piet liga isso à observação da noite em que o Sinal falhou e conclui que algo ocorrido no mundo de Mário (o Está Consumado de Cristo) viajou pelo espaço e afetou o Sinal. Resolve a distância de 12 anos entre a observação e o L2.
+- **Capítulos afetados**: epílogo (não revisado); L2 (Piet e a Soteriologia Cósmica).
+- **Status**: em desenvolvimento
+- **Destino**: checkpoint de bloco (epílogo ainda não revisado); depois L2
+- **Desenvolvimento**: [l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md](l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md). Alerta de Risco 4 (tema claro cedo demais); a cena muda o último gesto do L1 e quebra o espelho "Guerra." do prólogo.
+- **Relação com o cânone**: `conceitos/sinal-de-vonos.md` (2026-09-05); `conceitos/cosmologia.md` (o Está Consumado opera na imagem redimida que Mário carrega; distância da Terra pendente); `capitulos/capitulo-07.md` (Piet e as luas azuis); `temas/esquema-l2.md` (Jogos).
+
+### 2026-11-17: Gunad procura Mário e ouve o evangelho completo (cap. 52)
+
+- **Data**: 2026-11-17
+- **Ideia (uma linha)**: No L1, Gunad é o primeiro a ir até Mário interessado em saber sobre o Deus dele e a ouvir o evangelho completo. Hoje, no cap. 52, ele vai só ver quem é o homem, e Mário não prega.
+- **Capítulos afetados**: cap. 52 (principal); cap. 63 (a origem do hino); L2 (amizade com Mário).
+- **Status**: em desenvolvimento
+- **Decidido (2026-11-17)**: Gunad é o convertido na cena e conhece o hino antes de cantá-lo no cap. 63. Mecanismo confirmado (ouve Mário cantar pela porta, aprende na cela, jura cantar na praça). Ver `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`.
+- **Destino**: checkpoint de bloco (cap. 52 ainda não revisado)
+- **Desenvolvimento**: [l1-cap52-gunad-ouve-o-evangelho-completo.md](l1-cap52-gunad-ouve-o-evangelho-completo.md). Tronk já anunciou a substituição com a ressurreição só implícita; "completo" aqui é pecado nomeado, Cruz e ressurreição explícitos a quem pergunta.
+- **Relação com o cânone**: `decisoes/traducao-substituicao-penal-ponte-divida.md`; `personagens/gunad.md`.
+
+### 2026-11-17: L2, Gunad evangelista do Reino e a pista de Koda e Joachin
+
+- **Data**: 2026-11-17
+- **Ideia (uma linha)**: No começo do L2 Gunad faz evangelismo pelo Reino (Mário, Rei, tem outras atribuições), com amizade profunda com Mário; numa dessas viagens encontra pistas do pai e do irmão em Alavria, que o põem na rota para lá.
+- **Capítulos afetados**: L2 (abertura e meio).
+- **Status**: capturada; parte decidida pelo autor (comentário de review, 2026-11-17)
+- **Destino**: L2
+- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Muda "vive anônimo" e "emerge nos becos" (os becos passam a ser escolha). Decidido pelo autor (2026-11-17): só parte quando surge uma pista muito promissora, e isso só depois dos 12 anos; a pista pode vir depois de o grupo dos primeiros cristãos existir, e o grupo só é um remanescente depois, até com Gunad longe (conversa do mesmo dia). Decidido no mesmo dia: a igreja é tutelada, na ausência dele, por Decian ou por algum convertido, e "remanescente" é substantivo do narrador, não nome dado em Ornick. Decididos depois: Gunad parte no começo do L2 e volta por volta do Jogos (o "emerge nos becos cantando" é o retorno); a pista é alguém de Alavria que reconhece o sobrenome Deltëra, possivelmente num culto da igreja de Gunad. Em aberto: quem é essa pessoa, por que está no culto e o que sabe.
+- **Relação com o cânone**: `insights/povs-l2-gunad-lakand-koda.md`; `personagens/koda.md`; `temas/arcos-por-livro.md`.
+
+### 2026-11-17: L2, Lakand e Decian formam alcateia própria contra Charles
+
+- **Data**: 2026-11-17
+- **Ideia (uma linha)**: No começo do L2, Lakand e Decian reúnem lobisomens para se opor à liderança de Charles e criam a própria alcateia.
+- **Capítulos afetados**: L2 (abertura; recrutamento da Hoste).
+- **Status**: capturada; racha com Decian decidido pelo autor (dentro dos 12 anos, 2026-11-17)
+- **Destino**: L2
+- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Divide os lobisomens em dois lados da guerra; Decian precisa sair antes do recrutamento da Hoste (o cânone o manda buscar Gunad e Lupe'i). Não repete a ideia rejeitada de 2026-09-12. O autor deu a causa do racha com Decian (2026-11-17, comentário de review): a atuação de Decian pela expulsão dos cultos aos outros deuses. Decidido em conversa no mesmo dia: o racha cai dentro dos 12 anos; no começo do intervalo os dois estão juntos; Lakand fica com os deuses antigos (Mesmia).
+- **Relação com o cânone**: `personagens/lakand.md`; `personagens/decian.md`; `personagens/charles.md`; `ideias-rejeitadas/lakand-renanthao-decian.md`.
+
+### 2026-11-17: L2, Mário na tradução e treinando para a espada (Davi)
+
+- **Data**: 2026-11-17
+- **Ideia (uma linha)**: No começo do L2, Mário participa da tradução da Bíblia com os artífices, ensina português aos eruditos por meio dela e é treinado para lutar, porque como Rei precisa ser mais forte do que foi no L1 (inspiração em Davi).
+- **Capítulos afetados**: L2 (abertura; recusa final).
+- **Status**: capturada
+- **Destino**: L2
+- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). A tradução e o ensino já são canon (2026-10-21); o novo é o treino. Condição: o treino precisa pagar (candidata: a cena em que ele pode e não faz); não pode virar superpoder. Os 12 anos de intervalo dão tempo à tradução e ao treino; os Clãs são o primeiro emprego do treino (decisão de 2026-11-17). Decidido em conversa no mesmo dia: ele pode estar na frente de combate, sem superpoderes.
+- **Relação com o cânone**: `temas/esquema-l2.md` (Rei Docente); `insights/recrutamento-da-kate.md` (o treino que Mário rejeitou no L1).
+
+### 2026-11-17: Ato 3, Mário reconhece a Providência e que a culpa de Lucas não era dele
+
+- **Data**: 2026-11-17
+- **Ideia (uma linha)**: No Ato 3, a conversa com Gunad e o diário de Kraviam mostram a Mário a Providência agindo em Ornick antes dele, e no Garfo ele reconhece que a culpa pela morte de Lucas não era sua e que a teologia nunca decidiu destino algum: é Deus.
+- **Capítulos afetados**: cap. 52 (conversa e diário), cap. 61 ou cena entre 61 e 63 (o reconhecimento), cap. 63 (o hino); ajustes de canon nos caps. 47 (linha 37), 52 (linha 21) e 61 (linha 31); L2 (a lição esquecida).
+- **Status**: em desenvolvimento
+- **Destino**: checkpoint de bloco (caps. 52 e 61 a 63 ainda não revisados); depois L2
+- **Desenvolvimento**: [l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md](l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md). Decidido (2026-11-17): Lucas sem rosto; o convertido é Gunad; mecanismo do hino confirmado; Gunad largou a casa e os títulos do pai antes de Mário chegar. A decidir: onde cai o reconhecimento (cap. 61 ampliado ou cena nova entre 61 e 63); por que Gunad largou a casa do pai (a "abdicação" do cap. 52).
+- **Relação com o cânone**: `decisoes/capitulo-31-uma-noite-salvamento.md` (perda da memória da família); `conceitos/vonos.md` (o plano não é conhecido no L1); `insights/duas-vias-de-salvacao-ato-2.md` (deixar de procurar a ferramenta); `conceitos/milagre.md` (Jo 9:2-3, o porquê em aberto).
+
+### 2026-11-17: L2 abre com os 12 anos em resumo (comentários de review do autor)
+
+- **Data**: 2026-11-17
+- **Ideia (uma linha)**: Os 12 anos entre o L1 e o L2 são contados em um ou mais capítulos-resumo na abertura do L2: Mário expulsa os Clãs (Davi contra os filisteus), desmonta a Segregação, espalha leviantares e traz humanos para a Metrópole, e o conhecimento do século XXI faz do Reino uma potência continental; o cristianismo é fundado e o combate ao culto racha Lakand e Decian; Gunad só parte depois dos 12 anos.
+- **Capítulos afetados**: L2 (abertura); esquema do L2 (Configuração e Tema Declarado).
+- **Status**: decidida pelo autor; esquema e fichas não alterados
+- **Destino**: L2 (outline)
+- **Decidido (2026-11-17)**: ver `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`. Decididos em conversa no mesmo dia: o racha de Lakand e Decian cai dentro dos 12 anos, com Lakand ficando com os deuses antigos (Mesmia); o grupo de Gunad é o resto fiel dentro da Igreja e só é um remanescente depois; Mário pode estar na frente de combate; Decian pode se arrepender da tirania de Mário e não do desmonte dos cultos (o culto cristão é incompatível com o culto a outros deuses, sob a teologia de Heiser); a igreja é tutelada, na ausência de Gunad, por Decian ou por algum convertido; a Igreja fundada é liderada por Gunad no começo e depois por Decian ou um dos fiéis; "remanescente" é título teológico terráqueo que ninguém em Ornick precisa dar, só o narrador o menciona, como substantivo. Decididos depois: Gunad volta por volta do Jogos; a pista é alguém de Alavria que reconhece o sobrenome Deltëra; a dose do combate ao culto é um gradiente (defensável biblicamente, depois ameaça com poder estatal, depois violência). Em aberto: onde o L2 começa no gradiente e quem é a pessoa da pista. Adiado pelo autor: quanto dura o L2 depois do ano 12.
+- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Alertas: Voz (a primeira espada de Mário não cabe em panorama), Teologia (vencer e prosperar não confirmam o plano) e Risco 4 (o resumo não pode denunciar o desvio cedo demais).
+- **Relação com o cânone**: `conceitos/clas-de-sangue.md`; `conceitos/segregacao.md`; `decisoes/jornada-nolan-acre-2026-10-03.md`; `decisoes/2026-11-12-l2-escala-tempo.md`; `temas/esquema-l2.md`.
+
+> **Pendência resolvida**: os "12 anos" são o intervalo entre o L1 e o L2, contado em resumo (decisão do autor, 2026-11-17; entrada acima). As duas de L1 entram na pauta fixa do próximo checkpoint de bloco.

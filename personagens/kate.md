@@ -4,7 +4,7 @@ title: Kate
 description: Caçadora leviantar gnock (nascida sem poder), protetora relutante de Mário. Vínculo ambíguo entre dever e escolha.
 tags: [protagonista, leviantar, gnock, cacadora, L1]
 resource: https://github.com/neogedom/storybible/blob/main/personagens/kate.md
-timestamp: 2026-11-13T12:00:00-03:00
+timestamp: 2026-11-17T12:00:00-03:00
 ---
 
 ## Visão Geral
@@ -183,6 +183,9 @@ mas também não consegue explicar.
 - Sente o vazamento de Hícse
 - Massacra 5 rampillas e um xamã
 - A brasa aponta para a Metrópole
+- **A brasa nasce aqui, com a falha do Sinal (canon 2026-11-17):** nada dela
+  existe antes, nem como memória. O que Kate faz desde criança é hábito, não
+  brasa.
 
 ### Capítulo 20 — O Bebê
 

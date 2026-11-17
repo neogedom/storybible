@@ -3,7 +3,7 @@ type: Concept
 title: Hícse
 description: Serva poderosa leal a Marduk, aprisionada dentro de Gaviorn'l por Vonos durante a Guerra Milenar.
 tags: [conceito, elohim, hicse, guerra-milenar]
-timestamp: 2026-11-08T08:54:49-03:00
+timestamp: 2026-11-17T12:00:00-03:00
 ---
 
 # Hícse
@@ -29,6 +29,16 @@ consentimento dele.
 
 - A "brasa" que Kate sente no Prólogo é o **vazamento de Hícse** — a fúria
   que não é dela, mas que aponta para a Metrópole.
+- ⚠️ **A brasa começa só quando o Sinal falha** (canon 2026-11-17). O Sinal é
+  o eletrocardiograma do selo; embaralhado, o selo vaza, e o vazamento
+  reverbera em Kate. Antes da noite do Prólogo a brasa não existe, nem como
+  sensação nem como memória: nenhuma menção a ela, direta ou por comparação,
+  pode situar-se antes da falha. "Ela mata desde criança" continua valendo,
+  mas como hábito, não como brasa (o que apareceu aos onze anos passou quando
+  o homem caiu; a brasa não passa). Depois do Prólogo, Kate **toma a brasa
+  pela dureza que sempre teve** ("é a minha carne"), e é essa leitura que o
+  cap. 45 abala. Ver
+  `decisoes/2026-11-17-brasa-de-kate-comeca-na-falha-do-sinal.md`.
 - Kate mata Gaviorn'l no **cap. 30** (escrito em 2026-10-04), libertando
   Hícse (antecipação canon 2026-09-20 — ver
   `decisoes/gaviornl-morte-antecipada-hicse.md`).

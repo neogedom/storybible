@@ -1,5 +1,89 @@
 # Log de Atualizações
 
+## 2026-11-17 (Volta de Gunad, a pista e o gradiente do combate ao culto)
+
+- O autor respondeu os três pontos que restavam em aberto. **Volta:** Gunad parte no começo do L2 e volta por volta do Jogos, e o "emerge nos becos cantando" é o retorno. **Pista:** alguém de Alavria que reconhece o sobrenome Deltëra, que pode até aparecer num culto da igreja de Gunad. **Dose do combate ao culto:** primeiro, defensável biblicamente segundo os ensinos cristãos e de Jesus; depois, gradativamente, ameaça com poder estatal; depois, violência.
+- O gradiente substitui a recomendação anterior (violência só no L2): cada degrau parece defensável em relação ao anterior, e é isso que faz dele a deriva constantiniana. Fica em aberto onde o L2 começa no gradiente; recomendação: o degrau 1 nos 12 anos, o 2 perto do fim e no Tema Declarado, o 3 no Catalisador e no Break Into 2, que é a ordem do esquema. O fim do patrocínio estatal aos cultos fica na borda entre os degraus 1 e 2.
+- Alerta de Teologia sobre a pista: chegar no culto não pode ser recompensa pela fé de Gunad; precisa de causa comum, custo e fonte ambígua (o homem pode ser também isca, porque Koda era espião de Alavria).
+- Registro: decisões 13 a 15 em `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`, insight do status quo e inbox. Nada alterado em capítulos, esquema do L2 ou fichas.
+
+## 2026-11-17 (Tutela, liderança da Igreja e o nome "remanescente": do narrador, não de Ornick)
+
+- O autor respondeu quatro pontos em aberto. **Tutela:** enquanto Gunad está fora, a igreja é tutelada por Decian ou por algum convertido da igreja. **Liderança:** a Igreja fundada é liderada, no começo, por Gunad; depois, por Decian ou por um dos fiéis da igreja (fica de fora a Igreja conduzida por burocratas de Nolan). **Nome:** "remanescente" é um título teológico terráqueo; ninguém em Ornick precisa dar esse nome, só o narrador menciona "um remanescente", como substantivo (cai a pergunta de quem nomeia). **Duração do L2 depois do ano 12:** não definida; o autor diz que não é importante agora, então fica adiada.
+- Segue em aberto: quando Gunad volta, o que é a pista e a dose do combate ao culto nos 12 anos.
+- Consequência para a storybible: "o Remanescente" (esquema do L2, sementes, fichas de Gunad, Lupe'i, Decian, Kate, Saboc e Nuh) é forma curta de trabalho; no texto, o narrador diz "um remanescente" e nenhum personagem usa o nome. Entrou na tabela da decisão, sem aplicar.
+- Registro: decisões 10 a 12 em `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`, insight do status quo e inbox. Nada alterado em capítulos, esquema do L2 ou fichas.
+
+## 2026-11-17 (Confirmações e a correção de Decian: o arrependimento é da tirania, não do desmonte)
+
+- O autor confirmou duas leituras: o grupo de Gunad é o resto fiel dentro da Igreja, não uma Igreja à parte; no racha, Lakand fica com os deuses antigos (Mesmia).
+- Corrigiu a candidata de culpa de Decian: pela fé cristã, sob a teologia de Heiser, o culto cristão é incompatível com o culto a outros deuses; Decian pode se arrepender da tirania de Mário e não do desmonte dos cultos. A culpa proposta cai. Entra o princípio "o fim certo, o método errado" (o erro do L2 é o método, não o desmonte), com consequências para o texto a confirmar: o desmonte pode ser narrado sem desculpa; a linha é a dos meios; a incompatibilidade se diz no idioma reformado (canon de 2026-08-10), não no jargão do Conselho Divino.
+- Registro: decisões 7 a 9 em `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`, insight do status quo e inbox. Nada alterado em capítulos, esquema do L2 ou fichas.
+
+## 2026-11-17 (Depois do lote: racha dentro dos 12 anos, Remanescente sem o nome e Mário na frente de combate)
+
+- O autor respondeu em conversa a três pontos em aberto do lote e pediu para acompanhar o PR #4 (assinado).
+- **Lakand e Decian racham dentro dos 12 anos.** No começo do intervalo estão juntos e formam a alcateia contra Charles; a atuação de Decian pela expulsão dos cultos é o que os racha. O L2 abre com Lakand já sem Decian. Descarta a opção de o racha cair na abertura do L2.
+- **A pista de Gunad e o Remanescente.** A pista pode vir depois de o grupo existir, mas ele ainda não se chama Remanescente: o nome sugere fidelidade contra um desvio, e o desvio de Mário ainda não é explícito. É o grupo dos primeiros cristãos, uma igreja tutelada por Gunad, que só passa a ser considerado o Remanescente ao se opor à política de Mário, até com Gunad longe. Conflita com a ficha de Gunad ("Líder do Remanescente no L2"), com a de Lupe'i ("funda o Remanescente") e com a ordem do esquema do L2; ficam na tabela da decisão, sem aplicar.
+- **Mário na frente de combate**, sem superpoderes: o treino paga nos Clãs; a primeira morte pede interioridade; o milagre não vence a batalha.
+- Registro: `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md` (decisões 4 a 6), insight do status quo e inbox. Nada alterado em capítulos, esquema do L2 ou fichas.
+
+## 2026-11-17 (Comentários de review do PR #4 aplicados em lote: os 12 anos do L2)
+
+- O autor mandou três comentários de review em `insights/l2-status-quo-de-abertura-gunad-lakand-mario.md` (linhas 21 e 33). Aplicados em lote, em quatro commits por assunto: linha do tempo, worldbuilding dos 12 anos, Igreja e arcos, registro da decisão.
+- Decidido: os 12 anos são o intervalo depois do final do L1, contado em um ou mais capítulos-resumo; o L2 começa no ano 12 (responde à pendência do dia, abaixo). O resumo traz: Mário expulsa os Clãs (Davi contra os filisteus), desmonta a Segregação, espalha leviantares, traz humanos para a Metrópole e faz do Reino uma potência continental; o cristianismo é fundado e o combate ao culto aos deuses de Ornick racha Lakand e Decian (Gunad participa, depois Decian). Gunad só parte quando surge uma pista muito promissora, depois dos 12 anos. Decisão em `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`.
+- Achados: o casamento e a gravidez dos gêmeos, hoje no Tema Declarado do esquema, caem dentro dos 12 anos; as duas falas do autor sobre Lakand e Decian (juntos no começo do L2; racha nos 12 anos) não cabem juntas; a duração do L2 depois do ano 12 (Saboc com 11 a 13 anos) e a decisão de 2026-11-12 ("cerca de uma década de reinado") ficam em aberto.
+- Nada alterado em capítulos, `temas/esquema-l2.md` ou fichas. Threads do PR não respondidos nem resolvidos (quem resolve é o autor).
+- O PR #17 do livro foi mesclado pelo autor em 17/11 (merge `b48670d`): a branch do livro não tem commits pendentes.
+
+## 2026-11-17 (Branches trazidas para a main; numeração e linhas conferidas)
+
+- As branches da sessão partiram do checkpoint de 13/11, e a `main` já tinha 61 (storybible) e 57 (livro) commits novos, com os PRs mesclados em 16/11. A `main` foi trazida por merge (sem reescrever histórico) nos dois repositórios. Conflitos: cap. 45 no livro (mantida a retirada de "denso como chumbo" da `main` e a correção da brasa); `insights/_inbox.md` e `log.md` na storybible (mantidos os dois lados).
+- As entradas de 17/11 abaixo foram escritas sobre a numeração antiga. Os caps. 47 e 48 trocaram de ordem em 15/11: onde elas dizem "cap. 48, linha 37", leia **cap. 47, linha 37**. Na decisão da brasa, as linhas passaram a **cap. 43, linha 76** e **cap. 45, linha 50**.
+- Kraviam já está fixado no texto (quase trinta anos, cap. 54, linhas 27 e 31): deixou de ser pergunta em aberto no Ato 3. Nenhuma outra passagem citada nas notas de 17/11 mudou de lugar.
+
+## 2026-11-17 (Gunad largou a casa do pai antes de Mário chegar)
+
+- Decisão do autor: a "abdicação" de Gunad (largar a casa e os títulos do pai, cap. 52) foi antes de Mário chegar a Ornick. Registrada como decisão 5 em `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`, nos dois insights do Ato 3 e em `personagens/gunad.md` (fato de passado). O cap. 7 não contradiz: Nolan pergunta por Gunad porque é o único da casa que não é "silencioso e submisso".
+- Em aberto: por que ele largou a casa (sugestão: o motivo que ele dá é a casa do pai, mas no fundo não sabe dizer por quê), onde cai o reconhecimento de Mário e quanto tempo antes Kraviam chegou.
+
+## 2026-11-17 (Mecanismo do hino confirmado)
+
+- O autor confirmou o mecanismo: Gunad ouve Mário cantar pela porta, aprende o hino na cela, jura cantá-lo na praça e verte os versos para o ornickenho na madrugada. Registrado como decisão 4 em `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md` e nos dois insights do Ato 3. Os trechos dos caps. 52 e 63 só entram no rascunho quando o autor pedir.
+- Pergunta em aberto reformulada em termos mais claros: quando e por que Gunad largou a casa e os títulos do pai (a "abdicação" do cap. 52, também em `personagens/gunad.md` e `personagens/koda.md`).
+
+## 2026-11-17 (Decisões do Ato 3: Lucas sem rosto, Gunad convertido e o hino)
+
+- Decisões do autor registradas em `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`: Lucas continua sem rosto (perda do cap. 31); o convertido na conversa do cap. 52 é Gunad (corrige a leitura anterior, que fazia Gunad converter Mário); Gunad precisa conhecer "Mais perto quero estar" antes de cantá-lo no cap. 63.
+- Atualizados `insights/l1-cap52-gunad-ouve-o-evangelho-completo.md` (mecanismo proposto: ouve Mário cantar pela porta, aprende na cela, jura cantar, verte para o ornickenho na madrugada) e `insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md`, além do inbox. Em aberto: onde cai o reconhecimento de Mário (o autor ainda não decidiu).
+- Nada alterado em capítulos, esquemas ou fichas. Ajustes para a revisão listados na decisão (caps. 48, 52, 61 e 63; esquema do L2 sobre o idioma do hino).
+
+## 2026-11-17 (Ato 3: Mário reconhece a Providência e a culpa de Lucas)
+
+- Capturada e desenvolvida a ideia do autor em `insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md` e em `insights/_inbox.md` (amarelo; decisão no checkpoint de bloco). Nada alterado em capítulos, `temas/esquema-l1.md` ou fichas.
+- Conflitos de canon achados no rascunho do Ato 3, a decidir: a perda da memória da família (cap. 31) contra o cap. 48 (linha 37), o cap. 52 (linha 21) e o cap. 61 (linha 31); o diário do cap. 52 conta o plano de Vonos, que nenhum personagem sabe no L1; o hino (caps. 26 e 63) chega a Gunad sem explicação.
+
+## 2026-11-17 (Adendo: o ritual dos rampillas era costumeiro)
+
+- Decisão do autor: a noite do Prólogo não é "a noite de criação dos rampillas"; o ritual da semente já era costumeiro em Devour e Kate interrompeu um entre muitos. Corrige a entrada abaixo, que usava essa expressão no cap. 45.
+- Livro: cap. 45, linha 53, passa a "desde a noite em que interrompera um ritual de Devour, em Saramant"; cap. 30, linha 175, passa de "E diferente da noite de criação dos rampillas" para "E diferente daquela noite em Saramant" (frase do autor; reversível se preferir outra forma).
+- Storybible: regra nova em `conceitos/rampillas.md` ("Criação"), adendo em `decisoes/2026-11-17-brasa-de-kate-comeca-na-falha-do-sinal.md` e ajuste da linha da fome em `capitulos/capitulo-30.md`.
+
+## 2026-11-17 (A brasa de Kate começa só quando o Sinal falha)
+
+- Decisão do autor: a brasa nasce na falha do Sinal (Prólogo); nenhuma menção pode situá-la antes. Registrada em `decisoes/2026-11-17-brasa-de-kate-comeca-na-falha-do-sinal.md` e na regra nova de `conceitos/hicse.md`.
+- Livro: cap. 30, linha 173 (a comparação com os onze anos vira contraste); cap. 35, linha 103 ("reconheceu-a como... a força que sempre" vira "tomou-a por... a dureza que sempre"); cap. 43, linha 75 (a brasa deixa de existir na noite de Tharin: "agora havia a brasa"); cap. 45, linha 53 ("desde as tocas de Saramant" vira "desde a noite de criação dos rampillas, em Saramant").
+- Storybible alinhada: `capitulos/capitulo-30.md` (a linha da fome, que registrava "desde os onze anos"), `conceitos/sinal-de-vonos.md`, `personagens/kate.md` e `vozes/kate.md`.
+- Pendência: no epílogo (não revisado), "aquela pressão antiga" pode ler-se como brasa de sempre; trocar por "conhecida" na revisão.
+
+## 2026-11-17 (Ideias do autor: fecho do L1, Gunad no cap. 52 e status quo de abertura do L2)
+
+- Capturadas e avaliadas cinco ideias do autor em `insights/_inbox.md`, com desenvolvimento em três insights: `l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md`, `l1-cap52-gunad-ouve-o-evangelho-completo.md` e `l2-status-quo-de-abertura-gunad-lakand-mario.md`.
+- Semáforo: as duas de L1 (epílogo e cap. 52) são amarelas e entram na pauta do checkpoint de bloco, porque os capítulos ainda não foram revisados; as três de L2 têm destino L2. Nenhuma é vermelha; o epílogo carrega alerta de Risco 4.
+- Nada alterado em capítulos, `temas/esquema-l1.md`, `temas/esquema-l2.md` ou fichas de personagens. Acrescentada uma conexão em `insights/povs-l2-gunad-lakand-koda.md`.
+- Achado colateral: a abertura do epílogo ainda descreve o Sinal como morto, opaco e silenciado, vocabulário que a decisão de 2026-09-05 corrigiu nos outros capítulos. Alinhar na revisão do epílogo.
+- Pendência registrada: os "12 anos" do L2 são o intervalo depois do L1 ou a duração do L2?
+
 ## 2026-11-16 (Luas: o mês de 32 dias entra na fala de Orval)
 
 - O autor aceitou "olhos meio fechados" no cap. 16 (L195, commit `4ceb99d` do livro) e pediu que a fala de Orval não soasse a infodump. No cap. 41 (L81, commit `7d03ae3`), a fala tem o mesmo tamanho: "semanas e meses" virou "trinta e dois dias", sem frase nova e sem explicar que as luas são um par. O número entra como evidência da "ordem regular" que Orval defende. Um parágrafo curto de Mário depois da fala (aro de bronze, "Na Terra, a lua voltava em vinte e nove dias e meio") deixa a diferença no gesto, e a fala seguinte dele muda de assunto, como no L69 ("quis mencionar... mas preferiu que outro dissesse").
