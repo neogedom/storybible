@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-17 (Ato 3: Mário reconhece a Providência e a culpa de Lucas)
+
+- Capturada e desenvolvida a ideia do autor em `insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md` e em `insights/_inbox.md` (amarelo; decisão no checkpoint de bloco). Nada alterado em capítulos, `temas/esquema-l1.md` ou fichas.
+- Conflitos de canon achados no rascunho do Ato 3, a decidir: a perda da memória da família (cap. 31) contra o cap. 48 (linha 37), o cap. 52 (linha 21) e o cap. 61 (linha 31); o diário do cap. 52 conta o plano de Vonos, que nenhum personagem sabe no L1; o hino (caps. 26 e 63) chega a Gunad sem explicação.
+
 ## 2026-11-17 (Adendo: o ritual dos rampillas era costumeiro)
 
 - Decisão do autor: a noite do Prólogo não é "a noite de criação dos rampillas"; o ritual da semente já era costumeiro em Devour e Kate interrompeu um entre muitos. Corrige a entrada abaixo, que usava essa expressão no cap. 45.

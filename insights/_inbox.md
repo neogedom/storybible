@@ -79,4 +79,14 @@
 - **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). A tradução e o ensino já são canon (2026-10-21); o novo é o treino. Condição: o treino precisa pagar (candidata: a cena em que ele pode e não faz); não pode virar superpoder.
 - **Relação com o cânone**: `temas/esquema-l2.md` (Rei Docente); `insights/recrutamento-da-kate.md` (o treino que Mário rejeitou no L1).
 
+### 2026-11-17: Ato 3, Mário reconhece a Providência e que a culpa de Lucas não era dele
+
+- **Data**: 2026-11-17
+- **Ideia (uma linha)**: No Ato 3, a conversa com Gunad e o diário de Kraviam mostram a Mário a Providência agindo em Ornick antes dele, e no Garfo ele reconhece que a culpa pela morte de Lucas não era sua e que a teologia nunca decidiu destino algum: é Deus.
+- **Capítulos afetados**: cap. 52 (conversa e diário), cap. 61 ou cena entre 61 e 63 (o reconhecimento), cap. 63 (o hino); ajustes de canon nos caps. 48 (linha 37), 52 (linha 21) e 61 (linha 31); L2 (a lição esquecida).
+- **Status**: em desenvolvimento
+- **Destino**: checkpoint de bloco (caps. 52 e 61 a 63 ainda não revisados); depois L2
+- **Desenvolvimento**: [l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md](l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md). A decidir: Lucas sem rosto (canon do cap. 31) ou rostos devolvidos; quem converte quem na conversa com Gunad; quem traduziu o hino; quanto tempo antes Kraviam chegou.
+- **Relação com o cânone**: `decisoes/capitulo-31-uma-noite-salvamento.md` (perda da memória da família); `conceitos/vonos.md` (o plano não é conhecido no L1); `insights/duas-vias-de-salvacao-ato-2.md` (deixar de procurar a ferramenta); `conceitos/milagre.md` (Jo 9:2-3, o porquê em aberto).
+
 > **Pendência comum às três de L2**: os "12 anos" são o intervalo entre L1 e L2 ou a duração do L2? Ver o primeiro bloco de [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). As duas de L1 entram na pauta fixa do próximo checkpoint de bloco.
