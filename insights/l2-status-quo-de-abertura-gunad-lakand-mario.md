@@ -5,7 +5,7 @@ description: Notas do autor (2026-11-17), seus comentários de review e suas res
 tags: [insight, L2, status-quo, doze-anos, clas, segregacao, progresso, cristianismo, igreja, gunad, lakand, decian, charles, mario, davi, traducao, koda, joachin]
 destino: L2
 status: capturada, avaliada e atualizada com os comentários de review e as respostas em conversa do autor (2026-11-17); esquema do L2 e fichas não alterados
-timestamp: 2026-11-17T17:35:00-03:00
+timestamp: 2026-11-17T17:45:00-03:00
 ---
 
 # Status quo de abertura do L2 — os 12 anos, Gunad, Lakand com Decian e Mário
@@ -99,7 +99,7 @@ O conhecimento do século XXI de Mário leva o Reino de Genocydo a um progresso 
 
 ### Gunad, depois Decian, e o racha com Lakand
 
-- **Gunad primeiro.** É evangelista do Reino (seção abaixo). A participação dele na fundação lhe dá a igreja que tutela, o grupo dos primeiros cristãos, que mais tarde será considerado o Remanescente.
+- **Gunad primeiro.** É evangelista do Reino (seção abaixo). A participação dele na fundação lhe dá a igreja que tutela, o grupo dos primeiros cristãos, que mais tarde o narrador chamará de "um remanescente".
 - **Decian depois.** Curandeiro, ele tem entrada natural: a cura como testemunho da Igreja (enfermarias nas igrejas) liga-o à "dívida moral" com Mário e ao cap. 11, em que ele curou Mário. Isso também dá base ao cânone de que ele "percebe a corrupção de Mário antes de todos": vê de dentro a Igreja virar braço do Estado e é o primeiro a sair dela, para buscar Gunad e Lupe'i.
 - **O racha (decidido: a causa e o lado de Lakand, conversa de 2026-11-17).** A atuação de Decian a favor da expulsão dos cultos aos outros deuses é o que racha os dois, e Lakand fica com os deuses antigos (Mesmia), a deusa a quem Charles dedica o massacre de Opium (cap. 11) e que corromperá Lakand no L2. Mesmia é um ser real do Nível 3 da [cosmologia](../conceitos/cosmologia.md), não uma ficção: a lealdade de Lakand tem objeto e preço. Candidata: Charles, que mata para Mesmia no L1 e se "converte" falsamente no L2, é o contraste, porque trocou a deusa pelo favor da Coroa. O racha é a semente da corrupção de Lakand e o custo humano dela.
 - **Quando o racha acontece (decidido, conversa de 2026-11-17).** Dentro dos 12 anos. No começo do intervalo os dois estão juntos e formam a alcateia, a ofensiva contra Charles; o racha vem depois, quando a atuação de Decian pela expulsão dos cultos pesa. O L2 abre com Lakand à frente da alcateia, já sem Decian. Isso resolve as duas falas que não cabiam juntas: o "começo" da primeira nota é o começo do intervalo, não o do L2. A opção que punha o racha na abertura do L2 cai.

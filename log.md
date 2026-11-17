@@ -1,5 +1,12 @@
 # Log de Atualizações
 
+## 2026-11-17 (Tutela, liderança da Igreja e o nome "remanescente": do narrador, não de Ornick)
+
+- O autor respondeu quatro pontos em aberto. **Tutela:** enquanto Gunad está fora, a igreja é tutelada por Decian ou por algum convertido da igreja. **Liderança:** a Igreja fundada é liderada, no começo, por Gunad; depois, por Decian ou por um dos fiéis da igreja (fica de fora a Igreja conduzida por burocratas de Nolan). **Nome:** "remanescente" é um título teológico terráqueo; ninguém em Ornick precisa dar esse nome, só o narrador menciona "um remanescente", como substantivo (cai a pergunta de quem nomeia). **Duração do L2 depois do ano 12:** não definida; o autor diz que não é importante agora, então fica adiada.
+- Segue em aberto: quando Gunad volta, o que é a pista e a dose do combate ao culto nos 12 anos.
+- Consequência para a storybible: "o Remanescente" (esquema do L2, sementes, fichas de Gunad, Lupe'i, Decian, Kate, Saboc e Nuh) é forma curta de trabalho; no texto, o narrador diz "um remanescente" e nenhum personagem usa o nome. Entrou na tabela da decisão, sem aplicar.
+- Registro: decisões 10 a 12 em `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`, insight do status quo e inbox. Nada alterado em capítulos, esquema do L2 ou fichas.
+
 ## 2026-11-17 (Confirmações e a correção de Decian: o arrependimento é da tirania, não do desmonte)
 
 - O autor confirmou duas leituras: o grupo de Gunad é o resto fiel dentro da Igreja, não uma Igreja à parte; no racha, Lakand fica com os deuses antigos (Mesmia).
