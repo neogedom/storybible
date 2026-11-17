@@ -45,7 +45,7 @@
 - **Ideia (uma linha)**: No L1, Gunad é o primeiro a ir até Mário interessado em saber sobre o Deus dele e a ouvir o evangelho completo. Hoje, no cap. 52, ele vai só ver quem é o homem, e Mário não prega.
 - **Capítulos afetados**: cap. 52 (principal); cap. 63 (a origem do hino); L2 (amizade com Mário).
 - **Status**: em desenvolvimento
-- **Decidido (2026-11-17)**: Gunad é o convertido na cena e conhece o hino antes de cantá-lo no cap. 63. Mecanismo proposto (ouve Mário cantar pela porta, aprende na cela, jura cantar), a confirmar. Ver `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`.
+- **Decidido (2026-11-17)**: Gunad é o convertido na cena e conhece o hino antes de cantá-lo no cap. 63. Mecanismo confirmado (ouve Mário cantar pela porta, aprende na cela, jura cantar na praça). Ver `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`.
 - **Destino**: checkpoint de bloco (cap. 52 ainda não revisado)
 - **Desenvolvimento**: [l1-cap52-gunad-ouve-o-evangelho-completo.md](l1-cap52-gunad-ouve-o-evangelho-completo.md). Tronk já anunciou a substituição com a ressurreição só implícita; "completo" aqui é pecado nomeado, Cruz e ressurreição explícitos a quem pergunta.
 - **Relação com o cânone**: `decisoes/traducao-substituicao-penal-ponte-divida.md`; `personagens/gunad.md`.
@@ -87,7 +87,7 @@
 - **Capítulos afetados**: cap. 52 (conversa e diário), cap. 61 ou cena entre 61 e 63 (o reconhecimento), cap. 63 (o hino); ajustes de canon nos caps. 48 (linha 37), 52 (linha 21) e 61 (linha 31); L2 (a lição esquecida).
 - **Status**: em desenvolvimento
 - **Destino**: checkpoint de bloco (caps. 52 e 61 a 63 ainda não revisados); depois L2
-- **Desenvolvimento**: [l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md](l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md). Decidido (2026-11-17): Lucas sem rosto; o convertido é Gunad. A decidir: onde cai o reconhecimento (cap. 61 ampliado ou cena nova entre 61 e 63); o mecanismo do hino (proposto); quanto tempo antes Kraviam chegou; quando e por que Gunad abdicou.
+- **Desenvolvimento**: [l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md](l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md). Decidido (2026-11-17): Lucas sem rosto; o convertido é Gunad. Mecanismo do hino confirmado. A decidir: onde cai o reconhecimento (cap. 61 ampliado ou cena nova entre 61 e 63); quanto tempo antes Kraviam chegou; quando e por que Gunad largou a casa e os títulos do pai (a "abdicação" do cap. 52).
 - **Relação com o cânone**: `decisoes/capitulo-31-uma-noite-salvamento.md` (perda da memória da família); `conceitos/vonos.md` (o plano não é conhecido no L1); `insights/duas-vias-de-salvacao-ato-2.md` (deixar de procurar a ferramenta); `conceitos/milagre.md` (Jo 9:2-3, o porquê em aberto).
 
 > **Pendência comum às três de L2**: os "12 anos" são o intervalo entre L1 e L2 ou a duração do L2? Ver o primeiro bloco de [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). As duas de L1 entram na pauta fixa do próximo checkpoint de bloco.

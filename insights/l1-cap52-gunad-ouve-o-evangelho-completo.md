@@ -4,8 +4,8 @@ title: Gunad procura Mário, é o convertido da conversa e aprende o hino antes 
 description: No cap. 52, Gunad deixa de visitar a cela por curiosidade política e passa a perguntar pelo Deus de Mário. Mário, que acaba de reconhecer que nunca falou de pecado, anuncia pela primeira vez o evangelho explícito a quem pergunta, e Gunad é o convertido. Ele também aprende o hino na cela, e por isso o canta no cap. 63 como gesto de quem o recebeu na véspera.
 tags: [insight, L1, cap-52, cap-63, gunad, mario, evangelho, conversao, hino, pecado, traducao, L2]
 destino: checkpoint de bloco (caps. 52 e 63 ainda não revisados); L2 (amizade e evangelismo de Gunad)
-status: em desenvolvimento; semáforo amarelo; decididos pelo autor (Gunad convertido; hino aprendido antes de cantar); mecanismo do hino proposto, a confirmar
-timestamp: 2026-11-17T20:00:00-03:00
+status: em desenvolvimento; semáforo amarelo; decididos pelo autor (Gunad convertido; hino aprendido antes de cantar; mecanismo do hino confirmado)
+timestamp: 2026-11-17T21:00:00-03:00
 ---
 
 # Gunad procura Mário, converte-se e aprende o hino (cap. 52)
@@ -31,9 +31,9 @@ No L1, Gunad é o primeiro que vai até Mário interessado em saber mais sobre o
 - O hino do cap. 63 deixa de ser eco de segunda mão e vira o gesto de um convertido que o recebeu na véspera, da boca do condenado. O que Mário deu volta a ele no Garfo.
 - Funda a amizade profunda do L2 em algo mais que simpatia: uma noite em que um disse e o outro ouviu, na véspera de talvez morrer.
 
-## Como Gunad conhece o hino antes de cantá-lo (decidido; mecanismo proposto)
+## Como Gunad conhece o hino antes de cantá-lo (decidido, mecanismo confirmado)
 
-**Decidido pelo autor:** Gunad conhece "Mais perto quero estar" antes de cantá-lo. **Proposto, a confirmar:** aprende na cela, de Mário, na véspera.
+**Decidido pelo autor:** Gunad conhece "Mais perto quero estar" antes de cantá-lo, e o mecanismo abaixo (aprende na cela, de Mário, na véspera) foi confirmado em 2026-11-17. Os trechos só entram no rascunho quando o autor pedir.
 
 1. **A canção abre a porta.** Depois do colapso e do "Ela não veio" (a Voz não responde), Mário canta baixinho, em português, pela mesma vontade sem motivo do cap. 26 ("não sabia por que estava cantando"). Gunad, com a chave na mão, ouve da porta. A pergunta dele muda de "general ou iludido?" para "que língua é essa, e quem é esse Deus?". A Voz não respondeu; a canção veio, e foi o que trouxe alguém.
 2. **A conversa e o sinal da conversão, sem rito.** Mário diz o pecado, a dívida, a Cruz e a ressurreição, de dentro da culpa. Gunad responde como um músico: pede o livro (não lê português) e pede a canção. Sem oração em fórmula; o sinal é o pedido e o que ele faz depois.

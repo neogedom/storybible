@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-17 (Mecanismo do hino confirmado)
+
+- O autor confirmou o mecanismo: Gunad ouve Mário cantar pela porta, aprende o hino na cela, jura cantá-lo na praça e verte os versos para o ornickenho na madrugada. Registrado como decisão 4 em `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md` e nos dois insights do Ato 3. Os trechos dos caps. 52 e 63 só entram no rascunho quando o autor pedir.
+- Pergunta em aberto reformulada em termos mais claros: quando e por que Gunad largou a casa e os títulos do pai (a "abdicação" do cap. 52, também em `personagens/gunad.md` e `personagens/koda.md`).
+
 ## 2026-11-17 (Decisões do Ato 3: Lucas sem rosto, Gunad convertido e o hino)
 
 - Decisões do autor registradas em `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`: Lucas continua sem rosto (perda do cap. 31); o convertido na conversa do cap. 52 é Gunad (corrige a leitura anterior, que fazia Gunad converter Mário); Gunad precisa conhecer "Mais perto quero estar" antes de cantá-lo no cap. 63.

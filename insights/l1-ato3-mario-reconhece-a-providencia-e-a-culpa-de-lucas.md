@@ -5,7 +5,7 @@ description: Na noite do Garfo, Mário reconhece que a culpa pela morte de Lucas
 tags: [insight, L1, ato-3, mario, lucas, providencia, gunad, kraviam, hino, garfo, cap-52, cap-61, cap-63]
 destino: checkpoint de bloco (caps. 52 e 61 a 63 ainda não revisados); L2 (a lição que Mário esquece)
 status: em desenvolvimento; semáforo amarelo; decididos pelo autor (Lucas sem rosto; Gunad convertido); em aberto onde cai o reconhecimento
-timestamp: 2026-11-17T20:00:00-03:00
+timestamp: 2026-11-17T21:00:00-03:00
 ---
 
 # Ato 3: Mário reconhece a Providência e a culpa de Lucas
@@ -22,9 +22,9 @@ Em algum momento antes do final, no Ato 3, Mário reconhece que a culpa pela mor
 
 1. **Lucas sem rosto.** Vale a perda da memória da família do cap. 31 (ver o conflito 1, abaixo).
 2. **O convertido na conversa do cap. 52 é Gunad.**
-3. **Gunad conhece "Mais perto quero estar" antes de cantá-lo.** Mecanismo proposto em [Gunad no cap. 52](l1-cap52-gunad-ouve-o-evangelho-completo.md).
+3. **Gunad conhece "Mais perto quero estar" antes de cantá-lo.** Mecanismo confirmado, em [Gunad no cap. 52](l1-cap52-gunad-ouve-o-evangelho-completo.md).
 
-**Em aberto:** onde cai o reconhecimento de Mário (o autor ainda não decidiu), quanto tempo antes Kraviam chegou e há quantos anos Gunad abdicou. Registro: [decisão](../decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md).
+**Em aberto:** onde cai o reconhecimento de Mário (o autor ainda não decidiu), quanto tempo antes Kraviam chegou e quando e por que Gunad largou a casa e os títulos do pai (a "abdicação" do cap. 52). Registro: [decisão](../decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md).
 
 ## A ideia fecha um arco que o texto já escreveu
 
@@ -81,7 +81,7 @@ Recomendo três, no máximo quatro; mais vira ladainha.
 ## Gunad
 
 - **Gunad é o convertido (decisão do autor).** A conversa o converte sem rito, e o que Mário percebe nela é uma conversão que ele não produziu: o evangelista assiste a algo que não causou. Dá corpo ao tema sem fórmula.
-- **Gunad vinha sendo conduzido antes de Mário.** O primogênito que abdicou e foi tocar nos becos "por nada" é o que Deus usava. Datar a abdicação anos antes da chegada de Mário, sem que ele saiba dizer por quê, é o sinal concreto da Providência na conversa (em aberto).
+- **Gunad vinha sendo conduzido antes de Mário.** O primogênito que renunciou aos títulos do pai (a "abdicação" do cap. 52) e foi tocar nos becos "por nada" é o que Deus usava. Situar essa saída anos antes da chegada de Mário, sem que ele saiba dizer por quê, é o sinal concreto da Providência na conversa (em aberto).
 - **A canção** (que o trouxe) **e o livro preto** (que ele pede em língua que possa ler) são as duas coisas que Mário vê passar das mãos dele para as de outro.
 
 ## Guardrails
@@ -110,9 +110,8 @@ Recomendo três, no máximo quatro; mais vira ladainha.
 ## Decisões abertas (recomendação em negrito)
 
 1. **Onde cai o reconhecimento (o autor ainda não decidiu).** **No cap. 61 existente, ampliado**, ou numa cena nova entre o 61 e o 63.
-2. **Mecanismo do hino (a confirmar).** **Gunad ouve Mário cantar pela porta e aprende na cela**; depois verte os versos para o ornickenho.
-3. **Quando e por que Gunad abdicou.** **Anos antes da chegada de Mário, sem saber dizer por quê.**
-4. **Kraviam.** Quanto tempo antes de Mário. Sugestão: décadas (algo como trinta anos de Ornick), com o diário datado do início dos anos 2000 na Terra, o que Mário pode notar como dessincronia entre os mundos.
+2. **Quando e por que Gunad largou a casa e os títulos do pai** (a "abdicação" do cap. 52). **Há alguns anos, antes da chegada de Mário. O motivo que ele dá é a casa do pai (o acordo com Alavria, o irmão Joachin dado como refém), mas no fundo não sabe dizer por quê.** Liga com a busca por Joachin no L2 e dá a Gunad uma ferida de irmão parecida com a de Mário.
+3. **Kraviam.** Quanto tempo antes de Mário. Sugestão: décadas (algo como trinta anos de Ornick), com o diário datado do início dos anos 2000 na Terra, o que Mário pode notar como dessincronia entre os mundos.
 
 ## Conexões
 
