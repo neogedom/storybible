@@ -26,8 +26,8 @@ O Sinal é o eletrocardiograma do selo de Hícse ([Sinal de Vonos](../conceitos/
 |---|---|---|
 | Cap. 30, linha 173 | "Daquele mesmo tipo que apareceu aos onze anos, ao matar o primeiro homem com uma pedra. Também do mesmo tipo que sentiu em uma noite há algum tempo atrás," | "Não era o que aparecera aos onze anos, ao matar o primeiro homem com uma pedra; aquilo passara assim que o homem caiu. Era do mesmo tipo que sentiu em uma noite há algum tempo atrás," |
 | Cap. 35, linha 103 | "reconheceu-a como sua própria substância, a força que sempre a mantivera viva onde os outros morriam" | "tomou-a por sua própria substância, a dureza que sempre a mantivera viva onde os outros morriam" |
-| Cap. 43, linha 75 | "A brasa, em vez de arrefecer, só crescera." (comparada com a noite em que lutou com Tharin) | "Só que agora havia a brasa, e ela, em vez de arrefecer, só crescera." |
-| Cap. 45, linha 53 | "desde as tocas de Saramant" | "desde a noite em que interrompera um ritual de Devour, em Saramant," |
+| Cap. 43, linha 76 | "A brasa, em vez de arrefecer, só crescera." (comparada com a noite em que lutou com Tharin) | "Só que agora havia a brasa, e ela, em vez de arrefecer, só crescera." |
+| Cap. 45, linha 50 | "desde as tocas de Saramant" | "desde a noite em que interrompera um ritual de Devour, em Saramant," |
 | Cap. 30, linha 175 (adendo) | "E diferente da noite de criação dos rampillas," | "E diferente daquela noite em Saramant," |
 
 ### Adendo: o ritual dos rampillas era costumeiro

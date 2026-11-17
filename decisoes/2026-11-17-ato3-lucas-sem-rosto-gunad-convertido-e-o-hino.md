@@ -22,13 +22,13 @@ Status: decidido pelo autor em conversa, em 2026-11-17. Desenvolvimento em [Ato 
 
 - **Onde cai o reconhecimento de Mário** (cap. 61 ampliado ou cena nova entre o 61 e o 63): o autor ainda não decidiu.
 - **Por que Gunad largou a casa e os títulos do pai.** Sugestão: o motivo que ele dá é a casa do pai (o acordo com Alavria, o irmão Joachin dado como refém), mas no fundo não sabe dizer por quê.
-- **Quanto tempo antes de Mário Kraviam chegou.**
+- **Kraviam não está em aberto:** o texto já fixa quase trinta anos de ausência (cap. 54, linhas 27 e 31; [cronologia](../temas/cronologia-l1.md), A12).
 
 ## Para aplicar na revisão (não aplicado ao manuscrito)
 
 | Local | O que ajustar |
 |---|---|
-| Cap. 48, linha 37 | "o corpo de Lucas na sarjeta" é o rapaz da calçada; Mário não viu o corpo do irmão nem diz o nome |
+| Cap. 47, linha 37 (antes cap. 48; os caps. 47 e 48 trocaram de ordem em 2026-11-15) | "o corpo de Lucas na sarjeta" é o rapaz da calçada; Mário não viu o corpo do irmão nem diz o nome |
 | Cap. 52, linha 21 | sem nome, sem chinelos, sem overdose e sem república perto da faculdade de Direito (Mário estava no ensino médio e soube por telefone) |
 | Cap. 52, fecho (linha 67) | a fala de Gunad ("Os becos de Gerikhad costumam guardar o eco...") fecha em generalização; o voto de cantar a substitui |
 | Cap. 61, linha 31 | a cozinha e a voz da mãe: imagens e voz da família estão perdidas |

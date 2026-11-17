@@ -25,7 +25,7 @@ Em algum momento antes do final, no Ato 3, Mário reconhece que a culpa pela mor
 3. **Gunad conhece "Mais perto quero estar" antes de cantá-lo.** Mecanismo confirmado, em [Gunad no cap. 52](l1-cap52-gunad-ouve-o-evangelho-completo.md).
 4. **Gunad largou a casa e os títulos do pai antes de Mário chegar** (a "abdicação" do cap. 52).
 
-**Em aberto:** onde cai o reconhecimento de Mário (o autor ainda não decidiu), quanto tempo antes Kraviam chegou e por que Gunad largou a casa do pai. Registro: [decisão](../decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md).
+**Em aberto:** onde cai o reconhecimento de Mário (o autor ainda não decidiu) e por que Gunad largou a casa do pai. Kraviam já está fixado no texto: chegou há quase trinta anos (cap. 54, linhas 27 e 31; [cronologia](../temas/cronologia-l1.md), A12). Registro: [decisão](../decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md).
 
 ## A ideia fecha um arco que o texto já escreveu
 
@@ -42,7 +42,7 @@ A ideia é a dobradiça. A mesma constatação ("nunca tive controle", "nunca fu
 ## Conflitos de canon no rascunho do Ato 3 (resolver na revisão)
 
 1. **A memória da família (decidido: Lucas sem rosto).** Pelo cap. 31 (canon de 2026-10-03, [decisão](../decisoes/capitulo-31-uma-noite-salvamento.md)), Mário perde nomes e imagens de Lucas, Camilla e dos pais (rosto, voz, presença) e mantém fatos, culpa e lugares; "depois do cap. 31, o Mário nunca mais diz Lucas nem Camilla". O rascunho não respeita isso, e as linhas ficam para ajustar na revisão:
-   - cap. 48, linha 37: "o corpo de Lucas na sarjeta de Goiânia". O corpo da sarjeta é o do rapaz, e Mário não viu o corpo do irmão;
+   - cap. 47, linha 37 (antes cap. 48; os caps. 47 e 48 trocaram de ordem em 2026-11-15): "o corpo de Lucas na sarjeta de Goiânia". O corpo da sarjeta é o do rapaz, e Mário não viu o corpo do irmão;
    - cap. 52, linha 21: nomeia Lucas, os chinelos, a overdose no beco e a "república perto da faculdade de Direito", quando Mário estava no ensino médio e soube por telefone, na aula;
    - cap. 61, linha 31: a cozinha e a voz da mãe cantando.
 
@@ -101,8 +101,8 @@ Recomendo três, no máximo quatro; mais vira ladainha.
 ## Desenvolvimento (cinco perguntas)
 
 1. **O que muda?** O cap. 52 ganha a primeira visão da Providência (diário aparado, a canção que abre a porta, a conversão de Gunad); o Garfo ganha o reconhecimento; o cap. 63 ganha o hino como dom devolvido; Gunad ganha papel no arco de Mário.
-2. **Em quais capítulos?** 52, 61 e 63 (principais); 48 (linha 37) e 66 (eco); ajustes de memória nos caps. 48, 52 e 61.
-3. **Qual o custo?** Uma cena curta ou dois parágrafos no Garfo; risco de sermão e de autoajuda; reabrir linhas dos caps. 48, 52 e 61.
+2. **Em quais capítulos?** 52, 61 e 63 (principais); 47 (linha 37) e 66 (eco); ajustes de memória nos caps. 47, 52 e 61.
+3. **Qual o custo?** Uma cena curta ou dois parágrafos no Garfo; risco de sermão e de autoajuda; reabrir linhas dos caps. 47, 52 e 61.
 4. **O que paga?** Os caps. 1, 11, 21 e 26; o Break Into 3; a oração do cap. 66; no L2, a lição esquecida.
 5. **Cena exemplo** (referência de função, não texto do livro). A cena do cap. 52 está em [Gunad no cap. 52](l1-cap52-gunad-ouve-o-evangelho-completo.md). Garfo, POV de Mário:
 
@@ -112,7 +112,7 @@ Recomendo três, no máximo quatro; mais vira ladainha.
 
 1. **Onde cai o reconhecimento (o autor ainda não decidiu).** **No cap. 61 existente, ampliado**, ou numa cena nova entre o 61 e o 63.
 2. **Por que Gunad largou a casa e os títulos do pai** (a "abdicação" do cap. 52; o quando está decidido: antes da chegada de Mário). **O motivo que ele dá é a casa do pai (o acordo com Alavria, o irmão Joachin dado como refém), mas no fundo não sabe dizer por quê.** Liga com a busca por Joachin no L2 e dá a Gunad uma ferida de irmão parecida com a de Mário.
-3. **Kraviam.** Quanto tempo antes de Mário. Sugestão: décadas (algo como trinta anos de Ornick), com o diário datado do início dos anos 2000 na Terra, o que Mário pode notar como dessincronia entre os mundos.
+3. **Kraviam (já fixado no texto, não é decisão aberta).** Chegou há quase trinta anos (cap. 54, linhas 27 e 31; [cronologia](../temas/cronologia-l1.md), A12), e o diário do cap. 52 data o início do século XXI. Opcional: Mário notar a dessincronia entre os mundos, já que o diário e os trinta anos não casam por completo (a cronologia deixa o número para o autor ajustar).
 
 ## Conexões
 

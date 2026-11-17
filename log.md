@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-17 (Branches trazidas para a main; numeração e linhas conferidas)
+
+- As branches da sessão partiram do checkpoint de 13/11, e a `main` já tinha 61 (storybible) e 57 (livro) commits novos, com os PRs mesclados em 16/11. A `main` foi trazida por merge (sem reescrever histórico) nos dois repositórios. Conflitos: cap. 45 no livro (mantida a retirada de "denso como chumbo" da `main` e a correção da brasa); `insights/_inbox.md` e `log.md` na storybible (mantidos os dois lados).
+- As entradas de 17/11 abaixo foram escritas sobre a numeração antiga. Os caps. 47 e 48 trocaram de ordem em 15/11: onde elas dizem "cap. 48, linha 37", leia **cap. 47, linha 37**. Na decisão da brasa, as linhas passaram a **cap. 43, linha 76** e **cap. 45, linha 50**.
+- Kraviam já está fixado no texto (quase trinta anos, cap. 54, linhas 27 e 31): deixou de ser pergunta em aberto no Ato 3. Nenhuma outra passagem citada nas notas de 17/11 mudou de lugar.
+
 ## 2026-11-17 (Gunad largou a casa do pai antes de Mário chegar)
 
 - Decisão do autor: a "abdicação" de Gunad (largar a casa e os títulos do pai, cap. 52) foi antes de Mário chegar a Ornick. Registrada como decisão 5 em `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`, nos dois insights do Ato 3 e em `personagens/gunad.md` (fato de passado). O cap. 7 não contradiz: Nolan pergunta por Gunad porque é o único da casa que não é "silencioso e submisso".
