@@ -3,7 +3,7 @@ type: Concept
 title: O Sinal de Vonos
 description: O oráculo que audita a realidade de Ornick. Com a chegada de Mário, ficou permanentemente instável — não emudeceu, mas nunca mais audita direito.
 tags: [conceito, vonos, oraculo, sinal]
-timestamp: 2026-09-05T12:00:00-03:00
+timestamp: 2026-11-17T12:00:00-03:00
 ---
 
 # O Sinal de Vonos
@@ -37,6 +37,10 @@ leitura ficou instável.
 embaralhamento pode se **agudizar** — a leitura piora momentaneamente. Essa
 agudização **reverbera em Kate**, que sofre influência de Hícse (o vazamento
 da elohim da guerra presa em Gaviorn'l — ver `conceitos/hicse.md`).
+
+**A brasa começa com a falha (canon 2026-11-17):** a primeira reverberação em
+Kate é a do Prólogo, no instante em que o Sinal falha. Antes disso a brasa não
+existe, nem como sensação nem como memória dela (ver `conceitos/hicse.md`).
 
 No Prólogo, o Sinal falha na Liturgia do Entardecer — não por silêncio total,
 mas porque a leitura vem embaralhada. O Escriba-Mestre afirma: _"Não é uma

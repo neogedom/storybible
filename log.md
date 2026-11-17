@@ -1,5 +1,12 @@
 # Log de Atualizações
 
+## 2026-11-17 (A brasa de Kate começa só quando o Sinal falha)
+
+- Decisão do autor: a brasa nasce na falha do Sinal (Prólogo); nenhuma menção pode situá-la antes. Registrada em `decisoes/2026-11-17-brasa-de-kate-comeca-na-falha-do-sinal.md` e na regra nova de `conceitos/hicse.md`.
+- Livro: cap. 30, linha 173 (a comparação com os onze anos vira contraste); cap. 35, linha 103 ("reconheceu-a como... a força que sempre" vira "tomou-a por... a dureza que sempre"); cap. 43, linha 75 (a brasa deixa de existir na noite de Tharin: "agora havia a brasa"); cap. 45, linha 53 ("desde as tocas de Saramant" vira "desde a noite de criação dos rampillas, em Saramant").
+- Storybible alinhada: `capitulos/capitulo-30.md` (a linha da fome, que registrava "desde os onze anos"), `conceitos/sinal-de-vonos.md`, `personagens/kate.md` e `vozes/kate.md`.
+- Pendência: no epílogo (não revisado), "aquela pressão antiga" pode ler-se como brasa de sempre; trocar por "conhecida" na revisão.
+
 ## 2026-11-17 (Ideias do autor: fecho do L1, Gunad no cap. 52 e status quo de abertura do L2)
 
 - Capturadas e avaliadas cinco ideias do autor em `insights/_inbox.md`, com desenvolvimento em três insights: `l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md`, `l1-cap52-gunad-ouve-o-evangelho-completo.md` e `l2-status-quo-de-abertura-gunad-lakand-mario.md`.
