@@ -1,11 +1,11 @@
 ---
 type: Insight
 title: Status quo de abertura do L2 — os 12 anos, Gunad, Lakand com Decian e Mário
-description: Notas do autor (2026-11-17) e seus comentários de review sobre o status quo do L2, checados contra o cânone. Os 12 anos entre o L1 e o L2 são contados em capítulos-resumo; Gunad só parte para Alavria depois deles; Lakand e Decian formam alcateia própria contra Charles; Mário traduz e treina, com inspiração em Davi.
+description: Notas do autor (2026-11-17), seus comentários de review e suas respostas em conversa sobre o status quo do L2, checados contra o cânone. Os 12 anos entre o L1 e o L2 são contados em capítulos-resumo; Lakand e Decian formam alcateia contra Charles e racham dentro deles; Gunad só parte para Alavria depois, e o grupo que ele tutela só vira Remanescente depois; Mário traduz, treina e vai à frente de combate, com inspiração em Davi.
 tags: [insight, L2, status-quo, doze-anos, clas, segregacao, progresso, cristianismo, igreja, gunad, lakand, decian, charles, mario, davi, traducao, koda, joachin]
 destino: L2
-status: capturada, avaliada e atualizada com os comentários de review do autor (2026-11-17); esquema do L2 e fichas não alterados
-timestamp: 2026-11-17T16:50:00-03:00
+status: capturada, avaliada e atualizada com os comentários de review e as respostas em conversa do autor (2026-11-17); esquema do L2 e fichas não alterados
+timestamp: 2026-11-17T17:00:00-03:00
 ---
 
 # Status quo de abertura do L2 — os 12 anos, Gunad, Lakand com Decian e Mário
@@ -156,7 +156,7 @@ A tradução com os eruditos da Academia dos Artífices e o ensino do português
 
 ## Não alterar agora
 
-`temas/esquema-l2.md` e as fichas de personagens só mudam com fato duro e com o outline do L2 aberto; ideia não é fato. As decisões do autor de 2026-11-17 (os 12 anos em resumo, a lista do que acontece neles e a partida de Gunad) estão em [L2 abre com os 12 anos em resumo](../decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md), com a lista do que ajustar quando o outline abrir. Este insight serve de insumo para esse planejamento.
+`temas/esquema-l2.md` e as fichas de personagens só mudam com fato duro e com o outline do L2 aberto; ideia não é fato. As decisões do autor de 2026-11-17 (os 12 anos em resumo, a lista do que acontece neles, o racha de Lakand e Decian, a partida de Gunad, o grupo que só depois vira Remanescente e Mário na frente de combate) estão em [L2 abre com os 12 anos em resumo](../decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md), com a lista do que ajustar quando o outline abrir. Este insight serve de insumo para esse planejamento.
 
 ## Conexões
 

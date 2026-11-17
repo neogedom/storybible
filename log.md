@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-11-17 (Depois do lote: racha dentro dos 12 anos, Remanescente sem o nome e Mário na frente de combate)
+
+- O autor respondeu em conversa a três pontos em aberto do lote e pediu para acompanhar o PR #4 (assinado).
+- **Lakand e Decian racham dentro dos 12 anos.** No começo do intervalo estão juntos e formam a alcateia contra Charles; a atuação de Decian pela expulsão dos cultos é o que os racha. O L2 abre com Lakand já sem Decian. Descarta a opção de o racha cair na abertura do L2.
+- **A pista de Gunad e o Remanescente.** A pista pode vir depois de o grupo existir, mas ele ainda não se chama Remanescente: o nome sugere fidelidade contra um desvio, e o desvio de Mário ainda não é explícito. É o grupo dos primeiros cristãos, uma igreja tutelada por Gunad, que só passa a ser considerado o Remanescente ao se opor à política de Mário, até com Gunad longe. Conflita com a ficha de Gunad ("Líder do Remanescente no L2"), com a de Lupe'i ("funda o Remanescente") e com a ordem do esquema do L2; ficam na tabela da decisão, sem aplicar.
+- **Mário na frente de combate**, sem superpoderes: o treino paga nos Clãs; a primeira morte pede interioridade; o milagre não vence a batalha.
+- Registro: `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md` (decisões 4 a 6), insight do status quo e inbox. Nada alterado em capítulos, esquema do L2 ou fichas.
+
 ## 2026-11-17 (Comentários de review do PR #4 aplicados em lote: os 12 anos do L2)
 
 - O autor mandou três comentários de review em `insights/l2-status-quo-de-abertura-gunad-lakand-mario.md` (linhas 21 e 33). Aplicados em lote, em quatro commits por assunto: linha do tempo, worldbuilding dos 12 anos, Igreja e arcos, registro da decisão.

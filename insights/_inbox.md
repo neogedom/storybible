@@ -292,7 +292,7 @@
 - **Capítulos afetados**: L2 (abertura e meio).
 - **Status**: capturada; parte decidida pelo autor (comentário de review, 2026-11-17)
 - **Destino**: L2
-- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Muda "vive anônimo" e "emerge nos becos" (os becos passam a ser escolha). Decidido pelo autor (2026-11-17): só parte quando surge uma pista muito promissora, e isso só depois dos 12 anos; em aberto: o que é a pista e em que ponto do L2 ela aparece.
+- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Muda "vive anônimo" e "emerge nos becos" (os becos passam a ser escolha). Decidido pelo autor (2026-11-17): só parte quando surge uma pista muito promissora, e isso só depois dos 12 anos; a pista pode vir depois de o grupo dos primeiros cristãos existir, e o grupo só passa a se chamar Remanescente depois, até com Gunad longe (conversa do mesmo dia). Em aberto: o que é a pista, quando Gunad volta e quem tutela a igreja enquanto ele está fora.
 - **Relação com o cânone**: `insights/povs-l2-gunad-lakand-koda.md`; `personagens/koda.md`; `temas/arcos-por-livro.md`.
 
 ### 2026-11-17: L2, Lakand e Decian formam alcateia própria contra Charles
@@ -300,9 +300,9 @@
 - **Data**: 2026-11-17
 - **Ideia (uma linha)**: No começo do L2, Lakand e Decian reúnem lobisomens para se opor à liderança de Charles e criam a própria alcateia.
 - **Capítulos afetados**: L2 (abertura; recrutamento da Hoste).
-- **Status**: capturada; causa do racha com Decian dada pelo autor (comentário de review, 2026-11-17)
+- **Status**: capturada; racha com Decian decidido pelo autor (dentro dos 12 anos, 2026-11-17)
 - **Destino**: L2
-- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Divide os lobisomens em dois lados da guerra; Decian precisa sair antes do recrutamento da Hoste (o cânone o manda buscar Gunad e Lupe'i). Não repete a ideia rejeitada de 2026-09-12. O autor deu a causa do racha com Decian (2026-11-17, comentário de review): o combate ao culto aos outros deuses; falta decidir quando ele acontece.
+- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Divide os lobisomens em dois lados da guerra; Decian precisa sair antes do recrutamento da Hoste (o cânone o manda buscar Gunad e Lupe'i). Não repete a ideia rejeitada de 2026-09-12. O autor deu a causa do racha com Decian (2026-11-17, comentário de review): a atuação de Decian pela expulsão dos cultos aos outros deuses. Decidido em conversa no mesmo dia: o racha cai dentro dos 12 anos; no começo do intervalo os dois estão juntos.
 - **Relação com o cânone**: `personagens/lakand.md`; `personagens/decian.md`; `personagens/charles.md`; `ideias-rejeitadas/lakand-renanthao-decian.md`.
 
 ### 2026-11-17: L2, Mário na tradução e treinando para a espada (Davi)
@@ -312,7 +312,7 @@
 - **Capítulos afetados**: L2 (abertura; recusa final).
 - **Status**: capturada
 - **Destino**: L2
-- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). A tradução e o ensino já são canon (2026-10-21); o novo é o treino. Condição: o treino precisa pagar (candidata: a cena em que ele pode e não faz); não pode virar superpoder. Os 12 anos de intervalo dão tempo à tradução e ao treino; os Clãs são o primeiro emprego do treino (decisão de 2026-11-17).
+- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). A tradução e o ensino já são canon (2026-10-21); o novo é o treino. Condição: o treino precisa pagar (candidata: a cena em que ele pode e não faz); não pode virar superpoder. Os 12 anos de intervalo dão tempo à tradução e ao treino; os Clãs são o primeiro emprego do treino (decisão de 2026-11-17). Decidido em conversa no mesmo dia: ele pode estar na frente de combate, sem superpoderes.
 - **Relação com o cânone**: `temas/esquema-l2.md` (Rei Docente); `insights/recrutamento-da-kate.md` (o treino que Mário rejeitou no L1).
 
 ### 2026-11-17: Ato 3, Mário reconhece a Providência e que a culpa de Lucas não era dele
@@ -332,7 +332,7 @@
 - **Capítulos afetados**: L2 (abertura); esquema do L2 (Configuração e Tema Declarado).
 - **Status**: decidida pelo autor; esquema e fichas não alterados
 - **Destino**: L2 (outline)
-- **Decidido (2026-11-17)**: ver `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`. Em aberto: quando o racha acontece, em que ponto do L2 a pista de Gunad aparece, quanto dura o L2 depois do ano 12, a dose do combate ao culto, quem lidera a Igreja e se Mário luta em pessoa contra os Clãs.
+- **Decidido (2026-11-17)**: ver `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`. Decididos em conversa no mesmo dia: o racha de Lakand e Decian cai dentro dos 12 anos; o grupo de Gunad só passa a se chamar Remanescente depois; Mário pode estar na frente de combate. Em aberto: quando Gunad volta e quem tutela a igreja enquanto ele está fora, quem dá o nome Remanescente, o que é a pista, quanto dura o L2 depois do ano 12, a dose do combate ao culto e quem lidera a Igreja.
 - **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Alertas: Voz (a primeira espada de Mário não cabe em panorama), Teologia (vencer e prosperar não confirmam o plano) e Risco 4 (o resumo não pode denunciar o desvio cedo demais).
 - **Relação com o cânone**: `conceitos/clas-de-sangue.md`; `conceitos/segregacao.md`; `decisoes/jornada-nolan-acre-2026-10-03.md`; `decisoes/2026-11-12-l2-escala-tempo.md`; `temas/esquema-l2.md`.
 
