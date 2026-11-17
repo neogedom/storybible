@@ -101,4 +101,5 @@ Insight estrutural para desenvolvimento do L2. Não alterar ainda
   planejamento do L2.
 - [Status quo de abertura do L2](l2-status-quo-de-abertura-gunad-lakand-mario.md)
   — onde cada linha começa (notas de 2026-11-17); inclui a pista de Koda e
-  Joachin nas viagens de evangelismo de Gunad.
+  Joachin nas viagens de evangelismo de Gunad, que só aparece depois dos 12
+  anos de intervalo entre o L1 e o L2 (decisão do autor, 2026-11-17).

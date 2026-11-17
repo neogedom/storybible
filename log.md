@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-11-17 (Comentários de review do PR #4 aplicados em lote: os 12 anos do L2)
+
+- O autor mandou três comentários de review em `insights/l2-status-quo-de-abertura-gunad-lakand-mario.md` (linhas 21 e 33). Aplicados em lote, em quatro commits por assunto: linha do tempo, worldbuilding dos 12 anos, Igreja e arcos, registro da decisão.
+- Decidido: os 12 anos são o intervalo depois do final do L1, contado em um ou mais capítulos-resumo; o L2 começa no ano 12 (responde à pendência do dia, abaixo). O resumo traz: Mário expulsa os Clãs (Davi contra os filisteus), desmonta a Segregação, espalha leviantares, traz humanos para a Metrópole e faz do Reino uma potência continental; o cristianismo é fundado e o combate ao culto aos deuses de Ornick racha Lakand e Decian (Gunad participa, depois Decian). Gunad só parte quando surge uma pista muito promissora, depois dos 12 anos. Decisão em `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`.
+- Achados: o casamento e a gravidez dos gêmeos, hoje no Tema Declarado do esquema, caem dentro dos 12 anos; as duas falas do autor sobre Lakand e Decian (juntos no começo do L2; racha nos 12 anos) não cabem juntas; a duração do L2 depois do ano 12 (Saboc com 11 a 13 anos) e a decisão de 2026-11-12 ("cerca de uma década de reinado") ficam em aberto.
+- Nada alterado em capítulos, `temas/esquema-l2.md` ou fichas. Threads do PR não respondidos nem resolvidos (quem resolve é o autor).
+- O PR #17 do livro foi mesclado pelo autor em 17/11 (merge `b48670d`): a branch do livro não tem commits pendentes.
+
 ## 2026-11-17 (Branches trazidas para a main; numeração e linhas conferidas)
 
 - As branches da sessão partiram do checkpoint de 13/11, e a `main` já tinha 61 (storybible) e 57 (livro) commits novos, com os PRs mesclados em 16/11. A `main` foi trazida por merge (sem reescrever histórico) nos dois repositórios. Conflitos: cap. 45 no livro (mantida a retirada de "denso como chumbo" da `main` e a correção da brasa); `insights/_inbox.md` e `log.md` na storybible (mantidos os dois lados).

@@ -146,10 +146,12 @@ A tradução com os eruditos da Academia dos Artífices e o ensino do português
 
 ## Não alterar agora
 
-`temas/esquema-l2.md` e as fichas de personagens só mudam com fato duro e com o outline do L2 aberto; ideia não é fato. Este insight serve de insumo para esse planejamento.
+`temas/esquema-l2.md` e as fichas de personagens só mudam com fato duro e com o outline do L2 aberto; ideia não é fato. As decisões do autor de 2026-11-17 (os 12 anos em resumo, a lista do que acontece neles e a partida de Gunad) estão em [L2 abre com os 12 anos em resumo](../decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md), com a lista do que ajustar quando o outline abrir. Este insight serve de insumo para esse planejamento.
 
 ## Conexões
 
 - [Povs do L2](povs-l2-gunad-lakand-koda.md) — três linhas de POV; este insight fixa onde cada uma começa.
 - [Gunad](../personagens/gunad.md), [Lakand](../personagens/lakand.md), [Decian](../personagens/decian.md), [Charles](../personagens/charles.md) — fichas sem alteração.
 - [Esquema do L2](../temas/esquema-l2.md) — Configuração e Tema Declarado.
+- [L2 abre com os 12 anos em resumo](../decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md) — a decisão do autor que este insight desenvolve.
+- [Clãs de Sangue](../conceitos/clas-de-sangue.md) e [Segregação](../conceitos/segregacao.md) — o que Mário enfrenta nos 12 anos.

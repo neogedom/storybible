@@ -290,9 +290,9 @@
 - **Data**: 2026-11-17
 - **Ideia (uma linha)**: No começo do L2 Gunad faz evangelismo pelo Reino (Mário, Rei, tem outras atribuições), com amizade profunda com Mário; numa dessas viagens encontra pistas do pai e do irmão em Alavria, que o põem na rota para lá.
 - **Capítulos afetados**: L2 (abertura e meio).
-- **Status**: capturada
+- **Status**: capturada; parte decidida pelo autor (comentário de review, 2026-11-17)
 - **Destino**: L2
-- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Muda "vive anônimo" e "emerge nos becos" (os becos passam a ser escolha); pergunta aberta: por que não parte logo.
+- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Muda "vive anônimo" e "emerge nos becos" (os becos passam a ser escolha). Decidido pelo autor (2026-11-17): só parte quando surge uma pista muito promissora, e isso só depois dos 12 anos; em aberto: o que é a pista e em que ponto do L2 ela aparece.
 - **Relação com o cânone**: `insights/povs-l2-gunad-lakand-koda.md`; `personagens/koda.md`; `temas/arcos-por-livro.md`.
 
 ### 2026-11-17: L2, Lakand e Decian formam alcateia própria contra Charles
@@ -300,9 +300,9 @@
 - **Data**: 2026-11-17
 - **Ideia (uma linha)**: No começo do L2, Lakand e Decian reúnem lobisomens para se opor à liderança de Charles e criam a própria alcateia.
 - **Capítulos afetados**: L2 (abertura; recrutamento da Hoste).
-- **Status**: capturada
+- **Status**: capturada; causa do racha com Decian dada pelo autor (comentário de review, 2026-11-17)
 - **Destino**: L2
-- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Divide os lobisomens em dois lados da guerra; Decian precisa sair antes do recrutamento da Hoste (o cânone o manda buscar Gunad e Lupe'i). Não repete a ideia rejeitada de 2026-09-12.
+- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Divide os lobisomens em dois lados da guerra; Decian precisa sair antes do recrutamento da Hoste (o cânone o manda buscar Gunad e Lupe'i). Não repete a ideia rejeitada de 2026-09-12. O autor deu a causa do racha com Decian (2026-11-17, comentário de review): o combate ao culto aos outros deuses; falta decidir quando ele acontece.
 - **Relação com o cânone**: `personagens/lakand.md`; `personagens/decian.md`; `personagens/charles.md`; `ideias-rejeitadas/lakand-renanthao-decian.md`.
 
 ### 2026-11-17: L2, Mário na tradução e treinando para a espada (Davi)
@@ -312,7 +312,7 @@
 - **Capítulos afetados**: L2 (abertura; recusa final).
 - **Status**: capturada
 - **Destino**: L2
-- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). A tradução e o ensino já são canon (2026-10-21); o novo é o treino. Condição: o treino precisa pagar (candidata: a cena em que ele pode e não faz); não pode virar superpoder.
+- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). A tradução e o ensino já são canon (2026-10-21); o novo é o treino. Condição: o treino precisa pagar (candidata: a cena em que ele pode e não faz); não pode virar superpoder. Os 12 anos de intervalo dão tempo à tradução e ao treino; os Clãs são o primeiro emprego do treino (decisão de 2026-11-17).
 - **Relação com o cânone**: `temas/esquema-l2.md` (Rei Docente); `insights/recrutamento-da-kate.md` (o treino que Mário rejeitou no L1).
 
 ### 2026-11-17: Ato 3, Mário reconhece a Providência e que a culpa de Lucas não era dele
@@ -325,4 +325,15 @@
 - **Desenvolvimento**: [l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md](l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md). Decidido (2026-11-17): Lucas sem rosto; o convertido é Gunad; mecanismo do hino confirmado; Gunad largou a casa e os títulos do pai antes de Mário chegar. A decidir: onde cai o reconhecimento (cap. 61 ampliado ou cena nova entre 61 e 63); por que Gunad largou a casa do pai (a "abdicação" do cap. 52).
 - **Relação com o cânone**: `decisoes/capitulo-31-uma-noite-salvamento.md` (perda da memória da família); `conceitos/vonos.md` (o plano não é conhecido no L1); `insights/duas-vias-de-salvacao-ato-2.md` (deixar de procurar a ferramenta); `conceitos/milagre.md` (Jo 9:2-3, o porquê em aberto).
 
-> **Pendência comum às três de L2**: os "12 anos" são o intervalo entre L1 e L2 ou a duração do L2? Ver o primeiro bloco de [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). As duas de L1 entram na pauta fixa do próximo checkpoint de bloco.
+### 2026-11-17: L2 abre com os 12 anos em resumo (comentários de review do autor)
+
+- **Data**: 2026-11-17
+- **Ideia (uma linha)**: Os 12 anos entre o L1 e o L2 são contados em um ou mais capítulos-resumo na abertura do L2: Mário expulsa os Clãs (Davi contra os filisteus), desmonta a Segregação, espalha leviantares e traz humanos para a Metrópole, e o conhecimento do século XXI faz do Reino uma potência continental; o cristianismo é fundado e o combate ao culto racha Lakand e Decian; Gunad só parte depois dos 12 anos.
+- **Capítulos afetados**: L2 (abertura); esquema do L2 (Configuração e Tema Declarado).
+- **Status**: decidida pelo autor; esquema e fichas não alterados
+- **Destino**: L2 (outline)
+- **Decidido (2026-11-17)**: ver `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`. Em aberto: quando o racha acontece, em que ponto do L2 a pista de Gunad aparece, quanto dura o L2 depois do ano 12, a dose do combate ao culto, quem lidera a Igreja e se Mário luta em pessoa contra os Clãs.
+- **Desenvolvimento**: [l2-status-quo-de-abertura-gunad-lakand-mario.md](l2-status-quo-de-abertura-gunad-lakand-mario.md). Alertas: Voz (a primeira espada de Mário não cabe em panorama), Teologia (vencer e prosperar não confirmam o plano) e Risco 4 (o resumo não pode denunciar o desvio cedo demais).
+- **Relação com o cânone**: `conceitos/clas-de-sangue.md`; `conceitos/segregacao.md`; `decisoes/jornada-nolan-acre-2026-10-03.md`; `decisoes/2026-11-12-l2-escala-tempo.md`; `temas/esquema-l2.md`.
+
+> **Pendência resolvida**: os "12 anos" são o intervalo entre o L1 e o L2, contado em resumo (decisão do autor, 2026-11-17; entrada acima). As duas de L1 entram na pauta fixa do próximo checkpoint de bloco.
