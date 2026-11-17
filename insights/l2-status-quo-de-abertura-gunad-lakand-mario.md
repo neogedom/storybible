@@ -27,6 +27,7 @@ timestamp: 2026-11-17T16:50:00-03:00
 
 - **Lakand e Decian:** racham dentro dos 12 anos. No começo do intervalo estão juntos e formam a alcateia deles, a ofensiva contra Charles. A atuação de Decian a favor da expulsão dos cultos aos outros deuses é o que os racha.
 - **A pista de Gunad e o Remanescente:** a pista pode aparecer depois de o Remanescente existir, mas ele não precisa ter esse nome nesse momento. "Remanescente" sugere quem permanece fiel ao Deus verdadeiro, e o desvio de Mário ainda não está explícito. Nessa hora é o grupo dos primeiros cristãos, uma igreja tutelada por Gunad. Pode passar a se chamar Remanescente depois, até com Gunad longe: o que faz considerarem o grupo o Remanescente é ele se opor à política de Mário.
+- **Mário:** pode lutar e estar na frente de combate, também. Concorda que ele não pode ganhar superpoderes.
 
 ## Os 12 anos: intervalo entre o L1 e o L2, contado em resumo (decidido)
 
@@ -51,7 +52,7 @@ Mário lida com os Clãs de Sangue, em forma inspirada em Davi contra os filiste
 - **Alerta de Voz.** Se a expulsão é por armas, é a primeira vez que Mário usa o poder de Estado e a espada, o "método do mundo caído" que ele recusou no L1 ([recrutamento da Kate](recrutamento-da-kate.md)). A decisão de ir à guerra e, se houver, a primeira morte dele não cabem em panorama: decisão crucial sem reflexão interior é erro, então pedem uma cena com a cabeça dele.
 - **Alerta de Teologia.** Vencer não pode confirmar o plano de Mário (Deus confirmar plano do personagem é erro). A vitória precisa custar, e a leitura do sucesso como bênção tem de ser dos personagens, não do texto.
 - **Regra de Ouro.** Registrar quem concordou com a guerra: quando dois dos três (Mário, Nolan, Kate) concordam, o mundo piora.
-- **Em aberto:** Mário luta em pessoa ou comanda? Se luta, o treino paga aqui e a cena em que ele "pode e não faz" fica para depois; se comanda, o treino ainda não tem emprego.
+- **Decidido (conversa, 2026-11-17): Mário pode estar na frente de combate, sem superpoderes.** O treino paga aqui, e a cena em que ele "pode e não faz" fica para depois. Consequências: (a) na linha de frente ele provavelmente mata, e a primeira morte pede interioridade (alerta de Voz, acima); (b) o milagre não pode vencer a batalha (milagre como ferramenta de vitória é erro): ele luta como homem treinado, não como conduto; (c) ajuda o Risco 1, porque Mário age em vez de reagir. Candidata de contraste para o L2: em 2 Sm 5 Davi vai à frente, mas em 2 Sm 11:1, quando os reis saem à guerra, ele fica em Jerusalém e cai. O Mário que sai à guerra nos 12 anos e depois fica no palácio repete esse desenho.
 
 ### 2. A Segregação desmontada
 
@@ -138,11 +139,11 @@ O conhecimento do século XXI de Mário leva o Reino de Genocydo a um progresso 
 
 A tradução com os eruditos da Academia dos Artífices e o ensino do português pela Bíblia **já são canon** (2026-10-21, [Esquema do L2](../temas/esquema-l2.md): o Rei Docente). O que é novo é o **treino de luta**. **Avaliação: entra, com condições.**
 
-- **Os 12 anos dão o tempo.** Tradução em andamento e treino concluído quando o L2 abre. Os Clãs são o primeiro emprego do que ele aprendeu (item 1 dos 12 anos); a recusa final do L2 continua sendo o pagamento maior.
+- **Os 12 anos dão o tempo.** Tradução em andamento e treino concluído quando o L2 abre. Os Clãs são o primeiro emprego do que ele aprendeu: ele vai à frente de combate, sem superpoderes (decidido em 2026-11-17; item 1 dos 12 anos). A recusa final do L2 continua sendo o pagamento maior.
 - **Marca o desvio no corpo antes da lei.** No L1, Mário não sabe do treino que Kate monta e rejeita usar os convertidos para a revolta ([recrutamento da Kate](recrutamento-da-kate.md)); no L2 ele treina, por responsabilidade ("do sentido à responsabilidade"). É o primeiro passo do método do mundo caído.
 - **Continua o motivo do cap. 66.** Varek é o "Golias" de Alavria e cai sem a mão de Mário. O Davi do L2 é o outro rosto de Davi: mãos adestradas para a guerra (Sl 18:34 e 144:1, versículos que Mário ou Nolan podem citar para autorizar o treino), o sangue que o impede de construir o templo (1 Cr 22:8), o poder que corrompe (2 Sm 11) e a fuga de Jerusalém descalço (2 Sm 15:30). Usar o rosto cauteloso de Davi, não o de Golias vencido. O Davi dos salmos de guerra é também o dos filisteus: o versículo que autoriza o treino autoriza a guerra contra os Clãs.
 - **O que o treino paga.** Sem pagamento vira montagem. Candidata forte: a cena em que ele **pode e não faz** (Davi poupa Saul, 1 Sm 24 e 26). No L1 fica a dúvida se o pacifismo dele é escolha ou incapacidade; com anos de treino, a recusa final do L2 (a abdicação) passa a ser escolhida.
-- **Condições:** treino não é superpoder (Teologia: fé como superpoder é erro); competência sem decisividade (ele não vence pela luta); custo na identidade de homem de letras.
+- **Condições:** treino não é superpoder (Teologia: fé como superpoder é erro); competência sem decisividade (ele está na frente, mas não vence a batalha sozinho); custo na identidade de homem de letras.
 - **Quem treina é decisão aberta, com consequência.** Kate treinar Mário simetriza "as mesmas mãos que ensinaram letras a Kate" (Midpoint) e dá fissura humana a Kate (Risco 3). Um Espada da Lei seria a via do Estado.
 
 ## Efeitos cruzados
