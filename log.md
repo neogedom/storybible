@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-17 (Decisões do Ato 3: Lucas sem rosto, Gunad convertido e o hino)
+
+- Decisões do autor registradas em `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`: Lucas continua sem rosto (perda do cap. 31); o convertido na conversa do cap. 52 é Gunad (corrige a leitura anterior, que fazia Gunad converter Mário); Gunad precisa conhecer "Mais perto quero estar" antes de cantá-lo no cap. 63.
+- Atualizados `insights/l1-cap52-gunad-ouve-o-evangelho-completo.md` (mecanismo proposto: ouve Mário cantar pela porta, aprende na cela, jura cantar, verte para o ornickenho na madrugada) e `insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md`, além do inbox. Em aberto: onde cai o reconhecimento de Mário (o autor ainda não decidiu).
+- Nada alterado em capítulos, esquemas ou fichas. Ajustes para a revisão listados na decisão (caps. 48, 52, 61 e 63; esquema do L2 sobre o idioma do hino).
+
 ## 2026-11-17 (Ato 3: Mário reconhece a Providência e a culpa de Lucas)
 
 - Capturada e desenvolvida a ideia do autor em `insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md` e em `insights/_inbox.md` (amarelo; decisão no checkpoint de bloco). Nada alterado em capítulos, `temas/esquema-l1.md` ou fichas.
