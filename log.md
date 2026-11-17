@@ -1,5 +1,12 @@
 # Log de Atualizações
 
+## 2026-11-17 (Volta de Gunad, a pista e o gradiente do combate ao culto)
+
+- O autor respondeu os três pontos que restavam em aberto. **Volta:** Gunad parte no começo do L2 e volta por volta do Jogos, e o "emerge nos becos cantando" é o retorno. **Pista:** alguém de Alavria que reconhece o sobrenome Deltëra, que pode até aparecer num culto da igreja de Gunad. **Dose do combate ao culto:** primeiro, defensável biblicamente segundo os ensinos cristãos e de Jesus; depois, gradativamente, ameaça com poder estatal; depois, violência.
+- O gradiente substitui a recomendação anterior (violência só no L2): cada degrau parece defensável em relação ao anterior, e é isso que faz dele a deriva constantiniana. Fica em aberto onde o L2 começa no gradiente; recomendação: o degrau 1 nos 12 anos, o 2 perto do fim e no Tema Declarado, o 3 no Catalisador e no Break Into 2, que é a ordem do esquema. O fim do patrocínio estatal aos cultos fica na borda entre os degraus 1 e 2.
+- Alerta de Teologia sobre a pista: chegar no culto não pode ser recompensa pela fé de Gunad; precisa de causa comum, custo e fonte ambígua (o homem pode ser também isca, porque Koda era espião de Alavria).
+- Registro: decisões 13 a 15 em `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`, insight do status quo e inbox. Nada alterado em capítulos, esquema do L2 ou fichas.
+
 ## 2026-11-17 (Tutela, liderança da Igreja e o nome "remanescente": do narrador, não de Ornick)
 
 - O autor respondeu quatro pontos em aberto. **Tutela:** enquanto Gunad está fora, a igreja é tutelada por Decian ou por algum convertido da igreja. **Liderança:** a Igreja fundada é liderada, no começo, por Gunad; depois, por Decian ou por um dos fiéis da igreja (fica de fora a Igreja conduzida por burocratas de Nolan). **Nome:** "remanescente" é um título teológico terráqueo; ninguém em Ornick precisa dar esse nome, só o narrador menciona "um remanescente", como substantivo (cai a pergunta de quem nomeia). **Duração do L2 depois do ano 12:** não definida; o autor diz que não é importante agora, então fica adiada.

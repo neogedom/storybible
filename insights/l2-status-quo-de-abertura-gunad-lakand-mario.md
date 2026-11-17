@@ -5,7 +5,7 @@ description: Notas do autor (2026-11-17), seus comentários de review e suas res
 tags: [insight, L2, status-quo, doze-anos, clas, segregacao, progresso, cristianismo, igreja, gunad, lakand, decian, charles, mario, davi, traducao, koda, joachin]
 destino: L2
 status: capturada, avaliada e atualizada com os comentários de review e as respostas em conversa do autor (2026-11-17); esquema do L2 e fichas não alterados
-timestamp: 2026-11-17T17:45:00-03:00
+timestamp: 2026-11-17T18:05:00-03:00
 ---
 
 # Status quo de abertura do L2 — os 12 anos, Gunad, Lakand com Decian e Mário
