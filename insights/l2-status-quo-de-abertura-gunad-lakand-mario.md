@@ -32,6 +32,7 @@ timestamp: 2026-11-17T17:35:00-03:00
 - **Decian e o desmonte dos cultos:** pela fé cristã, sob a teologia de Heiser, o culto cristão é incompatível com o culto a outros deuses. Decian pode se arrepender da tirania de Mário e não do desmonte dos cultos.
 - **O nome Remanescente:** é um título teológico terráqueo. Ninguém em Ornick precisa dar esse nome; basta o narrador mencionar "um remanescente", como substantivo.
 - **Tutela e liderança da Igreja:** enquanto Gunad está fora, a igreja pode ser tutelada por Decian ou por algum convertido da igreja. A Igreja fundada é liderada, no começo, por Gunad; depois, por Decian ou por um dos fiéis da igreja.
+- **Duração do L2 depois do ano 12:** não definida; não é importante agora.
 
 ## Os 12 anos: intervalo entre o L1 e o L2, contado em resumo (decidido)
 
@@ -40,7 +41,7 @@ timestamp: 2026-11-17T17:35:00-03:00
 - **Bate com o cânone.** A [escala de tempo do L2](../decisoes/2026-11-12-l2-escala-tempo.md) e a ficha de [Saboc](../personagens/saboc.md) já falam em salto de 10 a 12 anos e em Saboc com 11 a 13 anos no L2. A decisão do autor dá forma ao salto: não é elipse, é resumo narrado.
 - **As notas de abertura passam para o ano 12.** "Reunindo", "criando", "participando" e "sendo treinado" descrevem um Reino já feito: a tradução em andamento, o treino de Mário concluído, a Igreja fundada. O leitor chega depois do sucesso e vê os custos aparecerem.
 - **O que o salto mexe no esquema (não aplicado; ver "Não alterar agora").** O Casamento e a Gravidez dos gêmeos, hoje no Tema Declarado, só cabem dentro dos 12 anos se Bernardo e Stella forem crianças no L2, como a ficha de Saboc indica ("alguns anos mais velho" que eles). A abolição da escravatura e o "cristianismo cresce" também caem nos 12 anos, e o Rei Docente ("nos primeiros anos de reinado") fica nos capítulos-resumo.
-- **Em aberto: quanto dura o L2 depois do ano 12.** Saboc com 11 a 13 anos "ao longo do L2" sugere poucos anos; a decisão de 2026-11-12 fala em "cerca de uma década de reinado". As duas só convivem se a década for o reinado até o L2 (o intervalo) e o L2 couber nos anos seguintes. A ida e volta de Gunad a Alavria e o grupo dele virar Remanescente em sua ausência pedem anos, o que empurra para uma duração maior. As idades de Saboc e dos gêmeos seguem pendentes.
+- **Adiado: quanto dura o L2 depois do ano 12 (autor, conversa de 2026-11-17: não definido, e não é importante agora).** Fica registrado para o outline: Saboc com 11 a 13 anos "ao longo do L2" sugere poucos anos; a decisão de 2026-11-12 fala em "cerca de uma década de reinado". As duas só convivem se a década for o reinado até o L2 (o intervalo) e o L2 couber nos anos seguintes. A ida e volta de Gunad a Alavria e o grupo dele virar um remanescente em sua ausência pedem anos. As idades de Saboc e dos gêmeos seguem pendentes.
 
 ## O que os 12 anos resumem (lista do autor; avaliação nossa)
 
