@@ -44,3 +44,8 @@ Na manhã seguinte à chegada de Nolan aos arredores de Gus, ele deixa Mira, Sab
 - **Fronteira:** O cap. 41 mostrou Mário na Academia sem ver a fumaça. O cap. 42 acompanha Nolan entrando e buscando o paradeiro dele; a fumaça dos Clãs fica restrita ao POV de Nolan. O cap. 43 passa ao POV de Kate e ao ultimato de Estruzzo.
 - **Fecho:** Corte **A** (Ação / iminência). Nolan confirma que Mário está na carpintaria e precisa alcançá-lo antes da invasão.
 - **Conexões:** [cap. 40](/capitulos/capitulo-40.md), [cap. 41](/capitulos/capitulo-41.md), [cap. 43](/capitulos/capitulo-43.md), [Cidadela de Gus](/lugares/cidadela-de-gus.md).
+
+## Atualização (2026-11-16)
+
+- Abre com um sumário de seis semanas de espera (cerca de 150 palavras): o pedido de custódia pelo posto de muda, a conta do cavaleiro que fecha duas vezes, o dono do celeiro cobrando o silêncio, Ossan emagrecendo, o treino diante do cocho. A cena de entrada passa a abrir em "Na manhã da caravana" (L3).
+- L65 "meses antes"; L89 "nos últimos meses"; L101: a notícia da Mina já chegara à capital e a resposta ao pedido de custódia não viera. O erro de Nolan (supor que a própria carta provocou o pacto do Trono) continua. Ver [a decisão de 2026-11-16](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md).

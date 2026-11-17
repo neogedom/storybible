@@ -5,7 +5,7 @@ pov: Mário
 beat_stc: Vilões se Aproximam
 percentual_l1: ~76,0%
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo41.md
-timestamp: 2026-11-03T21:24:00-03:00
+timestamp: 2026-11-16T12:00:00-03:00
 ---
 
 # Capítulo 41 — A Cátedra dos Proscritos (POV Mário)
@@ -38,6 +38,7 @@ Na manhã seguinte à sua chegada a Gus, Mário acorda após uma noite de sono r
 
 - **A Tentação da Cátedra e o Llyfr:** Prepara a relação de Mário com os textos sagrados e com os intelectuais no L2.
 - **Nolan nomeado a Mário:** No cap. 39, Lakand transmite o nome e os cargos de Nolan; Mário reconhece a associação quando Orval chama Lupe'i de conselheiro.
+- **O mês das luas (revisão de 2026-11-16):** Orval cita o ciclo exato das luas, "trinta e dois dias" (L81), como prova da "ordem regular" contra o ensino do Templo. Mário deixa o aro da esfera parar sob os dedos e pensa nos 29 dias e meio da lua da Terra, sem dizer nada; a fala seguinte dele muda para a teologia. A diferença volta na escapada do L101 ("nenhuma delas existia no meu céu") e na revelação do L105. Ver [Cosmologia](/conceitos/cosmologia.md).
 - **Fronteira:** O cap. 40 deixa Nolan nos arredores de Gus, sem confirmar que Mário está lá. O cap. 41 acompanha Mário na Academia, sem mostrar a fumaça. O cap. 42 acompanha Nolan entrando disfarçado e vendo a fumaça; o cap. 43 passa ao POV de Kate à noite na estrebaria e no ultimato de Estruzzo.
 - **Fecho:** Corte **C** (decisão/retenção). Mário recolhe-se pensativo diante da oferta enquanto a ameaça externa se delineia.
 - **Conexões:** [cap. 40](/capitulos/capitulo-40.md), [cap. 42](/capitulos/capitulo-42.md), [Cidadela de Gus](/lugares/cidadela-de-gus.md).

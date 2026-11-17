@@ -28,6 +28,7 @@ Une em seu sangue duas das mais nobres e antigas linhagens da Metrópole: a ment
 - **Cap. 20:** Ressuscitado por Mário na cela de Devour em um ato de misericórdia sob a Voz.
 - **Cap. 22:** Resgatado do incêndio por Mathias; Nolan o recebe nos braços em choque; Dagmar é sepultada no marco com o anel de prata deixado como herança para Saboc.
 - **Caps. 28-33:** Viaja no séquito de Nolan aos cuidados da ama Mira; permanece abrigado em pousos e na casa de Uorier, sem entrar no mato nem na poeira da Mina.
+- **Cap. 48 (decisão do autor, 2026-11-14):** entra na Metrópole com Mira, na carruagem de Nolan, e Valinor o conhece. **Não há mentira sobre ele:** para todos os efeitos, Saboc sobreviveu naturalmente ao parto. Só **Nuh d'Teraghar** sabe que o bebê ressuscitou: foi o escriba que lhe contou (quem é o escriba fica por definir).
 - **Noite Escura da Alma (~75-80%):** A presença física de Saboc e a lembrança de sua vida operam como a última fresta moral em Nolan, movendo-o a levar água e alimento a Mário no calabouço da Metrópole.
 
 ### Livro 2 — O Herdeiro e o Trono Civil

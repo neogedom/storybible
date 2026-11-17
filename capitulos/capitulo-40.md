@@ -43,3 +43,7 @@ Quase uma hora após o colapso da Mina de Quartzo, Nolan desce ao pátio devasta
 - **Fronteira:** O cap. 39 mostrou Mário chegando a Gus ao meio-dia. O cap. 40 acompanha Nolan até os arredores da cidade, sem confirmar o paradeiro de Mário. O cap. 41 acompanha a manhã de Mário na Academia; o cap. 42 mostra Nolan entrando disfarçado.
 - **Fecho:** Corte **A** (decisão). Nolan escolhe esperar a primeira leva de carroções para atravessar o portão.
 - **Conexões:** [cap. 38](/capitulos/capitulo-38.md), [cap. 39](/capitulos/capitulo-39.md), [cap. 41](/capitulos/capitulo-41.md), [Cidadela de Gus](/lugares/cidadela-de-gus.md).
+
+## Atualização (2026-11-16)
+
+- L5: Nolan vigiava as rampas da Mina havia três semanas. L83: ele escreverá ao Rei pedindo a custódia exclusiva do Estrangeiro e esperará o selo antes de entrar; a espera dura seis semanas (sumário no cap. 42). Ver [a decisão de 2026-11-16](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md).

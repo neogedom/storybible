@@ -8,7 +8,7 @@ ultimo_capitulo: 28
 
 > **Nomenclatura (canon 2026-09-10):** o corpo chama-se **Ordem dos
 > Inquiridores do Sinal** — agentes a serviço do **Templo de Vonos**, em
-> **Rifte** (reino vizinho). O **Sinal** é a frequência de aferição (ver
+> **Rifte** (enclave do Templo, dentro do Reino). O **Sinal** é a frequência de aferição (ver
 > `conceitos/sinal-de-vonos.md`) — não a Ordem; na prosa, não usar "o Sinal"
 > como sinônimo de "a Ordem".
 

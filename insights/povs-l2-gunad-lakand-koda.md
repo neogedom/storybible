@@ -43,7 +43,7 @@ dividir o livro igualmente com Mário nem explicar os planos dos antagonistas.
   mas não pressupõe que Koda esteja em Alavria.
 - O pagamento aprovado para o L1 permanece: Koda corrige Nolan, revelando
   que a promessa de terras aos Clãs antecedeu a carta. A inserção no capítulo
-  47 do manuscrito ainda está pendente.
+  48 do manuscrito ainda está pendente.
 
 ### Compatibilização com o arco existente de Koda
 

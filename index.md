@@ -23,6 +23,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Mira](personagens/mira.md) — Parteira-ama do castelo de Devour, ama de leite de Saboc, testemunha da ressurreição.
 - [Ossan](personagens/ossan.md) — Xamã sobrevivente da corte de Devour, filho do lorde, asset de Nolan (raiz-mestra/rampillas).
 - [Varek d'Alavr](personagens/varek.md) — Comandante da vanguarda de choque de Alavria, leviantar colossal, condutor galvânico de Renath.
+- [Elysia](personagens/elysia.md) — Baroa e líder de capitania; suas terras abasteciam a Metrópole de grão; pede grão e contesta a licença dada aos Clãs (cap. 58).
 
 ## Capítulos
 
@@ -78,15 +79,23 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Layla — Timeline Visual](visuais/layla.md)
 - [Mathias — Registro Visual](visuais/mathias.md)
 - [Devour — Registro Visual](visuais/devour.md)
+- [Valinor — Timeline Visual](visuais/valinor.md)
+- [Koda — Timeline Visual](visuais/koda.md)
 
 ## Lugares
 
 - [Metrópole](lugares/metropole.md) — Capital do Reino de Genocydo, sede do Monólito da Verdade.
-- [Saramant](lugares/saramant.md) — Floresta ao redor da fortaleza de Devour, território de caça de Kate.
-- [Vila de Opium](lugares/opium.md) — Povoado massacrado, onde Mário acorda em Ornick.
+- [Saramant](lugares/saramant.md) — A grande mata do oeste: do Vau e do castelo de Devour até a divisa com Gondor, e além; terras dos daërunmeges.
+- [Vila de Opium](lugares/opium.md) — Povoado massacrado, na ponta oeste da mata, onde Mário acorda em Ornick.
 - [Alavria](lugares/alavria.md) — Nação estrangeira, patrono Renath. Destacamento infiltrado aniquilado no L1; incursão frontal no L2.
 - [Gondor](lugares/gondor.md) — Império estrangeiro que dominou o Reino no Interregno; era de ouro dos vampiros; Guerra do Grifo.
-- [Rifte](lugares/rifte.md) — Reino vizinho; abriga o Templo de Vonos, sede da Ordem dos Inquiridores do Sinal.
+- [Rifte](lugares/rifte.md) — Enclave do Templo de Vonos dentro do Reino, na garganta do baixo Cran; sede da Ordem dos Inquiridores do Sinal.
+- [Mapa do Reino de Genocydo](lugares/mapa-do-reino.md) — Referência geográfica: lugares, estradas, divisas, guia de composição e prompt do mapa do livro.
+- [Valoran](lugares/valoran.md) — Cidade dos armazéns de grão, na planície sul.
+- [Duannis](lugares/duannis.md) — Cidade murada do baixo Cran, perto da divisa com Gondor.
+- [Ilton](lugares/ilton.md) — Cidade do planalto, ao norte da mata, na orla da estepe.
+- [Porto Sul](lugares/porto-sul.md) — Porto do Reino na foz do Cran; estaleiros dos Deltëra.
+- [Landorp](lugares/landorp.md) — Cidade-estado ou reino estrangeiro, onde estudantes derrubaram uma coroa.
 - [Os Moribundos](lugares/moribundos.md) — Campo de batalha da Guerra Milenar virado cicatriz; ecos presos em loop, que reagem à luta que se prepara.
 - [A Subida](lugares/subida-da-mina.md) — O vale da estrada da Mina: a estrada, o mato e o Espinhaço; a bacia de pedra e o carreador que só quem sabe acha.
 - [A Mina de Quartzo](lugares/mina-de-quartzo.md) — A mina que financia a Metrópole; quartzo, dívida e trabalho forçado. Cai enterrada no Ponto Central.
@@ -130,7 +139,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 - [Arco STC](temas/arco-stc.md) — Progressão dos beats do Save The Cat! no Livro 1.
 - [Tom e Voz Narrativa](temas/tom-e-voz.md) — Diretrizes de tom, gênero e voz por POV.
-- [Timeline de Ornick](temas/timeline.md) — Linha do tempo dos eventos.
+- [Timeline de Ornick](temas/timeline.md) — Eventos anteriores à narrativa e notas de estação.
+- [Cronologia do Livro 1](temas/cronologia-l1.md) — Dia de cada capítulo, durações, alertas de consistência e decisões de tempo; versão interativa em [cronologia-l1.html](temas/cronologia-l1.html).
 - [Mapa de Sementes](temas/sementes.md) — Sementes plantadas no L1 para germinar no L2.
 - [Arcos por Livro](temas/arcos-por-livro.md) — Arcos dos personagens secundários por livro.
 - [Esquema do L2](temas/esquema-l2.md) — Outline completo do Livro 2 (A Queda da Coroa).
@@ -144,6 +154,9 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Manto de Xilomagia de Tharin](decisoes/manto-xilomagia-tharin.md) — Chekhov's Gun recuperado no cap. 20; gatilho de ativação, carga finita, recarga por ritual de xilomago (canon 2026-08-14).
 - [Morte de Gaviorn'l antecipada](decisoes/gaviornl-morte-antecipada-hicse.md) — Kate mata Gaviorn'l em "Vilões se Aproximam"; Hícse livre cedo; o pagamento (a própria mão dela) fica em Gus (canon 2026-09-20).
 - [Gaviorn'l nunca soube do selo](decisoes/gaviornl-nunca-soube-do-selo.md) — A ignorância do receptáculo é cláusula da operação: o selo não exigiu ciência nem consentimento; a morte abre por escolha, não por ciência (canon 2026-10-06).
+- [Mapa do Reino: lugares, divisas, Rifte, Opium e Saramant](decisoes/2026-11-14-mapa-do-reino-lugares-e-divisas.md) — Nomes fora do Reino, cidades, divisas, Rifte como enclave, Opium e Saramant alargada (2026-11-14)
+- [Geografia do Cran, rota de Nolan e trajetória dos Clãs](decisoes/2026-11-14-geografia-cran-clas-metropole.md) — A Metrópole é uma ilha com dois braços do Cran; Nolan desce pela estrada real e os Clãs pelas serras do outro lado do rio; mapa em lugares/ (2026-11-14)
+- [Acampamento dos Clãs na planície sul](decisoes/2026-11-15-acampamento-dos-clas.md) — O contrato do Trono fez da planície sul o ponto de reunião dos Clãs; o ataque a Gus não saiu dele; a ordem de Hícse é pressuposta, sem voz (2026-11-15)
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 
 ## Agentes (Workflow)

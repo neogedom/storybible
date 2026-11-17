@@ -97,3 +97,8 @@ sujar as mãos de sangue?"_ — primeiro fio de conexão entre eles.
   cap. 18 mata pela boca de Kate ("Eles não vêm buscar. Eles recolhem.").
 - Referência: `temas/esquema-l1.md`, seção "Cadeia da pista falsa — o
   Castelo de Devour".
+
+## Atualização (2026-11-16)
+
+- **Mário não foge na 3ª noite.** O braço já serve, mas Lakand vela as madrugadas e nenhum homem cruza vinte passos de mato sem o nariz dele. Um sumário novo (L229, cerca de 190 palavras) cobre doze noites: um argumento por noite a Lakand, uma folha diferente de Decian junto da grade, Lakand passando a falar dele como "um homem" e não "uma carga". O prazo de Kenod (L115) vira o relógio: a fuga é na véspera de as duas luas escurecerem. Mário fica preso 14,5 dias (Dias 2 a 17).
+- É a primeira prova do método dele (o argumento funciona em Lakand), semente da confiança do cap. 34 (L97). Ver [a decisão de 2026-11-16](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md).

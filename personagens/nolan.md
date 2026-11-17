@@ -124,7 +124,10 @@ Nolan é o **antagonista estrutural**. Enquanto Genocydo é o antagonista explí
    sufocar o boato; depois do milagre (caps. 22+), caça Mário para possuí-lo
    e usá-lo contra Genocydo
 3. Perde Dagmar (esposa) como consequência de suas escolhas
-4. No final do L1, faz pacto com Terbs — acreditando que usa o deus da corrupção
+4. No final do L1, faz pacto com Terbs — acreditando que usa o deus da corrupção.
+   **Canon 2026-11-13:** o pacto continua de pé (no epílogo do rascunho, Nolan
+   pega o sinete de Terbs oferecido por Benjamim). É distinto do contrato com
+   os Clãs, assinado por Genocydo; Nolan não assinou este.
 
 Nolan **nunca está intelectualmente errado** — essa é a armadilha para o leitor.
 Suas conclusões são lógicas dentro das premissas que ele aceita. O problema
