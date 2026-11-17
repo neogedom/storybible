@@ -2,7 +2,7 @@
 type: Insight
 title: Status quo de abertura do L2 — os 12 anos, Gunad, Lakand com Decian e Mário
 description: Notas do autor (2026-11-17) e seus comentários de review sobre o status quo do L2, checados contra o cânone. Os 12 anos entre o L1 e o L2 são contados em capítulos-resumo; Gunad só parte para Alavria depois deles; Lakand e Decian formam alcateia própria contra Charles; Mário traduz e treina, com inspiração em Davi.
-tags: [insight, L2, status-quo, doze-anos, gunad, lakand, decian, charles, mario, davi, traducao, koda, joachin]
+tags: [insight, L2, status-quo, doze-anos, clas, segregacao, progresso, gunad, lakand, decian, charles, mario, davi, traducao, koda, joachin]
 destino: L2
 status: capturada, avaliada e atualizada com os comentários de review do autor (2026-11-17); esquema do L2 e fichas não alterados
 timestamp: 2026-11-17T16:50:00-03:00
@@ -31,6 +31,49 @@ timestamp: 2026-11-17T16:50:00-03:00
 - **As notas de abertura passam para o ano 12.** "Reunindo", "criando", "participando" e "sendo treinado" descrevem um Reino já feito: a tradução em andamento, o treino de Mário concluído, a Igreja fundada. O leitor chega depois do sucesso e vê os custos aparecerem.
 - **O que o salto mexe no esquema (não aplicado; ver "Não alterar agora").** O Casamento e a Gravidez dos gêmeos, hoje no Tema Declarado, só cabem dentro dos 12 anos se Bernardo e Stella forem crianças no L2, como a ficha de Saboc indica ("alguns anos mais velho" que eles). A abolição da escravatura e o "cristianismo cresce" também caem nos 12 anos, e o Rei Docente ("nos primeiros anos de reinado") fica nos capítulos-resumo.
 - **Em aberto: quanto dura o L2 depois do ano 12.** Saboc com 11 a 13 anos "ao longo do L2" sugere poucos anos; a decisão de 2026-11-12 fala em "cerca de uma década de reinado". As duas só convivem se a década for o reinado até o L2 (o intervalo) e o L2 couber nos anos seguintes. As idades de Saboc e dos gêmeos seguem pendentes.
+
+## O que os 12 anos resumem (lista do autor; avaliação nossa)
+
+Os itens são do autor. O que o cânone já diz, os preços e os alertas são nossos, para decisão. O quarto item da lista (a Igreja) está na seção seguinte.
+
+### 1. Mário e os Clãs: Davi contra os filisteus
+
+Mário lida com os Clãs de Sangue, em forma inspirada em Davi contra os filisteus, e os expulsa para além das fronteiras. **Avaliação: entra, e planta o inimigo do L2.**
+
+- **O que o cânone já diz.** Os Clãs são tribos sem líder geral que veneram Hícse; o contrato que os instalou na planície sul foi assinado por Genocydo ([Clãs de Sangue](../conceitos/clas-de-sangue.md); [signatário do contrato](../decisoes/2026-11-13-signatario-contrato-claos.md)). Expulsá-los é lidar com esse contrato e com várias tribos, não com um exército único.
+- **É o Davi rei, não o pastor.** O cap. 66 já usou o Golias (Varek, o "Golias" de Alavria, cai sem a mão de Mário). Os filisteus de 2 Sm 5 e 8 são guerra de reinado, com a vitória atribuída ao Senhor (2 Sm 5:20) e os ídolos tomados e queimados (2 Sm 5:21; 1 Cr 14:12).
+- **Preço: os expulsos viram a Hoste.** A Hoste de Hícse reúne gornads, lobisomens e Clãs de Sangue ([esquema do L1](../temas/esquema-l1.md), tabela de sementes). Como os filisteus de 2 Sm 21:15-22, eles voltam: a expulsão é a semente do inimigo do L2.
+- **Alerta de Voz.** Se a expulsão é por armas, é a primeira vez que Mário usa o poder de Estado e a espada, o "método do mundo caído" que ele recusou no L1 ([recrutamento da Kate](recrutamento-da-kate.md)). A decisão de ir à guerra e, se houver, a primeira morte dele não cabem em panorama: decisão crucial sem reflexão interior é erro, então pedem uma cena com a cabeça dele.
+- **Alerta de Teologia.** Vencer não pode confirmar o plano de Mário (Deus confirmar plano do personagem é erro). A vitória precisa custar, e a leitura do sucesso como bênção tem de ser dos personagens, não do texto.
+- **Regra de Ouro.** Registrar quem concordou com a guerra: quando dois dos três (Mário, Nolan, Kate) concordam, o mundo piora.
+- **Em aberto:** Mário luta em pessoa ou comanda? Se luta, o treino paga aqui e a cena em que ele "pode e não faz" fica para depois; se comanda, o treino ainda não tem emprego.
+
+### 2. A Segregação desmontada
+
+Mário desmonta a Segregação, espalha leviantares por todo o Reino e traz humanos para dentro da Metrópole. **Avaliação: entra, e o cânone já tem o pai dela.**
+
+- **O que o cânone já diz.** A [Segregação](../conceitos/segregacao.md) é ideia de Nolan e política de Genocydo. Os humanos ficam nos burgos fora da muralha ([Metrópole](../lugares/metropole.md)) e a Mina vive de humanos endividados. [Gus](../lugares/cidadela-de-gus.md) já é o modelo: humanos e leviantares nas mesmas ruas, sob a Capitania de Lupe'i.
+- **Nolan pode executar o desmonte, com sinceridade.** Pelo cânone de 2026-10-03 ([jornada de Nolan](../decisoes/jornada-nolan-acre-2026-10-03.md)), ele mantém a premissa (o contato humano contamina) e trocou o método, de separar para curar; por isso pode querer o fim da Segregação sem mentir. Isso liga o desmonte à burocracia que depois aparelha as Escrituras.
+- **Preço (candidata).** Se a premissa de Nolan segue de pé, a Segregação sai da lei e entra na saúde pública: registro, quarentena, inspeção. Seria um caso de dois dos três concordando (Mário e Nolan) com o mundo piorando.
+- **Espalhar leviantares é o mecanismo do resto.** Leviantares pelas províncias dão administradores, mestres e pregadores; é o que leva Gunad às viagens (ver abaixo) e dá à Igreja alcance.
+- **Lupe'i.** Ele construiu Gus contra a Segregação e vê o projeto virar política de Estado; a divergência dele no L2 custa mais por isso.
+- **Alerta de Teologia.** O milagre não desmonta a Segregação (milagre como ferramenta de vitória é erro): o desmonte é lei, custo e resistência, da elite leviantar e dos credores da Mina.
+
+### 3. Progresso e potência continental
+
+O conhecimento do século XXI de Mário leva o Reino de Genocydo a um progresso inédito em várias áreas e o torna potência continental. **Avaliação: entra, com duas condições.**
+
+- **O que o cânone já diz.** O veículo é o Rei Docente e a Academia dos Artífices ([esquema do L2](../temas/esquema-l2.md), Configuração). O progresso é obra dos artífices com o que Mário lembra, não magia dele: competência sem decisividade, como no treino.
+- **Condição 1: a prosperidade não pode ser bênção no texto.** É a tentação teológica do L2: tomar o progresso como sinal de que Deus abençoa o projeto. Quem lê assim são Mário e a corte; o texto deixa a leitura aberta.
+- **Condição 2: o progresso tem de ter custo.** Estradas, registro e comunicação que dão alcance ao Reino dão a Nolan o instrumento da coerção: o método do mundo caído com ferramentas melhores.
+- **Vira alvo.** Uma potência nova é motivo e pressão para a segunda onda de Alavria, que o cânone já adia para o ato final ([escala de tempo](../decisoes/2026-11-12-l2-escala-tempo.md)).
+- **Em aberto:** quais áreas (o autor disse "várias"). Candidata com gancho no enredo: a imprensa, que multiplica a tradução da Bíblia e, com ela, a brecha da tradução que Nolan explora.
+
+### Como contar os 12 anos
+
+- **Resumo com janelas, não panorama.** Um panorama de conquistas lê-se como autoajuda (alerta de Voz: prosa fluida demais) e esconde o preço. Proposta: uma janela dramatizada por frente, em anos diferentes, ligadas por resumo curto. Candidatas: Mário diante da decisão de expulsar os Clãs, com interioridade; a primeira leva de humanos atravessando a ponte para dentro da muralha; a primeira igreja aberta onde havia templo.
+- **Um capítulo por linha de POV (candidata).** Mário (Clãs, Segregação, progresso), Gunad (Igreja, viagens) e Lakand (a alcateia) abrem o L2 já no POV que vão ter, e o leitor chega ao ano 12 com os três.
+- **O sucesso tem de parecer sucesso.** Se o resumo já denuncia o desvio, o L2 perde a tese (Risco 4: tema claro cedo demais). Rachaduras pequenas, não lições.
 
 ## Gunad: evangelista do Reino e a pista de Alavria
 
