@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-17 (Confirmações e a correção de Decian: o arrependimento é da tirania, não do desmonte)
+
+- O autor confirmou duas leituras: o grupo de Gunad é o resto fiel dentro da Igreja, não uma Igreja à parte; no racha, Lakand fica com os deuses antigos (Mesmia).
+- Corrigiu a candidata de culpa de Decian: pela fé cristã, sob a teologia de Heiser, o culto cristão é incompatível com o culto a outros deuses; Decian pode se arrepender da tirania de Mário e não do desmonte dos cultos. A culpa proposta cai. Entra o princípio "o fim certo, o método errado" (o erro do L2 é o método, não o desmonte), com consequências para o texto a confirmar: o desmonte pode ser narrado sem desculpa; a linha é a dos meios; a incompatibilidade se diz no idioma reformado (canon de 2026-08-10), não no jargão do Conselho Divino.
+- Registro: decisões 7 a 9 em `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`, insight do status quo e inbox. Nada alterado em capítulos, esquema do L2 ou fichas.
+
 ## 2026-11-17 (Depois do lote: racha dentro dos 12 anos, Remanescente sem o nome e Mário na frente de combate)
 
 - O autor respondeu em conversa a três pontos em aberto do lote e pediu para acompanhar o PR #4 (assinado).
