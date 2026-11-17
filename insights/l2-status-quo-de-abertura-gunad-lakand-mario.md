@@ -1,14 +1,14 @@
 ---
 type: Insight
-title: Status quo de abertura do L2 — Gunad, Lakand com Decian e Mário
-description: Notas do autor (2026-11-17) sobre onde cada linha começa no L2, checadas contra o cânone. Gunad evangelista do Reino com a pista de Koda e Joachin; Lakand e Decian formando alcateia própria contra Charles; Mário na tradução e treinando para a espada, com inspiração em Davi.
-tags: [insight, L2, status-quo, gunad, lakand, decian, charles, mario, davi, traducao, koda, joachin]
+title: Status quo de abertura do L2 — os 12 anos, Gunad, Lakand com Decian e Mário
+description: Notas do autor (2026-11-17) e seus comentários de review sobre o status quo do L2, checados contra o cânone. Os 12 anos entre o L1 e o L2 são contados em capítulos-resumo; Gunad só parte para Alavria depois deles; Lakand e Decian formam alcateia própria contra Charles; Mário traduz e treina, com inspiração em Davi.
+tags: [insight, L2, status-quo, doze-anos, gunad, lakand, decian, charles, mario, davi, traducao, koda, joachin]
 destino: L2
-status: capturada e avaliada; esquema do L2 e fichas não alterados
-timestamp: 2026-11-17T12:00:00-03:00
+status: capturada, avaliada e atualizada com os comentários de review do autor (2026-11-17); esquema do L2 e fichas não alterados
+timestamp: 2026-11-17T16:50:00-03:00
 ---
 
-# Status quo de abertura do L2 — Gunad, Lakand com Decian e Mário
+# Status quo de abertura do L2 — os 12 anos, Gunad, Lakand com Decian e Mário
 
 ## Notas do autor (2026-11-17)
 
@@ -16,9 +16,21 @@ timestamp: 2026-11-17T12:00:00-03:00
 - **Lakand:** o status quo é ele e Decian reunindo lobisomens contra a liderança de Charles, criando a própria alcateia.
 - **Mário:** participa da tradução da Bíblia com os artífices, ensina o português aos eruditos por meio dela e é treinado para lutar, porque como Rei precisa ser mais forte do que foi no L1. Tem certa inspiração na história de Davi. Doze anos bastam para ficar bom de luta.
 
-## Ponto a confirmar antes de usar: os 12 anos
+## Esclarecimentos do autor (comentários de review no PR #4, 2026-11-17)
 
-Os "12 anos" são o intervalo entre o L1 e o L2, ou a duração do L2? A decisão de 2026-11-12 ([escala de tempo](../decisoes/2026-11-12-l2-escala-tempo.md)) fala em salto de 10 a 12 anos, com Saboc de 11 a 13 anos "ao longo do L2", e o [Esquema do L2](../temas/esquema-l2.md) abre com "os primeiros anos de reinado". Os verbos das notas ("reunindo", "criando", "participando", "sendo treinado") pedem uma abertura cedo no reinado; se a abertura é no ano 12, a tradução estaria em fase final e o treino concluído. A resposta decide a cena de abertura de cada linha. As pendências de idade de Saboc e dos gêmeos continuam abertas.
+- **Os 12 anos:** um ou mais capítulos que contam, em resumo, o que acontece nesses 12 anos depois do final do L1.
+- **O que acontece neles:** Mário lida com os Clãs, em forma inspirada em Davi contra os filisteus, e os expulsa para além das fronteiras; desmonta a Segregação, espalha leviantares por todo o Reino e traz humanos para dentro da Metrópole; com o conhecimento do século XXI, faz o Reino de Genocydo alcançar progresso nunca visto em várias áreas e virar potência continental.
+- **A Igreja:** o cristianismo é fundado, igrejas são abertas e o culto aos deuses de Ornick é combatido. Gunad participa; depois, Decian. O combate ao culto aos outros deuses é o que racha Lakand e Decian.
+- **Gunad:** só parte quando aparece uma pista muito promissora, e isso só depois dos 12 anos.
+
+## Os 12 anos: intervalo entre o L1 e o L2, contado em resumo (decidido)
+
+**Decidido pelo autor:** os 12 anos são o intervalo depois do final do L1. O L2 abre com um ou mais capítulos que contam esses anos em resumo, e o L2 propriamente dito começa no ano 12. Fica respondida a pergunta que este insight deixava aberta (intervalo ou duração do L2).
+
+- **Bate com o cânone.** A [escala de tempo do L2](../decisoes/2026-11-12-l2-escala-tempo.md) e a ficha de [Saboc](../personagens/saboc.md) já falam em salto de 10 a 12 anos e em Saboc com 11 a 13 anos no L2. A decisão do autor dá forma ao salto: não é elipse, é resumo narrado.
+- **As notas de abertura passam para o ano 12.** "Reunindo", "criando", "participando" e "sendo treinado" descrevem um Reino já feito: a tradução em andamento, o treino de Mário concluído, a Igreja fundada. O leitor chega depois do sucesso e vê os custos aparecerem.
+- **O que o salto mexe no esquema (não aplicado; ver "Não alterar agora").** O Casamento e a Gravidez dos gêmeos, hoje no Tema Declarado, só cabem dentro dos 12 anos se Bernardo e Stella forem crianças no L2, como a ficha de Saboc indica ("alguns anos mais velho" que eles). A abolição da escravatura e o "cristianismo cresce" também caem nos 12 anos, e o Rei Docente ("nos primeiros anos de reinado") fica nos capítulos-resumo.
+- **Em aberto: quanto dura o L2 depois do ano 12.** Saboc com 11 a 13 anos "ao longo do L2" sugere poucos anos; a decisão de 2026-11-12 fala em "cerca de uma década de reinado". As duas só convivem se a década for o reinado até o L2 (o intervalo) e o L2 couber nos anos seguintes. As idades de Saboc e dos gêmeos seguem pendentes.
 
 ## Gunad: evangelista do Reino e a pista de Alavria
 
@@ -27,12 +39,18 @@ Os "12 anos" são o intervalo entre o L1 e o L2, ou a duração do L2? A decisã
 - Os becos passam a ser **escolha**, não ponto de partida. Gunad sai do evangelismo patrocinado quando a Inquisição começa e volta aos becos; "emerge nos becos" vira retorno, e a amizade profunda mede o que a ruptura custa.
 - A delegação já é sinal do desvio. O Rei deixa de pregar e governa; Gunad prega por ele, sob patrocínio do Estado, a primeira forma da "religião do Imperador". Isso dá a Gunad uma cumplicidade real a abandonar, em vez de pureza de partida.
 - Dá alcance geográfico ao POV recorrente (ver [Povs do L2](povs-l2-gunad-lakand-koda.md)): as províncias, não só a capital.
-- Responde à pergunta do insight de POV (a busca leva a Alavria?) e fixa **quando** a pista surge. Como o Remanescente ainda não existe na abertura, o conflito entre a busca e as responsabilidades que aquele insight pede só nasce depois; o custo da viagem fica para o meio do L2.
+- Responde à pergunta do insight de POV (a busca leva a Alavria?) e fixa **quando** a pista surge: só depois dos 12 anos (decidido). O conflito entre a busca e as responsabilidades que aquele insight pede depende de o Remanescente já existir quando ele parte; ver abaixo.
 - A amizade se funda no L1, se o [cap. 52](l1-cap52-gunad-ouve-o-evangelho-completo.md) for aceito.
 
-**Pergunta aberta: por que não parte logo?** Candidata: a pista é parcial e ele escolhe ficar (amizade, missão); a viagem só se impõe quando o Remanescente já depende dele.
+**Decidido pelo autor (comentário de review, 2026-11-17): Gunad só parte quando aparece uma pista muito promissora, e isso só depois dos 12 anos.** Fica respondida a pergunta que estava aqui ("por que não parte logo?"): ele não parte porque não há o que seguir. Koda "desaparece intencionalmente" ([Povs do L2](povs-l2-gunad-lakand-koda.md)), então o rastro é frio, e uma pista fraca não paga uma viagem a Alavria.
 
-**Candidatas de pista ancoradas no cânone** (sugestões, não decisões): (a) um construtor naval foragido de Alavria que reconhece o sobrenome Deltëra (os Deltëra são construtores navais, [Koda](../personagens/koda.md); Alavria arma frotas); (b) uma moeda com a marca do Mestre da Moeda onde não devia estar (Koda controlava os registros de importação, [logística de Alavria](../decisoes/2026-11-12-logistica-alavria.md)). Ambas respeitam "Koda desaparece intencionalmente" e deixam Joachin com vontade própria.
+**Ainda em aberto:**
+
+- **O que muda no ano 12 para a pista aparecer só agora.** Candidata que o cânone sustenta: Alavria volta a se mexer. A segunda onda "pode chegar só no ato final, depois de anos de preparo" ([escala de tempo](../decisoes/2026-11-12-l2-escala-tempo.md)), e os primeiros sinais dessa preparação chegam ao Reino antes dela.
+- **Em que ponto do L2 a pista aparece e ele parte.** (1) Na abertura: a viagem é o primeiro arco de Gunad e os becos vêm no retorno. (2) Depois que o Remanescente existe: a viagem conflita com quem depende dele, como a direção de POV pede. **Recomendação: 2.** Preserva a ordem do esquema (Jogos, depois Vilões se Aproximam) e o conflito que a direção de POV quer; em 1, Gunad sai do palco antes de a Inquisição começar.
+- **Joachin depois de 12 anos.** O refém do L1 é, no L2, um homem formado em Alavria. A mágoa por Gunad ter largado a casa e ficado livre (insight de POV) tem 12 anos para virar lealdade ou rancor, e o que Joachin quer ao ser encontrado é pergunta nova.
+
+**Candidatas de pista ancoradas no cânone** (sugestões, não decisões): (a) um construtor naval foragido de Alavria que reconhece o sobrenome Deltëra (os Deltëra são construtores navais, [Koda](../personagens/koda.md); Alavria arma frotas); (b) uma moeda com a marca do Mestre da Moeda onde não devia estar (Koda controlava os registros de importação, [logística de Alavria](../decisoes/2026-11-12-logistica-alavria.md)). Ambas respeitam "Koda desaparece intencionalmente" e deixam Joachin com vontade própria. A (a) responde também ao "por que agora": o construtor foge quando a frota da segunda onda começa a ser armada.
 
 **Riscos:** a amizade "profunda" não pode ser sentimental; mostrá-la por custo (Gunad discorda em público, Mário escuta). Gunad não pode ser bom demais: o patrocínio é uma falha dele.
 
