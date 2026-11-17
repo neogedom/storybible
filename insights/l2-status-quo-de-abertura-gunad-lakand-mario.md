@@ -2,7 +2,7 @@
 type: Insight
 title: Status quo de abertura do L2 — os 12 anos, Gunad, Lakand com Decian e Mário
 description: Notas do autor (2026-11-17) e seus comentários de review sobre o status quo do L2, checados contra o cânone. Os 12 anos entre o L1 e o L2 são contados em capítulos-resumo; Gunad só parte para Alavria depois deles; Lakand e Decian formam alcateia própria contra Charles; Mário traduz e treina, com inspiração em Davi.
-tags: [insight, L2, status-quo, doze-anos, clas, segregacao, progresso, gunad, lakand, decian, charles, mario, davi, traducao, koda, joachin]
+tags: [insight, L2, status-quo, doze-anos, clas, segregacao, progresso, cristianismo, igreja, gunad, lakand, decian, charles, mario, davi, traducao, koda, joachin]
 destino: L2
 status: capturada, avaliada e atualizada com os comentários de review do autor (2026-11-17); esquema do L2 e fichas não alterados
 timestamp: 2026-11-17T16:50:00-03:00
@@ -75,13 +75,30 @@ O conhecimento do século XXI de Mário leva o Reino de Genocydo a um progresso 
 - **Um capítulo por linha de POV (candidata).** Mário (Clãs, Segregação, progresso), Gunad (Igreja, viagens) e Lakand (a alcateia) abrem o L2 já no POV que vão ter, e o leitor chega ao ano 12 com os três.
 - **O sucesso tem de parecer sucesso.** Se o resumo já denuncia o desvio, o L2 perde a tese (Risco 4: tema claro cedo demais). Rachaduras pequenas, não lições.
 
+## A Igreja nos 12 anos: fundação, igrejas e o combate ao culto
+
+**Decidido pelo autor:** o cristianismo é fundado, igrejas são abertas e o culto aos deuses de Ornick é combatido. Gunad participa; depois, Decian. O combate ao culto aos outros deuses é o que racha Lakand e Decian. **Avaliação: entra, e liga a Configuração ao Tema Declarado.**
+
+- **Liga as pontas do esquema.** O "cristianismo cresce, mas vira a religião do Imperador" e a intimidação legal de hereges e lobisomens (Tema Declarado) passam a ter uma Igreja já fundada como terreno. O combate dos 12 anos é a primeira forma do que vira leis de sangue no Break Into 2.
+- **Dose do combate (a decidir).** O esquema reserva a violência de Estado ao Catalisador e ao Break Into 2 (rebeldes politeístas profanam altares; Mário decreta leis de sangue). Se os 12 anos já têm sangue, o Catalisador perde força. **Recomendação:** nos 12 anos o combate é pregação, templo trocado por igreja, fim do patrocínio estatal e intimidação branda; a espada contra o culto começa no L2.
+- **O culto de Vonos é o primeiro a perder o Estado.** Vonos é o patrono vigente do Reino e a Festa da Poda é do templo dele e da Coroa ([Clãs de Sangue](../conceitos/clas-de-sangue.md); [Metrópole](../lugares/metropole.md)). O que a Coroa faz com ele marca onde nasce a "religião do Imperador".
+- **Os Clãs ligam as duas metades.** A expulsão dos Clãs, que veneram Hícse, já é combate a um culto: a guerra de fronteira e a campanha dentro do Reino são a mesma inércia (o Davi que toma e queima os ídolos dos filisteus).
+- **Quem lidera a Igreja fundada (a decidir).** Se são burocratas de Nolan, o desvio já começou nos 12 anos; se são Gunad e leigos, a institucionalização vem depois e Gunad herda uma Igreja que ajudou a fundar e que depois contesta.
+
+### Gunad, depois Decian, e o racha com Lakand
+
+- **Gunad primeiro.** É evangelista do Reino (seção abaixo). A participação dele na fundação é a base da autoridade espiritual que ele terá no Remanescente.
+- **Decian depois.** Curandeiro, ele tem entrada natural: a cura como testemunho da Igreja (enfermarias nas igrejas) liga-o à "dívida moral" com Mário e ao cap. 11, em que ele curou Mário. Isso também dá base ao cânone de que ele "percebe a corrupção de Mário antes de todos": vê de dentro a Igreja virar braço do Estado e é o primeiro a sair dela, para buscar Gunad e Lupe'i.
+- **O racha (leitura nossa, a confirmar).** O combate ao culto pode atingir Mesmia, a deusa a quem Charles dedica o massacre de Opium (cap. 11) e que corromperá Lakand no L2. Decian fica com a Igreja; Lakand fica com os deuses antigos e com o seu povo. Charles, que mata para Mesmia no L1 e se "converte" falsamente no L2, é o contraste: trocou a deusa pelo favor da Coroa. O racha é a semente da corrupção de Lakand e o custo humano dela.
+- **Quando o racha acontece (a decidir).** O autor deu duas falas que não cabem juntas: no começo do L2, Lakand e Decian reúnem lobisomens contra Charles; e o combate ao culto, nos 12 anos, racha os dois. (A) O racha cai dentro dos 12 anos: o L2 abre com Lakand já sozinho. (B) O combate vem dos 12 anos e o racha é o ponto de ruptura, que cai na abertura do L2: o resumo mostra os dois juntos formando a alcateia, e a primeira cena de Lakand é o fim da amizade. **Recomendação: B.** Honra as duas falas e dá página ao racha de uma amizade silenciosa, que um resumo gastaria em uma linha.
+
 ## Gunad: evangelista do Reino e a pista de Alavria
 
-**Hoje:** a ficha e [arcos por livro](../temas/arcos-por-livro.md) dizem que no L2 ele "vive anônimo" e, no Jogos, "emerge nos becos cantando". **Proposta:** começa evangelista do Reino, amigo próximo do Rei, e a pista de Alavria surge nas viagens. **Avaliação: entra, e melhora o esquema.**
+**Hoje:** a ficha e [arcos por livro](../temas/arcos-por-livro.md) dizem que no L2 ele "vive anônimo" e, no Jogos, "emerge nos becos cantando". **Proposta:** nos 12 anos ele é evangelista do Reino e amigo próximo do Rei, e participa da fundação da Igreja (seção acima); a pista de Alavria surge nas viagens, só depois deles. **Avaliação: entra, e melhora o esquema.**
 
-- Os becos passam a ser **escolha**, não ponto de partida. Gunad sai do evangelismo patrocinado quando a Inquisição começa e volta aos becos; "emerge nos becos" vira retorno, e a amizade profunda mede o que a ruptura custa.
-- A delegação já é sinal do desvio. O Rei deixa de pregar e governa; Gunad prega por ele, sob patrocínio do Estado, a primeira forma da "religião do Imperador". Isso dá a Gunad uma cumplicidade real a abandonar, em vez de pureza de partida.
-- Dá alcance geográfico ao POV recorrente (ver [Povs do L2](povs-l2-gunad-lakand-koda.md)): as províncias, não só a capital.
+- Os becos passam a ser **escolha**, não ponto de partida. Gunad sai do evangelismo patrocinado quando a Inquisição começa e volta aos becos; "emerge nos becos" vira retorno, e a amizade de 12 anos mede o que a ruptura custa.
+- A delegação já é sinal do desvio. O Rei deixa de pregar e governa; Gunad prega por ele, sob patrocínio do Estado, a primeira forma da "religião do Imperador". Doze anos disso dão a Gunad uma cumplicidade real a abandonar, em vez de pureza de partida.
+- Dá alcance geográfico ao POV recorrente (ver [Povs do L2](povs-l2-gunad-lakand-koda.md)): as províncias, não só a capital. Combina com os leviantares espalhados pelo Reino (item 2 dos 12 anos): Gunad é leviantar.
 - Responde à pergunta do insight de POV (a busca leva a Alavria?) e fixa **quando** a pista surge: só depois dos 12 anos (decidido). O conflito entre a busca e as responsabilidades que aquele insight pede depende de o Remanescente já existir quando ele parte; ver abaixo.
 - A amizade se funda no L1, se o [cap. 52](l1-cap52-gunad-ouve-o-evangelho-completo.md) for aceito.
 
@@ -103,17 +120,18 @@ O conhecimento do século XXI de Mário leva o Reino de Genocydo a um progresso 
 
 - **Divide os lobisomens em dois lados da guerra:** a alcateia de Charles (Coroa e Inquisição) e a de Lakand (que alimenta a Hoste). O recrutador do L2 chega com a habilidade já provada.
 - **A semente da corrupção é legítima.** Lakand quis "ser gente" (cap. 13) e quer "voltar a ser importante"; liderar uma alcateia é a resposta honesta a isso, e Mesmia explora o mesmo desejo ([Lakand](../personagens/lakand.md)).
-- **Dá a Decian um fio próprio**, que a rejeição de 2026-09-12 deixou aberto. Não repete a [ideia rejeitada](../ideias-rejeitadas/lakand-renanthao-decian.md), que usava Decian como pronto-socorro.
-- **Exige que Decian se separe de Lakand** antes do recrutamento da Hoste, porque o cânone o manda buscar Gunad e Lupe'i. A separação é o custo humano da corrupção de Lakand.
-- **Causa política candidata:** a intimidação legal de lobisomens (Tema Declarado do L2) e a alcateia de Charles sob registro da Coroa; quem recusa vai com Lakand.
+- **Dá a Decian um fio próprio**, que a rejeição de 2026-09-12 deixou aberto, agora com três tempos: participa da Igreja, racha com Lakand, percebe a corrupção de Mário. Não repete a [ideia rejeitada](../ideias-rejeitadas/lakand-renanthao-decian.md), que usava Decian como pronto-socorro.
+- **Exige que Decian se separe de Lakand** antes do recrutamento da Hoste, porque o cânone o manda buscar Gunad e Lupe'i. O autor deu a causa do racha: o combate ao culto aos outros deuses (seção da Igreja, acima). A separação é o custo humano da corrupção de Lakand.
+- **Terreno do racha (candidata):** a intimidação legal de lobisomens (Tema Declarado do L2) e a alcateia de Charles sob registro da Coroa; quem recusa o registro vai com Lakand. É consequência do combate ao culto, não a causa.
 - **Pergunta aberta:** por que Lakand está fora da órbita de Kate e Mário depois do L1? Sugestão: o "eu perdi" do cap. 20 e a dívida de Saramant, agora que Kate se casa com Mário. A agência de Kate fica protegida se ela decide se o procura.
 
 ## Mário: tradução, língua e treino de luta (Davi)
 
 A tradução com os eruditos da Academia dos Artífices e o ensino do português pela Bíblia **já são canon** (2026-10-21, [Esquema do L2](../temas/esquema-l2.md): o Rei Docente). O que é novo é o **treino de luta**. **Avaliação: entra, com condições.**
 
+- **Os 12 anos dão o tempo.** Tradução em andamento e treino concluído quando o L2 abre. Os Clãs são o primeiro emprego do que ele aprendeu (item 1 dos 12 anos); a recusa final do L2 continua sendo o pagamento maior.
 - **Marca o desvio no corpo antes da lei.** No L1, Mário não sabe do treino que Kate monta e rejeita usar os convertidos para a revolta ([recrutamento da Kate](recrutamento-da-kate.md)); no L2 ele treina, por responsabilidade ("do sentido à responsabilidade"). É o primeiro passo do método do mundo caído.
-- **Continua o motivo do cap. 66.** Varek é "o Golias de Renath" e cai sem a mão de Mário. O Davi do L2 é o outro rosto de Davi: mãos adestradas para a guerra (Sl 18:34 e 144:1, versículos que Mário ou Nolan podem citar para autorizar o treino), o sangue que o impede de construir o templo (1 Cr 22:8), o poder que corrompe (2 Sm 11) e a fuga de Jerusalém descalço (2 Sm 15:30). Usar o rosto cauteloso de Davi, não o de Golias vencido.
+- **Continua o motivo do cap. 66.** Varek é o "Golias" de Alavria e cai sem a mão de Mário. O Davi do L2 é o outro rosto de Davi: mãos adestradas para a guerra (Sl 18:34 e 144:1, versículos que Mário ou Nolan podem citar para autorizar o treino), o sangue que o impede de construir o templo (1 Cr 22:8), o poder que corrompe (2 Sm 11) e a fuga de Jerusalém descalço (2 Sm 15:30). Usar o rosto cauteloso de Davi, não o de Golias vencido. O Davi dos salmos de guerra é também o dos filisteus: o versículo que autoriza o treino autoriza a guerra contra os Clãs.
 - **O que o treino paga.** Sem pagamento vira montagem. Candidata forte: a cena em que ele **pode e não faz** (Davi poupa Saul, 1 Sm 24 e 26). No L1 fica a dúvida se o pacifismo dele é escolha ou incapacidade; com anos de treino, a recusa final do L2 (a abdicação) passa a ser escolhida.
 - **Condições:** treino não é superpoder (Teologia: fé como superpoder é erro); competência sem decisividade (ele não vence pela luta); custo na identidade de homem de letras.
 - **Quem treina é decisão aberta, com consequência.** Kate treinar Mário simetriza "as mesmas mãos que ensinaram letras a Kate" (Midpoint) e dá fissura humana a Kate (Risco 3). Um Espada da Lei seria a via do Estado.
@@ -122,7 +140,9 @@ A tradução com os eruditos da Academia dos Artífices e o ensino do português
 
 - **Corpo de tradução.** Orval (aviso do cap. 41) e Piet (achado do epílogo, [fecho do L1](l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md)) são os eruditos naturais; a "brecha da tradução" que Nolan explora nasce do que Orval avisou.
 - **"Consumado".** Primeira palavra que trava a tradução; na ponte da dívida, "quitado".
-- **Remanescente.** Nasce no Jogos; o Gunad evangelista do Reino é a origem da autoridade espiritual dele.
+- **Remanescente.** Nasce no Jogos; o Gunad evangelista do Reino e o Decian que sai da Igreja antes de todos são a origem dele, com Lupe'i, que viu o projeto de Gus virar política de Estado.
+- **Hoste.** Os Clãs expulsos e os lobisomens que ficam com Lakand são a matéria da Hoste de Hícse; os 12 anos dão a ela o tempo que a decisão de 2026-11-12 pede.
+- **Alavria.** O progresso do Reino é o motivo da segunda onda, e a pista de Gunad pode ser o primeiro sinal dela.
 
 ## Não alterar agora
 
