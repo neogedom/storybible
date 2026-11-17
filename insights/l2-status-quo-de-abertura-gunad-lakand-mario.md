@@ -23,6 +23,10 @@ timestamp: 2026-11-17T16:50:00-03:00
 - **A Igreja:** o cristianismo é fundado, igrejas são abertas e o culto aos deuses de Ornick é combatido. Gunad participa; depois, Decian. O combate ao culto aos outros deuses é o que racha Lakand e Decian.
 - **Gunad:** só parte quando aparece uma pista muito promissora, e isso só depois dos 12 anos.
 
+## Esclarecimentos do autor depois do lote (conversa, 2026-11-17)
+
+- **Lakand e Decian:** racham dentro dos 12 anos. No começo do intervalo estão juntos e formam a alcateia deles, a ofensiva contra Charles. A atuação de Decian a favor da expulsão dos cultos aos outros deuses é o que os racha.
+
 ## Os 12 anos: intervalo entre o L1 e o L2, contado em resumo (decidido)
 
 **Decidido pelo autor:** os 12 anos são o intervalo depois do final do L1. O L2 abre com um ou mais capítulos que contam esses anos em resumo, e o L2 propriamente dito começa no ano 12. Fica respondida a pergunta que este insight deixava aberta (intervalo ou duração do L2).
@@ -71,8 +75,8 @@ O conhecimento do século XXI de Mário leva o Reino de Genocydo a um progresso 
 
 ### Como contar os 12 anos
 
-- **Resumo com janelas, não panorama.** Um panorama de conquistas lê-se como autoajuda (alerta de Voz: prosa fluida demais) e esconde o preço. Proposta: uma janela dramatizada por frente, em anos diferentes, ligadas por resumo curto. Candidatas: Mário diante da decisão de expulsar os Clãs, com interioridade; a primeira leva de humanos atravessando a ponte para dentro da muralha; a primeira igreja aberta onde havia templo.
-- **Um capítulo por linha de POV (candidata).** Mário (Clãs, Segregação, progresso), Gunad (Igreja, viagens) e Lakand (a alcateia) abrem o L2 já no POV que vão ter, e o leitor chega ao ano 12 com os três.
+- **Resumo com janelas, não panorama.** Um panorama de conquistas lê-se como autoajuda (alerta de Voz: prosa fluida demais) e esconde o preço. Proposta: uma janela dramatizada por frente, em anos diferentes, ligadas por resumo curto. Candidatas: Mário diante da decisão de expulsar os Clãs, com interioridade; a primeira leva de humanos atravessando a ponte para dentro da muralha; a primeira igreja aberta onde havia templo; Lakand e Decian no dia do racha, em POV de Lakand, porque o fim de uma amizade silenciosa não cabe em uma linha de resumo.
+- **Um capítulo por linha de POV (candidata).** Mário (Clãs, Segregação, progresso), Gunad (Igreja, viagens) e Lakand (a alcateia e o racha) abrem o L2 já no POV que vão ter, e o leitor chega ao ano 12 com os três.
 - **O sucesso tem de parecer sucesso.** Se o resumo já denuncia o desvio, o L2 perde a tese (Risco 4: tema claro cedo demais). Rachaduras pequenas, não lições.
 
 ## A Igreja nos 12 anos: fundação, igrejas e o combate ao culto
@@ -89,8 +93,9 @@ O conhecimento do século XXI de Mário leva o Reino de Genocydo a um progresso 
 
 - **Gunad primeiro.** É evangelista do Reino (seção abaixo). A participação dele na fundação é a base da autoridade espiritual que ele terá no Remanescente.
 - **Decian depois.** Curandeiro, ele tem entrada natural: a cura como testemunho da Igreja (enfermarias nas igrejas) liga-o à "dívida moral" com Mário e ao cap. 11, em que ele curou Mário. Isso também dá base ao cânone de que ele "percebe a corrupção de Mário antes de todos": vê de dentro a Igreja virar braço do Estado e é o primeiro a sair dela, para buscar Gunad e Lupe'i.
-- **O racha (leitura nossa, a confirmar).** O combate ao culto pode atingir Mesmia, a deusa a quem Charles dedica o massacre de Opium (cap. 11) e que corromperá Lakand no L2. Decian fica com a Igreja; Lakand fica com os deuses antigos e com o seu povo. Charles, que mata para Mesmia no L1 e se "converte" falsamente no L2, é o contraste: trocou a deusa pelo favor da Coroa. O racha é a semente da corrupção de Lakand e o custo humano dela.
-- **Quando o racha acontece (a decidir).** O autor deu duas falas que não cabem juntas: no começo do L2, Lakand e Decian reúnem lobisomens contra Charles; e o combate ao culto, nos 12 anos, racha os dois. (A) O racha cai dentro dos 12 anos: o L2 abre com Lakand já sozinho. (B) O combate vem dos 12 anos e o racha é o ponto de ruptura, que cai na abertura do L2: o resumo mostra os dois juntos formando a alcateia, e a primeira cena de Lakand é o fim da amizade. **Recomendação: B.** Honra as duas falas e dá página ao racha de uma amizade silenciosa, que um resumo gastaria em uma linha.
+- **O racha (a causa é do autor; o lado de Lakand é leitura nossa).** A atuação de Decian a favor da expulsão dos cultos aos outros deuses é o que racha os dois. Leitura nossa, a confirmar: o combate pode atingir Mesmia, a deusa a quem Charles dedica o massacre de Opium (cap. 11) e que corromperá Lakand no L2, e Lakand fica com os deuses antigos e com o seu povo. Charles, que mata para Mesmia no L1 e se "converte" falsamente no L2, é o contraste: trocou a deusa pelo favor da Coroa. O racha é a semente da corrupção de Lakand e o custo humano dela.
+- **Quando o racha acontece (decidido, conversa de 2026-11-17).** Dentro dos 12 anos. No começo do intervalo os dois estão juntos e formam a alcateia, a ofensiva contra Charles; o racha vem depois, quando a atuação de Decian pela expulsão dos cultos pesa. O L2 abre com Lakand à frente da alcateia, já sem Decian. Isso resolve as duas falas que não cabiam juntas: o "começo" da primeira nota é o começo do intervalo, não o do L2. A opção que punha o racha na abertura do L2 cai.
+- **Decian e o que ele ajudou a erguer (candidata).** O curandeiro que curou os carrascos em Opium passa a atuar pela expulsão dos cultos. Quando "percebe a corrupção de Mário antes de todos", percebe também o que ele mesmo ajudou a erguer: o que sente é culpa, além de lucidez. A atuação dele tem de caber no que ele é (palavra, cura, testemunho), sem virar carrasco.
 
 ## Gunad: evangelista do Reino e a pista de Alavria
 
@@ -120,8 +125,9 @@ O conhecimento do século XXI de Mário leva o Reino de Genocydo a um progresso 
 
 - **Divide os lobisomens em dois lados da guerra:** a alcateia de Charles (Coroa e Inquisição) e a de Lakand (que alimenta a Hoste). O recrutador do L2 chega com a habilidade já provada.
 - **A semente da corrupção é legítima.** Lakand quis "ser gente" (cap. 13) e quer "voltar a ser importante"; liderar uma alcateia é a resposta honesta a isso, e Mesmia explora o mesmo desejo ([Lakand](../personagens/lakand.md)).
-- **Dá a Decian um fio próprio**, que a rejeição de 2026-09-12 deixou aberto, agora com três tempos: participa da Igreja, racha com Lakand, percebe a corrupção de Mário. Não repete a [ideia rejeitada](../ideias-rejeitadas/lakand-renanthao-decian.md), que usava Decian como pronto-socorro.
-- **Exige que Decian se separe de Lakand** antes do recrutamento da Hoste, porque o cânone o manda buscar Gunad e Lupe'i. O autor deu a causa do racha: o combate ao culto aos outros deuses (seção da Igreja, acima). A separação é o custo humano da corrupção de Lakand.
+- **Dá a Decian um fio próprio**, que a rejeição de 2026-09-12 deixou aberto, agora com três tempos: forma a alcateia com Lakand, racha com ele pela expulsão dos cultos, percebe a corrupção de Mário. Não repete a [ideia rejeitada](../ideias-rejeitadas/lakand-renanthao-decian.md), que usava Decian como pronto-socorro.
+- **Exige que Decian se separe de Lakand** antes do recrutamento da Hoste, porque o cânone o manda buscar Gunad e Lupe'i. O autor deu a causa e o tempo do racha: a atuação de Decian pela expulsão dos cultos, dentro dos 12 anos (seção da Igreja, acima). A separação é o custo humano da corrupção de Lakand.
+- **Lakand no ano 12.** À frente da própria alcateia contra Charles, já sem Decian: o status quo de Lakand no L2 é o que o racha deixou.
 - **Terreno do racha (candidata):** a intimidação legal de lobisomens (Tema Declarado do L2) e a alcateia de Charles sob registro da Coroa; quem recusa o registro vai com Lakand. É consequência do combate ao culto, não a causa.
 - **Pergunta aberta:** por que Lakand está fora da órbita de Kate e Mário depois do L1? Sugestão: o "eu perdi" do cap. 20 e a dívida de Saramant, agora que Kate se casa com Mário. A agência de Kate fica protegida se ela decide se o procura.
 
