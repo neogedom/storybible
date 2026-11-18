@@ -38,7 +38,7 @@ Fluente, direta e brutal, menos régia que a de Gaviorn'l (`temas/tom-e-voz.md`)
 - **Kate:** inimigo. Ela lhe fura o olho (cap. 12); ele a chama de "fujona" e afirma que ela soltou Hícse ao matar Gaviorn'l (cap. 43).
 - **Terbs:** é o executor do pacto; o ultimato de Gus sai da boca dele.
 - **Clãs de Sangue:** não são gornads. Diante dele, os guerreiros baixam os olhos e calam a discussão (cap. 47).
-- **Mário:** só o conhece pelo nome (Kate o traz da muralha de Gus, cap. 44). Vê-o pela primeira vez no cap. 47; Estruzzo o mede com o olho amarelo, como carga que deve chegar inteira ("O homem tem que chegar vivo ao Rei"), e não fala com ele.
+- **Mário:** só o conhece pelo nome (Kate o traz da muralha de Gus, cap. 44). Vê-o pela primeira vez no cap. 47; Estruzzo examina com o olho amarelo o pescoço esfolado e os dedos roxos dele ("O prisioneiro tem que chegar vivo ao Rei", diz aos Clãs) e não fala com ele.
 
 ## Aparições
 
@@ -46,7 +46,7 @@ Fluente, direta e brutal, menos régia que a de Gaviorn'l (`temas/tom-e-voz.md`)
 - **Cap. 43:** emerge da sombra junto ao mourão da paliçada norte de Gus; revela que Terbs cedeu o vale aos Clãs e afirma que Kate soltou Hícse; entrega o ultimato.
 - **Cap. 44:** ausente; Kate relata o ultimato ("com Estruzzo na frente").
 - **Cap. 45:** lembrança de Kate.
-- **Cap. 47:** os Clãs que levam Mário discutem a letra da cantiga de Hícse; Estruzzo se desprende da sombra do paredão, manda calar e andar, mede Mário e se recolhe quando a carroça quebra.
+- **Cap. 47:** os Clãs que levam Mário discutem a letra da cantiga de Hícse; Estruzzo se desprende da sombra do paredão, manda calar e andar, examina Mário e se recolhe quando a carroça quebra.
 - **Cap. 55:** menção ao bando dele na noite da purga interna em que Theodore chamou Kate.
 
 ## Notas e pendências
