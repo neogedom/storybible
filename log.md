@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-11-18 (Cap. 47: comentários do autor aplicados em lote)
+
+- **Capítulo:** os 23 marcadores `(* ... )` do cap. 47 foram aplicados e removidos; o texto ganhou uma cena antes da carroça (a discussão sobre a cantiga de Hícse e a entrada de Estruzzo) e descrições da serra pela percepção de Mário. Detalhe no relatório da sessão.
+- **Canon fixado:** Karrk comanda a coluna dos Clãs (centenas), com cerca de trinta de guarda; as tribos cantam a cantiga com variações; Mário só sabe o que ouviu em Gus (Hícse, por Nolan; Estruzzo, por Kate); o desfiladeiro ficou sem nome ("Despenhadeiro das Cruzes" saiu: Ornick não tem cruzes). Mapa conferido: os Clãs ficam a leste do Cran, nas Montanhas Esquecidas, e a rota é a da decisão de 2026-11-14 (`decisoes/2026-11-14-geografia-cran-clas-metropole.md`).
+- **Estruzzo:** ficha nova em `personagens/estruzzo.md`, com a aparência dos caps. 12 e 43 e **seis chifres** (o autor deixou "seis ou sete"; escolha a confirmar).
+- **Ideia de L2:** o pagamento do milagre do rapaz (a igreja nos Clãs, o ataque e o racha de Gunad e Decian) foi para o inbox (`insights/_inbox.md`, 2026-11-18) e para a semente #32. Nada no L1 mudou por causa dela.
+- **Atualizados:** `temas/sementes.md` (#32), `conceitos/clas-de-sangue.md`, `index.md`. Mini-INGEST do cap. 47 não rodou: o capítulo ainda não foi fechado.
+
 ## 2026-11-17 (Volta de Gunad, a pista e o gradiente do combate ao culto)
 
 - O autor respondeu os três pontos que restavam em aberto. **Volta:** Gunad parte no começo do L2 e volta por volta do Jogos, e o "emerge nos becos cantando" é o retorno. **Pista:** alguém de Alavria que reconhece o sobrenome Deltëra, que pode até aparecer num culto da igreja de Gunad. **Dose do combate ao culto:** primeiro, defensável biblicamente segundo os ensinos cristãos e de Jesus; depois, gradativamente, ameaça com poder estatal; depois, violência.

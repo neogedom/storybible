@@ -24,6 +24,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Ossan](personagens/ossan.md) — Xamã sobrevivente da corte de Devour, filho do lorde, asset de Nolan (raiz-mestra/rampillas).
 - [Varek d'Alavr](personagens/varek.md) — Comandante da vanguarda de choque de Alavria, leviantar colossal, condutor galvânico de Renath.
 - [Elysia](personagens/elysia.md) — Baroa e líder de capitania; suas terras abasteciam a Metrópole de grão; pede grão e contesta a licença dada aos Clãs (cap. 58).
+- [Estruzzo](personagens/estruzzo.md) — Gornad de seis chifres, sucessor de Gaviorn'l no comando dos gornads; agente de Terbs junto aos Clãs de Sangue (caps. 12, 43, 47).
 
 ## Capítulos
 

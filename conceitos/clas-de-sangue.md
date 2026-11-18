@@ -20,6 +20,17 @@ timestamp: 2026-11-09T14:55:00Z
 - A representação das tribos no contrato com a Coroa mencionado no cap. 46
   ainda não está definida. O signatário pela Coroa é Genocydo (decisão
   2026-11-13); Nolan não assinou.
+- **A coluna do cap. 47 (rascunho, 2026-11-18).** Karrk, que nos caps. 58, 63
+  e 64 aparece como líder dos Clãs diante do Trono, comanda a coluna que leva
+  Mário: centenas de homens (cap. 44: mais de duzentos a cavalo; cap. 46:
+  "centenas"; decisão 2026-11-14), por trilha de serra, sem estrada, do
+  outro lado do Cran. Cerca de trinta formam a guarda do prisioneiro. A
+  coluna reúne tribos diferentes, que cantam a mesma cantiga de Hícse com
+  variações (quem "bebe sangue" e quem "devora carne"). Em aberto: conciliar
+  "sem líder geral" com Karrk como líder dos Clãs diante do Trono (cap. 58);
+  a hipótese do rascunho é que ele comanda esta expedição por força do pacto.
+- Gornads não são dos Clãs: Estruzzo, de Terbs, acompanha a coluna e os
+  guerreiros baixam os olhos diante dele.
 
 ## Língua
 
