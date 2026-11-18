@@ -32,13 +32,14 @@ Status: decidido pelo autor em 2026-11-17: os itens 1 a 3 em comentários de rev
 13. **Gunad parte no começo do L2 e volta por volta do Jogos; o "emerge nos becos cantando" é o retorno.**
 14. **A pista pode ser alguém de Alavria que reconhece o sobrenome Deltëra, e pode até aparecer num culto da igreja de Gunad.** Alerta de Teologia: a pista chegar no culto não pode ser recompensa pela fé de Gunad; precisa de causa comum, custo e fonte ambígua.
 15. **A dose do combate ao culto é um gradiente:** primeiro, defensável biblicamente segundo os ensinos cristãos e de Jesus; depois, gradativamente, a ameaça com poder estatal; depois, a violência. Cada degrau parece defensável em relação ao anterior, o que faz do gradiente a deriva constantiniana.
+16. **O gradiente se distribui pelo esquema assim (conversa de 2026-11-18):** o degrau 1 nos 12 anos, o 2 perto do fim e no Tema Declarado, o 3 no Catalisador e no Break Into 2, que é a ordem do esquema. Se a violência já começasse nos 12 anos, o Catalisador e o Break Into 2 mudariam de função (por exemplo, a lei passaria a legalizar a violência que já acontece); não é o caminho escolhido.
 
 Duração do L2 depois do ano 12: o autor não definiu e disse que não é importante agora (ver "Adiado").
 
 ## Em aberto
 
-- **Onde o L2 começa no gradiente do combate ao culto (item 15).** Recomendação: o degrau 1 enche a maior parte dos 12 anos; o 2 começa perto do fim e atravessa o Tema Declarado; o 3 fica para o Catalisador e o Break Into 2 (a ordem que o esquema já tem). Se a violência já começa nos 12 anos, o Catalisador e o Break Into 2 mudam de função. O fim do patrocínio estatal aos cultos fica na borda entre os degraus 1 e 2.
-- **A pessoa da pista (item 14):** quem é (candidata: um construtor naval foragido de Alavria), por que está no culto, o que sabe, se é só fugitivo ou também isca, e o que muda no ano 12 para ela aparecer só agora (candidata: Alavria volta a se mexer, com a frota da segunda onda).
+- **O fim do patrocínio estatal aos cultos** fica na borda entre os degraus 1 e 2 do gradiente (a decidir).
+- **A pessoa da pista (item 14):** quem é (candidata: um construtor naval foragido de Alavria), por que está no culto, o que sabe, se é só fugitivo ou também isca, e o que muda no ano 12 para ela aparecer só agora (candidata: Alavria volta a se mexer, com a frota da segunda onda). O autor ainda não decidiu (2026-11-18).
 
 ## Adiado
 
@@ -56,6 +57,6 @@ Duração do L2 depois do ano 12: o autor não definiu e disse que não é impor
 | [Lupe'i](../personagens/lupei.md), arco no L2 | a ficha diz que "funda o Remanescente": conferir, porque o grupo já existe como primeiros cristãos e ninguém em Ornick precisa dar o nome (item 11) |
 | Esquema do L2, Jogos e Vilões se Aproximam | "Remanescente nasce" e "Gunad emerge nos becos" (Jogos), "Gunad lidera Rede de esconderijos" (Vilões se Aproximam): conferir com a partida de Gunad e o retorno dele: "Gunad emerge nos becos" passa a ser o retorno (item 13), e "Remanescente nasce" passa a ser o grupo ser um remanescente na ausência dele (item 11) |
 | Esquema do L2, sementes e fichas que citam "o Remanescente" (Gunad, Lupe'i, Decian, Kate, Saboc, Nuh) | "o Remanescente" é forma curta de trabalho; no texto, o narrador diz "um remanescente" e nenhum personagem usa o nome (item 11) |
-| Esquema do L2, Configuração, Tema Declarado, Catalisador e Break Into 2 | o gradiente do combate ao culto (item 15) distribui o combate por esses beats: conferir onde o L2 começa no gradiente |
+| Esquema do L2, Configuração, Tema Declarado, Catalisador e Break Into 2 | o gradiente do combate ao culto (itens 15 e 16) distribui o combate por esses beats: degrau 1 nos 12 anos, 2 perto do fim e no Tema Declarado, 3 no Catalisador e no Break Into 2 |
 | [Arcos por livro](../temas/arcos-por-livro.md) | linhas de Gunad, Lupe'i e Decian no L2 |
 | [Escala de tempo do L2](2026-11-12-l2-escala-tempo.md) e [Saboc](../personagens/saboc.md) | conferir "salto de 10 a 12 anos" e as idades com o L2 abrindo no ano 12 |
