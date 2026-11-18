@@ -13,7 +13,7 @@ timestamp: 2026-11-18T12:00:00-03:00
 
 Gornad de patente alta. A patente dos gornads se mede em chifres: Tharin tem três (casta baixa, gramática quebrada), Gaviorn'l tinha sete (o lorde) e Estruzzo tem **seis**. Subordinado de Gaviorn'l no cap. 12, assume a vara de comando e a liderança dos gornads depois da morte dele (cap. 43). É agente de Terbs: cobra o vale e o entrega aos Clãs de Sangue, que veneram Hícse e não são gornads.
 
-> **Seis chifres (decisão de 2026-11-18, aplicada no cap. 47).** O autor deixou "seis ou sete". Ficou seis para manter Estruzzo abaixo de Gaviorn'l, o Sete-Chifres, e para que a vara de comando passe a ele por vaga, não por igualdade de patente. Para mudar, basta trocar o número no cap. 47 (linha 18).
+> **Seis chifres (confirmado pelo autor em 2026-11-18; cap. 47, linha 18).** O autor deixou "seis ou sete" e confirmou seis: Estruzzo fica abaixo de Gaviorn'l, o Sete-Chifres, e a vara de comando passa a ele por vaga, não por igualdade de patente. Decisão registrada em `decisoes/2026-11-18-karrk-chefe-de-um-cla-estruzzo-seis-chifres-e-fecho-do-cap-47.md`.
 
 ## Aparência canônica
 

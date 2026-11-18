@@ -15,22 +15,28 @@ timestamp: 2026-11-09T14:55:00Z
 - Nunca foram exterminados. Foram afastados e espalhados por diferentes
   regiões do continente, isolados de outros povos. Seus modos de vida eram
   considerados bárbaros por quem os cercava.
-- Organizam-se em tribos. Há vários Clãs, sem um líder geral que os reúna.
-  No Reino de Genocydo, vários deles vivem nas Montanhas Esquecidas.
+- Organizam-se em tribos. Há **dezenas de Clãs**, sem um líder geral que os
+  reúna (decisão do autor, 2026-11-18). No Reino de Genocydo, vários deles
+  vivem nas Montanhas Esquecidas. Cada Clã tem o seu desenho de escarificação
+  no rosto (cap. 47).
 - A representação das tribos no contrato com a Coroa mencionado no cap. 46
   ainda não está definida. O signatário pela Coroa é Genocydo (decisão
   2026-11-13); Nolan não assinou.
-- **A coluna do cap. 47 (rascunho, 2026-11-18).** Karrk, que nos caps. 58, 63
-  e 64 aparece como líder dos Clãs diante do Trono, comanda a coluna que leva
-  Mário: centenas de homens (cap. 44: mais de duzentos a cavalo; cap. 46:
-  "centenas"; decisão 2026-11-14), por trilha de serra, sem estrada, do
-  outro lado do Cran. Cerca de trinta formam a guarda do prisioneiro. A
-  coluna reúne tribos diferentes, que cantam a mesma cantiga de Hícse com
-  variações (quem "bebe sangue" e quem "devora carne"). Em aberto: conciliar
-  "sem líder geral" com Karrk como líder dos Clãs diante do Trono (cap. 58);
-  a hipótese do rascunho é que ele comanda esta expedição por força do pacto.
+- **Karrk é chefe de um Clã, não líder geral (decisão do autor, 2026-11-18).**
+  Das dezenas de Clãs, vieram vários, em coluna de centenas (cap. 44: mais de
+  duzentos a cavalo; cap. 46: "centenas"; decisão 2026-11-14), por trilha de
+  serra, sem estrada, do outro lado do Cran. O Clã de Karrk ficou com a
+  custódia de Mário: cerca de trinta formam a guarda (todos com os três
+  riscos paralelos no rosto) e a "parte do acordo com o Trono" é a dele.
+  Os outros Clãs marcham em companhias com desenho próprio e cantam a mesma
+  cantiga de Hícse com variações ("o ferro bebe" ou "o ferro devora"). É por
+  ter a custódia que Karrk acompanha Benjamim e vigia o pacto diante da
+  Coroa (caps. 58, 61, 63, 64 e 66).
 - Gornads não são dos Clãs: Estruzzo, de Terbs, acompanha a coluna e os
   guerreiros baixam os olhos diante dele.
+- **Em aberto:** como os Clãs decidem em conjunto (conselho de chefes?), por
+  que a custódia ficou com o Clã de Karrk, quantos Clãs vieram e como cada um
+  é representado no contrato com a Coroa.
 
 ## Língua
 

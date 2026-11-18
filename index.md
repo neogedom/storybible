@@ -158,6 +158,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Mapa do Reino: lugares, divisas, Rifte, Opium e Saramant](decisoes/2026-11-14-mapa-do-reino-lugares-e-divisas.md) — Nomes fora do Reino, cidades, divisas, Rifte como enclave, Opium e Saramant alargada (2026-11-14)
 - [Geografia do Cran, rota de Nolan e trajetória dos Clãs](decisoes/2026-11-14-geografia-cran-clas-metropole.md) — A Metrópole é uma ilha com dois braços do Cran; Nolan desce pela estrada real e os Clãs pelas serras do outro lado do rio; mapa em lugares/ (2026-11-14)
 - [Acampamento dos Clãs na planície sul](decisoes/2026-11-15-acampamento-dos-clas.md) — O contrato do Trono fez da planície sul o ponto de reunião dos Clãs; o ataque a Gus não saiu dele; a ordem de Hícse é pressuposta, sem voz (2026-11-15)
+- [Karrk, chefe de um Clã; Estruzzo, seis chifres; fecho do cap. 47](decisoes/2026-11-18-karrk-chefe-de-um-cla-estruzzo-seis-chifres-e-fecho-do-cap-47.md) — Os Clãs são dezenas, sem líder geral; Karrk chefia o que guarda Mário; Estruzzo tem seis chifres (2026-11-18).
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 
 ## Agentes (Workflow)

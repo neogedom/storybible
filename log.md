@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-18 (Cap. 47, segunda rodada: Karrk, seis chifres e o fecho)
+
+- O autor confirmou **seis chifres** para Estruzzo, autorizou corrigir a frase final do cap. 47 e propôs **Karrk como chefe de um das dezenas de Clãs, não líder geral**. Registro: `decisoes/2026-11-18-karrk-chefe-de-um-cla-estruzzo-seis-chifres-e-fecho-do-cap-47.md`.
+- **Texto:** cap. 47 (marcas de rosto por Clã, a guarda é o Clã de Karrk, a escolta das carroças é de outro Clã; fecho sem aforismo, com as mãos atadas e o pensamento "Cravos") e cap. 58, linha 31 ("líder dos Clãs de Sangue" virou "chefe do Clã que trouxera o Estrangeiro"). Caps. 61, 63, 64 e 66 sem alteração.
+- **Atualizados:** `conceitos/clas-de-sangue.md` (dezenas de Clãs; a pendência "líder geral" fechada), `personagens/estruzzo.md`, `temas/sementes.md` (#32), `index.md`.
+
 ## 2026-11-18 (Cap. 47: comentários do autor aplicados em lote)
 
 - **Capítulo:** os 23 marcadores `(* ... )` do cap. 47 foram aplicados e removidos; o texto ganhou uma cena antes da carroça (a discussão sobre a cantiga de Hícse e a entrada de Estruzzo) e descrições da serra pela percepção de Mário. Detalhe no relatório da sessão.
