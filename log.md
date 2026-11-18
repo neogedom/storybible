@@ -1,5 +1,25 @@
 # Log de Atualizações
 
+## 2026-11-18 (Cap. 47, terceira rodada: conselho de chefes e guarda mista)
+
+- O autor respondeu as pendências dos Clãs: **conselho de chefes**; **Karrk é o mais diplomático dos chefes**; **vieram todos os Clãs, um contingente de cada**, para que nenhum traísse os outros. Isso **substitui** a hipótese da rodada anterior ("o Clã de Karrk ficou com a custódia") e a da primeira ("Karrk comanda a coluna"). Registro atualizado em `decisoes/2026-11-18-karrk-chefe-de-um-cla-estruzzo-seis-chifres-e-fecho-do-cap-47.md`.
+- **Texto:** cap. 47 (a guarda de trinta mistura os desenhos de rosto, um guerreiro de cada Clã, e se vigia; a briga da cantiga fica dentro da guarda; Karrk negocia antes de ameaçar; a ordem de amarrar é dada "para a guarda") e cap. 58, linha 31 ("o chefe que os outros chefes dos Clãs tinham escolhido para tratar com a Coroa").
+- **Atualizados:** `conceitos/clas-de-sangue.md`, `index.md`. **Nova:** ficha `personagens/karrk.md`.
+
+## 2026-11-18 (Cap. 47, segunda rodada: Karrk, seis chifres e o fecho)
+
+- O autor confirmou **seis chifres** para Estruzzo, autorizou corrigir a frase final do cap. 47 e propôs **Karrk como chefe de um das dezenas de Clãs, não líder geral**. Registro: `decisoes/2026-11-18-karrk-chefe-de-um-cla-estruzzo-seis-chifres-e-fecho-do-cap-47.md`.
+- **Texto:** cap. 47 (marcas de rosto por Clã, a guarda é o Clã de Karrk, a escolta das carroças é de outro Clã; fecho sem aforismo, com as mãos atadas e o pensamento "Cravos") e cap. 58, linha 31 ("líder dos Clãs de Sangue" virou "chefe do Clã que trouxera o Estrangeiro"). Caps. 61, 63, 64 e 66 sem alteração.
+- **Atualizados:** `conceitos/clas-de-sangue.md` (dezenas de Clãs; a pendência "líder geral" fechada), `personagens/estruzzo.md`, `temas/sementes.md` (#32), `index.md`.
+
+## 2026-11-18 (Cap. 47: comentários do autor aplicados em lote)
+
+- **Capítulo:** os 23 marcadores `(* ... )` do cap. 47 foram aplicados e removidos; o texto ganhou uma cena antes da carroça (a discussão sobre a cantiga de Hícse e a entrada de Estruzzo) e descrições da serra pela percepção de Mário. Detalhe no relatório da sessão.
+- **Canon fixado:** Karrk comanda a coluna dos Clãs (centenas), com cerca de trinta de guarda; as tribos cantam a cantiga com variações; Mário só sabe o que ouviu em Gus (Hícse, por Nolan; Estruzzo, por Kate); o desfiladeiro ficou sem nome ("Despenhadeiro das Cruzes" saiu: Ornick não tem cruzes). Mapa conferido: os Clãs ficam a leste do Cran, nas Montanhas Esquecidas, e a rota é a da decisão de 2026-11-14 (`decisoes/2026-11-14-geografia-cran-clas-metropole.md`).
+- **Estruzzo:** ficha nova em `personagens/estruzzo.md`, com a aparência dos caps. 12 e 43 e **seis chifres** (o autor deixou "seis ou sete"; escolha a confirmar).
+- **Ideia de L2:** o pagamento do milagre do rapaz (a igreja nos Clãs, o ataque e o racha de Gunad e Decian) foi para o inbox (`insights/_inbox.md`, 2026-11-18) e para a semente #32. Nada no L1 mudou por causa dela.
+- **Atualizados:** `temas/sementes.md` (#32), `conceitos/clas-de-sangue.md`, `index.md`. Mini-INGEST do cap. 47 não rodou: o capítulo ainda não foi fechado.
+
 ## 2026-11-17 (Volta de Gunad, a pista e o gradiente do combate ao culto)
 
 - O autor respondeu os três pontos que restavam em aberto. **Volta:** Gunad parte no começo do L2 e volta por volta do Jogos, e o "emerge nos becos cantando" é o retorno. **Pista:** alguém de Alavria que reconhece o sobrenome Deltëra, que pode até aparecer num culto da igreja de Gunad. **Dose do combate ao culto:** primeiro, defensável biblicamente segundo os ensinos cristãos e de Jesus; depois, gradativamente, ameaça com poder estatal; depois, violência.

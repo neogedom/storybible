@@ -15,11 +15,34 @@ timestamp: 2026-11-09T14:55:00Z
 - Nunca foram exterminados. Foram afastados e espalhados por diferentes
   regiões do continente, isolados de outros povos. Seus modos de vida eram
   considerados bárbaros por quem os cercava.
-- Organizam-se em tribos. Há vários Clãs, sem um líder geral que os reúna.
-  No Reino de Genocydo, vários deles vivem nas Montanhas Esquecidas.
+- Organizam-se em tribos. Há **dezenas de Clãs**, sem um líder geral que os
+  reúna; as decisões comuns saem de um **conselho de chefes** (decisões do
+  autor, 2026-11-18). No Reino de Genocydo, vários deles vivem nas Montanhas
+  Esquecidas. Cada Clã tem o seu desenho de escarificação no rosto (cap. 47).
 - A representação das tribos no contrato com a Coroa mencionado no cap. 46
   ainda não está definida. O signatário pela Coroa é Genocydo (decisão
   2026-11-13); Nolan não assinou.
+- **Karrk é chefe de um Clã, não líder geral, e o mais diplomático dos
+  chefes (decisão do autor, 2026-11-18).** É por isso que o conselho o põe
+  para tratar com a Coroa: acompanha Benjamim e vigia o pacto (caps. 58, 61,
+  63, 64 e 66) e conduz a guarda de Mário no cap. 47. Marca de rosto: três
+  riscos paralelos. Pesa pela negociação, não pela força: no cap. 47 ele
+  lembra o acordo e vai de um homem a outro antes de ameaçar de empalamento.
+- **Vieram todos os Clãs, cada um com um só contingente de guerreiros**
+  (decisão do autor, 2026-11-18), para que nenhum Clã pudesse trair os
+  outros. A coluna que leva Mário tem centenas de homens (cap. 44: mais de
+  duzentos a cavalo; cap. 46: "centenas"; decisão 2026-11-14), por trilha de
+  serra, sem estrada, do outro lado do Cran. Cada companhia tem um desenho
+  de rosto só. A guarda de Mário, de cerca de trinta, mistura os desenhos
+  (um guerreiro de cada Clã) e vigia a si mesma: eles se olham de esguelha e
+  brigam pela letra da cantiga de Hícse, que cada Clã canta com variações
+  ("o ferro bebe" ou "o ferro devora").
+- Gornads não são dos Clãs: Estruzzo, de Terbs, acompanha a coluna e os
+  guerreiros baixam os olhos diante dele.
+- **Em aberto:** quantos Clãs são, ao certo, e de que tamanho é cada
+  contingente; como cada Clã é representado no contrato com a Coroa; e o que
+  as baixas do cap. 64, que atingem contingentes de todos os Clãs, fazem com
+  o conselho no L2.
 
 ## Língua
 
