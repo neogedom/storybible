@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-18 (Cap. 47, terceira rodada: conselho de chefes e guarda mista)
+
+- O autor respondeu as pendências dos Clãs: **conselho de chefes**; **Karrk é o mais diplomático dos chefes**; **vieram todos os Clãs, um contingente de cada**, para que nenhum traísse os outros. Isso **substitui** a hipótese da rodada anterior ("o Clã de Karrk ficou com a custódia") e a da primeira ("Karrk comanda a coluna"). Registro atualizado em `decisoes/2026-11-18-karrk-chefe-de-um-cla-estruzzo-seis-chifres-e-fecho-do-cap-47.md`.
+- **Texto:** cap. 47 (a guarda de trinta mistura os desenhos de rosto, um guerreiro de cada Clã, e se vigia; a briga da cantiga fica dentro da guarda; Karrk negocia antes de ameaçar; a ordem de amarrar é dada "para a guarda") e cap. 58, linha 31 ("o chefe que os outros chefes dos Clãs tinham escolhido para tratar com a Coroa").
+- **Atualizados:** `conceitos/clas-de-sangue.md`, `index.md`. **Nova:** ficha `personagens/karrk.md`.
+
 ## 2026-11-18 (Cap. 47, segunda rodada: Karrk, seis chifres e o fecho)
 
 - O autor confirmou **seis chifres** para Estruzzo, autorizou corrigir a frase final do cap. 47 e propôs **Karrk como chefe de um das dezenas de Clãs, não líder geral**. Registro: `decisoes/2026-11-18-karrk-chefe-de-um-cla-estruzzo-seis-chifres-e-fecho-do-cap-47.md`.
