@@ -1,5 +1,12 @@
 # Log de Atualizações
 
+## 2026-11-18 (Gradiente acordado, exemplos de Providência e a tese dos milagres no L2)
+
+- **Gradiente do combate ao culto:** o autor concordou com a recomendação. O degrau 1 nos 12 anos, o 2 perto do fim e no Tema Declarado, o 3 no Catalisador e no Break Into 2, que é a ordem do esquema (se a violência começasse nos 12 anos, esses dois beats mudariam de função; não é o caminho escolhido). Decisão dos 12 anos ganha o item 16. **Pessoa da pista** (quem é, por que está no culto, o que sabe): não decidido.
+- **Ato 3, exemplos do autor:** os milagres vieram apesar de Mário opor-se a Deus; a similaridade cultural e linguística de Ornick com a Terra dá âncoras para pregar; já havia uma Bíblia em Ornick. A terceira já era o item 1. As outras têm base no cânone: o "jardim-replicado" da cosmologia (a fala da língua é dom da Voz, caps. 5 e 13) e os milagres dos caps. 5, 13, 20, 23, 25 e 34. Agrupados em quatro imagens, com recomendação de onde cai cada uma (cap. 52: 1 a 3; Garfo: 4). Em `insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md`.
+- **Tese do L2:** Decian e Gunad também começam a fazer milagres e os milagres por meio de Mário cessam, seguindo o "Devanescentismo Concêntrico" de Iago Martins (grafia do autor; uma busca pública não achou a fonte). Registrada em `insights/l2-milagres-passam-de-mario-a-decian-e-gunad.md` e `decisoes/2026-11-18-l2-milagres-passam-de-mario-a-decian-e-gunad.md`. **Alerta:** ao pé da letra bate com o cânone de Milagre (o poder nunca é dele; milagre é evento, não categoria); reconciliação recomendada: a tese é metafísica da storybible, não regra dos personagens.
+- Nada alterado em capítulos, esquema do L2, fichas nem `conceitos/milagre.md`.
+
 ## 2026-11-17 (Volta de Gunad, a pista e o gradiente do combate ao culto)
 
 - O autor respondeu os três pontos que restavam em aberto. **Volta:** Gunad parte no começo do L2 e volta por volta do Jogos, e o "emerge nos becos cantando" é o retorno. **Pista:** alguém de Alavria que reconhece o sobrenome Deltëra, que pode até aparecer num culto da igreja de Gunad. **Dose do combate ao culto:** primeiro, defensável biblicamente segundo os ensinos cristãos e de Jesus; depois, gradativamente, ameaça com poder estatal; depois, violência.
