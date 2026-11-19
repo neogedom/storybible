@@ -1,11 +1,11 @@
 ---
 type: Insight
 title: Ato 3, Mário reconhece a Providência e que a culpa de Lucas não era dele
-description: Na noite do Garfo, Mário reconhece que a culpa pela morte de Lucas não era sua e que a teologia nunca decidiu destino algum. A conversa do cap. 52, em que Gunad é o convertido, e o diário de Kraviam preparam o reconhecimento mostrando a Providência agindo em Ornick muito antes dele. Fecha o arco do precisava entender antes de agir e prepara a oração do cap. 66.
-tags: [insight, L1, ato-3, mario, lucas, providencia, gunad, kraviam, hino, garfo, cap-52, cap-61, cap-63]
+description: Na noite do Garfo, Mário reconhece que a culpa pela morte de Lucas não era sua e que a teologia nunca decidiu destino algum. A conversa do cap. 52, em que Gunad é o convertido, e o diário de Kraviam preparam o reconhecimento mostrando a Providência agindo em Ornick muito antes dele. Fecha o arco do precisava entender antes de agir e prepara a oração do cap. 66. Exemplos do autor de 2026-11-18 (os milagres vieram apesar dele; o idioma e a cultura de Ornick já tinham as âncoras).
+tags: [insight, L1, ato-3, mario, lucas, providencia, gunad, kraviam, hino, garfo, milagre, idioma, cap-52, cap-61, cap-63]
 destino: checkpoint de bloco (caps. 52 e 61 a 63 ainda não revisados); L2 (a lição que Mário esquece)
 status: em desenvolvimento; semáforo amarelo; decididos pelo autor (Lucas sem rosto; Gunad convertido); em aberto onde cai o reconhecimento
-timestamp: 2026-11-17T22:00:00-03:00
+timestamp: 2026-11-18T08:10:00-03:00
 ---
 
 # Ato 3: Mário reconhece a Providência e a culpa de Lucas
@@ -13,6 +13,16 @@ timestamp: 2026-11-17T22:00:00-03:00
 ## A ideia (autor, 2026-11-17)
 
 Em algum momento antes do final, no Ato 3, Mário reconhece que a culpa pela morte de Lucas não foi dele e que não precisava cobri-la com teologia, porque não é a teologia que decide o destino de nada: é Deus. Somam-se o conhecimento de que Kraviam veio da Terra muito antes dele e a conversa com Gunad, que é o convertido, na qual Mário percebe a Providência agindo em Ornick desde muito antes dele e em coisas que nem supunha serem obra de Deus.
+
+## Exemplos acrescentados pelo autor (2026-11-18)
+
+Mais três coisas que Mário não supunha serem obra de Deus:
+
+- **Os milagres aconteceram mesmo com Mário opondo-se a Deus.**
+- **A similaridade cultural de Ornick com a Terra, inclusive linguística**, que dá a Mário âncoras para pregar o evangelho.
+- **Já haver uma Bíblia em Ornick.**
+
+Avaliação: os três entram. O terceiro já era o item 1 da lista (a Bíblia de Kraviam). Os dois primeiros têm base no cânone (ver a seção das coisas que ele não supunha). Com os três, a lista chega a seis imagens, mais do que a regra de "três, no máximo quatro", então a recomendação é agrupar.
 
 ## Semáforo
 
@@ -70,12 +80,16 @@ A ideia é a dobradiça. A mesma constatação ("nunca tive controle", "nunca fu
 
 ## As coisas que ele não supunha serem obra de Deus
 
-Recomendo três, no máximo quatro; mais vira ladainha.
+Recomendo quatro, no máximo; mais vira ladainha. Com os exemplos do autor (2026-11-18) há seis imagens, então a recomendação é agrupar.
 
-1. **A Bíblia de Kraviam.** O livro do homem que o quer morto é o único exemplar em Ornick, preservado pela caça de Nolan e devolvido a um cristão na cela; é o texto que será traduzido. Ancora o "muito antes": Deus semeou o livro décadas antes, por um vaso indigno. Kraviam era reformado nominal como Mário: a mesma teologia, o mesmo castelo, nenhuma graça.
+1. **A Bíblia de Kraviam** (é também o exemplo do autor: já haver uma Bíblia em Ornick). O livro do homem que o quer morto é o único exemplar em Ornick, preservado pela caça de Nolan e devolvido a um cristão na cela; é o texto que será traduzido. Ancora o "muito antes": Deus semeou o livro décadas antes, por um vaso indigno. Kraviam era reformado nominal como Mário: a mesma teologia, o mesmo castelo, nenhuma graça.
 2. **A canção que o trouxe até a porta e voltou na praça.** Nasceu na noite em que ele confessou Lucas (cap. 26), cantada para ninguém, e na véspera do Garfo, cantada sem saber por quê, foi o que fez Gunad parar à porta. A dor privada virou o canto de um convertido, que a devolve a ele no Garfo, sem a mão dele. É a imagem que liga Lucas e Providência sem explicar nada.
-3. **A ponte da dívida já estava pronta.** Mário achou que a tradução da substituição para o idioma da dívida (Tronk, cap. 25) era sua; a dívida hereditária já era o idioma de Ornick. Cuidado para não dizer que a Mina foi boa: o idioma estava lá, o mal continua mal.
-4. **(opcional, para o L2) As prensas e os hegralianos** (cap. 41): tipo móvel de Vitysh, copistas e ceticismo contra a casta sacerdotal, preparação para a Escritura em língua comum. Orval "sem saber" lançando um Sola Scriptura.
+3. **O idioma já estava pronto** (agrupa a ponte da dívida com o exemplo do autor sobre a similaridade cultural e linguística). Mário achou que a tradução da substituição para o idioma da dívida (Tronk, cap. 25) era sua; a dívida hereditária já era o idioma de Ornick. O mesmo vale para as outras âncoras: as imagens pegam (a dívida e o resgate; candidata: a Festa da Poda, que dá Jo 15) porque Ornick é um "jardim-replicado", com flora, fauna e material linguístico de origem terráquea por derivação e não por coincidência (Marduk e Vonos, [cosmologia](../conceitos/cosmologia.md)), e o "Eu Sou vem reclamar a cópia". Mário não conhece o mecanismo; vê só que as âncoras estavam lá. Cuidados: a compreensão e a fala da língua em si são dom da Voz (caps. 5 e 13, [Mário](../personagens/mario.md)), então a similaridade é das imagens e das raízes e não substitui o dom; e o idioma estava lá, o mal continua mal (não dizer que a Mina nem a colonização de Marduk foram boas).
+4. **Os milagres vieram apesar dele** (exemplo do autor, 2026-11-18; base no cânone de [Milagre](../conceitos/milagre.md) e de [Mário](../personagens/mario.md)). O dom da língua veio quando ele lia a Voz como delírio (caps. 5 e 13); a ressurreição de Saboc, com ele febril e sem fé (cap. 20); a cura do cap. 23, com ele movido e sem decidir; a do cap. 25, que ele pediu por ato de vontade, para provar a tese de que a teologia bastava, no meio da pregação "em oposição à Voz", e funcionou. Nem a ira do cap. 21 em diante cancelou o dom. "O poder nunca foi dele" vira, no Garfo, o que ele vê por dentro, e "Eu nunca fui necessário" (cap. 21) volta como descanso. É a imagem mais próxima de Mário e a que prepara o L2 (a tese dos milagres que o deixam). Cuidados: "apesar de", nunca "por causa de" (a rebeldia segue pecado, e o silêncio da Voz lido como validação no cap. 25 continua sendo erro do personagem, não do texto); nada de "Deus confirma o plano" nem de "fé como superpoder"; o custo (cap. 34: medo e silêncio da Voz) não some.
+
+**Onde cada uma cai (recomendação).** Cap. 52, perceber sem concluir: as imagens 1, 2 e 3 (o livro, a canção e a metáfora que pega sem ser explicada). Garfo, reconhecer: a 4, em uma linha, porque é a que Mário vive por dentro e fecha o "nunca fui necessário".
+
+**Fica para o L2:** as prensas e os hegralianos (cap. 41): tipo móvel de Vitysh, copistas e ceticismo contra a casta sacerdotal, preparação para a Escritura em língua comum. Orval "sem saber" lançando um Sola Scriptura.
 
 **Evitar:** tornar boas as mortes de Tae-Tabor, Dagmar ou as filhas de Uorier. Deus não é autor do pecado; a Providência é tecido, não justificativa.
 
@@ -87,7 +101,7 @@ Recomendo três, no máximo quatro; mais vira ladainha.
 
 ## Guardrails
 
-- **Teologia:** não pode ser "Deus confirma plano do personagem". A Providência tira dele a indispensabilidade, não o protege.
+- **Teologia:** não pode ser "Deus confirma plano do personagem". A Providência tira dele a indispensabilidade, não o protege. Nos milagres que vieram apesar dele, o silêncio da Voz lido como validação (cap. 25) continua sendo a leitura errada do personagem; o texto não a endossa.
 - **Voz:** decisão crucial com reflexão interior (atende); sem tom de autoajuda; fala sem aforismo final; a cena exemplo termina em imagem.
 - **Risco 1:** a decisão é dele, em POV dele.
 - **Risco 4:** a fórmula só no Garfo.
@@ -95,15 +109,15 @@ Recomendo três, no máximo quatro; mais vira ladainha.
 
 ## Efeito no L2 e no epílogo
 
-- **L2:** a lição do Garfo é a que Mário esquece ao decretar destinos (leis de sangue, execuções): "não sou eu quem decide" vira "eu decido". Mede a queda do desvio constantiniano e reabre a tese moral (Risco 5). A abdicação final é o retorno à lição.
-- **Epílogo** ([Orval e Piet](l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md)): a Providência em três escalas, o homem (Lucas), o lugar (Kraviam, o hino, Gunad) e o cosmos (o Está Consumado chegando ao Sinal). Mário vê a menor; o leitor vê as três.
+- **L2:** a lição do Garfo é a que Mário esquece ao decretar destinos (leis de sangue, execuções): "não sou eu quem decide" vira "eu decido". Mede a queda do desvio constantiniano e reabre a tese moral (Risco 5). A abdicação final é o retorno à lição. Com o item 4, a lição também é a de que os milagres nunca foram dele; no L2 eles o deixam e passam a Decian e Gunad (tese do autor, [insight](l2-milagres-passam-de-mario-a-decian-e-gunad.md)).
+- **Epílogo** ([Orval e Piet](l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md)): a Providência em três escalas, o homem (Lucas), o lugar (Kraviam, o hino, Gunad e a cópia de Ornick, cuja língua e cultura já carregavam as âncoras) e o cosmos (o Está Consumado chegando ao Sinal). Mário vê a menor; o leitor vê as três.
 
 ## Desenvolvimento (cinco perguntas)
 
-1. **O que muda?** O cap. 52 ganha a primeira visão da Providência (diário aparado, a canção que abre a porta, a conversão de Gunad); o Garfo ganha o reconhecimento; o cap. 63 ganha o hino como dom devolvido; Gunad ganha papel no arco de Mário.
+1. **O que muda?** O cap. 52 ganha a primeira visão da Providência (diário aparado, a canção que abre a porta, a conversão de Gunad); o Garfo ganha o reconhecimento e, em uma linha, os milagres que nunca foram dele; o cap. 63 ganha o hino como dom devolvido; Gunad ganha papel no arco de Mário.
 2. **Em quais capítulos?** 52, 61 e 63 (principais); 47 (linha 37) e 66 (eco); ajustes de memória nos caps. 47, 52 e 61.
 3. **Qual o custo?** Uma cena curta ou dois parágrafos no Garfo; risco de sermão e de autoajuda; reabrir linhas dos caps. 47, 52 e 61.
-4. **O que paga?** Os caps. 1, 11, 21 e 26; o Break Into 3; a oração do cap. 66; no L2, a lição esquecida.
+4. **O que paga?** Os caps. 1, 11, 21 e 26; os caps. 5, 13, 20, 23, 25 e 34 (o dom que nunca foi dele); o Break Into 3; a oração do cap. 66; no L2, a lição esquecida e a perda dos milagres.
 5. **Cena exemplo** (referência de função, não texto do livro). A cena do cap. 52 está em [Gunad no cap. 52](l1-cap52-gunad-ouve-o-evangelho-completo.md). Garfo, POV de Mário:
 
    > Tentou ver o rosto do irmão e não achou: sobrava a porta fechada, a maçaneta de latão, o corredor. Durante anos aquela ausência fora a prova do que ele não soubera fazer. Agora, com o ferro mordendo a cartilagem, parecia apenas uma porta, e do outro lado dela não era ele quem decidia coisa alguma. Nunca fora: nem sobre o irmão, nem sobre o rapaz da calçada, nem sobre a manhã seguinte.
@@ -113,6 +127,7 @@ Recomendo três, no máximo quatro; mais vira ladainha.
 1. **Onde cai o reconhecimento (o autor ainda não decidiu).** **No cap. 61 existente, ampliado**, ou numa cena nova entre o 61 e o 63.
 2. **Por que Gunad largou a casa e os títulos do pai** (a "abdicação" do cap. 52; o quando está decidido: antes da chegada de Mário). **O motivo que ele dá é a casa do pai (o acordo com Alavria, o irmão Joachin dado como refém), mas no fundo não sabe dizer por quê.** Liga com a busca por Joachin no L2 e dá a Gunad uma ferida de irmão parecida com a de Mário.
 3. **Kraviam (já fixado no texto, não é decisão aberta).** Chegou há quase trinta anos (cap. 54, linhas 27 e 31; [cronologia](../temas/cronologia-l1.md), A12), e o diário do cap. 52 data o início do século XXI. Opcional: Mário notar a dessincronia entre os mundos, já que o diário e os trinta anos não casam por completo (a cronologia deixa o número para o autor ajustar).
+4. **Quais imagens entram e onde (o autor decide).** **Cap. 52: o livro, a canção e a metáfora que pega sem explicação (1 a 3). Garfo: os milagres que nunca foram dele, em uma linha (4). As prensas e os hegralianos ficam para o L2.**
 
 ## Conexões
 
@@ -120,4 +135,5 @@ Recomendo três, no máximo quatro; mais vira ladainha.
 - [Fecho do L1 com Orval e Piet](l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md): a Providência no cosmos.
 - [Duas vias do Ato 2](duas-vias-de-salvacao-ato-2.md): a Bíblia na cela e o abandono da ferramenta.
 - [Decisão de 2026-11-17](../decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md): Lucas sem rosto, Gunad convertido e o hino aprendido antes de cantar.
+- [Os milagres deixam Mário e passam a Decian e Gunad (L2)](l2-milagres-passam-de-mario-a-decian-e-gunad.md): a tese do autor que o item 4 prepara.
 - [Mário](../personagens/mario.md), [Cosmologia](../conceitos/cosmologia.md) e [Riscos Estruturais](../conceitos/riscos-estruturais.md).
