@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-19 (Castelo de Quartzo: inverno, onde canta e o céu do meio-dia)
+
+- Decisões do autor: (1) no inverno o castelo canta menos, porque o volume segue o calor que as placas pegaram (opção A); (2) canta a casca (fachada, biblioteca, torres, tribuna) e o núcleo de mármore e calcário só abafa, com a Torre dos Ventos como casca; (3) as galerias correm atrás da fachada, e fogo nelas esquenta a casca. Registradas em `lugares/metropole.md`; os itens em aberto do inbox foram fechados.
+- Livro (mesma branch da sessão): caps. 63 (linha 29) e 66 (linha 19), "céu cinzento" passa a "céu pálido", porque o meio-dia do clímax tem calor forte e o silêncio do 66 depende dele.
+- `insights/_inbox.md`: beats dos caps. 60, 61 e 65 ajustados às decisões (zumbido fino e tardio no 60, Lamento curto no 61, galerias atrás da fachada no 65); a lista de verdes ganha o céu (aplicado) e os casos de casca e núcleo (52, 54, 58 e 63).
+
 ## 2026-11-19 (Regra de horário do Castelo de Quartzo confirmada)
 
 - Decisão do autor: o castelo canta nas viradas de temperatura e cala no frio parado (silêncio com as placas frias, zumbido com o calor, Lamento ao entardecer). Em `lugares/metropole.md` a regra deixa de ser inferência e passa a canon.
