@@ -1,24 +1,24 @@
 ---
 type: Insight
 title: L2, os milagres deixam Mário e passam a Decian e Gunad
-description: Tese do autor (2026-11-18) para o L2, seguindo o "Devanescentismo Concêntrico" de Iago Martins (grafia do autor). Enquanto a Palavra chega a um lugar onde nunca esteve, quem a leva recebe sinais que testificam a autoridade do que diz. Decian e Gunad passam a fazer milagres, e os de Mário cessam. Avaliada contra o cânone de Milagre, só cabe como metafísica da storybible, não como regra que os personagens operem.
-tags: [insight, L2, milagre, mario, decian, gunad, remanescente, sinais, palavra, voz, tese, devanescentismo]
+description: Tese do autor (2026-11-18) para o L2, seguindo o "Desvanecentismo Concêntrico", que atribui a Iago Martins (BTCast 621, A Casa da Teologia). Enquanto a Palavra chega a um lugar onde nunca esteve, quem a leva recebe sinais que testificam a autoridade do que diz. Decian e Gunad passam a fazer milagres, e os de Mário cessam. Avaliada contra o cânone de Milagre, só cabe como metafísica da storybible, não como regra que os personagens operem.
+tags: [insight, L2, milagre, mario, decian, gunad, remanescente, sinais, palavra, voz, tese, desvanecentismo]
 destino: L2 (outline)
 status: tese do autor, em desenvolvimento; esquema do L2, fichas e conceito Milagre não alterados
-timestamp: 2026-11-18T08:30:00-03:00
+timestamp: 2026-11-18T21:15:00-03:00
 ---
 
 # L2, os milagres deixam Mário e passam a Decian e Gunad
 
 ## A tese (autor, 2026-11-18)
 
-Decian e Gunad também começam a conseguir fazer milagres, e os milagres por meio de Mário cessam. O autor segue a tese do "Devanescentismo Concêntrico", de Iago Martins (grafia do autor): enquanto a Palavra está chegando a algum lugar onde nunca esteve, quem a leva recebe o poder de fazer milagres para testificar a autoridade do que está dizendo.
+Decian e Gunad também começam a conseguir fazer milagres, e os milagres por meio de Mário cessam. O autor segue a tese do "Desvanecentismo Concêntrico", que atribui a Iago Martins: enquanto a Palavra está chegando a algum lugar onde nunca esteve, quem a leva recebe o poder de fazer milagres para testificar a autoridade do que está dizendo.
 
 ## Semáforo e fonte
 
 **Estrutural, destino L2.** Entra no outline quando ele abrir. Nada foi alterado em `temas/esquema-l2.md`, nas fichas nem em [Milagre](../conceitos/milagre.md); o conceito precisa de revisão para acolher a tese (ver os conflitos, abaixo).
 
-**Fonte.** Uma busca pública não encontrou o nome "Devanescentismo Concêntrico" nem Iago Martins ligado a ele. A descrição usada aqui é a do autor, e a grafia está por conferir (talvez "Evanescentismo Concêntrico"). Âncoras bíblicas que sustentam a leitura como o autor a descreveu (nossas, não da fonte): Rm 15:18-20 (sinais e prodígios, e a ambição de pregar onde Cristo ainda não fora nomeado), At 1:8 (os círculos: Jerusalém, Judeia, Samaria, os confins), Mc 16:20 e At 14:3 (o Senhor confirma a palavra com sinais) e Hb 2:3-4. O "evanescente" do nome sugere que os sinais se esvaem onde a Palavra já se firmou (leitura nossa, a confirmar).
+**Fonte.** O autor indicou o episódio [BTCast 621, "Desvanecentismo Concêntrico"](https://acasadateologia.com.br/podcast/desvanecentismo-concentrico-btcast-621/), de A Casa da Teologia; o endereço dá a grafia correta (desvanecentismo, de "desvanecer"), e o nome tinha saído errado nas primeiras versões deste insight. Esta sessão não conseguiu abrir a página (domínio fora da rede permitida), então a descrição da tese usada aqui continua sendo a do autor, a conferir com o episódio; a atribuição a Iago Martins também é do autor. Âncoras bíblicas que sustentam a leitura como o autor a descreveu (nossas, não da fonte): Rm 15:18-20 (sinais e prodígios, e a ambição de pregar onde Cristo ainda não fora nomeado), At 1:8 (os círculos: Jerusalém, Judeia, Samaria, os confins), Mc 16:20 e At 14:3 (o Senhor confirma a palavra com sinais) e Hb 2:3-4. O "desvanecentismo" do nome sugere que os sinais se desvanecem onde a Palavra já se firmou (leitura nossa, a conferir no episódio).
 
 ## O que a tese faz no L2 (avaliação: entra, e liga vários fios do esquema)
 
@@ -46,7 +46,7 @@ Decian e Gunad também começam a conseguir fazer milagres, e os milagres por me
 ## Guardrails
 
 - **Teologia:** milagre resolve o problema, Deus confirma plano do personagem (o sinal de Gunad em Alavria não pode ser aval do plano de achar Koda e Joachin), fé como superpoder, custo como pagamento e repetição de mecânica são erros.
-- **Voz:** ninguém enuncia a tese em fala (nada de "evanescentismo"); a cena de milagre sem sermão, e, quando precisar de nome, no idioma reformado.
+- **Voz:** ninguém enuncia a tese em fala (nada de "desvanecentismo"); a cena de milagre sem sermão, e, quando precisar de nome, no idioma reformado.
 - **Risco 5:** a tese pode virar placar moral (os fiéis têm sinais e o Rei não). Evitar: os sinais custam, o fiel também falha e morre, e a cessação de Mário não é só castigo.
 - **Risco 1:** perder os milagres não pode tornar Mário passivo; ele age (coerção) em vez de reagir.
 
