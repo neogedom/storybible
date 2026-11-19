@@ -24,6 +24,8 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Ossan](personagens/ossan.md) — Xamã sobrevivente da corte de Devour, filho do lorde, asset de Nolan (raiz-mestra/rampillas).
 - [Varek d'Alavr](personagens/varek.md) — Comandante da vanguarda de choque de Alavria, leviantar colossal, condutor galvânico de Renath.
 - [Elysia](personagens/elysia.md) — Baroa e líder de capitania; suas terras abasteciam a Metrópole de grão; pede grão e contesta a licença dada aos Clãs (cap. 58).
+- [Estruzzo](personagens/estruzzo.md) — Gornad de seis chifres, sucessor de Gaviorn'l no comando dos gornads; agente de Terbs junto aos Clãs de Sangue (caps. 12, 43, 47).
+- [Karrk](personagens/karrk.md) — Chefe de um dos dezenas de Clãs de Sangue, o mais diplomático dos chefes; conduz a guarda de Mário e vigia o pacto com a Coroa (caps. 47, 58, 61, 63, 64, 66).
 
 ## Capítulos
 
@@ -157,6 +159,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Mapa do Reino: lugares, divisas, Rifte, Opium e Saramant](decisoes/2026-11-14-mapa-do-reino-lugares-e-divisas.md) — Nomes fora do Reino, cidades, divisas, Rifte como enclave, Opium e Saramant alargada (2026-11-14)
 - [Geografia do Cran, rota de Nolan e trajetória dos Clãs](decisoes/2026-11-14-geografia-cran-clas-metropole.md) — A Metrópole é uma ilha com dois braços do Cran; Nolan desce pela estrada real e os Clãs pelas serras do outro lado do rio; mapa em lugares/ (2026-11-14)
 - [Acampamento dos Clãs na planície sul](decisoes/2026-11-15-acampamento-dos-clas.md) — O contrato do Trono fez da planície sul o ponto de reunião dos Clãs; o ataque a Gus não saiu dele; a ordem de Hícse é pressuposta, sem voz (2026-11-15)
+- [Karrk, chefe de um Clã; Estruzzo, seis chifres; fecho do cap. 47](decisoes/2026-11-18-karrk-chefe-de-um-cla-estruzzo-seis-chifres-e-fecho-do-cap-47.md) — Os Clãs são dezenas, com conselho de chefes; vieram todos, um contingente de cada; Karrk é o chefe mais diplomático; Estruzzo tem seis chifres (2026-11-18).
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 
 ## Agentes (Workflow)

@@ -348,3 +348,21 @@
 - **Relação com o cânone**: `conceitos/milagre.md`; `decisoes/glossolalia-invertida-oracao-cap20.md` (o confronto futuro: "testificar de Deus"; Mário cessacionista teimoso); `personagens/mario.md` (a Voz e o dom); `temas/esquema-l2.md` (Midpoint: a Voz silenciada); `temas/esquema-l1.md` (cap. 39: Mário leva o ferido a Decian).
 
 > **Pendência resolvida**: os "12 anos" são o intervalo entre o L1 e o L2, contado em resumo (decisão do autor, 2026-11-17; entrada acima). As duas de L1 entram na pauta fixa do próximo checkpoint de bloco.
+
+### 2026-11-18: O rapaz curado do cap. 47 volta no L2 como semente de uma igreja nos Clãs
+
+- **Data**: 2026-11-18
+- **Ideia (uma linha)**: o milagre do cap. 47 ganha pagamento no L2, sem virar recompensa: o rapaz curado, que no Garfo vê as falas de Mário, a música de Gunad e a intervenção divina, volta aos Clãs falando do homem que cura e do Deus dele, e forma com antigos canibais um protótipo de igreja fora da tutela de Mário. Mário, já rei, descobre a igreja; Nolan o convence de que ela não pode ficar; o ataque racha Gunad (ou Decian) de vez com Mário.
+- **Origem**: comentário do autor no cap. 47 (`(* ... )`), aplicado em lote em 2026-11-18. O trecho saiu do capítulo; a ideia fica aqui.
+- **Capítulos afetados**: nenhum no L1 (o cap. 63 já tem o rapaz entre os Clãs, sem se converter: semente #32); L2 (meio).
+- **Status**: em desenvolvimento (o autor marcou: "ainda não sei qual" o pagamento; esta é a hipótese dele)
+- **Destino**: L2 (outline)
+- **Relação com o cânone**: semente #32 (`temas/sementes.md`); `insights/clans-de-sangue-no-suplicio-e-coroacao.md`; `conceitos/hicse.md` (Hoste de Hícse com canibais dos Clãs); `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md` (a partida de Gunad e Mário na frente de combate contra os Clãs).
+
+1. **O que muda?** Nada no L1. No L2, o milagre do cap. 47 passa a ter fruto, e o fruto nasce longe de Mário e do controle dele. A semente #32 ganha um arco.
+2. **Em quais capítulos?** L2, em três pontos: o rapaz no Garfo (cap. 63, só a presença, já aceita); a igreja nos Clãs; a visita de Mário com Decian e Nolan e o ataque. Em aberto: se isso cai dentro dos "12 anos" em resumo (a campanha de Mário contra os Clãs) ou numa cena própria do L2.
+3. **Qual o custo?** Um arco de várias cenas que amarra Gunad (longe, em Alavria, lendo cartas de Decian), Decian, Nolan e o rompimento do Remanescente. Depende do outline do L2, que ainda está aberto. O rapaz precisa sobreviver à luta do cap. 64; o cap. 66 deixa o destino dele em aberto, e isso permite.
+4. **O que paga?** A semente #32 e a "Germinação do Evangelho" (o conceito que descola do homem, caps. 28 e 24). Cumpre a regra "quando dois dos três concordam, o mundo piora" (Mário e Nolan concordam em destruir a igreja) e dá a Nolan um erro persuasivo (risco estrutural 2).
+5. **Cena exemplo (L2):** Mário desce à serra e encontra, num círculo de pedras, homens de rosto escarificado cantando o hino do Garfo com as palavras trocadas (eco da discussão sobre o verso, no cap. 47). Um deles é o rapaz, de pé sobre as duas pernas, sem a cinza no peito. Nolan, ao lado, não precisa dizer nada.
+
+> **Alertas:** Teologia: o ataque à igreja não pode virar vitória justa nem confirmação do plano de Mário; precisa do custo e da ferida aberta (risco estrutural 5). A igreja não pode ser teologicamente "boa demais" nem "ruim demais": a ambiguidade é o que faz Nolan ter um argumento.
