@@ -36,7 +36,7 @@
 - **Capítulos afetados**: 59, 61, 63, 65 e 66 (inserções curtas). Verdes ligados, em entrada própria abaixo: 47, 52, 54, 58 e 63.
 - **Status**: em desenvolvimento (cinco perguntas respondidas abaixo; falta a decisão do autor)
 - **Destino**: decisão no checkpoint de bloco, antes de revisar os caps. 59 a 66 (ainda não revisados). Se aceita, entra no rascunho antes da revisão.
-- **Relação com o cânone**: `lugares/metropole.md` (seção do Castelo de Quartzo, caps. 7 e 10); `temas/timeline.md` (virada para o inverno, caps. 49 e 61).
+- **Relação com o cânone**: `lugares/metropole.md` (seção do Castelo de Quartzo, caps. 7 e 10); `temas/timeline.md` (virada para o inverno, caps. 49 e 61). A regra de horário já é canon (confirmada pelo autor em 2026-11-19); seguem abertos o inverno (A ou B, ver o custo) e onde o castelo canta.
 
 **Desenvolvimento**
 

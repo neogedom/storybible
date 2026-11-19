@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-19 (Regra de horário do Castelo de Quartzo confirmada)
+
+- Decisão do autor: o castelo canta nas viradas de temperatura e cala no frio parado (silêncio com as placas frias, zumbido com o calor, Lamento ao entardecer). Em `lugares/metropole.md` a regra deixa de ser inferência e passa a canon.
+- Seguem em aberto, em `insights/_inbox.md`: o efeito no inverno (do cap. 49 em diante) e onde o castelo canta (casca ou núcleo).
+
 ## 2026-11-18 (Acústica do Castelo de Quartzo: canon dos caps. 7 e 10 e ideias no inbox)
 
 - `lugares/metropole.md`: nova seção sobre o Castelo de Quartzo com o que os caps. 7 e 10 já estabelecem (fachada suspensa, zumbidos de dilatação, Lamento da Fortaleza, arquitetura de desacoplamento, Genocydo e a pedra). A regra de horário (canta nas viradas de temperatura, cala no frio parado) está marcada como inferência, a confirmar com o autor. Fora dos caps. 7 e 10 o efeito não aparece em nenhum capítulo.

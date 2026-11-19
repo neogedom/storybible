@@ -3,7 +3,7 @@ type: Location
 title: Metrópole
 description: Capital do Reino de Genocydo, sede do Monólito da Verdade e do poder político leviantar.
 tags: [lugar, capital, reino, metropole, castelo-de-quartzo]
-timestamp: 2026-11-18T22:45:00-03:00
+timestamp: 2026-11-19T13:20:00-03:00
 ---
 
 # Metrópole
@@ -45,7 +45,7 @@ o outro concentra quem paga por eles.
 - **Arquitetura de desacoplamento** (cap. 10, pensamento de Nolan): fachada de quartzo azul sobre um núcleo. Nolan lê a Metrópole inteira como essa arquitetura: bela e inflexível por fora, sustentada por um núcleo escuro e sujo, a Mina, onde os devedores cegos pelos "olhos-de-vidro" colhem lascas.
 - **Genocydo e a pedra** (caps. 7 e 10): a "ansiedade crônica" do rei "parecia entrar em atrito invisível" com as propriedades do palácio, "edificado sobre o quartzo, cantado no folclore como 'o mineral da autodisciplina'", e essa "dissonância" lhe rendia "ressonâncias e dores de cabeça contínuas". A leitura é do narrador filtrado por Nolan ("parecia"): a ambiguidade é intencional e o texto não decide se a causa é física, psicossomática ou outra. Layla também usa os "sentidos ruins do Rei" (cap. 10).
 - **Causa declarada**: térmica (dilatação com o calor, estalos de frio). Os caps. 7 e 10 não ligam o zumbido ao Sinal de Vonos: os prismas do Monólito vibram com o Sinal (ver [O Sinal de Vonos](/conceitos/sinal-de-vonos.md)), e as placas da fachada respondem ao calor.
-- ⚠️ **Inferência** (leitura dos dois trechos; confirmar com o autor): o castelo canta nas viradas de temperatura e cala no frio parado. Silêncio enquanto as placas estão frias (madrugada, primeira manhã); zumbido quando o calor as dilata; Lamento quando o sol baixa e elas esfriam. Só vira regra de cena depois de confirmada.
+- **Regra de horário** (decisão do autor, 2026-11-19; leitura dos caps. 7 e 10): o castelo canta nas viradas de temperatura e cala no frio parado. Silêncio enquanto as placas estão frias (madrugada, primeira manhã); zumbido quando o calor as dilata; Lamento quando o sol baixa e elas esfriam. É regra de cena. O efeito no inverno (do cap. 49 em diante o texto é de inverno) e onde o castelo canta (casca ou também o núcleo) ainda não estão decididos; ver `insights/_inbox.md`.
 
 ## História
 
