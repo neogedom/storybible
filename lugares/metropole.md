@@ -57,7 +57,7 @@ O arquivo editável é `mapa-cran-metropole.svg`. O esquema é fora de escala, c
 
 ## O Castelo de Quartzo: arquitetura e acústica (canon dos caps. 7 e 10)
 
-> Fatos já escritos em prosa e ainda não registrados aqui; registrados em 2026-11-18. Fora dos caps. 7 e 10, o efeito não aparece em nenhum capítulo (conferido por busca nos caps. 11 a 66 e no epílogo). As ideias para aproveitá-lo estão em `insights/_inbox.md` e **não são canon**.
+> Fatos já escritos em prosa e ainda não registrados aqui; registrados em 2026-11-18. Fora dos caps. 7 e 10, o efeito não aparece em nenhum capítulo (conferido por busca nos caps. 11 a 66 e no epílogo, refeita na `main` em 2026-11-19). As ideias para aproveitá-lo estão em `insights/_inbox.md` e **não são canon**.
 
 - **Origem e matéria**: castelo "erguido pelo Antigo Rei e abençoado por Lunus" (cap. 10). A fachada é de "quartzo azul, bela e inflexível"; o quartzo vem da [Mina de Quartzo](/lugares/mina-de-quartzo.md), a mesma fonte do Monólito. Na visão de Mário (cap. 1) o castelo aparece em ruínas, de "quartzo azulado" e "pedra translúcida"; foi reconstruído (`temas/sementes.md`, #5).
 - **Fachada suspensa** (cap. 7): as "placas de pedra azul da fachada suspensa do palácio" dilatam quando a temperatura sobe ("dilatação estrutural").

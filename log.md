@@ -4,11 +4,12 @@
 
 - Decisão do autor: o castelo canta nas viradas de temperatura e cala no frio parado (silêncio com as placas frias, zumbido com o calor, Lamento ao entardecer). Em `lugares/metropole.md` a regra deixa de ser inferência e passa a canon.
 - Seguem em aberto, em `insights/_inbox.md`: o efeito no inverno (do cap. 49 em diante) e onde o castelo canta (casca ou núcleo).
+- Merge da `main` na branch da sessão (a `main` andou nos dois repositórios). Numeração corrigida nas entradas do inbox e neste log: o cortejo de Kate é o cap. 60 (troca dos caps. 59 e 60, 2026-11-16) e a chegada de Nolan ao castelo é o cap. 48 (troca dos caps. 47 e 48, 2026-11-15). A análise da Mina no cap. 48 foi reescrita, e a referência a salitre e ângulo de 45 graus saiu da entrada de Alavria. A busca pelo efeito do castelo foi refeita na `main`: continua só nos caps. 7 e 10.
 
 ## 2026-11-18 (Acústica do Castelo de Quartzo: canon dos caps. 7 e 10 e ideias no inbox)
 
 - `lugares/metropole.md`: nova seção sobre o Castelo de Quartzo com o que os caps. 7 e 10 já estabelecem (fachada suspensa, zumbidos de dilatação, Lamento da Fortaleza, arquitetura de desacoplamento, Genocydo e a pedra). A regra de horário (canta nas viradas de temperatura, cala no frio parado) está marcada como inferência, a confirmar com o autor. Fora dos caps. 7 e 10 o efeito não aparece em nenhum capítulo.
-- `insights/_inbox.md`: três entradas. Partitura do clímax (caps. 59, 61, 63, 65 e 66) e Alavria e o desacoplamento (cap. 65), ambas em desenvolvimento, com as cinco perguntas e decisão no checkpoint de bloco; e a lista de verdes (caps. 47, 52, 54, 58 e 63) para aplicar na revisão de cada capítulo.
+- `insights/_inbox.md`: três entradas. Partitura do clímax (caps. 60, 61, 63, 65 e 66) e Alavria e o desacoplamento (cap. 65), ambas em desenvolvimento, com as cinco perguntas e decisão no checkpoint de bloco; e a lista de verdes (caps. 48, 52, 54, 58 e 63) para aplicar na revisão de cada capítulo.
 - Nenhum capítulo foi alterado.
 
 ## 2026-11-18 (Cap. 47, terceira rodada: conselho de chefes e guarda mista)
