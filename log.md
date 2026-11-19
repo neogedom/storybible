@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-18 (Acústica do Castelo de Quartzo: canon dos caps. 7 e 10 e ideias no inbox)
+
+- `lugares/metropole.md`: nova seção sobre o Castelo de Quartzo com o que os caps. 7 e 10 já estabelecem (fachada suspensa, zumbidos de dilatação, Lamento da Fortaleza, arquitetura de desacoplamento, Genocydo e a pedra). A regra de horário (canta nas viradas de temperatura, cala no frio parado) está marcada como inferência, a confirmar com o autor. Fora dos caps. 7 e 10 o efeito não aparece em nenhum capítulo.
+- `insights/_inbox.md`: três entradas. Partitura do clímax (caps. 59, 61, 63, 65 e 66) e Alavria e o desacoplamento (cap. 65), ambas em desenvolvimento, com as cinco perguntas e decisão no checkpoint de bloco; e a lista de verdes (caps. 47, 52, 54, 58 e 63) para aplicar na revisão de cada capítulo.
+- Nenhum capítulo foi alterado.
+
 ## 2026-11-13 (Correções do teste 2 no cap. 46)
 
 - Decisão do autor: Kate pode saber o nome de Ossan (cap. 46, linha 1 mantida).
