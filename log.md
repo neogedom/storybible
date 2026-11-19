@@ -1,5 +1,23 @@
 # Log de Atualizações
 
+## 2026-11-19 (Castelo de Quartzo: inverno, onde canta e o céu do meio-dia)
+
+- Decisões do autor: (1) no inverno o castelo canta menos, porque o volume segue o calor que as placas pegaram (opção A); (2) canta a casca (fachada, biblioteca, torres, tribuna) e o núcleo de mármore e calcário só abafa, com a Torre dos Ventos como casca; (3) as galerias correm atrás da fachada, e fogo nelas esquenta a casca. Registradas em `lugares/metropole.md`; os itens em aberto do inbox foram fechados.
+- Livro (mesma branch da sessão): caps. 63 (linha 29) e 66 (linha 19), "céu cinzento" passa a "céu pálido", porque o meio-dia do clímax tem calor forte e o silêncio do 66 depende dele.
+- `insights/_inbox.md`: beats dos caps. 60, 61 e 65 ajustados às decisões (zumbido fino e tardio no 60, Lamento curto no 61, galerias atrás da fachada no 65); a lista de verdes ganha o céu (aplicado) e os casos de casca e núcleo (52, 54, 58 e 63).
+
+## 2026-11-19 (Regra de horário do Castelo de Quartzo confirmada)
+
+- Decisão do autor: o castelo canta nas viradas de temperatura e cala no frio parado (silêncio com as placas frias, zumbido com o calor, Lamento ao entardecer). Em `lugares/metropole.md` a regra deixa de ser inferência e passa a canon.
+- Seguem em aberto, em `insights/_inbox.md`: o efeito no inverno (do cap. 49 em diante) e onde o castelo canta (casca ou núcleo).
+- Merge da `main` na branch da sessão (a `main` andou nos dois repositórios). Numeração corrigida nas entradas do inbox e neste log: o cortejo de Kate é o cap. 60 (troca dos caps. 59 e 60, 2026-11-16) e a chegada de Nolan ao castelo é o cap. 48 (troca dos caps. 47 e 48, 2026-11-15). A análise da Mina no cap. 48 foi reescrita, e a referência a salitre e ângulo de 45 graus saiu da entrada de Alavria. A busca pelo efeito do castelo foi refeita na `main`: continua só nos caps. 7 e 10.
+
+## 2026-11-18 (Acústica do Castelo de Quartzo: canon dos caps. 7 e 10 e ideias no inbox)
+
+- `lugares/metropole.md`: nova seção sobre o Castelo de Quartzo com o que os caps. 7 e 10 já estabelecem (fachada suspensa, zumbidos de dilatação, Lamento da Fortaleza, arquitetura de desacoplamento, Genocydo e a pedra). A regra de horário (canta nas viradas de temperatura, cala no frio parado) está marcada como inferência, a confirmar com o autor. Fora dos caps. 7 e 10 o efeito não aparece em nenhum capítulo.
+- `insights/_inbox.md`: três entradas. Partitura do clímax (caps. 60, 61, 63, 65 e 66) e Alavria e o desacoplamento (cap. 65), ambas em desenvolvimento, com as cinco perguntas e decisão no checkpoint de bloco; e a lista de verdes (caps. 48, 52, 54, 58 e 63) para aplicar na revisão de cada capítulo.
+- Nenhum capítulo foi alterado.
+
 ## 2026-11-18 (noite: fonte da tese dos milagres e main trazida para a branch)
 
 - O autor indicou a fonte da tese dos milagres: o episódio BTCast 621, "Desvanecentismo Concêntrico", de A Casa da Teologia (`https://acasadateologia.com.br/podcast/desvanecentismo-concentrico-btcast-621/`). O endereço dá a grafia correta (desvanecentismo, não "devanescentismo"); o nome foi corrigido no insight, na decisão, no inbox e no log. A página só pôde ser aberta depois que o autor liberou o domínio na rede da sessão (ambiente novo "Evangelho às Estrelas"). Ela traz só a descrição do episódio, de 28/10/2025: Bibo, Luiz Henrique e **Yago** Martins (o autor escreveu "Iago") conversam sobre o tema, apresentado como "um intermediário entre o Cessacionismo e o Continuísmo", com as perguntas se os dons "cessaram ou apenas mudaram de expressão" e como discernir "dom genuíno" de "emoção". A página não diz quem formulou a tese nem traz o mecanismo (quem leva a Palavra a um lugar novo recebe sinais): essa descrição segue sendo a do autor, a conferir no áudio ou na playlist do canal de Yago. Insight, decisão e inbox ajustados (nome do convidado, posição intermediária, a pergunta do discernimento do sinal genuíno).
