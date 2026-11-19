@@ -11,7 +11,7 @@
 ## Conhecimento proibido
 
 - Não sabe o que Kate sente; vê só o que ela faz e diz.
-- Não conhece os planos dos alavrianos. Koda é quem diz que eles não se importam com a região (cap. 47), e Nolan não tem como confirmar isso.
+- Não conhece os planos dos alavrianos. Koda é quem diz que eles não se importam com a região (cap. 48), e Nolan não tem como confirmar isso.
 - Opera a raiz-mestra só com a ajuda de Ossan. Não tem o controle sozinho.
 - Não se explica a Mário nem a Kate: age e manda, e espera a obediência.
 

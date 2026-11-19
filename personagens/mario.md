@@ -293,7 +293,7 @@ o torna inescapável.
   em Ornick (duas luas). Consegue traduzir idiomas. É capturado.
 - **Cap. 8 — Os Lordes Defuntos**: Mário é apunhalado no ombro. Charles se revela.
 - **Cap. 11 — A Carga**: Mário curado, amarrado, levado como mercadoria.
-- **Cap. 13**: Mário fala ornickenho. Foge na 3ª noite.
+- **Cap. 13**: Mário fala ornickenho. Pode fugir na 3ª noite, mas espera doze noites (revisão de 2026-11-16), trabalhando Lakand com um argumento por noite, e foge na véspera de as duas luas escurecerem.
 - **Cap. 16 — A Queda**: Mário guia os lobisomens ao acampamento nômade.
   **Tae-Tabor morto**. Kate mata o lobisomem que o prendia e o captura.
   Mário afunda na culpa: "foi minha culpa."
@@ -306,6 +306,8 @@ o torna inescapável.
   memória da família: Mário perde os nomes e as imagens de Lucas, Camilla e
   dos pais, mas mantém os fatos, a culpa, a língua e os lugares. A perda não
   é reconhecida por ele na cena; aparece pela omissão dos nomes na oração.
+
+- **Caps. 39-44 — Gus, seis semanas (revisão de 2026-11-16)**: o cap. 41 é o primeiro dia. Depois Mário lava ataduras, carrega água, anota os nomes dos mortos da Mina no papel de linho de Orval, adia a cátedra de semana em semana e, toda noite, espera a Voz como quem espera a quitação. Na terceira semana cai a defesa "não sabia": ele sabia que Kate queria guerra e subiu à Mina mesmo assim, por ânsia de provar que estava certo. Culpa como dívida; o cap. 52 a recoloca como condição (rebelde caído). A Voz só volta no cap. 63. Ver [a decisão](/decisoes/2026-11-16-esticar-o-tempo-do-l1.md).
 
 _Atualizado a cada INGEST de capítulo._
 

@@ -10,7 +10,7 @@ timestamp: 2026-11-12T00:00:00-03:00
 
 # Capítulo 38 — A galeria de serviço (POV Kate)
 
-> Mini-INGEST refeito em 2026-11-12 a partir do texto revisado. O original se perdeu; esta versão deve ser conferida pelo autor. Palavras: 1581 (wc -w).
+> Mini-INGEST refeito em 2026-11-12 a partir do texto revisado. O original se perdeu; esta versão deve ser conferida pelo autor. Palavras: 1585 (wc -w, texto atual). Conferida com o texto em 2026-11-13.
 
 ## Resumo
 
@@ -32,7 +32,7 @@ Kate encontra Mário vomitando no pátio, depois do massacre. Ele a acusa de mat
 3. Kate derruba dois feitores sem desembainhar a faca.
 4. Nolan e Mathias chegam pela galeria: "Um motim rústico".
 5. Nolan revela que as cargas estão nos pilares de quartzo: "vocês minaram as bases".
-6. Kate nega; a laje cai; Nolan e Mathias saem pela ravina de fora.
+6. Kate NÃO responde em voz alta. Só no pensamento ela nega ter posto as cargas; a laje cai; Nolan e Mathias saem pela ravina de fora.
 7. Lakand chega; Kate arrasta Mário pela trilha norte; a Mina desaba.
 
 ## Sementes e conexões
@@ -45,8 +45,11 @@ Kate encontra Mário vomitando no pátio, depois do massacre. Ele a acusa de mat
 
 ## Canon (decidido pelo autor em 2026-11-12)
 
-- **Cargas nos pilares: alavrianos**, revelação nos capítulos finais. Nolan acusa Kate; ela nega a autoria das cargas e não nega a ordem do barão. Ver `decisoes/2026-11-12-canon-massacre-cargas.md`.
-- **Capítulo 38 sem entrada no esquema**: continua pendente.
+- **Cargas nos pilares: alavrianos**, revelação nos capítulos finais. Nolan acusa Kate. Ela nega a autoria das cargas só no pensamento (POV); em voz alta, não responde. Também não nega a ordem do barão: confirma que deu o sinal do sino. Ver `decisoes/2026-11-12-canon-massacre-cargas.md`.
+- **Capítulo 38 no esquema**: mapa da reestruturação ajustado em 2026-11-13 para POV de Kate.
+- **Barão = Gwill Uorier** (o texto cita "sangue de Uorier"). Canon 2026-11-13: é o massacre da família Uorier. Mira e Saboc estão vivos (hospedaram-se na casa de Uorier nos caps. 28 a 33, mas não estavam na Mina).
+- **Inconsistências resolvidas no texto (2026-11-13)**: (a) sino: repique frenético, cap. 38 ajustado; (b) arma: picareta, cap. 37 ajustado; (c) seguidores de Kate: cinco, caps. 37 e 38 ajustados; (d) Kate e Devour: no cap. 20 ela só viu o soldado na cela, e o nome "Nolan" ela ouviu dele ("O senhor Nolan está lá em cima"). O cap. 38 foi reescrito: reconhece o soldado e deduz o senhor dele. Mathias é nomeado por Nolan na cena.
+- Cap. 35 ainda mostra o homem afiando "um pedaço de ferro" e matando o rampilla com "ferro"; é compatível com a ponta de picareta.
 - **Identidade do homem de casaco preto**: Nolan. Kate o conhece desde os primeiros capítulos; o nome agora aparece no primeiro aparecimento do cap. 38.
 
 > Nota (2026-11-12): o cap. 38 agora registra, em POV de Kate, que ela deu o sinal do sino do alto da escada. O cap. 37 (POV de Mário) não recebe essa informação.

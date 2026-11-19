@@ -43,7 +43,7 @@ dividir o livro igualmente com Mário nem explicar os planos dos antagonistas.
   mas não pressupõe que Koda esteja em Alavria.
 - O pagamento aprovado para o L1 permanece: Koda corrige Nolan, revelando
   que a promessa de terras aos Clãs antecedeu a carta. A inserção no capítulo
-  47 do manuscrito ainda está pendente.
+  48 do manuscrito ainda está pendente.
 
 ### Compatibilização com o arco existente de Koda
 
@@ -99,3 +99,8 @@ Insight estrutural para desenvolvimento do L2. Não alterar ainda
 - [Lakand](../personagens/lakand.md) — recrutador da Hoste e candidato a POV.
 - [Esquema do L2](../temas/esquema-l2.md) — não atualizado; revisar no
   planejamento do L2.
+- [Status quo de abertura do L2](l2-status-quo-de-abertura-gunad-lakand-mario.md)
+  — onde cada linha começa (notas de 2026-11-17); inclui a pista de Koda e
+  Joachin nas viagens de evangelismo de Gunad, que só aparece depois dos 12
+  anos de intervalo entre o L1 e o L2 (decisão do autor, 2026-11-17). O grupo
+  que ele tutela só passa a se chamar Remanescente depois, até com ele longe.

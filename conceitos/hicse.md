@@ -3,7 +3,7 @@ type: Concept
 title: Hícse
 description: Serva poderosa leal a Marduk, aprisionada dentro de Gaviorn'l por Vonos durante a Guerra Milenar.
 tags: [conceito, elohim, hicse, guerra-milenar]
-timestamp: 2026-11-08T08:54:49-03:00
+timestamp: 2026-11-17T12:00:00-03:00
 ---
 
 # Hícse
@@ -29,6 +29,16 @@ consentimento dele.
 
 - A "brasa" que Kate sente no Prólogo é o **vazamento de Hícse** — a fúria
   que não é dela, mas que aponta para a Metrópole.
+- ⚠️ **A brasa começa só quando o Sinal falha** (canon 2026-11-17). O Sinal é
+  o eletrocardiograma do selo; embaralhado, o selo vaza, e o vazamento
+  reverbera em Kate. Antes da noite do Prólogo a brasa não existe, nem como
+  sensação nem como memória: nenhuma menção a ela, direta ou por comparação,
+  pode situar-se antes da falha. "Ela mata desde criança" continua valendo,
+  mas como hábito, não como brasa (o que apareceu aos onze anos passou quando
+  o homem caiu; a brasa não passa). Depois do Prólogo, Kate **toma a brasa
+  pela dureza que sempre teve** ("é a minha carne"), e é essa leitura que o
+  cap. 45 abala. Ver
+  `decisoes/2026-11-17-brasa-de-kate-comeca-na-falha-do-sinal.md`.
 - Kate mata Gaviorn'l no **cap. 30** (escrito em 2026-10-04), libertando
   Hícse (antecipação canon 2026-09-20 — ver
   `decisoes/gaviornl-morte-antecipada-hicse.md`).
@@ -54,6 +64,7 @@ consentimento dele.
   Genocydo. Depois de liberta, Hícse e os Clãs de Sangue buscam assumir esse
   patronato; a disputa ainda não foi resolvida. Isso não implica uma voz ou
   confirmação direta de Hícse.
+- **Os Clãs descem por causa da soltura (decisão do autor, 2026-11-15):** a descida dos Clãs vem de Hícse livre. O Reino inteiro é o presente de Terbs a Hícse, em compensação pelo tempo em que ela ficou presa em Gaviorn'l (Terbs entregou o receptáculo e guardou a chave). A ordem de Hícse não é nomeada no texto: é **pressuposta**, como motivo e cobrança, **sem voz** (regra de 2026-09-21, abaixo). Pegadas no texto: "pagar a dívida da deusa" (cap. 43); "O Reino será nosso! Salve a Mãe Hícse!" (cap. 45); o canto "Hícse abre a goela na Metrópole; quem levar a carne viva senta na mesa grande" e o "pacto quebrado com Terbs" (cap. 47). As ordens explícitas em cena são de Terbs (por Estruzzo) e do Rei (alvarás). Ver `decisoes/2026-11-15-acampamento-dos-clas.md`.
 
 ## Depois da soltura — a regra (canon 2026-09-21)
 
@@ -76,7 +87,7 @@ consentimento dele.
   brasa nela; Kate então já não consegue descartar a fala de Estruzzo. É a
   leitura somática de Kate, não uma voz, posse ou diálogo com a deusa.
 - **Consequência com a Ordem:** com o selo rompido, o **Sinal perde o objeto**
-  (não "fica mudo" — ver `decisoes/sinal-permanentemente-instavel.md`). A
+  e **fica mudo, de forma definitiva** (canon 2026-11-13: ver `conceitos/sinal-de-vonos.md`). A
   Ordem caça com um instrumento morto — e é por isso que querem **enquadrar**
   o que não conseguem mais medir. Regra completa em
   `conceitos/sinal-de-vonos.md` ("Por que os Inquiridores nunca o alcançam").

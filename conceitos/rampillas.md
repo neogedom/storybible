@@ -32,6 +32,12 @@ vendem tintura ao barão; Nolan com o selo do Conselho — o portão é aberto).
 Kate, que conhece o território, desvia do padrão (não corre, não sangra,
 não deixa rastro quente) — por isso não é interceptada no cap. 0.
 
+## Criação (canon 2026-11-17)
+
+- O ritual da semente é **costumeiro** em Devour: um xamã, uma semente vegetal numa tigela e um hospedeiro capturado, cercado por rampillas ajoelhados. O do Prólogo implantava uma semente num camponês.
+- Kate já vira rampillas serem criados antes e interrompeu esse; ele não é "a criação dos rampillas". No texto, chamar de "um ritual de Devour" ou "aquela noite em Saramant", nunca de "a noite de criação dos rampillas".
+- Ver `personagens/devour.md` (sementes parasitas) e `decisoes/2026-11-17-brasa-de-kate-comeca-na-falha-do-sinal.md`.
+
 ## Armas
 
 Lanças e machados de lâmina larga.

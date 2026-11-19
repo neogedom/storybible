@@ -138,6 +138,10 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Iluminação: luz do dia, feira movimentada
 - Fundo: borda da feira, longe das pessoas
 
+## Capítulo 48 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+
+- **Não aparece** (em Gus, com Kate).
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

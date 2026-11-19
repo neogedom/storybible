@@ -17,3 +17,8 @@ timestamp: 2026-10-11
 ## Capítulo 46 — A Sala de Traçagem (Mini-INGEST, 2026-11-13)
 
 - _Não aparece._ Citado por Nolan, que ordena que vá com a carruagem.
+
+## Capítulo 48 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
+
+- **Estado**: dorme sob a manta nos braços de Mira, indiferente ao cheiro da cidade; Valinor o vê pela primeira vez.
+- **Fundo**: carruagem e escadaria do Castelo de Quartzo.

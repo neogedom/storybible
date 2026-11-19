@@ -38,6 +38,8 @@ nação mais poderosa que as anteriores.
 - A dominação só terminou quando **Kraviam** venceu o Grifo com antraz
   (Guerra do Grifo) e libertou o Reino.
 
+- **Oferta de Alavria (cap. 48, 2026-11-14):** durante a ocupação, Alavria se ofereceu para ajudar a expulsar Gondor em troca de o Reino virar província alavriana. Os Guenayer da época recusaram (ver `lugares/alavria.md`).
+
 ### A Era de Ouro dos Vampiros
 
 - Sob o império de Gondor, os vampiros (Khainekravira) viveram sua
@@ -67,6 +69,10 @@ nação mais poderosa que as anteriores.
   Reencarnado"; **Nolan** atua como Mestre dos Correios no período.
 - Foi o pano de fundo do confisco das terras dos Deltëra (base da vingança
   de Koda; ver `lugares/alavria.md`).
+
+### A divisa do oeste (decisão do autor, 2026-11-14)
+
+A divisa com o Reino (cap. 17: "fronteira do oeste") atravessa a grande mata de Saramant, no território dos daërunmeges, e desce pela margem oeste do baixo Cran até a costa. A mata passa da divisa e afina do lado de Gondor. Duannis é a cidade de fronteira do Reino. Gondor não é desenhado no mapa; aparece como divisa e seta (`lugares/mapa-do-reino.md`).
 
 ## Estado Atual (L1 → L2)
 

@@ -11,6 +11,243 @@
 - `insights/_inbox.md`: três entradas. Partitura do clímax (caps. 59, 61, 63, 65 e 66) e Alavria e o desacoplamento (cap. 65), ambas em desenvolvimento, com as cinco perguntas e decisão no checkpoint de bloco; e a lista de verdes (caps. 47, 52, 54, 58 e 63) para aplicar na revisão de cada capítulo.
 - Nenhum capítulo foi alterado.
 
+## 2026-11-18 (Cap. 47, terceira rodada: conselho de chefes e guarda mista)
+
+- O autor respondeu as pendências dos Clãs: **conselho de chefes**; **Karrk é o mais diplomático dos chefes**; **vieram todos os Clãs, um contingente de cada**, para que nenhum traísse os outros. Isso **substitui** a hipótese da rodada anterior ("o Clã de Karrk ficou com a custódia") e a da primeira ("Karrk comanda a coluna"). Registro atualizado em `decisoes/2026-11-18-karrk-chefe-de-um-cla-estruzzo-seis-chifres-e-fecho-do-cap-47.md`.
+- **Texto:** cap. 47 (a guarda de trinta mistura os desenhos de rosto, um guerreiro de cada Clã, e se vigia; a briga da cantiga fica dentro da guarda; Karrk negocia antes de ameaçar; a ordem de amarrar é dada "para a guarda") e cap. 58, linha 31 ("o chefe que os outros chefes dos Clãs tinham escolhido para tratar com a Coroa").
+- **Atualizados:** `conceitos/clas-de-sangue.md`, `index.md`. **Nova:** ficha `personagens/karrk.md`.
+
+## 2026-11-18 (Cap. 47, segunda rodada: Karrk, seis chifres e o fecho)
+
+- O autor confirmou **seis chifres** para Estruzzo, autorizou corrigir a frase final do cap. 47 e propôs **Karrk como chefe de um das dezenas de Clãs, não líder geral**. Registro: `decisoes/2026-11-18-karrk-chefe-de-um-cla-estruzzo-seis-chifres-e-fecho-do-cap-47.md`.
+- **Texto:** cap. 47 (marcas de rosto por Clã, a guarda é o Clã de Karrk, a escolta das carroças é de outro Clã; fecho sem aforismo, com as mãos atadas e o pensamento "Cravos") e cap. 58, linha 31 ("líder dos Clãs de Sangue" virou "chefe do Clã que trouxera o Estrangeiro"). Caps. 61, 63, 64 e 66 sem alteração.
+- **Atualizados:** `conceitos/clas-de-sangue.md` (dezenas de Clãs; a pendência "líder geral" fechada), `personagens/estruzzo.md`, `temas/sementes.md` (#32), `index.md`.
+
+## 2026-11-18 (Cap. 47: comentários do autor aplicados em lote)
+
+- **Capítulo:** os 23 marcadores `(* ... )` do cap. 47 foram aplicados e removidos; o texto ganhou uma cena antes da carroça (a discussão sobre a cantiga de Hícse e a entrada de Estruzzo) e descrições da serra pela percepção de Mário. Detalhe no relatório da sessão.
+- **Canon fixado:** Karrk comanda a coluna dos Clãs (centenas), com cerca de trinta de guarda; as tribos cantam a cantiga com variações; Mário só sabe o que ouviu em Gus (Hícse, por Nolan; Estruzzo, por Kate); o desfiladeiro ficou sem nome ("Despenhadeiro das Cruzes" saiu: Ornick não tem cruzes). Mapa conferido: os Clãs ficam a leste do Cran, nas Montanhas Esquecidas, e a rota é a da decisão de 2026-11-14 (`decisoes/2026-11-14-geografia-cran-clas-metropole.md`).
+- **Estruzzo:** ficha nova em `personagens/estruzzo.md`, com a aparência dos caps. 12 e 43 e **seis chifres** (o autor deixou "seis ou sete"; escolha a confirmar).
+- **Ideia de L2:** o pagamento do milagre do rapaz (a igreja nos Clãs, o ataque e o racha de Gunad e Decian) foi para o inbox (`insights/_inbox.md`, 2026-11-18) e para a semente #32. Nada no L1 mudou por causa dela.
+- **Atualizados:** `temas/sementes.md` (#32), `conceitos/clas-de-sangue.md`, `index.md`. Mini-INGEST do cap. 47 não rodou: o capítulo ainda não foi fechado.
+
+## 2026-11-17 (Volta de Gunad, a pista e o gradiente do combate ao culto)
+
+- O autor respondeu os três pontos que restavam em aberto. **Volta:** Gunad parte no começo do L2 e volta por volta do Jogos, e o "emerge nos becos cantando" é o retorno. **Pista:** alguém de Alavria que reconhece o sobrenome Deltëra, que pode até aparecer num culto da igreja de Gunad. **Dose do combate ao culto:** primeiro, defensável biblicamente segundo os ensinos cristãos e de Jesus; depois, gradativamente, ameaça com poder estatal; depois, violência.
+- O gradiente substitui a recomendação anterior (violência só no L2): cada degrau parece defensável em relação ao anterior, e é isso que faz dele a deriva constantiniana. Fica em aberto onde o L2 começa no gradiente; recomendação: o degrau 1 nos 12 anos, o 2 perto do fim e no Tema Declarado, o 3 no Catalisador e no Break Into 2, que é a ordem do esquema. O fim do patrocínio estatal aos cultos fica na borda entre os degraus 1 e 2.
+- Alerta de Teologia sobre a pista: chegar no culto não pode ser recompensa pela fé de Gunad; precisa de causa comum, custo e fonte ambígua (o homem pode ser também isca, porque Koda era espião de Alavria).
+- Registro: decisões 13 a 15 em `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`, insight do status quo e inbox. Nada alterado em capítulos, esquema do L2 ou fichas.
+
+## 2026-11-17 (Tutela, liderança da Igreja e o nome "remanescente": do narrador, não de Ornick)
+
+- O autor respondeu quatro pontos em aberto. **Tutela:** enquanto Gunad está fora, a igreja é tutelada por Decian ou por algum convertido da igreja. **Liderança:** a Igreja fundada é liderada, no começo, por Gunad; depois, por Decian ou por um dos fiéis da igreja (fica de fora a Igreja conduzida por burocratas de Nolan). **Nome:** "remanescente" é um título teológico terráqueo; ninguém em Ornick precisa dar esse nome, só o narrador menciona "um remanescente", como substantivo (cai a pergunta de quem nomeia). **Duração do L2 depois do ano 12:** não definida; o autor diz que não é importante agora, então fica adiada.
+- Segue em aberto: quando Gunad volta, o que é a pista e a dose do combate ao culto nos 12 anos.
+- Consequência para a storybible: "o Remanescente" (esquema do L2, sementes, fichas de Gunad, Lupe'i, Decian, Kate, Saboc e Nuh) é forma curta de trabalho; no texto, o narrador diz "um remanescente" e nenhum personagem usa o nome. Entrou na tabela da decisão, sem aplicar.
+- Registro: decisões 10 a 12 em `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`, insight do status quo e inbox. Nada alterado em capítulos, esquema do L2 ou fichas.
+
+## 2026-11-17 (Confirmações e a correção de Decian: o arrependimento é da tirania, não do desmonte)
+
+- O autor confirmou duas leituras: o grupo de Gunad é o resto fiel dentro da Igreja, não uma Igreja à parte; no racha, Lakand fica com os deuses antigos (Mesmia).
+- Corrigiu a candidata de culpa de Decian: pela fé cristã, sob a teologia de Heiser, o culto cristão é incompatível com o culto a outros deuses; Decian pode se arrepender da tirania de Mário e não do desmonte dos cultos. A culpa proposta cai. Entra o princípio "o fim certo, o método errado" (o erro do L2 é o método, não o desmonte), com consequências para o texto a confirmar: o desmonte pode ser narrado sem desculpa; a linha é a dos meios; a incompatibilidade se diz no idioma reformado (canon de 2026-08-10), não no jargão do Conselho Divino.
+- Registro: decisões 7 a 9 em `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`, insight do status quo e inbox. Nada alterado em capítulos, esquema do L2 ou fichas.
+
+## 2026-11-17 (Depois do lote: racha dentro dos 12 anos, Remanescente sem o nome e Mário na frente de combate)
+
+- O autor respondeu em conversa a três pontos em aberto do lote e pediu para acompanhar o PR #4 (assinado).
+- **Lakand e Decian racham dentro dos 12 anos.** No começo do intervalo estão juntos e formam a alcateia contra Charles; a atuação de Decian pela expulsão dos cultos é o que os racha. O L2 abre com Lakand já sem Decian. Descarta a opção de o racha cair na abertura do L2.
+- **A pista de Gunad e o Remanescente.** A pista pode vir depois de o grupo existir, mas ele ainda não se chama Remanescente: o nome sugere fidelidade contra um desvio, e o desvio de Mário ainda não é explícito. É o grupo dos primeiros cristãos, uma igreja tutelada por Gunad, que só passa a ser considerado o Remanescente ao se opor à política de Mário, até com Gunad longe. Conflita com a ficha de Gunad ("Líder do Remanescente no L2"), com a de Lupe'i ("funda o Remanescente") e com a ordem do esquema do L2; ficam na tabela da decisão, sem aplicar.
+- **Mário na frente de combate**, sem superpoderes: o treino paga nos Clãs; a primeira morte pede interioridade; o milagre não vence a batalha.
+- Registro: `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md` (decisões 4 a 6), insight do status quo e inbox. Nada alterado em capítulos, esquema do L2 ou fichas.
+
+## 2026-11-17 (Comentários de review do PR #4 aplicados em lote: os 12 anos do L2)
+
+- O autor mandou três comentários de review em `insights/l2-status-quo-de-abertura-gunad-lakand-mario.md` (linhas 21 e 33). Aplicados em lote, em quatro commits por assunto: linha do tempo, worldbuilding dos 12 anos, Igreja e arcos, registro da decisão.
+- Decidido: os 12 anos são o intervalo depois do final do L1, contado em um ou mais capítulos-resumo; o L2 começa no ano 12 (responde à pendência do dia, abaixo). O resumo traz: Mário expulsa os Clãs (Davi contra os filisteus), desmonta a Segregação, espalha leviantares, traz humanos para a Metrópole e faz do Reino uma potência continental; o cristianismo é fundado e o combate ao culto aos deuses de Ornick racha Lakand e Decian (Gunad participa, depois Decian). Gunad só parte quando surge uma pista muito promissora, depois dos 12 anos. Decisão em `decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md`.
+- Achados: o casamento e a gravidez dos gêmeos, hoje no Tema Declarado do esquema, caem dentro dos 12 anos; as duas falas do autor sobre Lakand e Decian (juntos no começo do L2; racha nos 12 anos) não cabem juntas; a duração do L2 depois do ano 12 (Saboc com 11 a 13 anos) e a decisão de 2026-11-12 ("cerca de uma década de reinado") ficam em aberto.
+- Nada alterado em capítulos, `temas/esquema-l2.md` ou fichas. Threads do PR não respondidos nem resolvidos (quem resolve é o autor).
+- O PR #17 do livro foi mesclado pelo autor em 17/11 (merge `b48670d`): a branch do livro não tem commits pendentes.
+
+## 2026-11-17 (Branches trazidas para a main; numeração e linhas conferidas)
+
+- As branches da sessão partiram do checkpoint de 13/11, e a `main` já tinha 61 (storybible) e 57 (livro) commits novos, com os PRs mesclados em 16/11. A `main` foi trazida por merge (sem reescrever histórico) nos dois repositórios. Conflitos: cap. 45 no livro (mantida a retirada de "denso como chumbo" da `main` e a correção da brasa); `insights/_inbox.md` e `log.md` na storybible (mantidos os dois lados).
+- As entradas de 17/11 abaixo foram escritas sobre a numeração antiga. Os caps. 47 e 48 trocaram de ordem em 15/11: onde elas dizem "cap. 48, linha 37", leia **cap. 47, linha 37**. Na decisão da brasa, as linhas passaram a **cap. 43, linha 76** e **cap. 45, linha 50**.
+- Kraviam já está fixado no texto (quase trinta anos, cap. 54, linhas 27 e 31): deixou de ser pergunta em aberto no Ato 3. Nenhuma outra passagem citada nas notas de 17/11 mudou de lugar.
+
+## 2026-11-17 (Gunad largou a casa do pai antes de Mário chegar)
+
+- Decisão do autor: a "abdicação" de Gunad (largar a casa e os títulos do pai, cap. 52) foi antes de Mário chegar a Ornick. Registrada como decisão 5 em `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`, nos dois insights do Ato 3 e em `personagens/gunad.md` (fato de passado). O cap. 7 não contradiz: Nolan pergunta por Gunad porque é o único da casa que não é "silencioso e submisso".
+- Em aberto: por que ele largou a casa (sugestão: o motivo que ele dá é a casa do pai, mas no fundo não sabe dizer por quê), onde cai o reconhecimento de Mário e quanto tempo antes Kraviam chegou.
+
+## 2026-11-17 (Mecanismo do hino confirmado)
+
+- O autor confirmou o mecanismo: Gunad ouve Mário cantar pela porta, aprende o hino na cela, jura cantá-lo na praça e verte os versos para o ornickenho na madrugada. Registrado como decisão 4 em `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md` e nos dois insights do Ato 3. Os trechos dos caps. 52 e 63 só entram no rascunho quando o autor pedir.
+- Pergunta em aberto reformulada em termos mais claros: quando e por que Gunad largou a casa e os títulos do pai (a "abdicação" do cap. 52, também em `personagens/gunad.md` e `personagens/koda.md`).
+
+## 2026-11-17 (Decisões do Ato 3: Lucas sem rosto, Gunad convertido e o hino)
+
+- Decisões do autor registradas em `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`: Lucas continua sem rosto (perda do cap. 31); o convertido na conversa do cap. 52 é Gunad (corrige a leitura anterior, que fazia Gunad converter Mário); Gunad precisa conhecer "Mais perto quero estar" antes de cantá-lo no cap. 63.
+- Atualizados `insights/l1-cap52-gunad-ouve-o-evangelho-completo.md` (mecanismo proposto: ouve Mário cantar pela porta, aprende na cela, jura cantar, verte para o ornickenho na madrugada) e `insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md`, além do inbox. Em aberto: onde cai o reconhecimento de Mário (o autor ainda não decidiu).
+- Nada alterado em capítulos, esquemas ou fichas. Ajustes para a revisão listados na decisão (caps. 48, 52, 61 e 63; esquema do L2 sobre o idioma do hino).
+
+## 2026-11-17 (Ato 3: Mário reconhece a Providência e a culpa de Lucas)
+
+- Capturada e desenvolvida a ideia do autor em `insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md` e em `insights/_inbox.md` (amarelo; decisão no checkpoint de bloco). Nada alterado em capítulos, `temas/esquema-l1.md` ou fichas.
+- Conflitos de canon achados no rascunho do Ato 3, a decidir: a perda da memória da família (cap. 31) contra o cap. 48 (linha 37), o cap. 52 (linha 21) e o cap. 61 (linha 31); o diário do cap. 52 conta o plano de Vonos, que nenhum personagem sabe no L1; o hino (caps. 26 e 63) chega a Gunad sem explicação.
+
+## 2026-11-17 (Adendo: o ritual dos rampillas era costumeiro)
+
+- Decisão do autor: a noite do Prólogo não é "a noite de criação dos rampillas"; o ritual da semente já era costumeiro em Devour e Kate interrompeu um entre muitos. Corrige a entrada abaixo, que usava essa expressão no cap. 45.
+- Livro: cap. 45, linha 53, passa a "desde a noite em que interrompera um ritual de Devour, em Saramant"; cap. 30, linha 175, passa de "E diferente da noite de criação dos rampillas" para "E diferente daquela noite em Saramant" (frase do autor; reversível se preferir outra forma).
+- Storybible: regra nova em `conceitos/rampillas.md` ("Criação"), adendo em `decisoes/2026-11-17-brasa-de-kate-comeca-na-falha-do-sinal.md` e ajuste da linha da fome em `capitulos/capitulo-30.md`.
+
+## 2026-11-17 (A brasa de Kate começa só quando o Sinal falha)
+
+- Decisão do autor: a brasa nasce na falha do Sinal (Prólogo); nenhuma menção pode situá-la antes. Registrada em `decisoes/2026-11-17-brasa-de-kate-comeca-na-falha-do-sinal.md` e na regra nova de `conceitos/hicse.md`.
+- Livro: cap. 30, linha 173 (a comparação com os onze anos vira contraste); cap. 35, linha 103 ("reconheceu-a como... a força que sempre" vira "tomou-a por... a dureza que sempre"); cap. 43, linha 75 (a brasa deixa de existir na noite de Tharin: "agora havia a brasa"); cap. 45, linha 53 ("desde as tocas de Saramant" vira "desde a noite de criação dos rampillas, em Saramant").
+- Storybible alinhada: `capitulos/capitulo-30.md` (a linha da fome, que registrava "desde os onze anos"), `conceitos/sinal-de-vonos.md`, `personagens/kate.md` e `vozes/kate.md`.
+- Pendência: no epílogo (não revisado), "aquela pressão antiga" pode ler-se como brasa de sempre; trocar por "conhecida" na revisão.
+
+## 2026-11-17 (Ideias do autor: fecho do L1, Gunad no cap. 52 e status quo de abertura do L2)
+
+- Capturadas e avaliadas cinco ideias do autor em `insights/_inbox.md`, com desenvolvimento em três insights: `l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md`, `l1-cap52-gunad-ouve-o-evangelho-completo.md` e `l2-status-quo-de-abertura-gunad-lakand-mario.md`.
+- Semáforo: as duas de L1 (epílogo e cap. 52) são amarelas e entram na pauta do checkpoint de bloco, porque os capítulos ainda não foram revisados; as três de L2 têm destino L2. Nenhuma é vermelha; o epílogo carrega alerta de Risco 4.
+- Nada alterado em capítulos, `temas/esquema-l1.md`, `temas/esquema-l2.md` ou fichas de personagens. Acrescentada uma conexão em `insights/povs-l2-gunad-lakand-koda.md`.
+- Achado colateral: a abertura do epílogo ainda descreve o Sinal como morto, opaco e silenciado, vocabulário que a decisão de 2026-09-05 corrigiu nos outros capítulos. Alinhar na revisão do epílogo.
+- Pendência registrada: os "12 anos" do L2 são o intervalo depois do L1 ou a duração do L2?
+
+## 2026-11-16 (Luas: o mês de 32 dias entra na fala de Orval)
+
+- O autor aceitou "olhos meio fechados" no cap. 16 (L195, commit `4ceb99d` do livro) e pediu que a fala de Orval não soasse a infodump. No cap. 41 (L81, commit `7d03ae3`), a fala tem o mesmo tamanho: "semanas e meses" virou "trinta e dois dias", sem frase nova e sem explicar que as luas são um par. O número entra como evidência da "ordem regular" que Orval defende. Um parágrafo curto de Mário depois da fala (aro de bronze, "Na Terra, a lua voltava em vinte e nove dias e meio") deixa a diferença no gesto, e a fala seguinte dele muda de assunto, como no L69 ("quis mencionar... mas preferiu que outro dissesse").
+- Registrado em `conceitos/cosmologia.md`, `capitulos/capitulo-41.md`, `temas/cronologia-l1.md` e `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`.
+
+## 2026-11-16 (Festa da Poda e luas na mesma fase)
+
+- Decisão do autor: o festival de Gerikhad se chama **Festa da Poda**. As cinco menções do livro passaram a usar o nome (commit `89ab5aa`: caps. 48, 49, 52, 53 e 60). No storybible: `lugares/metropole.md` (seção renomeada, com a leitura e o que fica em aberto), `personagens/genocydo.md`, `temas/esquema-l1.md` (L1134 e L1155), `decisoes/2026-11-15-ordem-caps-47-48.md` e `insights/duas-vias-de-salvacao-ato-2.md`.
+- Luas: o autor tratou o modelo como aceito (mesma fase, mês de 32 dias) e perguntou se o mês podia aparecer numa conversa de Mário e Orval. Aplicado no livro (commit `7431230`): "as luas minguantes" nos caps. 43, 53 e 55 e "as luas cheias" na fala do rei (cap. 53, L17). Registrado em `conceitos/cosmologia.md` e em `temas/cronologia-l1.md` (A4 resolvida, decisão 2 decidida) e em `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`.
+- Em decisão do autor: o "trinta e dois dias" no cap. 41 (L81) e, como ponto pequeno, o "olhos abertos" do cap. 16 (L195).
+
+## 2026-11-16 (A festa dos Clãs vira as festividades de inverno)
+
+- Sugestão do autor: ninguém na Metrópole gosta dos Clãs e o pacto é só do Rei, então uma festa dos Clãs não faz sentido; a festa deve ser religiosa ou de estação. Cap. 49 (L11): "a festa dos Clãs" virou "as festividades de inverno", com o templo de Vonos preparando o óleo de unção (commit `d77e113` do livro). Era a única ocorrência; os outros trechos já diziam "festividades de Gerikhad" (cap. 48) e "o grande festival" (caps. 52, 53 e 60).
+- Registrado em `lugares/metropole.md` (nova seção "Festividades de inverno"), com o que o texto fixa e o que fica em aberto (nome próprio e data).
+
+## 2026-11-16 (Luas: recomendação refinada, ainda em decisão do autor)
+
+- A pergunta do autor foi qual modelo é mais acurado. Resposta registrada em `temas/cronologia-l1.md` (decisão pendente 2): a fase é o ângulo entre a lua e o Sol, então luas "gêmeas", "sobrepostas" e "quase se tocando" têm a mesma fase; o prazo de Kenod (uma data só) também pede isso. A recomendação passou de um mês de 31 para um de 32 dias, para o cap. 43 cair na meia-lua minguante e os caps. 53 e 55 na minguante fina. Nada mudou no livro.
+
+## 2026-11-16 (Ordens decididas: cap. 51 fica e caps. 59 e 60 trocados)
+
+- Decisões do autor: manter a ordem do cap. 51 e trocar "madrugada" por "noite" na L3 (commit `fbc4b28` do livro); trocar os caps. 59 e 60 (commit `c8a7b4d`). Atualizados `temas/esquema-l1.md` (linhas 59 e 60 trocaram POV e contagem), `temas/timeline.md`, `temas/cronologia-l1.md` e a decisão de 2026-11-15. Não há fichas de capítulo para o 51 nem para o 59 e o 60.
+- A9 refeito: a primeira solução (Estruzzo "adiantou o prazo") não tinha motivo no texto. O ultimato do cap. 43 passou a valer "antes que a horda chegue ao portão" e a fala de Kate no cap. 44 voltou ao original (commit `7e57326`).
+- Em decisão do autor: as fases das duas luas (mesma fase ou fases diferentes). Anotado em `temas/cronologia-l1.md` e em `conceitos/cosmologia.md`.
+
+## 2026-11-16 (Sugestões da cronologia aplicadas; duas ordens em decisão)
+
+- O autor validou as sugestões da lista de alertas. Aplicadas ao livro (commit `07a0426`): luas nomeadas (A4), ultimato adiantado (A9), cena de Kate do epílogo datada (A10), "inferno úmido" no cap. 13 (A11), "quase trinta anos" no cap. 54 (A12), silos da cidade no cap. 58 (A13) e, no cap. 49, "A corte dispensou a bênção" e cerração no lugar da chuva. A tabela do L1 de `temas/timeline.md` foi refeita (A14). Detalhes em `temas/cronologia-l1.md`.
+- Em decisão do autor: ordem do cap. 51 (recomendação: manter e trocar "madrugada" por "noite" no cap. 51, L3) e ordem dos caps. 59 e 60 (recomendação: trocar). Análise em `decisoes/2026-11-15-ordem-caps-47-48.md`, seção de 2026-11-16.
+
+## 2026-11-16 (Revisão do PR do Livro: sumários corrigidos)
+
+- O autor revisou os sumários no PR neogedom/Livro#16. Correções no texto (commit `11eed53`): o assentamento do cap. 34 não se chama Moribundos (esse é o campo dos espectros); a água vem antes do batismo; "soterrados" explicado; sem "posto de muda" nem "chuva" no cap. 42; o sumário de Kate no cap. 43 ficou mais claro. Detalhes na decisão `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`, seção de correções. O autor também editou os sumários dos caps. 13 e 42 direto no PR; a redação dele prevalece.
+- Depois, a pedido do autor, saíram os soldados da Coroa do cap. 43 (L11): mestres e aprendizes de Gus sobem às ruínas com Kate e voltam sem a causa (commit `3c2f74b`).
+
+## 2026-11-16 (O tempo do L1 aplicado: cerca de 110 dias)
+
+- Decisões do autor: aplicar o cenário B em sumários, sem capítulos novos; Nolan espera o selo do Rei fora de Gus (papel e medo); o serviço de Mário aos sobreviventes é também uma tentativa de fazer a Voz voltar, e a Mina é em parte culpa dele (ele sabia da guerra de Kate). Registrado em `decisoes/2026-11-16-esticar-o-tempo-do-l1.md`.
+- Texto alterado no livro (commit `cfc6c68`): caps. 13, 34, 36, 40, 42, 43, 44 e 49, com cinco sumários novos (cerca de 770 palavras) e trocas de marcadores de tempo. O cap. 48 passa a bater com "três meses". Atualizados `temas/cronologia-l1.md` (cenário B como aplicado), as fichas dos caps. 13, 34, 36, 40, 42, 43 e 44, `personagens/mario.md`, `vozes/mario.md`, `conceitos/cosmologia.md` e `temas/timeline.md`.
+- Pontos abertos na decisão: lua (A4), cap. 22 (Nolan sai no dia seguinte), Nolan sabendo onde Mário está no assentamento, Clãs e Inquiridores em onze semanas, expedição à Mina sem resposta, ombro de Mário, papel de linho, contagens do esquema.
+
+## 2026-11-16 (Cenário B em sumários, sem capítulos novos)
+
+- Decisão do autor: não haverá capítulos novos; as esticadas de tempo do cenário B (lobisomens, assentamento da subida, Gus) passam em narrativa de sumário dentro dos capítulos existentes. Atualizado `temas/cronologia-l1.md`: 16 costuras, seis delas com sumário (caps. 13 duas vezes, 36, 42, 43 e 44; cerca de 800 palavras no total), no lugar das três cenas novas. A página "Cronologia do Livro 1" reflete a mudança. Nada aplicado ao livro.
+
+## 2026-11-15 (Cenário B: estadias maiores)
+
+- Ideia do autor: esticar o tempo com estadias maiores nos assentamentos e na Cidadela e com mais dias de Mário entre os lobisomens de Charles (mais afeição). Registrado em `temas/cronologia-l1.md` o cenário B (+12 dias no cap. 13, +21 no assentamento da subida, +42 em Gus; cerca de 110 dias), com 15 costuras, três blocos de cenas novas e pontos novos. Proposta, nada aplicado ao livro.
+- Corrige o registro anterior desta data: o tempo também pode ser esticado depois da queda da Mina, desde que Nolan fique fora das muralhas de Gus até a véspera do ataque. Assim o B resolve A2 pelo tempo (a Mina cai 46 dias antes do cap. 48) sem reatribuir a causa. O cenário A fica como alternativa. A página "Cronologia do Livro 1" ganhou o seletor "Texto atual / A / B".
+
+## 2026-11-15 (Cenário de três meses para o Livro 1)
+
+- Pergunta do autor: dá para a história levar meses e resolver os efeitos da queda da Mina? Registrado em `temas/cronologia-l1.md` o cenário de duas costuras (+21 dias depois do incêndio de Devour, +42 dias na fase da Mina), com 14 edições de texto, pontos novos e efeito no ritmo. Proposta, nada aplicado ao livro.
+- Conclusão: o tempo só pode ser esticado antes da queda; os efeitos da Mina no cap. 48 pedem ainda duas frases reatribuídas (L25 e L31). A página "Cronologia do Livro 1" ganhou a opção "Cenário de três meses".
+
+## 2026-11-15 (Cronologia do Livro 1 inteiro)
+
+- Pedido do autor: uma timeline do livro todo para avaliar a consistência temporal. Criado `temas/cronologia-l1.md` (cadeia de dias, durações declaradas contra estimadas, 14 alertas, ritmo por trecho) e a página interativa "Cronologia do Livro 1".
+- Resultado principal: a soma das âncoras de tempo dá cerca de 34 dias; "três meses" e "meses antes" (cap. 48), "há três semanas" (cap. 49) e os efeitos econômicos da queda da Mina no cap. 48 não fecham. Nenhum ajuste foi aplicado ao livro.
+- Correções a registros desta mesma data: o ataque a Gus (caps. 43 a 45) é de madrugada, não à tarde, e a razão de densidade do bloco final é pouco mais que o dobro do resto (3,7 mil contra 7,8 mil palavras por dia), não seis ou sete vezes. Ajustada a decisão `decisoes/2026-11-15-ordem-caps-47-48.md`.
+- `temas/timeline.md` recebeu um aviso: a tabela do L1 está desatualizada (linhas 24 a 29 deslocadas). `conceitos/cosmologia.md` recebeu uma nota na duração do L1, sem alterar a estimativa do autor.
+
+## 2026-11-15 (Troca de ordem dos caps. 47 e 48)
+
+- Decisão do autor: os arquivos `capitulo47.md` e `capitulo48.md` do livro trocaram de lugar. O cap. 47 passa a ser Mário na marcha dos Clãs e o cap. 48 passa a ser Nolan chegando à Metrópole. Motivo e cronologia em `decisoes/2026-11-15-ordem-caps-47-48.md`.
+- Referências ao antigo cap. 47 (cena de Koda, Valinor e Benjamim) passam a cap. 48 em `lugares/castelo-devour.md`, `vozes/nolan.md`, `decisoes/2026-11-12-logistica-alavria.md`, `insights/nolan-cobra-nuh-informacao-negada.md` e `insights/povs-l2-gunad-lakand-koda.md`.
+- `temas/esquema-l1.md`: linhas 47 e 48 da tabela trocaram POV e contagem de palavras. Os beats (inferidos) ficam por posição.
+- Entradas antigas deste log que citam o "cap. 47" de Koda foram anotadas, não reescritas.
+- Os caps. 47 e 48 ainda não tinham Mini-INGEST nem ficha em `capitulos/`.
+- Avaliação dos caps. 49 a 56 registrada na decisão. No livro, a hora do enforcamento de Juleen foi alinhada ao cap. 49 (tarde): cap. 53, "no meio da tarde"; cap. 56, "ontem à tarde". Cap. 53, "terceira vigília da manhã" passou a "as primeiras horas da manhã". Cap. 60 e epílogo foram alinhados depois (ver abaixo).
+- Cap. 51 (Kate): a cronologia estrita pediria movê-lo para depois do 54; a recomendação é manter a ordem (detalhes na decisão).
+- Decisão do autor: o enforcamento de Juleen é à tarde. Cap. 60 ("Ontem à tarde") e epílogo, linha 27 ("naquela tarde") alinhados aos caps. 49, 53 e 56.
+- Juntar capítulos de Kate (51 + 55, 57 + 59): análise registrada na decisão; recomendação de não juntar agora e rever no congelamento.
+- Pergunta do autor: o trecho dos caps. 44 a 66 é denso demais para três dias? Avaliação registrada na decisão (medidas por dia, onde segura e onde aperta); sem decisão.
+- Correção: lidos os caps. 57 a 66 por inteiro, o final do 59 (cortejo com o prisioneiro) acontece depois do fim do Conselho (60). A contagem de recuos no tempo na ordem atual é 2 (51 e 59), não 1. Sugestão: trocar o 59 e o 60 de lugar. A página da cronologia foi corrigida.
+
+## 2026-11-15 (Cap. 47: edições do autor e novos comentários em lote)
+
+- Autor editou o cap. 47 (cortou comparações decorativas; ligou a fome à apoteose; trocou "barqueiros de Orval" por "artífices da Cidadela"; tirou a acusação explícita a Alavria da fala de Nolan e levou a oferta antiga para a narração; acrescentou um parágrafo final) e deixou cinco comentários `(* ...)`. No cap. 40 cortou a explicação do anel de sinete (o gesto fica).
+- Aplicado em lote, a pedido dele: Nolan não cita o contrato do Trono: sabe do acampamento dos Clãs na planície sul (Mathias, cap. 46), a coluna com Mário ainda não chegou a ele, e Nolan calcula o Portão Leste; a fumaça é a do acampamento; barbacã explicada no texto; burgos ligados à Segregação (sem selagem literal) e mencionados também no cap. 17; alusão a Alavria em ponto de vista de Nolan, com Koda nomeando Alavria; erros de digitação e crase corrigidos.
+- Registrados: `capitulos/capitulo-47.md` e `capitulos/capitulo-17.md` (burgos); semente #34 (germinação reescrita); `lugares/alavria.md`; `lugares/metropole.md` e `lugares/mapa-do-reino.md` (a Taverna do Porto Seco fica a horas da ponte, não entre os burgos: correção de registro anterior); `visuais/ossan.md` (olhos pequenos).
+- Observação de texto (não alterei o livro): a fala final de Benjamim ainda fecha em aforismo; fica para o anti-slop em lote.
+- Esclarecimento a pedido do autor (mesmo dia): "faltava a coluna que trazia Mário" era ambíguo e a atribuição a Mathias passava do que ele disse; a abertura foi reescrita (o acampamento já está na planície sul; a coluna de Mário ainda não chegou a ele; o Portão Leste é cálculo de Nolan). Ponto em aberto no cap. 46: o texto não diz como Mathias sabe do acampamento estando em Gus.
+- Dúvida do autor (mesmo dia): por que o acampamento existe, se é fixo e como Mathias o saberia. Registrado: o contrato da Coroa o instalou na planície sul e ele é fixo (fogueiras atrás de paliçadas no cap. 51; farinha da tesouraria no cap. 53); a citação do cap. 42 em `conceitos/clas-de-sangue.md` era inferência e foi corrigida; a fonte de Mathias segue em aberto (três saídas na ficha do cap. 46).
+- Decisão do autor (mesmo dia): opção A. Cap. 46, linha 61: Mathias descreve só a rotina ("o outro vigia a planície sul"). Cap. 47, linha 1: Nolan vê a fumaça ao sul e conclui que é um acampamento dos Clãs; a coluna com Mário ainda não chegou a ele.
+- Pergunta do autor: se os Clãs desceram, acamparam e só depois atacaram Gus. Resposta registrada: não; o ataque a Gus veio direto da serra (caps. 43 e 44) e o acampamento da planície sul fica no extremo oposto, sem cena de origem. Proposta de história (contrato da Coroa como ponto de reunião; uma linha de Valinor no cap. 47) aprovada pelo autor no mesmo dia (`decisoes/2026-11-15-acampamento-dos-clas.md`); a frase de Valinor foi aplicada no cap. 47, linha 81. A descida dos Clãs vem da soltura de Hícse: o Reino é o presente de Terbs a Hícse, em compensação pelo tempo preso em Gaviorn'l; a ordem de Hícse é pressuposta, sem voz (registrado em `conceitos/hicse.md`).
+
+## 2026-11-14 (Mini-INGEST do cap. 47)
+
+- Cap. 47 fechado (3.135 palavras; ~87,0%). Criada `capitulos/capitulo-47.md`; visuais de Nolan, Mathias, Ossan, Mira, Saboc e Benjamim atualizados; criados `visuais/valinor.md` e `visuais/koda.md`; "não aparece" em Kate, Mário, Lakand, Decian e Genocydo.
+- Sementes: #29 aplicada; novas #33 ("mais uma condição" da apoteose) e #34 (o fragmento galvânico e a lavra de Alavria); #26 (Saboc) com a germinação do L1. Canon duro em `conceitos/terbs.md`, `personagens/benjamim.md` e `personagens/genocydo.md`.
+- Fecho: Corte D (consequência); 45, 46 e 47 fecham em D, três seguidos (o POV gira). Observação para o passe de fechos. Próximo gatilho de checkpoint: o fim do beat Tudo Está Perdido ou 10 capítulos desde o checkpoint de 37 a 46 (2026-11-13).
+
+## 2026-11-14 (Mapa do Reino: lugares, divisas, Rifte, Opium e Saramant)
+
+- Decisões do autor, registradas em `decisoes/2026-11-14-mapa-do-reino-lugares-e-divisas.md`: nomes fora do Reino (Landorp, Garyun, Vitysh, Velho Continente, Alavria e Gondor) só como divisa ou seta; Valoran, Duannis e Ilton como cidades do Reino; divisas com Gondor (oeste), Clãs (leste) e fronteira aberta ao norte, com fortes de guarnição; Rifte como enclave do Templo dentro do Reino; Opium na ponta oeste da mata; Saramant alargada sobre as terras dos daërunmeges e além da divisa; Campo dos Moribundos no mapa.
+- Novos: `lugares/mapa-do-reino.md` (com `.svg` e `.png` da referência e do guia, e o prompt final), `valoran.md`, `duannis.md`, `ilton.md`, `porto-sul.md`, `landorp.md`.
+- Atualizados: `rifte.md` e `saramant.md` (reescritas), `opium.md`, `gondor.md`, `subida-da-mina.md`, `cidadela-de-gus.md`, `moribundos.md`, `metropole.md`, `mina-de-quartzo.md`, `inquiridor.md`, `inquiridores-sinal.md`, `clas-de-sangue.md`, `elysia.md`, `index.md`.
+- Pendências: ponte velha (cap. 42), hierarquia do Templo (clérigo-mor × Nuh), pontos de L2 que dependem de posição.
+
+## 2026-11-14 (Geografia do Cran aprovada e aplicada)
+
+- Decisão do autor: a Metrópole é uma ilha com dois braços do Cran; Nolan desce pela estrada real e os Clãs pelas serras do outro lado do rio, com vau perto de Gus. Decisão em `decisoes/2026-11-14-geografia-cran-clas-metropole.md`; mapa em `lugares/mapa-cran-metropole.svg` e `.png`.
+- Livro: cap. 47, linha 1 ("pelas serras do outro lado do Cran, território que já era deles"); cap. 46, fala de Lakand ("Nas serras deles, com centenas de guerreiros carregando Mário").
+- Conferidos sem mudança: entrada pelo norte e saída pela garganta sul de Gus (caps. 43 a 45), Portão Leste (cap. 50), planície sul e barcaça (caps. 51 e 53). Cap. 45: "garganta sul" mantida.
+- Registros: `lugares/metropole.md`, `lugares/cidadela-de-gus.md`, `conceitos/clas-de-sangue.md`, nova ficha `personagens/elysia.md`; índice atualizado; entrada do inbox fechada.
+- O número dos Clãs é "mais de duzentos a cavalo" (cap. 44); "seiscentos" são os soldados de Alavria (cap. 66).
+
+## 2026-11-14 (Epílogo corrigido e proposta da trajetória dos Clãs)
+
+- Epílogo: tirados "do bebê deixado num celeiro de palha" e "não tinha mais família", que contradizem Saboc vivo; a linha agora diz "nem sogro, nem corte. Só o filho, pequeno demais para saber de qualquer uma daquelas perdas".
+- Epílogo: as fogueiras dos Clãs não marcham mais "em direção às serras de Alavria" (Alavria é além-mar); os sobreviventes continuam nos becos do Gerdialias, como nos caps. 64 e 66.
+- Proposta da trajetória dos Clãs até a Metrópole registrada no inbox, a avaliar.
+
+## 2026-11-14 (Cap. 47: pendências resolvidas pelo autor)
+
+- Cap. 56, linha 55: "Matou Dagmar e o meu filho" passa a "Matou Dagmar e tentou matar o meu filho", porque Saboc está vivo.
+- Portões: o cap. 47 passa a dizer "Portão Leste" (sem "ponte do Leste"), em acordo com o cap. 50; a ponte de pedra dá no portão oeste. Registrado em `lugares/metropole.md`.
+- Rota: o Espinhaço fica na Subida, entre Tronk e a Mina, e não leva à Metrópole. Caps. 46 e 47: Nolan desce pela estrada do sul, sem pouso; o cap. 33 não foi alterado.
+- Burgos de humanos ficam fora da muralha (a muralha separa humanos de leviantares).
+- Cap. 40: Nolan também esconde o anel de sinete dos Guenayer ao chegar em Gus, porque os hegralianos o reconheceriam; no cap. 47 ele o recoloca junto da insígnia.
+- Fragmento: metal galvânico, não renanthao; a referência a Alavria é a lavra. Ajustada a fala de Nolan no cap. 47.
+- A promessa dos Clãs não precisa ter antecedido a carta no texto: basta que a carta não tenha sido a causa. Semente #29 e ficha de Koda atualizadas.
+
+## 2026-11-14 (Cap. 47: revisão em lote dos comentários do autor)
+
+- Aplicados no `capitulo47.md` os comentários `(* ...)` do autor, a pedido dele, ainda no modo privado (sem Mini-INGEST do 47).
+- Decisões do autor: não há mentira sobre Saboc (Mira e Saboc entram na Metrópole; só Nuh sabe da ressurreição, pelo escriba); precedente de Alavria no Interregno (ofereceu ajuda contra Gondor em troca de o Reino virar província; os Guenayer recusaram); o desengano de Koda, com a cessão aos Clãs como "mais uma condição da apoteose", sem nomear a blasfêmia.
+- Ajustes de canon no texto: insígnia de bronze do Conselho recolocada no portão (cap. 40 a escondera); capa vermelha de Mathias de volta; cocheiro fica no celeiro (cap. 46); "festividades de Gerikhad" vira "festa dos Clãs" (cap. 49); estação e cifras que Nolan não poderia saber saem da narração.
+- Registrados: semente #29 reescrita; fichas de Koda, Valinor, Saboc e Nuh; `lugares/metropole.md` (pontes, rotas, burgos), `lugares/alavria.md` e `lugares/gondor.md` (precedente); entradas do inbox de 2026-11-14 fechadas.
+- Pendências: cap. 56, linha 55 ("matou Dagmar e o meu filho"); cap. 50 ("Portão Leste" x "ponte do Leste"); brasão/anel de sinete dos Guenayer no cap. 40; ajuste do fragmento de renanthao no cap. 47; tensão entre a decisão de 2026-11-09 (a promessa antecedeu a carta) e o texto (a carta não foi a causa).
+
 ## 2026-11-13 (Correções do teste 2 no cap. 46)
 
 - Decisão do autor: Kate pode saber o nome de Ossan (cap. 46, linha 1 mantida).
@@ -36,7 +273,7 @@
   Koda por Gunad ainda precisa ser encaixada.
 - Atualizadas as fichas de Koda e Gunad para distinguir fatos já decididos das
   direções ainda em avaliação. `temas/esquema-l2.md` não foi alterado.
-- O pagamento aprovado para Koda no cap. 47 do L1 continua pendente de
+- O pagamento aprovado para Koda no cap. 48 do L1 (antigo cap. 47; ver a troca de 2026-11-15) continua pendente de
   aplicação ao manuscrito.
 
 ## 2026-11-09 (Koda sobrevive e desaparece antes do L2)
@@ -3619,3 +3856,84 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 
 - Criado `capitulos/capitulo-46.md` (POV Kate, ~84,7%). Visuais: Kate, Nolan, Lakand, Mathias, Ossan, Decian; "não aparece" para Mário, Mira e Saboc. Linha do cap. 46 e bloco de fronteira no `esquema-l1.md`; defesas da muralha em `lugares/metropole.md`; payoff de Lupe'i em `temas/sementes.md`.
 - Gatilho de checkpoint atingido: último registrado em 2026-09-18 (caps. 21-28), 18 capítulos atrás, e o cap. 46 fecha o bloco "Vilões se Aproximam". Oferecido ao autor, não executado.
+
+## 2026-11-13 (validação das fichas 34 a 38)
+
+- Fichas conferidas com o texto. Decisões do autor: repique frenético (cap. 38 ajustado); picareta (cap. 37 ajustado); cinco seguidores (caps. 37 e 38); mapa da reestruturação com o cap. 38 em POV de Kate; massacre da família Uorier, com Mira e Saboc vivos; cap. 38 reescrito para o reconhecimento de Nolan (o nome vem do soldado no cap. 20).
+
+## 2026-11-13 (checkpoint caps. 37 a 46)
+
+- Executado: Arquiteto de Densidade (leve), anti-slop em lote (59 cirurgias nos caps. 37 a 45; cap. 46 só candidatos, por estar em revisão manual) e passe de fechos (bloco gravado em `temas/esquema-l1.md`).
+- Densidade: Vilões se Aproximam consumiu ~19k palavras (~13,9%) contra ~7% planejado; o bloco absorveu os primeiros beats do Tudo Está Perdido. Cap. 41 em excesso; Gus quase não paga a entrega de Mário; mapa do arco-stc precisa ser redefinido antes do cap. 47.
+
+## 2026-11-13 (cap. 46 fechado e checkpoint aprovado)
+
+- Autor aprovou os pontos do checkpoint. Correções de coerência aplicadas nos caps. 37, 38, 41, 43, 44, 45 e 46 (olhos de Nolan escuros, conforme `personagens/nolan.md`; cinco seguidores; erros de grafia). Arco-stc redefinido; ajustes estruturais em `insights/_inbox.md`. Pendente: prazo do ultimato de Estruzzo (cap. 43) contra o ataque na mesma noite.
+
+## 2026-11-13 (ultimato de Estruzzo)
+
+- Ultimato do cap. 43 passa a ser "antes da meia-noite" (era "ao amanhecer", incompatível com o ataque na mesma noite). Ficha `capitulos/capitulo-43.md` ajustada.
+
+## 2026-11-13 (signatário do contrato com os Clãs)
+
+- Decisão do autor: Nolan não assinou o contrato com os Clãs de Sangue. Registrado em `decisoes/2026-11-13-signatario-contrato-claos.md`. Pendências: o termo "Rei fantoche" (cap. 43) e o pacto de Nolan com Terbs no final do L1 (`nolan.md`, `benjamim.md`).
+
+## 2026-11-13 (Rei fantoche e pacto de Nolan com Terbs)
+
+- Decisão do autor: "Rei fantoche" é Genocydo (termo de Estruzzo; Terbs o move por meio de Benjamim Cressadar). Genocydo assinou a entrega das terras aos Clãs. O pacto de Nolan com Terbs continua de pé, como evento separado (no epílogo do rascunho, Nolan pega o sinete).
+- Atualizados: `decisoes/2026-11-13-signatario-contrato-claos.md` (reescrita, sem pendências), `personagens/genocydo.md`, `personagens/nolan.md`, `personagens/benjamim.md`, `conceitos/terbs.md`, `conceitos/clas-de-sangue.md`, ficha do cap. 43.
+- Corrigido um resíduo: a ficha do cap. 43 ainda dizia "ao amanhecer" no resumo; agora diz "antes da meia-noite".
+
+## 2026-11-13 (Sinal mudo no final do L1)
+
+- Decisão do autor: o Sinal pode estar mudo no final do L1, porque mede o selo de Hícse e Hícse está solta. Trajetória: instável (prólogo a cap. 29) → perde o objeto (cap. 30+) → mudo (Ato 3 e epílogo).
+- Atualizados: `conceitos/sinal-de-vonos.md` (nova seção "Estado no final do L1"), `decisoes/sinal-permanentemente-instavel.md` (revisão), `conceitos/hicse.md`, ficha do cap. 0.
+- O que o rascunho já tem (cap. 47 "apagado", cap. 50 "mudo", epílogo "definitivamente morto") não é erro de canon. A sinalização anterior em contrário foi retirada.
+- Em aberto: a partir de qual capítulo o mudo vale; se é permanente ou reversível no L2.
+
+## 2026-11-13 (curva de aproximação Kate–Mário)
+
+- Autor aprovou o item 8 do inbox: micro-gestos em cinco pontos (caps. 25, 27, 36 abertura, 36 fecho, e um do lado de Mário em 21, 26 ou 34), sem nomear o amor; destino congelamento-L1. Cap. 45: tese do sacrifício condensada na fase 3; a linha "Amor..." decidida depois da curva.
+- `personagens/kate.md` corrigido: o vínculo deixa de ser "não romântico" e passa a crescer sem nome no L1 e virar casamento no L2.
+
+## 2026-11-13 (Sinal instável no L1: Kate receptora)
+
+- Autor aprovou "Kate como receptora" (caps. 20 e 23), destino congelamento-L1, registrado no inbox com as cinco perguntas. A ideia de o Monólito responder "não consta" foi rejeitada. O efeito da falta do Sinal sobre os Inquiridores e o culto a Vonos no L2 foi capturado. Semente #27 (Charles) a revisar.
+
+## 2026-11-13 (Sinal mudo a partir de Hícse, e definitivo)
+
+- Decisão do autor: o Sinal está mudo a partir da libertação de Hícse (cap. 30), não só no Ato 3; e o mudo é definitivo, salvo se Vonos reconstruísse o instrumento, o que não vai acontecer.
+- Atualizados: `conceitos/sinal-de-vonos.md` (Camada 2 e nova seção), `decisoes/sinal-permanentemente-instavel.md`, `decisoes/gaviornl-morte-antecipada-hicse.md`, `conceitos/hicse.md`, ficha do cap. 0, inbox.
+- Texto: fala dos artífices de Gus no cap. 42 ajustada (a pedra do templo não responde; o Sinal não voltou).
+
+## 2026-11-13 (semente #27)
+
+- Autor aprovou tirar Charles da semente #27: a Ordem dos Inquiridores opera sem o Sinal no L2 e segue atrás da anomalia de Kate (#19); o "Cão da Inquisição" de Charles é outro fio. Nota do inbox atualizada.
+
+## 2026-11-13 (rapaz curado dos Clãs)
+
+- Autor aprovou o reconhecimento do rapaz curado (cap. 48) entre os Clãs no cap. 63: ele vê o homem que o curou ser torturado, sem ajoelhar e sem agir. Registrado como semente #32 e no inbox (destino: cap. 63, na revisão). Sem nome por ora.
+
+## 2026-11-13 (Nuh e Nolan sobre o silêncio do Sinal)
+
+- Ideia do autor capturada no inbox: nos capítulos finais, Nuh pergunta a Nolan se teve parte no silêncio do Sinal. Proposta: epílogo, antes de Benjamim; resposta de Nolan factual (o Sinal vacilou antes de qualquer ato dele; ele queimou o hegraliano assim mesmo). Status: em desenvolvimento.
+
+## 2026-11-13 (Nuh e Nolan no epílogo: aceito)
+
+- Autor aceitou a cena de Nuh e Nolan no epílogo (cerca de 300 palavras) e decidiu manter a frase do narrador "silenciada pela soberania de outro Nome" como leitura teológica (providência: causa primeira e causas segundas). Falta confirmar a resposta de Nolan. Atualizados: inbox, `conceitos/sinal-de-vonos.md`, `personagens/nuh-dteraghar.md`.
+
+## 2026-11-13 (cronologia do boato e dos hegralianos)
+
+- Autor corrigiu a resposta de Nolan a Nuh: rixa antiga com os hegralianos; o Sinal falhou primeiro; os hegralianos espalharam o boato (Vonos abandonou o reino ou há problema com o Rei); Nolan os queimou em Gerikhad pelo boato; o Sinal calou depois. Cronologia registrada em `insights/nolan-sufoca-boatos-sinal.md` e a cena exemplo do inbox foi refeita.
+
+## 2026-11-13 (cena de Nuh e Nolan: resposta aceita)
+
+- Autor aceitou a resposta de Nolan a Nuh. Rascunho em prosa da cena (254 palavras) guardado no inbox, sem inserir no epílogo.
+
+## 2026-11-13 (branch de trabalho)
+
+- Autor decidiu centralizar o trabalho com o Claude na branch `trabalho`, nos dois repositórios, por cerca de um mês; se der certo, ela assume a `main`. Regras e estado das branches antigas em `decisoes/2026-11-13-branch-de-trabalho.md`.
+
+## 2026-11-14 (fluxo de PR por sessão)
+
+- Autor decidiu: a main é a fonte; cada sessão abre PR para a main quando pedir; backup em `backup/main-2026-11-14`; `.github` (e `.kilo`, no Livro) ficam como na main. A branch `trabalho` foi superada. Decisão em `decisoes/2026-11-14-fluxo-pr-por-sessao.md`.

@@ -48,6 +48,10 @@ timestamp: 2026-10-02T21:30:00-03:00
 - Nada sobre a causa (Hícse); a tese nunca é verbalizada; o leitor reconhece antes do Mário.
 - **Amarração das metades:** marcar a mesma hora nas duas pontas (o sol a pino no 30; "quando o sol virou" no 31) — é o suficiente para o leitor juntar em Gus.
 
+## No mapa oficial (decisão do autor, 2026-11-14)
+
+O campo entra no mapa como "Campo dos Moribundos", ao lado da estrada da Subida, que faz a volta larga em torno dele (cap. 32). Ver `lugares/mapa-do-reino.md`.
+
 ## Status
 
 - **Cap. 29:** travessia feita; **o Lakand ferido** (corte oblíquo da cintura às costelas — o que mata é o apodrecimento; ver `conceitos/daerunmeges.md` e `conceitos/agua-e-seca.md` §5).

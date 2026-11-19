@@ -100,7 +100,11 @@ coisa do capítulo: **a fome.** Ela nomeia como corpo, nunca como causa.
   aferição** do cap. 27 e se joga no chão. Nada de narrador explicando — e nem
   ela sabe que aprendeu.
 - **A fome de contas (não de comida):** *"Não era raiva. Raiva passava. Era
-  fome"*. Ela conhece aquilo **desde os onze anos**, e mesmo assim a fome fica.
+  fome"*. Ela separa essa fome do que sentiu **aos onze anos**, ao matar o
+  primeiro homem (aquilo passou quando ele caiu), e a liga só àquela noite em
+  Saramant, quando interrompeu um ritual de Devour: a fome fica. (Corrigido
+  em 2026-11-17: a brasa não existe antes da falha do Sinal; ver
+  `decisoes/2026-11-17-brasa-de-kate-comeca-na-falha-do-sinal.md`.)
 - **O tique ganha origem:** o gesto de cravar o polegar no próprio pulso vem do
   que Gaviorn'l fazia depois dos treinos — e o que ele fazia, **a mãe parteira
   dela fazia antes**. O gesto que existe para ela não ser segurada **nasce da
