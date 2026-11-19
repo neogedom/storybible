@@ -74,7 +74,7 @@ Decian e Gunad também começam a conseguir fazer milagres, e os milagres por me
 
 1. **Quando os milagres de Mário cessam.** **O último nos 12 anos; o primeiro "não acontece" no Tema Declarado; a falha pública no Catalisador ou no Debate; a Voz só silencia no Midpoint.**
 2. **Por que cessam.** **Os dois motivos juntos e sem veredito: Mário lê como abandono e castigo; Gunad e Decian leem como a Palavra seguindo adiante; o narrador não decide (a ambiguidade é de leitura, não de fato).**
-3. **Onde Gunad e Decian recebem.** **Gunad em Alavria; Decian entre os lobisomens ou nos Clãs expulsos.** O autor define.
+3. **Onde Gunad e Decian recebem.** **Gunad em Alavria; Decian entre os lobisomens ou nos Clãs expulsos.** O autor define. A ideia do rapaz curado do cap. 47 (inbox, 2026-11-18: uma igreja nos Clãs, fora da tutela de Mário) reforça os Clãs: é a Palavra chegando onde nunca esteve.
 4. **Se ouvem a Voz.** **Não.**
 5. **Como o Estado reage.** **Tenta reivindicar ou falsificar os sinais (Nolan: sem sinais, a Igreja precisa de lei).** O autor define.
 6. **Se Mário vê um dos sinais de perto.** **Sim, ao menos um, de Decian, com a reação do cessacionista.**

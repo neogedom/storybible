@@ -5,7 +5,7 @@ description: Notas do autor (2026-11-17), seus comentários de review e suas res
 tags: [insight, L2, status-quo, doze-anos, clas, segregacao, progresso, cristianismo, igreja, gunad, lakand, decian, charles, mario, davi, traducao, koda, joachin]
 destino: L2
 status: capturada, avaliada e atualizada com os comentários de review e as respostas em conversa do autor (2026-11-17); esquema do L2 e fichas não alterados
-timestamp: 2026-11-17T18:05:00-03:00
+timestamp: 2026-11-18T21:20:00-03:00
 ---
 
 # Status quo de abertura do L2 — os 12 anos, Gunad, Lakand com Decian e Mário
@@ -56,7 +56,7 @@ Os itens são do autor. O que o cânone já diz, os preços e os alertas são no
 
 Mário lida com os Clãs de Sangue, em forma inspirada em Davi contra os filisteus, e os expulsa para além das fronteiras. **Avaliação: entra, e planta o inimigo do L2.**
 
-- **O que o cânone já diz.** Os Clãs são tribos sem líder geral que veneram Hícse; o contrato que os instalou na planície sul foi assinado por Genocydo ([Clãs de Sangue](../conceitos/clas-de-sangue.md); [signatário do contrato](../decisoes/2026-11-13-signatario-contrato-claos.md)). Expulsá-los é lidar com esse contrato e com várias tribos, não com um exército único.
+- **O que o cânone já diz.** Os Clãs são dezenas de tribos que veneram Hícse, sem líder geral e com as decisões comuns num conselho de chefes (Karrk, o mais diplomático, trata com a Coroa); o contrato que os instalou na planície sul foi assinado por Genocydo ([Clãs de Sangue](../conceitos/clas-de-sangue.md); [signatário do contrato](../decisoes/2026-11-13-signatario-contrato-claos.md)). Expulsá-los é lidar com esse contrato e com um conselho de chefes, não com um exército único.
 - **É o Davi rei, não o pastor.** O cap. 66 já usou o Golias (Varek, o "Golias" de Alavria, cai sem a mão de Mário). Os filisteus de 2 Sm 5 e 8 são guerra de reinado, com a vitória atribuída ao Senhor (2 Sm 5:20) e os ídolos tomados e queimados (2 Sm 5:21; 1 Cr 14:12).
 - **Preço: os expulsos viram a Hoste.** A Hoste de Hícse reúne gornads, lobisomens e Clãs de Sangue ([esquema do L1](../temas/esquema-l1.md), tabela de sementes). Como os filisteus de 2 Sm 21:15-22, eles voltam: a expulsão é a semente do inimigo do L2.
 - **Alerta de Voz.** Se a expulsão é por armas, é a primeira vez que Mário usa o poder de Estado e a espada, o "método do mundo caído" que ele recusou no L1 ([recrutamento da Kate](recrutamento-da-kate.md)). A decisão de ir à guerra e, se houver, a primeira morte dele não cabem em panorama: decisão crucial sem reflexão interior é erro, então pedem uma cena com a cabeça dele.
@@ -166,6 +166,8 @@ A tradução com os eruditos da Academia dos Artífices e o ensino do português
 - **Remanescente.** Nasce no Jogos como resultado, não como começo: o grupo dos primeiros cristãos, tutelado por Gunad, passa a ser um remanescente (palavra do narrador, não nome dado em Ornick) ao se opor à política de Mário, até com Gunad longe. Decian, que percebe o desvio antes de todos, e Lupe'i, que viu o projeto de Gus virar política de Estado, vão para junto dele.
 - **Hoste.** Os Clãs expulsos e os lobisomens que ficam com Lakand são a matéria da Hoste de Hícse; os 12 anos dão a ela o tempo que a decisão de 2026-11-12 pede.
 - **Alavria.** O progresso do Reino é o motivo da segunda onda, e a pista de Gunad pode ser o primeiro sinal dela.
+- **Milagres.** A tese do autor para o L2 (os milagres deixam Mário e passam a Decian e Gunad) liga-se à Igreja, ao gradiente do combate ao culto e ao resto fiel: ver [o insight](l2-milagres-passam-de-mario-a-decian-e-gunad.md).
+- **O rapaz curado do cap. 47.** A ideia de 2026-11-18 no inbox (uma igreja nos Clãs, fora da tutela de Mário, e o ataque que racha Gunad ou Decian de vez com Mário) cruza com este insight em três pontos. (a) A igreja nos Clãs é a Palavra chegando onde nunca esteve: candidata forte à fronteira de Decian e ao primeiro sinal fora de Mário. (b) O ataque é violência de Estado e, pela distribuição acordada do gradiente (item 16 da decisão dos 12 anos), cai no L2, não nos 12 anos; caberia depois das leis de sangue do Break Into 2 (hipótese nossa). (c) A ideia já prevê Gunad longe, lendo cartas de Decian, o que bate com a partida dele no começo do L2: o racha de Gunad com Mário viria por carta, e o de Decian em cena.
 
 ## Não alterar agora
 
@@ -178,3 +180,4 @@ A tradução com os eruditos da Academia dos Artífices e o ensino do português
 - [Esquema do L2](../temas/esquema-l2.md) — Configuração e Tema Declarado.
 - [L2 abre com os 12 anos em resumo](../decisoes/2026-11-17-l2-os-doze-anos-em-resumo-e-a-partida-de-gunad.md) — a decisão do autor que este insight desenvolve.
 - [Clãs de Sangue](../conceitos/clas-de-sangue.md) e [Segregação](../conceitos/segregacao.md) — o que Mário enfrenta nos 12 anos.
+- [Os milagres deixam Mário e passam a Decian e Gunad](l2-milagres-passam-de-mario-a-decian-e-gunad.md) e a [decisão de 2026-11-18](../decisoes/2026-11-18-l2-milagres-passam-de-mario-a-decian-e-gunad.md) — a tese do autor que cruza a Igreja, o gradiente e o resto fiel.
