@@ -1,7 +1,7 @@
 ---
 type: Decision
 title: L2, os milagres deixam Mário e passam a Decian e Gunad (2026-11-18)
-description: Decisão do autor para o L2. Decian e Gunad também começam a fazer milagres, e os milagres por meio de Mário cessam, seguindo o Desvanecentismo Concêntrico, que o autor atribui a Iago Martins (BTCast 621, A Casa da Teologia). Enquanto a Palavra chega a um lugar onde nunca esteve, quem a leva recebe o poder de fazer milagres para testificar a autoridade do que diz.
+description: Decisão do autor para o L2. Decian e Gunad também começam a fazer milagres, e os milagres por meio de Mário cessam, seguindo o Desvanecentismo Concêntrico, que o autor atribui a Yago Martins (BTCast 621, A Casa da Teologia), uma posição intermediária entre o cessacionismo e o continuísmo. Enquanto a Palavra chega a um lugar onde nunca esteve, quem a leva recebe o poder de fazer milagres para testificar a autoridade do que diz.
 tags: [decisao, L2, milagre, mario, decian, gunad, sinais, tese, canon]
 timestamp: 2026-11-18T21:15:00-03:00
 ---
@@ -13,7 +13,7 @@ Status: decidido pelo autor em conversa, em 2026-11-18. Avaliação, conflitos c
 ## Decisão
 
 1. **No L2, Decian e Gunad também começam a conseguir fazer milagres, e os milagres por meio de Mário cessam.**
-2. **Base:** a tese do "Desvanecentismo Concêntrico" (BTCast 621, A Casa da Teologia; atribuída pelo autor a Iago Martins). Enquanto a Palavra está chegando a algum lugar onde nunca esteve, quem a leva recebe o poder de fazer milagres para testificar a autoridade do que está dizendo.
+2. **Base:** a tese do "Desvanecentismo Concêntrico" (BTCast 621, A Casa da Teologia; atribuída pelo autor a Yago Martins, e descrita pela página como intermediária entre o cessacionismo e o continuísmo). Enquanto a Palavra está chegando a algum lugar onde nunca esteve, quem a leva recebe o poder de fazer milagres para testificar a autoridade do que está dizendo.
 
 ## Alerta de guardrail (não é decisão)
 
@@ -25,7 +25,7 @@ Lida ao pé da letra, a tese ("recebe o poder de fazer milagres") bate com o câ
 - **Onde Gunad e Decian recebem.** Candidatas: Gunad em Alavria; Decian entre os lobisomens ou nos Clãs expulsos.
 - **Se ouvem a Voz.** Recomendação: não.
 - **Como o Estado reage** (reivindicar ou falsificar os sinais).
-- **Conferir a tese com o episódio** ([BTCast 621](https://acasadateologia.com.br/podcast/desvanecentismo-concentrico-btcast-621/)): esta sessão não conseguiu abrir a página (domínio fora da rede permitida).
+- **Conferir o mecanismo da tese no áudio** ([BTCast 621](https://acasadateologia.com.br/podcast/desvanecentismo-concentrico-btcast-621/)) **ou na playlist do canal de Yago Martins:** a página do episódio traz só a descrição (posição intermediária entre o cessacionismo e o continuísmo), e não o mecanismo de que quem leva a Palavra a um lugar novo recebe sinais, que continua sendo a descrição do autor.
 
 ## Para aplicar quando o outline do L2 abrir (não aplicado)
 

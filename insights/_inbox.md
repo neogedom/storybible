@@ -339,11 +339,11 @@
 ### 2026-11-18: L2, os milagres deixam Mário e passam a Decian e Gunad
 
 - **Data**: 2026-11-18
-- **Ideia (uma linha)**: Tese do autor para o L2, seguindo o "Desvanecentismo Concêntrico" (BTCast 621; atribuído pelo autor a Iago Martins): enquanto a Palavra chega a um lugar onde nunca esteve, quem a leva recebe o poder de fazer milagres para testificar sua autoridade. Decian e Gunad também começam a fazer milagres, e os milagres por meio de Mário cessam.
+- **Ideia (uma linha)**: Tese do autor para o L2, seguindo o "Desvanecentismo Concêntrico" (BTCast 621; atribuído pelo autor a Yago Martins; posição intermediária entre o cessacionismo e o continuísmo): enquanto a Palavra chega a um lugar onde nunca esteve, quem a leva recebe o poder de fazer milagres para testificar sua autoridade. Decian e Gunad também começam a fazer milagres, e os milagres por meio de Mário cessam.
 - **Capítulos afetados**: L2 (12 anos, Tema Declarado, Catalisador e Debate, Jogos, Midpoint, Final); L1 (Garfo, como preparação, e cap. 39 como semente).
 - **Status**: tese decidida pelo autor; em desenvolvimento; esquema do L2, fichas e conceito Milagre não alterados
 - **Destino**: L2 (outline)
-- **Decidido (2026-11-18)**: ver `decisoes/2026-11-18-l2-milagres-passam-de-mario-a-decian-e-gunad.md`. Em aberto: quando e por que os milagres de Mário cessam, onde Gunad e Decian recebem, se ouvem a Voz, como o Estado reage, e conferir a tese com o episódio do BTCast 621.
+- **Decidido (2026-11-18)**: ver `decisoes/2026-11-18-l2-milagres-passam-de-mario-a-decian-e-gunad.md`. Em aberto: quando e por que os milagres de Mário cessam, onde Gunad e Decian recebem, se ouvem a Voz, como o Estado reage, e conferir o mecanismo da tese no áudio do BTCast 621 ou na playlist do canal de Yago Martins (a página traz só a descrição).
 - **Desenvolvimento**: [l2-milagres-passam-de-mario-a-decian-e-gunad.md](l2-milagres-passam-de-mario-a-decian-e-gunad.md). **Alerta de guardrail:** lida ao pé da letra ("recebe o poder de fazer milagres"), a tese bate com o cânone de Milagre (o poder nunca é dele; milagre é evento, não categoria). Reconciliação recomendada: a tese é a metafísica da storybible, não regra dos personagens; cada milagre é ato de Deus, com forma, hiato e custo próprios, e não é comandável. Pergunta que a tese traz: por que não cura Kate? (o milagre interrompe o veredito sem apagar a fatura).
 - **Relação com o cânone**: `conceitos/milagre.md`; `decisoes/glossolalia-invertida-oracao-cap20.md` (o confronto futuro: "testificar de Deus"; Mário cessacionista teimoso); `personagens/mario.md` (a Voz e o dom); `temas/esquema-l2.md` (Midpoint: a Voz silenciada); `temas/esquema-l1.md` (cap. 39: Mário leva o ferido a Decian).
 
