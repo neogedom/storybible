@@ -1,5 +1,12 @@
 # Log de Atualizações
 
+## 2026-11-20 (cap. 49: decisões do autor aplicadas e Mini-INGEST)
+
+- Decisões do autor (no chat): não reordenar o cap. 49; as 35 palavras da vista da Metrópole abrem o cap. 50 (marcador 29); a unção da Festa da Poda é preparação para a apoteose (óleo do Templo, apoteose de Terbs); "A Ordem responde ao Sumo Sacerdote" plantada no cap. 28; Juleen é mãe coagida e paga; Gerdialias: os humanos ficam e Nolan não precisa saber; Nolan não descobre o marido humano; Dagmar ter visitado a casa de Juleen vira canon; mandante em aberto (Koda ou Benjamim, sem pista falsa).
+- Livro: caps. 28, 49, 50, 52, 53, 54 e 59 (sete commits por assunto): marcadores 1 e 29 removidos, óleo da apoteose, termo "guarda civil", boato do cap. 50, fonte do enforcamento no cap. 52 (Gunad), "testemunhas de defesa" no 59, convocação não assinada no 53, linha de Layla sobre o caderno e gesto do rei no 54.
+- Storybible: `capitulos/capitulo-49.md` (Mini-INGEST), `visuais/{nolan,layla,mathias,mira,saboc,ossan}.md`, `temas/esquema-l1.md` (tabela e blocos superados), `decisoes/2026-11-20-cap49-comentarios-em-lote.md`, `decisoes/mandante-juleen-alvo-linhagem.md`, `insights/_inbox.md` (prós e contras Koda × Benjamim, payoff opcional do óleo no cap. 66), `personagens/{nuh-dteraghar,layla,juleen,benjamim,koda,mira,dagmar,nolan,mathias}.md`, `lugares/{metropole,cidadela-de-gus}.md`, `conceitos/{segregacao,terbs,vonos}.md`, `temas/sementes.md`. Tags "a validar" trocadas por "aceito pelo autor". Correção: o "conselheiro idoso" do cap. 66 coroa Mário, não o unge.
+- Não rodados (checkpoint em lote, por decisão do projeto): anti-slop, revisão linguística e passe de fechos.
+
 ## 2026-11-20 (Segregação por baixo: caps. 4, 41 e 49)
 
 - Decisões do autor (no chat): a comparação "versão feia da Cidadela" vem de outra pessoa que não Nolan, porque ele mandaria expulsar se soubesse de humanos dentro da Metrópole; o marido de Juleen pode ser humano; "burgos de baixo" no lugar de "burgos periféricos".
