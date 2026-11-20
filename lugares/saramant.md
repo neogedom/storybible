@@ -29,7 +29,11 @@ Floresta densa que cerca a fortaleza de **Devour** (lorde rampilla) e cobre toda
 
 ### Capítulo 0
 
-- Kate sente o vazamento de Hícse na floresta.
+- Kate sente o vazamento de Hícse na floresta (galho de carvalho-negro, a uns três quilômetros da fortaleza de Devour).
+
+### Capítulo 6
+
+- Depois do aviso de Gaviorn'l, Kate vai à borda das terras de Devour (a caçada que estava no Prólogo até 2026-11-20).
 - Massacra 5 rampillas e um xamã de Devour perto da fortaleza.
 - A brasa/fúria aponta para a Metrópole.
 

@@ -179,13 +179,18 @@ mas também não consegue explicar.
 
 ### Capítulo 0 — Prólogo
 
-- Em Saramant, perto da fortaleza de Devour
-- Sente o vazamento de Hícse
-- Massacra 5 rampillas e um xamã
-- A brasa aponta para a Metrópole
+- Em Saramant, num galho de carvalho-negro a uns três quilômetros da fortaleza de Devour
+- Sente o vazamento de Hícse (o espasmo da falha do Sinal); a faca cai da mão; "Precisava sangrar alguém."
+- A caçada (massacre de 5 rampillas e do xamã filho de Devour; a brasa aponta para a Metrópole) passou ao fim do cap. 6 em 2026-11-20
 - **A brasa nasce aqui, com a falha do Sinal (canon 2026-11-17):** nada dela
   existe antes, nem como memória. O que Kate faz desde criança é hábito, não
   brasa.
+
+### Capítulo 6 — A Selvagem (a caçada, vinda do Prólogo)
+
+- Depois do aviso de Gaviorn'l, vai à borda das terras de Devour; o espasmo da falha a pega ali (a cena está no Prólogo)
+- Mata 5 rampillas e um xamã de Devour, filho do lorde ("Seu pai me deve entretenimento"), e deixa o camponês fugir (a dívida de sangue, [semente #16](/temas/sementes.md))
+- A violência amansa a brasa, mas não a apaga; ela aponta para a Metrópole
 
 ### Capítulo 20 — O Bebê
 

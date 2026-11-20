@@ -32,7 +32,7 @@ O Sinal é o eletrocardiograma do selo de Hícse ([Sinal de Vonos](../conceitos/
 
 ### Adendo: o ritual dos rampillas era costumeiro
 
-A noite do Prólogo em que Kate mata o xamã não é "a noite de criação dos rampillas". O ritual da semente é rotina de Devour, e Kate "já vira rampillas sendo criados antes" (Prólogo): ela interrompeu um ritual entre muitos. Por isso o cap. 45 diz "um ritual de Devour" e o cap. 30 (linha 175) diz "aquela noite em Saramant". A linha 173 do cap. 30 ("durante o ritual de criação de rampillas") ficou como está: descreve o que o xamã fazia, sem tratar a noite como a criação. A regra está registrada em [Rampillas](../conceitos/rampillas.md).
+A noite do Prólogo em que Kate mata o xamã (a caçada está no fim do cap. 6 desde 2026-11-20; o espasmo da falha continua no Prólogo) não é "a noite de criação dos rampillas". O ritual da semente é rotina de Devour, e Kate "já vira rampillas sendo criados antes" (cap. 6, antes no Prólogo): ela interrompeu um ritual entre muitos. Por isso o cap. 45 diz "um ritual de Devour" e o cap. 30 (linha 175) diz "aquela noite em Saramant". A linha 173 do cap. 30 ("durante o ritual de criação de rampillas") ficou como está: descreve o que o xamã fazia, sem tratar a noite como a criação. A regra está registrada em [Rampillas](../conceitos/rampillas.md).
 
 ## Passagens da storybible alinhadas
 
@@ -43,7 +43,7 @@ A noite do Prólogo em que Kate mata o xamã não é "a noite de criação dos r
 - **Cap. 6 (Tharin):** não tem brasa. Kate está entediada e sem a pressão do Prólogo. A "urgência violenta que a saciava mais do que água" é hábito de combate, e o contraste com a sede do cap. 30 ("que não se satisfazia com água") é útil. Lê-se como anterior à falha.
 - **Cap. 9, linha 163** ("fome de conflito... um chamado que sempre se disfarçava de necessidade"): desejo de guerra dela (Crença Fundacional), não brasa.
 - **Cap. 23, linha 147** ("Teve fome"): ambição, não brasa.
-- **Prólogo:** "brasa enterrada na cinza" e "A brasa no peito reacendeu" descrevem o que vem depois do espasmo da falha; consistentes.
+- **Prólogo e cap. 6:** "brasa enterrada na cinza" (Prólogo) e "A brasa no peito reacendeu" (cap. 6, na caçada que estava no Prólogo até 2026-11-20) descrevem o que vem depois do espasmo da falha; consistentes.
 - **Cap. 43, linha 7** ("desde o desabamento da Mina"): âncora posterior à falha.
 - **Marcador do autor** `(* ... )` no Prólogo (oportunidades para o abalo do Sinal desencadear a sede de sangue de Kate): intocado e coerente com esta regra.
 

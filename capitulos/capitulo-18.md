@@ -58,7 +58,7 @@ vibração e calor — cada passo de Mário na floresta foi um alerta.
 7. ✅ Kate e Mário presos em celas vizinhas
 8. ✅ **Kate se apresenta**: "Kate."
 9. ✅ Kate explica as plantas-espia e os rampillas
-10. ✅ Devour confronta Kate pela morte do filho (o xamã da clareira, cap. 0) — conta de sangue em aberto
+10. ✅ Devour confronta Kate pela morte do filho (o xamã da clareira, cap. 6) — conta de sangue em aberto
 
 ## Sementes Plantadas
 

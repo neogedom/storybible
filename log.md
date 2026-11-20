@@ -1,5 +1,17 @@
 # Log de Atualizações
 
+## 2026-11-20 (Saída A: o espasmo de Kate fica no prólogo e a caçada vai para o fim do cap. 6)
+
+- Pergunta do autor: como resolver Kate só aparecer no cap. 6. Avaliadas três saídas (A: espasmo no prólogo; capítulo novo numerado entre o 3 e o 4, que renumera 4 a 66; subir o cap. 6 para o lugar do 4, que troca 4, 5 e 6). O autor escolheu a A. **Supera** o item da entrada seguinte sobre o bloco inteiro de Kate ir para o cap. 6.
+- Livro (mesma branch da sessão): a caçada (antigas linhas 79 a 167 do prólogo) foi para o fim do cap. 6, idêntica ao original, e o prólogo termina em "Precisava sangrar alguém." (linha 77). Parágrafo de ligação novo no cap. 6 (linha 153), em rascunho, a revisar pelo autor. O marcador `(* ... )` do prólogo, intocado. Prólogo de 2.948 para 1.488 palavras; cap. 6 de 2.292 para 3.855.
+- Storybible: decisão de 2026-11-20 reescrita para a saída A; resumos dos caps. 0 e 6; cap. 18; fichas e visuais de Kate; rampillas; Saramant; semente #16; esquema (caps. 0 a 6, com nota); arco-stc; índice; e as menções ao Prólogo na decisão da brasa. A âncora da brasa não muda: o espasmo continua no prólogo.
+- Em aberto: o destino da cena de Kate do epílogo; o cap. 67 (Nolan, Benjamim e Nuh) e a cena de Orval e Piet.
+
+## 2026-11-20 (Prólogo só com a Praça, epílogo só com Orval e Piet; linha de Piet e linha 85)
+
+- O autor avaliou uma versão mais enxuta da ideia do PR #4: a conversa de Orval e Piet como única cena do epílogo e a falha do Sinal como única cena do prólogo. Em conversa, aceitou o encaixe do prólogo (o bloco de Kate vai para o fim do cap. 6; risco aceito: Kate só aparece no cap. 6), explicou o gancho do L2 (relações cósmicas entre Ornick e a Terra, sem explicação no L1; a "Guerra." é gancho fraco porque vem tarde no L2) e não viu problema na frase de abertura do epílogo. Registro: `decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md`, insight de Orval e Piet, inbox e índice.
+- Livro (mesma branch da sessão), `Livro 1/prologo.md`: a linha 17 ganha Piet Brö na Praça (semente do fecho); na linha 85, "A guerra nunca viera" passa a "A guerra ainda não viera".
+- Em aberto: o destino da cena de Kate do epílogo (pequena demais para um capítulo; misturada ao POV de Nolan quebra o padrão de um POV por capítulo) e a execução da mudança dos blocos (cap. 6, cap. 67 e a cena de Orval e Piet). Nada alterado em esquemas, fichas nem nos demais capítulos.
 ## 2026-11-20 (Fonte da tese dos milagres conferida na transcrição do BTCast 621)
 
 - O autor colou a transcrição automática do vídeo do episódio (`https://www.youtube.com/watch?v=GwtLq43RuJo`, 55 minutos). Com ela, o mecanismo da tese deixa de ser só a descrição do autor: os sinais atestam o enviado e são mais fortes onde a Palavra chega pela primeira vez (em Atos, a chegada com muitos milagres e a volta de Paulo sem eles). A imagem concêntrica é de Daniel Wallace (a pedra na água), a abertura cautelosa é de Robert Saucy, e o nome "desvanecentismo concêntrico" foi cunhado por Yago Martins, que diz que a posição não é só dele. A leitura anterior de que o "concêntrico" viesse dos círculos de At 1:8 estava errada.
