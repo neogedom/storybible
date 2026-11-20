@@ -119,6 +119,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 6. Juleen e a Morte de Dagmar
 
+> **Status (2026-11-20, cap. 49 revisado) (aceito pelo autor no chat):** a descoberta e o enforcamento acontecem no cap. 49, no mesmo dia: Mira diz o cheiro de vembra no palacete, Mathias dá o endereço, Nolan vai ao depósito de salitre. Layla não participa; o plantio 3 ("chá de melissa", na estrada) está **substituído**; a fala-plant do plantio 5 entrou. Ver `decisoes/2026-11-20-cap49-comentarios-em-lote.md`. Decidido pelo autor no chat (2026-11-20): "matariam meus filhos" fica (Juleen é mãe coagida e paga); Nolan não descobre que o marido é humano; o mandante é Koda (decisão do autor, 2026-11-20), com revelação no L2; no texto ninguém é nomeado e Nolan lista os suspeitos (`decisoes/mandante-juleen-alvo-linhagem.md`).
+
 > **Status (2026-10-04): a cena saiu do meio do L1.** Nolan **não volta à Metrópole** — ele sobe atrás do Estrangeiro e chega à Mina pelo Espinhaço. A descoberta da vembra acontece **na volta** (Mira, no banco da carroça) e o **enforcamento de Juleen** vai para o **bloco final da Metrópole**, em paralelo ao Caixão do Mário. Ver `decisoes/jornada-nolan-acre-2026-10-03.md` (§4 e §12).
 > ⚠️ **As datas abaixo são históricas.** Onde se lê "cap. 32", leia: **o bloco final da Metrópole**.ir). Os plantios 3+ e o enforcamento (cap. 32) aguardam a realocação.
 
@@ -371,6 +373,8 @@ timestamp: 2026-07-24T12:00:00-03:00
   deuses perseguem quem renunciou.
 
 ## 15. O Diário de Genocydo — a Revelação de Kraviam
+
+> **Status (2026-11-20, cap. 49) (aceito pelo autor no chat):** o diário chega a Nolan numa cena de Layla no jardim do palacete, reescrita pelo autor no PR #20: ela o traz por conta própria ("Vim trazer o diário que tanto queria"), Nolan o recusa e depois decide usá-lo com Mário, supondo que Mário o lê (diziam que o Estrangeiro falava aquela língua). A troca por um livro de contas saiu. Nolan manda os dois livros à cela "para saber se os lê" (cap. 49; cap. 50: "dois volumes"). Detalhes em `personagens/layla.md`. Fechado em 2026-11-20: cap. 53, L17 (Layla: o rei não perguntou pelo caderno) e cap. 54, L29 (o rei olha o espaço vazio ao lado da bacia de prata). No cap. 59, L23, Nolan registra "mundo" quando Mário diz "do mesmo mundo" (L19): a aposta no diário se confirma (Mário leu) e o "meu mundo" do cap. 56, L43, vira plantio retroativo (decisão do autor, 2026-11-20).
 
 - **Plantio**: L1, caps. 10 e 14 — Layla rouba o diário de Genocydo; Nolan o
   queria para subverter o Conselho (obtém tardiamente).

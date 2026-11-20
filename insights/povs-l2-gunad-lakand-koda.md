@@ -60,6 +60,15 @@ redentora acontece mais tarde ou se esse arco deve ser refeito. A função de
 Koda interceder por Gunad também precisa caber no mistério, talvez por ação
 indireta, mas o mecanismo ainda está em aberto.
 
+### Koda e o mandante de Juleen (decisão do autor, 2026-11-20)
+
+O autor canonizou Koda como mandante do envenenamento de Dagmar e do herdeiro Guenayer × Addorbek, para explorar no L2. Direção, não esquema fechado:
+
+- A investigação de Gunad sobre o desaparecimento do pai passa a levar à morte de Dagmar: a ordem de Alavria, o refém Jo-jo e o paradeiro de Koda.
+- Nolan, aliado de Benjamim, ganha um alvo concreto para o ódio, e Gunad fica diante do homem que enforcou Juleen sem processo, sendo ele o filho do mandante.
+- A "morte redentora" de Koda e a intercessão por Gunad precisam caber no crime. Hipóteses a avaliar: Koda confessa a Nolan para salvar Gunad e Jo-jo; Nolan o mata; a morte não redime ninguém ("o ódio não se desfaz com a verdade").
+- No L1 nada disso se revela: o cap. 49 só lista os suspeitos.
+
 ## Lakand e o monte
 
 O monte do último Lorde Defunto em Gondor já é o lugar em que Lakand vai

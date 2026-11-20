@@ -200,6 +200,10 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - **Não aparece** (em Gus, preparando as barcaças).
 
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Não aparece** (descendo o rio com os artífices).
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->
