@@ -374,7 +374,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 15. O Diário de Genocydo — a Revelação de Kraviam
 
-> **Status (2026-11-20, cap. 49) (a validar pelo autor no PR):** ponte provisória: Layla deixou o diário (embrulhado) no palacete; Nolan não lê a língua e o manda à cela de Mário junto com o livro estranho, "para saber se os lê" (cap. 49; cap. 50: "dois volumes"). A cena de aquisição continua **pendente** (decisão do autor; opções no registro da decisão).
+> **Status (2026-11-20, cap. 49) (a validar pelo autor no PR):** o diário chega a Nolan numa cena curta de Layla no jardim do palacete (opção escolhida pelo autor): ela o troca, depois de três meses de ensaio, por um livro de contas de capa igual. Nolan não lê a língua e o manda à cela de Mário junto com o livro estranho, "para saber se os lê" (cap. 49; cap. 50: "dois volumes"). Detalhes em `personagens/layla.md`.
 
 - **Plantio**: L1, caps. 10 e 14 — Layla rouba o diário de Genocydo; Nolan o
   queria para subverter o Conselho (obtém tardiamente).

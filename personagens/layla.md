@@ -4,7 +4,7 @@ title: Layla
 description: Prostituta pessoal do Rei Genocydo, informante de Nolan. Beleza suja em contraste com a frieza da Metrópole.
 tags: [personagem, informante, L1]
 resource: https://github.com/neogedom/storybible/blob/main/personagens/layla.md
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-20T12:00:00-03:00
 ---
 
 ## Visão Geral
@@ -56,9 +56,12 @@ Ver timeline visual completa em [visuais/layla.md](/visuais/layla.md).
 - Enfrenta Nolan com deboche — sabe que ele não pode matá-la
   _Atualizado a cada INGEST de capítulo._
 
-### Capítulo 49 (ponte provisória, 2026-11-20) (a validar pelo autor no PR)
+### Capítulo 49 (cena no jardim do palacete, 2026-11-20) (a validar pelo autor no PR)
 
-- Deixou no palacete, semanas antes, o pacote com o diário que falhara em roubar no cap. 10 (o texto só mostra o pacote). A aquisição em cena fica pendente; não entrou na cena de Juleen (o cap. 53 segue como está).
+- **O diário chega a Nolan** no chafariz seco do jardim do palacete (o mesmo do cap. 10). Escolha do autor: a cena curta (opção b), com o plano de três meses.
+- **O plano:** depois de falhar no verão (cap. 10), passou três meses descobrindo onde o rei guarda o caderno: na mesa de cabeceira, ao lado da bacia de prata (cap. 54), e não na biblioteca. Não podia levá-lo antes, porque o rei daria falta no mesmo dia ("quem ele mandaria pendurar em Gerikhad seria eu"; eco do cap. 10). **Ensaiou:** trocava o caderno por um livro de contas de capa igual, noite após noite, e devolvia o verdadeiro antes de amanhecer; o rei nunca notou, porque só abre o caderno sozinho e lúcido, e agora Benjamim não o larga. **Executou na manhã em que soube que Nolan voltara:** deixou o falso no lugar e ficou com o verdadeiro.
+- **Nolan** reconhece o método e, desta vez, não a insulta (contraste com o cap. 10). Não lê a língua. Layla também não. Ela avisa que passa "esta noite" pela biblioteca, o que prepara a entrada dela no cap. 53.
+- **Em aberto (opcional):** uma linha de Layla no cap. 53 sobre o caderno; um gesto do rei no cap. 54 ao notar, pela fala de Mário, que o diário não está mais na mesa de cabeceira (o livro de contas segue lá).
 
 ---
 
