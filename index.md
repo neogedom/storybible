@@ -35,7 +35,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Capítulo 3 — A Travessia](capitulos/capitulo-03.md) — Mário sequestrado, obedece à Voz pela 1ª vez, Inquiridor atira.
 - [Capítulo 4 — A Conspiração](capitulos/capitulo-04.md) — Nolan no tribunal (hegraliano condenado). Koda revela ruína; Nolan aceita conspirar.
 - [Capítulo 5 — Opium](capitulos/capitulo-05.md) — Mário acorda curado em Ornick; vila massacrada; capturado.
-- [Capítulo 6 — A Selvagem](capitulos/capitulo-06.md) — Kate mata Tharin; Gaviorn'l avisa sobre o Rohdis.
+- [Capítulo 6 — A Selvagem](capitulos/capitulo-06.md) — Kate mata Tharin; Gaviorn'l avisa sobre o Rohdis; depois ela interrompe um ritual de Devour (a caçada, antes no Prólogo).
 - [Capítulo 7 — O Jogo](capitulos/capitulo-07.md) — Nolan e Genocydo no xadrez.
 - [Capítulo 8 — Os Lordes Defuntos](capitulos/capitulo-08.md) — Charles se revela, transformação em lobo.
 - [Capítulo 9 — A Caverna](capitulos/capitulo-09.md) — Kate e Lakand; Charles foi para Opium.
@@ -160,7 +160,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Geografia do Cran, rota de Nolan e trajetória dos Clãs](decisoes/2026-11-14-geografia-cran-clas-metropole.md) — A Metrópole é uma ilha com dois braços do Cran; Nolan desce pela estrada real e os Clãs pelas serras do outro lado do rio; mapa em lugares/ (2026-11-14)
 - [Acampamento dos Clãs na planície sul](decisoes/2026-11-15-acampamento-dos-clas.md) — O contrato do Trono fez da planície sul o ponto de reunião dos Clãs; o ataque a Gus não saiu dele; a ordem de Hícse é pressuposta, sem voz (2026-11-15)
 - [Karrk, chefe de um Clã; Estruzzo, seis chifres; fecho do cap. 47](decisoes/2026-11-18-karrk-chefe-de-um-cla-estruzzo-seis-chifres-e-fecho-do-cap-47.md) — Os Clãs são dezenas, com conselho de chefes; vieram todos, um contingente de cada; Karrk é o chefe mais diplomático; Estruzzo tem seis chifres (2026-11-18).
-- [Prólogo só com a falha do Sinal; epílogo só com Orval e Piet](decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md) — O prólogo fica só com a Praça, o epílogo só com a conversa de Orval e Piet; o bloco de Kate vai para o fim do cap. 6; o gancho do L2 é o cosmológico (2026-11-20).
+- [Prólogo só com a falha do Sinal; epílogo só com Orval e Piet](decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md) — O prólogo fica com a falha do Sinal (a Praça e o espasmo de Kate), o epílogo só com a conversa de Orval e Piet; a caçada de Kate vai para o fim do cap. 6; o gancho do L2 é o cosmológico (2026-11-20).
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 
 ## Agentes (Workflow)

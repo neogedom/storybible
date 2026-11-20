@@ -25,7 +25,7 @@ Motivo: o L2 se passa cerca de 12 anos depois, e uma observação com 12 anos de
 O autor avaliou uma versão mais enxuta da ideia e a aceitou em conversa, com execução em etapas ([decisão](../decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md)):
 
 - **O epílogo tem uma única cena: Orval e Piet.** Nolan, Benjamim e Nuh saem dele e viram o cap. 67 (proposta da sessão, sem objeção). A cena de Kate ("Duas semanas depois", "Guerra.") é boa, mas pequena demais para um capítulo e, misturada ao POV de Nolan, quebra o padrão de um POV por capítulo; o destino está em aberto na decisão.
-- **O prólogo tem uma única cena: a falha do Sinal na Praça.** O bloco de Kate vai para o fim do cap. 6. O risco que o autor registra é Kate só aparecer no cap. 6.
+- **O prólogo tem uma única cena: a falha do Sinal, vista em dois lugares.** A Praça e o espasmo de Kate (o mesmo instante sentido num corpo). Só a caçada de Kate foi para o fim do cap. 6. Para Kate não aparecer só no cap. 6, o autor escolheu esta saída (A) entre três.
 - **O espelho passa a ser o do Sacrário:** "O Sacrário de Vonos deveria estar pulsando." (prólogo) e "O Sacrário de Vonos estava definitivamente morto." (epílogo). O "Guerra." deixa de ser o último gesto do L1.
 - **O gancho do L2 é cosmológico (autor).** O fecho do L1 deixa em aberto que há algo a mais nas relações cósmicas entre Ornick e a Terra, que dará corpo no L2 à explicação da existência dos deuses ([Cosmologia](../conceitos/cosmologia.md): a colonização de Ornick por Marduk, o jardim-replicado, a imagem redimida). Um público cristão não precisa esperar o L2 para sentir que "há mais, ainda não dito". A "Guerra." é um gancho fraco porque a guerra só vem bem depois, no L2. É a resposta do autor ao Risco 5: o fecho abre em vez de fechar.
 - **Semente de Piet aplicada** em `Livro 1/prologo.md`, linha 17: Piet Brö na Praça, de caderno aberto, com o rosto voltado para o céu, alheio ao boato.
@@ -48,7 +48,7 @@ Ganhos adicionais: "Piet minimiza" (Tema Declarado do L2) passa a ter motivo, po
 2. **Em quais capítulos?**
    - Epílogo (principal).
    - Nenhum plantio obrigatório em capítulo fechado. As peças já existem: prólogo (o Sinal falha e as luas gêmeas estão azuladas na mesma noite), cap. 7 (Nolan consulta Piet sobre as luas azuis, e ele não explica), cap. 41 (Mário diz a Orval "sou de outro mundo", "uma terra com uma lua só", e as constelações dos mapas não existiam no céu dele; Orval já aceita que "o mundo flutua num espaço aberto e imenso").
-   - **Atualização (2026-11-20):** a semente de Piet na Praça foi aplicada (prólogo, linha 17). As luas azuis do prólogo estão no bloco de Kate, que vai para o fim do cap. 6; ficam também nos caps. 5, 7 e 9.
+   - **Atualização (2026-11-20):** a semente de Piet na Praça foi aplicada (prólogo, linha 17). As luas azuis do prólogo (o espasmo de Kate, linha 69) continuam lá; ficam também nos caps. 5, 6, 7 e 9.
    - Orval e Piet se conhecem de forma natural: Orval lecionou lógica e cálculo na Academia da Metrópole por vinte invernos (cap. 41), e Piet é o astrônomo da Metrópole (cap. 7). Menção opcional em capítulo aberto (47 a 66), sem necessidade.
 
 3. **Qual o custo?**
@@ -79,7 +79,7 @@ Ganhos adicionais: "Piet minimiza" (Tema Declarado do L2) passa a ter motivo, po
 - **Fecho em gesto ou pergunta concreta**, nunca em fala-lição (regra das falas do `docs/guardrails.md`).
 - **A hora do registro bate com a hora da falha.** No prólogo, o Sinal falha no ocaso (Liturgia do Entardecer, "terceira chamada"); o registro de Piet precisa caber nesse horário.
 - **Fecho com a pergunta cosmológica aberta** (autor, 2026-11-20). A cena mostra o rastro (algo da Terra chegou a Ornick) e não diz por que os dois mundos se tocam nem o que isso implica sobre os deuses; isso fica para o L2.
-- **O céu daquela noite parte do que o texto já mostra.** Luas gêmeas azuis (caps. 5, 6, 7 e 9) e, no cap. 5 (linha 81), "céu completamente negro e sem estrelas". A cena exemplo acima fala em "estrelas fixas"; conferir ao escrever.
+- **O céu daquela noite parte do que o texto já mostra.** Luas gêmeas azuis (prólogo, caps. 5, 6, 7 e 9) e, no cap. 5 (linha 81), "céu completamente negro e sem estrelas". A cena exemplo acima fala em "estrelas fixas"; conferir ao escrever.
 - **A semente está na Praça** (`Livro 1/prologo.md`, linha 17): Piet anota o céu enquanto o Sinal falha, no ocaso. O registro da cena não pode contradizer isso.
 
 ## Reconciliação com o cânone
