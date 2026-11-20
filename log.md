@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-20 (PR #20: o Claude passa a resolver as threads tratadas)
+
+- Decisão do autor: resolver os comentários de review vira prática padrão, para ele saber se pode mesclar sem reler tudo. As 44 threads abertas do PR #20 foram resolvidas (as 2 de L7 e L13 já estavam). O autor manteve o texto como está, inclusive os sete ajustes do Claude em relação às sugestões e o "qual deus" do L57.
+- Novo: `decisoes/2026-11-20-claude-resolve-threads-de-review.md`. Atualizados: `index.md` (que também ganhou as duas decisões de 2026-11-20 que faltavam) e `AGENTS.md`. No Livro: `docs/guardrails.md` e `CLAUDE.md`.
+
 ## 2026-11-20 (cap. 59: Nolan registra "mundo")
 
 - Decisão do autor: opção (b) da inferência de Nolan. Livro: cap. 59, L23, parágrafo novo (Nolan retém "mundo", lembra o "juristas do seu mundo" do cap. 56, L43 e nota que ninguém na sala o percebeu); o capítulo vai de 907 a 949 palavras. A opção (c) e o ajuste de redação do 49:93 não foram aplicados; o ajuste aguarda o sim do autor.
