@@ -26,6 +26,7 @@ consistência.
 - A `backup/main-2026-11-14` guarda a `main` antes deste fluxo. Para voltar atrás, a `main` é reposta a partir dela, com o autor.
 - Não alterar `.github/`: `copilot-instructions.md` fica como está na `main`.
 - Detalhes e pendências: `decisoes/2026-11-14-fluxo-pr-por-sessao.md`.
+- Revisão pelo PR: o Claude resolve as threads de review tratadas e o relatório diz quantas seguem abertas (`decisoes/2026-11-20-claude-resolve-threads-de-review.md`).
 
 ---
 
