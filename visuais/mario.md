@@ -249,6 +249,10 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - **Não aparece** (na marcha dos Clãs).
 
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Não aparece** (chega à Metrópole no fim da tarde; cap. 50).
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->
