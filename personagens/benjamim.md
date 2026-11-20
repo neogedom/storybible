@@ -57,7 +57,7 @@ Ver timeline visual completa em [visuais/benjamim.md](/visuais/benjamim.md).
    (escrito no epílogo do rascunho: Nolan pega o sinete de Terbs). Canon
    2026-11-13: o pacto continua de pé e é distinto do contrato dos Clãs, que
    Genocydo assinou com Benjamim como intermediário
-8. **Caps. 49 e 53 (2026-11-20):** o Templo de Vonos prepara o óleo da unção que antecede a apoteose (Nuh, cap. 49); Benjamim unta o peito do rei com bálsamos negros de Plyshar (cap. 53) e recebe óleos e resinas pagos pela Coroa (cap. 48). **Candidato a mandante de Juleen** (aberto, entre ele e Koda; prós e contras em `insights/_inbox.md`).
+8. **Caps. 49 e 53 (2026-11-20):** o Templo de Vonos prepara o óleo da unção que antecede a apoteose (Nuh, cap. 49); Benjamim unta o peito do rei com bálsamos negros de Plyshar (cap. 53) e recebe óleos e resinas pagos pela Coroa (cap. 48). **Não é o mandante de Juleen** (decisão do autor, 2026-11-20: é Koda); Nolan o inclui entre os suspeitos no cap. 49.
 
 ### Livro 2
 

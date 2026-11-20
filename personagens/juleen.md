@@ -97,10 +97,7 @@ fora está dentro.
   três meses de chá começa antes do prólogo); "moedas de prata com as bordas
   raspadas"; fala-plant aprovada em 2026-09-19: "Primeiro só queriam saber da
   casa. Depois quiseram o resto!"; "a linhagem dos Guenayer não podia se
-  misturar com os Addorbek"; ameaça aos filhos; "um homem da tesouraria" com
-  "cartas com o selo do porto sul". Nolan **não nomeia ninguém** ("nenhum que
-  ele pudesse nomear sem prova"), em respeito à regra de não resolver o
-  mandante em cena.
+  misturar com os Addorbek"; ameaça aos filhos. Quando Nolan pergunta quem mandou, ela diz "Eu não sei! Vinham de noite, de capuz, e nunca disseram um nome!". Nolan tenta pensar e lista Nuh, Benjamim, Lupe'i, Genocydo, Koda e Alavria, sem poder nomear ninguém sem prova, em respeito à regra de não resolver o mandante em cena. Em 2026-11-20 saíram "um homem da tesouraria" e "selo do porto sul"; o mandante, no canon, é Koda (L2).
 - **Superado:** a acusação de que ela seria humana (não está no texto); os
   "irmãos na pedreira" (agora, filhos); o burgo de humanos fora da muralha.
 - **Decidido pelo autor (2026-11-20):** "matariam meus filhos" fica. Juleen é **mãe coagida e paga** (moedas de prata raspadas e ameaça aos filhos); a leitura "paga, competente e fria" cai. O pedido de processo e de testemunhas segue sendo pedido, não confissão (`decisoes/mandante-juleen-alvo-linhagem.md`).

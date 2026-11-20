@@ -40,12 +40,12 @@ Alavria.
 2. Cap. 7 e 14: Aprofunda a conspiração com Nolan
 3. Teme por Jo-jo (refém alavriano)
 4. **Revelação a Nolan pós-Gus**: Desmente a ilusão de Nolan na Metrópole; revela que a carta de Nolan não moveu nada: Benjamim trouxe a cessão aos Clãs como mais uma condição da apoteose e Genocydo assinou, e foi o Reino inteiro, não Saramant (aplicado no cap. 48, 2026-11-14; ver `temas/sementes.md` #29). Koda só viu a cessão, porque exigiu selo; das outras condições sabe apenas que existem. Koda entra em pânico porque a barbárie dos Clãs ameaça devorar o Reino antes que a intervenção controlada de Alavria se concretize.
-4b. **Cap. 49 (2026-11-20):** o "homem da tesouraria" com "cartas com o selo do porto sul" que pagou Juleen e os despachos do porto sul que Koda esconde no colete (cap. 48) levam o leitor a Koda. **Mandante aberto** (Benjamim ou Koda); não há motivo de Koda registrado em cena, só a hipótese de que a união Guenayer × Addorbek barraria a anexação por Alavria (`insights/_inbox.md`).
+4b. **Mandante de Juleen (decisão do autor, 2026-11-20):** Koda ordenou, por intermediário, a morte da linhagem Guenayer × Addorbek (Dagmar e o herdeiro); a revelação fica para o L2. No cap. 49 ninguém é nomeado: Juleen não sabe nomes e Nolan lista Nuh, Benjamim, Lupe'i, Genocydo, Koda e Alavria. Fios de fair-play: a conspiração que ele propõe (caps. 4, 7 e 14), os despachos do porto sul no colete (cap. 48) e a prata raspada (cap. 49). Motivo (hipótese, a confirmar): ordem de Alavria, com Jo-jo de refém, para impedir uma dinastia capaz de barrar a anexação. Ver `decisoes/mandante-juleen-alvo-linhagem.md`.
 5. **Consuma a traição no L1 (canon 2026-09-05)**: facilita a entrada dos
    infiltrados de Alavria durante a invasão de Kate à Metrópole — o portão
    que ele ajuda a abrir deixa entrar, junto dos revoltosos, os agentes que
    matam Genocydo e tomam a cidade por dentro
-6. Traição descoberta por Gunad no L2
+6. Traição descoberta por Gunad no L2, agora incluindo a morte de Dagmar e do herdeiro (ver 4b)
 
 ## Transição L1–L2 (decisão do autor, 2026-11-09)
 
@@ -57,6 +57,7 @@ Alavria.
 - **Direção L2 em avaliação:** Gunad pode investigar o desaparecimento do pai
   e o destino de Joachin, com uma possível viagem a Alavria. O papel e os
   desejos de Joachin ainda não estão definidos.
+- **Mandante de Juleen (decisão do autor, 2026-11-20):** no L2, a busca de Gunad pelo pai leva ao crime contra a casa de Nolan, e Nolan ganha um alvo concreto para o ódio. A "morte redentora" e a intercessão por Gunad precisam ser reconciliadas com isso (ver `insights/povs-l2-gunad-lakand-koda.md`).
 - O assassinato de Koda como motor de investigação é apenas uma hipótese. O
   resumo atual do L2 também prevê que Koda interceda por Gunad e tenha uma
   morte redentora; a sequência precisa ser revista para conciliar os elementos.
