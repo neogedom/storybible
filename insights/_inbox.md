@@ -450,11 +450,11 @@
 
 - **Data**: 2026-11-20
 - **Ideia (uma linha)**: o cap. 49 mandava levar "o diário de fundação" à cela, mas Nolan nunca o recebeu em cena (cap. 10: Layla falhou; cap. 14: Nolan não o tem; o cap. 50 já mostra "dois volumes" na cela).
-- **Capítulos afetados**: 49 (ponte provisória aplicada), 50, 52, 54, 56; talvez 10 e 48.
-- **Status**: em desenvolvimento; **decisão do autor**. Marcador mantido no cap. 49.
-- **Ponte aplicada**: Layla deixou o pacote no palacete semanas antes; Nolan não lê a língua e manda os dois livros "para saber se os lê". Paga o cap. 10 e a semente #15 ("obtém tardiamente"); Nolan não conclui nada (só Mário lê e revela).
+- **Capítulos afetados**: 49 (cena de Layla aplicada); 50, 52, 54 e 56 ficam intactos; 53 e 54 podem ganhar uma linha cada (opcional).
+- **Status**: aceita pelo autor em 2026-11-20 (opção b: cena curta de Layla no jardim do palacete). Marcador 31 removido do cap. 49.
+- **Cena aplicada**: no chafariz seco do jardim do palacete, Layla explica o plano (três meses descobrindo onde o rei guarda o caderno, ensaio com troca por um livro de contas de capa igual, execução na manhã em que soube que Nolan voltara). Nolan não lê a língua e manda os dois livros à cela "para saber se os lê". Paga o cap. 10 e a semente #15 ("obtém tardiamente"); Nolan não conclui nada (só Mário lê e revela).
 - **Opções**: (a) manter a ponte; (b) cena curta com Layla antes da ordem, cerca de 300 palavras, e o cap. 53 teria de assumir o que ela deu; (c) cortar o diário da ordem e Layla o deixar na cela (53:53; o esquema previa a visita dela), editando 50:47, 52:3 e 54:27 ("o diário que Nolan deixou").
-- **Destino**: decisão do autor.
+- **Destino**: aplicado no cap. 49; as linhas opcionais dos caps. 53 e 54 ficam para a revisão de cada um.
 
 ### 2026-11-20: Koda, o porto sul e o mandante de Juleen (comentário 26 do autor)
 

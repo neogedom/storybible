@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-20 (cap. 49: o diário chega a Nolan pela cena de Layla)
+
+- Decisão do autor (no chat): opção b, a cena curta de Layla. Ideia do autor incorporada: Layla passou os três meses descobrindo onde o rei guarda o caderno, formulando um plano e testando-o, e só o executou ao saber que Nolan voltara, porque antes o rei daria falta. A cena entrou no jardim do palacete (o chafariz do cap. 10) e o marcador 31 saiu do cap. 49.
+- Atualizados: `personagens/layla.md`, `temas/sementes.md` (#15), `lugares/metropole.md` (palacete), `decisoes/2026-11-20-cap49-comentarios-em-lote.md` e o inbox. Ficam os marcadores 1 e 29 no cap. 49.
+
 ## 2026-11-20 (cap. 49: comentários do autor aplicados em lote)
 
 - Avaliação dos 31 comentários do cap. 49 com três subagentes (coerência do canon, em duas frentes, e densidade) e aplicação no livro em commits por cena: Santuário e Nuh; palacete, Mira e Juleen; alinhamentos nos caps. 53, 56 e epílogo. Ficam três marcadores para o autor (1, 29 e 31). Tudo entra como proposta, a validar no PR.
