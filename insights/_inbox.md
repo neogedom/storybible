@@ -43,7 +43,7 @@
 
   Passos pesados e hesitantes ecoaram no claustro. Nolan os reconheceu antes de erguer os olhos: o ranger de couro velho de quem já não sabia aonde ir.
 
-  Nuh d'Teraghar atravessou a galeria sem cortejo e sem o talismã no peito. A túnica de linho cru estava rasgada na barra e escura de cinza. Nas mãos trazia um diapasão de bronze partido ao meio, que segurava pela haste, com os dois polegares sobre a fratura.
+  Nuh d'Teraghar atravessou a galeria sem cortejo e sem o talismã no peito. A túnica de linho cru estava rasgada na barra e escura de cinza. Nas mãos trazia um diapasão de renanthao partido ao meio, que segurava pela haste, com os dois polegares sobre a fratura.
 
   Parou diante do banco. Pestanejou contra o reflexo da lente trincada e demorou a achar o rosto do juiz.
 
@@ -427,3 +427,50 @@
   - **58** (Grande Câmara, manhã fria): o braço de quartzo do trono zumbe sob a mão do rei (linha 49), a dissonância do cap. 7 mostrada em vez de contada. A Grande Câmara é núcleo e fica calada no frio da manhã; a peça de quartzo reage à agitação do rei, fora do ciclo térmico.
   - **63** (tribuna, pico do sol): o rei tomado pelas "ressonâncias" enquanto grita "Fale!" (linhas 11 a 13). A tribuna é casca (decidido em 2026-11-19), então o zumbido chega inteiro.
   - **48** (aurora; opcional): castelo calado no frio, no máximo uma frase (o silêncio entre Nolan e Valinor, linha 49). O cap. 53 já ancora o silêncio da noite (linha 3). Serve de contraste para os caps. 60 a 66.
+
+### 2026-11-20: Cap. 49, o enforcamento deve vir depois de Nolan agir por Mário? (comentário 1 do autor)
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: o autor pergunta se o capítulo do enforcamento de Juleen não ficaria melhor depois de Nolan agir a favor de Mário (conforto na prisão, argumentar com Genocydo), para o crime surpreender depois de uma "espiral de redenção".
+- **Capítulos afetados**: 49 (aplicado em parte); 50 a 60 e epílogo, se mover.
+- **Status**: avaliada; recomendação de manter a ordem. Marcador mantido no cap. 49 até a decisão do autor.
+- **Avaliação**: mover custa cerca de 10 linhas nos caps. 52, 53, 56, 59 e epílogo ("ontem à tarde", "naquela tarde") e desfaz o encaixe da mesma tarde do Dia 107. Os caps. 43 a 48 mostram aliança tática, não redenção. Aplicado: as ordens a favor de Mário (cela seca, guarda pessoal, água, comida, custódia) passaram para antes do crime, no palacete, diante de Saboc. Uma cena de Nolan com Genocydo antes do crime custaria de 300 a 450 palavras e colide com 53:59 e 58:35.
+- **Destino**: decisão do autor, no PR do cap. 49.
+
+### 2026-11-20: Fecho do cap. 47 com as muralhas da Metrópole (comentário 29 do autor)
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: fechar o capítulo de Mário com os Clãs (47) com ele avistando ao longe as muralhas e torres da Metrópole.
+- **Capítulos afetados**: 47 e, opcionalmente, o começo do 50.
+- **Status**: avaliada; recomendação de não fechar o 47 assim. Marcador mantido no cap. 49.
+- **Avaliação**: o 47 fecha de noite, na serra (L63 a L68); a chegada é no fim da tarde seguinte (50:3), e de noite não se vê muralha. O cap. 48 já abre com a primeira visão da cidade (L5) e o 50 reserva o Monólito (L29 a L33). Se quiser a ponte, até 40 palavras no começo do 50, antes dos sinos.
+- **Destino**: decisão do autor.
+
+### 2026-11-20: Como o diário de Genocydo chega a Nolan (comentário 31 do autor)
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: o cap. 49 mandava levar "o diário de fundação" à cela, mas Nolan nunca o recebeu em cena (cap. 10: Layla falhou; cap. 14: Nolan não o tem; o cap. 50 já mostra "dois volumes" na cela).
+- **Capítulos afetados**: 49 (ponte provisória aplicada), 50, 52, 54, 56; talvez 10 e 48.
+- **Status**: em desenvolvimento; **decisão do autor**. Marcador mantido no cap. 49.
+- **Ponte aplicada**: Layla deixou o pacote no palacete semanas antes; Nolan não lê a língua e manda os dois livros "para saber se os lê". Paga o cap. 10 e a semente #15 ("obtém tardiamente"); Nolan não conclui nada (só Mário lê e revela).
+- **Opções**: (a) manter a ponte; (b) cena curta com Layla antes da ordem, cerca de 300 palavras, e o cap. 53 teria de assumir o que ela deu; (c) cortar o diário da ordem e Layla o deixar na cela (53:53; o esquema previa a visita dela), editando 50:47, 52:3 e 54:27 ("o diário que Nolan deixou").
+- **Destino**: decisão do autor.
+
+### 2026-11-20: Koda, o porto sul e o mandante de Juleen (comentário 26 do autor)
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: o texto aponta para Koda ("homem da tesouraria", "selo do porto sul", os despachos no colete do cap. 48), mas o canon fixa Terbs via Benjamim e "nunca resolver o mandante em cena". Falta motivo registrado para Koda ou Alavria.
+- **Capítulos afetados**: 48, 49, 53 ("agentes estrangeiros"); L2.
+- **Status**: capturada; **decisão do autor**. No cap. 49 Nolan não nomeia ninguém.
+- **Hipótese (inferência)**: a união Guenayer × Addorbek é a dinastia capaz de impedir que o Reino vire província; os Guenayer já recusaram Alavria (cap. 48). Escolher entre Terbs/Benjamim, Koda/Alavria ou pista falsa.
+- **Destino**: decisão do autor; depois, `decisoes/mandante-juleen-alvo-linhagem.md`.
+
+### 2026-11-20: Incongruências a jusante achadas na avaliação do cap. 49
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: pontos fora do cap. 49 que a avaliação encontrou e não tocou.
+- **Capítulos afetados**: 50, 52, 53, 58, 59.
+- **Status**: capturada (verde quando o autor chegar a cada capítulo).
+- **Itens**: 50:9 (a multidão sabe que Mário ressuscitou o filho de Nolan, contra "só Nuh sabe"); 52:29 (Mário cita "Nolan que enforcava aias" sem fonte na cena); 59:31 ("sem testemunhas" com a família presente; talvez "de defesa"); 53:19 a 21 e 58:35 (convocação da assembleia); guardas "municipal", "civil", "de Genocydo" e "da chancelaria" (49, 50:3, 50:43, 53:11); o óleo de unção da Festa da Poda (cap. 49) e o "conselheiro idoso" que unge Mário no cap. 66, que poderia ser Nuh.
+- **Destino**: cada capítulo, na revisão.
+

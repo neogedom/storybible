@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-20 (cap. 49: comentários do autor aplicados em lote)
+
+- Avaliação dos 31 comentários do cap. 49 com três subagentes (coerência do canon, em duas frentes, e densidade) e aplicação no livro em commits por cena: Santuário e Nuh; palacete, Mira e Juleen; alinhamentos nos caps. 53, 56 e epílogo. Ficam três marcadores para o autor (1, 29 e 31). Tudo entra como proposta, a validar no PR.
+- Canon do texto: a cena de Nuh (omissão deliberada, sem nomear Mário), Saboc em cena, a vembra dita por Mira no palacete, o endereço dado por Mathias, a família de Juleen, a fala-plant aprovada e o diário por ponte provisória. Registro em `decisoes/2026-11-20-cap49-comentarios-em-lote.md`.
+- Atualizados: `personagens/{nuh-dteraghar,juleen,mira,layla,mathias}.md`, `insights/{vembra-e-a-morte-de-dagmar,nolan-cobra-nuh-informacao-negada,_inbox}.md`, `lugares/metropole.md`, `temas/{sementes,cronologia-l1}.md`. No inbox, cinco entradas novas (reordenar, fecho do 47, o diário, Koda e o mandante, incongruências a jusante).
+
 ## 2026-11-19 (Castelo de Quartzo: inverno, onde canta e o céu do meio-dia)
 
 - Decisões do autor: (1) no inverno o castelo canta menos, porque o volume segue o calor que as placas pegaram (opção A); (2) canta a casca (fachada, biblioteca, torres, tribuna) e o núcleo de mármore e calcário só abafa, com a Torre dos Ventos como casca; (3) as galerias correm atrás da fachada, e fogo nelas esquenta a casca. Registradas em `lugares/metropole.md`; os itens em aberto do inbox foram fechados.
