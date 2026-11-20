@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-20 (gnock: Nolan não rotula os humanos dos burgos)
+
+- Decisão do autor (no chat): como gnock é uma condição muito rara, Nolan não pode achar que todo humano dos burgos é gnock; isso contraria o canon. Um segundo gnock além de Kate não é proibido, e o autor admite que talvez um a mais, só, não tenha problema; não há gnock novo no texto.
+- Livro: cap. 49, L137: saiu "Um gnock", pensou Nolan, e não pensou mais nisso.
+- Storybible: `personagens/{nolan,juleen}.md`, `conceitos/{segregacao,glossario}.md`, `capitulos/capitulo-49.md` e a decisão do lote (nova seção "Gnock").
+
 ## 2026-11-20 (cap. 49: decisões do autor aplicadas e Mini-INGEST)
 
 - Decisões do autor (no chat): não reordenar o cap. 49; as 35 palavras da vista da Metrópole abrem o cap. 50 (marcador 29); a unção da Festa da Poda é preparação para a apoteose (óleo do Templo, apoteose de Terbs); "A Ordem responde ao Sumo Sacerdote" plantada no cap. 28; Juleen é mãe coagida e paga; Gerdialias: os humanos ficam e Nolan não precisa saber; Nolan não descobre o marido humano; Dagmar ter visitado a casa de Juleen vira canon; mandante em aberto (Koda ou Benjamim, sem pista falsa).
@@ -10,7 +16,7 @@
 ## 2026-11-20 (Segregação por baixo: caps. 4, 41 e 49)
 
 - Decisões do autor (no chat): a comparação "versão feia da Cidadela" vem de outra pessoa que não Nolan, porque ele mandaria expulsar se soubesse de humanos dentro da Metrópole; o marido de Juleen pode ser humano; "burgos de baixo" no lugar de "burgos periféricos".
-- Livro: cap. 4 (Nolan suspeita da espécie de Juleen, Dagmar a defende, ele a censura por ter ido "entre eles"), cap. 41 (Orval faz a comparação e explica por que Nolan não sabe) e cap. 49 (o marido risca uma pederneira, Nolan pensa "Um gnock", como chamou Genocydo no cap. 7; eco da fala de Dagmar).
+- Livro: cap. 4 (Nolan suspeita da espécie de Juleen, Dagmar a defende, ele a censura por ter ido "entre eles"), cap. 41 (Orval faz a comparação e explica por que Nolan não sabe) e cap. 49 (o marido risca uma pederneira; havia "Um gnock", pensou Nolan, retirado no mesmo dia, ver a entrada "gnock" abaixo; eco da fala de Dagmar).
 - Atualizados: `conceitos/segregacao.md`, `lugares/{metropole,cidadela-de-gus}.md`, `personagens/{juleen,dagmar,nolan}.md`, `decisoes/2026-11-20-cap49-comentarios-em-lote.md` e o inbox. Em aberto: os "moradores humanos" do Gerdialias (caps. 53 e 58).
 
 ## 2026-11-20 (cap. 49: o diário chega a Nolan pela cena de Layla)
