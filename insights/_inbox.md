@@ -452,16 +452,16 @@
 - **Ideia (uma linha)**: o cap. 49 mandava levar "o diário de fundação" à cela, mas Nolan nunca o recebeu em cena (cap. 10: Layla falhou; cap. 14: Nolan não o tem; o cap. 50 já mostra "dois volumes" na cela).
 - **Capítulos afetados**: 49 (cena de Layla aplicada); 50, 52, 54 e 56 ficam intactos; 53 e 54 podem ganhar uma linha cada (opcional).
 - **Status**: aceita pelo autor em 2026-11-20 (opção b: cena curta de Layla no jardim do palacete). Marcador 31 removido do cap. 49.
-- **Cena aplicada**: no chafariz seco do jardim do palacete, Layla explica o plano (três meses descobrindo onde o rei guarda o caderno, ensaio com troca por um livro de contas de capa igual, execução na manhã em que soube que Nolan voltara). Nolan não lê a língua e manda os dois livros à cela "para saber se os lê". Paga o cap. 10 e a semente #15 ("obtém tardiamente"); Nolan não conclui nada (só Mário lê e revela).
+- **Cena aplicada**: no chafariz seco do jardim do palacete, a cena foi reescrita pelo autor no PR #20 (2026-11-20): Layla traz o diário por conta própria e diz que passou três meses aprendendo onde o rei guarda o que importa (a mesa de cabeceira); Nolan a recusa ("Chegou tarde. Não preciso mais dele") e depois decide usar o diário com Mário. Saíram a troca por um livro de contas e a explicação do plano. Nolan não lê a língua e manda os dois livros à cela "para saber se os lê". Paga o cap. 10 e a semente #15 ("obtém tardiamente"); Nolan não conclui nada (só Mário lê e revela).
 - **Opções**: (a) manter a ponte; (b) cena curta com Layla antes da ordem, cerca de 300 palavras, e o cap. 53 teria de assumir o que ela deu; (c) cortar o diário da ordem e Layla o deixar na cela (53:53; o esquema previa a visita dela), editando 50:47, 52:3 e 54:27 ("o diário que Nolan deixou").
-- **Destino**: aplicado no cap. 49; as linhas dos caps. 53 (L17) e 54 (L29) foram aplicadas em 2026-11-20, a pedido do autor.
+- **Destino**: aplicado no cap. 49; as linhas dos caps. 53 (L17) e 54 (L29) foram aplicadas em 2026-11-20, a pedido do autor. No PR #20 o cap. 54 passou a mostrar o espaço vazio ao lado da bacia de prata, porque a troca por um livro de contas saiu do cap. 49.
 
 ### 2026-11-20: Koda, o porto sul e o mandante de Juleen (comentário 26 do autor)
 
 - **Data**: 2026-11-20
 - **Ideia (uma linha)**: o texto aponta para Koda ("homem da tesouraria", "selo do porto sul", os despachos no colete do cap. 48), mas o canon fixa Terbs via Benjamim e "nunca resolver o mandante em cena". Falta motivo registrado para Koda ou Alavria.
 - **Capítulos afetados**: 48, 49, 53 ("agentes estrangeiros"); L2.
-- **Status**: decidida pelo autor em 2026-11-20: o mandante é **Koda**, a explorar no L2; "pista falsa" descartada. No cap. 49 o texto não aponta ninguém: Juleen não sabe nomes e Nolan lista Nuh, Benjamim, Lupe'i, Genocydo, Koda e Alavria (L171).
+- **Status**: decidida pelo autor em 2026-11-20: o mandante é **Koda**, a explorar no L2; "pista falsa" descartada. No cap. 49 o texto não aponta ninguém: Juleen não sabe nomes e Nolan lista Nuh, Benjamim, Lupe'i, Genocydo, Koda e Alavria (L191).
 - **Hipótese (inferência)**: a união Guenayer × Addorbek (burocracia mais exército de fogo) é a dinastia capaz de impedir que o Reino vire província, e os Guenayer já recusaram Alavria (cap. 48). Seria o motivo de Koda ou de Alavria.
 - **Prós e contras (análise de 2026-11-20, anterior à decisão do autor)**:
   - **Benjamim (Terbs).** Prós: (1) preserva o canon de 2026-09-19 e a ironia do epílogo, em que Nolan aceita o selo de Terbs do homem que mandou matar a esposa dele (ferida aberta, não tese fechada, Risco 5); (2) é o método de Benjamim ("primeiro só queriam saber da casa, depois quiseram o resto": planta, paciente, compra quem já está dentro); (3) faz de "agentes estrangeiros" (cap. 53, L43) um erro de premissa de Nolan, o que ajuda o Risco 2 (Nolan nunca errado); (4) não mexe no arco de Koda e Gunad no L2. Contras: (1) o texto hoje aponta para o outro lado, e a saída honesta exige uma cláusula; (2) o motivo de Terbs para matar a linhagem está só no canon, fora de cena, e "a linhagem dos Guenayer não podia se misturar com os Addorbek" soa a política, não a Corrupção; (3) risco de Benjamim virar onisciente (a decisão proíbe: o canal dele é o Rei, os resultados públicos da corte e o livro privado da aia).
@@ -500,8 +500,8 @@
 
 - **Data**: 2026-11-20
 - **Ideia (uma linha)**: o texto não aponta ninguém (Juleen não sabe nomes; Nolan lista os suspeitos) e, na storybible, o mandante é Koda, com revelação no L2 pela investigação de Gunad.
-- **Capítulos afetados**: 49 (aplicado, L169 a L171); L2; opcionalmente o 48.
+- **Capítulos afetados**: 49 (aplicado, L189 a L191); L2; opcionalmente o 48.
 - **Status**: aceita pelo autor em 2026-11-20 (canon); o desenvolvimento do L2 está em aberto.
 - **Em aberto para o L2**: (1) confirmar o motivo (ordem de Alavria, Jo-jo refém, vácuo do trono e anexação); (2) como a "morte redentora" de Koda e a intercessão por Gunad cabem no crime; (3) o encontro Nolan × Koda e Nolan × Gunad; (4) a ironia do epílogo (Nolan aceita o selo de Terbs sem saber que o envenenador era o amigo).
-- **Fair-play já no texto**: a conspiração proposta por Koda (caps. 4, 7 e 14), os despachos do porto sul no colete (cap. 48, L125) e a prata raspada (cap. 49, L163). Opcional, não aplicado: no cap. 48, Koda não perguntar por Dagmar.
+- **Fair-play já no texto**: a conspiração proposta por Koda (caps. 4, 7 e 14), os despachos do porto sul no colete (cap. 48, L125) e a prata raspada (cap. 49, L183). Opcional, não aplicado: no cap. 48, Koda não perguntar por Dagmar.
 - **Destino**: `decisoes/mandante-juleen-alvo-linhagem.md` e `insights/povs-l2-gunad-lakand-koda.md`.

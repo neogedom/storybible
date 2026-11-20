@@ -374,7 +374,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 15. O Diário de Genocydo — a Revelação de Kraviam
 
-> **Status (2026-11-20, cap. 49) (aceito pelo autor no chat):** o diário chega a Nolan numa cena curta de Layla no jardim do palacete (opção escolhida pelo autor): ela o troca, depois de três meses de ensaio, por um livro de contas de capa igual. Nolan não lê a língua e o manda à cela de Mário junto com o livro estranho, "para saber se os lê" (cap. 49; cap. 50: "dois volumes"). Detalhes em `personagens/layla.md`. Fechado em 2026-11-20: cap. 53, L17 (Layla: o rei não perguntou pelo caderno) e cap. 54, L29 (o rei olha o livro de contas ao ouvir Mário).
+> **Status (2026-11-20, cap. 49) (aceito pelo autor no chat):** o diário chega a Nolan numa cena de Layla no jardim do palacete, reescrita pelo autor no PR #20: ela o traz por conta própria ("Vim trazer o diário que tanto queria"), Nolan o recusa e depois decide usá-lo com Mário, supondo que Mário o lê (diziam que o Estrangeiro falava aquela língua). A troca por um livro de contas saiu. Nolan manda os dois livros à cela "para saber se os lê" (cap. 49; cap. 50: "dois volumes"). Detalhes em `personagens/layla.md`. Fechado em 2026-11-20: cap. 53, L17 (Layla: o rei não perguntou pelo caderno) e cap. 54, L29 (o rei olha o espaço vazio ao lado da bacia de prata).
 
 - **Plantio**: L1, caps. 10 e 14 — Layla rouba o diário de Genocydo; Nolan o
   queria para subverter o Conselho (obtém tardiamente).
