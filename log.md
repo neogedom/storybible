@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-11-20 (Fonte da tese dos milagres conferida na transcrição do BTCast 621)
+
+- O autor colou a transcrição automática do vídeo do episódio (`https://www.youtube.com/watch?v=GwtLq43RuJo`, 55 minutos). Com ela, o mecanismo da tese deixa de ser só a descrição do autor: os sinais atestam o enviado e são mais fortes onde a Palavra chega pela primeira vez (em Atos, a chegada com muitos milagres e a volta de Paulo sem eles). A imagem concêntrica é de Daniel Wallace (a pedra na água), a abertura cautelosa é de Robert Saucy, e o nome "desvanecentismo concêntrico" foi cunhado por Yago Martins, que diz que a posição não é só dele. A leitura anterior de que o "concêntrico" viesse dos círculos de At 1:8 estava errada.
+- Duas diferenças entre a fonte e a tese do autor, registradas para decisão: a fonte diz **desvanecer**, não cessar (os dons humildes seguem no centro), e diz que na borda as manifestações são "de forma mais comum" e "de forma menor", não que quem leva a Palavra "recebe o poder". Recomendações: ler "cessam" como o fim do sinal que atesta, por desvanecimento; manter o "recebe" só na metafísica da storybible, nunca no texto.
+- Também no insight: o gatilho possível do "fundamento lançado" (Ef 2:20); a rejeição da fonte à explicação por falta de fé (cuidado com a "fé na fé", e o enquadramento anterior da perda de Mário como lição "cobrada" foi suavizado para "posta à prova"); a raridade do sinal e o critério do falsificado (frequente, agendado, "armado"); o mapa da pedra na água para o L2; e o conflito do dom de línguas, que já é de Mário (caps. 5 e 13).
+- O outro vídeo que o autor indicou ("Deixei de ser cessacionista por isso", canal Dois Dedos de Teologia) não foi lido: o YouTube bloqueia a leitura automatizada e só o título é conhecido.
+- Alterados: `insights/l2-milagres-passam-de-mario-a-decian-e-gunad.md`, `decisoes/2026-11-18-l2-milagres-passam-de-mario-a-decian-e-gunad.md` e `insights/_inbox.md`. Nada alterado em capítulos, esquema do L2, fichas nem `conceitos/milagre.md`.
+
 ## 2026-11-19 (Castelo de Quartzo: inverno, onde canta e o céu do meio-dia)
 
 - Decisões do autor: (1) no inverno o castelo canta menos, porque o volume segue o calor que as placas pegaram (opção A); (2) canta a casca (fachada, biblioteca, torres, tribuna) e o núcleo de mármore e calcário só abafa, com a Torre dos Ventos como casca; (3) as galerias correm atrás da fachada, e fogo nelas esquenta a casca. Registradas em `lugares/metropole.md`; os itens em aberto do inbox foram fechados.
