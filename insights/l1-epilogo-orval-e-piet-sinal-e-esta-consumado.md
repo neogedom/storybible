@@ -1,11 +1,11 @@
 ---
 type: Insight
 title: O L1 fecha com Orval e Piet Brö — o Sinal e o Está Consumado
-description: Cena final do L1 em que Piet Brö, ao saber por Orval que Mário vem de outro mundo, liga a observação da noite em que o Sinal falhou ao Está Consumado de Cristo. Resolve a distância de 12 anos no L2 e dá ao L1 uma imagem final de escala cósmica.
+description: Cena final do L1 em que Piet Brö, ao saber por Orval que Mário vem de outro mundo, liga a observação da noite em que o Sinal falhou ao Está Consumado de Cristo. Resolve a distância de 12 anos no L2 e dá ao L1 uma imagem final de escala cósmica. Desde 2026-11-20 é a única cena do epílogo.
 tags: [insight, L1, epilogo, piet-bro, orval, sinal, esta-consumado, soteriologia-cosmica, luas-azuis, L2]
-destino: checkpoint de bloco (epílogo ainda não revisado); L2 (Soteriologia Cósmica)
-status: em desenvolvimento; semáforo amarelo com alerta de Risco 4; decisão do autor no checkpoint
-timestamp: 2026-11-17T12:00:00-03:00
+destino: epílogo, com execução em etapas (decisão de 2026-11-20); checkpoint de bloco; L2 (Soteriologia Cósmica)
+status: estrutura aceita pelo autor em conversa (2026-11-20): única cena do epílogo; semáforo amarelo com alerta de Risco 4; cena ainda não escrita
+timestamp: 2026-11-20T12:00:00-03:00
 ---
 
 # O L1 fecha com Orval e Piet Brö — o Sinal e o Está Consumado
@@ -18,7 +18,17 @@ Motivo: o L2 se passa cerca de 12 anos depois, e uma observação com 12 anos de
 
 ## Semáforo
 
-**Amarelo, com alerta de Risco 4 (tema claro cedo demais).** Muda a imagem final do L1 e o arco de Piet no L2. O epílogo e os caps. 47 a 66 ainda não foram revisados, então a decisão fica para o checkpoint de bloco; se aceita, a cena é reescrita no rascunho antes da revisão (`protocolo-ingest.md`). Nada foi alterado no manuscrito nem em `temas/esquema-l1.md`.
+**Amarelo, com alerta de Risco 4 (tema claro cedo demais).** Muda a imagem final do L1 e o arco de Piet no L2. O epílogo e os caps. 47 a 66 ainda não foram revisados, então a decisão fica para o checkpoint de bloco; se aceita, a cena é reescrita no rascunho antes da revisão (`protocolo-ingest.md`). Nada foi alterado no manuscrito nem em `temas/esquema-l1.md` na data desta nota (2026-11-17); as mudanças de 2026-11-20 estão na seção seguinte.
+
+## Estrutura aceita (autor, 2026-11-20)
+
+O autor avaliou uma versão mais enxuta da ideia e a aceitou em conversa, com execução em etapas ([decisão](../decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md)):
+
+- **O epílogo tem uma única cena: Orval e Piet.** Nolan, Benjamim e Nuh saem dele e viram o cap. 67 (proposta da sessão, sem objeção). A cena de Kate ("Duas semanas depois", "Guerra.") é boa, mas pequena demais para um capítulo e, misturada ao POV de Nolan, quebra o padrão de um POV por capítulo; o destino está em aberto na decisão.
+- **O prólogo tem uma única cena: a falha do Sinal na Praça.** O bloco de Kate vai para o fim do cap. 6. O risco que o autor registra é Kate só aparecer no cap. 6.
+- **O espelho passa a ser o do Sacrário:** "O Sacrário de Vonos deveria estar pulsando." (prólogo) e "O Sacrário de Vonos estava definitivamente morto." (epílogo). O "Guerra." deixa de ser o último gesto do L1.
+- **O gancho do L2 é cosmológico (autor).** O fecho do L1 deixa em aberto que há algo a mais nas relações cósmicas entre Ornick e a Terra, que dará corpo no L2 à explicação da existência dos deuses ([Cosmologia](../conceitos/cosmologia.md): a colonização de Ornick por Marduk, o jardim-replicado, a imagem redimida). Um público cristão não precisa esperar o L2 para sentir que "há mais, ainda não dito". A "Guerra." é um gancho fraco porque a guerra só vem bem depois, no L2. É a resposta do autor ao Risco 5: o fecho abre em vez de fechar.
+- **Semente de Piet aplicada** em `Livro 1/prologo.md`, linha 17: Piet Brö na Praça, de caderno aberto, com o rosto voltado para o céu, alheio ao boato.
 
 ## Resolve o problema declarado?
 
@@ -38,12 +48,13 @@ Ganhos adicionais: "Piet minimiza" (Tema Declarado do L2) passa a ter motivo, po
 2. **Em quais capítulos?**
    - Epílogo (principal).
    - Nenhum plantio obrigatório em capítulo fechado. As peças já existem: prólogo (o Sinal falha e as luas gêmeas estão azuladas na mesma noite), cap. 7 (Nolan consulta Piet sobre as luas azuis, e ele não explica), cap. 41 (Mário diz a Orval "sou de outro mundo", "uma terra com uma lua só", e as constelações dos mapas não existiam no céu dele; Orval já aceita que "o mundo flutua num espaço aberto e imenso").
+   - **Atualização (2026-11-20):** a semente de Piet na Praça foi aplicada (prólogo, linha 17). As luas azuis do prólogo estão no bloco de Kate, que vai para o fim do cap. 6; ficam também nos caps. 5, 7 e 9.
    - Orval e Piet se conhecem de forma natural: Orval lecionou lógica e cálculo na Academia da Metrópole por vinte invernos (cap. 41), e Piet é o astrônomo da Metrópole (cap. 7). Menção opcional em capítulo aberto (47 a 66), sem necessidade.
 
 3. **Qual o custo?**
-   - Quebra o espelho "Guerra." do prólogo e do epílogo: a palavra isolada fecha a cena de Kate nos dois. Se a cena de Orval e Piet vier depois, a última palavra do L1 deixa de ser dela.
+   - Quebra o espelho "Guerra." do prólogo e do epílogo: a palavra isolada fecha a cena de Kate nos dois. Se a cena de Orval e Piet vier depois, a última palavra do L1 deixa de ser dela. **Superado em 2026-11-20:** com o epílogo só de Orval e Piet, o espelho passa a ser o do Sacrário.
    - Quarto POV no fecho do livro (hoje Mário, Nolan e Kate).
-   - Risco 4 e Risco 5: o epílogo passaria a explicar a causa do mistério do prólogo, e o final pode fechar a tese em vez de deixar ferida.
+   - Risco 4 e Risco 5: o epílogo passaria a explicar a causa do mistério do prólogo, e o final pode fechar a tese em vez de deixar ferida. **Resposta do autor (2026-11-20):** o fecho abre em vez de fechar. O gancho é o que a notícia vinda da Terra implica sobre a ligação entre os dois mundos e sobre os deuses, e o L1 não explica.
    - Teologia: a Cruz lida como fenômeno medido pode virar prova ("Deus confirma"), o oposto de "Fé não é passe de mágica".
    - Física pendente: `conceitos/cosmologia.md` ainda não fixou a distância da Terra (2000 anos-luz é proposta). É a ordem de grandeza que faz um evento de cerca de 2.000 anos atrás chegar agora; a cena não deve fixar números além do que Piet poderia calcular.
 
@@ -67,6 +78,9 @@ Ganhos adicionais: "Piet minimiza" (Tema Declarado do L2) passa a ter motivo, po
 - **Sem uso imediato.** Ninguém leva o achado a Mário no L1. A pergunta "a quem contar" fica aberta, e Orval pode lembrar o próprio aviso do cap. 41.
 - **Fecho em gesto ou pergunta concreta**, nunca em fala-lição (regra das falas do `docs/guardrails.md`).
 - **A hora do registro bate com a hora da falha.** No prólogo, o Sinal falha no ocaso (Liturgia do Entardecer, "terceira chamada"); o registro de Piet precisa caber nesse horário.
+- **Fecho com a pergunta cosmológica aberta** (autor, 2026-11-20). A cena mostra o rastro (algo da Terra chegou a Ornick) e não diz por que os dois mundos se tocam nem o que isso implica sobre os deuses; isso fica para o L2.
+- **O céu daquela noite parte do que o texto já mostra.** Luas gêmeas azuis (caps. 5, 6, 7 e 9) e, no cap. 5 (linha 81), "céu completamente negro e sem estrelas". A cena exemplo acima fala em "estrelas fixas"; conferir ao escrever.
+- **A semente está na Praça** (`Livro 1/prologo.md`, linha 17): Piet anota o céu enquanto o Sinal falha, no ocaso. O registro da cena não pode contradizer isso.
 
 ## Reconciliação com o cânone
 
@@ -77,7 +91,7 @@ Ganhos adicionais: "Piet minimiza" (Tema Declarado do L2) passa a ter motivo, po
 
 ## Decisões abertas (recomendação em negrito)
 
-1. **Ordem.** Depois do "Guerra." de Kate (pedido do autor) ou antes. **Depois:** "Guerra." e "consumado" ficam lado a lado (a guerra que vem e o veredito já dado), que é o tema do L2. O custo é o espelho do prólogo.
+1. **Ordem.** Depois do "Guerra." de Kate (pedido do autor) ou antes. **Depois:** "Guerra." e "consumado" ficam lado a lado (a guerra que vem e o veredito já dado), que é o tema do L2. O custo é o espelho do prólogo. **Resolvido em 2026-11-20:** a cena é a única do epílogo, então não há "Guerra." antes nem depois dela na mesma unidade; o espelho do prólogo passa a ser o do Sacrário.
 2. **POV.** **Orval:** o leitor o conhece, é quem ouviu Mário e vê Piet calcular sem entender tudo, o que dá opacidade (protege contra o Risco 4) e evita exposição pelo pensamento de Piet. Alternativas: Piet, ou narrador de câmera aberta como no resto do epílogo.
 3. **O que Piet observou.** **As luas azuis mais um registro privado** (duração e ordem de eventos na noite do Sinal). A convergência usa intervalos, não coordenadas: Piet não tem como apontar o mundo de Mário no céu (as constelações dele não existem ali, cap. 41), então a ponte é o **relato**. Opção usada no exemplo: o escurecimento de três horas do relato da Paixão (Mt 27:45) contra o registro dele.
 4. **Como Orval sabe o Está Consumado.** **Mário contou depois da coroação, e a cena diz isso numa linha.** O cap. 41, fechado, só tem a dívida suprida e não precisa mudar. Se a ideia do cap. 52 for aceita, Gunad é outra via ([Cap. 52 e Gunad](l1-cap52-gunad-ouve-o-evangelho-completo.md)).
@@ -94,3 +108,4 @@ Ganhos adicionais: "Piet minimiza" (Tema Declarado do L2) passa a ter motivo, po
 - [Esquema do L2](../temas/esquema-l2.md) — beat Jogos, onde Piet entrega a Soteriologia Cósmica.
 - [Riscos Estruturais](../conceitos/riscos-estruturais.md) — Riscos 1, 4 e 5 postos em jogo pela cena.
 - [Inbox](_inbox.md) — entrada de 2026-11-17.
+- [Prólogo só com a falha do Sinal; epílogo só com Orval e Piet](../decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md) — a estrutura aceita pelo autor, o que foi aplicado e o que está em aberto.

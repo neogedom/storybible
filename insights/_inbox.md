@@ -27,7 +27,7 @@
 - **Ideia (uma linha)**: nos capítulos finais, na Metrópole, Nuh d'Teraghar pergunta a Nolan se ele teve alguma parte no silêncio do Sinal, e Nolan dá a resposta mais adequada. Reforça que o Sinal está mudo e dá a Nuh o beat de arco que falta.
 - **Capítulos afetados**: epílogo (proposta); alternativa: cap. 53.
 - **Status**: aceito pelo autor em 2026-11-13: a ideia, o lugar (epílogo, cerca de 300 palavras) e a resposta de Nolan, já corrigida pela cronologia do autor (ver abaixo).
-- **Destino**: epílogo, na revisão (rascunho ainda não revisado).
+- **Destino**: epílogo, na revisão (rascunho ainda não revisado). **Atualização (2026-11-20):** se o epílogo ficar só com Orval e Piet, esta cena entra no cap. 67 (POV de Nolan), antes da chegada de Benjamim; a confirmar.
 - **Relação com o cânone**: `personagens/nuh-dteraghar.md` ("Final do L1: choque teológico: Vonos não estava no controle. Some."); `insights/nolan-cobra-nuh-informacao-negada.md` (a cobrança de Nolan, já feita no cap. 49); `conceitos/sinal-de-vonos.md` (mudo e definitivo desde o cap. 30); cap. 4 (o hegraliano: "O Sinal perdeu o eixo, Juiz. Vonos já não confirma este reino.").
 
 1. O que muda? Uma cena curta de Nuh e Nolan. No cap. 49, Nolan cobra Nuh. Aqui Nuh vira o jogo e pergunta a Nolan. Hoje Nuh não reaparece depois do cap. 49, e o beat dele ("choque teológico: Vonos não estava no controle. Some.") não está escrito.
@@ -268,10 +268,11 @@
 
 - **Data**: 2026-11-17
 - **Ideia (uma linha)**: O epílogo termina com Orval e Piet Brö conversando sobre astronomia; Orval conta que Mário vem de outro planeta, Piet liga isso à observação da noite em que o Sinal falhou e conclui que algo ocorrido no mundo de Mário (o Está Consumado de Cristo) viajou pelo espaço e afetou o Sinal. Resolve a distância de 12 anos entre a observação e o L2.
-- **Capítulos afetados**: epílogo (não revisado); L2 (Piet e a Soteriologia Cósmica).
-- **Status**: em desenvolvimento
-- **Destino**: checkpoint de bloco (epílogo ainda não revisado); depois L2
-- **Desenvolvimento**: [l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md](l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md). Alerta de Risco 4 (tema claro cedo demais); a cena muda o último gesto do L1 e quebra o espelho "Guerra." do prólogo.
+- **Capítulos afetados**: epílogo (não revisado); prólogo (semente de Piet na Praça, aplicada); cap. 6 (recebe o bloco de Kate do prólogo); cap. 67 (novo, proposto); L2 (Piet e a Soteriologia Cósmica).
+- **Status**: estrutura aceita pelo autor em conversa (2026-11-20); a cena de Orval e Piet ainda não foi escrita
+- **Decidido (2026-11-20)**: o epílogo tem só esta cena e o prólogo só a Praça; o gancho do fim do L1 é o cosmológico (relações entre Ornick e a Terra), e não a Guerra. Semente de Piet aplicada em `Livro 1/prologo.md`, linha 17. Em aberto: o destino da cena de Kate do epílogo. Ver `decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md`.
+- **Destino**: epílogo, com execução em etapas (decisão de 2026-11-20); depois L2
+- **Desenvolvimento**: [l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md](l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md). Alerta de Risco 4 (tema claro cedo demais); a cena muda o último gesto do L1 e quebra o espelho "Guerra." do prólogo (superado em 2026-11-20: o espelho passa a ser o do Sacrário).
 - **Relação com o cânone**: `conceitos/sinal-de-vonos.md` (2026-09-05); `conceitos/cosmologia.md` (o Está Consumado opera na imagem redimida que Mário carrega; distância da Terra pendente); `capitulos/capitulo-07.md` (Piet e as luas azuis); `temas/esquema-l2.md` (Jogos).
 
 ### 2026-11-17: Gunad procura Mário e ouve o evangelho completo (cap. 52)

@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-20 (Prólogo só com a Praça, epílogo só com Orval e Piet; linha de Piet e linha 85)
+
+- O autor avaliou uma versão mais enxuta da ideia do PR #4: a conversa de Orval e Piet como única cena do epílogo e a falha do Sinal como única cena do prólogo. Em conversa, aceitou o encaixe do prólogo (o bloco de Kate vai para o fim do cap. 6; risco aceito: Kate só aparece no cap. 6), explicou o gancho do L2 (relações cósmicas entre Ornick e a Terra, sem explicação no L1; a "Guerra." é gancho fraco porque vem tarde no L2) e não viu problema na frase de abertura do epílogo. Registro: `decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md`, insight de Orval e Piet, inbox e índice.
+- Livro (mesma branch da sessão), `Livro 1/prologo.md`: a linha 17 ganha Piet Brö na Praça (semente do fecho); na linha 85, "A guerra nunca viera" passa a "A guerra ainda não viera".
+- Em aberto: o destino da cena de Kate do epílogo (pequena demais para um capítulo; misturada ao POV de Nolan quebra o padrão de um POV por capítulo) e a execução da mudança dos blocos (cap. 6, cap. 67 e a cena de Orval e Piet). Nada alterado em esquemas, fichas nem nos demais capítulos.
+
 ## 2026-11-19 (Castelo de Quartzo: inverno, onde canta e o céu do meio-dia)
 
 - Decisões do autor: (1) no inverno o castelo canta menos, porque o volume segue o calor que as placas pegaram (opção A); (2) canta a casca (fachada, biblioteca, torres, tribuna) e o núcleo de mármore e calcário só abafa, com a Torre dos Ventos como casca; (3) as galerias correm atrás da fachada, e fogo nelas esquenta a casca. Registradas em `lugares/metropole.md`; os itens em aberto do inbox foram fechados.
