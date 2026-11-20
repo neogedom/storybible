@@ -1,5 +1,9 @@
 # Log de Atualizações
 
+## 2026-11-20 (inferência de Nolan: opções detalhadas e âncoras corrigidas)
+
+- Pedido do autor: explicar melhor as duas opções da inferência "mesma língua, mesmo lugar". O inbox e a decisão do lote ganharam as âncoras corretas (a ordem "Quero saber se os lê" está em 49:101 e os livros aparecem na cela em 50:49; constava 50:47), o plantio do cap. 56, L43 ("juristas do meu mundo"), os rascunhos revistos de (b) e (c) e um ajuste de redação sugerido para o 49:93 (boato versus inferência). Nada foi aplicado ao texto do livro; a escolha é do autor.
+
 ## 2026-11-20 (cap. 60: guarda civil da cidade)
 
 - Pedido do autor: trocar também no cap. 60, L43, "guarda civil de Valinor" por "guarda civil da cidade". Canon dado por ele: o Rei comanda a guarda civil, uma divisão inferior; os Espadas da Lei são a divisão de elite. Atualizados `conceitos/glossario.md`, `lugares/metropole.md` e a decisão do lote. O inbox ganhou os rascunhos das opções (b) e (c) da inferência de Nolan.
