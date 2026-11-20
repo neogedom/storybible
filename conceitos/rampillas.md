@@ -30,11 +30,11 @@ saem da toca quando o rastro é de **presa** (quem foge, sangra ou se move
 como caça). Quem vem em paz passa sem ser atacado (ex.: os nômades que
 vendem tintura ao barão; Nolan com o selo do Conselho — o portão é aberto).
 Kate, que conhece o território, desvia do padrão (não corre, não sangra,
-não deixa rastro quente) — por isso não é interceptada no cap. 0.
+não deixa rastro quente) — por isso não é interceptada no cap. 6 (a caçada; até 2026-11-20 estava no Prólogo).
 
 ## Criação (canon 2026-11-17)
 
-- O ritual da semente é **costumeiro** em Devour: um xamã, uma semente vegetal numa tigela e um hospedeiro capturado, cercado por rampillas ajoelhados. O do Prólogo implantava uma semente num camponês.
+- O ritual da semente é **costumeiro** em Devour: um xamã, uma semente vegetal numa tigela e um hospedeiro capturado, cercado por rampillas ajoelhados. O do cap. 6 (a caçada, que estava no Prólogo até 2026-11-20) implantava uma semente num camponês.
 - Kate já vira rampillas serem criados antes e interrompeu esse; ele não é "a criação dos rampillas". No texto, chamar de "um ritual de Devour" ou "aquela noite em Saramant", nunca de "a noite de criação dos rampillas".
 - Ver `personagens/devour.md` (sementes parasitas) e `decisoes/2026-11-17-brasa-de-kate-comeca-na-falha-do-sinal.md`.
 

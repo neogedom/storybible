@@ -27,7 +27,7 @@
 - **Ideia (uma linha)**: nos capítulos finais, na Metrópole, Nuh d'Teraghar pergunta a Nolan se ele teve alguma parte no silêncio do Sinal, e Nolan dá a resposta mais adequada. Reforça que o Sinal está mudo e dá a Nuh o beat de arco que falta.
 - **Capítulos afetados**: epílogo (proposta); alternativa: cap. 53.
 - **Status**: aceito pelo autor em 2026-11-13: a ideia, o lugar (epílogo, cerca de 300 palavras) e a resposta de Nolan, já corrigida pela cronologia do autor (ver abaixo).
-- **Destino**: epílogo, na revisão (rascunho ainda não revisado).
+- **Destino**: epílogo, na revisão (rascunho ainda não revisado). **Atualização (2026-11-20):** se o epílogo ficar só com Orval e Piet, esta cena entra no cap. 67 (POV de Nolan), antes da chegada de Benjamim; a confirmar.
 - **Relação com o cânone**: `personagens/nuh-dteraghar.md` ("Final do L1: choque teológico: Vonos não estava no controle. Some."); `insights/nolan-cobra-nuh-informacao-negada.md` (a cobrança de Nolan, já feita no cap. 49); `conceitos/sinal-de-vonos.md` (mudo e definitivo desde o cap. 30); cap. 4 (o hegraliano: "O Sinal perdeu o eixo, Juiz. Vonos já não confirma este reino.").
 
 1. O que muda? Uma cena curta de Nuh e Nolan. No cap. 49, Nolan cobra Nuh. Aqui Nuh vira o jogo e pergunta a Nolan. Hoje Nuh não reaparece depois do cap. 49, e o beat dele ("choque teológico: Vonos não estava no controle. Some.") não está escrito.
@@ -268,10 +268,11 @@
 
 - **Data**: 2026-11-17
 - **Ideia (uma linha)**: O epílogo termina com Orval e Piet Brö conversando sobre astronomia; Orval conta que Mário vem de outro planeta, Piet liga isso à observação da noite em que o Sinal falhou e conclui que algo ocorrido no mundo de Mário (o Está Consumado de Cristo) viajou pelo espaço e afetou o Sinal. Resolve a distância de 12 anos entre a observação e o L2.
-- **Capítulos afetados**: epílogo (não revisado); L2 (Piet e a Soteriologia Cósmica).
-- **Status**: em desenvolvimento
-- **Destino**: checkpoint de bloco (epílogo ainda não revisado); depois L2
-- **Desenvolvimento**: [l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md](l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md). Alerta de Risco 4 (tema claro cedo demais); a cena muda o último gesto do L1 e quebra o espelho "Guerra." do prólogo.
+- **Capítulos afetados**: epílogo (não revisado); prólogo (semente de Piet na Praça, aplicada); cap. 6 (recebe a caçada de Kate, vinda do prólogo); cap. 67 (novo, proposto); L2 (Piet e a Soteriologia Cósmica).
+- **Status**: estrutura aceita pelo autor em conversa (2026-11-20); a cena de Orval e Piet ainda não foi escrita
+- **Decidido (2026-11-20)**: o epílogo tem só esta cena e o prólogo uma cena só (a falha do Sinal, na Praça e no espasmo de Kate; a caçada de Kate foi para o fim do cap. 6, saída A); o gancho do fim do L1 é o cosmológico (relações entre Ornick e a Terra), e não a Guerra. Aplicado no livro: semente de Piet (`Livro 1/prologo.md`, linha 17), linha 85 e a mudança da caçada com a ligação no cap. 6. Em aberto: o destino da cena de Kate do epílogo. Ver `decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md`.
+- **Destino**: epílogo, com execução em etapas (decisão de 2026-11-20); depois L2
+- **Desenvolvimento**: [l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md](l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md). Alerta de Risco 4 (tema claro cedo demais); a cena muda o último gesto do L1 e quebra o espelho "Guerra." do prólogo (superado em 2026-11-20: o espelho passa a ser o do Sacrário).
 - **Relação com o cânone**: `conceitos/sinal-de-vonos.md` (2026-09-05); `conceitos/cosmologia.md` (o Está Consumado opera na imagem redimida que Mário carrega; distância da Terra pendente); `capitulos/capitulo-07.md` (Piet e as luas azuis); `temas/esquema-l2.md` (Jogos).
 
 ### 2026-11-17: Gunad procura Mário e ouve o evangelho completo (cap. 52)
@@ -339,11 +340,11 @@
 ### 2026-11-18: L2, os milagres deixam Mário e passam a Decian e Gunad
 
 - **Data**: 2026-11-18
-- **Ideia (uma linha)**: Tese do autor para o L2, seguindo o "Desvanecentismo Concêntrico" (BTCast 621; atribuído pelo autor a Yago Martins; posição intermediária entre o cessacionismo e o continuísmo): enquanto a Palavra chega a um lugar onde nunca esteve, quem a leva recebe o poder de fazer milagres para testificar sua autoridade. Decian e Gunad também começam a fazer milagres, e os milagres por meio de Mário cessam.
+- **Ideia (uma linha)**: Tese do autor para o L2, seguindo o "Desvanecentismo Concêntrico" (BTCast 621; o nome é de Yago Martins, a imagem concêntrica é de Daniel Wallace e a abertura cautelosa, de Robert Saucy; posição intermediária entre o cessacionismo e o continuísmo): enquanto a Palavra chega a um lugar onde nunca esteve, quem a leva recebe o poder de fazer milagres para testificar sua autoridade. Decian e Gunad também começam a fazer milagres, e os milagres por meio de Mário cessam.
 - **Capítulos afetados**: L2 (12 anos, Tema Declarado, Catalisador e Debate, Jogos, Midpoint, Final); L1 (Garfo, como preparação, e cap. 39 como semente).
-- **Status**: tese decidida pelo autor; em desenvolvimento; esquema do L2, fichas e conceito Milagre não alterados
+- **Status**: tese decidida pelo autor; em desenvolvimento; fonte conferida em 2026-11-20; esquema do L2, fichas e conceito Milagre não alterados
 - **Destino**: L2 (outline)
-- **Decidido (2026-11-18)**: ver `decisoes/2026-11-18-l2-milagres-passam-de-mario-a-decian-e-gunad.md`. Em aberto: quando e por que os milagres de Mário cessam, onde Gunad e Decian recebem, se ouvem a Voz, como o Estado reage, e conferir o mecanismo da tese no áudio do BTCast 621 ou na playlist do canal de Yago Martins (a página traz só a descrição).
+- **Decidido (2026-11-18)**: ver `decisoes/2026-11-18-l2-milagres-passam-de-mario-a-decian-e-gunad.md`. Em aberto: quando e por que os milagres de Mário cessam, onde Gunad e Decian recebem, se ouvem a Voz, como o Estado reage, "cessar × desvanecer" e o dom de línguas de Mário. **Fonte conferida (2026-11-20)** na transcrição do episódio, que o autor colou: o mecanismo é o da tese, com duas diferenças (a fonte diz desvanecer, não cessar; e diz "de forma mais comum" e "de forma menor" na borda, não que o portador recebe o poder).
 - **Desenvolvimento**: [l2-milagres-passam-de-mario-a-decian-e-gunad.md](l2-milagres-passam-de-mario-a-decian-e-gunad.md). **Alerta de guardrail:** lida ao pé da letra ("recebe o poder de fazer milagres"), a tese bate com o cânone de Milagre (o poder nunca é dele; milagre é evento, não categoria). Reconciliação recomendada: a tese é a metafísica da storybible, não regra dos personagens; cada milagre é ato de Deus, com forma, hiato e custo próprios, e não é comandável. Pergunta que a tese traz: por que não cura Kate? (o milagre interrompe o veredito sem apagar a fatura).
 - **Relação com o cânone**: `conceitos/milagre.md`; `decisoes/glossolalia-invertida-oracao-cap20.md` (o confronto futuro: "testificar de Deus"; Mário cessacionista teimoso); `personagens/mario.md` (a Voz e o dom); `temas/esquema-l2.md` (Midpoint: a Voz silenciada); `temas/esquema-l1.md` (cap. 39: Mário leva o ferido a Decian).
 

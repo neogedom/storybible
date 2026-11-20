@@ -404,11 +404,12 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 16. A Dívida de Sangue — Kate matou um filho de Devour
 
-- **Fato (canon 2026-08-08)**: no cap. 0, Kate mata um xamã da corte de
+- **Fato (canon 2026-08-08)**: no cap. 6 (a caçada; até 2026-11-20 estava no
+  Prólogo, cap. 0), Kate mata um xamã da corte de
   Devour que era **filho do lorde** (linhagem d'Tirath). Ela soube da
   filiação antes de matar ("Meu pai..." / "Seu pai... me deve
   entretenimento") — e matou mesmo assim.
-- **Plantio**: L1, Cap. 0 — filiação explícita e natural (sem gancho de suspense):
+- **Plantio**: L1, Cap. 6 (antes Cap. 0) — filiação explícita e natural (sem gancho de suspense):
   o xamã invoca "meu pai"; eco visual (olhos "carvão molhado") liga à
   linhagem.
 - **Colheita (fechada 2026-08-08)**: L1, Cap. 18 — Devour confronta Kate no
