@@ -1,14 +1,14 @@
 ---
 type: Decision
 title: Cap. 49, comentários do autor aplicados em lote (2026-11-20)
-description: O que o lote dos 31 comentários do cap. 49 resolveu no texto, o que o autor decidiu depois no chat (reordenação, fecho do 47, diário, unção, Gerdialias, Juleen coagida) e as incongruências a jusante resolvidas. Fica em aberto só o mandante de Juleen.
+description: O que o lote dos 31 comentários do cap. 49 resolveu no texto, o que o autor decidiu depois no chat (reordenação, fecho do 47, diário, unção, Gerdialias, Juleen coagida) e as incongruências a jusante resolvidas. O mandante de Juleen foi decidido depois: é Koda, com revelação no L2.
 tags: [decisao, cap-49, lote, nuh, juleen, mira, diario, koda]
 timestamp: 2026-11-20T12:00:00-03:00
 ---
 
 # Cap. 49: comentários do autor em lote (2026-11-20)
 
-> O autor pediu para avaliar e resolver os 31 comentários `(* ... )` do cap. 49. A avaliação usou três subagentes (coerência com o canon, em duas frentes, e densidade). O lote foi aplicado no livro em commits separados e **aceito pelo autor no chat em 2026-11-20 ("Aceito suas propostas")**; as decisões que ele deu depois estão na seção "Decidido pelo autor no chat". Fica em aberto só o mandante de Juleen.
+> O autor pediu para avaliar e resolver os 31 comentários `(* ... )` do cap. 49. A avaliação usou três subagentes (coerência com o canon, em duas frentes, e densidade). O lote foi aplicado no livro em commits separados e **aceito pelo autor no chat em 2026-11-20 ("Aceito suas propostas")**; as decisões que ele deu depois estão na seção "Decidido pelo autor no chat". O mandante de Juleen foi decidido depois: é Koda, com revelação no L2.
 
 ## Aplicado no texto
 
@@ -33,7 +33,7 @@ timestamp: 2026-11-20T12:00:00-03:00
 | 21, 22 | Melissa; frase rebuscada | "Chá de vembra" (cap. 4:47). "As cascas que você pilava todas as noites". |
 | 24 | O chão | Terra batida, escura de salmoura e branca de cal junto à porta. A lama é da viela. |
 | 25 | "Inverno?" | "No verão, meses antes do parto": os três meses de chá começam antes do prólogo. |
-| 26 | É Koda? | Nolan não nomeia ninguém ("nenhum que ele pudesse nomear sem prova"). Ver pendências. |
+| 26 | É Koda? | Juleen não sabe nomes e Nolan lista os suspeitos sem nomear ninguém (cap. 49, L171). Depois, o autor decidiu que o mandante é Koda (L2). |
 | 27 | A movimentação | Não estava coerente. Corrigida (lista abaixo). |
 | 28 | Que poço? | "...ao Poço das Correntes: é lá que o Rei guarda quem não quer ver em processo." O cap. 50 o descreve depois. |
 | 30 | Bíblia e Kraviam | Nolan só diz "livro estranho" e "livro de couro negro". A frase final ("quem construiu esta cidade") saiu: ele ainda não podia saber. |
@@ -50,7 +50,7 @@ Respostas do autor à lista de pendências, por número, e o que foi aplicado:
 1. **Comentário 1 (reordenar):** não reordenar ("Aceito suas propostas"). Marcador removido do cap. 49.
 2. **Comentário 29 (fecho do cap. 47 com as muralhas):** o 47 não muda. Abertura de 35 palavras no cap. 50 (L1): "Na última dobra da serra, a forquilha sob o queixo obrigou Mário a erguer a cabeça. A Metrópole estava lá embaixo: muralhas cinzentas, torres de calcário, a fumaça de mil chaminés deitada sobre os telhados." O Monólito fica de fora da vista de longe, porque o cap. 50 o reserva (L29 a L33) e ele está apagado (cap. 48, L35). Marcador removido.
 3. **Comentário 31 (diário):** opção b, a cena curta de Layla (já aplicada). Fechamento: cap. 53, L17 (Layla: "Do caderno ele não perguntou. Enquanto Benjamim não sair do lado dele, ninguém dá falta de nada.") e cap. 54, L29 (Genocydo olha o livro de contas ao lado da bacia de prata, estende a mão e a recolhe). "Na capa" virou "na folha de rosto" (54:27).
-4. **Koda e o mandante (26):** "pista falsa" fica fora (exigiria outra semente). **Segue em aberto** entre Benjamim e Koda, com prós e contras no inbox. No cap. 49 Nolan não nomeia ninguém.
+4. **Koda e o mandante (26):** "pista falsa" ficou fora (exigiria outra semente). Depois o autor pediu que o texto não aponte ninguém (Juleen não sabe nomes; Nolan lista Nuh, Benjamim, Lupe'i, Genocydo, Koda e Alavria, L171) e **canonizou Koda como mandante**, para explorar no L2 (`decisoes/mandante-juleen-alvo-linhagem.md`).
 5. **"Matariam meus filhos":** aceito. Juleen é **mãe coagida e paga**; a leitura "paga, competente e fria" cai (`decisoes/mandante-juleen-alvo-linhagem.md`, `personagens/juleen.md`).
 6. **A unção da Festa da Poda:** é a **preparação para a apoteose**; por isso Genocydo quer tanto a blasfêmia de Mário ("antes da Festa da Poda", disse o autor; o cap. 54 a põe no cadafalso da própria Festa). Cap. 49, L15: "para que se prepare, para a Festa da Poda, o óleo da unção que antecede a apoteose". Os óleos são do Templo (Vonos) e a apoteose é de Terbs: a ideia se sustenta (`lugares/metropole.md`). O "conselheiro idoso" do cap. 66 só coroa Mário, sem óleo; ser Nuh e derramar o óleo é payoff opcional, **não aplicado**.
 7. **"A Ordem responde a Nuh":** plantado no cap. 28, L123 ("A Ordem responde ao Sumo Sacerdote, senhor. Cuide dos seus negócios. Eu cuido dos de Vonos."); no cap. 49, L31, Nolan reconta a frase a Nuh.
