@@ -112,7 +112,7 @@ leitor deve perceber a falha da premissa ANTES de Nolan (guardrail Risco 2).
 O lenço de seda é a fissura física — invocar com moderação, em momentos de
 vulnerabilidade ou desprezo.
 
-**"Gnock" como muleta (cap. 7 e cap. 49) (aceito pelo autor no chat):** Nolan rotula como gnock quem não tem marca: Genocydo (cap. 7) e o marido de Juleen (cap. 49, que é humano). A premissa que falha é a mesma (a Segregação funciona; humano só se vê fora da muralha), e o leitor percebe antes dele. Se ele soubesse de humanos dentro da muralha, mandaria expulsar (decisão do autor).
+**"Gnock" (cap. 7; corrigido em 2026-11-20):** Nolan usa a palavra uma vez, contra Genocydo (cap. 7), por inferência sobre um caso de linhagem: sem a marca do Ar, o rei não pode ser o Antigo Rei. É um erro, porque Genocydo é humano, mas vale para esse caso, não como regra. Gnock é raro (`conceitos/glossario.md`), e Nolan **não pode achar que todo humano dos burgos é gnock** (decisão do autor, 2026-11-20): por isso o cap. 49 não registra pensamento algum dele sobre o marido de Juleen. Se ele soubesse de humanos dentro da muralha, mandaria expulsar (decisão do autor).
 
 ## Papel na História
 

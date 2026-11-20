@@ -72,8 +72,15 @@ Respostas do autor à lista de pendências, por número, e o que foi aplicado:
 ## Segregação por baixo (decisões do autor no chat, 2026-11-20)
 
 1. **A comparação "versão feia da Cidadela" não vem de Nolan.** Se ele soubesse que há humanos dentro da Metrópole, mandaria expulsar. Vem de Orval (cap. 41), que lecionou vinte anos na Academia da Metrópole e diz que "fiscal nenhum desce" aos burgos de baixo. A proposta de pensamento de Nolan no cap. 42 foi **descartada**.
-2. **O marido de Juleen é humano** e os filhos são mestiços. No cap. 49 Nolan **não sabe**: o marido risca uma pederneira e Nolan pensa "Um gnock", como chamou Genocydo no cap. 7.
+2. **O marido de Juleen é humano** e os filhos são mestiços. No cap. 49 Nolan **não sabe**: o marido risca uma pederneira e o texto não registra pensamento algum dele. (Havia "Um gnock", pensou Nolan; o autor apontou em 2026-11-20 que contraria o canon, e a frase saiu.)
 3. **"Burgos de baixo"** no lugar de "burgos periféricos" (cap. 4).
 4. **Cap. 4:** Nolan suspeita ("Essa garota é humana?"), Dagmar a defende e diz que foi conhecer a casa dela, Nolan a censura por ter ido "entre eles" e ela corta ("Entre quem, Nolan?"). **Canon.**
 5. **Gerdialias:** decidido (item 8 acima).
 6. **Se Nolan descobrir o marido humano:** decidido, ele não descobre (item 9 acima).
+
+## Gnock (decisão do autor, 2026-11-20)
+
+- **Nolan não pode achar que todo humano dos burgos é gnock**; isso contraria o canon. A frase "Um gnock", pensou Nolan, saiu do armazém (cap. 49, L137), sem substituto.
+- **Um segundo gnock além de Kate:** o canon não proíbe (o glossário e a cosmologia dizem "raro", não "único"), mas custa. No cap. 30 o inquiridor diz que nunca viu um gnock ("só teoria no nosso templo"), e o choque do cap. 27 depende disso. O autor admitiu que talvez um a mais, só, não tenha problema. **Não há gnock novo no texto.**
+- **Os filhos de Juleen** (leviantar × humano) não são gnocks por padrão: pela cosmologia, o normal é nascer com potencial em um elemento, e o gnock é o resultado raro dessas hibridizações.
+- **Usos de "gnock" no texto:** Kate (caps. 12, 27, 30, 37 e 55) e Genocydo, que Nolan chama assim no cap. 7 por engano. No cap. 55, o seleiro Theodore é "humano comum", distinto de gnock, e os nativos de Saramant reservam desprezo aos gnocks.

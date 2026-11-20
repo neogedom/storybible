@@ -3,14 +3,14 @@ type: Chapter
 title: Capítulo 49 — A Fatura
 pov: Nolan
 beat_stc: Tudo Está Perdido (inferido)
-percentual_l1: ~91,9% (acumulado 126.300 ÷ 137.500, recontado em 2026-11-20)
+percentual_l1: ~91,8% (acumulado 126.291 ÷ 137.500, recontado em 2026-11-20)
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo49.md
 timestamp: 2026-11-20T18:00:00-03:00
 ---
 
 # Capítulo 49 — A Fatura (POV Nolan)
 
-> Título provisório da ficha (o arquivo do livro não tem título); o autor pode renomear. Os comentários `(* ... )` do autor foram resolvidos em lote em 2026-11-20 e as decisões dele no chat foram aplicadas no mesmo dia (ver [a decisão](/decisoes/2026-11-20-cap49-comentarios-em-lote.md)). Contagem: **3.247 palavras**, acima dos 3.200 sugeridos pelo Arquiteto de Densidade; o autor aceitou e o corte é opcional.
+> Título provisório da ficha (o arquivo do livro não tem título); o autor pode renomear. Os comentários `(* ... )` do autor foram resolvidos em lote em 2026-11-20 e as decisões dele no chat foram aplicadas no mesmo dia (ver [a decisão](/decisoes/2026-11-20-cap49-comentarios-em-lote.md)). Contagem: **3.238 palavras**, acima dos 3.200 sugeridos pelo Arquiteto de Densidade; o autor aceitou e o corte é opcional.
 
 ## Resumo
 
@@ -24,7 +24,7 @@ Na tarde da chegada de Mário, Nolan vai ao Santuário de Vonos cobrar de Nuh d'
 - **Mira**: com Saboc no colo; diz a vembra sem acusar ninguém.
 - **Mathias**: dá o endereço de Juleen; junto à porta do armazém, atinge o marido com o cabo da espada.
 - **Juleen**: a aia; pede tribunal e testemunhas.
-- **O marido de Juleen** (humano, não nomeado; Nolan o toma por gnock) e as **duas crianças** (mestiças).
+- **O marido de Juleen** (humano, não nomeado; o texto não registra pensamento de Nolan sobre ele) e as **duas crianças** (mestiças).
 - **Ossan** e os **quatro rampillas**: na rampa e no armazém; Ossan nas sombras; um rampilla segura o marido.
 - **Saboc**: no colo de Mira.
 - Mencionados: Mário (chega no cap. 50), Dagmar, Benjamim, Genocydo.
@@ -45,7 +45,7 @@ Na tarde da chegada de Mário, Nolan vai ao Santuário de Vonos cobrar de Nuh d'
 - **#26 (Saboc):** Nuh pergunta quanto tempo ele passou no Rohdis.
 - **#33 (a apoteose):** o óleo da unção do Templo (Vonos) prepara a apoteose que é de Terbs; Nuh não sabe (`lugares/metropole.md`).
 - **A Ordem responde ao Sumo Sacerdote:** plantada no cap. 28 (2026-11-20) e cobrada aqui.
-- **Segregação por baixo:** o marido humano, o "Um gnock" e o eco de Dagmar (cap. 4); Nolan não descobre (`conceitos/segregacao.md`).
+- **Segregação por baixo:** o marido humano (Nolan não lhe dá pensamento algum; o "Um gnock" saiu) e o eco de Dagmar (cap. 4); Nolan não descobre (`conceitos/segregacao.md`).
 - **Fronteira:** a história de Nolan retoma onde o cap. 48 fechou (Nolan imóvel diante da fumaça de Benjamim e a assembleia do Conselho a convocar) e acontece na mesma tarde em que a comitiva de Mário chega (cap. 50, no Portão Leste, no fim da tarde). A cobrança a Genocydo que o cap. 48 deixou para depois ficou com Nuh; Nolan e Genocydo não se encontram em cena. Ponto de partida do cap. 50: Mário na barbacã, depois de ver a Metrópole da serra.
 - **Fecho:** Nolan sai do armazém sem olhar para trás, e o choro das crianças o segue até a esquina. Corte **C** (logo após o golpe, com a consequência simples e visível). Quebra a sequência de cortes D dos caps. 45, 46 e 48 (o 47, de Mário, fecha em "Cravos"). Passe de fechos: conferir no lote.
 - **Conexões:** [cap. 48](/capitulos/capitulo-48.md), [Nuh](/personagens/nuh-dteraghar.md), [Layla](/personagens/layla.md), [Mira](/personagens/mira.md), [Mathias](/personagens/mathias.md), [Juleen](/personagens/juleen.md), [Dagmar](/personagens/dagmar.md), [Saboc](/personagens/saboc.md), [Metrópole](/lugares/metropole.md), [Segregação](/conceitos/segregacao.md).
