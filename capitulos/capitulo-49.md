@@ -3,14 +3,14 @@ type: Chapter
 title: Capítulo 49 — A Fatura
 pov: Nolan
 beat_stc: Tudo Está Perdido (inferido)
-percentual_l1: ~92,1% (acumulado 126.593 ÷ 137.500, recontado em 2026-11-20)
+percentual_l1: ~92,1% (acumulado 126.698 ÷ 137.500, recontado em 2026-11-20)
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo49.md
 timestamp: 2026-11-20T18:00:00-03:00
 ---
 
 # Capítulo 49 — A Fatura (POV Nolan)
 
-> Título provisório da ficha (o arquivo do livro não tem título); o autor pode renomear. Os comentários `(* ... )` do autor foram resolvidos em lote em 2026-11-20 e as decisões dele no chat foram aplicadas no mesmo dia (ver [a decisão](/decisoes/2026-11-20-cap49-comentarios-em-lote.md)). Contagem: **3.563 palavras**, acima dos 3.200 sugeridos pelo Arquiteto de Densidade; o autor aceitou e o corte é opcional.
+> Título provisório da ficha (o arquivo do livro não tem título); o autor pode renomear. Os comentários `(* ... )` do autor foram resolvidos em lote em 2026-11-20 e as decisões dele no chat foram aplicadas no mesmo dia (ver [a decisão](/decisoes/2026-11-20-cap49-comentarios-em-lote.md)). Contagem: **3.564 palavras**, acima dos 3.200 sugeridos pelo Arquiteto de Densidade; o autor aceitou e o corte é opcional.
 
 ## Resumo
 

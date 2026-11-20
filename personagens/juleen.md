@@ -20,7 +20,7 @@ burgos de baixo ("periféricos" até 2026-11-20; canon 2026-08-16: a linguagem d
 > ⚠️ **As seções históricas abaixo, até "Canon do cap. 49 revisado" (2026-11-20), estão superadas onde divergem dela.** O enforcamento saiu do "cap. 32" e está no cap. 49, na Metrópole; não há acusação de humanidade, nem "irmãos na pedreira", nem burgo de humanos fora da muralha; Juleen é mãe coagida e paga.
 
 - **Cap. 4**: Dagmar toma o **chá de cascas de vembra** que Juleen prepara
-  ("as curandeiras usam muito nos burgos periféricos para aliviar as dores
+  ("as curandeiras usam muito nos burgos de baixo para aliviar as dores
   e afrouxar o ventre") — é o abortivo que, **acumulado**, matará Dagmar e
   Saboc. Nolan a dispensa por desprezo de classe ("serviçal periférica
   cujos precedentes eu sequer conheço"; "aia de casta baixa... jamais

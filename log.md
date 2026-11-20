@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-20 (Mini-INGEST do cap. 49 conferido contra a main)
+
+- Pergunta do autor: o Mini-INGEST precisa de ajuste? A main ganhou os PRs #9 e #10 (a caçada de Kate saiu do prólogo para o cap. 6); a branch os trouxe por merge, com conflitos em `index.md`, `log.md` e `temas/esquema-l1.md` resolvidos mantendo os dois lados.
+- Ajustado: cap. 49 em **3.564** palavras (o L57 acrescentou uma) e acumulado dos caps. 0–49 em **126.698** (126.593 do Mini-INGEST, mais 1 do L57 e 104 da mudança de Kate), ainda 92,1%, na ficha, no esquema e na decisão do lote; a citação do cap. 4 na ficha de Juleen passou a "burgos de baixo". Visuais, sementes, canon e fronteira conferidos contra o texto atual, sem outras diferenças.
+
 ## 2026-11-20 (cap. 49, L57: "a qual deus")
 
 - Correção do autor: a sugestão de review do L57 ("qual a deus") queria dizer "a qual deus"; eu tinha mantido "qual deus". O texto passou a "para saberem a qual deus devem incensar pela manhã" (cap. 49: +1 palavra). Atualizadas as duas decisões que registravam o "qual deus" mantido (`decisoes/2026-11-20-cap49-comentarios-em-lote.md` e `decisoes/2026-11-20-claude-resolve-threads-de-review.md`).

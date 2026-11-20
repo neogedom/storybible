@@ -74,7 +74,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 46       | Vilões se Aproximam                 | Kate         | —                      | ~84,7%               | 2.186    |
 | 47       | Tudo Está Perdido (inferido)        | Mário        | —                      | ~87,2%               | 2.433    |
 | 48       | Tudo Está Perdido (inferido)        | Nolan        | —                      | ~89,5%               | 3.180    |
-| 49       | Tudo Está Perdido (inferido)        | Nolan        | —                      | ~92,1%               | 3.563    |
+| 49       | Tudo Está Perdido (inferido)        | Nolan        | —                      | ~92,1%               | 3.564    |
 | 50       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 1.033    |
 | 51       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 999      |
 | 52       | Noite Escura da Alma (inferido)     | Mário        | —                      | a recalcular         | 1.413    |
@@ -119,7 +119,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 > total do cap. 45 da nota de 2026-11-08. Fecha em decisão (plano da travessia);
 > corte D, como o 45. Este Mini-INGEST não replaneja o mapa.
 
-> **Atualização 2026-11-20 — Mini-INGEST do cap. 49.** O manuscrito atual tem **3.563 palavras** (contagem por tokens separados por espaço), acima dos 3.200 que o Arquiteto de Densidade sugeriu; o autor aceitou e o corte é opcional. Na recontagem direta dos arquivos, o acumulado dos caps. 0–49 é **126.593 palavras (92,1%)** na régua de 137.500 (os totais anteriores usavam contagens antigas dos caps. 43 a 48; a coluna Palavras dos caps. 47 a 66 e do epílogo foi atualizada e a coluna % Real dos caps. 47 e 48 foi preenchida). Fecha em decisão irrevogável (Nolan enforca Juleen); corte **C**, logo após o golpe, com a consequência simples e visível (o choro das crianças). O cap. 59 foi a **949 palavras** (907 antes) com o parágrafo em que Nolan registra "mundo" (L23, decisão do autor, 2026-11-20). Este Mini-INGEST não replaneja o mapa.
+> **Atualização 2026-11-20 — Mini-INGEST do cap. 49.** O manuscrito atual tem **3.564 palavras** (contagem por tokens separados por espaço; eram 3.563 no Mini-INGEST, e o L57 acrescentou uma), acima dos 3.200 que o Arquiteto de Densidade sugeriu; o autor aceitou e o corte é opcional. Na recontagem direta dos arquivos, o acumulado dos caps. 0–49 é **126.698 palavras (92,1%)** na régua de 137.500 (eram 126.593 no Mini-INGEST, mais 1 palavra do L57 e as 104 da mudança da caçada de Kate para o cap. 6, na nota seguinte; os totais anteriores usavam contagens antigas dos caps. 43 a 48; a coluna Palavras dos caps. 47 a 66 e do epílogo foi atualizada e a coluna % Real dos caps. 47 e 48 foi preenchida). Fecha em decisão irrevogável (Nolan enforca Juleen); corte **C**, logo após o golpe, com a consequência simples e visível (o choro das crianças). O cap. 59 foi a **949 palavras** (907 antes) com o parágrafo em que Nolan registra "mundo" (L23, decisão do autor, 2026-11-20). Este Mini-INGEST não replaneja o mapa.
 
 > **Atualização 2026-11-20 — caçada de Kate do Prólogo para o cap. 6.** O
 > Prólogo passa de 2.948 para **1.488 palavras** (a Praça e o espasmo de Kate; a
