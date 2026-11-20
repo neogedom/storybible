@@ -1,5 +1,9 @@
 # Log de Atualizações
 
+## 2026-11-20 (cap. 60: guarda civil da cidade)
+
+- Pedido do autor: trocar também no cap. 60, L43, "guarda civil de Valinor" por "guarda civil da cidade". Canon dado por ele: o Rei comanda a guarda civil, uma divisão inferior; os Espadas da Lei são a divisão de elite. Atualizados `conceitos/glossario.md`, `lugares/metropole.md` e a decisão do lote. O inbox ganhou os rascunhos das opções (b) e (c) da inferência de Nolan.
+
 ## 2026-11-20 (PR #20: guarda civil, desdém de Nuh e a inferência de Nolan)
 
 - Observações do autor (chat): "de Valinor" confundiria a guarda civil com os Espadas da Lei (treinados pelos Addorbek; Valinor é o general deles), então o cap. 49, L97, passa a "guarda civil da cidade" (o cap. 60, L43, ainda diz "de Valinor", texto do autor). O "a tal apoteose", com desdém, é intencional e prepara o pensamento de Nolan no L21, que ganhou "Agora o próprio Nuh desdenhava dela. Pena que o velho não o tivesse ouvido naquele dia." A inferência "mesma língua, mesmo lugar" fica como hipótese; consequências avaliadas na decisão do lote e no inbox.
