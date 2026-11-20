@@ -1,14 +1,14 @@
 ---
 type: Decision
 title: Cap. 49, comentários do autor aplicados em lote (2026-11-20)
-description: O que o lote dos 31 comentários do cap. 49 resolveu no texto, o que ficou para o autor (reordenar o capítulo, o diário, o mandante de Juleen) e as incongruências a jusante achadas na avaliação.
+description: O que o lote dos 31 comentários do cap. 49 resolveu no texto, o que o autor decidiu depois no chat (reordenação, fecho do 47, diário, unção, Gerdialias, Juleen coagida) e as incongruências a jusante resolvidas. Fica em aberto só o mandante de Juleen.
 tags: [decisao, cap-49, lote, nuh, juleen, mira, diario, koda]
 timestamp: 2026-11-20T12:00:00-03:00
 ---
 
 # Cap. 49: comentários do autor em lote (2026-11-20)
 
-> O autor pediu para avaliar e resolver os 31 comentários `(* ... )` do cap. 49. A avaliação usou três subagentes (coerência com o canon, em duas frentes, e densidade). **Tudo o que está abaixo foi aplicado no livro como proposta, em commits separados, para o autor aceitar ou desfazer no PR.** Só vale como decisão do autor o que ele confirmar.
+> O autor pediu para avaliar e resolver os 31 comentários `(* ... )` do cap. 49. A avaliação usou três subagentes (coerência com o canon, em duas frentes, e densidade). O lote foi aplicado no livro em commits separados e **aceito pelo autor no chat em 2026-11-20 ("Aceito suas propostas")**; as decisões que ele deu depois estão na seção "Decidido pelo autor no chat". Fica em aberto só o mandante de Juleen.
 
 ## Aplicado no texto
 
@@ -43,31 +43,37 @@ timestamp: 2026-11-20T12:00:00-03:00
 
 **Outros ajustes de canon:** a fala-plant aprovada em 2026-09-19 ("Primeiro só queriam saber da casa. Depois quiseram o resto!") entrou; Juleen pede também "testemunhas" (cap. 56); a fala de Nuh que fechava em máxima ganhou um fecho concreto ("A Ordem não escreverá ao Conselho."); as ordens a favor de Mário (cela seca, guarda pessoal, água e comida, custódia pela chancelaria) passaram para **antes** do crime, no palacete, dadas diante de Saboc.
 
-## Ficou para o autor
+## Decidido pelo autor no chat (2026-11-20, depois do lote)
 
-1. **Comentário 1: reordenar o capítulo?** A avaliação recomenda **não**. O enforcamento é "ontem à tarde" nos caps. 56 e 59, "naquela tarde" no epílogo, e o cap. 50 chega no fim da mesma tarde; mover custaria cerca de 10 linhas nos caps. 52, 53, 56, 59 e epílogo. Os caps. 43 a 48 mostram aliança tática, não "espiral de redenção". O reforço aplicado: o cuidado com Mário vem antes da queda. A alternativa de uma cena de Nolan com Genocydo antes do crime foi avaliada e rejeitada (de +300 a +450 palavras; colide com 53:59 e 58:35). Marcador mantido.
-2. **Comentário 29: fecho do cap. 47 com as muralhas.** O 47 fecha de noite, na serra; a chegada é no fim da tarde seguinte. Recomendação: não fechar o 47 assim; opcional, até 40 palavras no começo do 50. Marcador mantido.
-3. **Comentário 31 (decidido pelo autor, 2026-11-20):** escolhida a cena curta de Layla (opção b), no jardim do palacete, com o plano de três meses de reconhecimento e ensaio e a execução quando Nolan voltou. A ponte anterior ("pacote deixado semanas antes") foi substituída, porque deixaria o rei semanas sem o diário. Fica opcional uma linha de Layla no cap. 53 e um gesto do rei no cap. 54.
-4. **Koda e o mandante (26).** Tensão real: `decisoes/mandante-juleen-alvo-linhagem.md` diz Terbs via Benjamim e "nunca resolver o mandante em cena"; já o cap. 48 mostra Koda escondendo "os despachos que chegavam do porto sul" e o cap. 49 põe "um homem da tesouraria" com "cartas com o selo do porto sul" (`lugares/porto-sul.md` já liga os dois). Não há motivo registrado para Koda ou Alavria quererem o herdeiro morto. Hipótese (inferência): a união Guenayer × Addorbek (burocracia e exército de fogo) é a dinastia capaz de impedir que o Reino vire província, e os Guenayer já recusaram Alavria (cap. 48). Escolher: Terbs/Benjamim, Koda/Alavria ou pista falsa.
-5. **"Matariam meus filhos"** faz de Juleen uma mãe coagida; o canon diz "paga, competente e fria".
-6. **A unção da Festa da Poda:** quem é ungido e o que a unção sela. Possível payoff: o "conselheiro idoso" do cap. 66 ser Nuh.
-7. **"A Ordem responde a Nuh":** plantar no cap. 28 (L123) ou abandonar; hoje o cap. 49 só diz "no Conselho, quem fala por Vonos é você".
-8. **Nuh, Mário e o trono:** o cap. 49 foi escrito para **não** nomear Mário na fala de Nuh (evita repetir o cap. 27 e antecipar o 54, e preserva "sem que ele perceba", de `personagens/nolan.md`).
+Respostas do autor à lista de pendências, por número, e o que foi aplicado:
 
-## Incongruências a jusante (não tocadas)
+1. **Comentário 1 (reordenar):** não reordenar ("Aceito suas propostas"). Marcador removido do cap. 49.
+2. **Comentário 29 (fecho do cap. 47 com as muralhas):** o 47 não muda. Abertura de 35 palavras no cap. 50 (L1): "Na última dobra da serra, a forquilha sob o queixo obrigou Mário a erguer a cabeça. A Metrópole estava lá embaixo: muralhas cinzentas, torres de calcário, a fumaça de mil chaminés deitada sobre os telhados." O Monólito fica de fora da vista de longe, porque o cap. 50 o reserva (L29 a L33) e ele está apagado (cap. 48, L35). Marcador removido.
+3. **Comentário 31 (diário):** opção b, a cena curta de Layla (já aplicada). Fechamento: cap. 53, L17 (Layla: "Do caderno ele não perguntou. Enquanto Benjamim não sair do lado dele, ninguém dá falta de nada.") e cap. 54, L29 (Genocydo olha o livro de contas ao lado da bacia de prata, estende a mão e a recolhe). "Na capa" virou "na folha de rosto" (54:27).
+4. **Koda e o mandante (26):** "pista falsa" fica fora (exigiria outra semente). **Segue em aberto** entre Benjamim e Koda, com prós e contras no inbox. No cap. 49 Nolan não nomeia ninguém.
+5. **"Matariam meus filhos":** aceito. Juleen é **mãe coagida e paga**; a leitura "paga, competente e fria" cai (`decisoes/mandante-juleen-alvo-linhagem.md`, `personagens/juleen.md`).
+6. **A unção da Festa da Poda:** é a **preparação para a apoteose**; por isso Genocydo quer tanto a blasfêmia de Mário ("antes da Festa da Poda", disse o autor; o cap. 54 a põe no cadafalso da própria Festa). Cap. 49, L15: "para que se prepare, para a Festa da Poda, o óleo da unção que antecede a apoteose". Os óleos são do Templo (Vonos) e a apoteose é de Terbs: a ideia se sustenta (`lugares/metropole.md`). O "conselheiro idoso" do cap. 66 só coroa Mário, sem óleo; ser Nuh e derramar o óleo é payoff opcional, **não aplicado**.
+7. **"A Ordem responde a Nuh":** plantado no cap. 28, L123 ("A Ordem responde ao Sumo Sacerdote, senhor. Cuide dos seus negócios. Eu cuido dos de Vonos."); no cap. 49, L31, Nolan reconta a frase a Nuh.
+8. **Gerdialias:** a menção a humanos fica (caps. 53, L35, e 58, L45). Eles vazam pelos muros e Nolan não precisa saber: no cap. 53 só registra a perda dos pátios (L37). A proposta de humanos de serviço licenciados foi descartada.
+9. **Marido humano e filhos mestiços:** Nolan **não descobre**.
+10. **Cap. 4 (Dagmar visitou a casa de Juleen):** vira canon.
+11. **Nuh, Mário e o trono:** Nuh não nomeia Mário (aceito).
+12. **Demais propostas do lote** (marcos de pedra, chocalho, "Eu só pagava o templo", "Chame testemunhas!", "sem pressa", Mathias dá o endereço, cena de Mira, ordens antes do crime, glosa do Poço das Correntes): aceitas ("Aceito suas propostas").
 
-- **Cap. 50, L9:** a multidão já sabe que Mário "ressuscitara o próprio filho do magistrado", o que fere "só Nuh sabe" (decisão de 2026-11-14).
-- **Cap. 52, L29:** Mário cita "Nolan que enforcava aias" antes de qualquer fonte na cena (Gunad não toca no assunto; Layla só visita no 53).
-- **Cap. 59, L31:** "sem testemunhas" com o marido e os filhos presentes; talvez "sem testemunhas de defesa".
-- **Caps. 53 (L19–21) e 58 (L35):** "Confirmou a pauta" e "sem a minha convocação assinada" já se contradizem.
-- **Guardas:** "municipal", "civil", "de Genocydo" e "da chancelaria" (49, 50:3, 50:43, 53:11).
-- **Ficha de Nuh e `conceitos/vonos.md` (L56):** a ficha dizia que Nuh sabe que Vonos "trouxe" Genocydo, o que o cap. 52 só revela a Mário; o cap. 49 evita pôr isso na boca de Nuh.
+## Incongruências a jusante (resolvidas em 2026-11-20)
+
+- **Cap. 50, L11:** o boato já não diz que Mário "ressuscitara o próprio filho do magistrado Nolan"; agora "devolvera à mãe um menino já velado" (só Nuh sabe de Saboc).
+- **Cap. 52:** Mário deixa de citar "Nolan que enforcava aias" sem fonte (L29); Gunad traz a notícia (L61): enforcou a aia da casa dele por causa de um veneno, numa viga de depósito, no burgo baixo, sem tribunal, com quatro criaturas de casca escura na porta, e o bairro ouviu os filhos dela chorarem.
+- **Cap. 59, L31:** "sem testemunhas de defesa" (a família estava presente).
+- **Caps. 53 (L19 a L21) e 58 (L35):** o rei confirmou a hora da assembleia, mas não assinou a convocação ("acha que a palavra dele basta"); a intimação saiu pela chancelaria. O cap. 58 não mudou.
+- **Guardas:** "guarda civil" (cap. 49, L89; cap. 50, L3; já usado nos caps. 50, 53, 60 e 63). Os outros termos ficam por função: "guardas de Genocydo" (a guarda do rei), "guardas da chancelaria" (a guarda pessoal de Nolan), Espadas da Lei (a elite de Valinor) e "infantaria municipal" (cap. 53, L25).
+- **Ficha de Nuh e `conceitos/vonos.md` (L56):** ajustadas (a ficha dizia que Nuh sabe que Vonos "trouxe" Genocydo, o que só chega a Mário no cap. 52).
 
 ## Segregação por baixo (decisões do autor no chat, 2026-11-20)
 
 1. **A comparação "versão feia da Cidadela" não vem de Nolan.** Se ele soubesse que há humanos dentro da Metrópole, mandaria expulsar. Vem de Orval (cap. 41), que lecionou vinte anos na Academia da Metrópole e diz que "fiscal nenhum desce" aos burgos de baixo. A proposta de pensamento de Nolan no cap. 42 foi **descartada**.
-2. **O marido de Juleen pode ser humano** e os filhos são mestiços. Aplicado no cap. 49 de modo que Nolan **não saiba**: o marido risca uma pederneira e Nolan pensa "Um gnock", como chamou Genocydo no cap. 7.
+2. **O marido de Juleen é humano** e os filhos são mestiços. No cap. 49 Nolan **não sabe**: o marido risca uma pederneira e Nolan pensa "Um gnock", como chamou Genocydo no cap. 7.
 3. **"Burgos de baixo"** no lugar de "burgos periféricos" (cap. 4).
-4. **Cap. 4:** Nolan suspeita ("Essa garota é humana?"), Dagmar a defende e diz que foi conhecer a casa dela, Nolan a censura por ter ido "entre eles" e ela corta ("Entre quem, Nolan?"). Dagmar visitar a casa de Juleen é fato novo, a validar.
-5. **Em aberto:** o Gerdialias (caps. 53 e 58) já tem "moradores humanos" e Nolan lê isso sem reagir. Conciliação proposta: humanos de serviço licenciados, que Nolan conhece e tolera, e a mistura residencial dos burgos de baixo, que ele ignora. Alternativa: uma frase no cap. 53, L37, em que ele registra a palavra "humanos" dentro da muralha e adia.
-6. **Em aberto:** o que Nolan faz se descobrir o marido humano e os filhos mestiços (expulsá-los? seria coerente com o "sem testemunhas" do cap. 59). Hoje, no cap. 49, ele não descobre.
+4. **Cap. 4:** Nolan suspeita ("Essa garota é humana?"), Dagmar a defende e diz que foi conhecer a casa dela, Nolan a censura por ter ido "entre eles" e ela corta ("Entre quem, Nolan?"). **Canon.**
+5. **Gerdialias:** decidido (item 8 acima).
+6. **Se Nolan descobrir o marido humano:** decidido, ele não descobre (item 9 acima).

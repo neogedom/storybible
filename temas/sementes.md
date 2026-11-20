@@ -119,7 +119,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 6. Juleen e a Morte de Dagmar
 
-> **Status (2026-11-20, cap. 49 revisado) (a validar pelo autor no PR):** a descoberta e o enforcamento acontecem no cap. 49, no mesmo dia: Mira diz o cheiro de vembra no palacete, Mathias dá o endereço, Nolan vai ao depósito de salitre. Layla não participa; o plantio 3 ("chá de melissa", na estrada) está **substituído**; a fala-plant do plantio 5 entrou. Ver `decisoes/2026-11-20-cap49-comentarios-em-lote.md`.
+> **Status (2026-11-20, cap. 49 revisado) (aceito pelo autor no chat):** a descoberta e o enforcamento acontecem no cap. 49, no mesmo dia: Mira diz o cheiro de vembra no palacete, Mathias dá o endereço, Nolan vai ao depósito de salitre. Layla não participa; o plantio 3 ("chá de melissa", na estrada) está **substituído**; a fala-plant do plantio 5 entrou. Ver `decisoes/2026-11-20-cap49-comentarios-em-lote.md`. Decidido pelo autor no chat (2026-11-20): "matariam meus filhos" fica (Juleen é mãe coagida e paga); Nolan não descobre que o marido é humano; o mandante segue em aberto, entre Benjamim e Koda (`insights/_inbox.md`).
 
 > **Status (2026-10-04): a cena saiu do meio do L1.** Nolan **não volta à Metrópole** — ele sobe atrás do Estrangeiro e chega à Mina pelo Espinhaço. A descoberta da vembra acontece **na volta** (Mira, no banco da carroça) e o **enforcamento de Juleen** vai para o **bloco final da Metrópole**, em paralelo ao Caixão do Mário. Ver `decisoes/jornada-nolan-acre-2026-10-03.md` (§4 e §12).
 > ⚠️ **As datas abaixo são históricas.** Onde se lê "cap. 32", leia: **o bloco final da Metrópole**.ir). Os plantios 3+ e o enforcamento (cap. 32) aguardam a realocação.
@@ -374,7 +374,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 ## 15. O Diário de Genocydo — a Revelação de Kraviam
 
-> **Status (2026-11-20, cap. 49) (a validar pelo autor no PR):** o diário chega a Nolan numa cena curta de Layla no jardim do palacete (opção escolhida pelo autor): ela o troca, depois de três meses de ensaio, por um livro de contas de capa igual. Nolan não lê a língua e o manda à cela de Mário junto com o livro estranho, "para saber se os lê" (cap. 49; cap. 50: "dois volumes"). Detalhes em `personagens/layla.md`.
+> **Status (2026-11-20, cap. 49) (aceito pelo autor no chat):** o diário chega a Nolan numa cena curta de Layla no jardim do palacete (opção escolhida pelo autor): ela o troca, depois de três meses de ensaio, por um livro de contas de capa igual. Nolan não lê a língua e o manda à cela de Mário junto com o livro estranho, "para saber se os lê" (cap. 49; cap. 50: "dois volumes"). Detalhes em `personagens/layla.md`. Fechado em 2026-11-20: cap. 53, L17 (Layla: o rei não perguntou pelo caderno) e cap. 54, L29 (o rei olha o livro de contas ao ouvir Mário).
 
 - **Plantio**: L1, caps. 10 e 14 — Layla rouba o diário de Genocydo; Nolan o
   queria para subverter o Conselho (obtém tardiamente).

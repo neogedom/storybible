@@ -52,10 +52,11 @@ nem o rascunho do cap. 49 nesta fase.
   transformar o milagre em prova que encerra o conflito nem em ferramenta de
   vitória.
 
-## Realizado no cap. 49 (2026-11-20) (a validar pelo autor no PR)
+## Realizado no cap. 49 (2026-11-20) (aceito pelo autor no chat)
 
 - A cobrança entrou no cap. 49, com o que Nolan viu em Tronk (cap. 28), o Escriba-Mestre do prólogo, o selo da Ordem em Devour (cap. 19) e o "Estrangeiro" dito só por Nuh no Conselho (cap. 14).
 - Nuh pergunta por Saboc no fim da cena, sem Saboc presente: "Quanto tempo ele passou no Rohdis antes de voltar? E quem o viu voltar?". Nolan não responde.
+- **Plantio no cap. 28 (2026-11-20, aceito pelo autor):** o escriba diz "A Ordem responde ao Sumo Sacerdote, senhor. Cuide dos seus negócios. Eu cuido dos de Vonos"; no cap. 49, Nolan reconta a frase a Nuh ("a Ordem responde a você").
 - Detalhes em `personagens/nuh-dteraghar.md` e `decisoes/2026-11-20-cap49-comentarios-em-lote.md`.
 
 ## Conexões

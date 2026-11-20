@@ -40,7 +40,7 @@ timestamp: 2026-09-25T12:00:00-03:00
   na Metrópole, porque a mala não persegue o viajante.
 - Ver `decisoes/jornada-nolan-acre-2026-10-03.md`.
 
-## Resolvido no cap. 49 (2026-11-20) (a validar pelo autor no PR)
+## Resolvido no cap. 49 (2026-11-20) (aceito pelo autor no chat)
 
 - **Onde:** no palacete, no mesmo dia do Santuário (cap. 49); não na estrada.
 - **Quem fala:** Mira, de passagem, sem acusar ninguém; **Nolan liga os pontos**

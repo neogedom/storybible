@@ -70,8 +70,15 @@ cena**: o leitor fica com a fala-plant do cap. 32 e nada mais.
 - Não transformar Benjamim em onisciente: o canal dele é o Rei, os resultados
   públicos da corte e o livro privado da aia. Não é o correio (correção de
   canon 2026-09-19).
-- Não dar a Juleen arrependimento expiatório: ela é paga, competente e fria —
-  a fissura aparece só na hora de morrer, e é pedido, não confissão.
+- Não dar a Juleen arrependimento expiatório: ela é paga, competente e fria — a fissura aparece só na hora de morrer, e é pedido, não confissão. **Revisto em 2026-11-20:** Juleen é também mãe coagida ("matariam meus filhos"); o pedido de processo continua sendo pedido, não confissão.
+
+## Atualização 2026-11-20 (cap. 49 escrito e revisado)
+
+- **A cena do enforcamento está no cap. 49** (antes "cap. 32"); a fala-plant entrou ("Primeiro só queriam saber da casa. Depois quiseram o resto!").
+- **Juleen é mãe coagida e paga (decisão do autor, 2026-11-20).** O texto traz "moedas de prata com as bordas raspadas" e "matariam meus filhos". A linha "paga, competente e fria" fica superada.
+- **O texto aponta para a tesouraria e o porto sul:** "Um homem da tesouraria! Trazia cartas com o selo do porto sul!". Nolan não nomeia ninguém ("nenhum que ele pudesse nomear sem prova"). Esse apontamento não existia no canon de 2026-09-19.
+- **Mandante em aberto de novo:** Terbs via Benjamim (canon de 2026-09-19) ou Koda/Alavria. "Pista falsa" descartada pelo autor, porque exigiria outra semente. Prós, contras e recomendação em `insights/_inbox.md` ("Koda, o porto sul e o mandante de Juleen").
+- A regra de risco continua: **nunca resolver o mandante em cena no L1**, nem por dedução de Nolan.
 
 ## Arquivos afetados
 
