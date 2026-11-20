@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-20 (cap. 59: Nolan registra "mundo")
+
+- Decisão do autor: opção (b) da inferência de Nolan. Livro: cap. 59, L23, parágrafo novo (Nolan retém "mundo", lembra o "juristas do seu mundo" do cap. 56, L43 e nota que ninguém na sala o percebeu); o capítulo vai de 907 a 949 palavras. A opção (c) e o ajuste de redação do 49:93 não foram aplicados; o ajuste aguarda o sim do autor.
+- Atualizados: `insights/_inbox.md`, `decisoes/2026-11-20-cap49-comentarios-em-lote.md`, `temas/{sementes,esquema-l1}.md`, `capitulos/capitulo-49.md`.
+
 ## 2026-11-20 (inferência de Nolan: opções detalhadas e âncoras corrigidas)
 
 - Pedido do autor: explicar melhor as duas opções da inferência "mesma língua, mesmo lugar". O inbox e a decisão do lote ganharam as âncoras corretas (a ordem "Quero saber se os lê" está em 49:101 e os livros aparecem na cela em 50:49; constava 50:47), o plantio do cap. 56, L43 ("juristas do meu mundo"), os rascunhos revistos de (b) e (c) e um ajuste de redação sugerido para o 49:93 (boato versus inferência). Nada foi aplicado ao texto do livro; a escolha é do autor.
