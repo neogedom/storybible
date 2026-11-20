@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-20 (PR #20: 46 comentários de review do autor, em lote)
+
+- A pedido do autor ("rode"), os 46 comentários de review do PR do Livro (44 no cap. 49, 1 no cap. 50 e 1 no cap. 54) entraram em lote. Nada foi respondido nem resolvido nas threads do GitHub.
+- Livro: sete commits (cena de Nuh; cena de Layla; ordens, Mira e a vembra; Mathias e o armazém; cap. 4, Dagmar e Mathias; cap. 54, o espaço vazio na mesa de cabeceira; cap. 54, Kraviam americano, filho de brasileiros). O cap. 49 vai a 3.543 palavras. O autor também removeu a frase de Orval no cap. 41 (commit 465dc70), e a branch foi mesclada sem reescrever histórico.
+- Storybible: `decisoes/2026-11-20-cap49-comentarios-em-lote.md` (nova seção "Revisão do PR #20"), `capitulos/capitulo-49.md` e o esquema (contagens e linhas), `personagens/{nuh-dteraghar,layla,mathias,dagmar,juleen,mira,genocydo}.md`, `conceitos/{vonos,segregacao,glossario}.md`, `lugares/{metropole,cidadela-de-gus}.md`, `temas/sementes.md`, `insights/_inbox.md`, `visuais/{layla,mira,mathias}.md`. Canon novo: Kraviam é americano, filho de brasileiros; Mathias acompanhou Dagmar à casa de Juleen; a cela dos presos nobres na Torre dos Ventos; "guarda civil de Valinor" e "chancelaria" no glossário. Saíram do texto: a fresta "o caminho passa pelo trono" (Nuh), a troca por um livro de contas (Layla) e a frase de Orval (cap. 41).
+
 ## 2026-11-20 (mandante de Juleen: Koda, sem pistas no texto)
 
 - Decisões do autor (no chat): o texto do cap. 49 não aponta o mandante (Juleen não sabe nomes; Nolan lista Nuh, Benjamim, Lupe'i, Genocydo, Koda e Alavria); na storybible, o mandante é Koda, com revelação no L2.
