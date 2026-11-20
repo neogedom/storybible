@@ -84,7 +84,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 56       | Noite Escura da Alma (inferido)     | Mário        | —                      | a recalcular         | 1.262    |
 | 57       | Noite Escura da Alma (inferido)     | Kate         | —                      | a recalcular         | 1.025    |
 | 58       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 1.127    |
-| 59       | Break Into 3 (inferido)             | Nolan        | —                      | a recalcular         | 907      |
+| 59       | Break Into 3 (inferido)             | Nolan        | —                      | a recalcular         | 949      |
 | 60       | Break Into 3 (inferido)             | Kate         | —                      | a recalcular         | 920      |
 | 61       | Break Into 3 (inferido)             | Mário        | —                      | a recalcular         | 876      |
 | 62       | Break Into 3 (inferido)             | a confirmar  | —                      | a recalcular         | 759      |
@@ -119,7 +119,7 @@ timestamp: 2026-09-10T12:00:00-03:00
 > total do cap. 45 da nota de 2026-11-08. Fecha em decisão (plano da travessia);
 > corte D, como o 45. Este Mini-INGEST não replaneja o mapa.
 
-> **Atualização 2026-11-20 — Mini-INGEST do cap. 49.** O manuscrito atual tem **3.563 palavras** (contagem por tokens separados por espaço), acima dos 3.200 que o Arquiteto de Densidade sugeriu; o autor aceitou e o corte é opcional. Na recontagem direta dos arquivos, o acumulado dos caps. 0–49 é **126.593 palavras (92,1%)** na régua de 137.500 (os totais anteriores usavam contagens antigas dos caps. 43 a 48; a coluna Palavras dos caps. 47 a 66 e do epílogo foi atualizada e a coluna % Real dos caps. 47 e 48 foi preenchida). Fecha em decisão irrevogável (Nolan enforca Juleen); corte **C**, logo após o golpe, com a consequência simples e visível (o choro das crianças). Este Mini-INGEST não replaneja o mapa.
+> **Atualização 2026-11-20 — Mini-INGEST do cap. 49.** O manuscrito atual tem **3.563 palavras** (contagem por tokens separados por espaço), acima dos 3.200 que o Arquiteto de Densidade sugeriu; o autor aceitou e o corte é opcional. Na recontagem direta dos arquivos, o acumulado dos caps. 0–49 é **126.593 palavras (92,1%)** na régua de 137.500 (os totais anteriores usavam contagens antigas dos caps. 43 a 48; a coluna Palavras dos caps. 47 a 66 e do epílogo foi atualizada e a coluna % Real dos caps. 47 e 48 foi preenchida). Fecha em decisão irrevogável (Nolan enforca Juleen); corte **C**, logo após o golpe, com a consequência simples e visível (o choro das crianças). O cap. 59 foi a **949 palavras** (907 antes) com o parágrafo em que Nolan registra "mundo" (L23, decisão do autor, 2026-11-20). Este Mini-INGEST não replaneja o mapa.
 
 > **Recontagem 2026-10-09, baseada nos manuscritos atuais.** A coluna
 > **Palavras** foi conferida nos arquivos `Livro 1/capituloN.md` com

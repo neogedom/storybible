@@ -41,7 +41,7 @@ Na tarde da chegada de Mário, Nolan vai ao Santuário de Vonos cobrar de Nuh d'
 ## Sementes e Conexões
 
 - **#6 (Juleen e a morte de Dagmar):** realizada. A fala-plant ("Primeiro só queriam saber da casa. Depois quiseram o resto!") e a ameaça aos filhos: Juleen é mãe coagida e paga (decisão do autor, 2026-11-20). Mandante: **Koda** (canon, decisão do autor, 2026-11-20; revelação no L2). Em cena, Juleen não sabe nomes e Nolan lista Nuh, Benjamim, Lupe'i, Genocydo, Koda e Alavria sem nomear ninguém (L171).
-- **#15 (o diário de Genocydo):** chega a Nolan por Layla; vai à cela de Mário (cap. 50: "dois volumes"); o rei não deu falta (cap. 53, L17) e olha o espaço vazio ao lado da bacia de prata ao ouvir Mário (cap. 54, L29).
+- **#15 (o diário de Genocydo):** chega a Nolan por Layla; vai à cela de Mário (cap. 50: "dois volumes"); o rei não deu falta (cap. 53, L17) e olha o espaço vazio ao lado da bacia de prata ao ouvir Mário (cap. 54, L29); no cap. 59, L23, Nolan registra "mundo" quando Mário diz "do mesmo mundo" (L19).
 - **#26 (Saboc):** Nuh pergunta quanto tempo ele passou no Rohdis.
 - **#33 (a apoteose):** o óleo da unção do Templo (Vonos) prepara a apoteose que é de Terbs; Nuh não sabe (`lugares/metropole.md`).
 - **A Ordem responde ao Sumo Sacerdote:** plantada no cap. 28 (2026-11-20) e cobrada aqui.
