@@ -39,7 +39,7 @@ Saboc** (cap. 22). Conhece ervas — é ela quem reconhece o veneno.
   Metrópole (Noite Escura: "Nolan, movido pelo filho Saboc, leva água e comida
   escondido" ao calabouço de Mário).
 - O filho morto dela é só fundo — nunca mencionado no texto.
-- **Cap. 49 (2026-11-20) (a validar pelo autor no PR): a revelação acontece na Metrópole, no
+- **Cap. 49 (2026-11-20) (aceito pelo autor no chat): a revelação acontece na Metrópole, no
   palacete.** Depois do Santuário, Nolan diz diante do chocalho de Saboc
   "Dagmar saberia o que fazer com isto"; Mira, sem acusar ninguém, diz que "o
   quarto inteiro cheirava a vembra, de tanto que ela tinha no corpo" e que

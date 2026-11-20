@@ -21,7 +21,7 @@ inteira. Quando Genocydo flerta com Terbs e Cressadar, Nuh racionaliza:
 maior." Não importam os meios, porque os fins são de Vonos. É um **erro
 teológico**, não malícia.
 
-> **Cap. 49 (2026-11-20) (a validar pelo autor no PR):** o erro segue teológico, mas deixa de ser só
+> **Cap. 49 (2026-11-20) (aceito pelo autor no chat):** o erro segue teológico, mas deixa de ser só
 > cegueira: Nuh também **omite de propósito** o que a Ordem registrou sobre o
 > Estrangeiro. A fé é sincera; o silêncio é escolha (ver Arco).
 
@@ -34,14 +34,12 @@ teológico**, não malícia.
   14 não decide se foi espanto ou dissimulação; o cap. 49 relê como
   dissimulação.
 - **L1 (ideia do autor, 2026-09-26; feita no cap. 49 em 2026-11-20)**: a Ordem
-  recusa a Nolan as informações sobre o Estrangeiro (cap. 28: o escriba diz "Eu
-  cuido dos de Vonos"; **o cap. 28 não diz que a Ordem responde a Nuh**, isso
-  vinha de uma versão superada). No cap. 49 Nolan **cobra** a recusa e conclui
-  "no Conselho, quem fala por Vonos é você" — fatura institucional da escada
+  recusa a Nolan as informações sobre o Estrangeiro (cap. 28: o escriba diz "A Ordem responde ao Sumo Sacerdote, senhor. Cuide dos seus negócios. Eu cuido dos de Vonos", frase **plantada em 2026-11-20** a pedido do autor). No cap. 49 Nolan **cobra** a recusa, reconta o que ouviu em Tronk ("a Ordem responde a você") e conclui "No Conselho, quem fala por Vonos também é você" — fatura institucional da escada
   Nolan ↔ Inquiridores
   ([insight](/insights/nolan-cobra-nuh-informacao-negada.md)).
-- **Saboc (decisão do autor, 2026-11-14):** Nuh é o único na Metrópole que sabe que Saboc ressuscitou. Quem lhe contou foi o escriba (a precisar quem). Para a corte, o bebê sobreviveu naturalmente ao parto. **No texto desde o cap. 49 (2026-11-20, (a validar pelo autor no PR)):** no fim da cena Nuh pergunta "Quanto tempo ele passou no Rohdis antes de voltar? E quem o viu voltar?"; Nolan não responde e conclui, pela forma da pergunta (quanto, e não se), que a Ordem já sabia. A fonte do escriba segue sem nome.
-- **Cap. 49: o que Nuh sabia e calou (2026-11-20, (a validar pelo autor no PR)):** sabia desde a noite em que o Monólito falhou ("a Ordem registrou o homem e registrou aonde o caminho dele leva") e calou ao Conselho porque Nolan pedia a cabeça do rei ("o que o Templo registra não vai para quem quer a coroa"). A frase "o trono de que a Ordem fala não..." é cortada por Nolan: **Nuh não nomeia Mário nem diz que Vonos o trouxe** (isso é do cap. 54 e do diário). Lastro no texto: o Escriba-Mestre no prólogo ("ocupando o canal"); o selo da Ordem já em Devour (cap. 19); "o Estrangeiro" dito só por Nuh no Conselho, quando os outros diziam "souhma" (cap. 14, L25); a máscara (cap. 14, L61–63). Nuh continua crendo que "Vonos está no controle" (epílogo e L2 intactos). Nolan errou em 14 ("não era cinismo") e agora duvida.
+- **Saboc (decisão do autor, 2026-11-14):** Nuh é o único na Metrópole que sabe que Saboc ressuscitou. Quem lhe contou foi o escriba (a precisar quem). Para a corte, o bebê sobreviveu naturalmente ao parto. **No texto desde o cap. 49 (2026-11-20, (aceito pelo autor no chat)):** no fim da cena Nuh pergunta "Quanto tempo ele passou no Rohdis antes de voltar? E quem o viu voltar?"; Nolan não responde e conclui, pela forma da pergunta (quanto, e não se), que a Ordem já sabia. A fonte do escriba segue sem nome.
+- **Cap. 49: o que Nuh sabia e calou (2026-11-20, (aceito pelo autor no chat)):** sabia desde a noite em que o Monólito falhou ("a Ordem registrou o homem e registrou aonde o caminho dele leva") e calou ao Conselho porque Nolan pedia a cabeça do rei ("o que o Templo registra não vai para quem quer a coroa"). A frase "o trono de que a Ordem fala não..." é cortada por Nolan: **Nuh não nomeia Mário nem diz que Vonos o trouxe** (isso é do cap. 54 e do diário). Lastro no texto: o Escriba-Mestre no prólogo ("ocupando o canal"); o selo da Ordem já em Devour (cap. 19); "o Estrangeiro" dito só por Nuh no Conselho, quando os outros diziam "souhma" (cap. 14, L25); a máscara (cap. 14, L61–63). Nuh continua crendo que "Vonos está no controle" (epílogo e L2 intactos). Nolan errou em 14 ("não era cinismo") e agora duvida.
+- **O óleo da unção (cap. 49, L15; decisão do autor, 2026-11-20):** Nuh diz que o rei "manda só o recado para que se prepare, para a Festa da Poda, o óleo da unção que antecede a apoteose". O Templo de Vonos vira fornecedor de uma unção cuja apoteose é de Terbs (via Benjamim). Nuh, que crê que a apoteose é plano de Vonos e Benjamim só "o instrumento" (cap. 14), **não sabe** a quem serve o óleo: é o erro teológico dele em ato, e prepara o choque do final do L1. O "conselheiro idoso" do cap. 66 (que coroa Mário, sem óleo) poderia ser Nuh e derramar sobre Mário o óleo preparado para Genocydo; **opcional, não aplicado** (`lugares/metropole.md`).
 - **Final do L1**: Choque teológico: Vonos não estava no controle. Some.
   **Aceito em 2026-11-13:** no epílogo, antes de Benjamim chegar, Nuh pergunta a
   Nolan se ele teve parte no silêncio do Sinal (ver `insights/_inbox.md`).

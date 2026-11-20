@@ -61,7 +61,7 @@ Ver timeline visual completa em [visuais/dagmar.md](/visuais/dagmar.md).
 3. **Cap. 19**: Morre no parto — **causa: chá de cascas de vembra**
    (abortivo) administrado por Juleen. O tapa não a mata; o veneno, sim.
 4. Seu bebê (Saboc) é ressuscitado por Mário no milagre do cap. 20
-5. **Cap. 4 (revisado em 2026-11-20) (a validar pelo autor no PR)**: Nolan lhe pergunta se Juleen é humana. Dagmar responde que não ("acende o fogareiro com a ponta do dedo, como eu"), diz que foi conhecer a casa dela nos burgos de baixo antes de contratá-la e corta a censura dele com "Entre quem, Nolan?". Inferência: viu o marido (humano) e não o disse a Nolan.
+5. **Cap. 4 (revisado em 2026-11-20) (aceito pelo autor no chat)**: Nolan lhe pergunta se Juleen é humana. Dagmar responde que não ("acende o fogareiro com a ponta do dedo, como eu"), diz que foi conhecer a casa dela nos burgos de baixo antes de contratá-la e corta a censura dele com "Entre quem, Nolan?". Inferência: viu o marido (humano) e não o disse a Nolan.
 
 Dagmar morre, e apesar disso o bebê vive. Regra de ouro: milagre tem custo —
 mas o custo é **testemunho, não pagamento**: o bebê não vive "em troca" da

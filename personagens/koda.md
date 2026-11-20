@@ -40,6 +40,7 @@ Alavria.
 2. Cap. 7 e 14: Aprofunda a conspiração com Nolan
 3. Teme por Jo-jo (refém alavriano)
 4. **Revelação a Nolan pós-Gus**: Desmente a ilusão de Nolan na Metrópole; revela que a carta de Nolan não moveu nada: Benjamim trouxe a cessão aos Clãs como mais uma condição da apoteose e Genocydo assinou, e foi o Reino inteiro, não Saramant (aplicado no cap. 48, 2026-11-14; ver `temas/sementes.md` #29). Koda só viu a cessão, porque exigiu selo; das outras condições sabe apenas que existem. Koda entra em pânico porque a barbárie dos Clãs ameaça devorar o Reino antes que a intervenção controlada de Alavria se concretize.
+4b. **Cap. 49 (2026-11-20):** o "homem da tesouraria" com "cartas com o selo do porto sul" que pagou Juleen e os despachos do porto sul que Koda esconde no colete (cap. 48) levam o leitor a Koda. **Mandante aberto** (Benjamim ou Koda); não há motivo de Koda registrado em cena, só a hipótese de que a união Guenayer × Addorbek barraria a anexação por Alavria (`insights/_inbox.md`).
 5. **Consuma a traição no L1 (canon 2026-09-05)**: facilita a entrada dos
    infiltrados de Alavria durante a invasão de Kate à Metrópole — o portão
    que ele ajuda a abrir deixa entrar, junto dos revoltosos, os agentes que

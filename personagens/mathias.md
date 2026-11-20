@@ -88,7 +88,7 @@ Devour.
   Kraviam por categoria (um deus fora do Conselho — ver semente #10), não
   por leitura do texto.
 
-### Capítulo 49 (2026-11-20) (a validar pelo autor no PR)
+### Capítulo 49 (2026-11-20) (aceito pelo autor no chat)
 
 - Guardava o portal do palacete (cap. 4) e sabe onde dorme cada criado: é ele quem diz a Nolan onde Juleen mora. No armazém de salitre fica junto à porta e atinge o marido com o cabo da espada. No vestíbulo recebe as ordens de custódia de Mário e entrega os dois livros à cela.
 

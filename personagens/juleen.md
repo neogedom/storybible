@@ -1,7 +1,7 @@
 ---
 type: Character
 title: Juleen
-description: Aia de Dagmar, leviantar de casta baixa dos burgos periféricos. Administrou o chá de vembra que matou Dagmar e Saboc (abortivo acumulado). Enforcada por Nolan no cap. 49, diante do marido e de duas crianças.
+description: Aia de Dagmar, leviantar de casta baixa dos burgos de baixo, mãe coagida e paga. Administrou o chá de vembra que matou Dagmar e Saboc (abortivo acumulado). Enforcada por Nolan no cap. 49, diante do marido humano e de duas crianças mestiças.
 tags: [personagem, leviantar, aia, dagmar, L1]
 resource: https://github.com/neogedom/storybible/blob/main/personagens/juleen.md
 timestamp: 2026-11-20T12:00:00-03:00
@@ -12,11 +12,12 @@ timestamp: 2026-11-20T12:00:00-03:00
 ## Visão Geral
 
 Aia pessoal de **Dagmar** (esposa de Nolan). Leviantar de **casta baixa** dos
-burgos periféricos (canon 2026-08-16 — a linguagem do cap. 4 é de classe,
-não de espécie; a inversão temática exige que ela NÃO seja humana). Foi a
+burgos de baixo ("periféricos" até 2026-11-20; canon 2026-08-16: a linguagem do cap. 4 é de classe, não de espécie; a inversão temática exige que ela NÃO seja humana). Foi a
 única aia que Dagmar reteve quando dispensou as damas de linhagem.
 
 ## Papel na História
+
+> ⚠️ **As seções históricas abaixo, até "Canon do cap. 49 revisado" (2026-11-20), estão superadas onde divergem dela.** O enforcamento saiu do "cap. 32" e está no cap. 49, na Metrópole; não há acusação de humanidade, nem "irmãos na pedreira", nem burgo de humanos fora da muralha; Juleen é mãe coagida e paga.
 
 - **Cap. 4**: Dagmar toma o **chá de cascas de vembra** que Juleen prepara
   ("as curandeiras usam muito nos burgos periféricos para aliviar as dores
@@ -76,7 +77,7 @@ fora está dentro.
   ela está viva, num burgo de humanos na beira do Cran, pedindo trabalho em
   cozinha de estalagem. É a conta que ele decide fechar com a própria mão.
 
-## Canon do cap. 49 revisado (2026-11-20) (a validar pelo autor no PR)
+## Canon do cap. 49 revisado (2026-11-20) (aceito pelo autor no chat)
 
 - **Onde mora:** num depósito de salitre do curtume, no burgo baixo (dentro da
   muralha, abaixo do Muro Interno), com o marido e duas crianças. Mathias, que
@@ -102,9 +103,8 @@ fora está dentro.
   mandante em cena.
 - **Superado:** a acusação de que ela seria humana (não está no texto); os
   "irmãos na pedreira" (agora, filhos); o burgo de humanos fora da muralha.
-- **Decisão do autor pendente:** "matariam meus filhos" faz dela mãe coagida, em
-  tensão com "paga, competente e fria" (`decisoes/mandante-juleen-alvo-linhagem.md`).
+- **Decidido pelo autor (2026-11-20):** "matariam meus filhos" fica. Juleen é **mãe coagida e paga** (moedas de prata raspadas e ameaça aos filhos); a leitura "paga, competente e fria" cai. O pedido de processo e de testemunhas segue sendo pedido, não confissão (`decisoes/mandante-juleen-alvo-linhagem.md`).
 
-- **O marido é humano (decisão do autor, 2026-11-20) (a validar pelo autor no PR):** os filhos são mestiços (leviantar × humano). Em cena, Juleen acende a vela com a ponta do dedo e o marido risca uma pederneira; Nolan pensa "Um gnock" e não pensa mais nisso, o mesmo rótulo que deu a Genocydo no cap. 7 (Genocydo é humano). Nolan **não sabe** que há humanos nos burgos de baixo.
+- **O marido é humano (decisão do autor, 2026-11-20) (aceito pelo autor no chat):** os filhos são mestiços (leviantar × humano). Em cena, Juleen acende a vela com a ponta do dedo e o marido risca uma pederneira; Nolan pensa "Um gnock" e não pensa mais nisso, o mesmo rótulo que deu a Genocydo no cap. 7 (Genocydo é humano). Nolan **não sabe** que há humanos nos burgos de baixo.
 - **Cap. 4 (revisado em 2026-11-20):** Nolan pergunta se Juleen é humana; Dagmar responde que é leviantar ("acende o fogareiro com a ponta do dedo, como eu") e que foi conhecer a casa dela, nos burgos de baixo, antes de contratá-la. Nolan a censura por ter ido "entre eles"; ela corta: "Entre quem, Nolan?". O cap. 49 fecha o eco: "Dagmar lhe dissera que a aia era leviantar, e estava certa; ele temera a espécie errada."
-- **Em aberto:** o que acontece ao marido e aos filhos depois; se Nolan descobre a espécie do marido (cap. 53, L35: "moradores humanos") e o que faz com ela (ver `decisoes/2026-11-20-cap49-comentarios-em-lote.md`).
+- **Decidido (2026-11-20):** Nolan **não descobre** que o marido é humano; os "moradores humanos" do Gerdialias (cap. 53, L35) não mudam isso. **Em aberto:** o que acontece ao marido e aos filhos depois do cap. 49.

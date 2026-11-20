@@ -34,13 +34,14 @@ por Genocydo** como política de estado.
   (após a Guerra do Grifo) — "cresci ouvindo isso" cobre os anos sob a
   Segregação.
 
-## Na prática: a mistura por baixo (decisões do autor, 2026-11-20) (a validar pelo autor no PR)
+## Na prática: a mistura por baixo (decisões do autor, 2026-11-20) (aceito pelo autor no chat)
 
 - **O edital confina os humanos** em burgos fora da muralha (cap. 48), e a chancelaria trata a Segregação como cumprida dentro dela.
 - **Por baixo, a parede não existe.** Nos burgos de baixo (o curtume e o salitre, o Gerdialias) humanos e leviantares pobres moram, trabalham e bebem do mesmo poço, sem fiscal. Quem diz isso é Orval, na Cidadela (cap. 41): "fiscal nenhum desce até lá".
 - **Nolan não sabe.** O autor decidiu que, se soubesse, mandaria expulsar. Ele suspeita (cap. 4: "Essa garota é humana?"; censura Dagmar por ter ido "entre eles"), mas **rotula como "gnock" quem não tem marca** (cap. 7, Genocydo; cap. 49, o marido de Juleen). O erro de premissa é o mesmo, e o leitor o vê antes dele.
 - **Gus é a versão digna** da mesma mistura: por tese, com ruas calçadas e mestres (cap. 42, L55). Nos burgos de baixo, a mistura é por necessidade, na lama, sem lei.
-- **Gerdialias (proposta de conciliação, decisão do autor):** os "moradores humanos" dos caps. 53 e 58 seriam humanos de serviço licenciados e conhecidos (estalagens, como as "mãos humanas" da taverna do cap. 17); a mistura **residencial** dos burgos de baixo é a que Nolan ignora.
+- **Gerdialias (decisão do autor, 2026-11-20):** os "moradores humanos" dos caps. 53 e 58 ficam como estão. Há humanos lá, vazando pelos muros, e Nolan não precisa saber: no cap. 53 ele ouve a palavra de Layla e só registra a perda dos pátios (L37). A proposta de humanos de serviço licenciados foi **descartada**.
+- **Nolan não descobre** o marido humano nem os filhos mestiços de Juleen (decisão do autor, 2026-11-20).
 
 ## Papel na História
 
