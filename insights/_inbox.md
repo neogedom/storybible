@@ -505,3 +505,13 @@
 - **Em aberto para o L2**: (1) confirmar o motivo (ordem de Alavria, Jo-jo refém, vácuo do trono e anexação); (2) como a "morte redentora" de Koda e a intercessão por Gunad cabem no crime; (3) o encontro Nolan × Koda e Nolan × Gunad; (4) a ironia do epílogo (Nolan aceita o selo de Terbs sem saber que o envenenador era o amigo).
 - **Fair-play já no texto**: a conspiração proposta por Koda (caps. 4, 7 e 14), os despachos do porto sul no colete (cap. 48, L125) e a prata raspada (cap. 49, L183). Opcional, não aplicado: no cap. 48, Koda não perguntar por Dagmar.
 - **Destino**: `decisoes/mandante-juleen-alvo-linhagem.md` e `insights/povs-l2-gunad-lakand-koda.md`.
+
+### 2026-11-20: A inferência de Nolan sobre o "mesmo lugar" de Mário e Genocydo (pergunta do autor no PR #20)
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: no cap. 49 Nolan supõe que Mário lê os livros porque o Estrangeiro "falava aquela língua"; o autor perguntou qual a consequência prática de Nolan concluir que Mário e Genocydo vêm do mesmo lugar, mesmo sem saber que é outro planeta.
+- **Capítulos afetados**: 49 (L93, já escrito); 59 (opcional); 48 (Alavria).
+- **Status**: avaliada; texto mantido como hipótese ("talvez soubesse lê-la").
+- **Avaliação**: a inferência motiva os dois livros na cela (cap. 50, L47) e o plano de usar Mário como testemunha viva; rende nos caps. 52, 54 e 59. Não contradiz o cap. 14 (Nolan já dissera que Genocydo lê um livro que "não é ornickenho") nem o cap. 19. Não dá certeza a Nolan nem o planeta: no cap. 59 a surpresa é "mundo", e o texto não mostra reação dele a isso.
+- **Opções (não aplicadas)**: (a) manter como está; (b) uma linha de Nolan no cap. 59 (esperava "lugar", ouviu "mundo"); (c) Nolan localiza o "lugar" errado (Alavria, cap. 48), o que evita deixá-lo sempre certo (Risco 2), conversa com "agentes estrangeiros" (53:43) e faz o "mundo" do cap. 59 corrigi-lo.
+- **Destino**: decisão do autor.

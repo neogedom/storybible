@@ -103,13 +103,13 @@ O autor revisou o PR do Livro com comentários linha a linha e pediu o lote ("ro
 - "E nenhuma pediu a bênção do Templo" (L13): ironia seca de Nolan; mantida.
 - "A Ordem não escreverá o que ao Conselho?" (L47): virou "A Ordem não levará a verdade ao Conselho", espelhando a acusação de Nolan ("levarem a verdade ao Conselho").
 - Conclusão sobre Nuh antes da acusação? (L63): mantida a ordem, porque o golpe final de Nuh perde força se a conclusão vier antes; o parágrafo foi reescrito para responder à pergunta do L41 ("desde quando você sabia?").
-- "A guarda civil são os Espadas da Lei?" (cap. 49, L97; cap. 50, L5): não. É a guarda ordinária da cidade, sob Valinor; os Espadas da Lei são a elite leviantar da Chama (Mathias é um). O cap. 49 passou a dizer "guarda civil de Valinor".
+- "A guarda civil são os Espadas da Lei?" (cap. 49, L97; cap. 50, L5): não. A guarda civil é a guarda ordinária da cidade; os Espadas da Lei são a elite leviantar da Chama, treinada pela linhagem Addorbek e comandada por Valinor. Eu tinha acrescentado "de Valinor" ao cap. 49; o autor observou que isso confundiria as duas, e ficou "guarda civil da cidade". O cap. 60, L43, ainda diz "guarda civil de Valinor" (texto do autor, a decidir).
 - "Escada para onde?" (L99): "a escada que subia aos aposentos".
 - "O que é uma chancelaria? Por que Genocydo aceitaria?" (L105): é o gabinete e a guarda do magistrado ("chancelaria da magistratura"). O rei só aceita por ora: o pretexto cabe na assembleia que ele mesmo confirmou (cap. 53, L21) e ele está acamado; no cap. 58 (L35) ele reclama.
 - Chocalho, "trouxera de onde?" (L109): do tribunal, no bolso, na madrugada de cinzas do cap. 4.
 - Olhos de Mira, "eram grandes mesmo?" (L119): nenhuma ficha ou capítulo os descreve; "que já eram grandes" saiu.
 - "Nolan tinha sugerido a biblioteca?" (L85): sim, cap. 10, L1 e L11 (biblioteca real).
-- "Por que Nolan julgaria que Mário se interessaria?" (L93): diziam que o Estrangeiro falava aquela língua (cap. 19, L45); a linha foi acrescentada.
+- "Por que Nolan julgaria que Mário se interessaria?" (L93): diziam que o Estrangeiro falava aquela língua (cap. 19, L45); a linha foi acrescentada. **Consequência prática (pergunta do autor, depois do lote):** a inferência (a língua de Mário seria a dos livros) é o que faz Nolan mandar os dois livros à cela ("Quero saber se os lê"; cap. 50, L47) e ver Mário como "ferramenta substituta" do diário, a testemunha viva contra Genocydo; o plano rende no cap. 52 (Mário lê), no 54 (confronta Kraviam) e no 59 (denuncia "do mesmo mundo", L19), e rende também o que Nolan não previu (Mário o denuncia). Nolan já dissera ao Conselho que Genocydo lê com frequência um livro que "não é ornickenho" (cap. 14, L45), então a hipótese "mesmo lugar" é consistente com isso e com o cap. 19. Não dá a Nolan certeza nem o planeta: no cap. 59 a surpresa é "mundo", não "lugar", e o texto não mostra reação dele ao "mesmo mundo" (L27 reage à acusação contra ele). Opcionais, não aplicados: uma linha de Nolan no cap. 59 (esperava "lugar" e ouviu "mundo"); Nolan localizar o "lugar" errado (Alavria, cap. 48), para não deixá-lo sempre certo (Risco 2).
 - Garganta embargada (L115): sim, com moderação, e "animada" dá o gancho para o "agitada" de Mira.
 - "O que é pilar?" (L163): esmagar no pilão; virou "moía".
 - "Por que quiseram saber da casa? O que é o resto?" (L183): a fala-plant ganhou "quem entrava, a que horas a senhora ficava só".
@@ -118,7 +118,7 @@ O autor revisou o PR do Livro com comentários linha a linha e pediu o lote ("ro
 **Consequências e pontos que ficam para o autor**
 
 - Saiu a troca por um livro de contas: o cap. 54, L29, passou a mostrar o espaço vazio ao lado da bacia de prata.
-- "A tal apoteose", com desdém, contraria em parte o cap. 14 (L25), em que Nuh defende a apoteose; fica como o autor escreveu.
+- "A tal apoteose", com desdém (resolvido pelo autor no chat): o desdém prepara o pensamento de Nolan no parágrafo seguinte; ele já alertara o Conselho contra a apoteose e fora ignorado, e agora o próprio Nuh parece vê-la como negativa ("Pena que o velho não o tivesse ouvido naquele dia", acrescentado ao cap. 49, L21). É uma mudança de postura de Nuh em relação ao cap. 14 (L25), em que a defendia; a fé em Vonos segue (L51: "Vonos está no controle").
 - A sugestão do L57 trazia "qual a deus"; mantido "qual deus".
 - O autor removeu a frase de Orval do cap. 41 (commit 465dc70, "Remove duplicate sentence"): hoje a comparação "versão feia da Cidadela" não está em nenhum capítulo.
-- O cap. 49 foi a 3.543 palavras (3.200 sugeridas).
+- O cap. 49 foi a 3.563 palavras (3.200 sugeridas).
