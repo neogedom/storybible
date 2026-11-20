@@ -105,16 +105,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## Capítulo 0 — Prólogo
 
 - Roupas: couro remendado de caçadora, camadas
-- Acessórios: faca escura de caça (presente)
-- Sujeira: sangue de rampilla no rosto
-- Expressão: alerta, fúria contida, confusão
+- Acessórios: faca escura de caça, de cabo de osso (cai da mão no espasmo e é recolhida)
+- Sujeira: nenhuma registrada; as mãos doem de ter apertado o galho. O sangue de rampilla no rosto, registrado aqui até 2026-11-20, passou ao fim do cap. 6 com a caçada.
+- Expressão: náusea violenta, fúria contida, confusão
+- Iluminação: luz azulada das luas gêmeas
 
 ## Capítulo 6 — A Selvagem
 
 - Roupas: saia de retalhos de couro
 - Acessórios: faca de caça
-- Sujeira: suor, sangue de Tharin
-- Expressão: frustração → choque → excitação
+- Sujeira: suor, sangue de Tharin; no fim do capítulo (depois da caçada, vinda do Prólogo em 2026-11-20), sangue de rampilla salpicado no rosto, que ela limpa com as costas da mão
+- Expressão: frustração → choque → excitação; no fim, fúria amansada (a brasa não apaga)
 - Iluminação: luar das luas gêmeas
 
 ## Capítulo 9 — A Caverna

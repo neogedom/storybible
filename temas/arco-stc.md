@@ -18,7 +18,7 @@ timestamp: 2026-08-26T12:00:00-03:00
 
 Rito falha; silêncio; Inquiridor emerge. Nolan na Metrópole — o Sinal falha,
 Genocydo ordena a caça ao Souhma. Kate em Saramant — sente o vazamento de
-Hícse, ataca os rampillas de Devour.
+Hícse (a caçada nos rampillas de Devour está no fim do cap. 6, desde 2026-11-20).
 
 ## Configuração (~3-7%)
 

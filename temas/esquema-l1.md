@@ -25,13 +25,13 @@ timestamp: 2026-09-10T12:00:00-03:00
 
 | Capítulo | Beat STC                            | POV          | % Planejada (original) | % Real (÷137,5k)     | Palavras |
 | -------- | ----------------------------------- | ------------ | ---------------------- | -------------------- | -------- |
-| 0        | Imagem de Abertura                  | Nolan + Kate | ~0-2%                  | ~2,1%                | 2.948    |
-| 1        | Configuração                        | Mário        | ~2-5%                  | ~4,1%                | 2.727    |
-| 2        | Configuração (novo)                 | Mário        | ~5-7%                  | ~5,5%                | 1.855    |
-| 3        | Configuração / Catalisador          | Mário        | ~7-10%                 | ~6,4%                | 1.334    |
-| 4        | Debate                              | Nolan        | ~10-12%                | ~8,7%                | 3.044    |
-| 5        | Debate                              | Mário        | ~12-14%                | ~10,6%               | 2.721    |
-| 6        | Debate                              | Kate         | ~14-16%                | ~12,3%               | 2.292    |
+| 0        | Imagem de Abertura                  | Nolan + Kate | ~0-2%                  | ~1,1%                | 1.488    |
+| 1        | Configuração                        | Mário        | ~2-5%                  | ~3,1%                | 2.727    |
+| 2        | Configuração (novo)                 | Mário        | ~5-7%                  | ~4,4%                | 1.855    |
+| 3        | Configuração / Catalisador          | Mário        | ~7-10%                 | ~5,4%                | 1.334    |
+| 4        | Debate                              | Nolan        | ~10-12%                | ~7,6%                | 3.044    |
+| 5        | Debate                              | Mário        | ~12-14%                | ~9,6%                | 2.721    |
+| 6        | Debate                              | Kate         | ~14-16%                | ~12,4%               | 3.855    |
 | 7        | Debate                              | Nolan        | ~16-18%                | ~15,6%               | 4.575    |
 | 8        | Debate                              | Mário        | ~18-20%                | ~17,4%               | 2.468    |
 | 9        | Debate                              | Kate         | ~20-22%                | ~19,5%               | 2.867    |
@@ -118,6 +118,15 @@ timestamp: 2026-09-10T12:00:00-03:00
 > caps. 0–46 ≈ **116.507 palavras (84,7%)** na régua de 137.500, somando ao
 > total do cap. 45 da nota de 2026-11-08. Fecha em decisão (plano da travessia);
 > corte D, como o 45. Este Mini-INGEST não replaneja o mapa.
+
+> **Atualização 2026-11-20 — caçada de Kate do Prólogo para o cap. 6.** O
+> Prólogo passa de 2.948 para **1.488 palavras** (a Praça e o espasmo de Kate; a
+> semente de Piet soma 28) e o cap. 6, de 2.292 para **3.855** (a caçada, com
+> cerca de 75 palavras de ligação novas no fim). Contagem por tokens separados
+> por espaço. O total sobe 104 palavras e a posição acumulada do cap. 6 sobe 0,1
+> ponto; as posições dos caps. 0 a 5 caem cerca de 1,1 ponto, e as linhas
+> seguintes mudam menos que o arredondamento e não foram recalculadas. Decisão:
+> `decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md`.
 
 > **Recontagem 2026-10-09, baseada nos manuscritos atuais.** A coluna
 > **Palavras** foi conferida nos arquivos `Livro 1/capituloN.md` com
