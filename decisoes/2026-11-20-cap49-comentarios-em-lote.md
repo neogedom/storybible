@@ -119,7 +119,7 @@ O autor revisou o PR do Livro com comentários linha a linha e pediu o lote ("ro
 
 - Saiu a troca por um livro de contas: o cap. 54, L29, passou a mostrar o espaço vazio ao lado da bacia de prata.
 - "A tal apoteose", com desdém (resolvido pelo autor no chat): o desdém prepara o pensamento de Nolan no parágrafo seguinte; ele já alertara o Conselho contra a apoteose e fora ignorado, e agora o próprio Nuh parece vê-la como negativa ("Pena que o velho não o tivesse ouvido naquele dia", acrescentado ao cap. 49, L21). É uma mudança de postura de Nuh em relação ao cap. 14 (L25), em que a defendia; a fé em Vonos segue (L51: "Vonos está no controle").
-- A sugestão do L57 trazia "qual a deus"; mantido "qual deus".
+- A sugestão do L57 trazia "qual a deus", que li como erro de digitação e mantive "qual deus". O autor esclareceu depois (2026-11-20) que era "a qual deus", e o L57 passou a "para saberem a qual deus devem incensar pela manhã".
 - O autor removeu a frase de Orval do cap. 41 (commit 465dc70, "Remove duplicate sentence"): hoje a comparação "versão feia da Cidadela" não está em nenhum capítulo.
 - O cap. 49 foi a 3.563 palavras (3.200 sugeridas).
 - Cap. 59, L23: parágrafo novo em que Nolan registra "mundo" (opção (b) da inferência, escolhida pelo autor depois da revisão). O ajuste de redação do 49:93 segue pendente do sim do autor.

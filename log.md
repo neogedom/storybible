@@ -1,5 +1,9 @@
 # Log de Atualizações
 
+## 2026-11-20 (cap. 49, L57: "a qual deus")
+
+- Correção do autor: a sugestão de review do L57 ("qual a deus") queria dizer "a qual deus"; eu tinha mantido "qual deus". O texto passou a "para saberem a qual deus devem incensar pela manhã" (cap. 49: +1 palavra). Atualizadas as duas decisões que registravam o "qual deus" mantido (`decisoes/2026-11-20-cap49-comentarios-em-lote.md` e `decisoes/2026-11-20-claude-resolve-threads-de-review.md`).
+
 ## 2026-11-20 (PR #20: o Claude passa a resolver as threads tratadas)
 
 - Decisão do autor: resolver os comentários de review vira prática padrão, para ele saber se pode mesclar sem reler tudo. As 44 threads abertas do PR #20 foram resolvidas (as 2 de L7 e L13 já estavam). O autor manteve o texto como está, inclusive os sete ajustes do Claude em relação às sugestões e o "qual deus" do L57.

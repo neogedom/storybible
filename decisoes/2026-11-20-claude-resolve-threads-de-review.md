@@ -25,7 +25,7 @@ O autor quer saber de relance se pode mesclar o PR, sem reler todos os comentár
 ## Aplicação em 2026-11-20 (PR #20 do Livro)
 
 - Das 46 threads do lote, 2 (cap. 49, L7 e L13, perguntas sem mudança de texto) já estavam resolvidas pelo autor. O Claude resolveu as 44 restantes depois de conferir o cap. 49 linha a linha contra as sugestões.
-- A conferência achou uma sugestão não aplicada (L57: "qual a deus" ficou "qual deus") e sete ajustes do Claude em relação ao texto sugerido: pontuação em L19 e L41, "bênçãos" no L55, o L67 sem o trecho duplicado, "Apoiou a mão sobre o pacote" no L85 (o original e a sugestão diziam "Estendeu o pacote", e o L89 pede o pacote no colo), "cadência monocórdia" no L97 (a sugestão tinha "monotônica") e "fedia a vembra" no L129 (a sugestão tinha "à vembra", com quatro pontos). O autor decidiu manter o texto como está.
+- A conferência achou uma sugestão que li como erro de digitação (L57: "qual a deus", mantido como "qual deus"; o autor esclareceu depois que era "a qual deus", já corrigido) e sete ajustes do Claude em relação ao texto sugerido: pontuação em L19 e L41, "bênçãos" no L55, o L67 sem o trecho duplicado, "Apoiou a mão sobre o pacote" no L85 (o original e a sugestão diziam "Estendeu o pacote", e o L89 pede o pacote no colo), "cadência monocórdia" no L97 (a sugestão tinha "monotônica") e "fedia a vembra" no L129 (a sugestão tinha "à vembra", com quatro pontos). O autor decidiu manter os sete ajustes.
 
 ## Ligações
 
