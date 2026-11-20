@@ -3,14 +3,14 @@ type: Chapter
 title: Capítulo 49 — A Fatura
 pov: Nolan
 beat_stc: Tudo Está Perdido (inferido)
-percentual_l1: ~92,1% (acumulado 126.573 ÷ 137.500, recontado em 2026-11-20)
+percentual_l1: ~92,1% (acumulado 126.593 ÷ 137.500, recontado em 2026-11-20)
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo49.md
 timestamp: 2026-11-20T18:00:00-03:00
 ---
 
 # Capítulo 49 — A Fatura (POV Nolan)
 
-> Título provisório da ficha (o arquivo do livro não tem título); o autor pode renomear. Os comentários `(* ... )` do autor foram resolvidos em lote em 2026-11-20 e as decisões dele no chat foram aplicadas no mesmo dia (ver [a decisão](/decisoes/2026-11-20-cap49-comentarios-em-lote.md)). Contagem: **3.543 palavras**, acima dos 3.200 sugeridos pelo Arquiteto de Densidade; o autor aceitou e o corte é opcional.
+> Título provisório da ficha (o arquivo do livro não tem título); o autor pode renomear. Os comentários `(* ... )` do autor foram resolvidos em lote em 2026-11-20 e as decisões dele no chat foram aplicadas no mesmo dia (ver [a decisão](/decisoes/2026-11-20-cap49-comentarios-em-lote.md)). Contagem: **3.563 palavras**, acima dos 3.200 sugeridos pelo Arquiteto de Densidade; o autor aceitou e o corte é opcional.
 
 ## Resumo
 
@@ -33,7 +33,7 @@ Na tarde da chegada de Mário, Nolan vai ao Santuário de Vonos cobrar de Nuh d'
 
 - **Santuário de Vonos** (L1 a L65): capela do Templo de Rifte na parte alta, quase vazia, numa "tarde de inverno cinzento". Nuh sabe que Nolan voltou com as criaturas de Devour. "O rei já não manda emissários ao Templo; manda só recado para que se prepare óleo de unção para a Festa da Poda"; Nolan: "Para a apoteose?"; Nuh: "Sim. Para a tal apoteose", com desdém (L15 a L19). Nolan reconta o Tronk: o escriba da Ordem assentou três mortos e deixou oito ou nove sem cova, e disse que a Ordem responde ao Sumo Sacerdote (L35). Nuh: "Na noite em que o Monólito falhou", a Ordem começou a cravar diapasões para localizar o Estrangeiro; o Templo não toma partido de quem quer "um golpe de Esta..." (L43), frase cortada por Nolan. "Vonos está no controle" (L51); "A Ordem não levará a verdade ao Conselho." O pedido final sobre o Rohdis, numa só fala (L61), e a conclusão de Nolan (L63).
 - **Jardim do palacete** (L69 a L93): Layla traz o diário ("Vim trazer o diário que tanto queria"); Nolan a recusa ("Chegou tarde"), depois o toma para usar com Mário; não lê a língua, mas supõe que Mário lê.
-- **Vestíbulo** (L95 a L107): "Mais tarde", Nolan junta o diário ao livro de couro negro; ordens a Mathias (guarda civil de Valinor no portão leste; Mário na cela seca da Torre dos Ventos, dos presos nobres) e a Mira; a custódia de Mário pela chancelaria da magistratura "para instrução processual perante a Grande Assembleia".
+- **Vestíbulo** (L95 a L107): "Mais tarde", Nolan junta o diário ao livro de couro negro; ordens a Mathias (guarda civil da cidade no portão leste; Mário na cela seca da Torre dos Ventos, dos presos nobres) e a Mira; a custódia de Mário pela chancelaria da magistratura "para instrução processual perante a Grande Assembleia".
 - **Quarto do menino** (L107 a L139): o chocalho; "Eu era devoto, mas não se comparava a ela"; a garganta embargada; Mira se trai ("tentado não ter ele") e diz a vembra (L119 a L137); Nolan descobre o nome de Juleen (L139).
 - **Mathias** (L141 a L151): "Acho que... no depósito de salitre do curtume, no burgo baixo, senhor." (espreme a memória; acompanhou Dagmar no cap. 4).
 - **Armazém de salitre** (L153 a L209): Juleen, o marido e os filhos; a corda de cânhamo; a lista de suspeitos de Nolan ao som das súplicas do marido (L191); "Gente como você não merece um julgamento" (L199); o choro das crianças o segue até a esquina.
