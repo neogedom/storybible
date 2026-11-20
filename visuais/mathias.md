@@ -94,3 +94,9 @@ silêncio, por desespero. O nome dele nunca é dito no capítulo (POV de Kate:
 - **Vestimenta**: **capa vermelha de Espada da Lei** de volta aos ombros, desbotada pela poeira das serras do norte; a estopa cinzenta de Gus fica esquecida no assento.
 - **Postura**: conduz a parelha com as rédeas curtas (o cocheiro ficou no celeiro); atrás de Nolan nas escadarias; na soleira da tesouraria, de costas para a porta; mantém a mão longe do punho da espada diante de Benjamim.
 - **Fundo**: banco da carruagem, escadaria do Castelo de Quartzo, tesouraria, Grande Galeria.
+
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Postura**: ao pé da escada, calado, repassa as ordens e entrega os dois livros a um soldado do portal; no armazém, fica junto à porta e atinge o marido de Juleen com o cabo da espada.
+- **Observação**: o texto não descreve a roupa dele neste capítulo.
+- **Fundo**: vestíbulo do palacete, rampa do curtume e armazém de salitre.

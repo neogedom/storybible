@@ -65,3 +65,8 @@ timestamp: 2026-08-26
 - **Postura**: caminha a três passos do estribo, de olhos pequenos varrendo as guaritas; ao pé da escadaria, imóvel entre os servos, com os quatro rampillas.
 - **Observação**: aparece como "xamã maltrapilho" aos olhos dos servos.
 - **Fundo**: ponte de pedra, portão oeste, escadaria do Castelo de Quartzo.
+
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Postura**: mantém-se nas sombras dos beirais, no burgo baixo, enquanto Nolan e Mathias entram no armazém com os quatro rampillas.
+- **Fundo**: rampa do curtume e pátio de fardos de lã crua.
