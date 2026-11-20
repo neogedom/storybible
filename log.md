@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-20 (mandante de Juleen: Koda, sem pistas no texto)
+
+- Decisões do autor (no chat): o texto do cap. 49 não aponta o mandante (Juleen não sabe nomes; Nolan lista Nuh, Benjamim, Lupe'i, Genocydo, Koda e Alavria); na storybible, o mandante é Koda, com revelação no L2.
+- Livro: cap. 49, L169 e L171. Saíram "homem da tesouraria" e "selo do porto sul"; ficam a prata raspada e os despachos do colete (cap. 48). O capítulo passa a 3.280 palavras.
+- Storybible: `decisoes/mandante-juleen-alvo-linhagem.md` (revisão do canon de 2026-09-19), `personagens/{koda,benjamim,juleen}.md`, `lugares/{porto-sul,alavria}.md`, `insights/{povs-l2-gunad-lakand-koda,vembra-e-a-morte-de-dagmar,_inbox}.md`, `temas/{sementes,esquema-l1}.md`, `capitulos/capitulo-49.md` e a decisão do lote.
+
 ## 2026-11-20 (gnock: Nolan não rotula os humanos dos burgos)
 
 - Decisão do autor (no chat): como gnock é uma condição muito rara, Nolan não pode achar que todo humano dos burgos é gnock; isso contraria o canon. Um segundo gnock além de Kate não é proibido, e o autor admite que talvez um a mais, só, não tenha problema; não há gnock novo no texto.
