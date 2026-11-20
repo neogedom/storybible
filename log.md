@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-20 (PR #20: guarda civil, desdém de Nuh e a inferência de Nolan)
+
+- Observações do autor (chat): "de Valinor" confundiria a guarda civil com os Espadas da Lei (treinados pelos Addorbek; Valinor é o general deles), então o cap. 49, L97, passa a "guarda civil da cidade" (o cap. 60, L43, ainda diz "de Valinor", texto do autor). O "a tal apoteose", com desdém, é intencional e prepara o pensamento de Nolan no L21, que ganhou "Agora o próprio Nuh desdenhava dela. Pena que o velho não o tivesse ouvido naquele dia." A inferência "mesma língua, mesmo lugar" fica como hipótese; consequências avaliadas na decisão do lote e no inbox.
+- Atualizados: `conceitos/glossario.md`, `lugares/metropole.md`, `personagens/{mathias,nuh-dteraghar}.md`, `capitulos/capitulo-49.md`, `decisoes/2026-11-20-cap49-comentarios-em-lote.md`, `insights/_inbox.md`.
+
 ## 2026-11-20 (PR #20: 46 comentários de review do autor, em lote)
 
 - A pedido do autor ("rode"), os 46 comentários de review do PR do Livro (44 no cap. 49, 1 no cap. 50 e 1 no cap. 54) entraram em lote. Nada foi respondido nem resolvido nas threads do GitHub.
