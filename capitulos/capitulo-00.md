@@ -40,22 +40,18 @@ financiados (com a corrida contra eles pela custódia).
 
 ### Parte 2 — Kate (Saramant)
 
-> Em 2026-11-20 o autor aceitou levar esta parte para o fim do cap. 6 (o prólogo
-> fica só com a Praça). Ainda não executado; ver
-> `decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md`.
+> Em 2026-11-20 o autor escolheu a saída A: o espasmo fica aqui, como o segundo
+> lugar da mesma falha do Sinal, e a caçada que vinha depois (os rampillas, o
+> xamã e o camponês) passou para o fim do [Capítulo 6](/capitulos/capitulo-06.md).
+> Ver `decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md`.
 
-A centenas de quilômetros, na floresta de Saramant, **Kate** sente um
+A centenas de quilômetros, na floresta de Saramant, **Kate**, num galho de
+carvalho-negro a uns três quilômetros da fortaleza de **Devour**, sente um
 espasmo violento — uma pressão que não é dela, uma fúria que queima como
 "brasa enterrada na cinza" (reverberação do embaralhamento do Sinal via
-Hícse). A palavra _"Guerra"_ ocupa sua mente.
+Hícse). A faca cai da sua mão e a palavra _"Guerra"_ ocupa sua mente.
 
-Ela se dirige à fortaleza de **Devour**, onde encontra cinco rampillas e um
-xamã realizando um ritual de transformação: uma semente de resina sendo
-implantada em um camponês capturado.
-
-Kate massacra os rampillas e o xamã, liberta o camponês. A violência
-acalma a brasa, mas não a apaga. A brasa aponta para a direção da
-Metrópole — "como se algo estivesse vindo".
+O espasmo passa; a brasa, não. A parte termina em "Precisava sangrar alguém."
 
 ## Personagens
 
@@ -64,7 +60,7 @@ Metrópole — "como se algo estivesse vindo".
 | [Nolan](/personagens/nolan.md)       | POV. Observa a falha do oráculo, discute com Genocydo, recebe ordens. |
 | [Genocydo](/personagens/genocydo.md) | Rei doente. Ordena a caça ao Souhma.                                  |
 | [Benjamim](/personagens/benjamim.md) | Manipulador. Interpreta o silêncio como profecia.                     |
-| [Kate](/personagens/kate.md)         | POV. Sente o vazamento de Hícse, ataca os rampillas de Devour.        |
+| [Kate](/personagens/kate.md)         | POV. Sente o vazamento de Hícse (a caçada está no cap. 6).            |
 
 ## Eventos-chave
 
@@ -72,19 +68,17 @@ Metrópole — "como se algo estivesse vindo".
 2. ✅ Benjamim interpreta a instabilidade como "abrir caminho para o Souhma"
 3. ✅ Genocydo ordena caça ao Estrangeiro
 4. ✅ Kate sente o vazamento de Hícse (descrito como "brasa"/fúria que não é dela) — reverberação do embaralhamento
-5. ✅ Kate interrompe um ritual de transformação de humano em rampilla
-6. ✅ A brasa aponta para a Metrópole — sinal de que algo está vindo
-7. ✅ Piet Brö, o astrônomo da Metrópole, anota o céu durante a falha, alheio ao boato
+5. ✅ Piet Brö, o astrônomo da Metrópole, anota o céu durante a falha, alheio ao boato (aplicado em 2026-11-20)
+6. ➡️ Passaram ao [cap. 6](/capitulos/capitulo-06.md) em 2026-11-20: Kate interrompe um ritual de transformação de humano em rampilla; a brasa aponta para a Metrópole ("algo está vindo")
 
 ## Sementes Plantadas
 
 - 🌱 **A Instabilidade de Vonos**: O Sinal ficou permanentemente instável — a frequência de Mário ocupou o canal. O que causa isso? Quando se agudiza (milagres), reverbera em Kate.
 - 🌱 **A Profecia do Souhma**: "Julgar os deuses e coroar os homens" — será
   literal ou alegórica?
-- 🌱 **O Vazamento de Hícse**: Kate sente uma fúria que não é dela e que aponta
-  para a Metrópole. Hícse está vazando? Ou alguém/something está se aproximando?
-- 🌱 **A Transformação de Devour**: O lorde rampilla está criando mais
-  soldados. Para quê?
+- 🌱 **O Vazamento de Hícse**: Kate sente uma fúria que não é dela. Hícse está
+  vazando? Ou alguém/something está se aproximando? (A brasa passa a apontar
+  para a Metrópole no fim do cap. 6.)
 - 🌱 **A Doença de Genocydo**: O rei está morrendo. Isso acelera sua busca
   pela apoteose.
 - 🌱 **Piet na Praça**: o astrônomo anota e olha o céu enquanto o Sinal falha.
@@ -102,7 +96,9 @@ Metrópole — "como se algo estivesse vindo".
 ## Notas de INGEST
 
 - A brasa que Kate sente é Hícse — confirmar nomenclatura canônica.
-- 2026-11-20: a linha 17 ganhou Piet Brö (semente do fecho do L1); na linha 85,
-  "A guerra nunca viera" passou a "A guerra ainda não viera" (o bloco de Kate vai
-  para o fim do cap. 6, depois do aviso de Gaviorn'l). Estrutura aceita pelo
-  autor, ainda não executada: `decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md`.
+- 2026-11-20: a linha 17 ganhou Piet Brö (semente do fecho do L1). A caçada de
+  Kate (antigas linhas 79 a 167, com a correção "A guerra ainda não viera") passou
+  para o fim do cap. 6, depois do aviso de Gaviorn'l; o prólogo termina agora em
+  "Precisava sangrar alguém." (linha 77). Marcador `(* ... )` do autor, na linha
+  53, intocado. Palavras: 2.948 para 1.488 (método do `finalizar-capitulo`).
+  Decisão: `decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md`.
