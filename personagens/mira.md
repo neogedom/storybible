@@ -3,7 +3,7 @@ type: Character
 title: Mira
 description: Parteira-ama leviantar da Metrópole, ama de leite de Saboc e testemunha silenciosa da ressurreição. Séquito de Nolan.
 tags: [personagem, parteira, ama-de-leite, devour, nolan, L1]
-timestamp: 2026-08-06T00:00:00-03:00
+timestamp: 2026-11-20T12:00:00-03:00
 ---
 
 # Mira
@@ -39,6 +39,16 @@ Saboc** (cap. 22). Conhece ervas — é ela quem reconhece o veneno.
   Metrópole (Noite Escura: "Nolan, movido pelo filho Saboc, leva água e comida
   escondido" ao calabouço de Mário).
 - O filho morto dela é só fundo — nunca mencionado no texto.
+- **Cap. 49 (2026-11-20) (a validar pelo autor no PR): a revelação acontece na Metrópole, no
+  palacete.** Depois do Santuário, Nolan diz diante do chocalho de Saboc
+  "Dagmar saberia o que fazer com isto"; Mira, sem acusar ninguém, diz que "o
+  quarto inteiro cheirava a vembra, de tanto que ela tinha no corpo" e que
+  vembra "é o que as mulheres dos burgos tomam quando não querem ter o filho;
+  dá cheiro na pele por semanas". Nolan liga os pontos (a caneca do cap. 4, a
+  aia) e desfaz a leitura errada do cap. 22 (a doença dos humanos). Substitui os
+  planos do cap. 24 (estrada da caçada) e de "na volta, no banco da carroça". A
+  cena cortada (`cortes/capitulo24.md`, "chá de melissa") **não vale**: conflita
+  com o cap. 4.
 
 ## Relações
 

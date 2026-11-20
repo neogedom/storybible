@@ -45,12 +45,18 @@ nem o rascunho do cap. 49 nesta fase.
 
 - **Ganho:** liga a curiosidade de Nuh ao milagre de Saboc e à cobrança
   institucional já planejada.
-- **Risco de continuidade:** no cap. 48, Nolan diz a Valinor que Saboc morreu
+- **Risco de continuidade (obsoleto em 2026-11-20: o cap. 48 revisado mostra Saboc vivo e Mira com ele; ver "Realizado")**: no cap. 48, Nolan diz a Valinor que Saboc morreu
   e a carruagem é descrita como vazia. Se o menino viaja com Nolan, esconder
   sua presença precisa ficar claro, ou parecerá um erro de continuidade.
 - **Guardrail:** manter as perguntas de Nuh concretas e a reação ambígua; não
   transformar o milagre em prova que encerra o conflito nem em ferramenta de
   vitória.
+
+## Realizado no cap. 49 (2026-11-20) (a validar pelo autor no PR)
+
+- A cobrança entrou no cap. 49, com o que Nolan viu em Tronk (cap. 28), o Escriba-Mestre do prólogo, o selo da Ordem em Devour (cap. 19) e o "Estrangeiro" dito só por Nuh no Conselho (cap. 14).
+- Nuh pergunta por Saboc no fim da cena, sem Saboc presente: "Quanto tempo ele passou no Rohdis antes de voltar? E quem o viu voltar?". Nolan não responde.
+- Detalhes em `personagens/nuh-dteraghar.md` e `decisoes/2026-11-20-cap49-comentarios-em-lote.md`.
 
 ## Conexões
 

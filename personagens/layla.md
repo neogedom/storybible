@@ -56,6 +56,10 @@ Ver timeline visual completa em [visuais/layla.md](/visuais/layla.md).
 - Enfrenta Nolan com deboche — sabe que ele não pode matá-la
   _Atualizado a cada INGEST de capítulo._
 
+### Capítulo 49 (ponte provisória, 2026-11-20) (a validar pelo autor no PR)
+
+- Deixou no palacete, semanas antes, o pacote com o diário que falhara em roubar no cap. 10 (o texto só mostra o pacote). A aquisição em cena fica pendente; não entrou na cena de Juleen (o cap. 53 segue como está).
+
 ---
 
 ## Paleta Canônica

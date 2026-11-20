@@ -3,7 +3,7 @@ type: Location
 title: Metrópole
 description: Capital do Reino de Genocydo, sede do Monólito da Verdade e do poder político leviantar.
 tags: [lugar, capital, reino, metropole, castelo-de-quartzo]
-timestamp: 2026-11-19T13:45:00-03:00
+timestamp: 2026-11-20T12:00:00-03:00
 ---
 
 # Metrópole
@@ -54,6 +54,10 @@ O arquivo editável é `mapa-cran-metropole.svg`. O esquema é fora de escala, c
 - **Castelo de Quartzo**: Residência do Rei Genocydo. Fachada de pedra azul que zumbe com o calor e lamenta ao entardecer (seção abaixo).
 - **Guildas e mercado**: Ao redor da praça, sob as arcadas.
 - **Torre do Cran e vigilância da muralha** (cap. 46): na muralha voltada ao rio, a Torre do Cran abriga dois sentinelas dos Espadas da Lei no parapeito (um maneja balista leve, outro vigia a planície sul). Há quebra de vigilância entre a terceira e a quarta vigília, depois da troca de guarda da muralha oeste (escalas mudadas por Valinor). Os canais de deságue das tinturarias, a sudeste, são vigiados por milicianos leviantares sem a marca da Chama.
+- **Santuário de Vonos** (cap. 49) (a validar pelo autor no PR): capela que o Templo de Rifte mantém na parte alta, representação do enclave (`lugares/rifte.md`). Cúpulas de cantaria branca, prismas de quartzo, altar hexagonal, bacias métricas e fileiras de marcos de pedra onde os fiéis esperam de pé (nada de pia batismal, coro ou bancos). Nuh trabalha ali com um diapasão de renanthao. Não confundir com o Sacrário (Praça Central, Monólito) nem com o santuário poligonado das catacumbas do cap. 4.
+- **Palacete de Nolan** (caps. 4 e 49): no setor oeste; vestíbulo, escada de mármore, quarto do menino. Mathias guardava o portal.
+- **Poço das Correntes** (caps. 49 e 50): calabouço do Rei, em alçapões sob as fundições; "é lá que o Rei guarda quem não quer ver em processo" (fala de Nolan). Administração não dita; não confundir com o poço vertical de Kate (caps. 57 e 60).
+- **Depósito de salitre e rampa do curtume** (burgo baixo; caps. 49, 53, 59 e epílogo): onde Juleen morava e morreu.
 
 ## O Castelo de Quartzo: arquitetura e acústica (canon dos caps. 7 e 10)
 
@@ -85,6 +89,7 @@ Decisões do autor, 2026-11-16: o festival de Gerikhad é religioso e de estaç�
 - **O que o texto fixa:** a corte abre "a Festa da Poda" (cap. 48, L89); o Rei manda o templo de Vonos preparar "o óleo de unção para a Festa da Poda" (cap. 49, L11); Benjamim monta o cadafalso "da Festa da Poda" na Praça de Gerikhad (cap. 53, L3); Gunad avisa a Mário "Amanhã você estará no cadafalso. A Festa da Poda não vai poupar a sua carne" (cap. 52, L67); "A Festa da Poda começara" (cap. 60, L13). No mesmo cap. 49 (L31), Nuh chama a queda do reino de "a poda necessária para que a árvore mestra floresça".
 - **Leitura:** festa do templo de Vonos e da Coroa, com unção, no começo do inverno (o cap. 49, L3, abre numa "tarde de inverno cinzento"). Poda é trabalho de inverno; a unção do rei lembra o selo de óleo sobre o corte. Quem enche a praça é a cidade faminta, não os Clãs.
 - **Função no enredo:** é o palco da blasfêmia pública que o contrato de Terbs exige (ver [Genocydo](/personagens/genocydo.md): Garfo do Herege em praça pública, com grande audiência). A fala de Nolan no cap. 49 (L15), "comprando a própria condenação em moedas de sangue", comenta o pacto com os Clãs, não a festa.
+- **Texto de 2026-11-20 (cap. 49) (a validar pelo autor no PR):** Nuh diz que o rei manda só o recado "para que se prepare o óleo com que será ungido na Festa da Poda": o ungido é o rei, e o Templo de Vonos fornece o óleo, em concorrência com o de Benjamim (cap. 48, L95; cap. 53, L17). Possível payoff: o "conselheiro idoso" que ungiria Mário no cap. 66 ser Nuh.
 - **Em aberto:** a liturgia (o que se poda, quem poda, o que a unção sela) e a data no calendário religioso. Ancorar a data no solstício obrigaria a fixar a duração do ano de Ornick (ver [Cosmologia](/conceitos/cosmologia.md)). O cap. 50 usa "celebração" (L1) e "espetáculo" (L39) sem nomear a festa; essas linhas não foram tocadas.
 
 ## Conexões

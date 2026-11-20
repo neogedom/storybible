@@ -1,10 +1,10 @@
 ---
 type: Character
 title: Juleen
-description: Aia de Dagmar, leviantar de casta baixa dos burgos periféricos. Administrou o chá de vembra que matou Dagmar e Saboc (abortivo acumulado). Enforcada por Nolan no cap. 32.
+description: Aia de Dagmar, leviantar de casta baixa dos burgos periféricos. Administrou o chá de vembra que matou Dagmar e Saboc (abortivo acumulado). Enforcada por Nolan no cap. 49, diante do marido e de duas crianças.
 tags: [personagem, leviantar, aia, dagmar, L1]
 resource: https://github.com/neogedom/storybible/blob/main/personagens/juleen.md
-timestamp: 2026-08-16T00:00:00-03:00
+timestamp: 2026-11-20T12:00:00-03:00
 ---
 
 # Juleen
@@ -75,3 +75,32 @@ fora está dentro.
   nome entra pela carta de Layla, lida em Tronk **na subida** (não no fecho):
   ela está viva, num burgo de humanos na beira do Cran, pedindo trabalho em
   cozinha de estalagem. É a conta que ele decide fechar com a própria mão.
+
+## Canon do cap. 49 revisado (2026-11-20) (a validar pelo autor no PR)
+
+- **Onde mora:** num depósito de salitre do curtume, no burgo baixo (dentro da
+  muralha, abaixo do Muro Interno), com o marido e duas crianças. Mathias, que
+  guardava o portal do palacete (cap. 4), sabe onde dorme cada criado; Nolan
+  nunca perguntara (cap. 4: "jamais gastaria o rigor da lei para investigar
+  seus antecedentes"). Isso substitui o plano de Layla achá-la "num burgo de
+  humanos na beira do Cran, pedindo trabalho em cozinha de estalagem".
+- **A cena:** Nolan chega "no meio da tarde" (cap. 53, L39) pela rampa do
+  curtume, com Mathias e quatro rampillas; Ossan nas sombras. Mathias entra e
+  fica junto à porta; um rampilla segura o marido, que se solta e leva uma
+  pancada do cabo da espada de Mathias. Nolan grita, cospe e agarra os cabelos
+  loiros dela. Ela pede tribunal e testemunhas (cap. 56). A corda de cânhamo de
+  amarrar fardos pende de um prego da viga mestra; passa por cima da viga e
+  termina amarrada num esteio lateral (cap. 53: "pendurada numa viga"). Nolan
+  segura "sem pressa e sem perdoar".
+- **O que ela diz:** foi aliciada "no verão, meses antes do parto" (a conta dos
+  três meses de chá começa antes do prólogo); "moedas de prata com as bordas
+  raspadas"; fala-plant aprovada em 2026-09-19: "Primeiro só queriam saber da
+  casa. Depois quiseram o resto!"; "a linhagem dos Guenayer não podia se
+  misturar com os Addorbek"; ameaça aos filhos; "um homem da tesouraria" com
+  "cartas com o selo do porto sul". Nolan **não nomeia ninguém** ("nenhum que
+  ele pudesse nomear sem prova"), em respeito à regra de não resolver o
+  mandante em cena.
+- **Superado:** a acusação de que ela seria humana (não está no texto); os
+  "irmãos na pedreira" (agora, filhos); o burgo de humanos fora da muralha.
+- **Decisão do autor pendente:** "matariam meus filhos" faz dela mãe coagida, em
+  tensão com "paga, competente e fria" (`decisoes/mandante-juleen-alvo-linhagem.md`).
