@@ -112,6 +112,8 @@ leitor deve perceber a falha da premissa ANTES de Nolan (guardrail Risco 2).
 O lenço de seda é a fissura física — invocar com moderação, em momentos de
 vulnerabilidade ou desprezo.
 
+**"Gnock" como muleta (cap. 7 e cap. 49) (a validar pelo autor no PR):** Nolan rotula como gnock quem não tem marca: Genocydo (cap. 7) e o marido de Juleen (cap. 49, que é humano). A premissa que falha é a mesma (a Segregação funciona; humano só se vê fora da muralha), e o leitor percebe antes dele. Se ele soubesse de humanos dentro da muralha, mandaria expulsar (decisão do autor).
+
 ## Papel na História
 
 ### Livro 1 — O Profeta e a Metrópole
@@ -179,6 +181,7 @@ são as premissas.
 - Deduz que Benjamim Cressadar manipula Genocydo
 - Aceita a sugestão de conspiração de Koda
 - **Primeiro sorriso** — o cálculo político encontrou seu caminho
+- **(2026-11-20) (a validar pelo autor no PR):** pergunta se a aia Juleen é humana e censura Dagmar por ter ido aos burgos "entre eles"; não sabe que há humanos nos burgos de baixo.
 
 ### Capítulo 7 — O Jogo
 

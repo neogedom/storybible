@@ -104,3 +104,7 @@ fora está dentro.
   "irmãos na pedreira" (agora, filhos); o burgo de humanos fora da muralha.
 - **Decisão do autor pendente:** "matariam meus filhos" faz dela mãe coagida, em
   tensão com "paga, competente e fria" (`decisoes/mandante-juleen-alvo-linhagem.md`).
+
+- **O marido é humano (decisão do autor, 2026-11-20) (a validar pelo autor no PR):** os filhos são mestiços (leviantar × humano). Em cena, Juleen acende a vela com a ponta do dedo e o marido risca uma pederneira; Nolan pensa "Um gnock" e não pensa mais nisso, o mesmo rótulo que deu a Genocydo no cap. 7 (Genocydo é humano). Nolan **não sabe** que há humanos nos burgos de baixo.
+- **Cap. 4 (revisado em 2026-11-20):** Nolan pergunta se Juleen é humana; Dagmar responde que é leviantar ("acende o fogareiro com a ponta do dedo, como eu") e que foi conhecer a casa dela, nos burgos de baixo, antes de contratá-la. Nolan a censura por ter ido "entre eles"; ela corta: "Entre quem, Nolan?". O cap. 49 fecha o eco: "Dagmar lhe dissera que a aia era leviantar, e estava certa; ele temera a espécie errada."
+- **Em aberto:** o que acontece ao marido e aos filhos depois; se Nolan descobre a espécie do marido (cap. 53, L35: "moradores humanos") e o que faz com ela (ver `decisoes/2026-11-20-cap49-comentarios-em-lote.md`).
