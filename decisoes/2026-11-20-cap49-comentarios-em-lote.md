@@ -62,3 +62,12 @@ timestamp: 2026-11-20T12:00:00-03:00
 - **Caps. 53 (L19–21) e 58 (L35):** "Confirmou a pauta" e "sem a minha convocação assinada" já se contradizem.
 - **Guardas:** "municipal", "civil", "de Genocydo" e "da chancelaria" (49, 50:3, 50:43, 53:11).
 - **Ficha de Nuh e `conceitos/vonos.md` (L56):** a ficha dizia que Nuh sabe que Vonos "trouxe" Genocydo, o que o cap. 52 só revela a Mário; o cap. 49 evita pôr isso na boca de Nuh.
+
+## Segregação por baixo (decisões do autor no chat, 2026-11-20)
+
+1. **A comparação "versão feia da Cidadela" não vem de Nolan.** Se ele soubesse que há humanos dentro da Metrópole, mandaria expulsar. Vem de Orval (cap. 41), que lecionou vinte anos na Academia da Metrópole e diz que "fiscal nenhum desce" aos burgos de baixo. A proposta de pensamento de Nolan no cap. 42 foi **descartada**.
+2. **O marido de Juleen pode ser humano** e os filhos são mestiços. Aplicado no cap. 49 de modo que Nolan **não saiba**: o marido risca uma pederneira e Nolan pensa "Um gnock", como chamou Genocydo no cap. 7.
+3. **"Burgos de baixo"** no lugar de "burgos periféricos" (cap. 4).
+4. **Cap. 4:** Nolan suspeita ("Essa garota é humana?"), Dagmar a defende e diz que foi conhecer a casa dela, Nolan a censura por ter ido "entre eles" e ela corta ("Entre quem, Nolan?"). Dagmar visitar a casa de Juleen é fato novo, a validar.
+5. **Em aberto:** o Gerdialias (caps. 53 e 58) já tem "moradores humanos" e Nolan lê isso sem reagir. Conciliação proposta: humanos de serviço licenciados, que Nolan conhece e tolera, e a mistura residencial dos burgos de baixo, que ele ignora. Alternativa: uma frase no cap. 53, L37, em que ele registra a palavra "humanos" dentro da muralha e adia.
+6. **Em aberto:** o que Nolan faz se descobrir o marido humano e os filhos mestiços (expulsá-los? seria coerente com o "sem testemunhas" do cap. 59). Hoje, no cap. 49, ele não descobre.

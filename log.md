@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-20 (Segregação por baixo: caps. 4, 41 e 49)
+
+- Decisões do autor (no chat): a comparação "versão feia da Cidadela" vem de outra pessoa que não Nolan, porque ele mandaria expulsar se soubesse de humanos dentro da Metrópole; o marido de Juleen pode ser humano; "burgos de baixo" no lugar de "burgos periféricos".
+- Livro: cap. 4 (Nolan suspeita da espécie de Juleen, Dagmar a defende, ele a censura por ter ido "entre eles"), cap. 41 (Orval faz a comparação e explica por que Nolan não sabe) e cap. 49 (o marido risca uma pederneira, Nolan pensa "Um gnock", como chamou Genocydo no cap. 7; eco da fala de Dagmar).
+- Atualizados: `conceitos/segregacao.md`, `lugares/{metropole,cidadela-de-gus}.md`, `personagens/{juleen,dagmar,nolan}.md`, `decisoes/2026-11-20-cap49-comentarios-em-lote.md` e o inbox. Em aberto: os "moradores humanos" do Gerdialias (caps. 53 e 58).
+
 ## 2026-11-20 (cap. 49: o diário chega a Nolan pela cena de Layla)
 
 - Decisão do autor (no chat): opção b, a cena curta de Layla. Ideia do autor incorporada: Layla passou os três meses descobrindo onde o rei guarda o caderno, formulando um plano e testando-o, e só o executou ao saber que Nolan voltara, porque antes o rei daria falta. A cena entrou no jardim do palacete (o chafariz do cap. 10) e o marcador 31 saiu do cap. 49.

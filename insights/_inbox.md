@@ -474,3 +474,11 @@
 - **Itens**: 50:9 (a multidão sabe que Mário ressuscitou o filho de Nolan, contra "só Nuh sabe"); 52:29 (Mário cita "Nolan que enforcava aias" sem fonte na cena); 59:31 ("sem testemunhas" com a família presente; talvez "de defesa"); 53:19 a 21 e 58:35 (convocação da assembleia); guardas "municipal", "civil", "de Genocydo" e "da chancelaria" (49, 50:3, 50:43, 53:11); o óleo de unção da Festa da Poda (cap. 49) e o "conselheiro idoso" que unge Mário no cap. 66, que poderia ser Nuh.
 - **Destino**: cada capítulo, na revisão.
 
+### 2026-11-20: Humanos dentro da Metrópole sem que Nolan saiba (burgos de baixo)
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: nos burgos de baixo da Metrópole (curtume, salitre, Gerdialias), humanos e leviantares pobres vivem misturados e sem fiscal; Nolan, arquiteto da Segregação, não sabe, porque mandaria expulsar. Gus é a mesma mistura por tese e com dignidade ("versão feia da Cidadela").
+- **Capítulos afetados**: 4, 41 e 49 (aplicados); 53 e 58 (os "moradores humanos" do Gerdialias, a conciliar).
+- **Status**: aceita pelo autor em 2026-11-20 (comparação por Orval e não por Nolan; marido de Juleen humano; "burgos de baixo"). Aplicada no livro, a validar no PR.
+- **Em aberto**: (1) Gerdialias: humanos de serviço licenciados (Nolan sabe) ou descoberta de Nolan no cap. 53, L37; (2) o que Nolan faz se descobrir o marido humano; (3) se o marido humano ganha um beat entre os caps. 53 e 59.
+- **Destino**: decisão do autor, no PR.
