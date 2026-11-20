@@ -80,9 +80,7 @@ fora está dentro.
 ## Canon do cap. 49 revisado (2026-11-20) (aceito pelo autor no chat)
 
 - **Onde mora:** num depósito de salitre do curtume, no burgo baixo (dentro da
-  muralha, abaixo do Muro Interno), com o marido e duas crianças. Mathias, que
-  guardava o portal do palacete (cap. 4), sabe onde dorme cada criado; Nolan
-  nunca perguntara (cap. 4: "jamais gastaria o rigor da lei para investigar
+  muralha, abaixo do Muro Interno), com o marido e duas crianças. Mathias, que acompanhou Dagmar à casa dela (cap. 4), lembra o endereço depois de espremer a memória; Nolan nunca perguntara (cap. 4: "jamais gastaria o rigor da lei para investigar
   seus antecedentes"). Isso substitui o plano de Layla achá-la "num burgo de
   humanos na beira do Cran, pedindo trabalho em cozinha de estalagem".
 - **A cena:** Nolan chega "no meio da tarde" (cap. 53, L39) pela rampa do
@@ -95,13 +93,12 @@ fora está dentro.
   segura "sem pressa e sem perdoar".
 - **O que ela diz:** foi aliciada "no verão, meses antes do parto" (a conta dos
   três meses de chá começa antes do prólogo); "moedas de prata com as bordas
-  raspadas"; fala-plant aprovada em 2026-09-19: "Primeiro só queriam saber da
-  casa. Depois quiseram o resto!"; "a linhagem dos Guenayer não podia se
+  raspadas"; fala-plant aprovada em 2026-09-19: "Primeiro só queriam saber da casa. Depois quiseram o resto!" (no PR #20 ganhou "quem entrava, a que horas a senhora ficava só", para responder "por que quiseram saber da casa" e "o que é o resto"); "a linhagem dos Guenayer não podia se
   misturar com os Addorbek"; ameaça aos filhos. Quando Nolan pergunta quem mandou, ela diz "Eu não sei! Vinham de noite, de capuz, e nunca disseram um nome!". Nolan tenta pensar e lista Nuh, Benjamim, Lupe'i, Genocydo, Koda e Alavria, sem poder nomear ninguém sem prova, em respeito à regra de não resolver o mandante em cena. Em 2026-11-20 saíram "um homem da tesouraria" e "selo do porto sul"; o mandante, no canon, é Koda (L2).
 - **Superado:** a acusação de que ela seria humana (não está no texto); os
   "irmãos na pedreira" (agora, filhos); o burgo de humanos fora da muralha.
 - **Decidido pelo autor (2026-11-20):** "matariam meus filhos" fica. Juleen é **mãe coagida e paga** (moedas de prata raspadas e ameaça aos filhos); a leitura "paga, competente e fria" cai. O pedido de processo e de testemunhas segue sendo pedido, não confissão (`decisoes/mandante-juleen-alvo-linhagem.md`).
 
-- **O marido é humano (decisão do autor, 2026-11-20) (aceito pelo autor no chat):** os filhos são mestiços (leviantar × humano). Em cena, Juleen acende a vela com a ponta do dedo e o marido risca uma pederneira; o texto não registra pensamento algum de Nolan sobre ele (havia "Um gnock", pensou Nolan; saiu em 2026-11-20, porque gnock é raro e Nolan não pode achar que todo humano dos burgos é gnock). A pederneira só indica que ele não acende pelo dedo; a espécie fica por conta da storybible e da comparação de Orval (cap. 41). Nolan **não sabe** que há humanos nos burgos de baixo.
-- **Cap. 4 (revisado em 2026-11-20):** Nolan pergunta se Juleen é humana; Dagmar responde que é leviantar ("acende o fogareiro com a ponta do dedo, como eu") e que foi conhecer a casa dela, nos burgos de baixo, antes de contratá-la. Nolan a censura por ter ido "entre eles"; ela corta: "Entre quem, Nolan?". O cap. 49 fecha o eco: "Dagmar lhe dissera que a aia era leviantar, e estava certa; ele temera a espécie errada."
+- **O marido é humano (decisão do autor, 2026-11-20) (aceito pelo autor no chat):** os filhos são mestiços (leviantar × humano). Em cena, Juleen acende a vela com a ponta do dedo e o marido risca uma pederneira; o texto não registra pensamento algum de Nolan sobre ele (havia "Um gnock", pensou Nolan; saiu em 2026-11-20, porque gnock é raro e Nolan não pode achar que todo humano dos burgos é gnock). A pederneira só indica que ele não acende pelo dedo; a espécie fica por conta da storybible (a frase de Orval no cap. 41 foi removida pelo autor em 2026-11-20). Nolan **não sabe** que há humanos nos burgos de baixo.
+- **Cap. 4 (revisado em 2026-11-20):** Nolan pergunta se Juleen é humana; Dagmar responde que é leviantar ("acende o fogareiro com a ponta do dedo, como eu") e que foi conhecer a casa dela, nos burgos de baixo, antes de contratá-la; Mathias a acompanhou (PR #20). Nolan a censura por ter ido "entre eles"; ela corta: "Entre quem, Nolan?". O eco do cap. 49 ("ele temera a espécie errada") saiu na revisão do PR #20; o cap. 49 agora só tem Nolan descobrindo o nome dela: "Uma aia. Juleen. Esse era o nome dela."
 - **Decidido (2026-11-20):** Nolan **não descobre** que o marido é humano; os "moradores humanos" do Gerdialias (cap. 53, L35) não mudam isso. **Em aberto:** o que acontece ao marido e aos filhos depois do cap. 49.

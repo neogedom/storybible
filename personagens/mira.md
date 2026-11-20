@@ -41,10 +41,7 @@ Saboc** (cap. 22). Conhece ervas — é ela quem reconhece o veneno.
 - O filho morto dela é só fundo — nunca mencionado no texto.
 - **Cap. 49 (2026-11-20) (aceito pelo autor no chat): a revelação acontece na Metrópole, no
   palacete.** Depois do Santuário, Nolan diz diante do chocalho de Saboc
-  "Dagmar saberia o que fazer com isto"; Mira, sem acusar ninguém, diz que "o
-  quarto inteiro cheirava a vembra, de tanto que ela tinha no corpo" e que
-  vembra "é o que as mulheres dos burgos tomam quando não querem ter o filho;
-  dá cheiro na pele por semanas". Nolan liga os pontos (a caneca do cap. 4, a
+  "Dagmar saberia o que fazer com isto"; Mira sorri e, sem querer, se trai ("Até me impressiona que ela tenha tentado não ter ele"); Nolan pergunta por que acha isso, e ela diz, hesitante, "Ela... ela fedia a vembra, senhor... O senhor não sabia?", que vembra "é o que as mulheres dos burgos tomam quando não querem ter o filho; dá cheiro na pele por semanas" e "Deve ter morrido por isso. Pensei que o senhor soubesse." (reescrito pelo autor no PR #20). Nolan liga os pontos (a caneca do cap. 4, a
   aia) e desfaz a leitura errada do cap. 22 (a doença dos humanos). Substitui os
   planos do cap. 24 (estrada da caçada) e de "na volta, no banco da carroça". A
   cena cortada (`cortes/capitulo24.md`, "chá de melissa") **não vale**: conflita

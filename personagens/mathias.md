@@ -90,7 +90,7 @@ Devour.
 
 ### Capítulo 49 (2026-11-20) (aceito pelo autor no chat)
 
-- Guardava o portal do palacete (cap. 4) e sabe onde dorme cada criado: é ele quem diz a Nolan onde Juleen mora. No armazém de salitre fica junto à porta e atinge o marido com o cabo da espada. No vestíbulo recebe as ordens de custódia de Mário e entrega os dois livros à cela.
+- Acompanhou Dagmar à casa de Juleen (cap. 4, revisão do PR #20) e, com ar de quem espreme a memória, diz a Nolan: "Acho que... no depósito de salitre do curtume, no burgo baixo, senhor." No armazém de salitre fica junto à porta e atinge o marido com o cabo da espada. Recebe as ordens de custódia de Mário (guarda civil de Valinor no portão leste; cela seca da Torre dos Ventos, dos presos nobres) e entrega os dois livros a um soldado do portal.
 
 ## Relações
 

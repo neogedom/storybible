@@ -97,6 +97,6 @@ silêncio, por desespero. O nome dele nunca é dito no capítulo (POV de Kate:
 
 ## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
 
-- **Postura**: ao pé da escada, calado, repassa as ordens e entrega os dois livros a um soldado do portal; no armazém, fica junto à porta e atinge o marido de Juleen com o cabo da espada.
+- **Postura**: repassa as ordens a um soldado do portal, entrega-lhe os dois livros e sai calado; com ar de quem espreme a memória ao dar o endereço; no armazém, fica junto à porta e atinge o marido de Juleen com o cabo da espada.
 - **Observação**: o texto não descreve a roupa dele neste capítulo.
 - **Fundo**: vestíbulo do palacete, rampa do curtume e armazém de salitre.

@@ -46,5 +46,5 @@ timestamp: 2026-08-26
 
 ## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
 
-- **Postura**: no alto da escada com Saboc no colo; precede Nolan até o quarto; ajeita o menino no braço enquanto fala da vembra.
+- **Postura**: no alto da escada com Saboc no colo; acompanha Nolan até o quarto; sorri e ajeita o menino no braço; hesita e segura a respiração ao se trair sobre a vembra.
 - **Fundo**: escada de mármore e quarto do menino, com o berço vazio e um chocalho de madeira pálida sobre a colcha.
