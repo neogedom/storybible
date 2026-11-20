@@ -6,7 +6,7 @@ pov: [Nolan, Kate]
 stc-beat: "Imagem de Abertura (~0-2%)"
 timeline: "Dia 1, ocaso — noite"
 tags: [prologo, L1, metropole, saramant, nolan, kate, genocydo, benjamim]
-timestamp: 2026-09-05T12:00:00-03:00
+timestamp: 2026-11-20T12:00:00-03:00
 ---
 
 ## Resumo
@@ -19,6 +19,10 @@ forma os padrões geométricos limpos que sinalizam a presença de Vonos — a
 leitura vem embaralhada (o Sinal fica instável, não mudo; ele só fica mudo a partir da libertação de Hícse, cap. 30;
 ver `conceitos/sinal-de-vonos.md`). Nolan Guenayer, Juiz
 da Metrópole, observa a cerimônia com crescente irritação (rinite, espirros).
+
+**Piet Brö**, o astrônomo da Metrópole, anota num caderno com o rosto voltado
+para o céu, alheio ao boato (linha 17; aplicado em 2026-11-20 como semente do
+fecho do L1, ver `insights/l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md`).
 
 O Rei **Genocydo** está visivelmente doente (câncer na garganta, tosse com
 sangue, olhos febris). Ele exige que o ritual seja repetido, mas o
@@ -35,6 +39,10 @@ senhores regionais de sobreaviso, decreto de captura vivo, Inquiridores
 financiados (com a corrida contra eles pela custódia).
 
 ### Parte 2 — Kate (Saramant)
+
+> Em 2026-11-20 o autor aceitou levar esta parte para o fim do cap. 6 (o prólogo
+> fica só com a Praça). Ainda não executado; ver
+> `decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md`.
 
 A centenas de quilômetros, na floresta de Saramant, **Kate** sente um
 espasmo violento — uma pressão que não é dela, uma fúria que queima como
@@ -66,6 +74,7 @@ Metrópole — "como se algo estivesse vindo".
 4. ✅ Kate sente o vazamento de Hícse (descrito como "brasa"/fúria que não é dela) — reverberação do embaralhamento
 5. ✅ Kate interrompe um ritual de transformação de humano em rampilla
 6. ✅ A brasa aponta para a Metrópole — sinal de que algo está vindo
+7. ✅ Piet Brö, o astrônomo da Metrópole, anota o céu durante a falha, alheio ao boato
 
 ## Sementes Plantadas
 
@@ -78,6 +87,9 @@ Metrópole — "como se algo estivesse vindo".
   soldados. Para quê?
 - 🌱 **A Doença de Genocydo**: O rei está morrendo. Isso acelera sua busca
   pela apoteose.
+- 🌱 **Piet na Praça**: o astrônomo anota e olha o céu enquanto o Sinal falha.
+  Paga no epílogo (conversa de Orval e Piet), onde ele relê o registro daquela
+  noite. Ver `insights/l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md`.
 
 ## Conexões
 
@@ -90,3 +102,7 @@ Metrópole — "como se algo estivesse vindo".
 ## Notas de INGEST
 
 - A brasa que Kate sente é Hícse — confirmar nomenclatura canônica.
+- 2026-11-20: a linha 17 ganhou Piet Brö (semente do fecho do L1); na linha 85,
+  "A guerra nunca viera" passou a "A guerra ainda não viera" (o bloco de Kate vai
+  para o fim do cap. 6, depois do aviso de Gaviorn'l). Estrutura aceita pelo
+  autor, ainda não executada: `decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md`.
