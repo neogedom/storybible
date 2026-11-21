@@ -428,3 +428,19 @@
   - **58** (Grande Câmara, manhã fria): o braço de quartzo do trono zumbe sob a mão do rei (linha 49), a dissonância do cap. 7 mostrada em vez de contada. A Grande Câmara é núcleo e fica calada no frio da manhã; a peça de quartzo reage à agitação do rei, fora do ciclo térmico.
   - **63** (tribuna, pico do sol): o rei tomado pelas "ressonâncias" enquanto grita "Fale!" (linhas 11 a 13). A tribuna é casca (decidido em 2026-11-19), então o zumbido chega inteiro.
   - **48** (aurora; opcional): castelo calado no frio, no máximo uma frase (o silêncio entre Nolan e Valinor, linha 49). O cap. 53 já ancora o silêncio da noite (linha 3). Serve de contraste para os caps. 60 a 66.
+
+### 2026-11-21: Nolan erra a previsão da recepção pública (rodada 50)
+
+- **Data**: 2026-11-21
+- **Ideia (uma linha)**: Nolan prevê que o rei receberá Mário em público, pelo Portão Leste (cap. 48:1 e :89). A recepção acontece em sala fechada, e Nolan só consegue tirar Mário das mãos de Genocydo com um pergaminho (cap. 50).
+- **Capítulos afetados**: 53 (payoff possível do risco 2: Nolan nunca errado).
+- **Status**: capturada (decisão do autor, rodada 50, item 48)
+- **Destino**: cap. 53, na revisão
+
+### 2026-11-21: "A Verdade Sustenta o Trono" como eco da tese de Vonos (rodada 50)
+
+- **Data**: 2026-11-21
+- **Ideia (uma linha)**: a inscrição do Monólito (cap. 50) repete a tese de Vonos (`conceitos/vonos.md`, linhas 33-38) e pode servir ao L2.
+- **Capítulos afetados**: L2.
+- **Status**: capturada (decisão do autor, rodada 50, item 48)
+- **Destino**: L2

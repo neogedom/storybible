@@ -3976,3 +3976,9 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-14 (fluxo de PR por sessão)
 
 - Autor decidiu: a main é a fonte; cada sessão abre PR para a main quando pedir; backup em `backup/main-2026-11-14`; `.github` (e `.kilo`, no Livro) ficam como na main. A branch `trabalho` foi superada. Decisão em `decisoes/2026-11-14-fluxo-pr-por-sessao.md`.
+
+## 2026-11-21 (rodada 50, cap. 50)
+
+- Autor decidiu a recepção de Genocydo no cap. 50 (cena nova, antes da cela). O primeiro encontro com Genocydo passa a ser no cap. 50; o cap. 54 fica pendente (`docs/handoff/pendencias-adiadas.md` do Livro, item 4). Mário lê o nome de Nolan no pergaminho. O Poço das Correntes passa à fala do sargento.
+- Mudanças pequenas em capítulos fechados, decididas pelo autor: cap. 47 (ligação entre Hícse, sonho e campo dos Moribundos); cap. 49 (Mathias avisa que a praça se enche); cap. 52 ("elohim" trocado por "Vonos"); cap. 56 ("seteira" trocada por "janela").
+- Fichas de Mário e Genocydo ficam para o Mini-INGEST do cap. 50 (pendência do Livro, item 3).
