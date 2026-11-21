@@ -28,6 +28,8 @@ convivem ali**, e não por descuido — por tese. Abriga os **Humanistas**, os
 leviantares que repudiam a Segregação (`conceitos/glossario.md`), e é onde
 vive o corpo intelectual que a Metrópole expulsou.
 
+**A comparação com a Metrópole (cap. 41, 2026-11-20):** a frase de Orval ("nos burgos de baixo da Metrópole a parede nunca existiu: o curtidor humano e o leviantar bebem do mesmo poço, e fiscal nenhum desce até lá") **foi removida pelo autor** no mesmo dia (commit "Remove duplicate sentence"); a comparação "versão feia da Cidadela" não está hoje em nenhum capítulo. Se Nolan soubesse de humanos dentro da muralha, mandaria expulsar (decisão do autor). Gus é a mesma mistura, por tese e com dignidade.
+
 ## A Academia dos Artífices (Gus)
 
 **Projeto gradual de uma nova Academia**, formado por professores que deixam

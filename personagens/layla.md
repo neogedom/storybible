@@ -4,7 +4,7 @@ title: Layla
 description: Prostituta pessoal do Rei Genocydo, informante de Nolan. Beleza suja em contraste com a frieza da Metrópole.
 tags: [personagem, informante, L1]
 resource: https://github.com/neogedom/storybible/blob/main/personagens/layla.md
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-20T12:00:00-03:00
 ---
 
 ## Visão Geral
@@ -55,6 +55,13 @@ Ver timeline visual completa em [visuais/layla.md](/visuais/layla.md).
 - Trouxe a Bíblia de Kraviam em vez do diário
 - Enfrenta Nolan com deboche — sabe que ele não pode matá-la
   _Atualizado a cada INGEST de capítulo._
+
+### Capítulo 49 (cena no jardim do palacete, 2026-11-20) (reescrita pelo autor no PR #20)
+
+- **Layla traz o diário por conta própria** ao chafariz seco do jardim do palacete (o mesmo do cap. 10): "Vim trazer o diário que tanto queria." Nolan a recebe com deboche ("volte para seu prostíbulo") e a recusa: "Chegou tarde. Não preciso mais dele. E não ache que isso vá compensar sua falha." Ela responde "Falhei, mas passei três meses aprendendo onde o rei guarda o que importa" e que não era na biblioteca (Nolan supunha o diário na biblioteca real, cap. 10, L1 e L11), e sim na mesa de cabeceira, ao lado da bacia de prata (cap. 54).
+- **Nolan** diz que não precisa do diário, mas, antes de mandá-la queimá-lo, pensa em usá-lo com Mário ("mostrar a Mário que tipo de Rei sentava no Trono hoje") e o toma das mãos dela. Não lê a língua; supõe que Mário lê, porque diziam que o Estrangeiro falava aquela língua (cap. 19, L45).
+- **Saíram** (versão anterior, minha, aceita no chat e depois cortada pelo autor): a explicação do plano (a troca noturna por um livro de contas de capa igual, o rei que só abre o caderno sozinho e lúcido, a execução na manhã em que soube que Nolan voltara) e a fala "Esta noite eu passo pela biblioteca".
+- **Aplicado (2026-11-20, aceito pelo autor):** cap. 53, L17: "Do caderno ele não perguntou. Enquanto Benjamim não sair do lado dele, ninguém dá falta de nada." Cap. 54, L29: ao ouvir Mário falar do diário, Genocydo olha o espaço vazio ao lado da bacia de prata, estende a mão e a recolhe (Mário não entende o gesto; o leitor sim). "Na capa" virou "na folha de rosto" (54:27), como no cap. 52.
 
 ---
 

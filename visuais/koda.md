@@ -15,3 +15,7 @@ timestamp: 2026-11-14T23:00:00-03:00
 - **Acessórios**: pena de ganso; livros de contabilidade encapados em couro verde; amassa um recibo.
 - **Postura**: sentado atrás de uma montanha de livros; recua contra o estofamento; respostas com pressa.
 - **Fundo**: sala da tesouraria real.
+
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Não aparece** (entra só entre os suspeitos de Nolan, no armazém).

@@ -43,8 +43,7 @@ o mundo conhecido para além de Ornick.
 ## Função na História
 
 - **L1**: Força geopolítica nos bastidores. Koda conspira e costura a
-  operação do destacamento; a operação do final do L1 **falha** (destacamento
-  aniquilado pela ação divina).
+  operação do destacamento; a operação do final do L1 **falha** (destacamento aniquilado pela ação divina). Canon de 2026-11-20 (fora do texto): por Koda, Alavria mandou matar a linhagem Guenayer × Addorbek (Dagmar e o herdeiro) antes do vácuo do trono; ver `decisoes/mandante-juleen-alvo-linhagem.md`.
 - **Entre L1 e L2**: Alavria **se prepara** para revidar a perda do
   destacamento com uma incursão frontal. Saramant (com o Castelo de Devour)
   pode ser uma cabeça de ponte estratégica.

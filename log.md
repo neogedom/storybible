@@ -1,5 +1,79 @@
 # Log de Atualizações
 
+## 2026-11-20 (Mini-INGEST do cap. 49 conferido contra a main)
+
+- Pergunta do autor: o Mini-INGEST precisa de ajuste? A main ganhou os PRs #9 e #10 (a caçada de Kate saiu do prólogo para o cap. 6); a branch os trouxe por merge, com conflitos em `index.md`, `log.md` e `temas/esquema-l1.md` resolvidos mantendo os dois lados.
+- Ajustado: cap. 49 em **3.564** palavras (o L57 acrescentou uma) e acumulado dos caps. 0–49 em **126.698** (126.593 do Mini-INGEST, mais 1 do L57 e 104 da mudança de Kate), ainda 92,1%, na ficha, no esquema e na decisão do lote; a citação do cap. 4 na ficha de Juleen passou a "burgos de baixo". Visuais, sementes, canon e fronteira conferidos contra o texto atual, sem outras diferenças.
+
+## 2026-11-20 (cap. 49, L57: "a qual deus")
+
+- Correção do autor: a sugestão de review do L57 ("qual a deus") queria dizer "a qual deus"; eu tinha mantido "qual deus". O texto passou a "para saberem a qual deus devem incensar pela manhã" (cap. 49: +1 palavra). Atualizadas as duas decisões que registravam o "qual deus" mantido (`decisoes/2026-11-20-cap49-comentarios-em-lote.md` e `decisoes/2026-11-20-claude-resolve-threads-de-review.md`).
+
+## 2026-11-20 (PR #20: o Claude passa a resolver as threads tratadas)
+
+- Decisão do autor: resolver os comentários de review vira prática padrão, para ele saber se pode mesclar sem reler tudo. As 44 threads abertas do PR #20 foram resolvidas (as 2 de L7 e L13 já estavam). O autor manteve o texto como está, inclusive os sete ajustes do Claude em relação às sugestões e o "qual deus" do L57.
+- Novo: `decisoes/2026-11-20-claude-resolve-threads-de-review.md`. Atualizados: `index.md` (que também ganhou as duas decisões de 2026-11-20 que faltavam) e `AGENTS.md`. No Livro: `docs/guardrails.md` e `CLAUDE.md`.
+
+## 2026-11-20 (cap. 59: Nolan registra "mundo")
+
+- Decisão do autor: opção (b) da inferência de Nolan. Livro: cap. 59, L23, parágrafo novo (Nolan retém "mundo", lembra o "juristas do seu mundo" do cap. 56, L43 e nota que ninguém na sala o percebeu); o capítulo vai de 907 a 949 palavras. A opção (c) e o ajuste de redação do 49:93 não foram aplicados; o ajuste aguarda o sim do autor.
+- Atualizados: `insights/_inbox.md`, `decisoes/2026-11-20-cap49-comentarios-em-lote.md`, `temas/{sementes,esquema-l1}.md`, `capitulos/capitulo-49.md`.
+
+## 2026-11-20 (inferência de Nolan: opções detalhadas e âncoras corrigidas)
+
+- Pedido do autor: explicar melhor as duas opções da inferência "mesma língua, mesmo lugar". O inbox e a decisão do lote ganharam as âncoras corretas (a ordem "Quero saber se os lê" está em 49:101 e os livros aparecem na cela em 50:49; constava 50:47), o plantio do cap. 56, L43 ("juristas do meu mundo"), os rascunhos revistos de (b) e (c) e um ajuste de redação sugerido para o 49:93 (boato versus inferência). Nada foi aplicado ao texto do livro; a escolha é do autor.
+
+## 2026-11-20 (cap. 60: guarda civil da cidade)
+
+- Pedido do autor: trocar também no cap. 60, L43, "guarda civil de Valinor" por "guarda civil da cidade". Canon dado por ele: o Rei comanda a guarda civil, uma divisão inferior; os Espadas da Lei são a divisão de elite. Atualizados `conceitos/glossario.md`, `lugares/metropole.md` e a decisão do lote. O inbox ganhou os rascunhos das opções (b) e (c) da inferência de Nolan.
+
+## 2026-11-20 (PR #20: guarda civil, desdém de Nuh e a inferência de Nolan)
+
+- Observações do autor (chat): "de Valinor" confundiria a guarda civil com os Espadas da Lei (treinados pelos Addorbek; Valinor é o general deles), então o cap. 49, L97, passa a "guarda civil da cidade" (o cap. 60, L43, ainda diz "de Valinor", texto do autor). O "a tal apoteose", com desdém, é intencional e prepara o pensamento de Nolan no L21, que ganhou "Agora o próprio Nuh desdenhava dela. Pena que o velho não o tivesse ouvido naquele dia." A inferência "mesma língua, mesmo lugar" fica como hipótese; consequências avaliadas na decisão do lote e no inbox.
+- Atualizados: `conceitos/glossario.md`, `lugares/metropole.md`, `personagens/{mathias,nuh-dteraghar}.md`, `capitulos/capitulo-49.md`, `decisoes/2026-11-20-cap49-comentarios-em-lote.md`, `insights/_inbox.md`.
+
+## 2026-11-20 (PR #20: 46 comentários de review do autor, em lote)
+
+- A pedido do autor ("rode"), os 46 comentários de review do PR do Livro (44 no cap. 49, 1 no cap. 50 e 1 no cap. 54) entraram em lote. Nada foi respondido nem resolvido nas threads do GitHub.
+- Livro: sete commits (cena de Nuh; cena de Layla; ordens, Mira e a vembra; Mathias e o armazém; cap. 4, Dagmar e Mathias; cap. 54, o espaço vazio na mesa de cabeceira; cap. 54, Kraviam americano, filho de brasileiros). O cap. 49 vai a 3.543 palavras. O autor também removeu a frase de Orval no cap. 41 (commit 465dc70), e a branch foi mesclada sem reescrever histórico.
+- Storybible: `decisoes/2026-11-20-cap49-comentarios-em-lote.md` (nova seção "Revisão do PR #20"), `capitulos/capitulo-49.md` e o esquema (contagens e linhas), `personagens/{nuh-dteraghar,layla,mathias,dagmar,juleen,mira,genocydo}.md`, `conceitos/{vonos,segregacao,glossario}.md`, `lugares/{metropole,cidadela-de-gus}.md`, `temas/sementes.md`, `insights/_inbox.md`, `visuais/{layla,mira,mathias}.md`. Canon novo: Kraviam é americano, filho de brasileiros; Mathias acompanhou Dagmar à casa de Juleen; a cela dos presos nobres na Torre dos Ventos; "guarda civil de Valinor" e "chancelaria" no glossário. Saíram do texto: a fresta "o caminho passa pelo trono" (Nuh), a troca por um livro de contas (Layla) e a frase de Orval (cap. 41).
+
+## 2026-11-20 (mandante de Juleen: Koda, sem pistas no texto)
+
+- Decisões do autor (no chat): o texto do cap. 49 não aponta o mandante (Juleen não sabe nomes; Nolan lista Nuh, Benjamim, Lupe'i, Genocydo, Koda e Alavria); na storybible, o mandante é Koda, com revelação no L2.
+- Livro: cap. 49, L169 e L171. Saíram "homem da tesouraria" e "selo do porto sul"; ficam a prata raspada e os despachos do colete (cap. 48). O capítulo passa a 3.280 palavras.
+- Storybible: `decisoes/mandante-juleen-alvo-linhagem.md` (revisão do canon de 2026-09-19), `personagens/{koda,benjamim,juleen}.md`, `lugares/{porto-sul,alavria}.md`, `insights/{povs-l2-gunad-lakand-koda,vembra-e-a-morte-de-dagmar,_inbox}.md`, `temas/{sementes,esquema-l1}.md`, `capitulos/capitulo-49.md` e a decisão do lote.
+
+## 2026-11-20 (gnock: Nolan não rotula os humanos dos burgos)
+
+- Decisão do autor (no chat): como gnock é uma condição muito rara, Nolan não pode achar que todo humano dos burgos é gnock; isso contraria o canon. Um segundo gnock além de Kate não é proibido, e o autor admite que talvez um a mais, só, não tenha problema; não há gnock novo no texto.
+- Livro: cap. 49, L137: saiu "Um gnock", pensou Nolan, e não pensou mais nisso.
+- Storybible: `personagens/{nolan,juleen}.md`, `conceitos/{segregacao,glossario}.md`, `capitulos/capitulo-49.md` e a decisão do lote (nova seção "Gnock").
+
+## 2026-11-20 (cap. 49: decisões do autor aplicadas e Mini-INGEST)
+
+- Decisões do autor (no chat): não reordenar o cap. 49; as 35 palavras da vista da Metrópole abrem o cap. 50 (marcador 29); a unção da Festa da Poda é preparação para a apoteose (óleo do Templo, apoteose de Terbs); "A Ordem responde ao Sumo Sacerdote" plantada no cap. 28; Juleen é mãe coagida e paga; Gerdialias: os humanos ficam e Nolan não precisa saber; Nolan não descobre o marido humano; Dagmar ter visitado a casa de Juleen vira canon; mandante em aberto (Koda ou Benjamim, sem pista falsa).
+- Livro: caps. 28, 49, 50, 52, 53, 54 e 59 (sete commits por assunto): marcadores 1 e 29 removidos, óleo da apoteose, termo "guarda civil", boato do cap. 50, fonte do enforcamento no cap. 52 (Gunad), "testemunhas de defesa" no 59, convocação não assinada no 53, linha de Layla sobre o caderno e gesto do rei no 54.
+- Storybible: `capitulos/capitulo-49.md` (Mini-INGEST), `visuais/{nolan,layla,mathias,mira,saboc,ossan}.md`, `temas/esquema-l1.md` (tabela e blocos superados), `decisoes/2026-11-20-cap49-comentarios-em-lote.md`, `decisoes/mandante-juleen-alvo-linhagem.md`, `insights/_inbox.md` (prós e contras Koda × Benjamim, payoff opcional do óleo no cap. 66), `personagens/{nuh-dteraghar,layla,juleen,benjamim,koda,mira,dagmar,nolan,mathias}.md`, `lugares/{metropole,cidadela-de-gus}.md`, `conceitos/{segregacao,terbs,vonos}.md`, `temas/sementes.md`. Tags "a validar" trocadas por "aceito pelo autor". Correção: o "conselheiro idoso" do cap. 66 coroa Mário, não o unge.
+- Não rodados (checkpoint em lote, por decisão do projeto): anti-slop, revisão linguística e passe de fechos.
+
+## 2026-11-20 (Segregação por baixo: caps. 4, 41 e 49)
+
+- Decisões do autor (no chat): a comparação "versão feia da Cidadela" vem de outra pessoa que não Nolan, porque ele mandaria expulsar se soubesse de humanos dentro da Metrópole; o marido de Juleen pode ser humano; "burgos de baixo" no lugar de "burgos periféricos".
+- Livro: cap. 4 (Nolan suspeita da espécie de Juleen, Dagmar a defende, ele a censura por ter ido "entre eles"), cap. 41 (Orval faz a comparação e explica por que Nolan não sabe) e cap. 49 (o marido risca uma pederneira; havia "Um gnock", pensou Nolan, retirado no mesmo dia, ver a entrada "gnock" abaixo; eco da fala de Dagmar).
+- Atualizados: `conceitos/segregacao.md`, `lugares/{metropole,cidadela-de-gus}.md`, `personagens/{juleen,dagmar,nolan}.md`, `decisoes/2026-11-20-cap49-comentarios-em-lote.md` e o inbox. Em aberto: os "moradores humanos" do Gerdialias (caps. 53 e 58).
+
+## 2026-11-20 (cap. 49: o diário chega a Nolan pela cena de Layla)
+
+- Decisão do autor (no chat): opção b, a cena curta de Layla. Ideia do autor incorporada: Layla passou os três meses descobrindo onde o rei guarda o caderno, formulando um plano e testando-o, e só o executou ao saber que Nolan voltara, porque antes o rei daria falta. A cena entrou no jardim do palacete (o chafariz do cap. 10) e o marcador 31 saiu do cap. 49.
+- Atualizados: `personagens/layla.md`, `temas/sementes.md` (#15), `lugares/metropole.md` (palacete), `decisoes/2026-11-20-cap49-comentarios-em-lote.md` e o inbox. Ficam os marcadores 1 e 29 no cap. 49.
+
+## 2026-11-20 (cap. 49: comentários do autor aplicados em lote)
+
+- Avaliação dos 31 comentários do cap. 49 com três subagentes (coerência do canon, em duas frentes, e densidade) e aplicação no livro em commits por cena: Santuário e Nuh; palacete, Mira e Juleen; alinhamentos nos caps. 53, 56 e epílogo. Ficam três marcadores para o autor (1, 29 e 31). Tudo entra como proposta, a validar no PR.
+- Canon do texto: a cena de Nuh (omissão deliberada, sem nomear Mário), Saboc em cena, a vembra dita por Mira no palacete, o endereço dado por Mathias, a família de Juleen, a fala-plant aprovada e o diário por ponte provisória. Registro em `decisoes/2026-11-20-cap49-comentarios-em-lote.md`.
+- Atualizados: `personagens/{nuh-dteraghar,juleen,mira,layla,mathias}.md`, `insights/{vembra-e-a-morte-de-dagmar,nolan-cobra-nuh-informacao-negada,_inbox}.md`, `lugares/metropole.md`, `temas/{sementes,cronologia-l1}.md`. No inbox, cinco entradas novas (reordenar, fecho do 47, o diário, Koda e o mandante, incongruências a jusante).
+
 ## 2026-11-20 (Saída A: o espasmo de Kate fica no prólogo e a caçada vai para o fim do cap. 6)
 
 - Pergunta do autor: como resolver Kate só aparecer no cap. 6. Avaliadas três saídas (A: espasmo no prólogo; capítulo novo numerado entre o 3 e o 4, que renumera 4 a 66; subir o cap. 6 para o lugar do 4, que troca 4, 5 e 6). O autor escolheu a A. **Supera** o item da entrada seguinte sobre o bloco inteiro de Kate ir para o cap. 6.

@@ -31,7 +31,7 @@ reencarnado" foi a interpretação errônea do povo, não a intenção de Vonos.
 **instruído em Química na Terra** — é o que explica a guerra biológica da
 Guerra do Grifo (antraz; as cartas forradas de "pó letal" do cap. 7; o
 câncer que corroeu os próprios lábios, vindo do laboratório secreto).
-Cristão **nominal** (não fiel): conhecia credos e retórica sinodal o bastante
+Americano, filho de brasileiros (decisão do autor, 2026-11-20, no PR #20): a Bíblia dele está em português porque era a de seus pais, e o cap. 54 o apresenta como "Americano, filho de brasileiros, formado em química" (antes, "formado em química em São Paulo"). Cristão **nominal** (não fiel): conhecia credos e retórica sinodal o bastante
 para compreender os apelos de Mário sobre pecado, arrependimento, redenção e
 graça; esse verniz não era fé viva. Nunca foi eleito (semente de Nachash).
 **Aprendeu ornickenho com os Guenayer** ao chegar —

@@ -53,7 +53,7 @@ expandir para o mundo. **A tese é falsificada de novo no L2** (a queda
 constantiniana de Mário — a instituição corrompe o redimido): "não existe
 utopia cristã pela espada governamental".
 
-> ⚠️ Este plano NÃO é conhecido por nenhum personagem no L1.
+> ⚠️ Este plano NÃO é conhecido por nenhum personagem no L1. O cap. 49 chegou a ter uma fresta (a Ordem registrara "aonde o caminho dele leva", "passa pelo trono"); ela saiu na revisão do PR #20 (2026-11-20): Nuh só diz que a Ordem cravou diapasões para localizar o Estrangeiro e que o Templo não toma partido de golpe de Estado, e crê que a apoteose de Genocydo é plano de Vonos. O diário (cap. 52) conta a Mário só o experimento com Genocydo.
 
 ## O Sinal
 
