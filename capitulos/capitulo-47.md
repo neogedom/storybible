@@ -38,7 +38,7 @@ Mário segue amarrado sobre a mula, com a forquilha de freixo no pescoço, na ma
 
 - **Semente #5 (sonho):** Hícse e o campo dos Moribundos se ligam na cabeça de Mário (linha 9). Ligação planejada para Gus; aqui ela aparece pela primeira vez.
 - **Milagre com custo:** a cura não converte ninguém. O custo cai sobre Mário: cordas mais apertadas e a forquilha cravada. Registro em `conceitos/milagre.md`.
-- **Rapaz curado:** volta no cap. 63 (reconhecimento, inbox de 2026-11-13). A referência "semente #32" no inbox não existe em `temas/sementes.md`; vale conferir.
+- **Semente #32 (O Rapaz Curado dos Clãs, `temas/sementes.md`, seção 32):** plantada aqui; o payoff aceito é o cap. 63 (Mário reconhece o rapaz na Garfo, sem conversão). O pagamento do L2 é proposta do autor.
 - **Estruzzo:** o nome que Kate trouxe da muralha norte de Gus; agora tem corpo (linha 19). Ver `visuais/estruzzo.md`.
 - **Karrk:** chefe da guarda, de um Clã Estruzzo (decisão de 2026-11-18).
 

@@ -4000,3 +4000,7 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 - Canon: Juleen enforcada no cap. 49 (não no cap. 32). A Ordem vigia o Estrangeiro desde antes do nascimento de Saboc (Nuh). Registro de ocorrências de milagre: cura do rapaz no cap. 47, com custo criatural.
 - Sementes: #6 pagos os plantios 4 e 5 (o mandante segue sem nome; o status de 2026-10-04 é histórico); #7 com os rampillas em cena.
 - Pendências: "semente #32" citada no inbox não existe em `temas/sementes.md`. O rapaz curado do cap. 47 volta no cap. 63.
+
+## 2026-11-21 (correção ao Mini-INGEST do cap. 47)
+
+- A semente #32 **existe**: `temas/sementes.md`, seção 32 ("O Rapaz Curado dos Clãs"). A linha anterior dizia o contrário, e estava errada. A referência do inbox está certa. Corrigida a ficha do cap. 47.
