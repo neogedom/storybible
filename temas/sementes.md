@@ -25,6 +25,8 @@ timestamp: 2026-07-24T12:00:00-03:00
   **Nota (canon 2026-08-11):** a Bíblia é prova da fachada — Kraviam era
   cristão NOMINAL (tinha o livro), nunca fora eleito (semente de Nachash).
 
+- **Cap. 50 (Mini-INGEST, 2026-11-21):** o livro grosso encadernado em couro escuro e o caderno de capa gasta chegam à cela por ordem de Nolan (cap. 49). Pendência: harmonizar com a descrição da cela no cap. 52.
+
 ## 3. Gunad Deltëra
 
 - **Plantio**: L1, Cap. 7 — Koda menciona "Gunad não está"
@@ -116,6 +118,8 @@ timestamp: 2026-07-24T12:00:00-03:00
   dentro e o papel de Mário é impedir → L2 (registros reais) + clímax do L1
   (impede pela rendição). NÃO remover: a semente é o que justifica o
   reconhecimento dos registros e carrega o conteúdo único do sonho.
+
+- **Cap. 50 (Mini-INGEST, 2026-11-21):** Mário reconhece o Monólito e a inscrição "A Verdade Sustenta o Trono" ao chegar à praça (linha 35). Paga a faceta 2 ("o lugar é real") para o Monólito, que estava intacta. A ligação com Hícse e os Moribundos aparece no cap. 47 (linha 9).
 
 ## 6. Juleen e a Morte de Dagmar
 

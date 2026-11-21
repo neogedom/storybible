@@ -3982,3 +3982,13 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 - Autor decidiu a recepção de Genocydo no cap. 50 (cena nova, antes da cela). O primeiro encontro com Genocydo passa a ser no cap. 50; o cap. 54 fica pendente (`docs/handoff/pendencias-adiadas.md` do Livro, item 4). Mário lê o nome de Nolan no pergaminho. O Poço das Correntes passa à fala do sargento.
 - Mudanças pequenas em capítulos fechados, decididas pelo autor: cap. 47 (ligação entre Hícse, sonho e campo dos Moribundos); cap. 49 (Mathias avisa que a praça se enche); cap. 52 ("elohim" trocado por "Vonos"); cap. 56 ("seteira" trocada por "janela").
 - Fichas de Mário e Genocydo ficam para o Mini-INGEST do cap. 50 (pendência do Livro, item 3).
+
+## 2026-11-21 (Mini-INGEST cap. 50)
+
+- Ficha `capitulos/capitulo-50.md` criada (POV Mário; Tudo Está Perdido, inferido). Visuais: Mário, Genocydo, Nolan e Benjamim com o estado do capítulo; Kate e Lakand com "não aparece".
+- Canon: primeiro contato de Mário com Genocydo no cap. 50 (a primeira conversa é no cap. 54). Elysia convocada para a assembleia (caps. 48, 53, 58). O Poço das Correntes aparece só neste capítulo, na fala do sargento.
+- Sementes: #5 paga a faceta 2 (o lugar é real) com o Monólito; #2 ganha os livros da cela.
+- Glossário: "elohim" e "elohins" não aparecem no Livro 1; no Livro 1 se diz "deuses".
+- Tabela de progresso (`temas/esquema-l1.md`): caps. 47 a 50 recalculados (palavras e % real), com base de 116.507 palavras até o cap. 46, na régua de 137.500. POV do cap. 49 corrigido para Nolan; do cap. 50, para Mário.
+- Checkpoint: não atingido. Desde o checkpoint de 2026-11-13 (caps. 37 a 46) são 4 caps, e a fronteira do beat "Tudo Está Perdido" ainda não fechou (fecha no cap. 51).
+- Pendência: não há ficha para os caps. 47 e 49 em `capitulos/`.

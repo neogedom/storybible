@@ -30,6 +30,15 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - **Não aparece** (citado por Valinor e Koda; não aparece).
 
+## Capítulo 50 — Portão Leste (Mini-INGEST, 2026-11-21)
+
+- Roupas: vestes brancas e douradas que pendem do corpo, como de um cabide.
+- Pele: cinzenta, com crosta escura no lábio inferior (câncer, canon do cap. 54).
+- Acessórios: anéis de safira nos dedos magros; sentado no trono, sobre estrado de mármore.
+- Estado: doente; mão trêmula; um fio escuro escorre pelo queixo ao beber.
+- Expressão: tensão e vaidade; o olhar vaga pela sala sem se fixar.
+
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

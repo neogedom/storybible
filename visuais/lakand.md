@@ -142,6 +142,11 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - **Não aparece** (em Gus, com Kate).
 
+## Capítulo 50 — Portão Leste (Mini-INGEST, 2026-11-21)
+
+- _Não aparece._ Ausente da cena da Metrópole.
+
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

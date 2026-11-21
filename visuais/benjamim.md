@@ -34,6 +34,13 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Postura**: caminha livremente pelo piso de mosaicos; os nobres beijam a barra de suas mangas.
 - **Fundo**: Grande Galeria do Castelo de Quartzo, colunas de mármore.
 
+## Capítulo 50 — Portão Leste (Mini-INGEST, 2026-11-21)
+
+- Roupas: túnica púrpura; segura um turíbulo de prata.
+- Postura: atrás do trono, olhando para o rei.
+- Expressão: sorri com um canto dos lábios.
+
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

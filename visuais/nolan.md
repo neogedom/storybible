@@ -190,6 +190,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Expressão**: sem mexer o rosto diante do golpe de Koda; repugnância contida com Benjamim.
 - **Fundo**: ponte de pedra ao amanhecer, portão oeste, burgo baixo, Praça Central, escadarias do Castelo de Quartzo, tesouraria real, Grande Galeria.
 
+## Capítulo 50 — Portão Leste (Mini-INGEST, 2026-11-21)
+
+- Roupas: casaco preto.
+- Ferimentos: nenhum.
+- Postura: junto ao estrado, sem olhar para o rei; manda os dois homens com o pergaminho.
+- Expressão: imóvel.
+
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

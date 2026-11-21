@@ -249,6 +249,17 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - **Não aparece** (na marcha dos Clãs).
 
+## Capítulo 50 — Portão Leste (Mini-INGEST, 2026-11-21)
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Roupas     | Camisa de estopa encardida; descalço (botas e casaco tomados na marcha dos Clãs) |
+| Ferimentos | Duas feridas abertas sob o maxilar, com pus; pulsos marcados pelas cordas; forquilha desatada na muralha externa |
+| Postura    | Descalço na entrada; de pé entre dois guardas na sala; de joelhos na cela, com as mãos amarradas à frente |
+| Expressão  | Cabeça baixa na multidão; firme diante do rei, sem responder |
+| Fundo      | Arco de entrada → praça do Monólito → sala de colunas do palácio → cela da torre |
+
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

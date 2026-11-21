@@ -66,3 +66,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 > Este arquivo reúne 43 entradas em tabela.
 > Este arquivo é a referência atual do glossário. O ponteiro antigo para `.github/storybible/GLOSSARIO.md` (repo `livro`) nunca existiu no histórico daquele repositório.
+
+## Regras de escrita (decisão do autor, 2026-11-21)
+
+- **Elohim, elohins**: não aparecem no Livro 1. No Livro 1 se diz "deuses". "Elohins" é termo do Livro 2.
