@@ -467,12 +467,8 @@
 ### 2026-11-21: Reunião do Conselho já marcada como ocasião da apresentação de Mário (cap. 50)
 
 - **Data**: 2026-11-21
-- **Ideia (uma linha)**: Elysia teria sido convocada a uma reunião do Conselho para explicar a distribuição de comida e a fome. Nolan aproveita essa reunião já marcada para apresentar Mário aos conselheiros, porque, depois da última reunião, eles ficariam ressabiados de outra que parecesse tentativa de golpe. Nolan precisa saber, em capítulo anterior, que a reunião está marcada.
-- **Capítulos afetados**: 48 ou 49 (semente: Nolan sabe da reunião), 50 (cena da recepção), 53 (plano de Nolan), 58 (Elysia).
-- **Status**: em desenvolvimento (comentário do autor no PR #23, cap. 50, L51). Hoje o texto do cap. 50 deixa a sala neutra ("homens de vestes ricas"), sem Conselho nem Elysia.
-- **Destino**: decisão do autor.
-- **Relação com o cânone**: `personagens/elysia.md` (veio pedir grão; comboio massacrado, linhas 14-24); cap. 58:7 e :17 (Elysia "não esperava encontrá-lo ferido e amarrado": só vê Mário na Grande Câmara); cap. 49:97-105 (plano de Nolan: Mário na cela, custódia "para instrução perante a Grande Assembleia"); cap. 53:55 (Nolan apresenta Mário ao Conselho na manhã seguinte).
-- **Conflitos a resolver se a ideia entrar**:
-  1. Elysia na reunião da véspera contradiz o cap. 58:7 e :17. Ajuste pequeno no cap. 58 ("já o vira"), ou Elysia fica fora da véspera.
-  2. A ideia faz Nolan apresentar Mário ao Conselho na véspera, e o cap. 49 o põe na cela. O plano de Nolan muda.
-  3. Quem preside a reunião, o rei ou Nolan? Hoje o rei está no trono, e Nolan só interfere no fim.
+- **Ideia (uma linha)**: Elysia foi convocada ao Conselho para explicar a distribuição de comida e a fome. Nolan aproveita essa reunião já marcada para apresentar Mário aos conselheiros, porque, depois da última reunião, eles não voltariam a se reunir por algo que parecesse tentativa de golpe.
+- **Capítulos afetados**: 48 (convocação de Elysia, linha 81), 50 (fala do rei: "os Clãs cumpriram a parte deles"), 53 (Nolan explica o motivo, linha 55), 58 (Elysia convocada pelo Conselho, linha 7).
+- **Status**: aplicada (decisão do autor, 2026-11-21: "quero seguir com a ideia"), em `6a0de7b` no PR #23 do Livro.
+- **Destino**: concluída. A assembleia de Nolan (cap. 48, linha 89; cap. 53, linha 19) é a Grande Câmara do cap. 58; não há reunião separada na véspera.
+- **Relação com o cânone**: `personagens/elysia.md` (veio pedir grão; comboio massacrado, linhas 14-24); cap. 49:97-105 (plano de Nolan: Mário na cela, custódia para instrução perante a Grande Assembleia), preservado.
