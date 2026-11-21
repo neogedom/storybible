@@ -455,9 +455,9 @@
 - **Relação com o cânone**: `personagens/genocydo.md` (Mark Kraviam é o rei, linha 12; formação em química e bancos reformados, linha 30); `conceitos/milagre.md`, linhas 34-40 (poder dos elohim é delegado e criatural) e 101-108 (b'nei elohim: os filhos de Deus que receberam nações); `capitulos/capitulo-54` (conversa atual).
 - **Guardrails**: Mário não nega que os deuses existam, só que sejam deuses. Não pode virar argumento vencedor, e a conversa não confirma plano nenhum. Risco 4: o núcleo temático está na Noite Escura (caps. 52 a 58), e a tese não pode ficar clara cedo.
 - **Dúvidas para o autor**:
-  1. O termo "elohim" foi retirado do livro (decisão do item 26). A fala de Kraviam usa "deuses" e a narração pode usar "elohins"? Ou fica sem o termo?
+  1. **Resolvida (2026-11-21):** no Livro 1 só se fala em "deuses". "Elohins" só aparece no Livro 2.
   2. A conversa substitui parte da conversa atual do cap. 54, ou entra como nova fala depois da oferta de Mário?
-  3. Kraviam não conhece a natureza dos elohins: isso fica explícito na cena ou só se percebe pela resposta?
+  3. **Resolvida (2026-11-21):** a cena só fica se couber no PoV de Mário. Mário não nega que as entidades existam; afirma que não são deuses. Kraviam não sabe o que elas são, e a cena não resolve isso.
 - **Cena exemplo (cap. 54, esboço)**:
   — Não é verdade — disse Kraviam. — O que dizer dos deuses daqui? Vonos fala com os homens. Terbs cumpre o que promete.
   — Eles existem — disse Mário. — Eu não disse que não existem. Disse que não são deuses. Deve haver outra explicação para eles, e ela não cabe no nome que vocês usam.
