@@ -58,3 +58,9 @@ teológico**, não malícia.
 
 **Prompt de referência (imagem-retrato do arquivo):**
 Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um sacerdote idoso diante de um templo de Vonos com luz pálida e geometria ritual. Nuh d'Teraghar, sumo sacerdote idoso de Vonos, rosto magro e grave, vestes cerimoniais brancas e douradas com insígnias geométricas, talismã ritual no peito, postura solene, expressão de fé sincera que não enxerga a própria cegueira. Iluminação: chiaroscuro dramático com luz pálida e fria de templo. Atmosfera: de devoção institucional e erro teológico silencioso. Paleta de cores: branco, ouro e cinza-pedra. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.
+
+## Cap. 49 (Mini-INGEST, 2026-11-21)
+
+- Recusa levar a verdade ao Conselho: "Vonos está no controle"; Terbs é "o machado nas mãos de Vonos".
+- Pergunta a Nolan quanto tempo o filho ficou no Rohdis. Nolan entende que a Ordem vigiava o Estrangeiro desde antes do nascimento de Saboc.
+

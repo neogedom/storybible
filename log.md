@@ -3992,3 +3992,11 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 - Tabela de progresso (`temas/esquema-l1.md`): caps. 47 a 50 recalculados (palavras e % real), com base de 116.507 palavras até o cap. 46, na régua de 137.500. POV do cap. 49 corrigido para Nolan; do cap. 50, para Mário.
 - Checkpoint: não atingido. Desde o checkpoint de 2026-11-13 (caps. 37 a 46) são 4 caps, e a fronteira do beat "Tudo Está Perdido" ainda não fechou (fecha no cap. 51).
 - Pendência: não há ficha para os caps. 47 e 49 em `capitulos/`.
+
+## 2026-11-21 (Mini-INGEST caps. 47 e 49)
+
+- Fichas `capitulos/capitulo-47.md` (POV Mário; marcha dos Clãs, Dia 106) e `capitulos/capitulo-49.md` (POV Nolan; Juleen, Dia 107). Fronteiras: 47 fecha em decisão com custo (corte em D); 49 fecha em desastre (corte em D).
+- Visuais: Mário e Estruzzo (cap. 47); Nolan, Layla, Mira, Saboc, Mathias e Ossan (cap. 49). Kate, Lakand e Genocydo com "não aparece".
+- Canon: Juleen enforcada no cap. 49 (não no cap. 32). A Ordem vigia o Estrangeiro desde antes do nascimento de Saboc (Nuh). Registro de ocorrências de milagre: cura do rapaz no cap. 47, com custo criatural.
+- Sementes: #6 pagos os plantios 4 e 5 (o mandante segue sem nome; o status de 2026-10-04 é histórico); #7 com os rampillas em cena.
+- Pendências: "semente #32" citada no inbox não existe em `temas/sementes.md`. O rapaz curado do cap. 47 volta no cap. 63.

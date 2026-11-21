@@ -126,6 +126,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 > **Status (2026-10-04): a cena saiu do meio do L1.** Nolan **não volta à Metrópole** — ele sobe atrás do Estrangeiro e chega à Mina pelo Espinhaço. A descoberta da vembra acontece **na volta** (Mira, no banco da carroça) e o **enforcamento de Juleen** vai para o **bloco final da Metrópole**, em paralelo ao Caixão do Mário. Ver `decisoes/jornada-nolan-acre-2026-10-03.md` (§4 e §12).
 > ⚠️ **As datas abaixo são históricas.** Onde se lê "cap. 32", leia: **o bloco final da Metrópole**.ir). Os plantios 3+ e o enforcamento (cap. 32) aguardam a realocação.
 
+> **Atualização (Mini-INGEST cap. 49, 2026-11-21):** Nolan volta à Metrópole (cap. 48), e a cena da vembra e do enforcamento está no cap. 49, no Dia 107, em POV de Nolan. O status de 2026-10-04, que tira a cena da Metrópole, é histórico. Pagos os plantios 4 e 5. O mandante continua sem nome.
+
 - **Plantio**: L1, Cap. 4 — Juleen administra chá de cascas de vembra (abortivo)
 - **Plantio 2**: L1, Cap. 19 — Dagmar morre no parto (causa: o abortivo
   acumulado); o bebê nasce sem ar
@@ -182,6 +184,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Ironia**: Devour governava pela brutalidade; Nolan governa pela burocracia.
   O mesmo castelo chamuscado, os mesmos autômatos — mas agora com justificativa
   moral.
+
+- **Cap. 49 (Mini-INGEST, 2026-11-21):** os quatro rampillas bloqueiam a cancela do armazém e contêm o marido de Juleen, sem esforço. O controle aparece em cena.
 
 ## 8. O Inquiridor do Sinal
 

@@ -65,3 +65,8 @@ timestamp: 2026-08-26
 - **Postura**: caminha a três passos do estribo, de olhos pequenos varrendo as guaritas; ao pé da escadaria, imóvel entre os servos, com os quatro rampillas.
 - **Observação**: aparece como "xamã maltrapilho" aos olhos dos servos.
 - **Fundo**: ponte de pedra, portão oeste, escadaria do Castelo de Quartzo.
+
+## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
+
+- Presença: nas sombras dos beirais, no armazém de salitre, acompanhando Nolan.
+

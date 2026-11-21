@@ -23,6 +23,12 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - _Não aparece_
 
+## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
+
+- Roupas: não descritas; descalça, com as sandálias ao lado.
+- Postura: sentada na borda do chafariz seco, de pernas cruzadas; entrega o pacote de pano encerado.
+- Expressão: sorriso de lábios fechados; contida diante de Nolan.
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

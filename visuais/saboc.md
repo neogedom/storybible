@@ -22,3 +22,8 @@ timestamp: 2026-10-11
 
 - **Estado**: dorme sob a manta nos braços de Mira, indiferente ao cheiro da cidade; Valinor o vê pela primeira vez.
 - **Fundo**: carruagem e escadaria do Castelo de Quartzo.
+
+## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
+
+- Presença: no colo de Mira, no alto da escada. Não fala.
+

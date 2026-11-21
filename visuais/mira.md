@@ -43,3 +43,10 @@ timestamp: 2026-08-26
 
 - **Postura**: dentro da carruagem, embalando Saboc sob a manta; desce atrás de Nolan com o menino nos braços, de cabeça baixa.
 - **Fundo**: carruagem na Praça Central; escadaria do Castelo de Quartzo.
+
+## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
+
+- Fala: "A senhora sua esposa era mesmo agitada..."; "Ela fedia a vembra, senhor... O senhor não sabia?"
+- Ação: leva Saboc no colo à escada; acompanha Nolan ao quarto de Dagmar; revela o cheiro de vembra.
+- Expressão: hesitante, depois calma ao falar do menino.
+

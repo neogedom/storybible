@@ -94,3 +94,9 @@ silêncio, por desespero. O nome dele nunca é dito no capítulo (POV de Kate:
 - **Vestimenta**: **capa vermelha de Espada da Lei** de volta aos ombros, desbotada pela poeira das serras do norte; a estopa cinzenta de Gus fica esquecida no assento.
 - **Postura**: conduz a parelha com as rédeas curtas (o cocheiro ficou no celeiro); atrás de Nolan nas escadarias; na soleira da tesouraria, de costas para a porta; mantém a mão longe do punho da espada diante de Benjamim.
 - **Fundo**: banco da carruagem, escadaria do Castelo de Quartzo, tesouraria, Grande Galeria.
+
+## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
+
+- Ação: recebe as ordens de Nolan (patrulhas ao portão leste; cela da torre); entrega os dois livros a um soldado do portal; acompanha Nolan ao armazém com a espada.
+- Expressão: calado; repassa as ordens sem comentar.
+

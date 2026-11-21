@@ -260,6 +260,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Fundo      | Arco de entrada → praça do Monólito → sala de colunas do palácio → cela da torre |
 
 
+## Capítulo 47 — Marcha dos Clãs (Mini-INGEST, 2026-11-21)
+
+| Atributo   | Estado |
+| ---------- | ------ |
+| Roupas     | Não descritas neste capítulo (as da queda de Gus) |
+| Ferimentos | Forquilha de freixo sob o queixo, cortando a pele; pulsos com couro cru, dedos roxos; após a cura, nós triplos de cânhamo e ombro esquerdo estalado |
+| Postura    | Montado na mula, amarrado à sela; desce e ajoelha-se ao lado do rapaz; amarrado de novo e jogado sobre a mula como fardo |
+| Expressão  | Firme diante de Karrk; estômago revirado; "solidão gélida" depois da cura; a Voz não diz uma sílaba |
+| Fundo      | Garganta de paredões ao entardecer → noite fria da serra |
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

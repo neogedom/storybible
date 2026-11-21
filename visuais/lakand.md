@@ -147,6 +147,10 @@ timestamp: 2026-07-24T12:00:00-03:00
 - _Não aparece._ Ausente da cena da Metrópole.
 
 
+## Capítulos 47 e 49 — Mini-INGEST (2026-11-21)
+
+- _Não aparece._
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

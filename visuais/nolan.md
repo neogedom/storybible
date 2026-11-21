@@ -198,6 +198,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Expressão: imóvel.
 
 
+## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
+
+- Roupas: casaco de magistrado abotoado até o colarinho; sapatos de fivela; óculos de armação de ébano.
+- Ferimentos: nenhum.
+- Postura: anda pelo santuário e pelo palacete; desce a pé no burgo baixo; enforca Juleen puxando a corda sobre a viga.
+- Expressão: tom monocórdio e frio; depois a mão treme; limpa as lapelas ao sair.
+- Fundo: Santuário de Vonos → palacete (jardim, chafariz seco) → armazém de salitre, burgo baixo.
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->
