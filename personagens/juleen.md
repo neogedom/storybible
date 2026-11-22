@@ -1,7 +1,7 @@
 ---
 type: Character
 title: Juleen
-description: Aia de Dagmar, leviantar de casta baixa dos burgos de baixo, mãe coagida e paga. Administrou o chá de vembra que matou Dagmar e Saboc (abortivo acumulado). Enforcada por Nolan no cap. 49, diante do marido humano e de duas crianças mestiças.
+description: Aia de Dagmar, leviantar de casta baixa dos burgos de baixo, mãe coagida e paga. Administrou o chá de vembra que matou Dagmar e Saboc (abortivo acumulado) e confessou a compra em duas etapas. Enforcada por Nolan no cap. 49 (Dia 107), sem julgamento, diante do marido humano e de duas crianças mestiças.
 tags: [personagem, leviantar, aia, dagmar, L1]
 resource: https://github.com/neogedom/storybible/blob/main/personagens/juleen.md
 timestamp: 2026-11-20T12:00:00-03:00
@@ -77,6 +77,11 @@ fora está dentro.
   ela está viva, num burgo de humanos na beira do Cran, pedindo trabalho em
   cozinha de estalagem. É a conta que ele decide fechar com a própria mão.
 
+## Cap. 49 (Mini-INGEST, 2026-11-21)
+
+- Nolan descobre a vembra com Mira (cap. 49) e vai ao armazém de salitre do burgo baixo. Juleen confessa o chá e a compra: primeiro queriam a casa, depois "o resto". A linhagem dos Guenayer não podia se misturar com a dos Addorbek.
+- Pede um tribunal ("Eu confesso tudo, mas me dê um processo!"). Nolan responde "Gente como você não merece um julgamento" e a enforca. A injustiça do canon (negar julgamento) está em cena.
+- O mandante continua sem nome: "Eu não sei! ... nunca disseram um nome!"
 ## Canon do cap. 49 revisado (2026-11-20) (aceito pelo autor no chat)
 
 - **Onde mora:** num depósito de salitre do curtume, no burgo baixo (dentro da

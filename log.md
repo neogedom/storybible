@@ -4050,3 +4050,31 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-14 (fluxo de PR por sessão)
 
 - Autor decidiu: a main é a fonte; cada sessão abre PR para a main quando pedir; backup em `backup/main-2026-11-14`; `.github` (e `.kilo`, no Livro) ficam como na main. A branch `trabalho` foi superada. Decisão em `decisoes/2026-11-14-fluxo-pr-por-sessao.md`.
+
+## 2026-11-21 (rodada 50, cap. 50)
+
+- Autor decidiu a recepção de Genocydo no cap. 50 (cena nova, antes da cela). O primeiro encontro com Genocydo passa a ser no cap. 50; o cap. 54 fica pendente (`docs/handoff/pendencias-adiadas.md` do Livro, item 4). Mário lê o nome de Nolan no pergaminho. O Poço das Correntes passa à fala do sargento.
+- Mudanças pequenas em capítulos fechados, decididas pelo autor: cap. 47 (ligação entre Hícse, sonho e campo dos Moribundos); cap. 49 (Mathias avisa que a praça se enche); cap. 52 ("elohim" trocado por "Vonos"); cap. 56 ("seteira" trocada por "janela").
+- Fichas de Mário e Genocydo ficam para o Mini-INGEST do cap. 50 (pendência do Livro, item 3).
+
+## 2026-11-21 (Mini-INGEST cap. 50)
+
+- Ficha `capitulos/capitulo-50.md` criada (POV Mário; Tudo Está Perdido, inferido). Visuais: Mário, Genocydo, Nolan e Benjamim com o estado do capítulo; Kate e Lakand com "não aparece".
+- Canon: primeiro contato de Mário com Genocydo no cap. 50 (a primeira conversa é no cap. 54). Elysia convocada para a assembleia (caps. 48, 53, 58). O Poço das Correntes aparece só neste capítulo, na fala do sargento.
+- Sementes: #5 paga a faceta 2 (o lugar é real) com o Monólito; #2 ganha os livros da cela.
+- Glossário: "elohim" e "elohins" não aparecem no Livro 1; no Livro 1 se diz "deuses".
+- Tabela de progresso (`temas/esquema-l1.md`): caps. 47 a 50 recalculados (palavras e % real), com base de 116.507 palavras até o cap. 46, na régua de 137.500. POV do cap. 49 corrigido para Nolan; do cap. 50, para Mário.
+- Checkpoint: não atingido. Desde o checkpoint de 2026-11-13 (caps. 37 a 46) são 4 caps, e a fronteira do beat "Tudo Está Perdido" ainda não fechou (fecha no cap. 51).
+- Pendência: não há ficha para os caps. 47 e 49 em `capitulos/`.
+
+## 2026-11-21 (Mini-INGEST caps. 47 e 49)
+
+- Fichas `capitulos/capitulo-47.md` (POV Mário; marcha dos Clãs, Dia 106) e `capitulos/capitulo-49.md` (POV Nolan; Juleen, Dia 107). Fronteiras: 47 fecha em decisão com custo (corte em D); 49 fecha em desastre (corte em D).
+- Visuais: Mário e Estruzzo (cap. 47); Nolan, Layla, Mira, Saboc, Mathias e Ossan (cap. 49). Kate, Lakand e Genocydo com "não aparece".
+- Canon: Juleen enforcada no cap. 49 (não no cap. 32). A Ordem vigia o Estrangeiro desde antes do nascimento de Saboc (Nuh). Registro de ocorrências de milagre: cura do rapaz no cap. 47, com custo criatural.
+- Sementes: #6 pagos os plantios 4 e 5 (o mandante segue sem nome; o status de 2026-10-04 é histórico); #7 com os rampillas em cena.
+- Pendências: "semente #32" citada no inbox não existe em `temas/sementes.md`. O rapaz curado do cap. 47 volta no cap. 63.
+
+## 2026-11-21 (correção ao Mini-INGEST do cap. 47)
+
+- A semente #32 **existe**: `temas/sementes.md`, seção 32 ("O Rapaz Curado dos Clãs"). A linha anterior dizia o contrário, e estava errada. A referência do inbox está certa. Corrigida a ficha do cap. 47.

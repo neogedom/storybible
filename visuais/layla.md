@@ -23,9 +23,10 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - _Não aparece_
 
-## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
 
-- **Estado**: descalça, de pernas cruzadas na borda do chafariz seco, com as sandálias ao lado e um pacote de pano encerado no colo.
+- Roupas: não descritas; descalça, com as sandálias ao lado.
+- **Estado**: sentada de pernas cruzadas na borda do chafariz seco, com as sandálias ao lado e um pacote de pano encerado no colo.
 - **Postura**: sorri de lábios fechados; apoia a mão sobre o pacote, sem se levantar; depois o pega do colo e o entrega a Nolan.
 - **Fundo**: jardim do palacete atrás da cerca viva, o chafariz seco (o mesmo do cap. 10).
 

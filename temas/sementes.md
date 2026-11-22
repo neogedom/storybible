@@ -25,6 +25,8 @@ timestamp: 2026-07-24T12:00:00-03:00
   **Nota (canon 2026-08-11):** a Bíblia é prova da fachada — Kraviam era
   cristão NOMINAL (tinha o livro), nunca fora eleito (semente de Nachash).
 
+- **Cap. 50 (Mini-INGEST, 2026-11-21):** o livro grosso encadernado em couro escuro e o caderno de capa gasta chegam à cela por ordem de Nolan (cap. 49). Pendência: harmonizar com a descrição da cela no cap. 52.
+
 ## 3. Gunad Deltëra
 
 - **Plantio**: L1, Cap. 7 — Koda menciona "Gunad não está"
@@ -117,12 +119,16 @@ timestamp: 2026-07-24T12:00:00-03:00
   (impede pela rendição). NÃO remover: a semente é o que justifica o
   reconhecimento dos registros e carrega o conteúdo único do sonho.
 
+- **Cap. 50 (Mini-INGEST, 2026-11-21):** Mário reconhece o Monólito e a inscrição "A Verdade Sustenta o Trono" ao chegar à praça (linha 35). Paga a faceta 2 ("o lugar é real") para o Monólito, que estava intacta. A ligação com Hícse e os Moribundos aparece no cap. 47 (linha 9).
+
 ## 6. Juleen e a Morte de Dagmar
 
 > **Status (2026-11-20, cap. 49 revisado) (aceito pelo autor no chat):** a descoberta e o enforcamento acontecem no cap. 49, no mesmo dia: Mira diz o cheiro de vembra no palacete, Mathias dá o endereço, Nolan vai ao depósito de salitre. Layla não participa; o plantio 3 ("chá de melissa", na estrada) está **substituído**; a fala-plant do plantio 5 entrou. Ver `decisoes/2026-11-20-cap49-comentarios-em-lote.md`. Decidido pelo autor no chat (2026-11-20): "matariam meus filhos" fica (Juleen é mãe coagida e paga); Nolan não descobre que o marido é humano; o mandante é Koda (decisão do autor, 2026-11-20), com revelação no L2; no texto ninguém é nomeado e Nolan lista os suspeitos (`decisoes/mandante-juleen-alvo-linhagem.md`).
 
 > **Status (2026-10-04): a cena saiu do meio do L1.** Nolan **não volta à Metrópole** — ele sobe atrás do Estrangeiro e chega à Mina pelo Espinhaço. A descoberta da vembra acontece **na volta** (Mira, no banco da carroça) e o **enforcamento de Juleen** vai para o **bloco final da Metrópole**, em paralelo ao Caixão do Mário. Ver `decisoes/jornada-nolan-acre-2026-10-03.md` (§4 e §12).
 > ⚠️ **As datas abaixo são históricas.** Onde se lê "cap. 32", leia: **o bloco final da Metrópole**.ir). Os plantios 3+ e o enforcamento (cap. 32) aguardam a realocação.
+
+> **Atualização (Mini-INGEST cap. 49, 2026-11-21):** Nolan volta à Metrópole (cap. 48), e a cena da vembra e do enforcamento está no cap. 49, no Dia 107, em POV de Nolan. O status de 2026-10-04, que tira a cena da Metrópole, é histórico. Pagos os plantios 4 e 5. O mandante continua sem nome.
 
 - **Plantio**: L1, Cap. 4 — Juleen administra chá de cascas de vembra (abortivo)
 - **Plantio 2**: L1, Cap. 19 — Dagmar morre no parto (causa: o abortivo
@@ -180,6 +186,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Ironia**: Devour governava pela brutalidade; Nolan governa pela burocracia.
   O mesmo castelo chamuscado, os mesmos autômatos — mas agora com justificativa
   moral.
+
+- **Cap. 49 (Mini-INGEST, 2026-11-21):** os quatro rampillas bloqueiam a cancela do armazém e contêm o marido de Juleen, sem esforço. O controle aparece em cena.
 
 ## 8. O Inquiridor do Sinal
 

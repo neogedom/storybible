@@ -85,6 +85,8 @@ Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
    e a recusa: não refuta a doutrina, prefere a apoteose.
 4. É assassinado no final do L1 por um infiltrado do destacamento alavriano durante a invasão do portão sul
 
+**Primeiro contato com Mário (Mini-INGEST cap. 50, 2026-11-21):** Mário vê o rei pela primeira vez na sala de recepção do cap. 50, no estrado, sem conversa. A primeira conversa dos dois é no cap. 54, no quarto do rei.
+
 ## Relações
 
 - [Benjamim](/personagens/benjamim.md) — conselheiro/manipulador.

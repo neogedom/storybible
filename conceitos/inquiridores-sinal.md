@@ -237,3 +237,8 @@ com selo. Os Inquiridores **não** registram, **não** repartem informação e
 Coroa. Ele **nota** que há algo que não está sendo dito e **não conclui**
 nada — a pulga (dose fechada em `personagens/nolan.md`). Ver
 `capitulos/capitulo-28.md`.
+
+## Vigilância desde antes do nascimento de Saboc (Mini-INGEST cap. 49, 2026-11-21)
+
+- Nuh d'Teraghar (cap. 49) confirma que a Ordem vigia o Estrangeiro desde antes do nascimento de Saboc. Não diz desde quando.
+

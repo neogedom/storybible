@@ -190,6 +190,22 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Expressão**: sem mexer o rosto diante do golpe de Koda; repugnância contida com Benjamim.
 - **Fundo**: ponte de pedra ao amanhecer, portão oeste, burgo baixo, Praça Central, escadarias do Castelo de Quartzo, tesouraria real, Grande Galeria.
 
+## Capítulo 50 — Portão Leste (Mini-INGEST, 2026-11-21)
+
+- Roupas: casaco preto.
+- Ferimentos: nenhum.
+- Postura: junto ao estrado, sem olhar para o rei; manda os dois homens com o pergaminho.
+- Expressão: imóvel.
+
+
+## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
+
+- Roupas: casaco de magistrado abotoado até o colarinho; sapatos de fivela; óculos de armação de ébano.
+- Ferimentos: nenhum.
+- Postura: anda pelo santuário e pelo palacete; desce a pé no burgo baixo; enforca Juleen puxando a corda sobre a viga.
+- Expressão: tom monocórdio e frio; depois a mão treme; limpa as lapelas ao sair.
+- Fundo: Santuário de Vonos → palacete (jardim, chafariz seco) → armazém de salitre, burgo baixo.
+
 ## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
 
 - **Vestimenta**: casaco de magistrado abotoado até o colarinho; sapatos de fivela (botas lustradas no armazém); camisa de linho; ao sair do armazém, limpa as lapelas com as costas dos dedos.

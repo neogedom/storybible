@@ -3,7 +3,7 @@ type: Chapter
 title: Capítulo 49 — A Fatura
 pov: Nolan
 beat_stc: Tudo Está Perdido (inferido)
-percentual_l1: ~92,1% (acumulado 126.698 ÷ 137.500, recontado em 2026-11-20)
+percentual_l1: ~91,4% (acumulado 125.715 ÷ 137.500, recontado em 2026-11-22)
 resource: https://github.com/neogedom/livro/blob/main/Livro%201/capitulo49.md
 timestamp: 2026-11-20T18:00:00-03:00
 ---

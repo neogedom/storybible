@@ -18,6 +18,8 @@ Elysia é baroa e líder de capitania. Suas terras são a fonte dos "carregament
 - **Cap. 48 (Valinor a Nolan):** os carregamentos das terras de Elysia pararam de chegar depois que os Clãs de Sangue desceram e que um comboio inteiro foi massacrado na estrada. Genocydo desautorizou qualquer intervenção militar.
 - **Cap. 58:** está na Grande Câmara com o pedido de grão no colo. Viera por causa da fome em suas terras e por curiosidade de ver o famoso Souhma. Ao vê-lo ferido e amarrado, levanta-se e pergunta aos nobres: "Minha capitania veio pedir grão, e a Coroa responde que não há o bastante. Enquanto isso, os Clãs circulam armados pelo Gerdialias por licença real, levam moradores humanos como alimento e recebem provisões. A quem devo pedir proteção?"
 
+- **Caps. 48, 53 e 58 (Mini-INGEST cap. 50, 2026-11-21):** Elysia é convocada pelo Conselho para a assembleia, para explicar o grão que não chega. Valinor anuncia a convocação (cap. 48); Nolan explica a Layla que os conselheiros virão para ouvir sobre o grão (cap. 53).
+
 ## Geografia (decisão do autor, 2026-11-14; fora do texto)
 
 - As terras de Elysia ficam do lado sul/sudeste do Cran, junto à serra dos Clãs. A estrada do grão chega à planície sul, ao pé da serra.

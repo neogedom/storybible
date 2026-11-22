@@ -240,3 +240,8 @@ pela jurisdição).
 ## Registro de custo: cap. 34 (canon 2026-11-12)
 
 - A cura da menina não tem efeito físico em Mário. O custo aparece como medo (tremor) e como silêncio da Voz logo depois do gesto. Motivo: o milagre vem de Deus e não é mecanismo do personagem; exaustão ou sangramento o tornariam poder do corpo dele.
+
+## Registro de ocorrências (Mini-INGEST, 2026-11-21)
+
+- **Cap. 47 — cura de um rapaz canibal:** coxa esmagada por roda, fêmur partido. Mário toca o osso por reflexo, sem calcular consequências. Resultado: a pele se refaz.
+- **Custo (cap. 47):** Mário é amarrado de novo, mais apertado (nós triplos, forquilha cravada sob o queixo). Nenhuma conversão: "Ninguém caiu de joelhos para adorar a Deus." A Voz não diz uma sílaba. O custo é criatural e não é explicado (ver "O Custo como Testemunho").
