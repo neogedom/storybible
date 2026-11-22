@@ -16,3 +16,7 @@ timestamp: 2026-11-14T23:00:00-03:00
 - **Postura**: militar e implacável; desmonta ao saber da morte da filha e ao ver o neto.
 - **Voz**: em fio rouco, "áspero como ferrugem", ao perguntar pela criança.
 - **Fundo**: portal e patamar superior do Castelo de Quartzo.
+
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Não aparece** (só citado: Nolan lhe dissera de manhã que o menino sobrevivera).

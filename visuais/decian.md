@@ -55,3 +55,7 @@ Mãos são o traço visual mais distintivo: não são mãos de guerreiro. A suje
 ## Capítulo 48 — O Retorno à Metrópole (Mini-INGEST, 2026-11-14)
 
 - **Não aparece** (em Gus, com os artífices).
+
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Não aparece** (descendo o rio com os artífices).

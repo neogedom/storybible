@@ -206,6 +206,14 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Expressão: tom monocórdio e frio; depois a mão treme; limpa as lapelas ao sair.
 - Fundo: Santuário de Vonos → palacete (jardim, chafariz seco) → armazém de salitre, burgo baixo.
 
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Vestimenta**: casaco de magistrado abotoado até o colarinho; sapatos de fivela (botas lustradas no armazém); camisa de linho; ao sair do armazém, limpa as lapelas com as costas dos dedos.
+- **Acessórios**: lenço de seda (leva ao nariz diante de Nuh); óculos de armação de ébano (aperta a armação até o tremor passar, no quarto do menino).
+- **Postura**: passos firmes pelo corredor central do santuário, com as mãos cruzadas atrás das costas ao pé do altar; no armazém, a corda nas duas mãos, antebraços retesados sob o linho.
+- **Expressão**: espirro seco e contido diante de Nuh; sem pressa e sem perdão ao puxar a corda.
+- **Fundo**: Santuário de Vonos (cantaria branca, luz fosca), jardim do palacete com o chafariz seco, vestíbulo, quarto do menino, armazém de salitre do burgo baixo.
+
 ## Histórico por Capítulo
 
 <!-- Atualizado a cada INGEST de capítulo -->

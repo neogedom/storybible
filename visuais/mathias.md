@@ -97,6 +97,6 @@ silêncio, por desespero. O nome dele nunca é dito no capítulo (POV de Kate:
 
 ## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
 
-- Ação: recebe as ordens de Nolan (patrulhas ao portão leste; cela da torre); entrega os dois livros a um soldado do portal; acompanha Nolan ao armazém com a espada.
-- Expressão: calado; repassa as ordens sem comentar.
-
+- **Postura**: recebe as ordens de Nolan (patrulhas ao portão leste; cela da torre), repassa-as a um soldado do portal, entrega-lhe os dois livros e sai calado; espreme a memória ao dar o endereço; no armazém, fica junto à porta e atinge o marido de Juleen com o cabo da espada.
+- **Observação**: o texto não descreve a roupa dele neste capítulo.
+- **Fundo**: vestíbulo do palacete, rampa do curtume e armazém de salitre.

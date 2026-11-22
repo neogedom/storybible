@@ -47,6 +47,5 @@ timestamp: 2026-08-26
 ## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
 
 - Fala: "A senhora sua esposa era mesmo agitada..."; "Ela fedia a vembra, senhor... O senhor não sabia?"
-- Ação: leva Saboc no colo à escada; acompanha Nolan ao quarto de Dagmar; revela o cheiro de vembra.
-- Expressão: hesitante, depois calma ao falar do menino.
-
+- **Postura**: no alto da escada com Saboc no colo; acompanha Nolan até o quarto; sorri e ajeita o menino no braço; hesita e segura a respiração ao se trair sobre a vembra, depois fala com calma sobre o menino.
+- **Fundo**: escada de mármore e quarto do menino, com o berço vazio e um chocalho de madeira pálida sobre a colcha.

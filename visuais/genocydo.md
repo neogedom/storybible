@@ -39,9 +39,12 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Expressão: tensão e vaidade; o olhar vaga pela sala sem se fixar.
 
 
-## Capítulos 47 e 49 — Mini-INGEST (2026-11-21)
+## Capítulo 47 — Mini-INGEST (2026-11-21)
 
-- _Não aparece_ como personagem. No cap. 49 é citado (o diário achado na mesa de cabeceira).
+- _Não aparece_ como personagem.
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Não aparece** (no Castelo; Nolan não o encontra neste capítulo).
 
 ## Histórico por Capítulo
 

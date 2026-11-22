@@ -40,6 +40,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 - Postura: atrás do trono, olhando para o rei.
 - Expressão: sorri com um canto dos lábios.
 
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Não aparece** (só citado: Nolan o acusa diante de Nuh e o inclui entre os suspeitos).
 
 ## Histórico por Capítulo
 

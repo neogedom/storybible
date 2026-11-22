@@ -1,10 +1,10 @@
 ---
 type: Character
 title: Juleen
-description: Aia de Dagmar, leviantar de casta baixa dos burgos periféricos. Administrou o chá de vembra que matou Dagmar e Saboc (abortivo acumulado). Enforcada por Nolan no cap. 49 (Dia 107), sem julgamento, depois de confessar a compra em duas etapas.
+description: Aia de Dagmar, leviantar de casta baixa dos burgos de baixo, mãe coagida e paga. Administrou o chá de vembra que matou Dagmar e Saboc (abortivo acumulado) e confessou a compra em duas etapas. Enforcada por Nolan no cap. 49 (Dia 107), sem julgamento, diante do marido humano e de duas crianças mestiças.
 tags: [personagem, leviantar, aia, dagmar, L1]
 resource: https://github.com/neogedom/storybible/blob/main/personagens/juleen.md
-timestamp: 2026-08-16T00:00:00-03:00
+timestamp: 2026-11-20T12:00:00-03:00
 ---
 
 # Juleen
@@ -12,14 +12,15 @@ timestamp: 2026-08-16T00:00:00-03:00
 ## Visão Geral
 
 Aia pessoal de **Dagmar** (esposa de Nolan). Leviantar de **casta baixa** dos
-burgos periféricos (canon 2026-08-16 — a linguagem do cap. 4 é de classe,
-não de espécie; a inversão temática exige que ela NÃO seja humana). Foi a
+burgos de baixo ("periféricos" até 2026-11-20; canon 2026-08-16: a linguagem do cap. 4 é de classe, não de espécie; a inversão temática exige que ela NÃO seja humana). Foi a
 única aia que Dagmar reteve quando dispensou as damas de linhagem.
 
 ## Papel na História
 
+> ⚠️ **As seções históricas abaixo, até "Canon do cap. 49 revisado" (2026-11-20), estão superadas onde divergem dela.** O enforcamento saiu do "cap. 32" e está no cap. 49, na Metrópole; não há acusação de humanidade, nem "irmãos na pedreira", nem burgo de humanos fora da muralha; Juleen é mãe coagida e paga.
+
 - **Cap. 4**: Dagmar toma o **chá de cascas de vembra** que Juleen prepara
-  ("as curandeiras usam muito nos burgos periféricos para aliviar as dores
+  ("as curandeiras usam muito nos burgos de baixo para aliviar as dores
   e afrouxar o ventre") — é o abortivo que, **acumulado**, matará Dagmar e
   Saboc. Nolan a dispensa por desprezo de classe ("serviçal periférica
   cujos precedentes eu sequer conheço"; "aia de casta baixa... jamais
@@ -81,3 +82,28 @@ fora está dentro.
 - Nolan descobre a vembra com Mira (cap. 49) e vai ao armazém de salitre do burgo baixo. Juleen confessa o chá e a compra: primeiro queriam a casa, depois "o resto". A linhagem dos Guenayer não podia se misturar com a dos Addorbek.
 - Pede um tribunal ("Eu confesso tudo, mas me dê um processo!"). Nolan responde "Gente como você não merece um julgamento" e a enforca. A injustiça do canon (negar julgamento) está em cena.
 - O mandante continua sem nome: "Eu não sei! ... nunca disseram um nome!"
+## Canon do cap. 49 revisado (2026-11-20) (aceito pelo autor no chat)
+
+- **Onde mora:** num depósito de salitre do curtume, no burgo baixo (dentro da
+  muralha, abaixo do Muro Interno), com o marido e duas crianças. Mathias, que acompanhou Dagmar à casa dela (cap. 4), lembra o endereço depois de espremer a memória; Nolan nunca perguntara (cap. 4: "jamais gastaria o rigor da lei para investigar
+  seus antecedentes"). Isso substitui o plano de Layla achá-la "num burgo de
+  humanos na beira do Cran, pedindo trabalho em cozinha de estalagem".
+- **A cena:** Nolan chega "no meio da tarde" (cap. 53, L39) pela rampa do
+  curtume, com Mathias e quatro rampillas; Ossan nas sombras. Mathias entra e
+  fica junto à porta; um rampilla segura o marido, que se solta e leva uma
+  pancada do cabo da espada de Mathias. Nolan grita, cospe e agarra os cabelos
+  loiros dela. Ela pede tribunal e testemunhas (cap. 56). A corda de cânhamo de
+  amarrar fardos pende de um prego da viga mestra; passa por cima da viga e
+  termina amarrada num esteio lateral (cap. 53: "pendurada numa viga"). Nolan
+  segura "sem pressa e sem perdoar".
+- **O que ela diz:** foi aliciada "no verão, meses antes do parto" (a conta dos
+  três meses de chá começa antes do prólogo); "moedas de prata com as bordas
+  raspadas"; fala-plant aprovada em 2026-09-19: "Primeiro só queriam saber da casa. Depois quiseram o resto!" (no PR #20 ganhou "quem entrava, a que horas a senhora ficava só", para responder "por que quiseram saber da casa" e "o que é o resto"); "a linhagem dos Guenayer não podia se
+  misturar com os Addorbek"; ameaça aos filhos. Quando Nolan pergunta quem mandou, ela diz "Eu não sei! Vinham de noite, de capuz, e nunca disseram um nome!". Nolan tenta pensar e lista Nuh, Benjamim, Lupe'i, Genocydo, Koda e Alavria, sem poder nomear ninguém sem prova, em respeito à regra de não resolver o mandante em cena. Em 2026-11-20 saíram "um homem da tesouraria" e "selo do porto sul"; o mandante, no canon, é Koda (L2).
+- **Superado:** a acusação de que ela seria humana (não está no texto); os
+  "irmãos na pedreira" (agora, filhos); o burgo de humanos fora da muralha.
+- **Decidido pelo autor (2026-11-20):** "matariam meus filhos" fica. Juleen é **mãe coagida e paga** (moedas de prata raspadas e ameaça aos filhos); a leitura "paga, competente e fria" cai. O pedido de processo e de testemunhas segue sendo pedido, não confissão (`decisoes/mandante-juleen-alvo-linhagem.md`).
+
+- **O marido é humano (decisão do autor, 2026-11-20) (aceito pelo autor no chat):** os filhos são mestiços (leviantar × humano). Em cena, Juleen acende a vela com a ponta do dedo e o marido risca uma pederneira; o texto não registra pensamento algum de Nolan sobre ele (havia "Um gnock", pensou Nolan; saiu em 2026-11-20, porque gnock é raro e Nolan não pode achar que todo humano dos burgos é gnock). A pederneira só indica que ele não acende pelo dedo; a espécie fica por conta da storybible (a frase de Orval no cap. 41 foi removida pelo autor em 2026-11-20). Nolan **não sabe** que há humanos nos burgos de baixo.
+- **Cap. 4 (revisado em 2026-11-20):** Nolan pergunta se Juleen é humana; Dagmar responde que é leviantar ("acende o fogareiro com a ponta do dedo, como eu") e que foi conhecer a casa dela, nos burgos de baixo, antes de contratá-la; Mathias a acompanhou (PR #20). Nolan a censura por ter ido "entre eles"; ela corta: "Entre quem, Nolan?". O eco do cap. 49 ("ele temera a espécie errada") saiu na revisão do PR #20; o cap. 49 agora só tem Nolan descobrindo o nome dela: "Uma aia. Juleen. Esse era o nome dela."
+- **Decidido (2026-11-20):** Nolan **não descobre** que o marido é humano; os "moradores humanos" do Gerdialias (cap. 53, L35) não mudam isso. **Em aberto:** o que acontece ao marido e aos filhos depois do cap. 49.

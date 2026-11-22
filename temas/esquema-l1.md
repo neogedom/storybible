@@ -74,25 +74,25 @@ timestamp: 2026-09-10T12:00:00-03:00
 | 46       | Vilões se Aproximam                 | Kate         | —                      | ~84,7%               | 2.186    |
 | 47       | Tudo Está Perdido (inferido)        | Mário        | —                      | ~86,5%               | 2.448    |
 | 48       | Tudo Está Perdido (inferido)        | Nolan        | —                      | ~88,8%               | 3.196    |
-| 49       | Tudo Está Perdido (inferido)        | Nolan        | —                      | ~91,5%               | 3.602    |
+| 49       | Tudo Está Perdido (inferido)        | Nolan        | —                      | ~91,4%               | 3.564    |
 | 50       | Tudo Está Perdido (inferido)        | Mário        | —                      | ~92,5%               | 1.458    |
-| 51       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 1.000    |
-| 52       | Noite Escura da Alma (inferido)     | Mário        | —                      | a recalcular         | 1.376    |
-| 53       | Noite Escura da Alma (inferido)     | Nolan        | —                      | a recalcular         | 1.160    |
-| 54       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 1.364    |
+| 51       | Tudo Está Perdido (inferido)        | a confirmar  | —                      | a recalcular         | 999      |
+| 52       | Noite Escura da Alma (inferido)     | Mário        | —                      | a recalcular         | 1.413    |
+| 53       | Noite Escura da Alma (inferido)     | Nolan        | —                      | a recalcular         | 1.191    |
+| 54       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 1.408    |
 | 55       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 930      |
-| 56       | Noite Escura da Alma (inferido)     | Mário        | —                      | a recalcular         | 1.260    |
+| 56       | Noite Escura da Alma (inferido)     | Mário        | —                      | a recalcular         | 1.262    |
 | 57       | Noite Escura da Alma (inferido)     | Kate         | —                      | a recalcular         | 1.025    |
-| 58       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 1.115    |
-| 59       | Break Into 3 (inferido)             | Nolan        | —                      | a recalcular         | 905      |
-| 60       | Break Into 3 (inferido)             | Kate         | —                      | a recalcular         | 919      |
+| 58       | Noite Escura da Alma (inferido)     | a confirmar  | —                      | a recalcular         | 1.127    |
+| 59       | Break Into 3 (inferido)             | Nolan        | —                      | a recalcular         | 949      |
+| 60       | Break Into 3 (inferido)             | Kate         | —                      | a recalcular         | 920      |
 | 61       | Break Into 3 (inferido)             | Mário        | —                      | a recalcular         | 876      |
 | 62       | Break Into 3 (inferido)             | a confirmar  | —                      | a recalcular         | 759      |
 | 63       | Break Into 3 (inferido)             | Mário        | —                      | a recalcular         | 940      |
 | 64       | Final (inferido)                    | a confirmar  | —                      | a recalcular         | 1.504    |
 | 65       | Final (inferido)                    | Nolan        | —                      | a recalcular         | 1.098    |
 | 66       | Final (inferido)                    | Mário        | —                      | a recalcular         | 1.281    |
-| epílogo  | Imagem Final (inferido)             | a confirmar  | —                      | a recalcular         | 879      |
+| epílogo  | Imagem Final (inferido)             | a confirmar  | —                      | a recalcular         | 883      |
 
 > **Atualização 2026-11-06 — Mini-INGEST do cap. 43.** O manuscrito atual tem
 > **2.346 palavras**; o acumulado dos caps. 0–43 é **110.672 palavras (80,5%)**
@@ -118,6 +118,8 @@ timestamp: 2026-09-10T12:00:00-03:00
 > caps. 0–46 ≈ **116.507 palavras (84,7%)** na régua de 137.500, somando ao
 > total do cap. 45 da nota de 2026-11-08. Fecha em decisão (plano da travessia);
 > corte D, como o 45. Este Mini-INGEST não replaneja o mapa.
+
+> **Atualização 2026-11-20 — Mini-INGEST do cap. 49.** O manuscrito atual tem **3.564 palavras** (contagem por tokens separados por espaço; eram 3.563 no Mini-INGEST, e o L57 acrescentou uma), acima dos 3.200 que o Arquiteto de Densidade sugeriu; o autor aceitou e o corte é opcional. Na recontagem direta dos arquivos, o acumulado dos caps. 0–49 é **126.698 palavras (92,1%)** na régua de 137.500 (eram 126.593 no Mini-INGEST, mais 1 palavra do L57 e as 104 da mudança da caçada de Kate para o cap. 6, na nota seguinte; os totais anteriores usavam contagens antigas dos caps. 43 a 48; a coluna Palavras dos caps. 47 a 66 e do epílogo foi atualizada e a coluna % Real dos caps. 47 e 48 foi preenchida). Fecha em decisão irrevogável (Nolan enforca Juleen); corte **C**, logo após o golpe, com a consequência simples e visível (o choro das crianças). O cap. 59 foi a **949 palavras** (907 antes) com o parágrafo em que Nolan registra "mundo" (L23, decisão do autor, 2026-11-20). Este Mini-INGEST não replaneja o mapa.
 
 > **Atualização 2026-11-20 — caçada de Kate do Prólogo para o cap. 6.** O
 > Prólogo passa de 2.948 para **1.488 palavras** (a Praça e o espasmo de Kate; a
@@ -1167,10 +1169,10 @@ Mário é levado para a Metrópole pelos Clãs de Sangue e entregue a Genocydo.
 **O Acordo de Hícse e Terbs:** A cessão formal do Reino aos Clãs de Sangue e a apoteose prometida por Terbs a Genocydo **só se consumam com a blasfêmia pública de Mário**. Hícse sabe que se o Deus do Evangelho criar raízes em Ornick, a soberania dos elohins racha; por isso, a rendição de Mário precisa ser espiritual, pública e humilhante. Os Clãs acampam fora dos muros e aguardam a blasfêmia antes de tomar posse da terra.
 
 **Nolan operando por dentro:** Nolan chega à Metrópole à frente da coalizão e reassume seu posto burocrático para manobrar o rei:
-- Nolan convence Genocydo de que uma execução sumária em calabouço secreto desperdiçaria a vitória política: a blasfêmia precisa ser um grande espetáculo público na Festa da Poda, em Gerikhad, com a multidão reunida, para aniquilar o mito do Souhma. Com isso, ganha tempo precioso.
+- Nolan convence Genocydo de que uma execução sumária em calabouço secreto desperdiçaria a vitória política: a blasfêmia precisa ser um grande espetáculo público na Festa da Poda, em Gerikhad, com a multidão reunida, para aniquilar o mito do Souhma. Com isso, ganha tempo precioso. **(Superado em 2026-11-20: o texto não tem essa cena; Nolan só dá ordens de custódia no cap. 49 e a assembleia é o cap. 59.)**
 - Nolan melhora as condições do cativeiro de Mário: retira-o do poço imundo e o transfere para uma cela seca da torre, entregando-lhe mantas e material de leitura — incluindo a **Bíblia de Kraviam** e notas do diário de Genocydo.
 - Nolan confronta Benjamim com a ameaça física de seus rampillas e desvenda os termos sórdidos do pacto de Terbs.
-- **A semente da quebra:** No caminho de volta, Nolan investiga e descobre que Dagmar foi envenenada por vembra; enfurecido, Nolan executa Juleen sem julgamento formal, quebrando seu próprio código de legalidade.
+- **A semente da quebra:** No caminho de volta, Nolan investiga e descobre que Dagmar foi envenenada por vembra; enfurecido, Nolan executa Juleen sem julgamento formal, quebrando seu próprio código de legalidade. **(Superado em 2026-11-20: a descoberta e o enforcamento acontecem no cap. 49, na Metrópole, na mesma tarde em que Mário chega; Mira diz o cheiro de vembra no palacete e Mathias dá o endereço.)**
 
 ---
 

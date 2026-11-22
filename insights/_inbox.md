@@ -43,7 +43,7 @@
 
   Passos pesados e hesitantes ecoaram no claustro. Nolan os reconheceu antes de erguer os olhos: o ranger de couro velho de quem já não sabia aonde ir.
 
-  Nuh d'Teraghar atravessou a galeria sem cortejo e sem o talismã no peito. A túnica de linho cru estava rasgada na barra e escura de cinza. Nas mãos trazia um diapasão de bronze partido ao meio, que segurava pela haste, com os dois polegares sobre a fratura.
+  Nuh d'Teraghar atravessou a galeria sem cortejo e sem o talismã no peito. A túnica de linho cru estava rasgada na barra e escura de cinza. Nas mãos trazia um diapasão de renanthao partido ao meio, que segurava pela haste, com os dois polegares sobre a fratura.
 
   Parou diante do banco. Pestanejou contra o reflexo da lente trincada e demorou a achar o rosto do juiz.
 
@@ -472,3 +472,91 @@
 - **Status**: aplicada (decisão do autor, 2026-11-21: "quero seguir com a ideia"), em `6a0de7b` no PR #23 do Livro.
 - **Destino**: concluída. A assembleia de Nolan (cap. 48, linha 89; cap. 53, linha 19) é a Grande Câmara do cap. 58; não há reunião separada na véspera.
 - **Relação com o cânone**: `personagens/elysia.md` (veio pedir grão; comboio massacrado, linhas 14-24); cap. 49:97-105 (plano de Nolan: Mário na cela, custódia para instrução perante a Grande Assembleia), preservado.
+### 2026-11-20: Cap. 49, o enforcamento deve vir depois de Nolan agir por Mário? (comentário 1 do autor)
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: o autor pergunta se o capítulo do enforcamento de Juleen não ficaria melhor depois de Nolan agir a favor de Mário (conforto na prisão, argumentar com Genocydo), para o crime surpreender depois de uma "espiral de redenção".
+- **Capítulos afetados**: 49 (aplicado em parte); 50 a 60 e epílogo, se mover.
+- **Status**: decidida pelo autor em 2026-11-20 ("Aceito suas propostas"): não reordenar. Marcador removido do cap. 49.
+- **Avaliação**: mover custa cerca de 10 linhas nos caps. 52, 53, 56, 59 e epílogo ("ontem à tarde", "naquela tarde") e desfaz o encaixe da mesma tarde do Dia 107. Os caps. 43 a 48 mostram aliança tática, não redenção. Aplicado: as ordens a favor de Mário (cela seca, guarda pessoal, água, comida, custódia) passaram para antes do crime, no palacete, diante de Saboc. Uma cena de Nolan com Genocydo antes do crime custaria de 300 a 450 palavras e colide com 53:59 e 58:35.
+- **Destino**: fechada.
+
+### 2026-11-20: Fecho do cap. 47 com as muralhas da Metrópole (comentário 29 do autor)
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: fechar o capítulo de Mário com os Clãs (47) com ele avistando ao longe as muralhas e torres da Metrópole.
+- **Capítulos afetados**: 47 e, opcionalmente, o começo do 50.
+- **Status**: aceita pelo autor em 2026-11-20: o 47 não muda; as 35 palavras abrem o cap. 50 ("Na última dobra da serra, a forquilha sob o queixo obrigou Mário a erguer a cabeça. A Metrópole estava lá embaixo: muralhas cinzentas, torres de calcário, a fumaça de mil chaminés deitada sobre os telhados."). Marcador removido.
+- **Avaliação**: o 47 fecha de noite, na serra (L63 a L68); a chegada é no fim da tarde seguinte (50:3), e de noite não se vê muralha. O cap. 48 já abre com a primeira visão da cidade (L5) e o 50 reserva o Monólito (L29 a L33). Se quiser a ponte, até 40 palavras no começo do 50, antes dos sinos.
+- **Destino**: aplicado.
+
+### 2026-11-20: Como o diário de Genocydo chega a Nolan (comentário 31 do autor)
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: o cap. 49 mandava levar "o diário de fundação" à cela, mas Nolan nunca o recebeu em cena (cap. 10: Layla falhou; cap. 14: Nolan não o tem; o cap. 50 já mostra "dois volumes" na cela).
+- **Capítulos afetados**: 49 (cena de Layla aplicada); 50, 52, 54 e 56 ficam intactos; 53 e 54 podem ganhar uma linha cada (opcional).
+- **Status**: aceita pelo autor em 2026-11-20 (opção b: cena curta de Layla no jardim do palacete). Marcador 31 removido do cap. 49.
+- **Cena aplicada**: no chafariz seco do jardim do palacete, a cena foi reescrita pelo autor no PR #20 (2026-11-20): Layla traz o diário por conta própria e diz que passou três meses aprendendo onde o rei guarda o que importa (a mesa de cabeceira); Nolan a recusa ("Chegou tarde. Não preciso mais dele") e depois decide usar o diário com Mário. Saíram a troca por um livro de contas e a explicação do plano. Nolan não lê a língua e manda os dois livros à cela "para saber se os lê". Paga o cap. 10 e a semente #15 ("obtém tardiamente"); Nolan não conclui nada (só Mário lê e revela).
+- **Opções**: (a) manter a ponte; (b) cena curta com Layla antes da ordem, cerca de 300 palavras, e o cap. 53 teria de assumir o que ela deu; (c) cortar o diário da ordem e Layla o deixar na cela (53:53; o esquema previa a visita dela), editando 50:47, 52:3 e 54:27 ("o diário que Nolan deixou").
+- **Destino**: aplicado no cap. 49; as linhas dos caps. 53 (L17) e 54 (L29) foram aplicadas em 2026-11-20, a pedido do autor. No PR #20 o cap. 54 passou a mostrar o espaço vazio ao lado da bacia de prata, porque a troca por um livro de contas saiu do cap. 49.
+
+### 2026-11-20: Koda, o porto sul e o mandante de Juleen (comentário 26 do autor)
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: o texto aponta para Koda ("homem da tesouraria", "selo do porto sul", os despachos no colete do cap. 48), mas o canon fixa Terbs via Benjamim e "nunca resolver o mandante em cena". Falta motivo registrado para Koda ou Alavria.
+- **Capítulos afetados**: 48, 49, 53 ("agentes estrangeiros"); L2.
+- **Status**: decidida pelo autor em 2026-11-20: o mandante é **Koda**, a explorar no L2; "pista falsa" descartada. No cap. 49 o texto não aponta ninguém: Juleen não sabe nomes e Nolan lista Nuh, Benjamim, Lupe'i, Genocydo, Koda e Alavria (L191).
+- **Hipótese (inferência)**: a união Guenayer × Addorbek (burocracia mais exército de fogo) é a dinastia capaz de impedir que o Reino vire província, e os Guenayer já recusaram Alavria (cap. 48). Seria o motivo de Koda ou de Alavria.
+- **Prós e contras (análise de 2026-11-20, anterior à decisão do autor)**:
+  - **Benjamim (Terbs).** Prós: (1) preserva o canon de 2026-09-19 e a ironia do epílogo, em que Nolan aceita o selo de Terbs do homem que mandou matar a esposa dele (ferida aberta, não tese fechada, Risco 5); (2) é o método de Benjamim ("primeiro só queriam saber da casa, depois quiseram o resto": planta, paciente, compra quem já está dentro); (3) faz de "agentes estrangeiros" (cap. 53, L43) um erro de premissa de Nolan, o que ajuda o Risco 2 (Nolan nunca errado); (4) não mexe no arco de Koda e Gunad no L2. Contras: (1) o texto hoje aponta para o outro lado, e a saída honesta exige uma cláusula; (2) o motivo de Terbs para matar a linhagem está só no canon, fora de cena, e "a linhagem dos Guenayer não podia se misturar com os Addorbek" soa a política, não a Corrupção; (3) risco de Benjamim virar onisciente (a decisão proíbe: o canal dele é o Rei, os resultados públicos da corte e o livro privado da aia).
+  - **Koda (Alavria).** Prós: (1) é o que o texto já diz (tesouraria, porto sul, o colete do cap. 48; "prata raspada" combina com o Mestre da Moeda, leitura possível); (2) motivo político concreto e já plantado (o precedente da anexação, cap. 48); (3) espelho temático: Juleen coagida pelos filhos, Koda coagido por Jo-jo, refém em Alavria; (4) dá ao L2 uma ponte pessoal: Gunad descobre que o pai matou a mulher de Nolan, e a morte redentora de Koda ganha peso. Contras: (1) desfaz o canon de 2026-09-19 e a ironia final do epílogo; (2) faz do único aliado de Nolan nos caps. 4 a 48 o assassino de Dagmar, o que relê o desengano de Koda no cap. 48 como encenação e pede retoques em vários capítulos; (3) Nolan acertaria a premissa ("estrangeiros"), contra o Risco 2, e a revelação no L2 fecharia a conta demais (Risco 5); (4) a redenção de Koda fica mais difícil de sustentar (matou a esposa e o herdeiro do aliado); (5) enfraquece Benjamim como "cobra no jardim".
+  - **Recomendação (superada: o autor decidiu por Koda):** Benjamim, com a **leitura dupla do porto sul** em vez de pista falsa: uma cláusula (no cap. 48 ou no 53) dizendo que os bálsamos e resinas de Plyshar desembarcam pelo porto sul e a tesouraria os paga (cap. 48, L95; cap. 53, L17). Assim o "homem da tesouraria" com o "selo do porto sul" pode ser o pagador de Benjamim, o leitor desconfia de Koda por boa razão, e Koda fica culpado de outra coisa (a traição), não da morte de Dagmar. A geografia de Plyshar não está fixada; é inferência a confirmar.
+- **Destino**: registrado em `decisoes/mandante-juleen-alvo-linhagem.md`; exploração no L2.
+
+### 2026-11-20: Incongruências a jusante achadas na avaliação do cap. 49
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: pontos fora do cap. 49 que a avaliação encontrou e não tocou.
+- **Capítulos afetados**: 50, 52, 53, 58, 59.
+- **Status**: resolvidas em 2026-11-20, a pedido do autor ("Resolva os pontos de não aplicado").
+- **Itens**: 50:9 (a multidão sabe que Mário ressuscitou o filho de Nolan, contra "só Nuh sabe"); 52:29 (Mário cita "Nolan que enforcava aias" sem fonte na cena); 59:31 ("sem testemunhas" com a família presente; talvez "de defesa"); 53:19 a 21 e 58:35 (convocação da assembleia); guardas "municipal", "civil", "de Genocydo" e "da chancelaria" (49, 50:3, 50:43, 53:11); o óleo de unção da Festa da Poda (cap. 49) e o "conselheiro idoso" do cap. 66, que coroa Mário (não o unge) e poderia ser Nuh.
+- **Destino**: fechadas (ver `decisoes/2026-11-20-cap49-comentarios-em-lote.md`, seção "Incongruências a jusante"). Sobrou o payoff opcional do óleo no cap. 66 (entrada abaixo).
+
+### 2026-11-20: Humanos dentro da Metrópole sem que Nolan saiba (burgos de baixo)
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: nos burgos de baixo da Metrópole (curtume, salitre, Gerdialias), humanos e leviantares pobres vivem misturados e sem fiscal; Nolan, arquiteto da Segregação, não sabe, porque mandaria expulsar. Gus é a mesma mistura por tese e com dignidade ("versão feia da Cidadela").
+- **Capítulos afetados**: 4, 41 e 49 (aplicados); 53 e 58 (os "moradores humanos" do Gerdialias, a conciliar).
+- **Status**: aceita pelo autor em 2026-11-20 (comparação por Orval e não por Nolan; marido de Juleen humano; "burgos de baixo"; Gerdialias: os humanos ficam e Nolan não precisa saber; Nolan não descobre o marido). Aplicada no livro.
+- **Decidido**: (1) Gerdialias: os humanos vazam pelos muros e Nolan só registra a perda dos pátios; (2) Nolan não descobre o marido humano. **Em aberto**: se o marido humano ganha um beat entre os caps. 53 e 59.
+- **Destino**: fechada, salvo o beat do marido.
+
+### 2026-11-20: Payoff opcional, o óleo do Templo unge Mário no cap. 66
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: o óleo que o Templo prepara para a unção de Genocydo na Festa da Poda (cap. 49) poderia ungir Mário no cap. 66, pelas mãos do "conselheiro idoso", que seria Nuh; o povo já grita "Viva o Ungido do Criador!" (66:61).
+- **Capítulos afetados**: 66 (duas ou três linhas); 49 (já planta o óleo).
+- **Status**: capturada, **sem decisão**. Hoje o texto só tem a coroa (66:53 a 63), e o "conselheiro idoso" não é nomeado.
+- **Avaliação**: fecha o plano de Vonos (Mário no trono) e o erro de Nuh (entregou o óleo a Terbs sem saber) no mesmo gesto, e dá sentido literal a "Ungido". Custo: nomear Nuh no cap. 66 e conciliar com o final do L1 (Nuh "some", epílogo e L2), em que ele é o sacerdote que vê Vonos falhar.
+- **Destino**: decisão do autor, ao chegar ao cap. 66.
+
+### 2026-11-20: Koda como mandante de Juleen, a explorar no L2
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: o texto não aponta ninguém (Juleen não sabe nomes; Nolan lista os suspeitos) e, na storybible, o mandante é Koda, com revelação no L2 pela investigação de Gunad.
+- **Capítulos afetados**: 49 (aplicado, L189 a L191); L2; opcionalmente o 48.
+- **Status**: aceita pelo autor em 2026-11-20 (canon); o desenvolvimento do L2 está em aberto.
+- **Em aberto para o L2**: (1) confirmar o motivo (ordem de Alavria, Jo-jo refém, vácuo do trono e anexação); (2) como a "morte redentora" de Koda e a intercessão por Gunad cabem no crime; (3) o encontro Nolan × Koda e Nolan × Gunad; (4) a ironia do epílogo (Nolan aceita o selo de Terbs sem saber que o envenenador era o amigo).
+- **Fair-play já no texto**: a conspiração proposta por Koda (caps. 4, 7 e 14), os despachos do porto sul no colete (cap. 48, L125) e a prata raspada (cap. 49, L183). Opcional, não aplicado: no cap. 48, Koda não perguntar por Dagmar.
+- **Destino**: `decisoes/mandante-juleen-alvo-linhagem.md` e `insights/povs-l2-gunad-lakand-koda.md`.
+
+### 2026-11-20: A inferência de Nolan sobre o "mesmo lugar" de Mário e Genocydo (pergunta do autor no PR #20)
+
+- **Data**: 2026-11-20
+- **Ideia (uma linha)**: no cap. 49 Nolan supõe que Mário lê os livros porque o Estrangeiro "falava aquela língua"; o autor perguntou qual a consequência prática de Nolan concluir que Mário e Genocydo vêm do mesmo lugar, mesmo sem saber que é outro planeta.
+- **Capítulos afetados**: 49 (L93, já escrito); 59 (L23, opção (b) aplicada); 48 (Alavria, só na opção (c)).
+- **Status**: decidida pelo autor em 2026-11-20: opção (b), aplicada no cap. 59, L23 (parágrafo novo, 42 palavras). A opção (c) e o ajuste de redação do 49:93 não foram aplicados; o ajuste aguarda o sim do autor.
+- **Avaliação**: a inferência motiva os dois livros na cela (a ordem está em 49:101; os livros aparecem na cela em 50:49) e o plano de usar Mário como testemunha viva; rende nos caps. 52, 54 e 59. Não contradiz o cap. 14 (Nolan já dissera que Genocydo lê um livro que "não é ornickenho") nem o cap. 19. Não dá certeza a Nolan nem o planeta: no cap. 59 a surpresa é "mundo", e o texto não mostra reação dele a isso. O cap. 56, L43 (POV de Mário) já planta, diante de Nolan, "os melhores juristas do meu mundo" (soa figurado), e no cap. 14 (L45 e L59 a L63) Nolan e Nuh procuram uma origem geográfica para a língua ("não é ornickenha e nem parece ser do Arquipélago de Vitysh").
+- **Ajuste de redação sugerido (não aplicado)**: o 49:93 diz "Diziam que o Estrangeiro falava aquela língua", mas o que corre nos caps. 13 e 19 é só "uma língua que ninguém conhece" ("língua estranha"); ligá-la à língua dos livros é inferência de Nolan, não boato. Proposta, válida para qualquer das opções: "Diziam que o Estrangeiro falava uma língua que ninguém conhecia. Se fosse aquela, saberia lê-la."
+- **Opções**: (a) manter como está (descartada). (b) Só colher (APLICADA em 2026-11-20): um parágrafo novo de Nolan no cap. 59, L23, entre o rugido do rei e o burburinho, ancorado no "meu mundo" do cap. 56, L43 e no "burocrata encurralado" do cap. 14, L63 (texto aplicado: "Nolan reteve uma palavra no meio do barulho: mundo. Na cela, de manhã, Mário falara dos juristas do seu mundo, e Nolan entendera: do seu povo. Esperara uma terra distante; o rapaz dizia outro mundo, e ninguém na sala parecia ter notado."; 42 palavras no cap. 59, nada muda no cap. 49). (c) Plantar e colher (NÃO aplicada): no cap. 49, L93, Nolan dá nome ao "lugar" (rascunho: "Diziam que o Estrangeiro falava uma língua que ninguém conhecia. Se fosse aquela, rei e forasteiro vinham do mesmo lugar, e só um reino sabia fiar o metal que nenhuma oficina de Ornick fiava: Alavria. E quem falava a língua talvez soubesse lê-la.", cerca de 28 palavras a mais no cap. 49), e o cap. 59 o desfaz com o parágrafo de (b), trocando "do seu povo" por "de Alavria" e "uma terra distante" por "um reino a semanas de navio". Ganho de (c): um erro intelectual verdadeiro de Nolan (Risco 2), meio-certo (Alavria age: o destacamento de Koda, cap. 60, L45), coerente com o cap. 14 (a origem da língua é uma pergunta geográfica), com o metal e as cargas de fogo de rocha do cap. 48 (L111 e L119) e com "agentes estrangeiros" (53:43); a pista falsa se paga sozinha no cap. 59, sem abrir semente nova. Custo de (c): palavras num cap. 49 já acima do sugerido, o L93 deixa de hesitar e passa a deduzir, e Alavria (hipótese de motivo de Koda na storybible) ganha primeiro plano contra a regra de não dar pistas do mandante; variante sem nomear: "um reino além-mar" no cap. 49 e "esperara um reino além-mar" no cap. 59.
+- **Destino**: (b) feita no cap. 59; (c) e o ajuste do 49:93 aguardam decisão do autor.

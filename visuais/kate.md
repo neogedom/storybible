@@ -205,9 +205,12 @@ timestamp: 2026-07-24T12:00:00-03:00
 - _Não aparece._ Ausente da cena da Metrópole.
 
 
-## Capítulos 47 e 49 — Mini-INGEST (2026-11-21)
+## Capítulo 47 — Mini-INGEST (2026-11-21)
 
 - _Não aparece._
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Não aparece** (descendo o rio com os artífices).
 
 ## Histórico por Capítulo
 

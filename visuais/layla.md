@@ -26,8 +26,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
 
 - Roupas: não descritas; descalça, com as sandálias ao lado.
-- Postura: sentada na borda do chafariz seco, de pernas cruzadas; entrega o pacote de pano encerado.
-- Expressão: sorriso de lábios fechados; contida diante de Nolan.
+- **Estado**: sentada de pernas cruzadas na borda do chafariz seco, com as sandálias ao lado e um pacote de pano encerado no colo.
+- **Postura**: sorri de lábios fechados; apoia a mão sobre o pacote, sem se levantar; depois o pega do colo e o entrega a Nolan.
+- **Fundo**: jardim do palacete atrás da cerca viva, o chafariz seco (o mesmo do cap. 10).
 
 ## Histórico por Capítulo
 

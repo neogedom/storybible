@@ -1,7 +1,7 @@
 ---
 type: Insight
 title: A descoberta da vembra — parkada (lugar a definir)
-description: Cadeia Mira → vembra → suspeita → investigação de Layla → Juleen saiu do texto em 2026-09-25 (cap. 24 de Nolan cortado; descoberta retirada do cap. 28). Guardada para realocação; posição ainda não decidida.
+description: Resolvida no cap. 49 em 2026-11-20 (Mira no palacete, Mathias dá o endereço, Juleen). Histórico — a cadeia saiu do texto em 2026-09-25 (cap. 24 de Nolan cortado; descoberta retirada do cap. 28) e ficou guardada para realocação.
 tags: [insight, L1, nolan, dagmar, juleen, vembra, pendente]
 timestamp: 2026-09-25T12:00:00-03:00
 ---
@@ -26,7 +26,7 @@ timestamp: 2026-09-25T12:00:00-03:00
 
 - Os plantios 1-2 estão no texto e permanecem (chá no cap. 4; morte no cap. 19).
 - A **misatribuição** de Nolan (humanos — semente #6) e a **cronologia do ódio** (caps. 19 - 26) seguem canônicas; o pagamento é que fica adiado.
-- O **mandante** (Terbs via Benjamim) e o **alvo** (a linhagem Guenayer × Addorbek) — decididos em 2026-09-19 — não mudam.
+- O **alvo** (a linhagem Guenayer × Addorbek), decidido em 2026-09-19, não muda; o **mandante** deixou de ser Terbs via Benjamim e passou a ser Koda (decisão do autor, 2026-11-20).
 
 ## Resolvido (2026-10-03)
 
@@ -39,6 +39,18 @@ timestamp: 2026-09-25T12:00:00-03:00
 - **Origem das cartas:** sai da estrada, pela mala — e a resposta **espera**
   na Metrópole, porque a mala não persegue o viajante.
 - Ver `decisoes/jornada-nolan-acre-2026-10-03.md`.
+
+## Resolvido no cap. 49 (2026-11-20) (aceito pelo autor no chat)
+
+- **Onde:** no palacete, no mesmo dia do Santuário (cap. 49); não na estrada.
+- **Quem fala:** Mira, de passagem, sem acusar ninguém; **Nolan liga os pontos**
+  (cheiro, caneca de barro do cap. 4, aia).
+- **Como acha Juleen:** Mathias, que guardava o portal do palacete (cap. 4),
+  sabe onde ela mora. **Layla não entra** (o cap. 53 fica como está) e a carta
+  de Nolan a Layla nunca foi escrita no texto.
+- **O chá:** "de vembra", como no cap. 4 ("melissa" só existia na cena cortada,
+  que conflita com o cap. 4).
+- **Aliciamento:** "no verão, meses antes do parto"; fala-plant incluída.
 
 ## Conexões
 

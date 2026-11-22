@@ -177,7 +177,7 @@ O autor validou as sugestões da lista de alertas, e elas foram aplicadas ao tex
 - **A11, vegetação:** cap. 13, L1: "inferno verde" passa a "inferno úmido", para casar com as árvores despidas do outono do prólogo e do cap. 6.
 - **A12, Kraviam:** cap. 54, L27: Mário diz "Quase trinta anos de ausência", como o rei ("Faz quase trinta anos", L31). O diário do cap. 52 data o início do século XXI; se o autor quiser outro número, é só ajustar os dois.
 - **A13, trigo:** cap. 58, L41: "Os silos da cidade só têm trigo para mais duas semanas". O cap. 48 (L65) fala do estoque dos regimentos, três semanas.
-- **Cap. 49:** L11, "A corte dispensou a bênção matinal" (antes, "O Conselho reuniu-se", que sugeria uma segunda reunião antes da assembleia extraordinária); L43, a "chuva miúda" virou "cerração fria", porque o livro não tem cena de chuva (log de 2026-11-13).
+- **Cap. 49:** L11, "A corte dispensou a bênção matinal" (antes, "O Conselho reuniu-se", que sugeria uma segunda reunião antes da assembleia extraordinária); L43, a "chuva miúda" virou "cerração fria", porque o livro não tem cena de chuva (log de 2026-11-13). Em 2026-11-20 o capítulo ganhou a cena do palacete entre o Santuário e o burgo baixo; o enforcamento fica "no meio da tarde" (cap. 53, L39) e Juleen foi aliciada "no verão, meses antes do parto" (os três meses de chá começam antes do prólogo).
 - **A14, timeline da storybible:** a tabela do L1 em `temas/timeline.md` foi refeita a partir desta cronologia.
 
 ## Decisões de ordem (2026-11-16)
@@ -248,7 +248,7 @@ O autor validou as sugestões da lista de alertas, e elas foram aplicadas ao tex
 | 46 | Kate | Sala de Traçagem | Dia 106 |
 | 47 | Mário | Marcha dos Clãs | Dia 106 |
 | 48 | Nolan | Chegada | Dia 107 |
-| 49 | Nolan | Juleen | Dia 107 |
+| 49 | Nolan | Santuário, palacete, Juleen | Dia 107 |
 | 50 | Mário | Portão Leste | Dia 107 |
 | 51 | Kate | Canais | Dia 107 |
 | 52 | Mário | Diário e Gunad | Dia 107 |

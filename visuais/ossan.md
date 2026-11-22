@@ -66,7 +66,7 @@ timestamp: 2026-08-26
 - **Observação**: aparece como "xamã maltrapilho" aos olhos dos servos.
 - **Fundo**: ponte de pedra, portão oeste, escadaria do Castelo de Quartzo.
 
-## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
 
-- Presença: nas sombras dos beirais, no armazém de salitre, acompanhando Nolan.
-
+- **Postura**: mantém-se nas sombras dos beirais, no burgo baixo, enquanto acompanha Nolan e Mathias até o armazém e os quatro rampillas entram.
+- **Fundo**: rampa do curtume e pátio de fardos de lã crua.

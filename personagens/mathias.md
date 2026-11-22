@@ -88,6 +88,10 @@ Devour.
   Kraviam por categoria (um deus fora do Conselho — ver semente #10), não
   por leitura do texto.
 
+### Capítulo 49 (2026-11-20) (aceito pelo autor no chat)
+
+- Acompanhou Dagmar à casa de Juleen (cap. 4, revisão do PR #20) e, com ar de quem espreme a memória, diz a Nolan: "Acho que... no depósito de salitre do curtume, no burgo baixo, senhor." No armazém de salitre fica junto à porta e atinge o marido com o cabo da espada. Recebe as ordens de custódia de Mário (guarda civil da cidade no portão leste; cela seca da Torre dos Ventos, dos presos nobres) e entrega os dois livros a um soldado do portal.
+
 ## Relações
 
 - [Nolan](/personagens/nolan.md) — mão-direita; lealdade profissional

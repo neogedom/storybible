@@ -35,8 +35,7 @@ um preço.
 - **Apoteose:** Promessa de elevação divina que Terbs vende a Genocydo
   através de Benjamim. **Condições (cap. 48, 2026-11-14):** a cessão do Reino
   inteiro aos Clãs é "mais uma condição" da apoteose; Koda só a viu (exigiu
-  selo) e sabe que há outras. A blasfêmia pública de Mário é a condição não
-  nomeada no cap. 48.
+  selo) e sabe que há outras. A blasfêmia pública de Mário é a condição não nomeada no cap. 48. A **unção** que antecede a apoteose usa o óleo preparado pelo Templo de Vonos (cap. 49, 2026-11-20): o rito corrompe um sacramento de Vonos, e Nuh, que o fornece, não sabe.
 
 ## Agenda sobre Mário (correção 2026-08-10)
 

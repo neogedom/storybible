@@ -269,6 +269,9 @@ timestamp: 2026-07-24T12:00:00-03:00
 | Postura    | Montado na mula, amarrado à sela; desce e ajoelha-se ao lado do rapaz; amarrado de novo e jogado sobre a mula como fardo |
 | Expressão  | Firme diante de Karrk; estômago revirado; "solidão gélida" depois da cura; a Voz não diz uma sílaba |
 | Fundo      | Garganta de paredões ao entardecer → noite fria da serra |
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Não aparece** (chega à Metrópole no fim da tarde; cap. 50).
 
 ## Histórico por Capítulo
 
