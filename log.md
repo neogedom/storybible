@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-22 (Evangelho em Ornick: análise do Consultor Teológico e decisões do autor)
+
+- Pergunta do autor: a jornada do Evangelho e os discursos de Mário estão bons no L1? O Consultor Teológico (38 capítulos lidos por inteiro) respondeu: espinha boa, três fragilidades (as duas dívidas nos caps. 36 e 37; Cristo e a Ressurreição nunca ditos a um ornickenho; cap. 66 sem vão). Registro em `decisoes/2026-11-22-evangelho-em-ornick-rodada-do-consultor-teologico.md`.
+- Decisões do autor: saída A nas duas dívidas; Cristo, Cruz e Ressurreição na cena de Gunad (cap. 52); vão no cap. 66; sugestão do Souhma como ponte; cortes das alusões à Paixão; calor fora das mãos de Mário. As perguntas sobre a fórmula do batismo e sobre "Ele assinou por vocês" seguem abertas.
+- Aplicado no Livro: cap. 45 L52 e cap. 47 L68 (alusões à Paixão; o "Cravos" contrariava o fecho decidido em 2026-11-18, que foi atualizado), cap. 47 L51 (o calor deixa de brotar das palmas de Mário). Atualizados: `temas/sementes.md` (#32), `decisoes/2026-11-18-karrk-...md`, `insights/_inbox.md`, `index.md`.
+
 ## 2026-11-20 (Mini-INGEST do cap. 49 conferido contra a main)
 
 - Pergunta do autor: o Mini-INGEST precisa de ajuste? A main ganhou os PRs #9 e #10 (a caçada de Kate saiu do prólogo para o cap. 6); a branch os trouxe por merge, com conflitos em `index.md`, `log.md` e `temas/esquema-l1.md` resolvidos mantendo os dois lados.
