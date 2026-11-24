@@ -375,11 +375,13 @@ timestamp: 2026-07-24T12:00:00-03:00
   pais se diz Javé. A sua conta já foi paga. E declaro: sou de Javé." O nome
   entra como confissão, sem aula de etimologia (Êx 3:14-15); a promessa de Deus
   vem antes da resposta do batizando. A fórmula segue só com Javé, sem Trindade.
-  **Recomendação do Consultor, sem decisão do autor:** no L1 o rito é de
-  renúncia e adesão (como o batismo de arrependimento); o batismo em nome do
-  Filho completa-o quando o Filho for nomeado a quem foi batizado (At 19:1-5;
-  Mt 28:19), no L2; convém uma linha que sinalize que o rito é provisório
-  (por exemplo no cap. 36, L19).
+  **Decisão do autor (2026-11-24): rito provisório**, conforme a recomendação do
+  Consultor. No L1 o rito é de renúncia e adesão (como o batismo de
+  arrependimento); o batismo em nome do Pai, do Filho e do Espírito completa-o
+  quando o Filho for nomeado a quem foi batizado (At 19:1-5; Mt 28:19), no L2.
+  A linha que sinaliza o rito como provisório está no cap. 36, L19: "O que fazia
+  de manhã, com a água das cabaças, era o batismo de João, o de quem larga os
+  ídolos e volta o rosto para o Criador, e o resto do Nome esperava."
 - **Dupla camada**: declaração de fidelidade a Javé (superfície) + declaração
   de guerra aos deuses falsos de Ornick (pano de fundo; lente de Heiser — os
   deuses são reais; renunciá-los corta o vínculo de servidão).
@@ -734,7 +736,7 @@ _Atualizar a cada INGEST de capítulo._
 - **Plantio executado (cap. 47, POV Mário):** na marcha dos Clãs (numa garganta das serras do outro lado do Cran, sem nome: o "Despenhadeiro das Cruzes" saiu em 2026-11-18, porque Ornick não tem cruzes e o nome adiantava a tese), uma carroça tomba e esmaga a coxa de um rapaz jovem (peito nu coberto de cinza ritual, olhos claros). Karrk vai matá-lo a faca; a velha de rosto tatuado objeta que a morte do rapaz é de Hícse, e Karrk ignora. Mário pede que lhe desatem os braços e o cura por reflexo. O milagre não converte ninguém, Mário é amarrado mais apertado e a Voz não diz nada. O rapaz não tem nome no texto.
 - **Payoff aceito para o L1 (cap. 63, POV Mário, na Garfo):** entre os guerreiros dos Clãs reunidos junto às arcadas, Mário reconhece o rapaz da carroça, de pé sobre as duas pernas, a mão aberta sobre a coxa. Ele vê o homem que o curou ser torturado, sem se ajoelhar e sem agir. Linha de referência: "Entre os guerreiros das arcadas, Mário reconheceu o rapaz da carroça, de pé sobre as duas pernas, a mão aberta sobre a coxa. Ele não se ajoelhava nem desviava os olhos."
 - **Caps. 64 e 66:** sem alteração. O cap. 66 já diz que os sobreviventes "não se ajoelharam diante de Mário"; o destino do rapaz fica em aberto.
-- **Função:** realiza a tese do cap. 47 (o milagre não é recompensado; no fecho, reescrito em 2026-11-18, as mãos que fecharam o osso do rapaz vão atadas às costas e a corda lhes morde os pulsos, sem frase de tese; o pensamento "Cravos" que fechava o capítulo saiu em 2026-11-22, por decisão do autor, para Mário não soar como Jesus) sem pagar o milagre, e dá um rosto aos Clãs.
+- **Função:** realiza a tese do cap. 47 (o milagre não é recompensado; no fecho, reescrito em 2026-11-18, as mãos que tocaram o osso do rapaz (desde 2026-11-24; antes "fecharam", que fazia da mão a causa) vão atadas às costas e a corda lhes morde os pulsos, sem frase de tese; o pensamento "Cravos" que fechava o capítulo saiu em 2026-11-22, por decisão do autor, para Mário não soar como Jesus) sem pagar o milagre, e dá um rosto aos Clãs.
 - **Limite:** o rapaz não age a favor de Mário, não se ajoelha e não se converte, e nenhuma reação dos Clãs muda por causa dele. Sem nome por ora: só se alguém o disser em cena (a velha de rosto tatuado do cap. 47 é a candidata natural); deixar para o L2 se ele voltar a importar.
 - **Germinação (L2):** pode voltar entre os guerreiros da Hoste de Hícse. Possibilidade, sem compromisso.
 - **Pagamento proposto pelo autor (L2, 2026-11-18, comentário do cap. 47):** o rapaz, que no cap. 63 vê Mário no Garfo sem se converter, vê também as falas de Mário, a música de Gunad e a intervenção divina; volta às terras dos Clãs falando do homem que cura e do seu Deus, e arregimenta canibais para largar o canibalismo (um protótipo de igreja, sem a tutela de Mário). Mário, já rei, descobre essa igreja e a visita com Decian e Nolan; sem boa teologia, Nolan o convence de que ela não pode ficar, Mário aceita e a igreja é atacada. O ataque racha Gunad (ou Decian) de vez com a política de Mário e fecha o rompimento do Remanescente; Gunad, em Alavria, sabe de tudo por cartas de Decian. Entrada no inbox (2026-11-18): destino L2, em desenvolvimento. Não altera o limite do L1 acima.

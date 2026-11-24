@@ -39,8 +39,8 @@ de Mário (acadêmico de Direito) e a linguagem universal de Ornick (a dívida).
 > assinaram, que não escolheram, e que nenhum trabalho paga. E cada um fez a
 > sua também, com as próprias mãos. Não é à Coroa nem ao Templo que ela é
 > devida: é a Quem fez vocês. Foi toda essa dívida que ele assumiu no próprio
-> nome. Ele assinou por vocês. E pagou com a vida. Larguem os deuses que
-> cobram e venham a ele, de mãos vazias. A vida que vocês não conquistaram,
+> nome. Ele assinou por todo aquele que vier a ele. E pagou com a vida.
+> Larguem os deuses que cobram e venham a ele, de mãos vazias. A vida que vocês não conquistaram,
 > ele dá. De graça. Não porque vocês merecem. Mas porque ele é assim. Porque
 > ele é Deus. O Eu Sou. O que está acima do Limbo, acima dos deuses que pedem
 > sangue.
@@ -53,9 +53,11 @@ A versão vigente acrescenta: (1) a **culpa própria**; (2) o **credor nomeado**
 (Quem fez vocês, não a Coroa nem o Templo); (3) o **chamado** (largar os deuses
 que cobram e vir de mãos vazias). Cristo, Cruz e Ressurreição seguem **sem
 nome** em Tronk (fundamentos primeiro, cap. 36, L19); são ditos a Gunad no
-cap. 52. **Aberto:** "Ele assinou por vocês" fica até o autor decidir se troca
-por "por todo aquele que vier a ele" (expiação limitada e oferta
-indiscriminada, Dort II.5).
+cap. 52. **Decidido em 2026-11-24:** "Ele assinou por vocês" vira "Ele assinou
+por todo aquele que vier a ele" (expiação limitada e oferta indiscriminada,
+Dort II.5; Jo 6:37). Mário não promete a cada ouvinte o que não pode saber, e a
+frase combina com o chamado do mesmo parágrafo. (No cap. 24, L81, "por todos
+nós" segue como está: é Mário se incluindo.)
 
 ### Decisões de conteúdo
 
