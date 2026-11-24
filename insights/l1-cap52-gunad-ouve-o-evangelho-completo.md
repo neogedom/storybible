@@ -25,7 +25,9 @@ O autor pediu a cena em 2026-11-22 ("Na cena de Gunad", na rodada do Consultor T
 - **L103.** Gunad sai assobiando a melodia pela escada de pedra: o custo de se expor fica sugerido, não explicado.
 - **Cap. 63, L33.** A melodia "Gunad aprendera na véspera, na cela, da boca do próprio condenado, e ensinara durante a noite aos becos do burgo baixo".
 - **Não mudou:** a Voz segue muda; não há milagre; a conversão não é produzida pela fala de Mário (o sinal é Gunad pedir); o porquê da abdicação de Gunad segue em aberto; Kate não reconhece a melodia no L1.
-- **Pendente (decisão de 2026-11-17, não pedido agora):** cap. 52, L23 (Lucas, os chinelos, a overdose e a república perto da faculdade, que contradizem "Lucas sem rosto"); cap. 63, L35 ("os escravos receberem dignidade sem preço" não tem base no texto).
+- **Souhma como ponte (decisão de 2026-11-24, uso 1):** na resposta de Mário a Gunad (L59): "Eu cheguei, isso é verdade; julgar os deuses, não. Quem faz isso chegou antes de mim e foi julgado no meu lugar." O uso 3 (fala de Orval) é do epílogo ([beat aceito](l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md)).
+- **Resolvido em 2026-11-24 (pedido do autor: "resolver todas"):** cap. 52, L23 (Lucas sem nome e sem rosto: a porta fechada do quarto do irmão e o telefone no meio de uma aula de história; saem os chinelos, a overdose e a república); cap. 63, L35 e L37 (sai "dignidade sem preço" e a glosa "o Criador do mundo não cobrava moedas pelo amor"; o hino pede "chegar mais perto de Deus, ainda que pela dor, sem nada para pôr em troca").
+- **Ainda sem texto:** que Mário perceba, no fim do 52, que não escolheu palavra nenhuma para convencer Gunad e que a pergunta chegou à cela antes dele (a Providência agindo antes dele, decisão de 2026-11-17). Proposta feita ao autor em 2026-11-24; aguarda resposta.
 
 ## O que o texto tinha em 2026-11-17 (histórico, antes da cena)
 

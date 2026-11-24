@@ -29,7 +29,7 @@ Status: decidido pelo autor em conversa, em 2026-11-17. Desenvolvimento em [Ato 
 | Local | O que ajustar |
 |---|---|
 | Cap. 47, linha 37 (antes cap. 48; os caps. 47 e 48 trocaram de ordem em 2026-11-15) | "o corpo de Lucas na sarjeta" é o rapaz da calçada; Mário não viu o corpo do irmão nem diz o nome |
-| Cap. 52, linha 21 | sem nome, sem chinelos, sem overdose e sem república perto da faculdade de Direito (Mário estava no ensino médio e soube por telefone) |
+| Cap. 52, linha 21 (hoje L23) | **Aplicado em 2026-11-24.** Sem nome, sem chinelos, sem overdose e sem república perto da faculdade de Direito: ficam a porta fechada do quarto do irmão e o telefone no meio de uma aula de história (cap. 26, L121; cap. 2, L65) |
 | Cap. 52, fecho (linha 67; hoje L101, depois da nota do autor no topo) | **Aplicado em 2026-11-24.** A fala de Gunad ("Os becos de Gerikhad costumam guardar o eco...") saiu; entrou o voto de cantar |
 | Cap. 61, linha 31 | a cozinha e a voz da mãe: imagens e voz da família estão perdidas |
 | Cap. 63, linha 33 | **Aplicado em 2026-11-24.** A melodia vem da cela, da boca do condenado, e Gunad a ensinou aos becos durante a noite |

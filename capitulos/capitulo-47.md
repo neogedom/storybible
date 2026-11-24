@@ -32,7 +32,7 @@ Mário segue amarrado sobre a mula, com a forquilha de freixo no pescoço, na ma
 3. Uma carroça de carga tomba. O rapaz tem a coxa presa entre a roda e a laje. Karrk vai cravar a faca.
 4. Mário grita "Pare!" e pede que o soltem. Karrk corta as cordas, Mário toca o osso: estalo, calor na perna do garoto (o calor não brota das palmas dele, desde 2026-11-22), pele refeita.
 5. Os guerreiros erguem os escudos num pânico supersticioso. A velha grita "Feiticeiro!". Karrk recorre a ameaças para conter o tumulto.
-6. Karrk manda amarrar Mário de novo, "mais apertado". Nós triplos de cânhamo, forquilha cravada sob o queixo. Fecho: as mãos que tinham fechado o osso do rapaz vão atadas às costas e a corda lhes morde os pulsos (L67). O pensamento "Cravos" saiu em 2026-11-22, por decisão do autor.
+6. Karrk manda amarrar Mário de novo, "mais apertado". Nós triplos de cânhamo, forquilha cravada sob o queixo. Fecho: as mãos que tinham tocado o osso do rapaz vão atadas às costas e a corda lhes morde os pulsos (L67; "tocado" desde 2026-11-24, antes "fechado"). O pensamento "Cravos" saiu em 2026-11-22, por decisão do autor.
 
 ## Sementes e Conexões
 
