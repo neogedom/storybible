@@ -47,7 +47,7 @@
 6. "O nome dEle é Eu Sou, e na língua dos meus pais se diz Javé. A sua conta já foi paga." (cap. 34, batismo, L73).
 7. "Pecado. O meu, primeiro. Depois o de todos. A dívida é com Quem nos fez, e nenhum trabalho a paga." (cap. 52, a Gunad, L77). A palavra que ele evitara.
 8. "Eu não tenho o que vender: a minha dívida já foi paga, e não foi por mim." (cap. 63, a Kraviam, L51). Fecha em fato, no idioma do livro de contas, e não em coragem.
-9. "Eu cheguei, isso é verdade; julgar os deuses, não. Quem faz isso chegou antes de mim e foi julgado no meu lugar." (cap. 52, a Gunad, L59). Separa a vinda (dele) da obra do Souhma (de Outro), no padrão de Jo 1:20-27.
+9. "Eu cheguei, isso é verdade; julgar os deuses, não. Quem faz isso chegou antes de mim e foi julgado no meu lugar." (cap. 52, a Gunad, L61). Separa a vinda (dele) da obra do Souhma (de Outro), no padrão de Jo 1:20-27.
 10. "Ele assinou por todo aquele que vier a ele." (cap. 24, Tronk, L85). Oferta indiscriminada, sem prometer a cada ouvinte o que não pode saber (decisão de 2026-11-24).
 
 ## Contraexemplos
