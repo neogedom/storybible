@@ -69,7 +69,7 @@ Pergunta do autor: o objetivo de Mário em 2a ("usar a técnica correta e sofist
 - Falhas de texto (falta "à" ou "é" depois de travessão), **as quatro corrigidas**: cap. 63, L51 e cap. 52, L57 (na rodada de 2026-11-22/24), cap. 56, L67 ("não está à venda") e cap. 61, L35 ("você é pó"), em 2026-11-24.
 - Regra de capítulo fechado (2026-11-21, skill `fechar-rodada`): mudança grande em capítulo fechado é adiada, com motivo. A cena de Gunad no cap. 52 é cena nova; foi aplicada por ordem expressa do autor, em commit próprio (`898b530`), para reverter com facilidade.
 - **Pendentes da lista de 2026-11-22, resolvidos em 2026-11-24 ("resolver todas"):** cap. 52, L23 (Lucas sem nome e sem rosto; commit `cab2667`); cap. 63, L35 e L37 (sem "dignidade sem preço" e sem a glosa do hino; `d857c87`); cap. 54, L55 (os frutos do arrependimento vêm depois do perdão, não como preço, Lc 3:8; `55c02e4`); caps. 34 e 47 (calor e "tocaram"; `47d7b48`); caps. 56 e 61 (falhas de texto; `0317774`).
-- **Ainda abertos:** cap. 66, acréscimo opcional depois do conselheiro coroar Mário ("Mário tentou erguê-lo pelo braço, e o velho se agarrou às tábuas com as duas mãos"), não aplicado; o cap. 36, L19 e o cap. 24, L81 (acima); e as propostas da leitura de 2026-11-24 (abaixo).
+- **Ainda abertos:** o cap. 36, L19 e o cap. 24, L81 (acima), e as propostas da leitura de 2026-11-24 (abaixo). **Aplicados em 2026-11-24 (decisões do autor):** o acréscimo do cap. 66, L67 (o conselheiro se agarra às tábuas quando Mário tenta erguê-lo, antes de "Mário não sorriu"); o desencaixe do epílogo, em um só, de duração; e a cena de Kate fica no epílogo.
 - **Nota do autor no cap. 52** (`(* ... )`, no topo, sobre como o diário chegou à cela): não foi tocada.
 
 ## Arquivos

@@ -1,5 +1,9 @@
 # Log de Atualizações
 
+## 2026-11-24 (decisões do autor: desencaixe em um só, cena de Kate no epílogo, gesto no cap. 66)
+
+- Decisões do autor: "Valia" (desencaixe em um só, de duração: Mário diz três horas, Piet anota quatro); "Acrescente" (cap. 66, L67: o conselheiro se agarra às tábuas quando Mário tenta erguê-lo); "Fica no epílogo" (cena de Kate). Commits do Livro: f015753 (rascunho: desencaixe e tamanho, 620 e 722 palavras) e aec1d56 (cap. 66, L67). Atualizados: insight do epílogo, decisão de 2026-11-20 (itens 9 e 10), decisão de 2026-11-22 (pendências) e a âncora do cap. 66 em `conceitos/milagre.md` (L69). Em aberto: o item 8 (Nolan, Benjamim e Nuh para o cap. 67) e a ordem da cena de Kate com a de Orval e Piet.
+
 ## 2026-11-24 (folha de Piet e frieza em Gus confirmadas; desencaixe em aberto)
 
 - Decisões do autor: a folha de Piet passa a Orval (já no rascunho de `Livro/docs/revisoes/epilogo-orval-e-piet.md`); correção do mesmo dia: em Gus precisa haver frieza, e a frase entra no cap. 43, L9 (eu tinha lido o contrário e registrado a leitura errada). Pergunta do autor: não entendeu o desencaixe. Atualizados `insights/l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md` e `decisoes/2026-11-22-evangelho-em-ornick-rodada-do-consultor-teologico.md`. Pendente: o aceite do autor à versão de um desencaixe só (Mário diz três horas; Piet anota quatro).
