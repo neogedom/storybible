@@ -30,9 +30,9 @@ Mário segue amarrado sobre a mula, com a forquilha de freixo no pescoço, na ma
 1. Marcha pelo desfiladeiro. Karrk entoa a cantiga de Hícse ("quem trouxer a semente estrangeira tem lugar na mesa deles"). Mário reconhece o nome Hícse, e com ele volta o campo dos Moribundos (linha 9).
 2. A guarda discute a letra; quase há briga. A sombra à esquerda da trilha se ergue: Estruzzo.
 3. Uma carroça de carga tomba. O rapaz tem a coxa presa entre a roda e a laje. Karrk vai cravar a faca.
-4. Mário grita "Pare!" e pede que o soltem. Karrk corta as cordas, Mário toca o osso: estalo, calor, pele refeita.
+4. Mário grita "Pare!" e pede que o soltem. Karrk corta as cordas, Mário toca o osso: estalo, calor na perna do garoto (o calor não brota das palmas dele, desde 2026-11-22), pele refeita.
 5. Os guerreiros erguem os escudos num pânico supersticioso. A velha grita "Feiticeiro!". Karrk recorre a ameaças para conter o tumulto.
-6. Karrk manda amarrar Mário de novo, "mais apertado". Nós triplos de cânhamo, forquilha cravada sob o queixo. Fecho: "Cravos", pensou Mário.
+6. Karrk manda amarrar Mário de novo, "mais apertado". Nós triplos de cânhamo, forquilha cravada sob o queixo. Fecho: as mãos que tinham fechado o osso do rapaz vão atadas às costas e a corda lhes morde os pulsos (L67). O pensamento "Cravos" saiu em 2026-11-22, por decisão do autor.
 
 ## Sementes e Conexões
 
@@ -44,5 +44,5 @@ Mário segue amarrado sobre a mula, com a forquilha de freixo no pescoço, na ma
 
 ## Fronteira
 
-- **Como fecha:** em decisão com custo. Mário escolhe curar o rapaz e paga com cordas mais apertadas e a forquilha cravada. Corte em D (consequência: "Cravos").
+- **Como fecha:** em decisão com custo. Mário escolhe curar o rapaz e paga com cordas mais apertadas e a forquilha cravada. Corte em D (consequência: as mãos atadas, a corda nos pulsos; o "Cravos" saiu em 2026-11-22).
 - **Próximo (cap. 48, Nolan):** abre executando: Nolan chega à Metrópole ao amanhecer, sem cativo.
