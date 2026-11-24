@@ -2,7 +2,7 @@
 
 ## 2026-11-24 (folha de Piet e frieza em Gus confirmadas; desencaixe em aberto)
 
-- Decisões do autor: a folha de Piet passa a Orval (já no rascunho de `Livro/docs/revisoes/epilogo-orval-e-piet.md`); em Gus não há frieza, então a frase "nenhum o agradecia" não entra no cap. 43, L9. Pergunta do autor: não entendeu o desencaixe. Atualizados `insights/l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md` e `decisoes/2026-11-22-evangelho-em-ornick-rodada-do-consultor-teologico.md`. Pendente: o aceite do autor à versão de um desencaixe só (Mário diz três horas; Piet anota quatro).
+- Decisões do autor: a folha de Piet passa a Orval (já no rascunho de `Livro/docs/revisoes/epilogo-orval-e-piet.md`); correção do mesmo dia: em Gus precisa haver frieza, e a frase entra no cap. 43, L9 (eu tinha lido o contrário e registrado a leitura errada). Pergunta do autor: não entendeu o desencaixe. Atualizados `insights/l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md` e `decisoes/2026-11-22-evangelho-em-ornick-rodada-do-consultor-teologico.md`. Pendente: o aceite do autor à versão de um desencaixe só (Mário diz três horas; Piet anota quatro).
 
 ## 2026-11-24 (Propostas 1 e 2 aplicadas, 2b e a cena de Orval e Piet)
 
