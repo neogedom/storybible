@@ -1,5 +1,12 @@
 # Log de Atualizações
 
+## 2026-11-24 (Evangelho em Ornick: decisões do autor e pendências resolvidas)
+
+- Decisões do autor sobre as perguntas abertas: rito provisório do batismo (concordou com a recomendação do Consultor), "Ele assinou por todo aquele que vier a ele" (opção 2) e Souhma como segunda ponte, usos 1 e 3; "resolver todas" as pendências da lista. Commits do Livro: rito provisório no cap. 36 L19 (`71b8d60`); cap. 24 L85 (`1956085`); Souhma, uso 1, no cap. 52 L59 (`fd6d254`); calor e "tocaram" nos caps. 34 e 47 (`47d7b48`); "à venda" e "é pó" nos caps. 56 e 61 (`0317774`); Lucas sem nome no cap. 52 L23 (`cab2667`); hino sem glosa no cap. 63 L35 e L37 (`d857c87`); frutos do arrependimento no cap. 54 L55 (`55c02e4`).
+- O uso 3 do Souhma (fala de Orval) fica como beat da cena de Orval e Piet no epílogo, ainda não escrita: `insights/l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md`.
+- Pergunta do autor sobre os objetivos de Mário nas duas metades do Ato 2 (2a: técnica sofisticada para provar que estava certo; 2b: compensar com entrega e esforço), sobre o primeiro a crer de verdade e sobre a pregação a Gunad: leitura do texto registrada em `decisoes/2026-11-22-evangelho-em-ornick-rodada-do-consultor-teologico.md`, com duas propostas que aguardam o autor (cap. 44 L83 e fim do cap. 52). Sem alteração no texto.
+- Atualizados: `decisoes/{2026-11-22-evangelho-...,traducao-substituicao-penal-ponte-divida,2026-11-17-ato3-...,2026-11-18-karrk-...}.md`, `insights/{_inbox,l1-cap52-gunad-ouve-o-evangelho-completo,l1-epilogo-orval-e-piet-sinal-e-esta-consumado}.md`, `conceitos/milagre.md`, `vozes/mario.md`, `temas/sementes.md` (#14 e #32), `capitulos/capitulo-{24,36,47}.md`.
+
 ## 2026-11-24 (Evangelho em Ornick: textos aplicados no Livro)
 
 - A pedido do autor ("Continue"), as decisões de 2026-11-22 foram aplicadas no Livro, depois de trazer a `main` por merge nos dois repositórios (o autor editou os caps. 49, 51 e 52 pelo GitHub; no topo do 52 há uma nota `(* ... )` que não foi tocada). Commits do Livro, por assunto: saída A das duas dívidas (`ebab75d`: cap. 36 L13, cap. 37 L41, cap. 52 L27); cena de Gunad (`898b530`: cap. 52 L35 a L103 e cap. 63 L33); vão do cap. 66 (`fb8cefe`: L23 e L25); Tronk (`1aa9d4c`: cap. 24 L85); batismo, com "Eu Sou" ligado a Javé (`516970b`: cap. 34 L73); fala a Kraviam (`e65216f`: cap. 63 L51).
