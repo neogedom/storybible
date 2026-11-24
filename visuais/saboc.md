@@ -23,7 +23,7 @@ timestamp: 2026-10-11
 - **Estado**: dorme sob a manta nos braços de Mira, indiferente ao cheiro da cidade; Valinor o vê pela primeira vez.
 - **Fundo**: carruagem e escadaria do Castelo de Quartzo.
 
-## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
 
-- **Estado**: no colo de Mira; Nolan o olha antes de dar a ordem a favor de Mário; o berço fica vazio no quarto dele.
+- **Estado**: no colo de Mira, no alto da escada; Nolan o olha antes de dar a ordem a favor de Mário; não fala; o berço fica vazio no quarto dele.
 - **Fundo**: alto da escada e quarto do menino.

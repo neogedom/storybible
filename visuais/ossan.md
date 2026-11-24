@@ -68,5 +68,5 @@ timestamp: 2026-08-26
 
 ## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
 
-- **Postura**: mantém-se nas sombras dos beirais, no burgo baixo, enquanto Nolan e Mathias entram no armazém com os quatro rampillas.
+- **Postura**: mantém-se nas sombras dos beirais, no burgo baixo, enquanto acompanha Nolan e Mathias até o armazém e os quatro rampillas entram.
 - **Fundo**: rampa do curtume e pátio de fardos de lã crua.

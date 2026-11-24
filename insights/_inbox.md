@@ -429,6 +429,49 @@
   - **63** (tribuna, pico do sol): o rei tomado pelas "ressonâncias" enquanto grita "Fale!" (linhas 11 a 13). A tribuna é casca (decidido em 2026-11-19), então o zumbido chega inteiro.
   - **48** (aurora; opcional): castelo calado no frio, no máximo uma frase (o silêncio entre Nolan e Valinor, linha 49). O cap. 53 já ancora o silêncio da noite (linha 3). Serve de contraste para os caps. 60 a 66.
 
+### 2026-11-21: Nolan erra a previsão da recepção pública (rodada 50)
+
+- **Data**: 2026-11-21
+- **Ideia (uma linha)**: Nolan prevê que o rei receberá Mário em público, pelo Portão Leste (cap. 48:1 e :89). A recepção acontece em sala fechada, e Nolan só consegue tirar Mário das mãos de Genocydo com um pergaminho (cap. 50).
+- **Capítulos afetados**: 53 (payoff possível do risco 2: Nolan nunca errado).
+- **Status**: capturada (decisão do autor, rodada 50, item 48)
+- **Destino**: cap. 53, na revisão
+
+### 2026-11-21: "A Verdade Sustenta o Trono" como eco da tese de Vonos (rodada 50)
+
+- **Data**: 2026-11-21
+- **Ideia (uma linha)**: a inscrição do Monólito (cap. 50) repete a tese de Vonos (`conceitos/vonos.md`, linhas 33-38) e pode servir ao L2.
+- **Capítulos afetados**: L2.
+- **Status**: capturada (decisão do autor, rodada 50, item 48)
+- **Destino**: L2
+
+### 2026-11-21: Mário e Kraviam discutem a natureza dos deuses (cap. 54)
+
+- **Data**: 2026-11-21
+- **Ideia (uma linha)**: no cap. 54, Mário defende que só há um Deus. Kraviam responde com os deuses de Ornick ("O que dizer dos deuses daqui?"). Mário replica que deve haver outra explicação para eles, que não a de deuses. Kraviam não conhece a natureza exata dos elohins.
+- **Capítulos afetados**: 54 (conversa já existente, sobre pecado original e graça; entra na reescrita pendente do início do cap. 54, item 4 de `docs/handoff/pendencias-adiadas.md`).
+- **Status**: capturada (ideia do autor, 2026-11-21)
+- **Destino**: cap. 54, na reescrita pendente.
+- **Relação com o cânone**: `personagens/genocydo.md` (Mark Kraviam é o rei, linha 12; formação em química e bancos reformados, linha 30); `conceitos/milagre.md`, linhas 34-40 (poder dos elohim é delegado e criatural) e 101-108 (b'nei elohim: os filhos de Deus que receberam nações); `capitulos/capitulo-54` (conversa atual).
+- **Guardrails**: Mário não nega que os deuses existam, só que sejam deuses. Não pode virar argumento vencedor, e a conversa não confirma plano nenhum. Risco 4: o núcleo temático está na Noite Escura (caps. 52 a 58), e a tese não pode ficar clara cedo.
+- **Dúvidas para o autor**:
+  1. **Resolvida (2026-11-21):** no Livro 1 só se fala em "deuses". "Elohins" só aparece no Livro 2.
+  2. A conversa substitui parte da conversa atual do cap. 54, ou entra como nova fala depois da oferta de Mário?
+  3. **Resolvida (2026-11-21):** a cena só fica se couber no PoV de Mário. Mário não nega que as entidades existam; afirma que não são deuses. Kraviam não sabe o que elas são, e a cena não resolve isso.
+- **Cena exemplo (cap. 54, esboço)**:
+  — Não é verdade — disse Kraviam. — O que dizer dos deuses daqui? Vonos fala com os homens. Terbs cumpre o que promete.
+  — Eles existem — disse Mário. — Eu não disse que não existem. Disse que não são deuses. Deve haver outra explicação para eles, e ela não cabe no nome que vocês usam.
+  — Qual?
+  — Não sei dizer com precisão. Você também não sabe.
+
+### 2026-11-21: Reunião do Conselho já marcada como ocasião da apresentação de Mário (cap. 50)
+
+- **Data**: 2026-11-21
+- **Ideia (uma linha)**: Elysia foi convocada ao Conselho para explicar a distribuição de comida e a fome. Nolan aproveita essa reunião já marcada para apresentar Mário aos conselheiros, porque, depois da última reunião, eles não voltariam a se reunir por algo que parecesse tentativa de golpe.
+- **Capítulos afetados**: 48 (convocação de Elysia, linha 81), 50 (fala do rei: "os Clãs cumpriram a parte deles"), 53 (Nolan explica o motivo, linha 55), 58 (Elysia convocada pelo Conselho, linha 7).
+- **Status**: aplicada (decisão do autor, 2026-11-21: "quero seguir com a ideia"), em `6a0de7b` no PR #23 do Livro.
+- **Destino**: concluída. A assembleia de Nolan (cap. 48, linha 89; cap. 53, linha 19) é a Grande Câmara do cap. 58; não há reunião separada na véspera.
+- **Relação com o cânone**: `personagens/elysia.md` (veio pedir grão; comboio massacrado, linhas 14-24); cap. 49:97-105 (plano de Nolan: Mário na cela, custódia para instrução perante a Grande Assembleia), preservado.
 ### 2026-11-20: Cap. 49, o enforcamento deve vir depois de Nolan agir por Mário? (comentário 1 do autor)
 
 - **Data**: 2026-11-20

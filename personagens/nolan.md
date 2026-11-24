@@ -363,3 +363,8 @@ _Registrar citações marcantes durante o INGEST dos capítulos._
 
 **Prompt de referência (imagem-retrato do arquivo):**
 Arte conceitual dark fantasy cinematográfica, estilo pintura a óleo digital com pinceladas espessas, retrato em plano médio de um juiz-conselheiro diante de um fundo escuro de tribunal com estantes de documentos e um selo oficial. Nolan, homem leviantar de 50 anos aparentes, cabelo grisalho bem cortado, olhos escuros e penetrantes, pele clara impecável, alto, postura ereta e rígida, óculos de armação de ébano, túnica escura severa e robes formais, expressão fria e calculista de quem mede todas as variáveis. Iluminação: chiaroscuro dramático com luz de vela baixa e fria. Atmosfera: sóbria, institucional, sem afeto. Paleta de cores: cinza escuro, pele clara, cabelo grisalho, preto-azulado e couro de documentos. Textura granulada, alto contraste. Sem texto, sem logotipos, sem itens modernos.
+
+## Cap. 49 (Mini-INGEST, 2026-11-21)
+
+- Enforca Juleen no armazém de salitre do burgo baixo (Dia 107, tarde), sem julgamento. Sua leitura de Dagmar (morte pelos humanos na estrada) cai com a revelação da vembra.
+
