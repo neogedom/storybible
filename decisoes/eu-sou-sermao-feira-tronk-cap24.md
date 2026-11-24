@@ -51,7 +51,22 @@ No clímax do sermão (linha 83 do cap. 25), ancorar o nome:
 - **Ambiguidade intencional preservada**: o povo de Tronk ouve um nome
   próprio que não se encaixa na categoria deles — como Kate no cap. 20.
 
+## Atualização (2026-11-24)
+
+- **"Javé" entra no cap. 34**, não no 30 (a nota acima é de 2026-08-31; a
+  numeração valeu depois, ver `temas/sementes.md`, #14). Na cena do batismo
+  (cap. 34, L73), por decisão do autor de 2026-11-22, Mário liga os dois nomes:
+  "O nome dEle é Eu Sou, e na língua dos meus pais se diz Javé. A sua conta já
+  foi paga. E declaro: sou de Javé." O nome entra como confissão, sem aula de
+  etimologia (Êx 3:14-15).
+- O sermão de Tronk está hoje no **cap. 24, L85**, ampliado com culpa própria,
+  credor nomeado e chamado (ver
+  [a ponte da dívida](traducao-substituicao-penal-ponte-divida.md)). O fecho no
+  Nome ("O Eu Sou. O que está acima do Limbo, acima dos deuses que pedem
+  sangue.") não mudou.
+
 ## Arquivos
 
-- `Livro 1/capitulo25.md` (linha 83 — ancoragem aplicada)
+- `Livro 1/capitulo25.md` (linha 83 — ancoragem aplicada; o sermão é hoje o `Livro 1/capitulo24.md`, L85)
+- `Livro 1/capitulo34.md` (L73, a linha que liga "Eu Sou" a Javé)
 - `log.md`

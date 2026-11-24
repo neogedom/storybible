@@ -26,7 +26,7 @@ Mário ensaia o discurso para a Mina, sozinho, enquanto o grupo descansa. Recusa
 
 ## Eventos
 
-1. Mário ensaia o discurso ("Muito acadêmico").
+1. Mário ensaia o discurso ("Muito acadêmico"). Desde 2026-11-24 (L13): o jurista vê o buraco ("Comprados de quem?") e o deixa passar por pressa, e troca "pecado" por "dívida" por hábito desde Tronk. É o primeiro tempo da marcação do erro das duas dívidas (saída A); o segundo é o cap. 37, L41, e o terceiro o cap. 52, L27.
 2. Reflexão sobre a teologia trinitária: ele se contém, "estômagos em carne viva não suportavam carne sólida".
 3. A menina toca Lakand.
 4. "Mestre" recusado.

@@ -13,6 +13,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Plantio**: L1, cap. 27 (numeração nova; "cap. 26" na antiga) — Mário canta em português para Kate
 - **Beat novo (2026-09-09)**: em capítulo futuro do L1, **Kate pergunta o que ele cantou** — pagamento próximo da semente
 - **Executado (2026-09-11)**: o hino entrou no cap. 27 fechado — Kate ouviu, não perguntou; a pergunta segue pendente
+- **Germinação no L1 (aplicada em 2026-11-24, cap. 52 e cap. 63)**: Mário canta de novo, baixinho, na cela ("sem saber por quê"); Gunad ouve da porta, aprende o hino na cela (o sentido dito em ornickenho, a melodia em duas passadas) e o canta no Garfo (cap. 63, L33: aprendeu na véspera, da boca do condenado). Ver [a cena de Gunad](../insights/l1-cap52-gunad-ouve-o-evangelho-completo.md).
 - **Germinação**: L2 — Gunad canta nos becos; Kate reconhece a melodia
 - **Risco**: A cena do L1 precisa ser memorável para o leitor reconhecer no L2
 
@@ -369,6 +370,16 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Reveal de "Javé" (canon 2026-08-10; numerado em 2026-10-04)**: o **cap. 34** é a PRIMEIRA aparição do
   nome próprio no livro (caps. 0-33 usam "Deus"/"Eu Sou"); **caps. 21 - 33 não
   devem usá-lo.**
+- **O nome ligado a "Eu Sou" (decisão de 2026-11-22, aplicada em 2026-11-24, cap. 34, L73)**:
+  antes da declaração, Mário diz "O nome dEle é Eu Sou, e na língua dos meus
+  pais se diz Javé. A sua conta já foi paga. E declaro: sou de Javé." O nome
+  entra como confissão, sem aula de etimologia (Êx 3:14-15); a promessa de Deus
+  vem antes da resposta do batizando. A fórmula segue só com Javé, sem Trindade.
+  **Recomendação do Consultor, sem decisão do autor:** no L1 o rito é de
+  renúncia e adesão (como o batismo de arrependimento); o batismo em nome do
+  Filho completa-o quando o Filho for nomeado a quem foi batizado (At 19:1-5;
+  Mt 28:19), no L2; convém uma linha que sinalize que o rito é provisório
+  (por exemplo no cap. 36, L19).
 - **Dupla camada**: declaração de fidelidade a Javé (superfície) + declaração
   de guerra aos deuses falsos de Ornick (pano de fundo; lente de Heiser — os
   deuses são reais; renunciá-los corta o vínculo de servidão).
