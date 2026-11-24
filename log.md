@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-11-24 (Evangelho em Ornick: textos aplicados no Livro)
+
+- A pedido do autor ("Continue"), as decisões de 2026-11-22 foram aplicadas no Livro, depois de trazer a `main` por merge nos dois repositórios (o autor editou os caps. 49, 51 e 52 pelo GitHub; no topo do 52 há uma nota `(* ... )` que não foi tocada). Commits do Livro, por assunto: saída A das duas dívidas (`ebab75d`: cap. 36 L13, cap. 37 L41, cap. 52 L27); cena de Gunad (`898b530`: cap. 52 L35 a L103 e cap. 63 L33); vão do cap. 66 (`fb8cefe`: L23 e L25); Tronk (`1aa9d4c`: cap. 24 L85); batismo, com "Eu Sou" ligado a Javé (`516970b`: cap. 34 L73); fala a Kraviam (`e65216f`: cap. 63 L51).
+- A cena de Gunad é cena nova em capítulo fechado (a regra de 2026-11-21 pediria adiar); foi aplicada por ordem expressa do autor, em commit próprio. No mesmo trecho foram corrigidas as duas faltas de "é" na fala de Gunad (cap. 52, L57).
+- Contagens (`wc -w`): cap. 24 de 2.174 a 2.210; cap. 34 de 1.818 a 1.838; cap. 36 de 1.760 a 1.810; cap. 37 de 2.214 a 2.233; cap. 52 de cerca de 1.450 (já com a nota do autor) a 1.897; cap. 63 de 930 a 951; cap. 66 de 1.278 a 1.291. As contagens do esquema desses capítulos já estavam defasadas e não foram recalculadas.
+- Abertos: fórmula do batismo (recomendação do Consultor: só Javé no L1), "Ele assinou por vocês" (explicação dada), Souhma como ponte (sugestão no inbox), cap. 34 L17 (calor "de seus dedos"), cap. 47 L67 ("fecharam o osso"), cap. 52 L23 (Lucas), cap. 63 L35, e as falhas de texto "não está — venda" (cap. 56, L67) e "você — pó" (cap. 61, L35).
+- Atualizados: `decisoes/2026-11-22-evangelho-em-ornick-rodada-do-consultor-teologico.md` (estado, respostas às perguntas, pendências), `decisoes/{traducao-substituicao-penal-ponte-divida,eu-sou-sermao-feira-tronk-cap24,2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino}.md`, `insights/{l1-cap52-gunad-ouve-o-evangelho-completo,_inbox}.md`, `conceitos/milagre.md`, `vozes/mario.md`, `personagens/{mario,gunad}.md`, `capitulos/capitulo-{24,34,36,37,47}.md`, `temas/sementes.md` (#1 e #14).
+
 ## 2026-11-22 (Evangelho em Ornick: análise do Consultor Teológico e decisões do autor)
 
 - Pergunta do autor: a jornada do Evangelho e os discursos de Mário estão bons no L1? O Consultor Teológico (38 capítulos lidos por inteiro) respondeu: espinha boa, três fragilidades (as duas dívidas nos caps. 36 e 37; Cristo e a Ressurreição nunca ditos a um ornickenho; cap. 66 sem vão). Registro em `decisoes/2026-11-22-evangelho-em-ornick-rodada-do-consultor-teologico.md`.
