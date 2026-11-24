@@ -40,7 +40,7 @@ Antes da mudança, o prólogo tinha a Praça (Nolan, cerca de 1.000 palavras) e 
    - **a)** levá-la ao L2 como cena de abertura (o L2 começa com capítulo(s) de resumo dos 12 anos) e guardar o texto em `cortes/` do livro. Sem texto novo; é a sugestão da sessão.
    - **b)** reescrevê-la como capítulo próprio, depois do 67, com cerca de 900 palavras. Texto novo; serve ao Risco 3 (fissura humana de Kate), mas devolve ao L1 o gancho que o autor considera fraco.
    - **c)** cortá-la.
-10. **O que falta executar:** criar o cap. 67 com Nolan, Benjamim e Nuh; escrever a cena de Orval e Piet (o insight só tem uma cena exemplo de função; texto do livro só quando o autor pedir).
+10. **O que falta executar:** criar o cap. 67 com Nolan, Benjamim e Nuh; escrever a cena de Orval e Piet (o insight só tem uma cena exemplo de função; texto do livro só quando o autor pedir). **Atualização (2026-11-24):** a cena foi rascunhada como proposta em `docs/revisoes/epilogo-orval-e-piet.md` do Livro (634 palavras, POV de Orval), sem tocar no `epilogo.md`, porque os itens 8 e 9 seguem em aberto. Ao aprovar, ela ocupa o `epilogo.md` depois do parágrafo do Monólito.
 
 ## Aplicado no livro (2026-11-20, branch da sessão)
 

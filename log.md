@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-24 (Propostas 1 e 2 aplicadas, 2b e a cena de Orval e Piet)
+
+- Propostas aprovadas pelo autor e aplicadas no Livro: cap. 44, L83, "pagando em serviço uma conta que não sabia quanto era" (`475b544`); cap. 52, L103, Mário percebe que não escolheu palavra para convencer Gunad e que a pergunta chegou à cela antes dele (`8976f7a`).
+- Pergunta do autor: vale mostrar mais boas ações de Mário em 2b? Resposta registrada em `decisoes/2026-11-22-evangelho-em-ornick-rodada-do-consultor-teologico.md` (seção "Leitura de 2026-11-24"): o volume basta (desenho de 2026-11-16, sumários; Kate vê o serviço no cap. 43, L9); falta que o serviço não compra nada dos homens; frase opcional no cap. 43, L9, sem decisão.
+- Pergunta do autor: onde rascunhar a cena de Orval e Piet? Rascunho em proposta, em `Livro/docs/revisoes/epilogo-orval-e-piet.md` (commit `95223e4`, 634 palavras, POV de Orval, com a fala de Orval do uso 3 do Souhma), sem tocar no `epilogo.md`. Pendente: revisão do `consultor-teologico` antes do checkpoint (condição do insight). Atualizados: `insights/{l1-cap52-gunad-ouve-o-evangelho-completo,l1-epilogo-orval-e-piet-sinal-e-esta-consumado}.md` e `decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md` (item 10).
+
 ## 2026-11-24 (Evangelho em Ornick: decisões do autor e pendências resolvidas)
 
 - Decisões do autor sobre as perguntas abertas: rito provisório do batismo (concordou com a recomendação do Consultor), "Ele assinou por todo aquele que vier a ele" (opção 2) e Souhma como segunda ponte, usos 1 e 3; "resolver todas" as pendências da lista. Commits do Livro: rito provisório no cap. 36 L19 (`71b8d60`); cap. 24 L85 (`1956085`); Souhma, uso 1, no cap. 52 L59 (`fd6d254`); calor e "tocaram" nos caps. 34 e 47 (`47d7b48`); "à venda" e "é pó" nos caps. 56 e 61 (`0317774`); Lucas sem nome no cap. 52 L23 (`cab2667`); hino sem glosa no cap. 63 L35 e L37 (`d857c87`); frutos do arrependimento no cap. 54 L55 (`55c02e4`).
