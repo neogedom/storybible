@@ -3,7 +3,7 @@ type: VisualState
 title: Nolan — Timeline Visual
 character: Nolan
 tags: [visual, timeline, nolan]
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-25T13:34:00-03:00
 ---
 
 ## Estado Canônico (Linha de Base)
@@ -190,29 +190,21 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Expressão**: sem mexer o rosto diante do golpe de Koda; repugnância contida com Benjamim.
 - **Fundo**: ponte de pedra ao amanhecer, portão oeste, burgo baixo, Praça Central, escadarias do Castelo de Quartzo, tesouraria real, Grande Galeria.
 
+## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
+
+- **Vestimenta**: casaco de magistrado abotoado até o colarinho; sapatos de fivela (botas lustradas no armazém); camisa de linho; ao sair do armazém, limpa as lapelas com as costas dos dedos.
+- **Acessórios**: lenço de seda (leva ao nariz diante de Nuh); óculos de armação de ébano (aperta a armação até o tremor passar, no quarto do menino).
+- **Ferimentos**: nenhum.
+- **Postura**: passos firmes pelo corredor central do santuário, com as mãos cruzadas atrás das costas ao pé do altar; desce a pé no burgo baixo; no armazém, a corda nas duas mãos, antebraços retesados sob o linho.
+- **Expressão**: tom monocórdio e frio; espirro seco e contido diante de Nuh; sem pressa e sem perdão ao puxar a corda; depois a mão treme.
+- **Fundo**: Santuário de Vonos (cantaria branca, luz fosca), jardim do palacete com o chafariz seco, vestíbulo, quarto do menino, armazém de salitre do burgo baixo.
+
 ## Capítulo 50 — Portão Leste (Mini-INGEST, 2026-11-21)
 
 - Roupas: casaco preto.
 - Ferimentos: nenhum.
 - Postura: junto ao estrado, sem olhar para o rei. O pergaminho com o seu nome chega por dois homens (L75).
 - Expressão: imóvel.
-
-
-## Capítulo 49 — Juleen (Mini-INGEST, 2026-11-21)
-
-- Roupas: casaco de magistrado abotoado até o colarinho; sapatos de fivela; óculos de armação de ébano.
-- Ferimentos: nenhum.
-- Postura: anda pelo santuário e pelo palacete; desce a pé no burgo baixo; enforca Juleen puxando a corda sobre a viga.
-- Expressão: tom monocórdio e frio; depois a mão treme; limpa as lapelas ao sair.
-- Fundo: Santuário de Vonos → palacete (jardim, chafariz seco) → armazém de salitre, burgo baixo.
-
-## Capítulo 49 — A Fatura (Mini-INGEST, 2026-11-20)
-
-- **Vestimenta**: casaco de magistrado abotoado até o colarinho; sapatos de fivela (botas lustradas no armazém); camisa de linho; ao sair do armazém, limpa as lapelas com as costas dos dedos.
-- **Acessórios**: lenço de seda (leva ao nariz diante de Nuh); óculos de armação de ébano (aperta a armação até o tremor passar, no quarto do menino).
-- **Postura**: passos firmes pelo corredor central do santuário, com as mãos cruzadas atrás das costas ao pé do altar; no armazém, a corda nas duas mãos, antebraços retesados sob o linho.
-- **Expressão**: espirro seco e contido diante de Nuh; sem pressa e sem perdão ao puxar a corda.
-- **Fundo**: Santuário de Vonos (cantaria branca, luz fosca), jardim do palacete com o chafariz seco, vestíbulo, quarto do menino, armazém de salitre do burgo baixo.
 
 ## Histórico por Capítulo
 
