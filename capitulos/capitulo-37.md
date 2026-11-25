@@ -30,7 +30,7 @@ Mário entra pela rampa inferior, marcado como devedor. Na galeria, vê um ental
 1. Entrada disfarçada; triagem contando cabeças.
 2. Mário separa-se de Kate e do grupo, que sobe pela galeria de serviço.
 3. O entalhe "Etemenanki": torre de degraus, serpente alada, cuneiforme.
-4. Sermão interrompido: "Teu deus paga a farinha do armazém?".
+4. Sermão interrompido: "Teu deus paga a farinha do armazém?". Desde 2026-11-24 (L41), o eco devolve a palavra "credor" às abóbadas e Mário percebe que não saberia dizer a quem ela aponta (marcação do erro das duas dívidas, saída A).
 5. O feitor ataca; Nolan e Mathias intervêm.
 6. Nolan: "É o sinal combinado" (Kate teria planejado a morte do barão).
 7. Massacre do barão e da família; revolta dos escravos.

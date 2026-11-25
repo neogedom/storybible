@@ -245,3 +245,9 @@ pela jurisdição).
 
 - **Cap. 47 — cura de um rapaz canibal:** coxa esmagada por roda, fêmur partido. Mário toca o osso por reflexo, sem calcular consequências. Resultado: a pele se refaz.
 - **Custo (cap. 47):** Mário é amarrado de novo, mais apertado (nós triplos, forquilha cravada sob o queixo). Nenhuma conversão: "Ninguém caiu de joelhos para adorar a Deus." A Voz não diz uma sílaba. O custo é criatural e não é explicado (ver "O Custo como Testemunho").
+
+## Ajustes de 2026-11-22 (aplicados em 2026-11-24)
+
+- **Cap. 47, L51:** o calor deixou de brotar das palmas de Mário ("um calor brando que percorreu a perna do garoto"). Pelo cânon "A mão vazia", a mão é ocasião e não canal de poder. **Mesma lógica, resolvida em 2026-11-24 (decisão do autor):** cap. 34, L17, "O calor que correu de seus dedos não queimou" passa a "O calor que correu pelo peito da menina não queimou"; e cap. 47, L67, "as mãos que tinham fechado o osso do rapaz" passa a "as mãos que tinham tocado o osso do rapaz".
+- **Cap. 66, o vão (decisão do autor):** depois da prece de 2 Cr 20, "Mário terminou, e nada respondeu"; o machado de Varek desce, "um palmo, meio palmo", e só então o zumbido para (L23). Antes, o silêncio vinha "instantâneo" e o zumbido se apagava "numa fração de segundo", colados ao fim da prece, como resposta a ela. O vão volta a ser a doutrina: a prece é ocasião, Deus é a causa (L29), a carnificina é sinal (L31 a L39).
+- **Custo (cap. 66):** guerreiros dos Clãs mortos pelas bestas alavrianas, ninguém se ajoelha, terror cósmico em vez de vitória (L41 a L51), e uma coroa que nasce do medo da morte e não de uma fé regenerada (L69; o gesto do conselheiro, em 2026-11-24, desloca o trecho do L67 para o L69).

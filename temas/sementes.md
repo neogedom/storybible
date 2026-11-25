@@ -13,7 +13,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Plantio**: L1, cap. 27 (numeração nova; "cap. 26" na antiga) — Mário canta em português para Kate
 - **Beat novo (2026-09-09)**: em capítulo futuro do L1, **Kate pergunta o que ele cantou** — pagamento próximo da semente
 - **Executado (2026-09-11)**: o hino entrou no cap. 27 fechado — Kate ouviu, não perguntou; a pergunta segue pendente
-- **Germinação**: L2 — Gunad canta nos becos; Kate reconhece a melodia
+- **Germinação no L1 (aplicada em 2026-11-24, cap. 52 e cap. 63)**: Mário canta de novo, baixinho, na cela ("sem saber por quê"); Gunad ouve da porta, aprende o hino na cela (o sentido dito em ornickenho, a melodia em duas passadas) e o canta no Garfo (cap. 63, L33: aprendeu na véspera, da boca do condenado). Ver [a cena de Gunad](../insights/l1-cap52-gunad-ouve-o-evangelho-completo.md).
+- **Germinação**: L1, cap. 64 (Kate, debaixo do cadafalso, reconhece a melodia e entende a letra em ornickenho; decisão de 2026-11-25). L2 — Gunad canta nos becos, e Kate ouve de novo para perceber que Mário mudou
 - **Risco**: A cena do L1 precisa ser memorável para o leitor reconhecer no L2
 
 ## 2. A Bíblia de Kraviam
@@ -369,6 +370,18 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Reveal de "Javé" (canon 2026-08-10; numerado em 2026-10-04)**: o **cap. 34** é a PRIMEIRA aparição do
   nome próprio no livro (caps. 0-33 usam "Deus"/"Eu Sou"); **caps. 21 - 33 não
   devem usá-lo.**
+- **O nome ligado a "Eu Sou" (decisão de 2026-11-22, aplicada em 2026-11-24, cap. 34, L73)**:
+  antes da declaração, Mário diz "O nome dEle é Eu Sou, e na língua dos meus
+  pais se diz Javé. A sua conta já foi paga. E declaro: sou de Javé." O nome
+  entra como confissão, sem aula de etimologia (Êx 3:14-15); a promessa de Deus
+  vem antes da resposta do batizando. A fórmula segue só com Javé, sem Trindade.
+  **Decisão do autor (2026-11-24): rito provisório**, conforme a recomendação do
+  Consultor. No L1 o rito é de renúncia e adesão (como o batismo de
+  arrependimento); o batismo em nome do Pai, do Filho e do Espírito completa-o
+  quando o Filho for nomeado a quem foi batizado (At 19:1-5; Mt 28:19), no L2.
+  A linha que sinaliza o rito como provisório está no cap. 36, L19: "O que fazia
+  de manhã, com a água das cabaças, era o batismo de João, o de quem larga os
+  ídolos e volta o rosto para o Criador, e o resto do Nome esperava."
 - **Dupla camada**: declaração de fidelidade a Javé (superfície) + declaração
   de guerra aos deuses falsos de Ornick (pano de fundo; lente de Heiser — os
   deuses são reais; renunciá-los corta o vínculo de servidão).
@@ -723,7 +736,7 @@ _Atualizar a cada INGEST de capítulo._
 - **Plantio executado (cap. 47, POV Mário):** na marcha dos Clãs (numa garganta das serras do outro lado do Cran, sem nome: o "Despenhadeiro das Cruzes" saiu em 2026-11-18, porque Ornick não tem cruzes e o nome adiantava a tese), uma carroça tomba e esmaga a coxa de um rapaz jovem (peito nu coberto de cinza ritual, olhos claros). Karrk vai matá-lo a faca; a velha de rosto tatuado objeta que a morte do rapaz é de Hícse, e Karrk ignora. Mário pede que lhe desatem os braços e o cura por reflexo. O milagre não converte ninguém, Mário é amarrado mais apertado e a Voz não diz nada. O rapaz não tem nome no texto.
 - **Payoff aceito para o L1 (cap. 63, POV Mário, na Garfo):** entre os guerreiros dos Clãs reunidos junto às arcadas, Mário reconhece o rapaz da carroça, de pé sobre as duas pernas, a mão aberta sobre a coxa. Ele vê o homem que o curou ser torturado, sem se ajoelhar e sem agir. Linha de referência: "Entre os guerreiros das arcadas, Mário reconheceu o rapaz da carroça, de pé sobre as duas pernas, a mão aberta sobre a coxa. Ele não se ajoelhava nem desviava os olhos."
 - **Caps. 64 e 66:** sem alteração. O cap. 66 já diz que os sobreviventes "não se ajoelharam diante de Mário"; o destino do rapaz fica em aberto.
-- **Função:** realiza a tese do cap. 47 (o milagre não é recompensado; no fecho, reescrito em 2026-11-18, as mãos que fecharam o osso do rapaz vão atadas às costas, a corda lhes morde os pulsos e Mário pensa "Cravos": a cruz como o lugar onde pregam a mão que acabou de curar, sem frase de tese) sem pagar o milagre, e dá um rosto aos Clãs.
+- **Função:** realiza a tese do cap. 47 (o milagre não é recompensado; no fecho, reescrito em 2026-11-18, as mãos que tocaram o osso do rapaz (desde 2026-11-24; antes "fecharam", que fazia da mão a causa) vão atadas às costas e a corda lhes morde os pulsos, sem frase de tese; o pensamento "Cravos" que fechava o capítulo saiu em 2026-11-22, por decisão do autor, para Mário não soar como Jesus) sem pagar o milagre, e dá um rosto aos Clãs.
 - **Limite:** o rapaz não age a favor de Mário, não se ajoelha e não se converte, e nenhuma reação dos Clãs muda por causa dele. Sem nome por ora: só se alguém o disser em cena (a velha de rosto tatuado do cap. 47 é a candidata natural); deixar para o L2 se ele voltar a importar.
 - **Germinação (L2):** pode voltar entre os guerreiros da Hoste de Hícse. Possibilidade, sem compromisso.
 - **Pagamento proposto pelo autor (L2, 2026-11-18, comentário do cap. 47):** o rapaz, que no cap. 63 vê Mário no Garfo sem se converter, vê também as falas de Mário, a música de Gunad e a intervenção divina; volta às terras dos Clãs falando do homem que cura e do seu Deus, e arregimenta canibais para largar o canibalismo (um protótipo de igreja, sem a tutela de Mário). Mário, já rei, descobre essa igreja e a visita com Decian e Nolan; sem boa teologia, Nolan o convence de que ela não pode ficar, Mário aceita e a igreja é atacada. O ataque racha Gunad (ou Decian) de vez com a política de Mário e fecha o rompimento do Remanescente; Gunad, em Alavria, sabe de tudo por cartas de Decian. Entrada no inbox (2026-11-18): destino L2, em desenvolvimento. Não altera o limite do L1 acima.

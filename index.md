@@ -164,6 +164,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [O mandante de Juleen: o alvo era a linhagem](decisoes/mandante-juleen-alvo-linhagem.md) — Juleen comprada em duas etapas; o alvo era a linhagem Guenayer × Addorbek; revisto em 2026-11-20: o mandante é Koda (Alavria), com revelação no L2.
 - [O Claude resolve as threads de review tratadas](decisoes/2026-11-20-claude-resolve-threads-de-review.md) — Depois de aplicar o lote, o Claude resolve as threads tratadas e deixa abertas só as que dependem do autor; o relatório diz quantas seguem abertas (2026-11-20).
 - [Prólogo só com a falha do Sinal; epílogo só com Orval e Piet](decisoes/2026-11-20-prologo-so-a-falha-e-epilogo-so-orval-e-piet.md) — O prólogo fica com a falha do Sinal (a Praça e o espasmo de Kate), o epílogo só com a conversa de Orval e Piet; a caçada de Kate vai para o fim do cap. 6; o gancho do L2 é o cosmológico (2026-11-20).
+- [Evangelho em Ornick: análise do Consultor Teológico e decisões do autor](decisoes/2026-11-22-evangelho-em-ornick-rodada-do-consultor-teologico.md) — Veredito sobre a jornada do Evangelho e os discursos de Mário no L1, decisões do autor (saída A nas duas dívidas, cena de Gunad, vão do cap. 66, cortes da Paixão) e o estado de cada aplicação no texto (2026-11-22).
 - [Ideias Rejeitadas](ideias-rejeitadas/) — Anti-memória: ideias descartadas com motivo.
 
 ## Agentes (Workflow)
