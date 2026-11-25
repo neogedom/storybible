@@ -7,6 +7,7 @@
 - Ficha do cap. 50: Karrk na porta do pátio; Monólito de quartzo; semente #2 harmonizada no cap. 52; pendências atualizadas.
 - Em dúvida: braças (unidade e números; uma braça tem cerca de 2,2 m) e pulsos do cap. 50 (A4). Sem escolha: o "trovão" (B4).
 - Inbox: a reação dos Clãs na entrega, com destino.
+- Checagem de coerência (Passo 1b): a frase das palmas de Nolan (cap. 50, L63) saiu do texto, porque Mário não as vê com as mãos fechadas, e voltou ao autor como dúvida. Registro do C1 corrigido ("abertas"). Visual de Nolan no cap. 50 sem a ordem que o texto não mostra.
 
 ## 2026-11-20 (Mini-INGEST do cap. 49 conferido contra a main)
 
