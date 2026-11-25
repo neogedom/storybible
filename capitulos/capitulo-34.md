@@ -27,7 +27,7 @@ Mário chega a um assentamento de refugiados, perto do pó de quartzo. Cura uma 
 
 1. Cura da menina (mão no esterno; "o calor não queimou").
 2. Cura do velho (pálpebra e olho cego).
-3. Renúncia e declaração "sou de Javé" (primeira aparição do nome no livro, conforme o esquema).
+3. Renúncia e declaração "sou de Javé" (primeira aparição do nome no livro, conforme o esquema). Desde 2026-11-24, antes da declaração (L73), Mário liga o nome a "Eu Sou" e traz a promessa: "O nome dEle é Eu Sou, e na língua dos meus pais se diz Javé. A sua conta já foi paga."
 4. Batismo com a água da ração; Mário hesita e reduz, os convertidos insistem.
 5. Mário decide entrar na Mina: "Amanhã subimos".
 

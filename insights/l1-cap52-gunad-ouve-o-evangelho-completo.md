@@ -4,8 +4,8 @@ title: Gunad procura Mário, é o convertido da conversa e aprende o hino antes 
 description: No cap. 52, Gunad deixa de visitar a cela por curiosidade política e passa a perguntar pelo Deus de Mário. Mário, que acaba de reconhecer que nunca falou de pecado, anuncia pela primeira vez o evangelho explícito a quem pergunta, e Gunad é o convertido. Ele também aprende o hino na cela, e por isso o canta no cap. 63 como gesto de quem o recebeu na véspera.
 tags: [insight, L1, cap-52, cap-63, gunad, mario, evangelho, conversao, hino, pecado, traducao, L2]
 destino: checkpoint de bloco (caps. 52 e 63 ainda não revisados); L2 (amizade e evangelismo de Gunad)
-status: em desenvolvimento; semáforo amarelo; decididos pelo autor (Gunad convertido; hino aprendido antes de cantar; mecanismo do hino confirmado)
-timestamp: 2026-11-17T22:00:00-03:00
+status: aplicado no manuscrito em 2026-11-24 (cap. 52 e cap. 63, L33), em commit próprio; semáforo amarelo mantido para o checkpoint de bloco; decididos pelo autor (Gunad convertido; hino aprendido antes de cantar; mecanismo do hino confirmado; Cristo, Cruz e Ressurreição ditos nesta cena)
+timestamp: 2026-11-24T12:00:00-03:00
 ---
 
 # Gunad procura Mário, converte-se e aprende o hino (cap. 52)
@@ -14,7 +14,22 @@ timestamp: 2026-11-17T22:00:00-03:00
 
 No L1, Gunad é o primeiro que vai até Mário interessado em saber mais sobre o Deus dele e quem tem a oportunidade de ouvir o evangelho completo. A conversa o converte (decisão do autor: o convertido é Gunad), e ele precisa conhecer "Mais perto quero estar" antes de cantá-lo no cap. 63. No L2, essa relação vira a amizade profunda do começo do livro (ver [Status quo de abertura do L2](l2-status-quo-de-abertura-gunad-lakand-mario.md)).
 
-## O que o texto tem hoje
+## Estado (2026-11-24): aplicado no manuscrito
+
+O autor pediu a cena em 2026-11-22 ("Na cena de Gunad", na rodada do Consultor Teológico: ver [Evangelho em Ornick](../decisoes/2026-11-22-evangelho-em-ornick-rodada-do-consultor-teologico.md)). Aplicada no Livro em commit próprio (`898b530`), para reverter com facilidade. É cena nova em capítulo fechado: a regra de 2026-11-21 (skill `fechar-rodada`) pediria adiar, e o pedido expresso do autor prevaleceu. Linhas do `Livro 1/capitulo52.md` já com a nota `(* ... )` do autor no topo.
+
+- **L35 a L37.** A Voz não vem ("Ela não veio", L33); Mário canta baixinho, em português, a mesma vontade da caverna de Saramant (cap. 26), "sem saber por quê". Gunad espera o fim da canção para entrar.
+- **L57 a L69.** O motivo político de Gunad e o que ele sabe da corte ficam como estavam. Corrigidas as duas faltas de "é" na fala de L57. A resposta de Mário "a verdade não depende dos selos deles" saiu. Gunad muda a pergunta: "Mas não foi por isso que demorei na porta. Ouvi uma canção numa língua que ninguém daqui fala. Que língua é essa? E quem é esse Deus?"
+- **L71 a L87.** Mário diz a palavra que evitara: "Pecado. O meu, primeiro. Depois o de todos. A dívida é com Quem nos fez, e nenhum trabalho a paga." Lucas fica sem nome e sem rosto, só a porta fechada (decisão de 2026-11-17). Depois: "Cobrou, sim. De Outro."; o Filho ("não é filho como os deuses do Limbo têm filhos: é o próprio Deus que se fez homem"); "O nome dele é Jesus, o Cristo"; a cruz como "forca de madeira" (Ornick não tem cruzes); a cova vazia como "o credor dizendo que recebeu" (Rm 4:25); e a remissão ao livro ("Está escrito neste livro").
+- **L89 a L101.** O sinal da conversão são dois pedidos de Gunad: o livro ("Eu não leio essa língua. Alguém vai ter de pôr isso na nossa", eco do plano de tradução de Mário e Orval, cap. 41, L116) e a canção ("Me ensina"). Mário canta um verso e diz o sentido em ornickenho; Gunad repete o sentido, fixa a melodia em duas passadas e, na terceira, acompanha. Sai a fala de fecho em generalização; entra o voto: "A Festa da Poda não vai poupar a sua carne, forasteiro. Amanhã você não vai poder cantar. Eu canto."
+- **L103.** Gunad sai assobiando a melodia pela escada de pedra: o custo de se expor fica sugerido, não explicado.
+- **Cap. 63, L33.** A melodia "Gunad aprendera na véspera, na cela, da boca do próprio condenado, e ensinara durante a noite aos becos do burgo baixo".
+- **Não mudou:** a Voz segue muda; não há milagre; a conversão não é produzida pela fala de Mário (o sinal é Gunad pedir); o porquê da abdicação de Gunad segue em aberto; Kate reconhece a melodia no L1, no cap. 64 (decisão do autor em 2026-11-25: entra no cap. 64, debaixo do cadafalso, desde que a audição seja natural).
+- **Souhma como ponte (decisão de 2026-11-24, uso 1):** na resposta de Mário a Gunad (L61): "Eu cheguei, isso é verdade; julgar os deuses, não. Quem faz isso chegou antes de mim e foi julgado no meu lugar." O uso 3 (fala de Orval) é do epílogo ([beat aceito](l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md)).
+- **Resolvido em 2026-11-24 (pedido do autor: "resolver todas"):** cap. 52, L23 (Lucas sem nome e sem rosto: a porta fechada do quarto do irmão e o telefone no meio de uma aula de história; saem os chinelos, a overdose e a república); cap. 63, L35 e L37 (sai "dignidade sem preço" e a glosa "o Criador do mundo não cobrava moedas pelo amor"; o hino pede "chegar mais perto de Deus, ainda que pela dor, sem nada para pôr em troca").
+- **Aplicado em 2026-11-24 (proposta aprovada, `8976f7a`):** no fim do 52 (L103), Mário percebe que não escolheu palavra nenhuma para convencer Gunad e que a pergunta chegou à cela antes dele ("Não escolhera uma só palavra para convencê-lo; respondera ao que lhe perguntavam, e a pergunta chegara à cela antes dele"). É a Providência agindo antes dele (decisão de 2026-11-17) e marca a diferença para a pregação do Ato 2a.
+
+## O que o texto tinha em 2026-11-17 (histórico, antes da cena)
 
 - **Cap. 52 (POV de Mário, véspera do Garfo).** Mário lê o diário de Kraviam e reconhece que, em toda a jornada, nunca falou de pecado: "Evitara a palavra como quem evita um ferro em brasa." Gunad entra com uma tigela de caldo e o motivo declarado é político: "ver com os próprios olhos se o homem que vai julgar os deuses era um general de espadas ou apenas mais um iludido pela glória do Trono". Gunad olha a Bíblia sobre a bancada, mas ninguém pergunta por ela. Mário diz apenas que a verdade "não depende dos selos deles para ficar de pé". Gunad sai com "se você tiver uma canção para cantar, cante alto".
 - **Cap. 26.** Mário canta "Mais perto quero estar" uma vez, baixinho, em português, "para nenhum deles" (Kate e Lakand); não há convertidos por perto, e o hino não é cantado em nenhum outro capítulo antes do 63.
@@ -45,7 +60,7 @@ No L1, Gunad é o primeiro que vai até Mário interessado em saber mais sobre o
 **Custos e consequências**
 - **Gunad se expõe.** O filho do Mestre da Moeda cantando o hino do herege, com os Clãs e as Espadas da Lei na praça. É o preço do convertido (cantar é confissão pública) e alimenta o L2 (perseguição, ruptura com Koda).
 - **Idioma.** No cap. 63 ele canta em ornickenho; o [Esquema do L2](../temas/esquema-l2.md) diz que Gunad canta em português nos becos. Compatibiliza: aprende o original em português com Mário e canta a versão ornickenha para a praça; no L2, quando o português circula entre os eruditos, volta ao original.
-- **Kate reconhece a melodia no L2** porque a ouviu no cap. 26. A origem direta (Mário a Gunad) não atrapalha; não antecipar esse reconhecimento no L1.
+- **Kate reconhece a melodia no L1 (cap. 64)** porque a ouviu no cap. 26, em português, sem entender a letra. Em ornickenho ela entende do que se trata. No L2 ela ouve de novo, para perceber que Mário mudou. A origem direta (Mário a Gunad) não atrapalha.
 - **A canção da ferida.** O hino nasceu na noite em que Mário confessou Lucas (cap. 26) e volta a ele no Garfo, cantado por um estranho (ver [Ato 3](l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md)).
 
 ## O "primeiro" e a pregação de Tronk

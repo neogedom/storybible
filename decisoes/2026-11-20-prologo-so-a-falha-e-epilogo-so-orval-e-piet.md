@@ -36,11 +36,11 @@ Antes da mudança, o prólogo tinha a Praça (Nolan, cerca de 1.000 palavras) e 
 
 ## Em aberto
 
-9. **A cena de Kate do epílogo** (cerca de 260 palavras: "Duas semanas depois", a brasa de volta, "Guerra."). O autor a considera boa, mas pequena demais para um capítulo e, misturada ao POV de Nolan, fora do padrão dos outros capítulos (um POV por capítulo). Opções, sem decisão:
+9. **A cena de Kate do epílogo.** Decidido pelo autor em 2026-11-24: **fica no epílogo**; a ordem com Orval e Piet fica para quando o texto for aplicado. Descrição (cerca de 260 palavras: "Duas semanas depois", a brasa de volta, "Guerra."). O autor a considera boa, mas pequena demais para um capítulo e, misturada ao POV de Nolan, fora do padrão dos outros capítulos (um POV por capítulo). Opções, sem decisão:
    - **a)** levá-la ao L2 como cena de abertura (o L2 começa com capítulo(s) de resumo dos 12 anos) e guardar o texto em `cortes/` do livro. Sem texto novo; é a sugestão da sessão.
    - **b)** reescrevê-la como capítulo próprio, depois do 67, com cerca de 900 palavras. Texto novo; serve ao Risco 3 (fissura humana de Kate), mas devolve ao L1 o gancho que o autor considera fraco.
    - **c)** cortá-la.
-10. **O que falta executar:** criar o cap. 67 com Nolan, Benjamim e Nuh; escrever a cena de Orval e Piet (o insight só tem uma cena exemplo de função; texto do livro só quando o autor pedir).
+10. **O que falta executar:** criar o cap. 67 com Nolan, Benjamim e Nuh; escrever a cena de Orval e Piet (o insight só tem uma cena exemplo de função; texto do livro só quando o autor pedir). **Atualização (2026-11-24):** a cena foi rascunhada como proposta em `docs/revisoes/epilogo-orval-e-piet.md` do Livro (620 palavras, POV de Orval), sem tocar no `epilogo.md`, porque o item 8 segue em aberto (o item 9 foi decidido: a cena de Kate fica no epílogo). Ao aprovar, ela ocupa o `epilogo.md` depois do parágrafo do Monólito.
 
 ## Aplicado no livro (2026-11-20, branch da sessão)
 

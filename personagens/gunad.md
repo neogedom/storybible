@@ -3,7 +3,7 @@ type: Character
 title: Gunad Deltëra
 description: Músico de rua, primogênito dos Deltëra que abdicou. Líder do Remanescente no L2.
 tags: [personagem, remanescente, musico, L1, L2]
-timestamp: 2026-11-17T22:00:00-03:00
+timestamp: 2026-11-24T12:00:00-03:00
 ---
 
 # Gunad Deltëra
@@ -27,6 +27,8 @@ conquista poder, Gunad canta nos becos. O contraste é a tese central do L2.
   é, largou a casa e os títulos do pai antes de Mário chegar a Ornick, e passou
   a viver como músico de rua nos becos de Gerikhad. O porquê segue em aberto.
 - **L1**: Mencionado por Koda (cap. 7) — "Gunad não está."
+- **L1, cap. 52 (escrito em 2026-11-24, decisão do autor de 2026-11-22):** na véspera do Garfo visita Mário na cela, com o motivo político declarado (general ou iludido?). Esperou à porta o fim do hino e muda a pergunta: "Que língua é essa? E quem é esse Deus?". Ouve o Evangelho de Mário (o pecado dele e de todos, a dívida com Quem nos fez, Jesus, o Cristo, a cruz como forca de madeira, a cova vazia como o credor dizendo que recebeu). O sinal da conversão são dois pedidos, sem rito nem oração em fórmula: o livro (não lê português: "Alguém vai ter de pôr isso na nossa") e a canção. Aprende o hino na cela (duas passadas, e acompanha na terceira) e faz o voto: "Amanhã você não vai poder cantar. Eu canto." Sai assobiando a melodia pela escada da torre. O porquê da abdicação segue em aberto.
+- **L1, cap. 63:** canta o hino em ornickenho no Garfo. Aprendeu a melodia na véspera, na cela, da boca do condenado, e ensinou o refrão aos becos do burgo baixo durante a noite.
 - **L2**: Vive anônimo → perseguidos o procuram → Nolan descobre →
   Koda intercede → lidera rede de esconderijos → sobrevive → vê Mário
   partir peregrino
@@ -38,7 +40,8 @@ conquista poder, Gunad canta nos becos. O contraste é a tese central do L2.
 ## Semente Musical
 
 Gunad canta "Mais Perto Quero Estar" nos becos — o mesmo hino que Mário
-cantou no L1. Kate reconhece a melodia. É o momento em que percebe que a
+cantou no L1 (Gunad o aprendeu dele, na cela, na véspera do Garfo; cap. 52 e
+cap. 63). Kate reconhece a melodia no L1 (cap. 64). No L2, ao ouvir de novo, percebe que a
 fé de Mário **antes da coroa** sobrevive independente dele.
 
 ## Relações

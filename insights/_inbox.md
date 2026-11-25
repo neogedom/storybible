@@ -77,7 +77,7 @@
 1. O que muda? Uma frase no cap. 63: Mário reconhece o rapaz curado entre os Clãs. Sem retorno do favor.
 2. Em quais capítulos? Cap. 63 (POV Mário, na Garfo, junto às arcadas onde Karrk mantém os Clãs). O cap. 66 já diz que os sobreviventes "não se ajoelharam".
 3. Qual o custo? Cerca de 40 palavras. Risco: virar recompensa do milagre. Vetado: o rapaz não ajuda Mário, não se ajoelha, não se converte, e nenhuma reação dos Clãs muda por causa dele.
-4. O que paga? A cena do cap. 48 (o milagre sem recompensa, a cruz como o lugar dos cravos) e dá um rosto aos Clãs.
+4. O que paga? A cena do cap. 48 (o milagre sem recompensa; o pensamento "Cravos", que fechava o cap. 47, saiu em 2026-11-22) e dá um rosto aos Clãs.
 5. Cena exemplo (cap. 63): "Entre os guerreiros das arcadas, Mário reconheceu o rapaz da carroça, de pé sobre as duas pernas, a mão aberta sobre a coxa. Ele não se ajoelhava nem desviava os olhos."
 - Nome: sem nome por ora. Só se alguém o disser em cena; deixar para o L2 se ele voltar a importar.
 
@@ -560,6 +560,22 @@
 - **Ajuste de redação sugerido (não aplicado)**: o 49:93 diz "Diziam que o Estrangeiro falava aquela língua", mas o que corre nos caps. 13 e 19 é só "uma língua que ninguém conhece" ("língua estranha"); ligá-la à língua dos livros é inferência de Nolan, não boato. Proposta, válida para qualquer das opções: "Diziam que o Estrangeiro falava uma língua que ninguém conhecia. Se fosse aquela, saberia lê-la."
 - **Opções**: (a) manter como está (descartada). (b) Só colher (APLICADA em 2026-11-20): um parágrafo novo de Nolan no cap. 59, L23, entre o rugido do rei e o burburinho, ancorado no "meu mundo" do cap. 56, L43 e no "burocrata encurralado" do cap. 14, L63 (texto aplicado: "Nolan reteve uma palavra no meio do barulho: mundo. Na cela, de manhã, Mário falara dos juristas do seu mundo, e Nolan entendera: do seu povo. Esperara uma terra distante; o rapaz dizia outro mundo, e ninguém na sala parecia ter notado."; 42 palavras no cap. 59, nada muda no cap. 49). (c) Plantar e colher (NÃO aplicada): no cap. 49, L93, Nolan dá nome ao "lugar" (rascunho: "Diziam que o Estrangeiro falava uma língua que ninguém conhecia. Se fosse aquela, rei e forasteiro vinham do mesmo lugar, e só um reino sabia fiar o metal que nenhuma oficina de Ornick fiava: Alavria. E quem falava a língua talvez soubesse lê-la.", cerca de 28 palavras a mais no cap. 49), e o cap. 59 o desfaz com o parágrafo de (b), trocando "do seu povo" por "de Alavria" e "uma terra distante" por "um reino a semanas de navio". Ganho de (c): um erro intelectual verdadeiro de Nolan (Risco 2), meio-certo (Alavria age: o destacamento de Koda, cap. 60, L45), coerente com o cap. 14 (a origem da língua é uma pergunta geográfica), com o metal e as cargas de fogo de rocha do cap. 48 (L111 e L119) e com "agentes estrangeiros" (53:43); a pista falsa se paga sozinha no cap. 59, sem abrir semente nova. Custo de (c): palavras num cap. 49 já acima do sugerido, o L93 deixa de hesitar e passa a deduzir, e Alavria (hipótese de motivo de Koda na storybible) ganha primeiro plano contra a regra de não dar pistas do mandante; variante sem nomear: "um reino além-mar" no cap. 49 e "esperara um reino além-mar" no cap. 59.
 - **Destino**: (b) feita no cap. 59; (c) e o ajuste do 49:93 aguardam decisão do autor.
+
+### 2026-11-24: O Souhma como segunda ponte para o Evangelho, além da dívida (sugestão do Consultor Teológico)
+
+- **Data**: 2026-11-24
+- **Ideia (uma linha)**: usar a expectativa messiânica nativa (o Llyfr: o Souhma "virá para julgar os deuses e coroar os homens", prólogo, L35) como segunda ponte, ao lado da dívida. Mário não nega ser o Estrangeiro, mas separa a vinda (dele) da obra (julgar os deuses, coroar os homens), que é de Outro. Padrão bíblico: Jo 1:20-27.
+- **Capítulos afetados**: 52 (resposta de Mário a Gunad, L57 a L61), 50 (L19), 66 (depois de L61) ou epílogo (Orval e Piet).
+- **Status**: **aceita pelo autor em 2026-11-24 (usos 1 e 3).** O uso 1 foi aplicado no cap. 52, L61 ("Eu cheguei, isso é verdade; julgar os deuses, não. Quem faz isso chegou antes de mim e foi julgado no meu lugar."). O uso 3 fica como beat da cena de Orval e Piet no epílogo, ainda não escrita (`insights/l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md`). O uso 2 (cap. 50, L19) não foi escolhido.
+- **Desenvolvimento**:
+  1. O que muda? A profecia nativa passa a apontar, em uma fala ou percepção, para Outro: o Juiz que já foi julgado no lugar do condenado (Sl 82; Dn 7:9-14; Hb 2:5-10).
+  2. Em quais capítulos? Três usos. **Uso 1, cap. 52**, na resposta a Gunad depois de "o homem que vai julgar os deuses": "Eu cheguei, isso é verdade. Julgar os deuses, não. Quem faz isso chegou antes de mim e foi julgado no meu lugar." Já planta o Evangelho que a cena diz depois. **Uso 2, cap. 50, L19**, no pensamento "não era nenhuma daquelas coisas": o Llyfr prometia alguém que coroasse os homens; ele só trazia a notícia de que Outro já o fizera, coroado ele mesmo pela dor (Hb 2:9). **Uso 3, epílogo (Orval e Piet) ou cap. 66**, na fala de Orval e não de Mário: "O Llyfr diz que ele viria julgar os deuses e coroar os homens. Ele me contou que veio só para dizer que Outro já fez as duas coisas." (Dn 7:27; Hb 2:9-10).
+  3. Qual o custo? Uso 1: pesar a cena (manter em uma fala, sem aforismo). Uso 2: Risco 4, tema claro cedo (só como percepção, sem conclusão). Uso 3: Mário soar como Jesus (nota de `duas-vias-de-salvacao-ato-2.md`), por isso a fala é de Orval.
+  4. O que paga? A promessa do Llyfr e a coroação (caps. 63 e 66); no epílogo, o "Está consumado" de Orval e Piet.
+  5. Cena exemplo: as falas acima.
+- **Canon respeitado**: "Souhma" é o nome popular do Estrangeiro profetizado e Mário é esse Estrangeiro (`personagens/mario.md`); o Conselho trata a "fábula do salvador" como "fábulas estrangeiras" (cap. 14). Segundo o Consultor, o padrão de Jo 1:20-27 (não sou o Cristo; no meio de vocês está quem não conhecem) separa a vinda da obra sem negar o título.
+- **Recomendação do Consultor**: usos 1 e 3 (o 3 como fecho do L1); o uso 2 só como percepção.
+- **Destino**: checkpoint de bloco (caps. 50, 52, 66 e epílogo ainda não revisados); depende de o autor aceitar.
 
 ### 2026-11-25: Reação dos Clãs na entrega do prisioneiro (cap. 50, C1)
 
