@@ -576,3 +576,10 @@
 - **Canon respeitado**: "Souhma" é o nome popular do Estrangeiro profetizado e Mário é esse Estrangeiro (`personagens/mario.md`); o Conselho trata a "fábula do salvador" como "fábulas estrangeiras" (cap. 14). Segundo o Consultor, o padrão de Jo 1:20-27 (não sou o Cristo; no meio de vocês está quem não conhecem) separa a vinda da obra sem negar o título.
 - **Recomendação do Consultor**: usos 1 e 3 (o 3 como fecho do L1); o uso 2 só como percepção.
 - **Destino**: checkpoint de bloco (caps. 50, 52, 66 e epílogo ainda não revisados); depende de o autor aceitar.
+
+### 2026-11-25: Reação dos Clãs na entrega do prisioneiro (cap. 50, C1)
+
+- **Ideia (uma linha)**: os Clãs reagem à entrega de Mário: ninguém se opõe, ninguém acompanha os guardas do rei, e eles perdem a recompensa. Hoje o cap. 50 só mostra Karrk na porta do pátio, calado.
+- **Capítulos afetados**: 50 (L7 e L52, já com a parte mínima); 58 (se Karrk cobrar o acordo no conselho).
+- **Status**: resolvida em 2026-11-25, a pedido do autor no PR #25 (cap. 50, L53).
+- **Destino**: nenhum; resolvida na rodada de 2026-11-25. Canon do acordo: cap. 48 (a cessão do Reino; outras condições que nem Koda viu).

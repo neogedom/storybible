@@ -1,5 +1,17 @@
 # Log de Atualizações
 
+## 2026-11-25 (fechamento da rodada 50, /fechar-rodada)
+
+- Página de decisões do autor: 17 itens em aplicar (B3 e C1 em parte), 1 em dúvida (A4), 1 sem escolha (B4). Registro em `decisoes/2026-11-25-rodada-50-cap50.md`.
+- Livro: caps. 1, 50 e 52 editados (23 substituições). `docs/handoff/pendencias-adiadas.md` ganha o item 5, a reação dos Clãs na entrega, adiada pela regra de capítulo fechado.
+- Ficha do cap. 50: Karrk na porta do pátio; Monólito de quartzo; semente #2 harmonizada no cap. 52; pendências atualizadas.
+- Em dúvida: braças (unidade e números; uma braça tem cerca de 2,2 m) e pulsos do cap. 50 (A4). Sem escolha: o "trovão" (B4).
+- Inbox: a reação dos Clãs na entrega, com destino.
+- Checagem de coerência (Passo 1b): a frase das palmas de Nolan (cap. 50, L63) saiu do texto, porque Mário não as vê com as mãos fechadas, e voltou ao autor como dúvida. Registro do C1 corrigido ("abertas"). Visual de Nolan no cap. 50 sem a ordem que o texto não mostra.
+- Pedidos do autor, pela página (2026-11-25): palmas de Nolan aplicadas na versão "ao abri-las" (cap. 50, L63); braças convertidas em metros, 1 braça = 2,2 m, arredondado (caps. 46, 51, 53, 57 e 60; `lugares/metropole.md` e `capitulos/capitulo-46.md`). Pulsos (A4), decidido pelo autor no chat: manter as mãos atadas às costas no cap. 47 e aplicar a reamarração no cap. 50, L74.
+- Pedidos do autor no PR #25 (2026-11-25), depois da página: (1) reação dos Clãs resolvida agora (cap. 50, L53: Karrk pergunta pela cessão e é barrado); (2) sugestões do cap. 52 aplicadas ("Bum. Bum. Bum."; lamparina com óleo que fedia a peixe) e fala do guarda na abertura. As perguntas sobre medidas por POV (cap. 46, L49) e sobre roseiras e cerejeiras (cap. 1, L5) foram respondidas no chat e aguardam decisão.
+- Decisões do autor no chat e no PR #25 (2026-11-25): braças mantidas nos POVs de Kate e Nolan (caps. 46, 51, 53, 57 e 60), com metros só no POV de Mário; cap. 27 (POV de Kate, contagem em metros) em aberto. Cap. 1, L5: roseiras viram lavandas, para conversar com o cheiro que Mário sente na chegada à Metrópole (cap. 50, L30).
+
 ## 2026-11-25 (lote aprovado no PR: grafia do cap. 24, 'atenção divina', pecado removido, cap. 36 L19, Kate no cap. 64)
 
 - Decisões do autor (chat, 2026-11-25): item 1, grafia de Deus no cap. 24 aplicada como o autor escreveu na sugestão (maiúsculas em "Ele" para Deus; "ele assumiu" segue em minúscula, a confirmar); item 2, "esperava a atenção divina" no cap. 44, L83; item 3, a troca de "pecado" por "dívida" sai do cap. 36, L13 ("tell instead of show" e pouco verossímil); item 4, cap. 36, L19: "Ali, para aqueles homens, só conseguira fazer chegar isto"; item 5, Kate reconhece a melodia no cap. 64, debaixo do cadafalso, de forma natural; no L2 ela ouve de novo para perceber que Mário mudou. Commits do Livro: 4bd1c8d (cap. 24), a133e6c (cap. 44), d55dc67 (cap. 36), 7cbd738 (cap. 64). Notas atualizadas: Kate (insight e sementes #1, ficha de Gunad), a troca de "pecado" (ficha e fichas de Mário, vozes), a espera (cap. 44, cronologia, decisão de 2026-11-22), e o cap. 36, L19 resolvido (decisão de 2026-11-22). Em aberto: o item 8 do epílogo (Nolan, Benjamim e Nuh para o cap. 67) e a ordem da cena de Kate com a de Orval e Piet.

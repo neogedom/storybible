@@ -194,7 +194,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 - Roupas: casaco preto.
 - Ferimentos: nenhum.
-- Postura: junto ao estrado, sem olhar para o rei; manda os dois homens com o pergaminho.
+- Postura: junto ao estrado, sem olhar para o rei. O pergaminho com o seu nome chega por dois homens (L75).
 - Expressão: imóvel.
 
 
