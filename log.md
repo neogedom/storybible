@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-25 (decisões do autor: trovão mantido, cap. 27 em braças, duplicata 49 fundida)
+
+- Trovão (B4, cap. 50, L26): mantido, sem alteração no texto. Registrado em `decisoes/2026-11-25-rodada-50-cap50.md` e na página de decisões (c50-B4).
+- Cap. 27 (POV de Kate): contagem de distância em braças, meia braça por contagem (Livro, L83 e L89; commit a664eda). Registrado em `decisoes/2026-11-25-rodada-50-cap50.md`.
+- `visuais/nolan.md`: duas seções 'Capítulo 49' fundidas na seção 'A Fatura' (título de `capitulos/capitulo-49.md`). A seção 'Juleen', de 2026-11-21, saiu, e seus dados foram para a seção fundida. A seção do cap. 49 passa a ficar antes da do cap. 50.
+
 ## 2026-11-25 (fechamento da rodada 50, /fechar-rodada)
 
 - Página de decisões do autor: 17 itens em aplicar (B3 e C1 em parte), 1 em dúvida (A4), 1 sem escolha (B4). Registro em `decisoes/2026-11-25-rodada-50-cap50.md`.
