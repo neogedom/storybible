@@ -1,5 +1,9 @@
 # Log de Atualizações
 
+## 2026-11-25 (lote aprovado no PR: grafia do cap. 24, 'atenção divina', pecado removido, cap. 36 L19, Kate no cap. 64)
+
+- Decisões do autor (chat, 2026-11-25): item 1, grafia de Deus no cap. 24 aplicada como o autor escreveu na sugestão (maiúsculas em "Ele" para Deus; "ele assumiu" segue em minúscula, a confirmar); item 2, "esperava a atenção divina" no cap. 44, L83; item 3, a troca de "pecado" por "dívida" sai do cap. 36, L13 ("tell instead of show" e pouco verossímil); item 4, cap. 36, L19: "Ali, para aqueles homens, só conseguira fazer chegar isto"; item 5, Kate reconhece a melodia no cap. 64, debaixo do cadafalso, de forma natural; no L2 ela ouve de novo para perceber que Mário mudou. Commits do Livro: 4bd1c8d (cap. 24), a133e6c (cap. 44), d55dc67 (cap. 36), 7cbd738 (cap. 64). Notas atualizadas: Kate (insight e sementes #1, ficha de Gunad), a troca de "pecado" (ficha e fichas de Mário, vozes), a espera (cap. 44, cronologia, decisão de 2026-11-22), e o cap. 36, L19 resolvido (decisão de 2026-11-22). Em aberto: o item 8 do epílogo (Nolan, Benjamim e Nuh para o cap. 67) e a ordem da cena de Kate com a de Orval e Piet.
+
 ## 2026-11-24 (decisões do autor: desencaixe em um só, cena de Kate no epílogo, gesto no cap. 66)
 
 - Decisões do autor: "Valia" (desencaixe em um só, de duração: Mário diz três horas, Piet anota quatro); "Acrescente" (cap. 66, L67: o conselheiro se agarra às tábuas quando Mário tenta erguê-lo); "Fica no epílogo" (cena de Kate). Commits do Livro: f015753 (rascunho: desencaixe e tamanho, 620 e 722 palavras) e aec1d56 (cap. 66, L67). Atualizados: insight do epílogo, decisão de 2026-11-20 (itens 9 e 10), decisão de 2026-11-22 (pendências) e a âncora do cap. 66 em `conceitos/milagre.md` (L69). Em aberto: o item 8 (Nolan, Benjamim e Nuh para o cap. 67) e a ordem da cena de Kate com a de Orval e Piet.

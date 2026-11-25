@@ -25,7 +25,7 @@
 - Exemplos no texto: "Se o credor recebeu o resgate, a cobrança se torna extorsão" (cap. 36, condicional); "Nenhuma lei humana pode penhorar o que Deus declarou livre" (cap. 36, premissa).
 - Em **crise**: frases curtas, interjeições, sem fechamento elegante ("Isso é um matadouro, Kate...").
 - Ironia seca, às vezes autodepreciativa.
-- **Troca "pecado" por "dívida"** como hábito desde Tronk (cap. 36, L13). Só diz "pecado" em voz alta no cap. 52, a Gunad, de dentro da própria culpa.
+- **Não troca mais "pecado" por "dívida"** (a troca saiu do cap. 36 em 2026-11-25; o diagnóstico fica no cap. 52, L27). Só diz "pecado" em voz alta no cap. 52, a Gunad, de dentro da própria culpa.
 - **Nomeia o credor.** A dívida é com Quem nos fez, nunca com a Coroa, o Templo ou o barão (erro que ele mesmo comete nos caps. 36 e 37 e reconhece no cap. 52).
 - **Nomeia o Filho a um ornickenho só no cap. 52** ("Jesus, o Cristo", dito a Gunad). Antes, fala dele sem nome (cap. 24: "O Deus que se fez homem. O Rei que se tornou servo. O Juiz que se entregou no lugar do condenado.") e o retém por escolha de arco (cap. 36, L19: "Filho de Deus" soaria a mais um deus do Limbo).
 - Fecha argumento em **transação ou evidência** ("A conta foi quitada inteira!" é um fecho de efeito; ver contraexemplo).

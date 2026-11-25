@@ -41,7 +41,7 @@ conquista poder, Gunad canta nos becos. O contraste é a tese central do L2.
 
 Gunad canta "Mais Perto Quero Estar" nos becos — o mesmo hino que Mário
 cantou no L1 (Gunad o aprendeu dele, na cela, na véspera do Garfo; cap. 52 e
-cap. 63). Kate reconhece a melodia. É o momento em que percebe que a
+cap. 63). Kate reconhece a melodia no L1 (cap. 64). No L2, ao ouvir de novo, percebe que a
 fé de Mário **antes da coroa** sobrevive independente dele.
 
 ## Relações
