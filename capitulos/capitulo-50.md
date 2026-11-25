@@ -50,4 +50,4 @@ Mário entra pelo arco de entrada da cidade, descalço e amarrado, com a forquil
 
 - **Como fecha:** em dilema. Mário sem argumento jurídico, com o julgamento a caminho. Corte provisório em B (crise do dilema); o autor confirma.
 - **Próximo (cap. 51, Kate):** abre processando; a cena não depende de decisão de Mário.
-- **Pendência:** as pendências do cap. 50 estão em `decisoes/2026-11-25-rodada-50-cap50.md`: pulsos (dúvida A4) e reação dos Clãs na entrega (adiada, item 5 de `docs/handoff/pendencias-adiadas.md`).
+- **Pendência:** as pendências do cap. 50 estão em `decisoes/2026-11-25-rodada-50-cap50.md`: reação dos Clãs na entrega (adiada, item 5 de `docs/handoff/pendencias-adiadas.md`).
