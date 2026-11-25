@@ -8,6 +8,7 @@
 - Em dúvida: braças (unidade e números; uma braça tem cerca de 2,2 m) e pulsos do cap. 50 (A4). Sem escolha: o "trovão" (B4).
 - Inbox: a reação dos Clãs na entrega, com destino.
 - Checagem de coerência (Passo 1b): a frase das palmas de Nolan (cap. 50, L63) saiu do texto, porque Mário não as vê com as mãos fechadas, e voltou ao autor como dúvida. Registro do C1 corrigido ("abertas"). Visual de Nolan no cap. 50 sem a ordem que o texto não mostra.
+- Pedidos do autor, pela página (2026-11-25): palmas de Nolan aplicadas na versão "ao abri-las" (cap. 50, L63); braças convertidas em metros, 1 braça = 2,2 m, arredondado (caps. 46, 51, 53, 57 e 60; `lugares/metropole.md` e `capitulos/capitulo-46.md`). Pulsos (A4): o autor perguntou se trocar a amarração do cap. 47 seria ruim; não aplicado, aguarda decisão.
 
 ## 2026-11-20 (Mini-INGEST do cap. 49 conferido contra a main)
 
