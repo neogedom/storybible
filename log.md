@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-11-25 (fechamento da rodada 50, /fechar-rodada)
+
+- Página de decisões do autor: 17 itens em aplicar (B3 e C1 em parte), 1 em dúvida (A4), 1 sem escolha (B4). Registro em `decisoes/2026-11-25-rodada-50-cap50.md`.
+- Livro: caps. 1, 50 e 52 editados (23 substituições). `docs/handoff/pendencias-adiadas.md` ganha o item 5, a reação dos Clãs na entrega, adiada pela regra de capítulo fechado.
+- Ficha do cap. 50: Karrk na porta do pátio; Monólito de quartzo; semente #2 harmonizada no cap. 52; pendências atualizadas.
+- Em dúvida: braças (unidade e números; uma braça tem cerca de 2,2 m) e pulsos do cap. 50 (A4). Sem escolha: o "trovão" (B4).
+- Inbox: a reação dos Clãs na entrega, com destino.
+
 ## 2026-11-20 (Mini-INGEST do cap. 49 conferido contra a main)
 
 - Pergunta do autor: o Mini-INGEST precisa de ajuste? A main ganhou os PRs #9 e #10 (a caçada de Kate saiu do prólogo para o cap. 6); a branch os trouxe por merge, com conflitos em `index.md`, `log.md` e `temas/esquema-l1.md` resolvidos mantendo os dois lados.
