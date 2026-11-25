@@ -151,7 +151,7 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 
 - [Insights](insights/) — Ideias de brainstorming registradas automaticamente.
 - [Decisões](decisoes/) — Decisões formais tomadas ao longo do desenvolvimento.
-- [Rodada 50, cap. 50 (2026-11-25)](decisoes/2026-11-25-rodada-50-cap50.md) — Decisões do autor aplicadas nos caps. 1, 50 e 52; braças convertidas em metros; reamarração dos pulsos aplicada; reação dos Clãs resolvida.
+- [Rodada 50, cap. 50 (2026-11-25)](decisoes/2026-11-25-rodada-50-cap50.md) — Decisões do autor aplicadas nos caps. 1, 50 e 52; braças mantidas por POV (Kate e Nolan); reamarração dos pulsos aplicada; reação dos Clãs resolvida.
 - [Estratégia de Publicação do L1](decisoes/estrategia-publicacao-l1.md) — Escrever em privado → congelar canon → relançar serial + ebook → áudio por último → self-publish (2026-08-13).
 - [Regras de Áudio Minimax](decisoes/regras-audiochapter-acentuacao-ditongos.md) — Decisão sobre acentuação fonética de tritongos e extração rigorosa de narração (2026-07-27; correção 2026-08-06: só tritongos).
 - [Manto de Xilomagia de Tharin](decisoes/manto-xilomagia-tharin.md) — Chekhov's Gun recuperado no cap. 20; gatilho de ativação, carga finita, recarga por ritual de xilomago (canon 2026-08-14).
