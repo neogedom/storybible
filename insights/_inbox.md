@@ -565,5 +565,5 @@
 
 - **Ideia (uma linha)**: os Clãs reagem à entrega de Mário: ninguém se opõe, ninguém acompanha os guardas do rei, e eles perdem a recompensa. Hoje o cap. 50 só mostra Karrk na porta do pátio, calado.
 - **Capítulos afetados**: 50 (L7 e L52, já com a parte mínima); 58 (se Karrk cobrar o acordo no conselho).
-- **Status**: adiada no fechamento da rodada de 2026-11-25, por ser mudança grande (regra de capítulo fechado). Item 5 de `docs/handoff/pendencias-adiadas.md`.
-- **Destino**: decidir com o autor na revisão do cap. 50 ou no congelamento. Canon do acordo: cap. 48 (a cessão do Reino; outras condições que nem Koda viu).
+- **Status**: resolvida em 2026-11-25, a pedido do autor no PR #25 (cap. 50, L53).
+- **Destino**: nenhum; resolvida na rodada de 2026-11-25. Canon do acordo: cap. 48 (a cessão do Reino; outras condições que nem Koda viu).

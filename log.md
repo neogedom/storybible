@@ -9,6 +9,7 @@
 - Inbox: a reação dos Clãs na entrega, com destino.
 - Checagem de coerência (Passo 1b): a frase das palmas de Nolan (cap. 50, L63) saiu do texto, porque Mário não as vê com as mãos fechadas, e voltou ao autor como dúvida. Registro do C1 corrigido ("abertas"). Visual de Nolan no cap. 50 sem a ordem que o texto não mostra.
 - Pedidos do autor, pela página (2026-11-25): palmas de Nolan aplicadas na versão "ao abri-las" (cap. 50, L63); braças convertidas em metros, 1 braça = 2,2 m, arredondado (caps. 46, 51, 53, 57 e 60; `lugares/metropole.md` e `capitulos/capitulo-46.md`). Pulsos (A4), decidido pelo autor no chat: manter as mãos atadas às costas no cap. 47 e aplicar a reamarração no cap. 50, L74.
+- Pedidos do autor no PR #25 (2026-11-25), depois da página: (1) reação dos Clãs resolvida agora (cap. 50, L53: Karrk pergunta pela cessão e é barrado); (2) sugestões do cap. 52 aplicadas ("Bum. Bum. Bum."; lamparina com óleo que fedia a peixe) e fala do guarda na abertura. As perguntas sobre medidas por POV (cap. 46, L49) e sobre roseiras e cerejeiras (cap. 1, L5) foram respondidas no chat e aguardam decisão.
 
 ## 2026-11-20 (Mini-INGEST do cap. 49 conferido contra a main)
 

@@ -21,7 +21,7 @@ Mário entra pelo arco de entrada da cidade, descalço e amarrado, com a forquil
 ## Personagens
 
 - **Mário** (POV): descalço, de camisa de estopa encardida; reconhece o Monólito; é conduzido à cela de mãos amarradas à frente.
-- **Karrk** (chefe dos Clãs): espera junto à porta do pátio do palácio, com a lança de três pontas; viu Mário descer e não disse nada (2026-11-25).
+- **Karrk** (chefe dos Clãs): espera junto à porta do pátio do palácio, com a lança de três pontas; pergunta pela cessão e é barrado ao tentar seguir a escolta (2026-11-25).
 - **Genocydo (Mark Kraviam)**: rei, doente; vestes brancas e douradas; diz "Então é este" e "Os Clãs cumpriram a parte deles".
 - **Nolan**: de casaco preto, junto ao estrado, sem olhar para o rei; manda os dois homens com o pergaminho.
 - **Benjamim Cressadar**: atrás do trono, túnica púrpura, turíbulo de prata; sorri com um canto dos lábios.
@@ -50,4 +50,4 @@ Mário entra pelo arco de entrada da cidade, descalço e amarrado, com a forquil
 
 - **Como fecha:** em dilema. Mário sem argumento jurídico, com o julgamento a caminho. Corte provisório em B (crise do dilema); o autor confirma.
 - **Próximo (cap. 51, Kate):** abre processando; a cena não depende de decisão de Mário.
-- **Pendência:** as pendências do cap. 50 estão em `decisoes/2026-11-25-rodada-50-cap50.md`: reação dos Clãs na entrega (adiada, item 5 de `docs/handoff/pendencias-adiadas.md`).
+- **Pendência:** as pendências do cap. 50 estão em `decisoes/2026-11-25-rodada-50-cap50.md`: reação dos Clãs na entrega (resolvida em 2026-11-25, item 5 de `docs/handoff/pendencias-adiadas.md`).
