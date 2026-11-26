@@ -1,7 +1,7 @@
 ---
 type: Decision
 title: Marés no Cran, com o par de luas (2026-11-26)
-description: O autor escolheu marés em Ornick, causadas pelo par de luas e pelo Sol. A maré chega à Metrópole pelo baixo Cran. A amplitude na cidade segue em aberto.
+description: O autor escolheu marés em Ornick, causadas pelo par de luas e pelo Sol. A maré chega à Metrópole pelo baixo Cran. A amplitude na cidade é de cerca de 1 m (ver `decisoes/2026-11-26-dia-mare-e-frio.md`).
 tags: [decisao, mares, luas, cran, cosmologia, rodada-51]
 timestamp: 2026-11-26T12:00:00-03:00
 ---
@@ -15,7 +15,7 @@ Pergunta do autor, na rodada 51 (cap. 55, L47, "A maré tá virando. A gente vai
 1. Ornick tem marés, causadas pelo par de luas e pelo Sol.
 2. As duas luas andam juntas. A força se soma, e a maré é mais alta do que com uma lua só.
 3. No Cran, a maré chega à Metrópole pelo baixo Cran, com a costa a jusante (`lugares/mapa-do-reino.md`).
-4. Em aberto: a amplitude na cidade e a duração do dia, que define o intervalo entre as marés.
+4. Amplitude de cerca de 1 m na cidade, e dia de 24 horas (ver `decisoes/2026-11-26-dia-mare-e-frio.md`).
 
 ## Consequências no texto
 
