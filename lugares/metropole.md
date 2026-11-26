@@ -20,7 +20,7 @@ lado da cidade, e volta a se juntar adiante (desenho do autor, 2026-11-14). O
 Cran desce do norte e, na curva, passa a correr para oeste. A ponte de pedra
 do cap. 17 cruza o braço do lado de Saramant; o outro braço dá na planície
 sul. Não há vau perto da cidade (cap. 46). A muralha voltada
-para o rio chega a doze braças de altura; no flanco sudeste, canais de
+para o rio chega a vinte e seis metros de altura; no flanco sudeste, canais de
 deságue das tinturarias passam sob uma arcada. A cidade é dividida em dois
 níveis pelo **Muro Interno**: na parte alta, o Castelo de Quartzo e a Praça
 Central; na baixa, os bairros de trabalho e dívida, onde vive o povo comum.
