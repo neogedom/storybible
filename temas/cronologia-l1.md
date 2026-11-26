@@ -45,7 +45,7 @@ timestamp: 2026-11-16T12:00:00-03:00
 | 30 a 31 | 43 a 46 | Ultimato; ataque a Gus na madrugada do Dia 31; plano | 43, L130; 45, L1 |
 | 31 | 47 | Marcha dos Clãs com Mário | "secando ao sol da tarde" (47, L3) |
 | 32 | 48, 49, 50, 52, 53, 54 | Nolan chega (aurora); Juleen (tarde); Mário chega (fim da tarde); a noite | 48, L1; 49, L41; 50, L3 |
-| 33 | 51, 55 a 61 | Kate entra pelos canais (madrugada); Conselho (manhã); Garfo (da tarde à noite) | 51, L3; 55, L43; 58, L3; 61, L11 |
+| 33 | 51, 55 a 61 | Kate entra pelos canais (noite, depois de um dia no rio); Conselho (manhã); Garfo (da tarde à noite) | 51, L3; 55, L43; 58, L3; 61, L11 |
 | 34 | 62 a 66 | Aurora sob o cadafalso; ao meio-dia, resgate, invasão e coroação | 62, L3; 63, L1 |
 | 34 em diante | epílogo | Sem âncora; Nolan e Kate em momentos diferentes | epílogo, L27 e L33 |
 
