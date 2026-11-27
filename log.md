@@ -1,5 +1,11 @@
 # Log de Atualizações
 
+## 2026-11-27 (cap. 52: nota do autor e dois marcadores resolvidos em lote)
+
+- A pedido do autor, antes da revisão detalhada do cap. 52, os **três** marcadores `(* ... )` do capítulo foram tratados em lote, em três commits do Livro, reversíveis um a um: `d5479b6` (plano do topo: a Bíblia antes do diário, com nostalgia e espanto, e dois trechos do diário em primeira pessoa; "americano de pais brasileiros" no resumo de Kraviam), `b90ca24` (fórmulas de química: Mário reconhece só o tipo, hexágonos e cadeias de carbono do ensino médio) e `36355a2` (a época de Ornick: Mário nunca perguntara "quando"; o diário planta os "quase trinta anos" do cap. 54, e a soma a partir do início do século cai num ano que, para ele, ainda não chegara).
+- Registro em `decisoes/2026-11-27-cap52-comentarios-em-lote.md`. Atualizados: `temas/cronologia-l1.md` (A12), `personagens/genocydo.md`, `temas/sementes.md` (#2 e #15), `insights/{l1-cap52-gunad-ouve-o-evangelho-completo,l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas}.md`, `index.md`.
+- Em aberto para o autor: manter, ajustar (cap. 54) ou cortar a conta da época; aprovar ou reescrever os dois trechos do diário (texto novo); L21, "Havia um nome estava na folha de rosto" (edição do autor de hoje pelo GitHub, não corrigida). Cap. 52 (`wc -w`): de 1.928 palavras, sem os marcadores, a 2.316 (+388).
+
 ## 2026-11-25 (decisões do autor: trovão mantido, cap. 27 em braças, duplicata 49 fundida)
 
 - Trovão (B4, cap. 50, L26): mantido, sem alteração no texto. Registrado em `decisoes/2026-11-25-rodada-50-cap50.md` e na página de decisões (c50-B4).
