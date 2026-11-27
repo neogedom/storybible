@@ -3,7 +3,7 @@ type: Entity
 title: Inquiridores do Sinal
 description: Ordem a serviço do Templo de Vonos (Rifte) que caça o Estrangeiro. Não respondem ao Rei — apenas ao Templo.
 tags: [faccao, inquiridores, vonos, antagonista, L1, L2]
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-27T20:00:00-03:00
 ---
 
 # Inquiridores do Sinal
@@ -47,6 +47,22 @@ Não há nomes individuais conhecidos. Os Inquiridores são identificados por
 sua função e seus equipamentos. Podem ser múltiplos agentes diferentes ao
 longo da narrativa.
 
+**O Inquiridor da cicatriz do lábio** é o único com traços fixos: casaco escuro,
+imóvel como uma seta, cicatriz esbranquiçada que repuxa o canto esquerdo da
+boca, talismã de quartzo azul, revólver sem cano, e a frase "Eu não sou um
+sequestrador, sou um vetor burocrático". Vigia Mário na Terra (cap. 2), atira
+nele três vezes (cap. 3) e morre no cap. 30, morto por Gaviorn'l. **Canon de
+2026-11-27 (ideia do autor, cap. 52):** foi ele também quem buscou Kraviam, na
+Terra, no início do século XXI, com o mesmo método (vigília de dias, a frase, a
+arma sem cano), muitos anos antes de buscar Mário. O diário de Kraviam o
+descreve, e Mário, que o viu em vida, o reconhece (o autor confirmou em
+2026-11-27 que a morte dele não atrapalha o reconhecimento). **A capacidade de
+atravessar entre os mundos é só dele** (lore do autor, fechada em 2026-11-27: a
+primeira formulação era "pode ser", e o autor confirmou "Vonos não traz mais
+ninguém"): o "vetor" da frase dele é literal, a morte dele no cap. 30 encerra as
+chegadas, e Vonos não traz mais ninguém da Terra (`conceitos/vonos.md`). Não se
+diz de que espécie ele é nem se é longevo: fica em aberto.
+
 ## Função na História
 
 - Caçar o Estrangeiro (Mário) desde o Prólogo
@@ -60,6 +76,7 @@ longo da narrativa.
 | **Prólogo (cap. 0)** | Genocydo mobiliza os Inquiridores para todas as fronteiras                                                      |
 | **Cap. 3**           | Um Inquiridor (individual) aparece em Ornick. Atira 3 vezes: clavícula, esterno, caixa torácica. Mário desaba   |
 | **Cap. 4**           | Koda menciona: Genocydo financia os Inquiridores com renanthao                                                  |
+| **Cap. 52**          | O diário de Kraviam (primeiras páginas, em inglês) descreve o Inquiridor que o buscou na Terra: o mesmo da cicatriz do lábio que buscou Mário. Mário, que o viu em vida, o reconhece (L31 e L33). O Inquiridor já está morto (cap. 30); a morte dele encerra as chegadas da Terra (lore do autor, 2026-11-27) |
 | **Cap. 6**           | Kate foi treinada para ser imune às armas geométricas deles                                                     |
 | **Cap. 7**           | Para Nolan, os Inquiridores não são temor — são garantia: a ordem não se move por farsa; um charlatão morre na aferição (o risco real é Cressadar ungir um farsante). Canon corrigido em 2026-09-06                                                            |
 | **Cap. 13**          | Kenod ouve que os Inquiridores também o querem — a alcateia negocia por oferta (sem oferta melhor, entrega ao Rei)                                                          |

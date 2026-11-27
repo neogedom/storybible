@@ -43,6 +43,13 @@ por Genocydo** como política de estado.
 - **Gerdialias (decisão do autor, 2026-11-20):** os "moradores humanos" dos caps. 53 e 58 ficam como estão. Há humanos lá, vazando pelos muros, e Nolan não precisa saber: no cap. 53 ele ouve a palavra de Layla e só registra a perda dos pátios (L37). A proposta de humanos de serviço licenciados foi **descartada**.
 - **Nolan não descobre** o marido humano nem os filhos mestiços de Juleen (decisão do autor, 2026-11-20).
 
+## Como se distingue quem é quem (lore do autor, 2026-11-27)
+
+- **Não há traço físico visível.** Leviantares não têm orelhas pontudas; a única diferença perceptível é que os humanos são **mais quentes** ao toque (`conceitos/cosmologia.md`).
+- **Depois da Segregação, as roupas** passaram a distinguir os dois grupos. Antes, não: nos primeiros anos de Kraviam em Ornick (o diário do cap. 52) não havia marca nenhuma, só o toque mais frio.
+- **Para ter mais certeza, pede-se um truque elemental** ao avaliado. A métrica é falha: os gnocks não têm poder, e há leviantares que ainda não aprenderam truques.
+- Ver também a mistura por baixo, acima: nos burgos de baixo, a roupa e o teste importam pouco.
+
 ## Papel na História
 
 A Segregação é o **pano de fundo político** que Mário encontra ao chegar em

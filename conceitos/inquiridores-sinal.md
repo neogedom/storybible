@@ -52,10 +52,18 @@ de Quartzo** (Metrópole). Dentro de Ornick, a entrega é precisa.
 **Cross-mundo (Terra→Ornick), o destino é impreciso e aleatório**: você cai
 "em algum lugar da jurisdição", não no ponto exato. **Kraviam (falso
 Souhma) e Mário (Souhma real) vieram pelo MESMO mecanismo** (correção
-2026-08-10): Kraviam caiu perto da região da Metrópole por coincidência —
+2026-08-10; e pelo mesmo Inquiridor, o da cicatriz do lábio, canon de
+2026-11-27 — cap. 52, diário de Kraviam): Kraviam caiu perto da região da Metrópole por coincidência —
 favorável ao plano de Vonos; Mário caiu em Opium (borda de Saramant), e a
 frequência dele, ao ocupar o canal do Sinal, tornou a entrega ainda mais
 instável (e derrubou o Sinal — ver prólogo).
+
+**Só um Inquiridor atravessa (canon do autor, fechado em 2026-11-27; a
+primeira formulação era "pode"):** dentro de Ornick qualquer Inquiridor de
+custódia usa o revólver, mas a travessia **Terra→Ornick** é capacidade
+específica do Inquiridor da cicatriz do lábio, o "vetor burocrático" dos caps. 2 e 3. Ele morre no cap. 30;
+com a morte dele, Vonos não traz mais ninguém da Terra, e Kraviam e Mário são os
+dois únicos (`personagens/inquiridor.md`, `conceitos/vonos.md`).
 
 ### A marca e a âncora local (canon 2026-10-04 — cap. 30)
 

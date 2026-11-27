@@ -14,7 +14,7 @@ Perguntas do autor, depois da decisão de marés (`decisoes/2026-11-26-mares-no-
 
 1. **Dia: 24 horas.** O texto já conta horas terrestres ("duas horas", "meia hora") e vigílias da noite, e o dia de 24 horas mantém tudo isso. Com a lua de 32 dias, a maré alta chega a cada 12h22min, e atrasa cerca de 45 minutos por dia.
 2. **Amplitude (opção b): cerca de 1 m na cidade.** A cisterna e a escada mudam de nível, e o "a gente vai subir" do cap. 55 ganha sentido. Proposta, a confirmar pelo autor: a foz do Cran (Porto Sul, na costa sul, `lugares/porto-sul.md`) fica a **dois dias de barco rio abaixo** da Metrópole. A amplitude cai com a distância, por isso a distância entra no canon.
-3. **Estações (opção i): no L1 não há troca de estação.** O frio aumenta do outono (caps. 29 e 35) ao inverno (caps. 49 e 61), que é o frio intenso da mesma estação. O ano e a inclinação do eixo ficam em aberto, para o L2.
+3. **Estações (opção i): no L1 não há troca de estação.** O frio aumenta do outono (caps. 29 e 35) ao inverno (caps. 49 e 61), que é o frio intenso da mesma estação. O ano e a inclinação do eixo ficam em aberto, para o L2. *(Nota de 2026-11-27: o ano ficou mais curto que o da Terra, 8 a 10 meses de 32 dias, para fechar a conta de Kraviam no cap. 52; o frio do L1 precisa então durar uns 110 dias, o que se define no L2. Ver `conceitos/cosmologia.md`.)*
 
 ## Consequências no texto
 

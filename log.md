@@ -1,5 +1,63 @@
 # Log de Atualizações
 
+## 2026-11-27, madrugada (cap. 52, L19: o ano de Ornick mais curto)
+
+- O autor pediu ajuda para resolver o problema da L19 (a conta da época, alerta A12) e escolheu, entre quatro saídas, **"ano de Ornick mais curto"**. Os outros caminhos eram: datas do diário nos anos 90; mundos que não andam juntos (tempo mais rápido em Ornick ou aterrissagem em tempo aleatório); ajustar "quase trinta anos" no cap. 54.
+- **Canon:** o ano de Ornick é mais curto que o da Terra, 8 a 10 meses de 32 dias (256 a 320 dias), valor exato no L2. Quase trinta anos de Ornick são 20 a 25 da Terra, e o início do século vinte e um do diário fecha com os anos 2020 de Mário. Não há anomalia de tempo; o cap. 54 não muda.
+- **Texto (commit `c6891a8` do livro):** na L19, os anos são "contados à maneira daqui", e Mário nota que nunca perguntou quando, nem quantos meses faziam um ano; sem isso, não passa os anos de Kraviam para os da Terra. Saiu a soma que caía num ano que ele ainda não vivera.
+- **Conferir:** as estações do L1 (com ~110 dias, o L1 ocupa 34% a 43% do ano; o frio precisa durar uns 110 dias para valer "sem troca de estação"); a definir no L2.
+- Atualizados: `conceitos/cosmologia.md`, `temas/cronologia-l1.md` (A12 resolvida), `temas/sementes.md` (semente nova, #35), `decisoes/2026-11-26-dia-mare-e-frio.md` (nota cruzada), `decisoes/2026-11-27-cap52-comentarios-em-lote.md`, `personagens/genocydo.md`, `insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md`, `index.md`. Cap. 52 (`wc -w`): 2.692 palavras.
+
+## 2026-11-27, madrugada (respostas do autor à lista de pendências: cortes, correções e Vonos)
+
+- **Cap. 52, fecho:** o autor mandou cortar "pela terceira vez"; o fecho diz "A palavra do começo da noite voltou, e desta vez pesou." (commit `5d90eef` do livro).
+- **Cap. 52, L21:** "Havia um nome na folha de rosto: Mark Kraviam." (commit `0222b00`).
+- **Cap. 49, L93:** "as mesmas letras" no lugar de "as mesmas palavras" (commit `aafa5f9`), porque o diário está em inglês e a Bíblia em português.
+- **Canon fechado:** "Vonos não traz mais ninguém da Terra". A capacidade de atravessar é só do Inquiridor da cicatriz do lábio, morto no cap. 30; Kraviam e Mário são os dois únicos terráqueos trazidos. Atualizados `personagens/inquiridor.md`, `conceitos/{vonos,inquiridores-sinal}.md`, `capitulos/capitulo-30.md`, `temas/sementes.md` e `index.md` (a formulação "pode" saiu).
+- Atualizados também `decisoes/2026-11-27-cap52-comentarios-em-lote.md` (itens 4, 5 e 7 resolvidos) e os dois insights que citavam o "pela terceira vez".
+- **L19:** resolvida na entrada acima (o ano de Ornick mais curto).
+
+## 2026-11-27, madrugada (cap. 54, L33: "gentalha de pele fria")
+
+- O autor mandou corrigir a linha que eu tinha sinalizado: no cap. 54, L33, Kraviam dizia "gentalha de orelhas pontudas e ferreiros ignorantes", o que contradiz a regra de 2026-11-27 (leviantares não têm orelhas pontudas; a única diferença perceptível é que os humanos são mais quentes). Passou a "gentalha de pele fria e ferreiros ignorantes" (commit `bc619f8` do livro), que casa com o "cooler to the touch" do diário do cap. 52. Era a única linha do livro com orelhas pontudas para leviantares; as de Lakand (caps. 43 e 60) são de lobo e ficam.
+- Atualizado: `decisoes/2026-11-27-cap52-comentarios-em-lote.md` (item 6 resolvido).
+
+## 2026-11-27, madrugada (cap. 52: gradação da Providência e gatilho do hino)
+
+- Direção do autor no chat: a percepção da Providência é o **primeiro passo de uma gradação** que leva a reconhecer a **soberania absoluta de Deus** e a aprender que ele deve **abdicar do controle**; o reconhecimento da Providência também pode ser o **gatilho para ele voltar a cantar** "Mais perto quero estar".
+- Aplicado no Livro em `c1e54f5`: a palavra volta três vezes no cap. 52, com outro peso. L27: "veio inteira e não o consolou". L69: no silêncio da Voz, "A palavra do começo da noite voltou, Providência, e desta vez ele não tentou usá-la", e logo (L71) "em vez da resposta" a vontade de cantar, que segue "sem saber por quê". Fecho (L139): "voltou pela terceira vez, e desta vez pesou". A tese (a culpa de Lucas, a teologia que não decide) fica para o Garfo; a Voz segue muda.
+- Atualizados: `insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md` (nova seção com os degraus, do 52 ao cap. 66), `insights/l1-cap52-gunad-ouve-o-evangelho-completo.md` (gatilho do hino; a cena de Gunad vai da L71 à L139), `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`, `decisoes/2026-11-27-cap52-comentarios-em-lote.md`, `temas/{sementes,arco-stc}.md`, `index.md`. O caveat do risco 4 (nomear "Providência" cedo) fica resolvido pela direção do autor.
+- Para o autor: se "pela terceira vez" soar mecânico, cortar essas três palavras. Cap. 52 (`wc -w`): 2.692 palavras.
+
+## 2026-11-27, noite (cap. 52: correção dos leviantares e o Inquiridor como único vetor)
+
+- Correção do autor: **leviantares não têm orelhas pontudas**; a única diferença perceptível em relação aos humanos é que os humanos são **mais quentes**; depois da Segregação, as roupas também distinguem os dois grupos; o teste mais seguro é pedir um truque elemental, mas é falho (gnocks e leviantares que não aprenderam truques). A origem do meu erro foi a fala de Kraviam no cap. 54, L33 ("gentalha de orelhas pontudas"), única linha do livro com isso: fica para o autor (sugestão "gentalha de pele fria").
+- Aplicado no Livro: `0d5c3cb` (a entrada "Leviantar" da lista de palavras do diário, L41, vira "what the Guenayer are. They look just like us, only cooler to the touch").
+- Sobre o Inquiridor, o autor respondeu: Mário o viu em vida e por isso faz a relação (o caveat da morte dele no cap. 30 cai); a morte dele pode determinar que **Vonos não traz mais ninguém da Terra**, e a habilidade de atravessar pode ser **específica desse Inquiridor**. Registrado como lore (formulada como "pode"), sem mudança no texto do cap. 52.
+- Atualizados: `conceitos/{cosmologia,glossario,segregacao,vonos,inquiridores-sinal}.md`, `personagens/{inquiridor,genocydo}.md`, `capitulos/capitulo-30.md`, `decisoes/2026-11-27-cap52-comentarios-em-lote.md`, `index.md`.
+- Para o autor: cap. 54, L33 ("orelhas pontudas"); confirmar se "Vonos não traz mais ninguém" vale como canon fechado ou fica em aberto para o L2.
+
+## 2026-11-27, fim da tarde (cap. 52: Bíblia como cartilha, Providência e o Inquiridor no diário)
+
+- Lore e sugestões do autor no chat: (1) Kraviam usava a Bíblia em português para **aprender a língua dos pais**; (2) a Bíblia estar em português, mesmo sendo ele americano, pode ser reconhecida por Mário como **sinal de Providência**; (3) em um trecho, Mário lê sobre o **Inquiridor que buscou Kraviam**, que pela descrição é o mesmo que buscou Mário.
+- Aplicado no Livro em dois commits: `6f1dd3b` (a primeira noite diz que a Bíblia era cartilha de português, no lugar de "nunca a tirei da bolsa"; Mário reconhece a Providência na L27, e a palavra "não o consola") e `ef71fb9` (a página seguinte descreve o Inquiridor como nos caps. 2 e 3: casaco escuro, imóvel como uma seta, cicatriz no canto esquerdo da boca, cristal azul, "vetor burocrático", arma sem cano; Mário o reconhece, e o ombro que acordou inteiro lembra o estalo).
+- Canon conferido antes: o Inquiridor da cicatriz do lábio vigia Mário (cap. 2), atira nele (cap. 3), é lembrado no cap. 5 e morre no cap. 30, morto por Gaviorn'l; a storybible já dizia que Kraviam e Mário vieram pelo mesmo mecanismo. Em aberto: de que espécie é o Inquiridor e se é longevo (o texto não afirma).
+- Atualizados: `decisoes/2026-11-27-cap52-comentarios-em-lote.md` (refeita, com âncoras novas: trechos em L25, L31, L41 e L47; a cena de Gunad vai da L69 à L137), `personagens/{inquiridor,genocydo}.md`, `capitulos/capitulo-30.md`, `conceitos/inquiridores-sinal.md`, `temas/sementes.md` (#2 e #15), `insights/{l1-cap52-gunad-ouve-o-evangelho-completo,l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas}.md`, `index.md`.
+- Para o autor: nomear "Providência" no 52 antecipa uma palavra que o plano reservava ao Garfo (risco 4; a tese de Lucas e da teologia segue para o Garfo, e a frase se corta sozinha); o Inquiridor já morreu no cap. 30 e Mário não sabe; a frase "vetor burocrático" é opcional. Cap. 52 (`wc -w`): 2.659 palavras.
+
+## 2026-11-27, tarde (cap. 52: o diário em inglês e a evolução da língua)
+
+- Decisões do autor no chat, depois do lote: (1) Kraviam é americano, então o diário é em **inglês**, e Mário o lê sem tropeço (jovem de classe média alta); (2) a **evolução da língua** aparece nos trechos do diário, porque Kraviam não recebeu milagre de línguas e aprendeu o ornickenho do modo tradicional: inglês, depois poucas palavras de Ornick, depois porções maiores; (3) o diário foi junto porque era o **diário de trabalho** dele, na mão quando a fenda o levou, e ele o reaproveitou para escrever e não esquecer quem era.
+- Aplicado no Livro em dois commits: `3c7074a` (caderno de laboratório em inglês; a última anotação para no meio de uma frase; primeira noite em inglês, com a "regra um"; a soma da época passa a contar da última anotação do laboratório à última página) e `a9e6d5b` (os três estágios da língua: lista de palavras riscada e corrigida, em que aparece Genocydo e Mário percebe que o caderno é do rei; páginas em ornickenho sem um risco, com o inglês nas margens; a mão que escreve o outro nome). Os trechos são texto novo, a aprovar pelo autor.
+- Atualizados: `decisoes/2026-11-27-cap52-comentarios-em-lote.md` (refeita), `personagens/{genocydo,mario}.md` (Mário lê inglês), `temas/{sementes,cronologia-l1}.md`, `insights/l1-cap52-gunad-ouve-o-evangelho-completo.md` (a cena de Gunad vai da L63 à L131), `index.md`. A entrada da manhã, abaixo, fica como registro: os dois trechos em português dela foram superados.
+- Para o autor: cap. 49, L93 ("as mesmas palavras do mesmo livro de capa preta" deixa de valer com o diário em inglês e a Bíblia em português; sugestão "as mesmas letras", não aplicada); manter, ajustar ou cortar a conta da época (A12); aprovar os três trechos. Cap. 52 (`wc -w`): 2.501 palavras.
+
+## 2026-11-27 (cap. 52: nota do autor e dois marcadores resolvidos em lote)
+
+- A pedido do autor, antes da revisão detalhada do cap. 52, os **três** marcadores `(* ... )` do capítulo foram tratados em lote, em três commits do Livro (o último, o da época, se reverte sozinho): `d5479b6` (plano do topo: a Bíblia antes do diário, com nostalgia e espanto, e dois trechos do diário em primeira pessoa; "americano de pais brasileiros" no resumo de Kraviam), `b90ca24` (fórmulas de química: Mário reconhece só o tipo, hexágonos e cadeias de carbono do ensino médio) e `36355a2` (a época de Ornick: Mário nunca perguntara "quando"; o diário planta os "quase trinta anos" do cap. 54, e a soma a partir do início do século cai num ano que, para ele, ainda não chegara).
+- Registro em `decisoes/2026-11-27-cap52-comentarios-em-lote.md`. Atualizados: `temas/cronologia-l1.md` (A12), `personagens/genocydo.md`, `temas/sementes.md` (#2 e #15), `insights/{l1-cap52-gunad-ouve-o-evangelho-completo,l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas}.md`, `index.md`.
+- Em aberto para o autor: manter, ajustar (cap. 54) ou cortar a conta da época; aprovar ou reescrever os dois trechos do diário (texto novo); L21, "Havia um nome estava na folha de rosto" (edição do autor de hoje pelo GitHub, não corrigida). Cap. 52 (`wc -w`): de 1.928 palavras, sem os marcadores, a 2.316 (+388).
+
 ## 2026-11-25 (decisões do autor: trovão mantido, cap. 27 em braças, duplicata 49 fundida)
 
 - Trovão (B4, cap. 50, L26): mantido, sem alteração no texto. Registrado em `decisoes/2026-11-25-rodada-50-cap50.md` e na página de decisões (c50-B4).

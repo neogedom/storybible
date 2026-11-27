@@ -3,7 +3,7 @@ type: Theme
 title: Mapa de Sementes Cross-Livro
 description: Registro do que precisa ser plantado no L1 para colher no L2.
 tags: [tema, sementes, cross-livro, L1, L2]
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-28T01:00:00-03:00
 ---
 
 # Mapa de Sementes Cross-Livro
@@ -13,7 +13,7 @@ timestamp: 2026-07-24T12:00:00-03:00
 - **Plantio**: L1, cap. 27 (numeração nova; "cap. 26" na antiga) — Mário canta em português para Kate
 - **Beat novo (2026-09-09)**: em capítulo futuro do L1, **Kate pergunta o que ele cantou** — pagamento próximo da semente
 - **Executado (2026-09-11)**: o hino entrou no cap. 27 fechado — Kate ouviu, não perguntou; a pergunta segue pendente
-- **Germinação no L1 (aplicada em 2026-11-24, cap. 52 e cap. 63)**: Mário canta de novo, baixinho, na cela ("sem saber por quê"); Gunad ouve da porta, aprende o hino na cela (o sentido dito em ornickenho, a melodia em duas passadas) e o canta no Garfo (cap. 63, L33: aprendeu na véspera, da boca do condenado). Ver [a cena de Gunad](../insights/l1-cap52-gunad-ouve-o-evangelho-completo.md).
+- **Germinação no L1 (aplicada em 2026-11-24, cap. 52 e cap. 63)**: Mário canta de novo, baixinho, na cela ("sem saber por quê"; o gatilho, desde 2026-11-27, é a Providência, que volta no silêncio da Voz sem que ele tente usá-la, cap. 52, L69 e L71); Gunad ouve da porta, aprende o hino na cela (o sentido dito em ornickenho, a melodia em duas passadas) e o canta no Garfo (cap. 63, L33: aprendeu na véspera, da boca do condenado). Ver [a cena de Gunad](../insights/l1-cap52-gunad-ouve-o-evangelho-completo.md).
 - **Germinação**: L1, cap. 64 (Kate, debaixo do cadafalso, reconhece a melodia e entende a letra em ornickenho; decisão de 2026-11-25). L2 — Gunad canta nos becos, e Kate ouve de novo para perceber que Mário mudou
 - **Risco**: A cena do L1 precisa ser memorável para o leitor reconhecer no L2
 
@@ -27,6 +27,7 @@ timestamp: 2026-07-24T12:00:00-03:00
   cristão NOMINAL (tinha o livro), nunca fora eleito (semente de Nachash).
 
 - **Cap. 50 (Mini-INGEST, 2026-11-21):** o livro grosso encadernado em couro escuro e o caderno de capa gasta chegam à cela por ordem de Nolan (cap. 49). Pendência: harmonizar com a descrição da cela no cap. 52.
+- **Cap. 52 (2026-11-27):** Mário manuseia a Bíblia antes do diário, com nostalgia e espanto (português, acabamento de fábrica), e infere que alguém da Terra a trouxe, sem saber quem. O diário responde na primeira noite, em inglês: era dos pais de Kraviam, que a trouxeram do Brasil; estava na bolsa dele, e ele a lia para aprender português, a língua dos pais (lore do autor, no chat). Mário reconhece nisso um sinal de **Providência** (L27): um americano a lia só como cartilha, e por isso o único exemplar da Escritura que ele viu em Ornick está na língua dele. A palavra vem inteira e não o consola; a tese (a culpa de Lucas, a teologia que não decide) segue para o Garfo. O fecho do capítulo ("a pergunta chegara à cela antes dele") rima com este "antes dele". Ver `decisoes/2026-11-27-cap52-comentarios-em-lote.md`.
 
 ## 3. Gunad Deltëra
 
@@ -397,6 +398,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 
 > **Status (2026-11-20, cap. 49) (aceito pelo autor no chat):** o diário chega a Nolan numa cena de Layla no jardim do palacete, reescrita pelo autor no PR #20: ela o traz por conta própria ("Vim trazer o diário que tanto queria"), Nolan o recusa e depois decide usá-lo com Mário, supondo que Mário o lê (diziam que o Estrangeiro falava aquela língua). A troca por um livro de contas saiu. Nolan manda os dois livros à cela "para saber se os lê" (cap. 49; cap. 50: "dois volumes"). Detalhes em `personagens/layla.md`. Fechado em 2026-11-20: cap. 53, L17 (Layla: o rei não perguntou pelo caderno) e cap. 54, L29 (o rei olha o espaço vazio ao lado da bacia de prata). No cap. 59, L23, Nolan registra "mundo" quando Mário diz "do mesmo mundo" (L19): a aposta no diário se confirma (Mário leu) e o "meu mundo" do cap. 56, L43, vira plantio retroativo (decisão do autor, 2026-11-20).
 
+> **Cap. 52 (2026-11-27, nota do autor aplicada em lote e decisões do autor no chat):** o diário é o **caderno de laboratório** de Kraviam, em **inglês**, reaproveitado como diário no dia da travessia para não esquecer quem era. Ganha quatro trechos "como estão escritos": a primeira noite, em inglês, com a "regra um" e a Bíblia na bolsa; a página seguinte, que descreve o **Inquiridor da cicatriz do lábio** que buscou Kraviam e que Mário reconhece como o mesmo que o buscou (ideia do autor; a capacidade de atravessar é só dele, e a morte dele no cap. 30 fecha a via da Terra (canon fechado em 2026-11-27)); uma lista de palavras de Ornick riscada e corrigida, onde aparece Genocydo, o nome que lhe deram, e Mário percebe que o caderno é do rei; e, anos depois, o ornickenho em páginas inteiras, com a mão escrevendo "o outro" nome. A revelação chega em degraus: a Bíblia (alguém da Terra veio antes, e o sinal de Providência), o nome e o ofício, o mesmo homem que buscou os dois, a língua, o nome do rei, os atos, e no fecho do caderno o espelho com Mário. O diário planta os "quase trinta anos" do cap. 54 (anos de Ornick), e Mário nota que nunca perguntou quanto dura um ano aqui (alerta A12 da cronologia resolvido em 2026-11-27: o ano de Ornick é mais curto; ver a semente #35). Trechos e parágrafo são texto novo, a aprovar pelo autor: `decisoes/2026-11-27-cap52-comentarios-em-lote.md`.
+
 - **Plantio**: L1, caps. 10 e 14 — Layla rouba o diário de Genocydo; Nolan o
   queria para subverter o Conselho (obtém tardiamente).
 - **Germinação (a definir; sugerido na aliança Nolan-Mário, cap. 32+)**: Nolan
@@ -742,3 +745,11 @@ _Atualizar a cada INGEST de capítulo._
 - **Germinação (L2):** pode voltar entre os guerreiros da Hoste de Hícse. Possibilidade, sem compromisso.
 - **Pagamento proposto pelo autor (L2, 2026-11-18, comentário do cap. 47):** o rapaz, que no cap. 63 vê Mário no Garfo sem se converter, vê também as falas de Mário, a música de Gunad e a intervenção divina; volta às terras dos Clãs falando do homem que cura e do seu Deus, e arregimenta canibais para largar o canibalismo (um protótipo de igreja, sem a tutela de Mário). Mário, já rei, descobre essa igreja e a visita com Decian e Nolan; sem boa teologia, Nolan o convence de que ela não pode ficar, Mário aceita e a igreja é atacada. O ataque racha Gunad (ou Decian) de vez com a política de Mário e fecha o rompimento do Remanescente; Gunad, em Alavria, sabe de tudo por cartas de Decian. Entrada no inbox (2026-11-18): destino L2, em desenvolvimento. Não altera o limite do L1 acima.
 
+
+## 35. O Ano de Ornick (canon 2026-11-27)
+
+- **Plantio executado (cap. 52, L19):** Mário folheia o diário de Kraviam e vê quase trinta anos "contados à maneira daqui". Nunca perguntara quando, nem quantos meses faziam um ano; sem isso, não passa os anos de Kraviam para os da Terra.
+- **Canon:** o ano de Ornick é mais curto que o da Terra (8 a 10 meses de 32 dias, 256 a 320 dias; decisão do autor, ao resolver a conta do alerta A12). Com isso, quase trinta anos de Ornick são 20 a 25 da Terra, e o início do século vinte e um do diário fecha com os anos 2020 de Mário, sem anomalia de tempo.
+- **Germinação possível (L2):** alguém (Orval, com as luas, ou o calendário da Metrópole) diz quantos meses faz o ano, e Mário refaz a conta: a incógnita se fecha. Sem compromisso.
+- **Cuidado:** conferir as estações do L1 (o frio precisa durar uns 110 dias para valer "sem troca de estação", `decisoes/2026-11-26-dia-mare-e-frio.md`) e a idade dos personagens em "anos" (são anos de Ornick).
+- Ver `decisoes/2026-11-27-cap52-comentarios-em-lote.md` e `temas/cronologia-l1.md` (A12).

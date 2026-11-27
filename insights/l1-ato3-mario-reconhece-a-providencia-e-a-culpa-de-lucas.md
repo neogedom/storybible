@@ -5,7 +5,7 @@ description: Na noite do Garfo, Mário reconhece que a culpa pela morte de Lucas
 tags: [insight, L1, ato-3, mario, lucas, providencia, gunad, kraviam, hino, garfo, milagre, idioma, cap-52, cap-61, cap-63]
 destino: checkpoint de bloco (caps. 52 e 61 a 63 ainda não revisados); L2 (a lição que Mário esquece)
 status: em desenvolvimento; semáforo amarelo; decididos pelo autor (Lucas sem rosto; Gunad convertido); em aberto onde cai o reconhecimento
-timestamp: 2026-11-18T08:10:00-03:00
+timestamp: 2026-11-27T23:30:00-03:00
 ---
 
 # Ato 3: Mário reconhece a Providência e a culpa de Lucas
@@ -68,6 +68,19 @@ A ideia é a dobradiça. A mesma constatação ("nunca tive controle", "nunca fu
 - **Cap. 63:** o hino chega pela boca de Gunad, que o aprendeu na véspera, na cela, da boca do próprio Mário: o que ele deu volta a ele. Depois a Voz ("Eu Sou, Mário. Não temas..."), que dá presença, não resposta (Jó 38 a 42).
 - **Cap. 66:** a oração sem entender (2 Cr 20:12) paga o "precisava entender antes de agir".
 
+## A gradação da Providência (direção do autor, 2026-11-27)
+
+A percepção da Providência no cap. 52 é o **primeiro degrau** de uma gradação que leva Mário a reconhecer a **soberania absoluta de Deus** e a aprender que deve **abdicar do controle** (o Break Into 3 do Garfo). O reconhecimento é também o **gatilho** para ele voltar a cantar "Mais perto quero estar". A mesma palavra, "Providência", marca os degraus do cap. 52, cada vez com outro peso:
+
+1. **Cap. 52, L27: rótulo.** A Bíblia em português na bolsa de um americano que a lia como cartilha. A palavra "veio inteira e não o consolou": Mário a pensa como doutrina e lhe pede consolo.
+2. **Cap. 52, L33: a mesma mão.** O Inquiridor buscou os dois; um chegou quebrado, o outro inteiro (a Voz o conduziu, cap. 26, L167). O ombro lembra antes dele.
+3. **Cap. 52, L69 e L71: a palavra deixa de ser usada, e o canto vem.** No silêncio da Voz a palavra volta, "e desta vez ele não tentou usá-la" (o primeiro gesto contra a teologia como ferramenta, "manejar melhor minhas ferramentas", cap. 26). Logo depois, "em vez da resposta", a vontade de cantar. O canto segue "sem saber por quê", como decidido em 2026-11-17: o gatilho é visível ao leitor, e Mário não o liga.
+4. **Cap. 52, fecho (L139): peso.** Depois de "a pergunta chegara à cela antes dele" (a Providência na escala de uma pessoa, a de Gunad), a palavra "voltou, e desta vez pesou" (o autor cortou o "pela terceira vez", em 2026-11-27, por soar mecânico). É o "antes dele" que rima com o da L27.
+5. **Garfo (caps. 61 a 63): reconhecer a soberania.** A dor tira a fortaleza; o acúmulo (Kraviam, o hino, "nunca fui necessário") fecha na falta de controle como descanso; o hino volta pela boca de Gunad; a Voz dá presença, não resposta.
+6. **Cap. 66: abdicar.** A oração sem entender paga o "precisava entender antes de agir".
+
+O cap. 52 **não** entrega a tese (a culpa de Lucas não era dele; a teologia não decide): só os degraus 1 a 4, sem fórmula, e a Voz segue muda. O risco 4 fica protegido porque a palavra muda de peso, e a conclusão não aparece.
+
 ## O que ele reconhece: formulação e limites
 
 - **Culpa falsa, não pecado.** A culpa por Lucas vem de imaginar-se o decisor. O pecado real (a hesitação com o rapaz) fica, e é perdoado.
@@ -126,7 +139,7 @@ Recomendo quatro, no máximo; mais vira ladainha. Com os exemplos do autor (2026
 
 1. **Onde cai o reconhecimento (o autor ainda não decidiu).** **No cap. 61 existente, ampliado**, ou numa cena nova entre o 61 e o 63.
 2. **Por que Gunad largou a casa e os títulos do pai** (a "abdicação" do cap. 52; o quando está decidido: antes da chegada de Mário). **O motivo que ele dá é a casa do pai (o acordo com Alavria, o irmão Joachin dado como refém), mas no fundo não sabe dizer por quê.** Liga com a busca por Joachin no L2 e dá a Gunad uma ferida de irmão parecida com a de Mário.
-3. **Kraviam (já fixado no texto, não é decisão aberta).** Chegou há quase trinta anos (cap. 54, linhas 27 e 31; [cronologia](../temas/cronologia-l1.md), A12), e o diário do cap. 52 data o início do século XXI. Opcional: Mário notar a dessincronia entre os mundos, já que o diário e os trinta anos não casam por completo (a cronologia deixa o número para o autor ajustar).
+3. **Kraviam (já fixado no texto, não é decisão aberta).** Chegou há quase trinta anos (cap. 54, linhas 27 e 31; [cronologia](../temas/cronologia-l1.md), A12), e o diário do cap. 52 data o início do século XXI. Opcional: Mário notar a dessincronia entre os mundos, já que o diário e os trinta anos não casam por completo (a cronologia deixa o número para o autor ajustar). **Aplicado e resolvido em 2026-11-27** (cap. 52, L19, commits `36355a2` e `c6891a8`), a partir da pergunta do autor sobre a época de Ornick: Mário nunca perguntara "quando", nem quantos meses faziam um ano em Ornick, e a conta vira uma incógnita; o ano de Ornick é mais curto que o da Terra (decisão do autor), o que fecha os números sem dessincronia entre os mundos (`decisoes/2026-11-27-cap52-comentarios-em-lote.md`). Do mesmo lote, a imagem 1 de "As coisas que ele não supunha serem obra de Deus" (a Bíblia de Kraviam) já está no capítulo: a Bíblia vem antes do diário, e Mário infere que alguém veio antes dele. **Decisão do autor de 2026-11-27 (lore e sugestão no chat):** Kraviam lia a Bíblia em português para aprender a língua dos pais, e Mário **reconhece nisso um sinal de Providência no próprio cap. 52** (L27): um americano com uma Bíblia em português, só porque a usava de cartilha, e por isso o único exemplar da Escritura em Ornick está na língua dele. É o primeiro "antes dele" do capítulo; o segundo é o fecho ("a pergunta chegara à cela antes dele"). O que fica para o Garfo é a tese (a culpa de Lucas não era dele, a teologia não decide), e o texto a protege (risco 4): a palavra "Providência" vem inteira e não o consola, e a Voz segue muda. O desfecho do livro (semeado por um vaso indigno) pesa mais depois do diário. No mesmo lote, Mário reconhece o Inquiridor da cicatriz no diário (L31 e L33): o mesmo homem que o buscou buscara Kraviam antes; o ombro dele, que acordou inteiro, lembra o estalo.
 4. **Quais imagens entram e onde (o autor decide).** **Cap. 52: o livro, a canção e a metáfora que pega sem explicação (1 a 3). Garfo: os milagres que nunca foram dele, em uma linha (4). As prensas e os hegralianos ficam para o L2.**
 
 ## Conexões

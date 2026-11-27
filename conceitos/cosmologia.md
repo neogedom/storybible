@@ -3,7 +3,7 @@ type: Concept
 title: Cosmologia de Ornick
 description: Os três planos da existência (Limbo, Miakhed, Rohdis) e a hierarquia divina que governa Ornick.
 tags: [conceito, cosmologia, planos, elohins]
-timestamp: 2026-11-16T12:00:00-03:00
+timestamp: 2026-11-28T01:00:00-03:00
 ---
 
 # Cosmologia de Ornick
@@ -66,6 +66,15 @@ desenhada para dar ordem a Ornick: longevos, racionais, com **poderes de
 linha elemental** embutidos no projeto (daí as linhagens elementais, ex:
 Addorbek = fogo). O **gnock** é a atrofia dessa herança: leviantar nascido
 sem o poder.
+
+**Como distinguir um leviantar de um humano (lore do autor, 2026-11-27):**
+leviantares **não têm orelhas pontudas**, e a única diferença perceptível em
+relação aos humanos é que os humanos são **mais quentes** ao toque. Depois que a
+Segregação foi instituída, as **roupas** passaram a distinguir os dois grupos
+também (antes disso, e nos primeiros anos de Kraviam em Ornick, não havia essa
+marca). A prova mais segura é pedir ao avaliado um **truque elemental**, mas é
+uma métrica **falha**: os **gnocks** (leviantares sem poder) falham no teste, e
+há leviantares que ainda **não aprenderam** truques.
 **Poder elemental (canon 2026-08-12):** todo leviantar consegue alguma
 manifestação do seu elemento, mas ser realmente bom exige **treino árduo ou
 capacidade genética privilegiada** — modelo análogo ao humano (predisposição
@@ -119,6 +128,6 @@ Vonos trouxe **dois tipos de humanos**:
 
 - **Distância da Terra**: 2000 anos-luz é proposta, ainda não registrada como canon.
 - **Inclinação do eixo**: em aberto, para o L2. No L1 não há troca de estação (decisão de 2026-11-26, abaixo).
-- **Duração do dia e do ano** (decidido em 2026-11-26): o dia tem 24 horas. No L1 não há troca de estação: o frio aumenta do outono (caps. 29 e 35) ao inverno (caps. 49 e 61), que é o frio intenso da mesma estação. O ano fica em aberto, para o L2. Ver `decisoes/2026-11-26-dia-mare-e-frio.md`.
+- **Duração do dia e do ano** (decidido em 2026-11-26): o dia tem 24 horas. No L1 não há troca de estação: o frio aumenta do outono (caps. 29 e 35) ao inverno (caps. 49 e 61), que é o frio intenso da mesma estação. O ano fica para o L2, mas já se sabe que é **mais curto que o da Terra** (decisão do autor, 2026-11-27, ao resolver a L19 do cap. 52): 8 a 10 meses de 32 dias, ou seja, 256 a 320 dias. É o que faz os "quase trinta anos" de Kraviam em Ornick (20 a 25 anos da Terra) caberem entre o início do século e os anos 2020 de Mário, sem anomalia de tempo. **Conferir as estações do L1:** com cerca de 110 dias, o L1 ocupa de 34% a 43% do ano; para manter "sem troca de estação", o frio precisa durar ao menos uns 110 dias (poucas estações longas, por exemplo); a definir no L2. Ver `decisoes/2026-11-26-dia-mare-e-frio.md`.
 - **Duas luas (decidido em 2026-11-16):** Tristan e Nevëilla formam um par ligado, "gêmeas" (prólogo, cap. 6), "sobrepostas" (cap. 5) e "quase se tocando" (cap. 7). Andam na mesma fase, porque a fase é o ângulo entre a lua e o Sol e duas luas coladas no céu têm o mesmo. O mês, de cheia a cheia, tem **32 dias**: cheias nos Dias 1, 33, 65 e 97 do L1; escuras nos Dias 17 (prazo de Kenod, cap. 13), 49, 81 e 113 (Dia 1 = noite do prólogo). No texto, o número aparece na fala de Orval (cap. 41, L81: "trinta e dois dias"), e Mário o compara em silêncio com os 29 dias e meio da Terra. Ver `temas/cronologia-l1.md`, decisão 2.
 - **Órbita do par e marés** (decidido em 2026-11-26): Ornick tem marés, causadas pelo par de luas e pelo Sol. As duas luas andam juntas, então a força se soma, e a maré é mais alta do que seria com uma lua só. O ciclo de maré alta e baixa segue a fase da lua, como na Terra. No Cran, a maré chega à Metrópole pelo baixo Cran, com a costa a jusante (`lugares/mapa-do-reino.md`). Amplitude: cerca de 1 m na cidade, com a foz do Cran (Porto Sul) a dois dias de barco rio abaixo da Metrópole (proposta, a confirmar). Dia de 24 horas: a maré alta chega a cada 12h22min, e atrasa cerca de 45 minutos por dia. Um par ligado permite eclipses de uma lua sobre a outra (o cap. 41 cita "cada eclipse" no ensino do Templo).
