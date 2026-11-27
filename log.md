@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-11-27, fim da tarde (cap. 52: Bíblia como cartilha, Providência e o Inquiridor no diário)
+
+- Lore e sugestões do autor no chat: (1) Kraviam usava a Bíblia em português para **aprender a língua dos pais**; (2) a Bíblia estar em português, mesmo sendo ele americano, pode ser reconhecida por Mário como **sinal de Providência**; (3) em um trecho, Mário lê sobre o **Inquiridor que buscou Kraviam**, que pela descrição é o mesmo que buscou Mário.
+- Aplicado no Livro em dois commits: `6f1dd3b` (a primeira noite diz que a Bíblia era cartilha de português, no lugar de "nunca a tirei da bolsa"; Mário reconhece a Providência na L27, e a palavra "não o consola") e `ef71fb9` (a página seguinte descreve o Inquiridor como nos caps. 2 e 3: casaco escuro, imóvel como uma seta, cicatriz no canto esquerdo da boca, cristal azul, "vetor burocrático", arma sem cano; Mário o reconhece, e o ombro que acordou inteiro lembra o estalo).
+- Canon conferido antes: o Inquiridor da cicatriz do lábio vigia Mário (cap. 2), atira nele (cap. 3), é lembrado no cap. 5 e morre no cap. 30, morto por Gaviorn'l; a storybible já dizia que Kraviam e Mário vieram pelo mesmo mecanismo. Em aberto: de que espécie é o Inquiridor e se é longevo (o texto não afirma).
+- Atualizados: `decisoes/2026-11-27-cap52-comentarios-em-lote.md` (refeita, com âncoras novas: trechos em L25, L31, L41 e L47; a cena de Gunad vai da L69 à L137), `personagens/{inquiridor,genocydo}.md`, `capitulos/capitulo-30.md`, `conceitos/inquiridores-sinal.md`, `temas/sementes.md` (#2 e #15), `insights/{l1-cap52-gunad-ouve-o-evangelho-completo,l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas}.md`, `index.md`.
+- Para o autor: nomear "Providência" no 52 antecipa uma palavra que o plano reservava ao Garfo (risco 4; a tese de Lucas e da teologia segue para o Garfo, e a frase se corta sozinha); o Inquiridor já morreu no cap. 30 e Mário não sabe; a frase "vetor burocrático" é opcional. Cap. 52 (`wc -w`): 2.659 palavras.
+
 ## 2026-11-27, tarde (cap. 52: o diário em inglês e a evolução da língua)
 
 - Decisões do autor no chat, depois do lote: (1) Kraviam é americano, então o diário é em **inglês**, e Mário o lê sem tropeço (jovem de classe média alta); (2) a **evolução da língua** aparece nos trechos do diário, porque Kraviam não recebeu milagre de línguas e aprendeu o ornickenho do modo tradicional: inglês, depois poucas palavras de Ornick, depois porções maiores; (3) o diário foi junto porque era o **diário de trabalho** dele, na mão quando a fenda o levou, e ele o reaproveitou para escrever e não esquecer quem era.
