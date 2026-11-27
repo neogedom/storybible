@@ -1,7 +1,7 @@
 ---
 type: Decision
 title: Cap. 52, nota do autor e dois marcadores em lote; diário em inglês, Providência e o Inquiridor (2026-11-27)
-description: O que o lote dos três marcadores (* ... ) do cap. 52 resolveu (a Bíblia antes do diário, fórmulas de química pelo tipo, Mário e a época de Ornick) e o que o autor decidiu em seguida no chat (o diário de Kraviam é um caderno de laboratório em inglês que evolui para o ornickenho; a Bíblia em português era cartilha de português e Mário a reconhece como sinal de Providência; o Inquiridor da cicatriz buscou Kraviam antes de buscar Mário e pode ser o único capaz de atravessar; leviantares não têm orelhas pontudas e só se distinguem pelo toque), com as âncoras de linha, o canon novo e o que fica para o autor decidir.
+description: O que o lote dos três marcadores (* ... ) do cap. 52 resolveu (a Bíblia antes do diário, fórmulas de química pelo tipo, Mário e a época de Ornick) e o que o autor decidiu em seguida no chat (o diário de Kraviam é um caderno de laboratório em inglês que evolui para o ornickenho; a Bíblia em português era cartilha de português e Mário a reconhece como sinal de Providência; o Inquiridor da cicatriz buscou Kraviam antes de buscar Mário e é o único capaz de atravessar; leviantares não têm orelhas pontudas e só se distinguem pelo toque), com as âncoras de linha, o canon novo e o que fica para o autor decidir.
 tags: [decisao, cap-52, lote, biblia, diario, kraviam, ingles, ornickenho, providencia, gradacao, hino, inquiridor, leviantares, cronologia, a12]
 timestamp: 2026-11-27T23:30:00-03:00
 ---
