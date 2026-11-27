@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-11-27, madrugada (cap. 52, L19: o ano de Ornick mais curto)
+
+- O autor pediu ajuda para resolver o problema da L19 (a conta da época, alerta A12) e escolheu, entre quatro saídas, **"ano de Ornick mais curto"**. Os outros caminhos eram: datas do diário nos anos 90; mundos que não andam juntos (tempo mais rápido em Ornick ou aterrissagem em tempo aleatório); ajustar "quase trinta anos" no cap. 54.
+- **Canon:** o ano de Ornick é mais curto que o da Terra, 8 a 10 meses de 32 dias (256 a 320 dias), valor exato no L2. Quase trinta anos de Ornick são 20 a 25 da Terra, e o início do século vinte e um do diário fecha com os anos 2020 de Mário. Não há anomalia de tempo; o cap. 54 não muda.
+- **Texto (commit `c6891a8` do livro):** na L19, os anos são "contados à maneira daqui", e Mário nota que nunca perguntou quando, nem quantos meses faziam um ano; sem isso, não passa os anos de Kraviam para os da Terra. Saiu a soma que caía num ano que ele ainda não vivera.
+- **Conferir:** as estações do L1 (com ~110 dias, o L1 ocupa 34% a 43% do ano; o frio precisa durar uns 110 dias para valer "sem troca de estação"); a definir no L2.
+- Atualizados: `conceitos/cosmologia.md`, `temas/cronologia-l1.md` (A12 resolvida), `temas/sementes.md` (semente nova, #35), `decisoes/2026-11-26-dia-mare-e-frio.md` (nota cruzada), `decisoes/2026-11-27-cap52-comentarios-em-lote.md`, `personagens/genocydo.md`, `insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md`, `index.md`. Cap. 52 (`wc -w`): 2.692 palavras.
+
 ## 2026-11-27, madrugada (respostas do autor à lista de pendências: cortes, correções e Vonos)
 
 - **Cap. 52, fecho:** o autor mandou cortar "pela terceira vez"; o fecho diz "A palavra do começo da noite voltou, e desta vez pesou." (commit `5d90eef` do livro).
@@ -7,7 +15,7 @@
 - **Cap. 49, L93:** "as mesmas letras" no lugar de "as mesmas palavras" (commit `aafa5f9`), porque o diário está em inglês e a Bíblia em português.
 - **Canon fechado:** "Vonos não traz mais ninguém da Terra". A capacidade de atravessar é só do Inquiridor da cicatriz do lábio, morto no cap. 30; Kraviam e Mário são os dois únicos terráqueos trazidos. Atualizados `personagens/inquiridor.md`, `conceitos/{vonos,inquiridores-sinal}.md`, `capitulos/capitulo-30.md`, `temas/sementes.md` e `index.md` (a formulação "pode" saiu).
 - Atualizados também `decisoes/2026-11-27-cap52-comentarios-em-lote.md` (itens 4, 5 e 7 resolvidos) e os dois insights que citavam o "pela terceira vez".
-- **Em aberto:** o problema da L19 (a conta da época, alerta A12). O autor pediu ajuda para resolver; opções e recomendação no chat.
+- **L19:** resolvida na entrada acima (o ano de Ornick mais curto).
 
 ## 2026-11-27, madrugada (cap. 54, L33: "gentalha de pele fria")
 
