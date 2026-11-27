@@ -5,7 +5,7 @@ description: No cap. 52, Gunad deixa de visitar a cela por curiosidade política
 tags: [insight, L1, cap-52, cap-63, gunad, mario, evangelho, conversao, hino, pecado, traducao, L2]
 destino: checkpoint de bloco (caps. 52 e 63 ainda não revisados); L2 (amizade e evangelismo de Gunad)
 status: aplicado no manuscrito em 2026-11-24 (cap. 52 e cap. 63, L33), em commit próprio; semáforo amarelo mantido para o checkpoint de bloco; decididos pelo autor (Gunad convertido; hino aprendido antes de cantar; mecanismo do hino confirmado; Cristo, Cruz e Ressurreição ditos nesta cena)
-timestamp: 2026-11-24T12:00:00-03:00
+timestamp: 2026-11-27T12:00:00-03:00
 ---
 
 # Gunad procura Mário, converte-se e aprende o hino (cap. 52)
@@ -28,6 +28,7 @@ O autor pediu a cena em 2026-11-22 ("Na cena de Gunad", na rodada do Consultor T
 - **Souhma como ponte (decisão de 2026-11-24, uso 1):** na resposta de Mário a Gunad (L61): "Eu cheguei, isso é verdade; julgar os deuses, não. Quem faz isso chegou antes de mim e foi julgado no meu lugar." O uso 3 (fala de Orval) é do epílogo ([beat aceito](l1-epilogo-orval-e-piet-sinal-e-esta-consumado.md)).
 - **Resolvido em 2026-11-24 (pedido do autor: "resolver todas"):** cap. 52, L23 (Lucas sem nome e sem rosto: a porta fechada do quarto do irmão e o telefone no meio de uma aula de história; saem os chinelos, a overdose e a república); cap. 63, L35 e L37 (sai "dignidade sem preço" e a glosa "o Criador do mundo não cobrava moedas pelo amor"; o hino pede "chegar mais perto de Deus, ainda que pela dor, sem nada para pôr em troca").
 - **Aplicado em 2026-11-24 (proposta aprovada, `8976f7a`):** no fim do 52 (L103), Mário percebe que não escolheu palavra nenhuma para convencer Gunad e que a pergunta chegou à cela antes dele ("Não escolhera uma só palavra para convencê-lo; respondera ao que lhe perguntavam, e a pergunta chegara à cela antes dele"). É a Providência agindo antes dele (decisão de 2026-11-17) e marca a diferença para a pregação do Ato 2a.
+- **Nota do autor no topo resolvida em lote (2026-11-27, commits `d5479b6`, `b90ca24` e `36355a2` do livro):** o capítulo agora abre com a Bíblia antes do diário (L9 a L15), com dois trechos do diário em primeira pessoa (L25 e L33) e Mário notando a época de Ornick (L19). A cena de Gunad não mudou, mas as linhas citadas acima são de antes deste lote: ela vai da L55 ("Em vez da resposta veio a vontade de cantar") à L123 (o voto). Registro em [Cap. 52, nota do autor e dois marcadores em lote](../decisoes/2026-11-27-cap52-comentarios-em-lote.md).
 
 ## O que o texto tinha em 2026-11-17 (histórico, antes da cena)
 

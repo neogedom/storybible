@@ -4,7 +4,7 @@ title: Cronologia do Livro 1 (estimada pelas âncoras)
 description: Dia a dia do L1, do prólogo ao epílogo, encadeado a partir das âncoras de tempo do texto e das fichas; registra as durações declaradas que não fecham, os alertas de consistência temporal e dois cenários de tempo (A e B) que levam a história a cerca de três meses; o B foi aplicado ao texto em 2026-11-16.
 tags: [tema, timeline, cronologia, L1, consistencia]
 resource: https://github.com/neogedom/storybible/blob/main/temas/cronologia-l1.md
-timestamp: 2026-11-16T12:00:00-03:00
+timestamp: 2026-11-27T12:00:00-03:00
 ---
 
 # Cronologia do Livro 1 (estimada pelas âncoras)
@@ -75,7 +75,7 @@ As demais marcas de "semanas" cabem em quatro a cinco semanas: castelo ardeu "se
 - **A9 (baixa).** Ultimato "ao amanhecer" (43) e ataque na mesma noite (44, 45). **Já corrigido na main em 2026-11-13:** o ultimato diz "antes da meia-noite" (43, L130). A solução própria deste PR ("antes que a horda chegue ao portão") foi descartada no merge. Resta a "madrugada" da L70 do mesmo capítulo, que é depois da meia-noite; trocá-la por "noite" é opcional.
 - **A10 (baixa).** O epílogo mistura dois momentos sem marca de tempo; Kate sai do 64 com a clavícula quebrada.
 - **A11 (baixa).** Floresta "despida do outono" (prólogo, 6) no Dia 1 e "verde e sufocante" (13) no Dia 2.
-- **A12 (baixa).** Kraviam: "quarenta anos de ausência" (54, L27), "quase trinta anos" (54, L31) e diário do "início do século vinte e um" (52, L5).
+- **A12 (baixa).** Kraviam: "quarenta anos de ausência" (54, L27), "quase trinta anos" (54, L31) e diário do "início do século vinte e um" (52, L5). **Tratada em 2026-11-27 (cap. 52, L19, commit `36355a2` do livro):** o diário planta os "quase trinta anos" e Mário nota que a soma a partir do início do século dá um ano que, para ele, ainda não chegara; sem hipótese, a conta fica aberta. Se o autor mudar o número do cap. 54 (L27 e L33), ajustar o parágrafo ou cortá-lo (`decisoes/2026-11-27-cap52-comentarios-em-lote.md`).
 - **A13 (baixa).** Farinha para "três semanas" (48) e "duas semanas" (58) em um dia; podem ser estoques diferentes.
 - **A14 (aviso).** `temas/timeline.md`: as linhas 24 a 29 estão deslocadas por causa do cap. 24 cortado.
 

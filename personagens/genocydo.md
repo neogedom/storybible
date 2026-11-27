@@ -4,7 +4,7 @@ title: Genocydo
 description: Rei de Ornick, humano que finge ser leviantar, antagonista central megalomaníaco.
 tags: [antagonista, rei, humano, L1]
 resource: https://github.com/neogedom/storybible/blob/main/personagens/genocydo.md
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-27T12:00:00-03:00
 ---
 
 ## Visão Geral
@@ -38,6 +38,8 @@ graça; esse verniz não era fé viva. Nunca foi eleito (semente de Nachash).
 por esforço humano, NÃO por milagre. Contraste com Mário: o verdadeiro
 Souhma chegou inteiro e recebeu a língua da Voz (cap. 13); o falso falou por
 aprendizado, o verdadeiro por dom.
+
+**Objetos da travessia e voz do diário (cap. 52, 2026-11-27):** vieram inteiros, na bolsa, o caderno (papel milimétrico industrial, fórmulas de química orgânica nas margens, datas do início do século XXI em esferográfica azul), duas canetas e a Bíblia dos pais, que a mãe pusera ali anos antes e que ele nunca tirara da bolsa. A Bíblia é preta, de couro puído nos cantos, com a lombada em letras douradas, três bordas douradas aparadas num único corte e papel fino, em português. O diário tem quase trinta anos entre a primeira e a última data (cap. 54, L27 e L33) e, no cap. 52, dois trechos em primeira pessoa: a primeira noite e o "Rei que voltou", com o ressentimento contra Deus ("onde Ele estava quando o banco levou o meu laboratório?"). Texto novo do Claude, a aprovar pelo autor (`decisoes/2026-11-27-cap52-comentarios-em-lote.md`).
 
 ## Aparência Canônica
 

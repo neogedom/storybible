@@ -3,7 +3,7 @@ type: Theme
 title: Mapa de Sementes Cross-Livro
 description: Registro do que precisa ser plantado no L1 para colher no L2.
 tags: [tema, sementes, cross-livro, L1, L2]
-timestamp: 2026-07-24T12:00:00-03:00
+timestamp: 2026-11-27T12:00:00-03:00
 ---
 
 # Mapa de Sementes Cross-Livro
@@ -27,6 +27,7 @@ timestamp: 2026-07-24T12:00:00-03:00
   cristão NOMINAL (tinha o livro), nunca fora eleito (semente de Nachash).
 
 - **Cap. 50 (Mini-INGEST, 2026-11-21):** o livro grosso encadernado em couro escuro e o caderno de capa gasta chegam à cela por ordem de Nolan (cap. 49). Pendência: harmonizar com a descrição da cela no cap. 52.
+- **Cap. 52 (2026-11-27):** Mário manuseia a Bíblia antes do diário, com nostalgia e espanto (português, acabamento de fábrica), e infere que alguém da Terra a trouxe, sem saber quem. O diário responde na primeira noite: era dos pais de Kraviam, na bolsa da travessia, e ele nunca a tirara de lá. Ver `decisoes/2026-11-27-cap52-comentarios-em-lote.md`.
 
 ## 3. Gunad Deltëra
 
@@ -396,6 +397,8 @@ timestamp: 2026-07-24T12:00:00-03:00
 ## 15. O Diário de Genocydo — a Revelação de Kraviam
 
 > **Status (2026-11-20, cap. 49) (aceito pelo autor no chat):** o diário chega a Nolan numa cena de Layla no jardim do palacete, reescrita pelo autor no PR #20: ela o traz por conta própria ("Vim trazer o diário que tanto queria"), Nolan o recusa e depois decide usá-lo com Mário, supondo que Mário o lê (diziam que o Estrangeiro falava aquela língua). A troca por um livro de contas saiu. Nolan manda os dois livros à cela "para saber se os lê" (cap. 49; cap. 50: "dois volumes"). Detalhes em `personagens/layla.md`. Fechado em 2026-11-20: cap. 53, L17 (Layla: o rei não perguntou pelo caderno) e cap. 54, L29 (o rei olha o espaço vazio ao lado da bacia de prata). No cap. 59, L23, Nolan registra "mundo" quando Mário diz "do mesmo mundo" (L19): a aposta no diário se confirma (Mário leu) e o "meu mundo" do cap. 56, L43, vira plantio retroativo (decisão do autor, 2026-11-20).
+
+> **Cap. 52 (2026-11-27, nota do autor aplicada em lote):** o diário ganha dois trechos em primeira pessoa, "como estão escritos" (a primeira noite, com a Bíblia na bolsa; o "Rei que voltou" e o ressentimento contra Deus), de modo que a revelação chega em degraus: a Bíblia (alguém da Terra veio antes), o nome (Mark Kraviam), os trechos e, no fecho do caderno, o rei. O diário planta os "quase trinta anos" do cap. 54, e Mário nota que a soma a partir do início do século cai num ano que, para ele, ainda não chegara (alerta A12 da cronologia; o parágrafo se corta ou se ajusta sozinho). Trechos e parágrafo são texto novo, a aprovar pelo autor: `decisoes/2026-11-27-cap52-comentarios-em-lote.md`.
 
 - **Plantio**: L1, caps. 10 e 14 — Layla rouba o diário de Genocydo; Nolan o
   queria para subverter o Conselho (obtém tardiamente).
