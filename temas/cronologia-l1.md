@@ -4,7 +4,7 @@ title: Cronologia do Livro 1 (estimada pelas âncoras)
 description: Dia a dia do L1, do prólogo ao epílogo, encadeado a partir das âncoras de tempo do texto e das fichas; registra as durações declaradas que não fecham, os alertas de consistência temporal e dois cenários de tempo (A e B) que levam a história a cerca de três meses; o B foi aplicado ao texto em 2026-11-16.
 tags: [tema, timeline, cronologia, L1, consistencia]
 resource: https://github.com/neogedom/storybible/blob/main/temas/cronologia-l1.md
-timestamp: 2026-11-27T12:00:00-03:00
+timestamp: 2026-11-28T01:00:00-03:00
 ---
 
 # Cronologia do Livro 1 (estimada pelas âncoras)
@@ -75,7 +75,7 @@ As demais marcas de "semanas" cabem em quatro a cinco semanas: castelo ardeu "se
 - **A9 (baixa).** Ultimato "ao amanhecer" (43) e ataque na mesma noite (44, 45). **Já corrigido na main em 2026-11-13:** o ultimato diz "antes da meia-noite" (43, L130). A solução própria deste PR ("antes que a horda chegue ao portão") foi descartada no merge. Resta a "madrugada" da L70 do mesmo capítulo, que é depois da meia-noite; trocá-la por "noite" é opcional.
 - **A10 (baixa).** O epílogo mistura dois momentos sem marca de tempo; Kate sai do 64 com a clavícula quebrada.
 - **A11 (baixa).** Floresta "despida do outono" (prólogo, 6) no Dia 1 e "verde e sufocante" (13) no Dia 2.
-- **A12 (baixa).** Kraviam: "quarenta anos de ausência" (54, L27), "quase trinta anos" (54, L31) e diário do "início do século vinte e um" (52, L5). **Tratada em 2026-11-27 (cap. 52, L19, commits `36355a2` e `3c7074a` do livro):** o diário (caderno de laboratório em inglês, decisão do autor) planta os "quase trinta anos", contados da última anotação do laboratório (a travessia) à última página, e Mário nota que a soma a partir do início do século dá um ano que, para ele, ainda não chegara; sem hipótese, a conta fica aberta. Se o autor mudar o número do cap. 54 (L27 e L33), ajustar o parágrafo ou cortá-lo (`decisoes/2026-11-27-cap52-comentarios-em-lote.md`).
+- **A12 (baixa).** Kraviam: "quarenta anos de ausência" (54, L27), "quase trinta anos" (54, L31) e diário do "início do século vinte e um" (52, L5). **Resolvida em 2026-11-27 (cap. 52, L19, commit `c6891a8` do livro; decisão do autor entre quatro saídas):** o ano de Ornick é **mais curto que o da Terra** (8 a 10 meses de 32 dias, 256 a 320 dias). Os "quase trinta anos", contados da última anotação do laboratório (a travessia) à última página, são anos de Ornick e valem 20 a 25 anos da Terra, e o "início do século vinte e um" fecha com os anos 2020 de Mário. No texto, Mário só nota que nunca perguntou quanto dura um ano aqui (a incógnita fica para o L2). O cap. 54 (L27 e L33) não muda. Ver `conceitos/cosmologia.md` e `decisoes/2026-11-27-cap52-comentarios-em-lote.md`.
 - **A13 (baixa).** Farinha para "três semanas" (48) e "duas semanas" (58) em um dia; podem ser estoques diferentes.
 - **A14 (aviso).** `temas/timeline.md`: as linhas 24 a 29 estão deslocadas por causa do cap. 24 cortado.
 
@@ -175,7 +175,7 @@ O autor validou as sugestões da lista de alertas, e elas foram aplicadas ao tex
 - **A9, ultimato (superado pelo merge):** a primeira solução (Estruzzo "adiantou o prazo", cap. 44) não tinha motivo no texto e foi desfeita; a segunda, "antes que a horda chegue ao portão" (commit `7e57326`), conflitou com a da main, que desde 2026-11-13 diz "antes da meia-noite" (cap. 43, L130). Ficou a da main. A fala de Kate no cap. 44 segue como no original.
 - **A10, epílogo:** a cena de Kate abre com "Duas semanas depois, a centenas de quilômetros dali" (L33).
 - **A11, vegetação:** cap. 13, L1: "inferno verde" passa a "inferno úmido", para casar com as árvores despidas do outono do prólogo e do cap. 6.
-- **A12, Kraviam:** cap. 54, L27: Mário diz "Quase trinta anos de ausência", como o rei ("Faz quase trinta anos", L31). O diário do cap. 52 data o início do século XXI; se o autor quiser outro número, é só ajustar os dois.
+- **A12, Kraviam:** cap. 54, L27: Mário diz "Quase trinta anos de ausência", como o rei ("Faz quase trinta anos", L31). O diário do cap. 52 data o início do século XXI; se o autor quiser outro número, é só ajustar os dois. **Revisto em 2026-11-27:** a conta fecha com o ano de Ornick mais curto, e os números ficam (ver A12, acima).
 - **A13, trigo:** cap. 58, L41: "Os silos da cidade só têm trigo para mais duas semanas". O cap. 48 (L65) fala do estoque dos regimentos, três semanas.
 - **Cap. 49:** L11, "A corte dispensou a bênção matinal" (antes, "O Conselho reuniu-se", que sugeria uma segunda reunião antes da assembleia extraordinária); L43, a "chuva miúda" virou "cerração fria", porque o livro não tem cena de chuva (log de 2026-11-13). Em 2026-11-20 o capítulo ganhou a cena do palacete entre o Santuário e o burgo baixo; o enforcamento fica "no meio da tarde" (cap. 53, L39) e Juleen foi aliciada "no verão, meses antes do parto" (os três meses de chá começam antes do prólogo).
 - **A14, timeline da storybible:** a tabela do L1 em `temas/timeline.md` foi refeita a partir desta cronologia.
