@@ -57,8 +57,9 @@ Terra, no início do século XXI, com o mesmo método (vigília de dias, a frase
 arma sem cano), muitos anos antes de buscar Mário. O diário de Kraviam o
 descreve, e Mário, que o viu em vida, o reconhece (o autor confirmou em
 2026-11-27 que a morte dele não atrapalha o reconhecimento). **A capacidade de
-atravessar entre os mundos pode ser só dele** (lore do autor, formulada como
-"pode"): o "vetor" da frase dele é literal, a morte dele no cap. 30 encerra as
+atravessar entre os mundos é só dele** (lore do autor, fechada em 2026-11-27: a
+primeira formulação era "pode ser", e o autor confirmou "Vonos não traz mais
+ninguém"): o "vetor" da frase dele é literal, a morte dele no cap. 30 encerra as
 chegadas, e Vonos não traz mais ninguém da Terra (`conceitos/vonos.md`). Não se
 diz de que espécie ele é nem se é longevo: fica em aberto.
 
