@@ -8,7 +8,7 @@ timestamp: 2026-11-27T12:00:00-03:00
 
 # Cap. 52: nota do autor e dois marcadores em lote (2026-11-27)
 
-> O autor pediu para tratar o `(* ... )` do cap. 52 antes da revisão detalhada. O capítulo tinha **três** marcadores (o plano do topo e duas perguntas na mesma frase da L13), e os três foram tratados, em três commits do Livro que se revertem um a um. Âncoras de linha: estado depois do lote, em `Livro 1/capitulo52.md`.
+> O autor pediu para tratar o `(* ... )` do cap. 52 antes da revisão detalhada. O capítulo tinha **três** marcadores (o plano do topo e duas perguntas na mesma frase da L13), e os três foram tratados, em três commits do Livro. O último (a época) se reverte sozinho; os dois primeiros mexem na mesma linha da L13 e, se for preciso desfazê-los, é mais simples editar o texto. Âncoras de linha: estado depois do lote, em `Livro 1/capitulo52.md`.
 
 ## Aplicado no texto
 
