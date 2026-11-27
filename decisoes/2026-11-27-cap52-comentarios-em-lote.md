@@ -2,13 +2,13 @@
 type: Decision
 title: Cap. 52, nota do autor e dois marcadores em lote; diário em inglês, Providência e o Inquiridor (2026-11-27)
 description: O que o lote dos três marcadores (* ... ) do cap. 52 resolveu (a Bíblia antes do diário, fórmulas de química pelo tipo, Mário e a época de Ornick) e o que o autor decidiu em seguida no chat (o diário de Kraviam é um caderno de laboratório em inglês que evolui para o ornickenho; a Bíblia em português era cartilha de português e Mário a reconhece como sinal de Providência; o Inquiridor da cicatriz buscou Kraviam antes de buscar Mário e pode ser o único capaz de atravessar; leviantares não têm orelhas pontudas e só se distinguem pelo toque), com as âncoras de linha, o canon novo e o que fica para o autor decidir.
-tags: [decisao, cap-52, lote, biblia, diario, kraviam, ingles, ornickenho, providencia, inquiridor, leviantares, cronologia, a12]
-timestamp: 2026-11-27T22:00:00-03:00
+tags: [decisao, cap-52, lote, biblia, diario, kraviam, ingles, ornickenho, providencia, gradacao, hino, inquiridor, leviantares, cronologia, a12]
+timestamp: 2026-11-27T23:30:00-03:00
 ---
 
 # Cap. 52: nota do autor e dois marcadores em lote; diário em inglês, Providência e o Inquiridor (2026-11-27)
 
-> O autor pediu para tratar o `(* ... )` do cap. 52 antes da revisão detalhada. O capítulo tinha **três** marcadores (o plano do topo e duas perguntas na mesma frase da L13), e os três foram tratados no Livro, em commits separados. Em seguida o autor deu quatro rodadas de lore no chat (diário em inglês e evolução da língua; Bíblia como cartilha de português e sinal de Providência; Inquiridor da cicatriz no diário; correção dos leviantares e o Inquiridor como único vetor), que viraram mais cinco commits no Livro. Âncoras de linha: estado atual de `Livro 1/capitulo52.md`.
+> O autor pediu para tratar o `(* ... )` do cap. 52 antes da revisão detalhada. O capítulo tinha **três** marcadores (o plano do topo e duas perguntas na mesma frase da L13), e os três foram tratados no Livro, em commits separados. Em seguida o autor deu cinco rodadas de lore e direção no chat (diário em inglês e evolução da língua; Bíblia como cartilha de português e sinal de Providência; Inquiridor da cicatriz no diário; correção dos leviantares e o Inquiridor como único vetor; a gradação da Providência e o gatilho do hino), que viraram mais seis commits no Livro. Âncoras de linha: estado atual de `Livro 1/capitulo52.md`.
 
 ## Aplicado no texto
 
@@ -24,6 +24,7 @@ timestamp: 2026-11-27T22:00:00-03:00
 | Chat: o Inquiridor | Em um trecho, Mário lê sobre o Inquiridor que buscou Kraviam, que pela descrição é o mesmo que buscou Mário | Um trecho novo descreve o homem (L31), e Mário o reconhece (L33). | `ef71fb9` |
 | Chat: correção dos leviantares | Leviantares não têm orelhas pontudas; a única diferença perceptível é que os humanos são mais quentes; depois da Segregação, as roupas também distinguem; o teste seguro é um truque elemental, mas é falho (gnocks, leviantares sem treino) | A entrada "Leviantar" da lista de palavras deixa de dizer "orelhas pontudas" e "não envelhecem": "what the Guenayer are. They look just like us, only cooler to the touch" (L41). | `0d5c3cb` |
 | Chat: o Inquiridor, único vetor | Mário o viu em vida, então faz a relação; a morte dele pode determinar que Vonos não traz mais ninguém da Terra; a habilidade pode ser só dele | Sem mudança no texto do 52. Registrado como lore (`personagens/inquiridor.md`, `conceitos/inquiridores-sinal.md`, `conceitos/vonos.md`, `capitulos/capitulo-30.md`). | (storybible) |
+| Chat: gradação da Providência e gatilho do hino | A percepção da Providência pode ser o primeiro passo de uma gradação que leva a reconhecer a soberania absoluta de Deus e a abdicar do controle; pode ser o gatilho para voltar a cantar "Mais perto quero estar" | A palavra volta três vezes no capítulo, com outro peso: L27 (vem inteira e não o consola), L69 (volta no silêncio da Voz, "desta vez ele não tentou usá-la", e logo vem a vontade de cantar, na L71) e o fecho, L139 ("voltou pela terceira vez, e desta vez pesou"). | `c1e54f5` |
 
 ## A pergunta do autor sobre a Bíblia
 
@@ -88,6 +89,7 @@ Aplicado: a entrada do diário (L41) vira uma observação de químico, "they lo
 ## Canon desta decisão
 
 - **Leviantares:** sem orelhas pontudas; os humanos são mais quentes ao toque; roupas distinguem os grupos só depois da Segregação (regra do autor, 2026-11-27).
+- **Gradação da Providência (direção do autor):** a mesma palavra marca três degraus no 52 (rótulo que não consola; deixa de ser usada e dispara o canto; pesa no fim) e leva, no Garfo, a reconhecer a soberania e a abdicar do controle. O canto de Mário segue "sem saber por quê"; o gatilho é visível ao leitor.
 - **Bíblia de Kraviam:** em português, dos pais dele, que a trouxeram do Brasil; na bolsa da travessia; couro preto, bordas douradas, papel fino. Ele a lia para aprender a língua dos pais, como cartilha. Por isso o único exemplar da Escritura em Ornick está em português, e Mário o reconhece como sinal de Providência (cap. 52, L27).
 - **Diário:** caderno de laboratório em inglês, reaproveitado como diário no dia da travessia; evolui para o ornickenho em três estágios; quase trinta anos entre a última anotação do laboratório e a última página (o "quase trinta anos de ausência" do cap. 54, L27 e L33).
 - **O Inquiridor da cicatriz do lábio** buscou Kraviam na Terra, no início do século XXI, antes de buscar Mário (`personagens/inquiridor.md`). A capacidade de atravessar pode ser só dele, e a morte dele (cap. 30) encerra as chegadas: Vonos não traz mais ninguém da Terra (lore do autor, formulada como "pode").
@@ -97,7 +99,7 @@ Aplicado: a entrada do diário (L41) vira uma observação de químico, "they lo
 ## Para o autor decidir
 
 1. **A conta da época (alerta A12, `temas/cronologia-l1.md`).** Mantive "quase trinta anos" (cap. 54, L27 e L33) e o diário do início do século XXI. A soma cai num ano que, para Mário, ainda não chegara, e o texto deixa a conta aberta, sem hipótese (anos de Ornick mais curtos, tempo próprio da fenda). Três saídas: manter; ajustar o número nos dois lugares do cap. 54 para a soma fechar (por exemplo, "vinte e poucos anos"); ou cortar as duas frases da L19. O Inquiridor, se for longevo, é um segundo dado para essa conta.
-2. **A Providência na L27 antecipa uma palavra** que o plano do Ato 3 reservava ao Garfo. Mantive só a Bíblia (o livro veio antes dele, trazido por quem só queria a língua) e a palavra "não o consola"; a tese de Lucas e da teologia fica para o Garfo. Se o autor achar que nomear "Providência" já no 52 aperta demais o risco 4, a saída é cortar a frase "Na doutrina que Mário sabia de cor, aquilo tinha nome: Providência." e deixar o resto.
+2. **A Providência no 52 e o risco 4 (resolvido pela direção do autor).** Eu tinha apontado que nomear "Providência" já no 52 antecipa uma palavra que o plano do Ato 3 reservava ao Garfo. O autor respondeu que a percepção é o primeiro degrau de uma gradação (soberania absoluta, depois abdicar do controle) e o gatilho do hino. Mantive a tese fora: o capítulo só faz a palavra mudar de peso (L27, L69, L139), e a Voz segue muda. Detalhe da gradação em [Ato 3](../insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md). Se o "pela terceira vez" da L139 parecer mecânico, cortar essas três palavras deixa "A palavra do começo da noite voltou, e desta vez pesou."
 3. **Os quatro trechos do diário** são texto novo: aprovar ou reescrever. O inglês entra sem tradução; se preferir uma glosa em português depois de cada trecho, é uma linha.
 4. **Cap. 49, L93.** Nolan vê o diário e pensa "tinha as mesmas palavras do mesmo livro de capa preta". Com o diário em inglês e a Bíblia em português, não são as mesmas palavras; a sugestão é "as mesmas letras", que mantém a inferência dele (os dois livros estariam na língua do Estrangeiro). Não toquei: é capítulo fechado, e a frase é a percepção de Nolan, que não distingue as línguas.
 5. **L21, "Havia um nome estava na folha de rosto":** erro da edição de hoje pelo GitHub; a sugestão é "Havia um nome na folha de rosto". Não corrigi: pertence ao passe linguístico.
@@ -113,7 +115,7 @@ Aplicado: a entrada do diário (L41) vira uma observação de químico, "they lo
 
 ## Conexões
 
-- [Gunad no cap. 52](../insights/l1-cap52-gunad-ouve-o-evangelho-completo.md): a conversa que vem depois do diário (L69 a L137); não mudou.
+- [Gunad no cap. 52](../insights/l1-cap52-gunad-ouve-o-evangelho-completo.md): a conversa que vem depois do diário (L71 a L139); não mudou, a não ser pelo fecho (a palavra que pesa).
 - [Genocydo](../personagens/genocydo.md): objetos da travessia, o diário e a língua.
 - [Inquiridores do Sinal](../personagens/inquiridor.md): o Inquiridor da cicatriz do lábio buscou Kraviam e Mário.
 - [Cap. 30](../capitulos/capitulo-30.md): a morte do Inquiridor da cicatriz.

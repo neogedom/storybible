@@ -1,5 +1,12 @@
 # Log de Atualizações
 
+## 2026-11-27, madrugada (cap. 52: gradação da Providência e gatilho do hino)
+
+- Direção do autor no chat: a percepção da Providência é o **primeiro passo de uma gradação** que leva a reconhecer a **soberania absoluta de Deus** e a aprender que ele deve **abdicar do controle**; o reconhecimento da Providência também pode ser o **gatilho para ele voltar a cantar** "Mais perto quero estar".
+- Aplicado no Livro em `c1e54f5`: a palavra volta três vezes no cap. 52, com outro peso. L27: "veio inteira e não o consolou". L69: no silêncio da Voz, "A palavra do começo da noite voltou, Providência, e desta vez ele não tentou usá-la", e logo (L71) "em vez da resposta" a vontade de cantar, que segue "sem saber por quê". Fecho (L139): "voltou pela terceira vez, e desta vez pesou". A tese (a culpa de Lucas, a teologia que não decide) fica para o Garfo; a Voz segue muda.
+- Atualizados: `insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md` (nova seção com os degraus, do 52 ao cap. 66), `insights/l1-cap52-gunad-ouve-o-evangelho-completo.md` (gatilho do hino; a cena de Gunad vai da L71 à L139), `decisoes/2026-11-17-ato3-lucas-sem-rosto-gunad-convertido-e-o-hino.md`, `decisoes/2026-11-27-cap52-comentarios-em-lote.md`, `temas/{sementes,arco-stc}.md`, `index.md`. O caveat do risco 4 (nomear "Providência" cedo) fica resolvido pela direção do autor.
+- Para o autor: se "pela terceira vez" soar mecânico, cortar essas três palavras. Cap. 52 (`wc -w`): 2.692 palavras.
+
 ## 2026-11-27, noite (cap. 52: correção dos leviantares e o Inquiridor como único vetor)
 
 - Correção do autor: **leviantares não têm orelhas pontudas**; a única diferença perceptível em relação aos humanos é que os humanos são **mais quentes**; depois da Segregação, as roupas também distinguem os dois grupos; o teste mais seguro é pedir um truque elemental, mas é falho (gnocks e leviantares que não aprenderam truques). A origem do meu erro foi a fala de Kraviam no cap. 54, L33 ("gentalha de orelhas pontudas"), única linha do livro com isso: fica para o autor (sugestão "gentalha de pele fria").
