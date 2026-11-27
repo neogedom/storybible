@@ -1,5 +1,10 @@
 # Log de Atualizações
 
+## 2026-11-27, madrugada (cap. 54, L33: "gentalha de pele fria")
+
+- O autor mandou corrigir a linha que eu tinha sinalizado: no cap. 54, L33, Kraviam dizia "gentalha de orelhas pontudas e ferreiros ignorantes", o que contradiz a regra de 2026-11-27 (leviantares não têm orelhas pontudas; a única diferença perceptível é que os humanos são mais quentes). Passou a "gentalha de pele fria e ferreiros ignorantes" (commit `bc619f8` do livro), que casa com o "cooler to the touch" do diário do cap. 52. Era a única linha do livro com orelhas pontudas para leviantares; as de Lakand (caps. 43 e 60) são de lobo e ficam.
+- Atualizado: `decisoes/2026-11-27-cap52-comentarios-em-lote.md` (item 6 resolvido).
+
 ## 2026-11-27, madrugada (cap. 52: gradação da Providência e gatilho do hino)
 
 - Direção do autor no chat: a percepção da Providência é o **primeiro passo de uma gradação** que leva a reconhecer a **soberania absoluta de Deus** e a aprender que ele deve **abdicar do controle**; o reconhecimento da Providência também pode ser o **gatilho para ele voltar a cantar** "Mais perto quero estar".

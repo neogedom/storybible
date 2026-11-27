@@ -8,7 +8,7 @@ timestamp: 2026-11-27T23:30:00-03:00
 
 # Cap. 52: nota do autor e dois marcadores em lote; diário em inglês, Providência e o Inquiridor (2026-11-27)
 
-> O autor pediu para tratar o `(* ... )` do cap. 52 antes da revisão detalhada. O capítulo tinha **três** marcadores (o plano do topo e duas perguntas na mesma frase da L13), e os três foram tratados no Livro, em commits separados. Em seguida o autor deu cinco rodadas de lore e direção no chat (diário em inglês e evolução da língua; Bíblia como cartilha de português e sinal de Providência; Inquiridor da cicatriz no diário; correção dos leviantares e o Inquiridor como único vetor; a gradação da Providência e o gatilho do hino), que viraram mais seis commits no Livro. Âncoras de linha: estado atual de `Livro 1/capitulo52.md`.
+> O autor pediu para tratar o `(* ... )` do cap. 52 antes da revisão detalhada. O capítulo tinha **três** marcadores (o plano do topo e duas perguntas na mesma frase da L13), e os três foram tratados no Livro, em commits separados. Em seguida o autor deu cinco rodadas de lore e direção no chat (diário em inglês e evolução da língua; Bíblia como cartilha de português e sinal de Providência; Inquiridor da cicatriz no diário; correção dos leviantares e o Inquiridor como único vetor; a gradação da Providência e o gatilho do hino), que viraram mais seis commits no Livro, e um sétimo, no cap. 54, por autorização do autor. Âncoras de linha: estado atual de `Livro 1/capitulo52.md`.
 
 ## Aplicado no texto
 
@@ -84,7 +84,7 @@ Eu tinha escrito, na lista de palavras do diário, "leviantar: the ones with poi
 
 Aplicado: a entrada do diário (L41) vira uma observação de químico, "they look just like us, only cooler to the touch", e a regra entrou em `conceitos/cosmologia.md`, `conceitos/glossario.md` e `conceitos/segregacao.md`. Na ficha de Genocydo, a "ausência de aura leviantar" ganhou o calor das mãos, que é o que um humano tem a mais.
 
-**Cap. 54, L33 (não toquei):** Kraviam diz "Para esta gentalha de orelhas pontudas e ferreiros ignorantes". Pelo canon, é a única linha do livro que dá orelhas pontudas a leviantares (as de Lakand são de lobo). Lida em voz de Kraviam, pode ser caçoada de terráqueo (a "gente de elfos" da fantasia da Terra), mas lida ao pé da letra contradiz a regra. Sugestão, que mantém o desprezo e o canon: "gentalha de pele fria". "Sangue frio" também serve, com o duplo sentido da expressão.
+**Cap. 54, L33 (corrigido a pedido do autor, commit `bc619f8` do Livro):** Kraviam dizia "Para esta gentalha de orelhas pontudas e ferreiros ignorantes". Era a única linha do livro que dava orelhas pontudas a leviantares (as de Lakand, nos caps. 43 e 60, são de lobo). Agora diz "Para esta gentalha de pele fria e ferreiros ignorantes": mantém o desprezo, segue o canon e casa com a observação do diário no cap. 52 ("cooler to the touch"). "Sangue frio" também serviria, com o duplo sentido da expressão; o autor liberou a correção sem escolher entre as duas, e fiquei com a primeira que sugeri.
 
 ## Canon desta decisão
 
@@ -103,7 +103,7 @@ Aplicado: a entrada do diário (L41) vira uma observação de químico, "they lo
 3. **Os quatro trechos do diário** são texto novo: aprovar ou reescrever. O inglês entra sem tradução; se preferir uma glosa em português depois de cada trecho, é uma linha.
 4. **Cap. 49, L93.** Nolan vê o diário e pensa "tinha as mesmas palavras do mesmo livro de capa preta". Com o diário em inglês e a Bíblia em português, não são as mesmas palavras; a sugestão é "as mesmas letras", que mantém a inferência dele (os dois livros estariam na língua do Estrangeiro). Não toquei: é capítulo fechado, e a frase é a percepção de Nolan, que não distingue as línguas.
 5. **L21, "Havia um nome estava na folha de rosto":** erro da edição de hoje pelo GitHub; a sugestão é "Havia um nome na folha de rosto". Não corrigi: pertence ao passe linguístico.
-6. **Cap. 54, L33, "orelhas pontudas"** (ver a correção dos leviantares, acima): sugestão "gentalha de pele fria". Não toquei.
+6. ~~Cap. 54, L33, "orelhas pontudas"~~ **Resolvido:** o autor mandou corrigir, e virou "gentalha de pele fria" (commit `bc619f8`). Se preferir "sangue frio", é a troca de duas palavras.
 7. **"Vonos não traz mais ninguém da Terra" foi formulado como "pode".** Tratei como canon operacional (ficha do Inquiridor, Vonos, cap. 30). Se o autor preferir deixar em aberto para o L2, basta trocar "pode" no registro por "decisão pendente".
 
 ## Notado e não tocado (para a revisão detalhada)
