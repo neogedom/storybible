@@ -1,14 +1,14 @@
 ---
 type: Decision
 title: Cap. 52, nota do autor e dois marcadores em lote; diário em inglês, Providência e o Inquiridor (2026-11-27)
-description: O que o lote dos três marcadores (* ... ) do cap. 52 resolveu (a Bíblia antes do diário, fórmulas de química pelo tipo, Mário e a época de Ornick) e o que o autor decidiu em seguida no chat (o diário de Kraviam é um caderno de laboratório em inglês que evolui para o ornickenho; a Bíblia em português era cartilha de português e Mário a reconhece como sinal de Providência; o Inquiridor da cicatriz buscou Kraviam antes de buscar Mário), com as âncoras de linha, o canon novo e o que fica para o autor decidir.
-tags: [decisao, cap-52, lote, biblia, diario, kraviam, ingles, ornickenho, providencia, inquiridor, cronologia, a12]
-timestamp: 2026-11-27T20:00:00-03:00
+description: O que o lote dos três marcadores (* ... ) do cap. 52 resolveu (a Bíblia antes do diário, fórmulas de química pelo tipo, Mário e a época de Ornick) e o que o autor decidiu em seguida no chat (o diário de Kraviam é um caderno de laboratório em inglês que evolui para o ornickenho; a Bíblia em português era cartilha de português e Mário a reconhece como sinal de Providência; o Inquiridor da cicatriz buscou Kraviam antes de buscar Mário e pode ser o único capaz de atravessar; leviantares não têm orelhas pontudas e só se distinguem pelo toque), com as âncoras de linha, o canon novo e o que fica para o autor decidir.
+tags: [decisao, cap-52, lote, biblia, diario, kraviam, ingles, ornickenho, providencia, inquiridor, leviantares, cronologia, a12]
+timestamp: 2026-11-27T22:00:00-03:00
 ---
 
 # Cap. 52: nota do autor e dois marcadores em lote; diário em inglês, Providência e o Inquiridor (2026-11-27)
 
-> O autor pediu para tratar o `(* ... )` do cap. 52 antes da revisão detalhada. O capítulo tinha **três** marcadores (o plano do topo e duas perguntas na mesma frase da L13), e os três foram tratados no Livro, em commits separados. Em seguida o autor deu três rodadas de lore no chat (diário em inglês e evolução da língua; Bíblia como cartilha de português e sinal de Providência; Inquiridor da cicatriz no diário), que viraram mais quatro commits. Âncoras de linha: estado atual de `Livro 1/capitulo52.md`.
+> O autor pediu para tratar o `(* ... )` do cap. 52 antes da revisão detalhada. O capítulo tinha **três** marcadores (o plano do topo e duas perguntas na mesma frase da L13), e os três foram tratados no Livro, em commits separados. Em seguida o autor deu quatro rodadas de lore no chat (diário em inglês e evolução da língua; Bíblia como cartilha de português e sinal de Providência; Inquiridor da cicatriz no diário; correção dos leviantares e o Inquiridor como único vetor), que viraram mais cinco commits no Livro. Âncoras de linha: estado atual de `Livro 1/capitulo52.md`.
 
 ## Aplicado no texto
 
@@ -22,6 +22,8 @@ timestamp: 2026-11-27T20:00:00-03:00
 | Chat: evolução da língua | O diário começa em inglês e evolui: primeiro poucas palavras em ornickenho, depois porções maiores de texto | Três estágios nos trechos (L39 a L47) e uma frase de visão geral na folheada (L19). | `a9e6d5b` |
 | Chat: Bíblia como cartilha e Providência | Kraviam usava a Bíblia em português para aprender a língua dos pais; a Bíblia em português, mesmo sendo ele americano, pode ser reconhecida por Mário como sinal de Providência | A primeira noite diz "I've been reading it to learn Portuguese, their language" (L25). Mário reconhece a Providência na L27. | `6f1dd3b` |
 | Chat: o Inquiridor | Em um trecho, Mário lê sobre o Inquiridor que buscou Kraviam, que pela descrição é o mesmo que buscou Mário | Um trecho novo descreve o homem (L31), e Mário o reconhece (L33). | `ef71fb9` |
+| Chat: correção dos leviantares | Leviantares não têm orelhas pontudas; a única diferença perceptível é que os humanos são mais quentes; depois da Segregação, as roupas também distinguem; o teste seguro é um truque elemental, mas é falho (gnocks, leviantares sem treino) | A entrada "Leviantar" da lista de palavras deixa de dizer "orelhas pontudas" e "não envelhecem": "what the Guenayer are. They look just like us, only cooler to the touch" (L41). | `0d5c3cb` |
+| Chat: o Inquiridor, único vetor | Mário o viu em vida, então faz a relação; a morte dele pode determinar que Vonos não traz mais ninguém da Terra; a habilidade pode ser só dele | Sem mudança no texto do 52. Registrado como lore (`personagens/inquiridor.md`, `conceitos/inquiridores-sinal.md`, `conceitos/vonos.md`, `capitulos/capitulo-30.md`). | (storybible) |
 
 ## A pergunta do autor sobre a Bíblia
 
@@ -49,12 +51,12 @@ O inglês entra sem tradução, curto e simples. O ornickenho entra traduzido, c
 
 1. **L25, a primeira noite (inglês):** "I don't know how many hours have passed. I woke up on the ground, skin raw, shirt stuck to my back. Not dead. Not dead. Rule one: every night I write down who I am. Mark Kraviam. Chemist. Mark Kraviam. So I don't forget. The notebook was in my hand when it happened. Two pens in my pocket. And my bag, with the Bible my parents brought from Brazil. I've been reading it to learn Portuguese, their language."
 2. **L31, a página seguinte (inglês), o Inquiridor:** "I keep seeing him. A man had been outside the lab for days. Dark coat. Too still, pointed at me like an arrow. A white scar pulling the left corner of his mouth up, as if he were about to laugh. A blue crystal at his throat. He said he wasn't a kidnapper, he was a bureaucratic vector. Then the gun with no barrel. Write it down. Write it all down." Mário reage na L33: "O ombro direito, que acordara inteiro em Ornick, lembrou o estalo antes dele. A cicatriz no canto esquerdo da boca, o cristal azul no pescoço, a frase de burocrata: era o mesmo homem. Antes de ir buscar Mário, fora buscar Kraviam."
-3. **L41, as primeiras palavras de Ornick (inglês com palavras de Ornick):** "The Guenayer feed me and teach me. One word a day, two if I'm lucky. Ornick: the place. Leviantar: the ones with pointed ears who don't seem to age. Genocydo: the name they gave me, the king who returns. I could tell them I am Mark. I could. But where was He when the bank took my lab? Where was He?" Introdução na L39 ("riscadas e corrigidas, como numa lista de laboratório"). Em seguida, a percepção de Mário (L43): "Mário parou na terceira palavra e ficou ali. Genocydo. O caderno era do rei." É aqui que Mário descobre que o caderno é do rei; o leitor já sabia, pelos caps. 10 e 49, que era o diário de Genocydo.
+3. **L41, as primeiras palavras de Ornick (inglês com palavras de Ornick):** "The Guenayer feed me and teach me. One word a day, two if I'm lucky. Ornick: the place. Leviantar: what the Guenayer are. They look just like us, only cooler to the touch. Genocydo: the name they gave me, the king who returns. I could tell them I am Mark. I could. But where was He when the bank took my lab? Where was He?" (A primeira versão dizia "the ones with pointed ears who don't seem to age"; o autor corrigiu em seguida: leviantares não têm orelhas pontudas, e a única diferença perceptível é o toque mais frio. Ver "Correção do autor sobre os leviantares", abaixo.) Introdução na L39 ("riscadas e corrigidas, como numa lista de laboratório"). Em seguida, a percepção de Mário (L43): "Mário parou na terceira palavra e ficou ali. Genocydo. O caderno era do rei." É aqui que Mário descobre que o caderno é do rei; o leitor já sabia, pelos caps. 10 e 49, que era o diário de Genocydo.
 4. **L47, anos depois (ornickenho, traduzido):** "Faz anos que não escrevo o nome de antes. Hoje tentei. A mão escreveu o outro." Introdução na L45 ("o ornickenho ocupava as páginas inteiras, sem um risco, e o inglês sobrava nas margens"). Fecha a "regra um" do primeiro trecho: o nome de antes é Mark; o outro é Genocydo.
 
 Voz de Genocydo (`temas/tom-e-voz.md`): a ansiedade vaza na sintaxe (repetição, pergunta engolida) e não há autodiagnóstico lúcido. O ressentimento ecoa o cap. 54 ("nunca moveu uma palha para evitar que o meu laboratório falisse") e o espelho com Mário é o do cap. 21 ("Você podia ter agido, e não agiu"). Nenhum trecho fecha em aforismo.
 
-Invenções mínimas dos trechos: a "regra um"; o nome Genocydo "dado" pelos Guenayer (o canon só dizia que ele assumiu o nome do Primeiro Rei); "pointed ears" e "não envelhecem" para os leviantares (do cap. 54 e da cosmologia); a vigília de dias do Inquiridor junto ao laboratório e a frase "vetor burocrático" dita também a Kraviam (a frase é do cap. 3).
+Invenções mínimas dos trechos: a "regra um"; o nome Genocydo "dado" pelos Guenayer (o canon só dizia que ele assumiu o nome do Primeiro Rei); a observação do toque mais frio dos leviantares (regra do autor, abaixo); a vigília de dias do Inquiridor junto ao laboratório e a frase "vetor burocrático" dita também a Kraviam (a frase é do cap. 3).
 
 No resumo de Kraviam (L35) entrou "americano de pais brasileiros", que sustenta o cap. 54, L27; saiu "ferido, com o corpo lacerado pela passagem cósmica", que o primeiro trecho já mostra.
 
@@ -64,17 +66,31 @@ O que o canon já dava: o homem de casaco escuro, "o corpo inteiro apontado para
 
 Cuidados e limites:
 
-- **O Inquiridor já morreu (cap. 30), e Mário não sabe.** O reconhecimento é de um homem que ele pode supor vivo. Nada no texto de Mário depois do 30 diz que ele soube.
+- **O Inquiridor já morreu (cap. 30), e isso não atrapalha.** Eu tinha apontado que Mário não sabe da morte; o autor respondeu que Mário o viu em vida, então faz a relação. O reconhecimento é do rosto e da frase, não do destino dele.
+- **A morte vira lore (autor, 2026-11-27, formulada como "pode"):** a capacidade de atravessar entre os mundos pode ser **específica desse Inquiridor**, e a morte dele determina que **Vonos não traz mais ninguém da Terra**. Kraviam e Mário são os dois únicos terráqueos trazidos. O "vetor" da frase dele passa a ser literal. Registrado em `personagens/inquiridor.md`, `conceitos/inquiridores-sinal.md`, `conceitos/vonos.md` e `capitulos/capitulo-30.md`. Cabe ao L2 (ninguém mais virá) e a um capítulo futuro em que alguém conte a Mário que ele morreu (Kate esteve lá); o cap. 52 não precisa de mais nada.
 - **A longevidade fica em aberto.** O mesmo agente com trinta anos de Ornick entre as duas buscas pede um corpo que não envelhece (leviantar?) ou um tempo próprio, e o canon não diz de que espécie é o Inquiridor. O texto não afirma nada: o trecho não dá idade, e Mário só reconhece o rosto e a frase.
 - **A frase "vetor burocrático"** é a marca mais forte (a cicatriz sozinha podia ser "cicatriz ritual", comum à Ordem). Se o autor preferir só a descrição, cortar a frase é uma linha.
 - **Não revela o plano de Vonos.** O Inquiridor só aparece como o homem que arrancou os dois. O conflito de canon sobre o plano no diário (abaixo) continua como estava.
 - **O contraste com a pele em carne viva do primeiro trecho** já está no ombro de Mário, que "acordara inteiro"; a Voz tinha dito isso a ele no cap. 26, L167. Não foi preciso dizer mais.
 
+## Correção do autor sobre os leviantares
+
+Eu tinha escrito, na lista de palavras do diário, "leviantar: the ones with pointed ears who don't seem to age". A origem do erro foi a fala de Kraviam no cap. 54, L33 ("gentalha de orelhas pontudas"), que li ao pé da letra. O autor corrigiu no chat:
+
+- **Leviantares não têm orelhas pontudas.** A única diferença perceptível em relação aos humanos é que os humanos são **mais quentes** ao toque.
+- **Depois da Segregação, as roupas** passaram a distinguir os dois grupos. A Segregação começou depois da Guerra do Grifo, então nos primeiros anos de Kraviam em Ornick não havia marca nenhuma além do toque.
+- **Para ter mais certeza**, pede-se um **truque elemental**. A métrica é **falha**: os gnocks não têm poder, e há leviantares que ainda não aprenderam truques.
+
+Aplicado: a entrada do diário (L41) vira uma observação de químico, "they look just like us, only cooler to the touch", e a regra entrou em `conceitos/cosmologia.md`, `conceitos/glossario.md` e `conceitos/segregacao.md`. Na ficha de Genocydo, a "ausência de aura leviantar" ganhou o calor das mãos, que é o que um humano tem a mais.
+
+**Cap. 54, L33 (não toquei):** Kraviam diz "Para esta gentalha de orelhas pontudas e ferreiros ignorantes". Pelo canon, é a única linha do livro que dá orelhas pontudas a leviantares (as de Lakand são de lobo). Lida em voz de Kraviam, pode ser caçoada de terráqueo (a "gente de elfos" da fantasia da Terra), mas lida ao pé da letra contradiz a regra. Sugestão, que mantém o desprezo e o canon: "gentalha de pele fria". "Sangue frio" também serve, com o duplo sentido da expressão.
+
 ## Canon desta decisão
 
+- **Leviantares:** sem orelhas pontudas; os humanos são mais quentes ao toque; roupas distinguem os grupos só depois da Segregação (regra do autor, 2026-11-27).
 - **Bíblia de Kraviam:** em português, dos pais dele, que a trouxeram do Brasil; na bolsa da travessia; couro preto, bordas douradas, papel fino. Ele a lia para aprender a língua dos pais, como cartilha. Por isso o único exemplar da Escritura em Ornick está em português, e Mário o reconhece como sinal de Providência (cap. 52, L27).
 - **Diário:** caderno de laboratório em inglês, reaproveitado como diário no dia da travessia; evolui para o ornickenho em três estágios; quase trinta anos entre a última anotação do laboratório e a última página (o "quase trinta anos de ausência" do cap. 54, L27 e L33).
-- **O Inquiridor da cicatriz do lábio** buscou Kraviam na Terra, no início do século XXI, antes de buscar Mário (`personagens/inquiridor.md`).
+- **O Inquiridor da cicatriz do lábio** buscou Kraviam na Terra, no início do século XXI, antes de buscar Mário (`personagens/inquiridor.md`). A capacidade de atravessar pode ser só dele, e a morte dele (cap. 30) encerra as chegadas: Vonos não traz mais ninguém da Terra (lore do autor, formulada como "pode").
 - **O que Mário sabe depois do diário:** alguém da Terra veio antes (a Bíblia), o nome (Mark Kraviam), o ofício (química), a origem (americano de pais brasileiros), que o mesmo Inquiridor buscou os dois, o nome que o rei carrega (Genocydo, dado pelos Guenayer) e os quase trinta anos.
 - **Mário lê inglês sem dificuldade** (ficha de Mário) e nunca perguntara "quando" Ornick está; o onde ele já tinha: outro mundo, duas luas, mês de trinta e dois dias.
 
@@ -85,6 +101,8 @@ Cuidados e limites:
 3. **Os quatro trechos do diário** são texto novo: aprovar ou reescrever. O inglês entra sem tradução; se preferir uma glosa em português depois de cada trecho, é uma linha.
 4. **Cap. 49, L93.** Nolan vê o diário e pensa "tinha as mesmas palavras do mesmo livro de capa preta". Com o diário em inglês e a Bíblia em português, não são as mesmas palavras; a sugestão é "as mesmas letras", que mantém a inferência dele (os dois livros estariam na língua do Estrangeiro). Não toquei: é capítulo fechado, e a frase é a percepção de Nolan, que não distingue as línguas.
 5. **L21, "Havia um nome estava na folha de rosto":** erro da edição de hoje pelo GitHub; a sugestão é "Havia um nome na folha de rosto". Não corrigi: pertence ao passe linguístico.
+6. **Cap. 54, L33, "orelhas pontudas"** (ver a correção dos leviantares, acima): sugestão "gentalha de pele fria". Não toquei.
+7. **"Vonos não traz mais ninguém da Terra" foi formulado como "pode".** Tratei como canon operacional (ficha do Inquiridor, Vonos, cap. 30). Se o autor preferir deixar em aberto para o L2, basta trocar "pode" no registro por "decisão pendente".
 
 ## Notado e não tocado (para a revisão detalhada)
 
@@ -99,6 +117,8 @@ Cuidados e limites:
 - [Genocydo](../personagens/genocydo.md): objetos da travessia, o diário e a língua.
 - [Inquiridores do Sinal](../personagens/inquiridor.md): o Inquiridor da cicatriz do lábio buscou Kraviam e Mário.
 - [Cap. 30](../capitulos/capitulo-30.md): a morte do Inquiridor da cicatriz.
+- [Vonos](../conceitos/vonos.md): a via da Terra fechada com a morte do Inquiridor.
+- [Cosmologia](../conceitos/cosmologia.md) e [Segregação](../conceitos/segregacao.md): como se distingue um leviantar de um humano.
 - [Mário](../personagens/mario.md): lê inglês sem dificuldade.
 - [Cronologia do Livro 1](../temas/cronologia-l1.md): alerta A12.
 - [Sementes](../temas/sementes.md): #2 (a Bíblia) e #15 (o diário).

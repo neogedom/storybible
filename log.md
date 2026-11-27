@@ -1,5 +1,13 @@
 # Log de Atualizações
 
+## 2026-11-27, noite (cap. 52: correção dos leviantares e o Inquiridor como único vetor)
+
+- Correção do autor: **leviantares não têm orelhas pontudas**; a única diferença perceptível em relação aos humanos é que os humanos são **mais quentes**; depois da Segregação, as roupas também distinguem os dois grupos; o teste mais seguro é pedir um truque elemental, mas é falho (gnocks e leviantares que não aprenderam truques). A origem do meu erro foi a fala de Kraviam no cap. 54, L33 ("gentalha de orelhas pontudas"), única linha do livro com isso: fica para o autor (sugestão "gentalha de pele fria").
+- Aplicado no Livro: `0d5c3cb` (a entrada "Leviantar" da lista de palavras do diário, L41, vira "what the Guenayer are. They look just like us, only cooler to the touch").
+- Sobre o Inquiridor, o autor respondeu: Mário o viu em vida e por isso faz a relação (o caveat da morte dele no cap. 30 cai); a morte dele pode determinar que **Vonos não traz mais ninguém da Terra**, e a habilidade de atravessar pode ser **específica desse Inquiridor**. Registrado como lore (formulada como "pode"), sem mudança no texto do cap. 52.
+- Atualizados: `conceitos/{cosmologia,glossario,segregacao,vonos,inquiridores-sinal}.md`, `personagens/{inquiridor,genocydo}.md`, `capitulos/capitulo-30.md`, `decisoes/2026-11-27-cap52-comentarios-em-lote.md`, `index.md`.
+- Para o autor: cap. 54, L33 ("orelhas pontudas"); confirmar se "Vonos não traz mais ninguém" vale como canon fechado ou fica em aberto para o L2.
+
 ## 2026-11-27, fim da tarde (cap. 52: Bíblia como cartilha, Providência e o Inquiridor no diário)
 
 - Lore e sugestões do autor no chat: (1) Kraviam usava a Bíblia em português para **aprender a língua dos pais**; (2) a Bíblia estar em português, mesmo sendo ele americano, pode ser reconhecida por Mário como **sinal de Providência**; (3) em um trecho, Mário lê sobre o **Inquiridor que buscou Kraviam**, que pela descrição é o mesmo que buscou Mário.
