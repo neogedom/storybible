@@ -79,7 +79,7 @@ na Cidadela de Gus.
 
 ## Noite Escura (~75-80%)
 
-Mário lê a Bíblia e o diário de Kraviam. Reconhece a própria culpa, mas o reconhecimento não lhe dá um método para salvar alguém. Ao oferecer a Kraviam redenção e graça, vê que ele entende e recusa; Mário não abandona a teologia nem o testemunho, mas para de tratar o próximo argumento como garantia de conversão. Isso prepara a recusa da via estatal de Nolan e a aceitação do custo no Garfo.
+Mário lê a Bíblia e o diário de Kraviam. Reconhece a própria culpa, mas o reconhecimento não lhe dá um método para salvar alguém. Ao oferecer a Kraviam redenção e graça, vê que ele entende e recusa; Mário não abandona a teologia nem o testemunho, mas para de tratar o próximo argumento como garantia de conversão. Isso prepara a recusa da via estatal de Nolan e a aceitação do custo no Garfo. **Gradação (direção do autor, 2026-11-27):** a percepção da Providência no cap. 52 (a Bíblia em português na bolsa de um americano) é o primeiro degrau do reconhecimento da soberania de Deus e da abdicação do controle, e é o gatilho para Mário voltar a cantar "Mais perto quero estar"; a palavra muda de peso ao longo do capítulo, e a tese fica para o Garfo (`insights/l1-ato3-mario-reconhece-a-providencia-e-a-culpa-de-lucas.md`).
 
 ## Break Into 3 (~80%)
 

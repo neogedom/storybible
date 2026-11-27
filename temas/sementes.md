@@ -13,7 +13,7 @@ timestamp: 2026-11-27T12:00:00-03:00
 - **Plantio**: L1, cap. 27 (numeração nova; "cap. 26" na antiga) — Mário canta em português para Kate
 - **Beat novo (2026-09-09)**: em capítulo futuro do L1, **Kate pergunta o que ele cantou** — pagamento próximo da semente
 - **Executado (2026-09-11)**: o hino entrou no cap. 27 fechado — Kate ouviu, não perguntou; a pergunta segue pendente
-- **Germinação no L1 (aplicada em 2026-11-24, cap. 52 e cap. 63)**: Mário canta de novo, baixinho, na cela ("sem saber por quê"); Gunad ouve da porta, aprende o hino na cela (o sentido dito em ornickenho, a melodia em duas passadas) e o canta no Garfo (cap. 63, L33: aprendeu na véspera, da boca do condenado). Ver [a cena de Gunad](../insights/l1-cap52-gunad-ouve-o-evangelho-completo.md).
+- **Germinação no L1 (aplicada em 2026-11-24, cap. 52 e cap. 63)**: Mário canta de novo, baixinho, na cela ("sem saber por quê"; o gatilho, desde 2026-11-27, é a Providência, que volta no silêncio da Voz sem que ele tente usá-la, cap. 52, L69 e L71); Gunad ouve da porta, aprende o hino na cela (o sentido dito em ornickenho, a melodia em duas passadas) e o canta no Garfo (cap. 63, L33: aprendeu na véspera, da boca do condenado). Ver [a cena de Gunad](../insights/l1-cap52-gunad-ouve-o-evangelho-completo.md).
 - **Germinação**: L1, cap. 64 (Kate, debaixo do cadafalso, reconhece a melodia e entende a letra em ornickenho; decisão de 2026-11-25). L2 — Gunad canta nos becos, e Kate ouve de novo para perceber que Mário mudou
 - **Risco**: A cena do L1 precisa ser memorável para o leitor reconhecer no L2
 

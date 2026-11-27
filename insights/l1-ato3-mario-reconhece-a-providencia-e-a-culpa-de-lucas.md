@@ -5,7 +5,7 @@ description: Na noite do Garfo, Mário reconhece que a culpa pela morte de Lucas
 tags: [insight, L1, ato-3, mario, lucas, providencia, gunad, kraviam, hino, garfo, milagre, idioma, cap-52, cap-61, cap-63]
 destino: checkpoint de bloco (caps. 52 e 61 a 63 ainda não revisados); L2 (a lição que Mário esquece)
 status: em desenvolvimento; semáforo amarelo; decididos pelo autor (Lucas sem rosto; Gunad convertido); em aberto onde cai o reconhecimento
-timestamp: 2026-11-27T20:00:00-03:00
+timestamp: 2026-11-27T23:30:00-03:00
 ---
 
 # Ato 3: Mário reconhece a Providência e a culpa de Lucas
@@ -67,6 +67,19 @@ A ideia é a dobradiça. A mesma constatação ("nunca tive controle", "nunca fu
 - **Garfo, na noite (cap. 61 ou uma cena entre 61 e 63; o autor ainda não decidiu): reconhecer.** O cap. 61 já diz que a erudição lhe parece "infantil como brinquedos esquecidos no sótão"; a dor tira a fortaleza, e o acúmulo (Kraviam, o hino, o "nunca fui necessário") fecha na falta de controle como descanso. Ele entrega Lucas sem rosto, o rapaz da calçada e a manhã seguinte.
 - **Cap. 63:** o hino chega pela boca de Gunad, que o aprendeu na véspera, na cela, da boca do próprio Mário: o que ele deu volta a ele. Depois a Voz ("Eu Sou, Mário. Não temas..."), que dá presença, não resposta (Jó 38 a 42).
 - **Cap. 66:** a oração sem entender (2 Cr 20:12) paga o "precisava entender antes de agir".
+
+## A gradação da Providência (direção do autor, 2026-11-27)
+
+A percepção da Providência no cap. 52 é o **primeiro degrau** de uma gradação que leva Mário a reconhecer a **soberania absoluta de Deus** e a aprender que deve **abdicar do controle** (o Break Into 3 do Garfo). O reconhecimento é também o **gatilho** para ele voltar a cantar "Mais perto quero estar". A mesma palavra, "Providência", marca os degraus do cap. 52, cada vez com outro peso:
+
+1. **Cap. 52, L27: rótulo.** A Bíblia em português na bolsa de um americano que a lia como cartilha. A palavra "veio inteira e não o consolou": Mário a pensa como doutrina e lhe pede consolo.
+2. **Cap. 52, L33: a mesma mão.** O Inquiridor buscou os dois; um chegou quebrado, o outro inteiro (a Voz o conduziu, cap. 26, L167). O ombro lembra antes dele.
+3. **Cap. 52, L69 e L71: a palavra deixa de ser usada, e o canto vem.** No silêncio da Voz a palavra volta, "e desta vez ele não tentou usá-la" (o primeiro gesto contra a teologia como ferramenta, "manejar melhor minhas ferramentas", cap. 26). Logo depois, "em vez da resposta", a vontade de cantar. O canto segue "sem saber por quê", como decidido em 2026-11-17: o gatilho é visível ao leitor, e Mário não o liga.
+4. **Cap. 52, fecho (L139): peso.** Depois de "a pergunta chegara à cela antes dele" (a Providência na escala de uma pessoa, a de Gunad), a palavra "voltou pela terceira vez, e desta vez pesou". É o "antes dele" que rima com o da L27.
+5. **Garfo (caps. 61 a 63): reconhecer a soberania.** A dor tira a fortaleza; o acúmulo (Kraviam, o hino, "nunca fui necessário") fecha na falta de controle como descanso; o hino volta pela boca de Gunad; a Voz dá presença, não resposta.
+6. **Cap. 66: abdicar.** A oração sem entender paga o "precisava entender antes de agir".
+
+O cap. 52 **não** entrega a tese (a culpa de Lucas não era dele; a teologia não decide): só os degraus 1 a 4, sem fórmula, e a Voz segue muda. O risco 4 fica protegido porque a palavra muda de peso, e a conclusão não aparece.
 
 ## O que ele reconhece: formulação e limites
 
