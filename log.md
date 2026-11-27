@@ -4135,3 +4135,12 @@ devour}.md`, `lugares/saramant.md`, `conceitos/daerunmeges.md`, `index.md`.
 ## 2026-11-21 (correção ao Mini-INGEST do cap. 47)
 
 - A semente #32 **existe**: `temas/sementes.md`, seção 32 ("O Rapaz Curado dos Clãs"). A linha anterior dizia o contrário, e estava errada. A referência do inbox está certa. Corrigida a ficha do cap. 47.
+
+## 2026-11-26 (rodada 51, /fechar-rodada)
+
+- Cap. 51, decisões do autor aplicadas: saída ao amanhecer do Dia 107 e entrada de noite; três batelões de fundo chato; o batelão de Kate encalha num tronco submerso na travessia (proposta do autor, cartão 39); Lakand fala em forma híbrida; "Espadas de Fogo" vira "sentinelas de fogo", sem sangue.
+- Canon alterado: barbacã sai do texto (cap. 48: "torres avançadas dos portões"; caps. 51 e 65: "torres dos portões"; `lugares/metropole.md`); a quebra de vigilância do cap. 46 serve à subida, e a entrada vem antes da troca da guarda (cap. 46, L69); "cunhas" viram "calços" (caps. 41, 51, 60 e 62); as sentinelas são femininas no plural (caps. 46, 51 e 55); "cloaca" vira "arcada dos canais" (caps. 51 e 55).
+- Canon novo: o dardo da torre é aceso pela marca da Chama, com estopa e breu; sem fósforo e sem sangue (`personagens/mathias.md` sem alteração).
+- Adiados em `docs/handoff/pendencias-adiadas.md` (#6 e #7): Theodore no cap. 55, L11, e a perda concreta de Kate (item 6 do inbox).
+- Respostas do autor (2026-11-26): braças saem, com todas as medidas em metros (`decisoes/2026-11-26-medidas-em-metros.md`; cap. 27, 46, 51, 53, 57 e 60). Lakand em forma híbrida no cap. 55, L41, e no cap. 57, L7 ("garra" no lugar de "pata"). Cap. 51, L35: a rotação depende da troca de guarda, não do alarme. Respirações: mantidas, porque medem tempo dentro da cena.
+- Decisões de 26/11, depois das respostas: "vazia" cortada (cap. 51, L11; "De repente" mantido); marés no Cran, com o par de luas (`decisoes/2026-11-26-mares-no-cran.md`; `conceitos/cosmologia.md`); o círculo partido fica pago pela semente 34 (`temas/sementes.md`). Decidido depois, em 26/11: dia de 24 horas; amplitude de cerca de 1 m na cidade, com a foz a dois dias de barco rio abaixo (proposta, a confirmar); no L1 não há troca de estação (`decisoes/2026-11-26-dia-mare-e-frio.md`). Em aberto: ano e inclinação, para o L2.

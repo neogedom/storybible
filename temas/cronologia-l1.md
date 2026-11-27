@@ -45,7 +45,7 @@ timestamp: 2026-11-16T12:00:00-03:00
 | 30 a 31 | 43 a 46 | Ultimato; ataque a Gus na madrugada do Dia 31; plano | 43, L130; 45, L1 |
 | 31 | 47 | Marcha dos Clãs com Mário | "secando ao sol da tarde" (47, L3) |
 | 32 | 48, 49, 50, 52, 53, 54 | Nolan chega (aurora); Juleen (tarde); Mário chega (fim da tarde); a noite | 48, L1; 49, L41; 50, L3 |
-| 33 | 51, 55 a 61 | Kate entra pelos canais (madrugada); Conselho (manhã); Garfo (da tarde à noite) | 51, L3; 55, L43; 58, L3; 61, L11 |
+| 33 | 51, 55 a 61 | Kate entra pelos canais (noite, depois de um dia no rio); Conselho (manhã); Garfo (da tarde à noite) | 51, L3; 55, L43; 58, L3; 61, L11 |
 | 34 | 62 a 66 | Aurora sob o cadafalso; ao meio-dia, resgate, invasão e coroação | 62, L3; 63, L1 |
 | 34 em diante | epílogo | Sem âncora; Nolan e Kate em momentos diferentes | epílogo, L27 e L33 |
 
@@ -68,7 +68,7 @@ As demais marcas de "semanas" cabem em quatro a cinco semanas: castelo ardeu "se
 - **A2 (retirada em 2026-11-16).** A análise partiu de um cap. 48 que atribuía a ruína econômica (silos, dízimos a menos de um terço) à Mina, que desabou quatro dias antes. A main já reescrevera o capítulo (PR #15): a fome vem do "tesouro drenado em rituais, importações e equipamentos" do Rei (L31), os dízimos "do trimestre" caem por gasto dele (L95) e a Mina chega à capital como rumor (L109). O cap. 42 ainda diz que a notícia não chegara (L101), e a Mina a 46 dias do cap. 48 também cabe.
 - **A3 (média).** "Há três semanas" (49, L21) para o Tronk, que é de cerca de uma semana antes.
 - **A4 (média).** Lua crescente (43, Dia 30) e minguante (53 e 55, Dias 32 e 33); o rei fala em "lua cheia" (53, L17). Com duas luas pode ser uma de cada, mas o texto não diz. **Resolvida em 2026-11-16:** mesma fase, mês de 32 dias (ver a decisão 2).
-- **A5 (média).** Do outono (29, 35) ao inverno (49, 61) em cinco dias.
+- **A5 (média).** Do outono (29, 35) ao inverno (49, 61) em cinco dias. Resolvido em 2026-11-26: no L1 não há troca de estação; o frio aumenta (`decisoes/2026-11-26-dia-mare-e-frio.md`).
 - **A6 (média).** O final do cap. 59 (o cortejo) acontecia depois do fim do Conselho (60). **Resolvido em 2026-11-16:** os dois foram trocados. Ver [decisão da ordem dos caps. 47 e 48](/decisoes/2026-11-15-ordem-caps-47-48.md).
 - **A7 (baixa).** Cicatriz de Lakand "semanas antes" (43, L5), cerca de seis dias.
 - **A8 (baixa).** "Onze dias de estrada" (28, L149), mas Nolan chega à Mina em cerca de três (33).

@@ -152,6 +152,9 @@ Todas as entradas abaixo são documentos OKF com frontmatter YAML.
 - [Insights](insights/) — Ideias de brainstorming registradas automaticamente.
 - [Decisões](decisoes/) — Decisões formais tomadas ao longo do desenvolvimento.
 - [Rodada 50, cap. 50 (2026-11-25)](decisoes/2026-11-25-rodada-50-cap50.md) — Decisões do autor aplicadas nos caps. 1, 50 e 52; braças mantidas por POV (Kate e Nolan), inclusive cap. 27; reamarração dos pulsos aplicada; reação dos Clãs resolvida; trovão mantido.
+- [Medidas em metros para Kate e Nolan (2026-11-26)](decisoes/2026-11-26-medidas-em-metros.md) — O autor volta atrás das braças: todas as medidas do livro em metros, inclusive nos POVs de Kate e Nolan; supera a decisão de 25/11.
+- [Marés no Cran, com o par de luas (2026-11-26)](decisoes/2026-11-26-mares-no-cran.md) — Há marés em Ornick, causadas pelo par de luas e pelo Sol; a maré chega à Metrópole pelo Cran. Amplitude de cerca de 1 m na cidade; dia de 24 horas.
+- [Dia de 24 horas, amplitude da maré e estações no L1 (2026-11-26)](decisoes/2026-11-26-dia-mare-e-frio.md) — Dia de 24 horas; maré de cerca de 1 m na cidade (foz a dois dias de barco, proposta); no L1 não há troca de estação, o frio aumenta do outono ao inverno; ano e inclinação para o L2.
 - [Estratégia de Publicação do L1](decisoes/estrategia-publicacao-l1.md) — Escrever em privado → congelar canon → relançar serial + ebook → áudio por último → self-publish (2026-08-13).
 - [Regras de Áudio Minimax](decisoes/regras-audiochapter-acentuacao-ditongos.md) — Decisão sobre acentuação fonética de tritongos e extração rigorosa de narração (2026-07-27; correção 2026-08-06: só tritongos).
 - [Manto de Xilomagia de Tharin](decisoes/manto-xilomagia-tharin.md) — Chekhov's Gun recuperado no cap. 20; gatilho de ativação, carga finita, recarga por ritual de xilomago (canon 2026-08-14).

@@ -720,6 +720,7 @@ _Atualizar a cada INGEST de capítulo._
 - **Germinação (cap. 48):** Nolan o mostra a Koda: "É o tipo de metal que só uma nação com conhecimento avançado sobre metalurgia saberia fundir" (edição do autor, 2026-11-15, no lugar de "A lavra é a mesma dos diapasões que você mandou importar de Alavria"). Descreve uma nação "que já demonstrou no passado interesse sobre nossas terras" sem nomeá-la. Quem nomeia Alavria é **Koda** ("Alavria fica a semanas pelo mar"), e leva a mão ao colete, onde guarda os despachos do porto sul: ele se entrega sem ser acusado. O metal é **galvânico, não renanthao** (decisão do autor, 2026-11-14): sem a propriedade antimagia.
 - **Reforço:** a alusão de Nolan carrega a oferta antiga de Alavria na ocupação de Gondor, no Interregno, com o trono vazio (ajuda para expulsar os gondorianos em troca de o Reino virar província), recusada pelos Guenayer da época. A narração a explica em uma frase, em ponto de vista de Nolan.
 - **Payoff:** a confissão parcial de Koda (cap. 60) e a revelação das cargas e da vanguarda de Alavria (caps. finais).
+- **Círculo partido (2026-11-26):** a marca do fragmento (cap. 42) não tem pagamento próprio. Fica paga por esta semente: a confissão de Koda (cap. 60) e as cargas e a vanguarda de Alavria (caps. finais).
 - **Limite:** o fragmento não é prova; Nolan "guardou para si as conclusões sobre a reação de Koda".
 
 ## Sementes dos capítulos 34 a 38 (mini-INGEST refeito, 2026-11-12)
