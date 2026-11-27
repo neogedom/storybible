@@ -1,5 +1,14 @@
 # Log de Atualizações
 
+## 2026-11-27, madrugada (respostas do autor à lista de pendências: cortes, correções e Vonos)
+
+- **Cap. 52, fecho:** o autor mandou cortar "pela terceira vez"; o fecho diz "A palavra do começo da noite voltou, e desta vez pesou." (commit `5d90eef` do livro).
+- **Cap. 52, L21:** "Havia um nome na folha de rosto: Mark Kraviam." (commit `0222b00`).
+- **Cap. 49, L93:** "as mesmas letras" no lugar de "as mesmas palavras" (commit `aafa5f9`), porque o diário está em inglês e a Bíblia em português.
+- **Canon fechado:** "Vonos não traz mais ninguém da Terra". A capacidade de atravessar é só do Inquiridor da cicatriz do lábio, morto no cap. 30; Kraviam e Mário são os dois únicos terráqueos trazidos. Atualizados `personagens/inquiridor.md`, `conceitos/{vonos,inquiridores-sinal}.md`, `capitulos/capitulo-30.md`, `temas/sementes.md` e `index.md` (a formulação "pode" saiu).
+- Atualizados também `decisoes/2026-11-27-cap52-comentarios-em-lote.md` (itens 4, 5 e 7 resolvidos) e os dois insights que citavam o "pela terceira vez".
+- **Em aberto:** o problema da L19 (a conta da época, alerta A12). O autor pediu ajuda para resolver; opções e recomendação no chat.
+
 ## 2026-11-27, madrugada (cap. 54, L33: "gentalha de pele fria")
 
 - O autor mandou corrigir a linha que eu tinha sinalizado: no cap. 54, L33, Kraviam dizia "gentalha de orelhas pontudas e ferreiros ignorantes", o que contradiz a regra de 2026-11-27 (leviantares não têm orelhas pontudas; a única diferença perceptível é que os humanos são mais quentes). Passou a "gentalha de pele fria e ferreiros ignorantes" (commit `bc619f8` do livro), que casa com o "cooler to the touch" do diário do cap. 52. Era a única linha do livro com orelhas pontudas para leviantares; as de Lakand (caps. 43 e 60) são de lobo e ficam.

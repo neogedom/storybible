@@ -75,7 +75,7 @@ A percepção da Providência no cap. 52 é o **primeiro degrau** de uma gradaç
 1. **Cap. 52, L27: rótulo.** A Bíblia em português na bolsa de um americano que a lia como cartilha. A palavra "veio inteira e não o consolou": Mário a pensa como doutrina e lhe pede consolo.
 2. **Cap. 52, L33: a mesma mão.** O Inquiridor buscou os dois; um chegou quebrado, o outro inteiro (a Voz o conduziu, cap. 26, L167). O ombro lembra antes dele.
 3. **Cap. 52, L69 e L71: a palavra deixa de ser usada, e o canto vem.** No silêncio da Voz a palavra volta, "e desta vez ele não tentou usá-la" (o primeiro gesto contra a teologia como ferramenta, "manejar melhor minhas ferramentas", cap. 26). Logo depois, "em vez da resposta", a vontade de cantar. O canto segue "sem saber por quê", como decidido em 2026-11-17: o gatilho é visível ao leitor, e Mário não o liga.
-4. **Cap. 52, fecho (L139): peso.** Depois de "a pergunta chegara à cela antes dele" (a Providência na escala de uma pessoa, a de Gunad), a palavra "voltou pela terceira vez, e desta vez pesou". É o "antes dele" que rima com o da L27.
+4. **Cap. 52, fecho (L139): peso.** Depois de "a pergunta chegara à cela antes dele" (a Providência na escala de uma pessoa, a de Gunad), a palavra "voltou, e desta vez pesou" (o autor cortou o "pela terceira vez", em 2026-11-27, por soar mecânico). É o "antes dele" que rima com o da L27.
 5. **Garfo (caps. 61 a 63): reconhecer a soberania.** A dor tira a fortaleza; o acúmulo (Kraviam, o hino, "nunca fui necessário") fecha na falta de controle como descanso; o hino volta pela boca de Gunad; a Voz dá presença, não resposta.
 6. **Cap. 66: abdicar.** A oração sem entender paga o "precisava entender antes de agir".
 
