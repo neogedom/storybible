@@ -52,7 +52,8 @@ de Quartzo** (Metrópole). Dentro de Ornick, a entrega é precisa.
 **Cross-mundo (Terra→Ornick), o destino é impreciso e aleatório**: você cai
 "em algum lugar da jurisdição", não no ponto exato. **Kraviam (falso
 Souhma) e Mário (Souhma real) vieram pelo MESMO mecanismo** (correção
-2026-08-10): Kraviam caiu perto da região da Metrópole por coincidência —
+2026-08-10; e pelo mesmo Inquiridor, o da cicatriz do lábio, canon de
+2026-11-27 — cap. 52, diário de Kraviam): Kraviam caiu perto da região da Metrópole por coincidência —
 favorável ao plano de Vonos; Mário caiu em Opium (borda de Saramant), e a
 frequência dele, ao ocupar o canal do Sinal, tornou a entrega ainda mais
 instável (e derrubou o Sinal — ver prólogo).

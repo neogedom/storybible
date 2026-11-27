@@ -124,6 +124,9 @@ coisa do capítulo: **a fome.** Ela nomeia como corpo, nunca como causa.
 - **A fala que o define:** *"A senhora é rápida. Mas eu não preciso acertar a
   senhora andando. Preciso acertar a senhora uma vez."*
 - **Ele é o da cicatriz do lábio** — a âncora reservada desde 2026-09-09.
+- **A "mesma rotina há anos" ganhou trinta (2026-11-27, cap. 52):** o diário de
+  Kraviam o mostra buscando Kraviam na Terra, no início do século XXI, antes de
+  buscar Mário. Ele morre aqui sem que ninguém, nem Kate, saiba disso.
 
 ### Gaviorn'l (morre)
 
