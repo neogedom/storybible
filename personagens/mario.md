@@ -53,6 +53,10 @@ Ver timeline visual completa em [visuais/mario.md](/visuais/mario.md).
 - **Mário é terráqueo**: morador de **Goiânia (GO, Brasil), século XXI**.
   Jovem urbano brasileiro — a BASE da voz é coloquial moderna: humor seco,
   autoconsciência, referências contemporâneas (Terra) no pensamento.
+- **Lê inglês sem dificuldade** (decisão do autor, 2026-11-27): jovem de
+  classe média alta, com curso de idiomas. O inglês do diário de Kraviam (cap.
+  52) não é obstáculo, e a narração pode dizê-lo ("o inglês, ao menos, ele lia
+  sem tropeço").
 - **Registros treinados (não são prosa de época)**: Mário é **acadêmico de
   direito** e teologicamente bem instruído na tradição **reformada**. Quando
   argumenta (debate, teologia, justiça), sobe de registro — fala com
