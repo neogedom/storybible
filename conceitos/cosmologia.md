@@ -66,6 +66,15 @@ desenhada para dar ordem a Ornick: longevos, racionais, com **poderes de
 linha elemental** embutidos no projeto (daí as linhagens elementais, ex:
 Addorbek = fogo). O **gnock** é a atrofia dessa herança: leviantar nascido
 sem o poder.
+
+**Como distinguir um leviantar de um humano (lore do autor, 2026-11-27):**
+leviantares **não têm orelhas pontudas**, e a única diferença perceptível em
+relação aos humanos é que os humanos são **mais quentes** ao toque. Depois que a
+Segregação foi instituída, as **roupas** passaram a distinguir os dois grupos
+também (antes disso, e nos primeiros anos de Kraviam em Ornick, não havia essa
+marca). A prova mais segura é pedir ao avaliado um **truque elemental**, mas é
+uma métrica **falha**: os **gnocks** (leviantares sem poder) falham no teste, e
+há leviantares que ainda **não aprenderam** truques.
 **Poder elemental (canon 2026-08-12):** todo leviantar consegue alguma
 manifestação do seu elemento, mas ser realmente bom exige **treino árduo ou
 capacidade genética privilegiada** — modelo análogo ao humano (predisposição

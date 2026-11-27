@@ -46,7 +46,7 @@ aprendizado, o verdadeiro por dom.
 - **Estrutura**: Imponente, postura de quem se acredita um deus
 - **Rosto**: Belos traços, mas marcados por ansiedade latente sob os olhos
 - **Cabelo**: Estilizado, digno de realeza
-- **Traço marcante**: Ausência de aura leviantar (é humano, embora finja)
+- **Traço marcante**: Ausência de aura leviantar (é humano, embora finja); ao toque, é mais quente que um leviantar, a única diferença física perceptível (regra do autor, 2026-11-27, `conceitos/cosmologia.md`)
 - **Olhar**: Frequentemente focado no vazio, massageando as têmporas (ansiedade)
 
 Ver timeline visual completa em [visuais/genocydo.md](/visuais/genocydo.md).
