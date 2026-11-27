@@ -126,7 +126,10 @@ coisa do capítulo: **a fome.** Ela nomeia como corpo, nunca como causa.
 - **Ele é o da cicatriz do lábio** — a âncora reservada desde 2026-09-09.
 - **A "mesma rotina há anos" ganhou trinta (2026-11-27, cap. 52):** o diário de
   Kraviam o mostra buscando Kraviam na Terra, no início do século XXI, antes de
-  buscar Mário. Ele morre aqui sem que ninguém, nem Kate, saiba disso.
+  buscar Mário. Ele morre aqui sem que ninguém, nem Kate, saiba o que isso
+  custa: com a morte dele, Vonos não traz mais ninguém da Terra (lore do autor,
+  2026-11-27, formulada como "pode": a capacidade de atravessar entre os mundos
+  pode ser só dele).
 
 ### Gaviorn'l (morre)
 

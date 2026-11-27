@@ -58,6 +58,13 @@ favorável ao plano de Vonos; Mário caiu em Opium (borda de Saramant), e a
 frequência dele, ao ocupar o canal do Sinal, tornou a entrega ainda mais
 instável (e derrubou o Sinal — ver prólogo).
 
+**Só um Inquiridor atravessa (lore do autor, 2026-11-27, formulada como
+"pode"):** dentro de Ornick qualquer Inquiridor de custódia usa o revólver, mas
+a travessia **Terra→Ornick** pode ser capacidade específica do Inquiridor da
+cicatriz do lábio, o "vetor burocrático" dos caps. 2 e 3. Ele morre no cap. 30;
+com a morte dele, Vonos não traz mais ninguém da Terra, e Kraviam e Mário são os
+dois únicos (`personagens/inquiridor.md`, `conceitos/vonos.md`).
+
 ### A marca e a âncora local (canon 2026-10-04 — cap. 30)
 
 **O revólver não mata: ele ENTREGA.** Quem mata é o **lugar** onde a entrega
